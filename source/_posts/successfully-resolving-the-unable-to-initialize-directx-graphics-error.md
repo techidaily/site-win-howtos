@@ -1,7 +1,7 @@
 ---
 title: Successfully Resolving the 'Unable to Initialize DirectX Graphics' Error
-date: 2024-08-07 23:38:57
-updated: 2024-08-09 10:10:20
+date: 2024-08-09T01:01:10.479Z
+updated: 2024-08-10T01:01:10.479Z
 tags:
   - win11
   - win10
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ## Dragon Ball FighterZ Connectivity Issue - Successfully Resolved
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap74.jpg)
 
  Many people have reported an error “**Failed to initialize network** ” in**Dragon Ball FighterZ** , which causes the game unplayable. This is so frustrating, as you don’t know what you’ve done to cause the error.
 
  But don’t worry. There’s something you can do to fix**Dragon Ball FighterZ failed to initialize network** in your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why does the error occur to my computer?
 
  In various situations you’ll see the error “**Failed to initialize network** “. So you’ll need to troubleshoot first to identify the cause of your problem.
@@ -60,12 +66,19 @@ Here’s what you can do:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to bring the Settings application.
 2. Click**Network & Internet** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b301a7d95.jpg)
 3. Scroll down and click**Network reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3266bfa6.jpg)
 4. Click**Reset now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b342f0b4a.jpg)
 5. Click**Yes** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b374a7f94.jpg)
 6. Follow the on-screen instructions to finish the reset.
 7. Restart your computer, and connect to your WiFi or Ethernet, then open Dragon Ball FighterZ and see if it works.
@@ -73,11 +86,20 @@ Here’s what you can do:
 **If you’re using Windows 8 and Windows 7:**
 
 1. Type**cmd** in the search box on your desktop, right click **cmd**  and select**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3bdbe2fe.jpg)
 2. Type the following command in cmd and press**Enter** on your keyboard.  
 _**netsh winsock reset**_  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b406867ca.jpg)
 3. Wait for the command to run through the reset. Once complete, you’ll see something like “**Winsock reset completed successfully** “.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b42e5dfce.jpg)
 4. Exit cmd and restart your computer to finish.
 5. After restarting, launch Dragon Ball FighterZ and see if it works.
@@ -100,6 +122,9 @@ OR
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b4975a0ab.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
@@ -116,6 +141,9 @@ Still no luck? Okay, there’s one more thing to try.
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to bring the Settings application.
 2. Click**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b506bbbf3.jpg)
 3. Click**Check for updates** .
 4. Click**Download** to download any available updates.  

@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for Frequent Reboots on Windows 11 - A Step-by-Step Guide
-date: 2024-08-08 10:45:32
-updated: 2024-08-09 12:35:25
+date: 2024-08-09T01:01:49.109Z
+updated: 2024-08-10T01:01:49.109Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 
 Your Windows 7 computer takes forever to boot? Don’t panic! Here are 6 methods to speed up your PC’s boot time. Check it out…
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
 You may not have to try them all; just choose the one you need.
@@ -28,6 +31,9 @@ You may not have to try them all; just choose the one you need.
 5. **[Add more RAM](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install an SSD](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 1: Remove your peripherals
 
  If you connect multiple peripherals to your computer, chances are that one of them is preventing your PC to boot normally. To see if that’s the problem for you, turn off your PC and disconnect all peripherals (your printer, scanner, USB drive, etc.), then turn on your PC again to test your issue.
@@ -42,10 +48,16 @@ If your problem persists, then move on and try the next fix.
 
 **1)**  On your keyboard, press the **Windows logo** key and type **msconfig** . Then, select **msconfig** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-08.jpg)
 
 **2)** Click **Startup.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-19.jpg)
 
 **3)** Uncheck the box next to the program that you don’t need to launch automatically at startup.
@@ -76,6 +88,9 @@ If your issue continues to occur, then move on and try the fix below.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
 
 **3)** Click the **Update button** next to the driver you need to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -96,6 +111,9 @@ If your issue continues to occur, then move on and try the fix below.
 
 **2)**  Run **Malwarebytes,** and then click **Scan Now**  to start scanning your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-37-29-1024x641.jpg)
 
 **3)** Wait for the process to be complete. Malwarebytes will remove any malware if it spots any.
@@ -108,6 +126,9 @@ If your issue continues to occur, then move on and try the fix below.
 
  Adding RAM requires advanced computer skills. If you’re not comfortable doing that on your own, you can take your computer to a near repair store and seek professional help.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Solution 6: Install an SSD
 
  SSD is short for Solid State Drive, which can read and write the data much faster than the conventional HDD (Hard Disk Drives). Compared to a hard drive, an SSD will not only increase your PC’s boot time but also enable it to respond much faster.

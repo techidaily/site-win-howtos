@@ -1,7 +1,7 @@
 ---
 title: Easy Troubleshooting Steps When Facing a Blocked Windows Install
-date: 2024-08-08 17:14:42
-updated: 2024-08-09 11:44:29
+date: 2024-08-09T01:01:23.277Z
+updated: 2024-08-10T01:01:23.277Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 ## Recover Lost Taskbar Icons in Windows 10 with These Easy Troubleshooting Tips
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap173.png)
 
  Can’t find taskbar icons on your Windows desktop? That could be super frustrating. But don’t worry. Certainly you’re not the only one. Luckily, we’ve found the answer for you. Read on and see how to solve your**missing taskbar or missing taskbar icons** issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Unhide the taskbar on your desktop](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,13 +34,23 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Note: The screenshots below are from Windows 10, but the solutions are also available for other Windows versions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Solution 1: Unhide the taskbar on your desktop
 
  If you don’t see the taskbar on your desktop, probably it’s hide. Follow to unhide your taskbar:
 
 1. On your keyboard, hold down the**Windows logo key** , then press**R** to bring up the Run box.
 2. Type**control** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba365dec828d.png)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 3. Click**Taskbar and Navigation** when**View by Large icons** selected. (If you’re using Windows 7, select T**askbar and Start Menu** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3661b238a4.jpg)
 4. Toggle off**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** . (If you’re using Windows 7 or 8.1, toggle off**Auto-hide the taskbar** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba36668f33fb.jpg)
 
@@ -48,6 +64,9 @@ Here’s how you can do it:
 
 1. On your keyboard, press the**Windows logo key** to bring up the Start menu.
 2. Type**cmd** , then right-click on**Command Prompt** from the pop-up result. Select**Run as administrator** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3672990aa6.jpg)
 3. Type the following command and press**Enter** .
 

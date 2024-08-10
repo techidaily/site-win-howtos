@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Your Surface Is on and Still Not Charging"
-date: 2024-08-07 15:49:51
-updated: 2024-08-09 11:56:59
+date: 2024-08-09T01:01:27.432Z
+updated: 2024-08-10T01:01:27.432Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  PlayerUnknown’s Battlegrounds (PUBG) has been a blockbuster among battle royale games since 2017\. Boasting a large number of players, this game has done its best to bring a frisson of excitement to everyone except for a few game errors such as PUBG not launching/starting. If you are having this PUBG-not-launching issue, don’t lose your heart so soon – here we’ll provide you with 6 fixes that prove to be useful.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix PUBG not launching
 
  Causes of the PUBG-not-launching issue vary from one to another. Sometimes it is the game’s new update that triggers the problem; sometimes there may be a software conflict lurking in your computer; and sometimes the out-dated and missing files in your game or other Microsoft programs should be blame for the inconvenience. Whatever the reason is, you should try out the fixes we mention here and see whether that gets you out of trouble.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run system file checker
 
  Missing or damaged system files may lead to your PUBG-not-launching issue. If that’s the case, you can use the system file checker tool of Windows to check for any file corruption and thereby repair it.
@@ -55,6 +61,9 @@ sfc /scannow
 
  After you finish typing the command, hit**Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
 4) Wait for the verification to complete.
@@ -78,6 +87,9 @@ sfc /scannow
 
  This method can be applied to all the steam games so please don’t be surprised if there’s no PUBG in the following screenshots. Just make sure you perform all these actions on your PUBG game.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-445.png)
 
  3) Go to the**LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
@@ -92,6 +104,9 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### **Fix 3: Repair or install the 2017 Visual C++ Redistributable**
 
  To repair and install the 2017 Visual C++ Redistributable, you should complete the following procedure:
@@ -100,10 +115,16 @@ sfc /scannow
 
  First of all, log in Steam and click**LIBRARY** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
  2) Right-click on**PUBG** and then click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-448.png)
 
  3) On the next page, go to the**LOCAL FILES** tab. Next, click **BROWSE LOCAL FILES…** .
@@ -114,6 +135,9 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-471.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-469.png)
 
 ![This image has an empty alt attribute; its file name is image-473.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-473.png)
@@ -123,6 +147,9 @@ sfc /scannow
 
  5) Double-click**vc\_redist.x64** to invoke the setup wizard.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-474.png)
 
  6) Select**Repair** and follow the onscreen instructions to repair your 2017 Visual C++ Redistributable. Wait for the process to finish, and then launch PUBG to check if it has gone back to normal. If yes, then congrats – you’ve solved the problem!
@@ -135,12 +162,18 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable unsupported programs
 
  Unsupported programs are among the most common causes of games-not-launching issues. This is also true with PUBG. To solve the problem, you need to remove or disable any programs unrelated to the game, and even turn off your antivirus temporarily.
 
  1) On your keyboard, press the **Windows Logo key** and **R** at the same time to invoke the Run dialog box. Type in **taskmgr** and hit **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
  2) Select the**Processes** tab. Right-click on the program that needs to be ended and click**End task** . If you don’t know which program should be shut down, simply close all the background running apps that you think are unnecessary.**Note** that you shouldn’t end any processes that you’re not familiar with in case you mistakenly close the important ones.
@@ -161,6 +194,9 @@ If this didn’t help, please try out the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Fix 5: Update your device drivers**
 
  Make sure you have the latest drivers for your PC components (such as CPU, GPU, and audio). Sometimes PUBG may fail to be launched because of an out-dated or corrupt driver, which is so inconspicuous that you may not even notice it until the problem occurs. If that’s the case, try to update your device drivers periodically.
@@ -181,6 +217,15 @@ If this didn’t help, please try out the next fix.
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-97.png)
 
  If you have any problems when using Driver Easy, please feel free to drop us an email at <support@drivereasy.com>. We are always here if we can help.
@@ -203,6 +248,9 @@ If this didn’t help, please try out the next fix.
 
  3) Right-click on PUBG and click**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-481.png)
 
 4) Follow the on-screen instructions to uninstall PUBG.

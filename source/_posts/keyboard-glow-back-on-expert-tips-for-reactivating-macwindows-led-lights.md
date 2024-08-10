@@ -1,7 +1,7 @@
 ---
 title: Keyboard Glow Back On? Expert Tips for Reactivating Mac/Windows LED Lights
-date: 2024-08-08 16:46:16
-updated: 2024-08-09 11:58:54
+date: 2024-08-09T01:01:28.271Z
+updated: 2024-08-10T01:01:28.271Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
  **Solution 2:[Reinstall your keyboard](#solution2)**
  **Solution 3:[Update your keyboard driver \[Recommended\]](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Solution 1: Turn off the Sticky Keys and the Filter Keys feature
 
  Sticky Keys and Filter keys are two accessibility functions in the Windows operating system. Sticky Keys allows you to press one key at a time for keyboard shortcuts; Filter Keys tells the keyboard to ignore your brief or repeated keystrokes. If these two keyboard functions are enabled, sometimes your backspace key cannot work fine.
@@ -37,10 +40,17 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  1) Type**ease** in the search box from Start. Then click **Ease of Access keyboard settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0677fb8600d.png)
 
  2) Make sure the status of Sticky Keys and Filter Keys are all set to **Off** . If you see **On** , switch to **Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a067818b6a47.jpg)
 
 #### Windows 11
@@ -49,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 2. Select**Accessibility** on the left panel, then scroll down the list on the right and click**Keyboard** under the Interaction section.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key1.jpg)
 3. Under the Sticky, Filter, and Toggle keys section, make sure the status of**Sticky Keys** and**Filter Keys** are all set to **Off** . If you see On, switch to Off.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
@@ -61,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
 Follow these:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/win-key-1.png)**  and **R**  at the same time to invoke the Run box.
 
  2) Type **devmgmt.msc**  and press **Enter** .
@@ -73,6 +89,9 @@ Follow these:
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Solution 3: Update your keyboard driver
 
  The solutions above could solve your problem, but if they don’t, please update your keyboard driver. Because a corrupted, wrong or missing keyboard driver could make your backspace key not function.

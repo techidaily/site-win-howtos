@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Microsoft Store That Won't Start Up
-date: 2024-08-08 10:18:36
-updated: 2024-08-09 10:24:18
+date: 2024-08-09T01:01:06.560Z
+updated: 2024-08-10T01:01:06.560Z
 tags:
   - win11
   - win10
@@ -20,6 +20,9 @@ Whether you receive an error message saying “Your computer was unable to start
 * [Error message from Startup: Your computer was unable to start](https://tools.techidaily.com/drivereasy/download/)
 * [Your computer was unable to start](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Error message from Startup
 
  If you see receive the message saying “Your computer was unable to start. Startup Repair is checking your system for problems”, you may drown into an endless loop. Don’t worry, you’re not alone. This problem should be easy to fix.
@@ -34,10 +37,16 @@ Whether you receive an error message saying “Your computer was unable to start
 4. [Restore your system](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1:[Boot to safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  When your computer has problems, it’s always a good idea to[enter the safe mode](https://tools.techidaily.com/drivereasy/download/) to trigger the reason for this issue. Safe Mode is the mode that loads with a minimum set of drivers, software, and service. It’s used for troubleshooting the problem so that you can find the reason for the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Repair corrupted system files
 
  This “Your computer was unable to start” error may be related to system files. When the system files were broken or corrupted, it may cause this issue. There’re ways to solve it:
@@ -59,6 +68,9 @@ Whether you receive an error message saying “Your computer was unable to start
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -84,6 +96,9 @@ Whether you receive an error message saying “Your computer was unable to start
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Launch Startup Repair
 
  If your computer system is Windows 8 or higher, you can use Startup Repair to fix this problem. This tool will scan your computer and fix the problem automatically when finding it.
@@ -106,10 +121,16 @@ Whether you receive an error message saying “Your computer was unable to start
 
 5) Click Startup Repair.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/repair.jpg)
 
 6) Wait for the tool to finish the process and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Restore your system
 
  If you can’t figure out the reason for this “unable to start” issue, you can restore your system back to a previous restore point. This will roll back all the device drivers and software updates to the condition when you created the restore point.
@@ -118,10 +139,16 @@ Whether you receive an error message saying “Your computer was unable to start
 
  1) On your keyboard, press the**Windows logo key + Pause** key together, then click**System protection** .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap818-1-1024x665.jpg)
 
  2) Click**System Restore** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap817-1.jpg)
 
  3) Click**Next** and it will open the below window.  
@@ -131,6 +158,9 @@ Whether you receive an error message saying “Your computer was unable to start
 
 Restart your computer to check the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5:**Reset or reinstall Windows**
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.
@@ -147,6 +177,9 @@ Restart your computer to check the issue is solved or not.
 2. [Corrupted system](https://tools.techidaily.com/drivereasy/download/)
 3. [Hardware issue](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Fix 1: Check your power supply
 
  No matter what computer you’re using, a PC or a Mac when you couldn’t launch your computer, check the power supply first. Ensure that your computer has power. Check your PC has plugged into its socket firmly. If you’re using a laptop or Macbook, plug it in and power it up.

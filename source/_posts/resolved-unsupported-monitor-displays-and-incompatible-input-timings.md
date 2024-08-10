@@ -1,7 +1,7 @@
 ---
 title: Resolved! Unsupported Monitor Displays & Incompatible Input Timings
-date: 2024-08-08 20:17:55
-updated: 2024-08-09 11:55:52
+date: 2024-08-09T01:01:15.640Z
+updated: 2024-08-10T01:01:15.640Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 2. **[Reset WoW User Interface](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Make sure your PC meets the minimum specifications](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  It is very likely that the drivers you’ve installed on your computer are corrupt, outdated or in other ways incompatible. So you should update your drivers to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -39,6 +42,9 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver.png)  
@@ -46,6 +52,9 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 4. Remember to restart your computer for the changes to take effect.
 5. Launch WoW to see if the error is fixed. If yes, then congrats! If it still pops up, please try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Reset WoW User Interface
 
  It is possible that the display and interface settings are corrupt, causing the Your device driver is not compatible error. If this is the case, you should reset the user interface in WoW.
@@ -55,6 +64,9 @@ Here’s how to do it:
 1. Exit World of Warcraft.
 2. If you have any addon managers, please uninstall to make sure they don’t re-add the removed addons.
 3. In Battle.net, click **Options** and select **Show in Explorer** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-4.png)
 4. Exit **Blizzard.net** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
@@ -66,6 +78,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Fix 3: Make sure your PC meets the minimum specifications
 
  If you have tried the above fixes but none seems to work, it’s perhaps worth considering whether or not your PC is equipped to play the game.
@@ -85,6 +101,9 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
 4. Close DirectX.

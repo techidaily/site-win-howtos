@@ -1,7 +1,7 @@
 ---
 title: Bringing Life Back to Darkened Mac & Windows Keyboards – Fixes Inside
-date: 2024-08-08 16:41:38
-updated: 2024-08-09 11:28:31
+date: 2024-08-09T01:01:22.801Z
+updated: 2024-08-10T01:01:22.801Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ Keyboard backlight not working is a common problem which can happen on Windows o
 2. [Control the Key Backlighting manually](https://tools.techidaily.com/drivereasy/download/)
 3. [Contact customer service](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Adjust the light sensor
 
  Mac has a light sensor located on the top of your Macbook screen. In some situation, direct lighting, bright lights such as sunlight directly on the light sensor can cause the illumination indicator and controls become locked. This feature is aimed to disable the backlighting when it’s not needed.
@@ -35,6 +38,9 @@ Keyboard backlight not working is a common problem which can happen on Windows o
 
  Check your keyboard again, if it doesn’t work, you can move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Method 2: Adjust keyboard brightness
 
  For Mac, you might have unintentionally set the light to 0\. To solve it, you can adjust the keyboard brightness in the settings.
@@ -49,13 +55,22 @@ Here’s how:
 3. Choose**Keyboard** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-1.jpg)
 4. Uncheck**Adjust keyboard brightness in low light** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/mackeyboard.jpg)
 5. Use the**F1** and**F2** keys to manually control the keyboard lighting level.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Contact customer service
 
  If the above methods can’t fix this issue, you’d better contact AppleCare for help. The problem may be caused by a hardware issue.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## For Windows
 
  There are different PC using the Windows system. The reason for the keyboard backlight not working may be various, but there are some common reason and common fixes you can try.
@@ -101,6 +116,9 @@ Here’s how:
 
 1. Go to[ASUS official download page](https://www.asus.com/support/Download-Center/) .
 2. Enter your model name and search or select the product in the drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/asus.jpg)
 3. Click**Driver & Utility** .
 4. Select the operating system you’re using and then find the driver you need in the below menus.  
@@ -126,6 +144,9 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/atk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for keyboard maintenance
 
  1\. Try not to eat, smoke or drink on top of the keyboard to keep it clean.

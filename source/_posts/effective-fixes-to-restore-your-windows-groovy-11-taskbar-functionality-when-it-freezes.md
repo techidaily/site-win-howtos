@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes to Restore Your Windows Groovy 11 Taskbar Functionality When It Freezes
-date: 2024-08-06 10:12:42
-updated: 2024-08-09 12:44:51
+date: 2024-08-09T01:01:43.494Z
+updated: 2024-08-10T01:01:43.494Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 
 ## 5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-10.jpg)
 
  Since Windows 10 is more and more widely used, more and more problems on the system occur as users reported.**Taskbar frozen** is one of the many issues on Windows 10\. If taskbar frozen, you just cannot use it at all, no start menu, no icon… And also when you use some shortcut like Windows + X or Windows + R, your Windows 10 won’t respond. It’s such an annoying problem though, you still can solve it with the tried-and-true fixes we’re going to show you.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 
  2) Scroll down on **Process**  panel. Find and highlight **Windows Explorer** . Then click **Restart**  at bottom right.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-10.jpg)
 
  3) Now your Windows Explorer will start again. Try to access Taskbar on your Windows 10 now.
@@ -35,14 +41,23 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 
  2) Click **File**  \> **Run a new task** . Then type**explorer**  in the pop-up box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-1.png)
 
  3) Now File Explorer is open. Head to **C: \\ Windows \\ System32** . Then scroll down on System32 folder to find and right-click on **cmd.exe** . Choose **Run as administrator**  and click **Yes**  when prompted by User Account Control.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-12.jpg)
 
  4) Type **sfc /scannow**  on the command prompt window showing up to you.Then press **Enter** key to run it. Wait till Verification 100% complete.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-3.jpg)
 
  **Fix 3\. Run DISM Image Management Command**
@@ -54,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
  2) Type **Dism /Online /Cleanup-Image /RestoreHealth**  in the command prompt window.  
  Press **Enter**  to run it. Wait till operation 100% complete.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-8.jpg)
 
  That’s it. Hope you can get your taskbar work again with the help of this post.  

@@ -1,7 +1,7 @@
 ---
 title: Cracking Down on Error Code 0X80072EE7 in Your Windows Store
-date: 2024-08-07 16:36:51
-updated: 2024-08-09 10:13:27
+date: 2024-08-09T01:01:07.526Z
+updated: 2024-08-10T01:01:07.526Z
 tags:
   - win11
   - win10
@@ -19,16 +19,25 @@ If you are having problem making your scroll bar scroll to position other than t
   
 Let me be more clear to see if the description fits your situation: you open a folder in your**File Explorer**, let say, to see the pictures. After you finish viewing the first screen of the pictures, you want to scroll down a little bit to see more, but you find the scroll bar on the side won’t budge, it just keeps jumping to the top position no matter how many times you roll your mouse wheel.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/scroll-bar-keeps-on-top.jpg)
 
 To solve this problem, you just need to do the following moves.
   
 1) Follow the path:**Start**button**\> Settings > Personalization**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-settings-personalization-600x444.jpg)
 
 2) On the left side of the pane, choose**Colors**, and the on the right side of the pane, make sure the option**Automatically pick and accent color from my background**option is slide to **Off**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/automatically-pick-and-accent-color-from-my-background.jpg)
 
 There you go, problem solved.

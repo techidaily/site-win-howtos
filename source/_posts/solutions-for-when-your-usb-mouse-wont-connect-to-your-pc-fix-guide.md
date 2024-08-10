@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your USB Mouse Won't Connect to Your PC – Fix Guide
-date: 2024-08-06 20:39:29
-updated: 2024-08-09 12:40:14
+date: 2024-08-09T01:01:37.111Z
+updated: 2024-08-10T01:01:37.111Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
  4) On your device, reconnect to your WiFi network.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### **Step 2: Check if the WiFi signal is blocked to fix WiFi not working**
 
  As we all know: the weaker your WiFi signal is, the worse your WiFi is working. So please pay attention if there is anything that may prevent your WiFi signal from being connected. You can check the possible conditions below:
@@ -93,6 +96,9 @@ netsh wlan show drivers
 
 3) You can see the frequency shown in the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a39df6e29286.png)
 
  **If your devices can only work with 2.4 GHz frequency, you are very likely to have the network congestion issue, so you can change the WiFi channel to solve your problem** . And there are only 11 channels available to choose. Among these, only channel 1, 6, 11 are most commonly used.
@@ -107,6 +113,10 @@ netsh wlan show drivers
 
  3) Type your**Username** and**Password** , and click**Login** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3760447c1ad.png)
 
  4) Go to**Wireless** and click**Wireless 2.4 GHz** or**Wireless 5 GHz** , and**change Channel** to a less-crowded one.
@@ -119,6 +129,10 @@ netsh wlan show drivers
 
  If your WiFi works on other devices, but not on your Windows, you can try checking these methods below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### **Method 1: Enable WiFi service to fix WiFi not working**
 
  This problem occurs most likely because your Windows disables the WiFi service. So you can check the WiFi settings on your Windows.
@@ -129,16 +143,25 @@ netsh wlan show drivers
 
 1) Right click the **Internet icon** , and click **Open Network and Sharing Center** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59eda233aeeaa.png)
 
 2) Click **Change adapter settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3760bf8ebf5.png)
 
 3) Right click **WiFi** (also referred to **Wireless Network Connection**  in different computers) , and click **Enable** .
 
 **Note** : If it has enabled, you will see **Disable** when right click **WiFi**  (also referred to **Wireless Network Connection**  in different computers).
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378b1249f89.jpg)
 
  4) Restart your Windows and reconnect to your WiFi again.
@@ -149,10 +172,17 @@ netsh wlan show drivers
 
  1) On your keyboard, press the **Windows logo key** **\+ R**  at the same time to invoke the Run box, and type **services.msc** , then press **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e577bc99f89.png)
 
  2) Scroll down and right click**WLAN AutoConfig** (if you are using Windows XP, right click**Wireless Configuration** ), and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376cad273b0.jpg)
 
  3) Select**Automatic** in Startup type, then click**Apply** , and click**OK** .
@@ -171,26 +201,41 @@ netsh wlan show drivers
 
  2) Click**Turn Windows Firewall on or off** on the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377dfb13b41.jpg)
 
  3) Select**Turn off Windows Firewall (not recommended)** in all three columns, then click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377e666c11b.jpg)
 
 4) Try to connect to your WiFi again.
 
  If the problem still occurs, it may not be a problem of Windows Firewall, and you can**turn on Windows Firewall again** to protect your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37813698434.jpg)
 
  If your problem is solved, it seems to be caused by Windows Firewall. Then you can allow your WiFi through Windows Firewall:
 
  1) Still on the**Windows Firewall window** , click **Turn Windows Firewall on or off** on the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378387d395f.jpg)
 
  2) Select**Turn on Windows Firewall** in all three columns, and click**OK** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378365d2d6b.jpg)
 
  3) Back to the**Windows Firewall window** , click**Allow an app or feature through Windows Firewall** .
@@ -199,6 +244,9 @@ netsh wlan show drivers
 
  4) Scroll down and select the feature that runs your WiFi, and check the three boxes under **Domain** ,**Private** and**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3783fd943ca.jpg)
 
  5) Click**OK** to save the settings, and try to connect to your WiFi again to see if it works.
@@ -219,12 +267,27 @@ netsh wlan show drivers
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e45c31965d6.png)
 
  3) Click the**Update** button next to the flagged driver, then download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376dd753425.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -260,6 +323,9 @@ netsh wlan show drivers
 
  After restart your iPhone, try to connect to your WiFi to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Forget WiFi network and connect again**
 
  If you can connect to your WiFi, but the speed is slow or you don’t have Internet connection, forgetting your WiFi network will help you get a new connection to your WiFi.
@@ -272,6 +338,9 @@ netsh wlan show drivers
 
  2) Tap your**WiFi name** , and tap**Forget this network** . Then confirm it by taping**Forget** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3772e43c8bb.jpg)
 
 3) Wait for a few seconds.
@@ -286,6 +355,9 @@ netsh wlan show drivers
 
  1) Go to**Settings** \>**General** \>**Reset** .
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e12a5253.jpg)
 
  2) Tap**Reset Network Settings** and enter your**passcode** to continue.
@@ -294,6 +366,9 @@ netsh wlan show drivers
 
  3) Then your network will be reset. Connect to your WiFi again and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### **Method 4: Modify DNS on your iPhone**
 
  This method works when you can connect to your WiFi, but you can’t access to the Internet, or the WiFi speed slows down to a crawl. Changing the existing DNS server to Google DNS may work, because the Google DNS can help you get faster WiFi speed.
@@ -308,10 +383,17 @@ netsh wlan show drivers
 
  3) Type **8.8.8.8** (Google DNS) as Primary DNS and**your original DNS** as alternative DNS. Don’t forget to type a**comma** to separate these two DNS numbers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775cd0285c.png)
 
  4) Then try to connect to your WiFi again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### **Method 5: Turn on WLAN Assist**
 
  WLAN Assist (or WiFi Assist) is a new feature released in iOS 9\. With WiFi Assist, you can stay connected to the Internet even if you have a poor WiFi connection, or your WiFi stops working suddenly.**WiFi Assist is on by default** . Once it’s activated on your iPhone, you will see the cellular data icon in the status bar. Go and check if your WiFi Assist is on.

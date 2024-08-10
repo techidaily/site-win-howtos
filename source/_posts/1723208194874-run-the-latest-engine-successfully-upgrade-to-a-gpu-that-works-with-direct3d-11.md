@@ -1,7 +1,7 @@
 ---
 title: Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11
-date: 2024-08-08 20:54:12
-updated: 2024-08-09 10:11:42
+date: 2024-08-09T01:01:37.548Z
+updated: 2024-08-10T01:01:37.548Z
 tags:
   - win11
   - win10
@@ -15,16 +15,25 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ## Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![d3d11 compatible GPU error](https://images.drivereasy.com/wp-content/uploads/2023/08/d3d11-compatible-GPU-error.jpg)
 
  Received an error message saying**A D3D11-compatible GPU is required to run the engine** when you launch an application or game such as Fortnite or Valorant. That’s a common error and means your GPU doesn’t support the required hardware features of Direct3D 11\. But don’t worry. You can fix it easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## What is D3D11 compatible GPU error?
 
  D3D11 is short for Direct3D 11, which is used for rendering 3D graphics. If the system fails to recognize a D3D11-compatible GPU, you may receive the D3D11 compatible GPU error and find that certain programs cannot work. This can happen for several reasons, such as outdated DirectX version or GPU driver or improper configurations.
 
  Before you start any advanced troubleshooting, make sure**your computer meets the minimum requirements** of the game or application you’re opening. This information is usually available on their official website. If your computer isn’t powerful enough to run the program, you may**consider an upgrade** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are 4 proved methods for the**D3311 compatible GPU error** . You don’t have to try them all. Just work your way down the list until you find the one that works.
@@ -34,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 3. **[Download DirectX End-User Runtime Web Installer](#fix3)**
 4. **[Run the game on the dedicated GPU](#fix4)**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Fix 1 – Update DirectX
 
  If your computer is running an older DirectX version than DirectX 11, it may fail to support the DirectX 11 features. And this case, you should update the DirectX.
@@ -43,11 +55,18 @@ First, check the DirectX version on your PC.
 1. On your keyboard, press the Windows logo key and R at the same time to invoke the Run command. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-directx-1.jpg)
 2. Check your DirectX version. If it’s 12 or 11, the DirectX is already up-to-date and you could jump to the**[second solution](fix2)** . If it’s lower, follow the steps below to update it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-directx-2.jpg)
 
  On Windows 11, 10, 8, and 7, you could simply**install the latest Windows updates** to update the DirectX.
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows settings app. Then click**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -83,6 +102,9 @@ First, check the DirectX version on your PC.
 
  See if the error reoccurs when you open the game. If yes, don’t frustrate. There are a few more fixes you could try.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Fix 3 – Download DirectX End-User Runtime Web Installer
 
  DirectX End-User Runtime Web Installer could replace missing or corrupted DirectX files and may solve the D3D11 compatibility issue.
@@ -98,6 +120,10 @@ First, check the DirectX version on your PC.
  If you have both an integrated graphics card and a dedicated one on your PC, make sure to run your game on the dedicated GPU. It could tackle more demanding tasks such as gaming and prevent the possible D3D11 compatibility issue.
 
 1. On your desktop, right-click any empty space and click**Display settings** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Scroll to the Multiple displays section and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -106,6 +132,9 @@ First, check the DirectX version on your PC.
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Choose**High performance** to utilize the dedicated GPU and click**Save** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/change-graphics-settings.jpg)
 
 Launch the game or program to see if the error message disappears now.

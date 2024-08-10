@@ -1,7 +1,7 @@
 ---
 title: Explorer Down? Restore It Now
-date: 2024-08-07 10:18:32
-updated: 2024-08-09 10:12:39
+date: 2024-08-09T01:01:13.380Z
+updated: 2024-08-10T01:01:13.380Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 
 ## Explorer Down? Restore It Now
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/explorer.exe-application-error.jpg)
 
  The explorer.exe application error can occur when you’re opening an application, or when you’re booting, shutting down, or restarting a PC. The error is usually followed by a message saying “ _The instruction at 0x00\* referenced memory at 0x00\*. The memory could not be written_ “, which indicates an invalid memory address. But don’t worry. You could fix this problem with some simple methods.
@@ -37,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 
 1. On your keyboard, press**Ctrl** ,**Shift** , and**Esc** at the same time to open Task Manager.
 2. Scroll to find the**Windows Explorer** process, right-click it and click**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/restart-explorer-exe-process.jpg)
 
  Check if the application error still exists. If so, check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2 – Perform a system repair
 
  The explorer.exe application error has a variety of causes, including faulty system files, malware infection, memory issues, defective Windows updates, etc. To identify what’s wrong with your PC and repair it, you’ll need to check those components one by one. Alternatively, you can perform an in-depth system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  automatically.
@@ -57,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 
  Your computer should be restored to a healthy and stable status. But if this doesn’t solve the explorer error, try Fix 3 below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3 – Increase virtual memory
 
  When your computer gets low on memory, virtual memory serves as additional RAM. If it’s automatically managed and not sufficient to handle applications, the explorer.exe error will occur. To tweak the settings, you can follow the steps below:
@@ -64,8 +77,14 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**sysdm.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-1.jpg)
 2. Select the**Advanced** tab and click**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-2.jpg)
 3. Click the**Advanced** tab and click**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-3.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-1.jpg)
@@ -78,20 +97,32 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 
 Test if the issue is solved. If not, go to other fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4 – Run Windows Memory Diagnostic
 
  If increasing the virtual memory doesn’t help, you can take advantage of the Windows Memory Diagnostic tool to check for more potential memory-related issues.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
 2. Type**mdsched.exe** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-1.jpg)
 3. Click**Restart now and check for problems (recommended)** . Make sure to save your work and close all the programs before restarting.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-2.jpg)
 4. The diagnostic process may take a few minutes, during which you’ll see a blue screen showing how it progresses.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-6.jpg)
 5. Once done, the computer will restart. When you log into the computer, the results should show up on your desktop. If you don’t see it, right-click the**Start** menu and click**Event Viewer** .  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/event-viewer.jpg)
 6. Click**Windows Logs** \>**System** \>**Find** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-3.jpg)
 7. Enter**memory diagnostic** in the field and click**Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-4.jpg)
@@ -109,10 +140,16 @@ Test if the issue is solved. If not, go to other fixes below.
 2. Click**Personalization** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/disable-autohide.jpg)
 3. From the left pane, select**Taskbar** . Then turn off the buttons below**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/disable-autohide-2.jpg)
 
  Restart your computer to check the explorer.exe application error. If the issue reoccurs, no worries. There are two more fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Fix 6 – Update your graphics driver
 
  The explorer.exe application error may also indicate issues related to your graphics driver. Drivers are essential for the connection between your operating system and certain pieces of hardware. If it’s faulty or outdated, your device won’t work properly and applications may fail to launch.
@@ -129,10 +166,16 @@ Test if the issue is solved. If not, go to other fixes below.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 

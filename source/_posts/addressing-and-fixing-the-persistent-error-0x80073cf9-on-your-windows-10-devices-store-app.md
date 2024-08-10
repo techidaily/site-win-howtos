@@ -1,7 +1,7 @@
 ---
 title: Addressing and Fixing the Persistent Error 0X80073CF9 on Your Windows 10 Device's Store App
-date: 2024-08-06 17:19:19
-updated: 2024-08-09 10:10:44
+date: 2024-08-09T01:01:33.031Z
+updated: 2024-08-10T01:01:33.031Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/92ed774f3b41ac1777073a488ce58c2ba128a5ace
   
 A lot Windows 10 users reported that system restore did not complete successfully. And the problem pop-uped as**Error 0x80070091**shown as image above. It’s a good thing that Microsoft has noticed this error and  will update this thread soon. However, if you are Windows 10 Advanced user, you can fix it right now via the methods below. If you’ve faced it, just go with the easy fixes below.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -29,6 +32,9 @@ a)
 Open run dialog box by pressing**Windows** key + **R** key together.  
 Then type **msconfig** in the box and hit **Enter**.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 b)  
@@ -36,6 +42,9 @@ On the pop-up window, view on **Boot** pane.
 Then tick on **Safe boot**and click **OK**.  
 Click **Restart**, if prompted by system configuration  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
 Then your Windows 10 would get into safe mode.  
@@ -46,6 +55,9 @@ Open quick-access menu by pressing **Windows** key + **X** key.
 Then click **Command Prompt(Admin)** to run it as administrator.  
 When prompted by User Account Control, click   **Yes.**
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
 3)  
@@ -68,6 +80,9 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 
 When it finish rebooting, run System Restore again.  
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
 
 1)  
@@ -89,6 +104,9 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
 2)  

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Common Errors in Windows Installation Packages
-date: 2024-08-06 22:14:27
-updated: 2024-08-09 10:59:32
+date: 2024-08-09T01:01:25.284Z
+updated: 2024-08-10T01:01:25.284Z
 tags:
   - win11
   - win10
@@ -46,6 +46,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  4) Right-click on the shortcut and select**Open file location** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/open-file-location-Steam.png)
 
  5) The**steam.exe** should be highlighted. Simply right-click it and select**Properties** .  
@@ -54,10 +57,24 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  5) Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** to save the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![always run Steam as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/always-run-Steam-as-administrator.png)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## 2\. Allow Steam through Firewall
 
  Windows Firewall or any anti-virus software are intended to protect your computer from any malware attack. But it may also fail to recognize a reliable application or program. In this case, you need to manually whitelist Steam in Windows Firewall.
@@ -68,10 +85,16 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
   
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
  3) Click **Change settings** if it’s enabled on your end. Then click **Allow another app** .  
   
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allow VALORANT through windows firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-another-app-1.jpg)
 
  Then you can follow the on-screen instructions to add Steam to the list. By default, the location of the main Steam executable is**C:\\Program Files\\Steam\\bin** .
@@ -80,6 +103,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Change the download region
 
  It could be possible that there’s an ongoing server issue in your region. So you can change the download region to prevent the issue. Here’s how you can do this:
@@ -94,6 +120,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  3) Now simply click**RESTART STEAM** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/RESTART-STEMA.png)
 
  If changing the download region didn’t help you solve the issue, don’t worry. There are some other fixes for you.
@@ -118,6 +147,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Disable unnecessary programs
 
  If your computer doesn’t have a lot of RAM memory, Steam is not granted enough space to proceed the updates download actions. This can temporarily be fixed by closing any unnecessary programs such as web browsers. Here’s how:
@@ -130,10 +162,16 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  3) Under the**Processes** tab, right-click the programs that you’re not currently using and select**End task** .  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![disable unnecessary programs to free up space](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-unnecessary-programs.png)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Update your network adapter driver
 
  These error messages may occur due to a driver inconsistency especially when you’re connected to a wireless network. An outdated or faulty network driver may be the culprit. To fix it, you should update your driver. This is really important when you can’t remember when was the last time you updated your drivers.
@@ -150,6 +188,10 @@ Here’s how to update your drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -170,6 +212,9 @@ Here’s how to update your drivers with Driver Easy:
  1) Exit Steam.  
  To make sure you completely exit Steam, open Task Manager and look for **Steam Client Service**  and **Steam Client WebHelper** . Right-click on them and select **End task** .  
   
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
  2) On your keyboard, press the **Windows logo key** and **E**  at the same time to open File Explorer.

@@ -1,7 +1,7 @@
 ---
 title: "Script Inactive: No Launch"
-date: 2024-08-07 23:42:37
-updated: 2024-08-09 11:31:28
+date: 2024-08-09T01:01:10.349Z
+updated: 2024-08-10T01:01:10.349Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
 Your Windows 7 computer takes forever to boot? Don’t panic! Here are 6 methods to speed up your PC’s boot time. Check it out…
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
 You may not have to try them all; just choose the one you need.
@@ -28,6 +31,9 @@ You may not have to try them all; just choose the one you need.
 5. **[Add more RAM](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install an SSD](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 1: Remove your peripherals
 
  If you connect multiple peripherals to your computer, chances are that one of them is preventing your PC to boot normally. To see if that’s the problem for you, turn off your PC and disconnect all peripherals (your printer, scanner, USB drive, etc.), then turn on your PC again to test your issue.
@@ -46,12 +52,18 @@ If your problem persists, then move on and try the next fix.
 
 **2)** Click **Startup.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-19.jpg)
 
 **3)** Uncheck the box next to the program that you don’t need to launch automatically at startup.
 
  Only deselect programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-31.jpg)
 
 **4)** Click **OK** .
@@ -96,18 +108,27 @@ If your issue continues to occur, then move on and try the fix below.
 
 **2)**  Run **Malwarebytes,** and then click **Scan Now**  to start scanning your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-37-29-1024x641.jpg)
 
 **3)** Wait for the process to be complete. Malwarebytes will remove any malware if it spots any.
 
  If no malware is detected, that means your problem is not caused by malware. Check the method below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 5: Add more RAM
 
  RAM is short for Random Access Memory, which is a form of computer data storage that stores data and machine code currently being used. The more RAM your system has, the faster your computer can perform. That said, if your system is lack of RAM, your computer is likely to boot slowly. If that’s the core issue, adding more RAM should fix your issue.
 
  Adding RAM requires advanced computer skills. If you’re not comfortable doing that on your own, you can take your computer to a near repair store and seek professional help.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 6: Install an SSD
 
  SSD is short for Solid State Drive, which can read and write the data much faster than the conventional HDD (Hard Disk Drives). Compared to a hard drive, an SSD will not only increase your PC’s boot time but also enable it to respond much faster.

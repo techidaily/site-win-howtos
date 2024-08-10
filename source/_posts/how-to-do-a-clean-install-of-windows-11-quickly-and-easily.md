@@ -1,7 +1,7 @@
 ---
 title: How to Do a Clean Install of Windows 11, Quickly and Easily!
-date: 2024-08-07 23:54:53
-updated: 2024-08-09 10:19:48
+date: 2024-08-09T01:01:30.048Z
+updated: 2024-08-10T01:01:30.048Z
 tags:
   - win11
   - win10
@@ -29,10 +29,16 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  Please be assured that Media Creation Tool is the official method for downloading ISOs for Windows 10\. This tool will help you download the correct Windows 10 installation files for your system and help you create an installation DVD or flash drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/media-creation-tool.jpg)
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-set-up-accept-decline.jpg)
   
  3) Tick the option**Create installation media for another PC** , and then click**Next** .  
@@ -57,6 +63,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  6) Choose a place where you want to save the finished ISO file and choose**Save** to continue. If you choose USB flash drive option, you should choose the right USB drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-a-path-600x487.jpg)
   
  7) It will take a while for Media Creation Tool to download the files and assemble your ISO.
@@ -65,6 +74,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  8) When this process is finished, you could choose**Open DVD Burner** if you want to create a disc right now. Or you can just click**Finish** if you want to make a disc later.  
   
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/burn-the-iso-to-dvd.png)  9) With your USB drive or DVD inserted, restart your computer. Press a key for**Boot Menu** .
   
 **Note** : The key to press for Boot Menu varies for different motherboards. Usually the boot screen will show you which key to press.
@@ -82,12 +94,18 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/use-a-device.png)
   
 **Note** : Some users might not be able to see the **Use a device** option here. But we find that if the USB flash drive with the ISO files or the DVD disc is connected to the computer, you can boot from the device by clicking**Continue** button.
   
  10) You will see the activation screen next. If you have installed Windows 10 on this computer, please choose**I don’t have a product key** . If you have never installed Windows 10 on this computer before, please type in your valid license key, which could be the key for Windows 7, Windows 8 or Windows 8.1\.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-setup-activate-windows-600x452.png)
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
@@ -107,6 +125,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Type**cmd** in the search box, then choose**Command Prompt** from the list of choice.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd.jpg)
 
  b) Type in the command**slmgr.vbs /ato**  and press**Enter** key.  
@@ -129,14 +150,23 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  2) Click on the**Update & security** icon.  
   
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/update-security.jpg)
 
  3) On the left panel, choose**Recovery** , and then choose**Get started** option under**Reset this PC** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b183962f937.png)
   
  4) Choose**Remove everything** to perform a**Reset** .
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/choose-an-option-remove-everything.jpg)
   
  5) Then you will be lead to the page below. Please choose accordingly.  

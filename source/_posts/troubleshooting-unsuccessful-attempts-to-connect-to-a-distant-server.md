@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Attempts to Connect to a Distant Server
-date: 2024-08-07 20:13:31
-updated: 2024-08-09 12:49:10
+date: 2024-08-09T01:01:19.955Z
+updated: 2024-08-10T01:01:19.955Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  If you run into error “Unable to connect to the remote server”during scanning, try solutions here to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b256751f5.png)
 
 **Solution 1: Restart Driver Easy**
@@ -28,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  1\. Press **Win+R**   (Windows key and R key) combination to open the Run dialog box.  
  2\. Type **cmd**   in the run box. Click **OK**  button.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b2a29e9ee.png)
 
  3\.
@@ -35,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  Type**ping** **app.drivereasy.com** and press**Enter** button  
  If the ping command runs successfully, the Execute Ping results screen will display like following.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b4406d257.png)
 
  If the ping command does not run successfully, the Execute Ping results screens displays an error message. In this case, problem may be caused by the network problem. Run Driver Easy after a while to try again.
@@ -44,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  1\. Open   **Internet Explorer**  .  
  2\. If IE cannot connect to the internet, click the **Tools**   button on the right of the Address bar, then select **Internet Options** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b2edc7db0.png)
 
  3\. In the **Connections**   tab in Internet options, click the **LAN settings**   button.
@@ -52,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  4\. In the Local Area Network (LAN) Settings window, check the box next to Automatically detect settings and click **OK**   button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b30e08b9c.png)
 
  **Solution 4: Antivirus / Firewall/VPN Checking**
@@ -62,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  If the problem could not be resolved or persists, please send us with further information using Driver Easy **Feedback** tool so we could assist you to resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_5901de462431c.jpg)
 
  The following information is required so we could locate the problem more exactly.

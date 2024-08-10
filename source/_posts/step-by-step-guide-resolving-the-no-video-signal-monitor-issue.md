@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving the 'No Video Signal' Monitor Issue"
-date: 2024-08-07 16:36:56
-updated: 2024-08-09 10:46:53
+date: 2024-08-09T01:01:42.257Z
+updated: 2024-08-10T01:01:42.257Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
  If you’re also in this predicament, don’t panic. Here are 6 solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
 * [Fix 1: Restart your PC](#restart)
@@ -31,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  Sometimes the No Video Input problem is just a temporary error that can be fixed by restarting your PC. (You can force-shut down your computer by pressing and holding the power button for 3 to 5 seconds. Then turn it back on.)
 
 If your issue persists after the reboot, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Fix 2: Check your video cable
 
  If your video cable has become loose, the image signal won’t be transmitted and it can cause the No video input message on your monitor. So, you want to make sure that your video cable is functioning correctly, then reconnect your monitor to your computer. Follow the instructions below:
@@ -59,12 +68,18 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  If you run into the No Video Input error again, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Plug the cable into the right video port
 
  If you’re using a desktop PC, check if your display cable is connected to your motherboard instead of your graphics card port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-29_14-18-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Peripherals connected to your computer may also prevent your monitor from running properly and cause the No Video Input issue. Try disconnecting all peripherals to see if that fixes your issue. Here is how:
@@ -93,6 +108,9 @@ If your monitor still won’t work, try the fix below.
 
 The CMOS battery looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 **4)**  Wait for 5 minutes, and then reinstall your **CMOS battery** .
@@ -101,6 +119,10 @@ The CMOS battery looks like this
 
 If your problem still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Fix 6: Reinstall your RAM and graphics card
 
  In some cases, the No Video Input error might occur if your hardware isn’t properly installed. If you’re comfortable opening your computer case, try reinstalling your RAM and graphics card to see if that fixes your issue. Follow the instructions below:

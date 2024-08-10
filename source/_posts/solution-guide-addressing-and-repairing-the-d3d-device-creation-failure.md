@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Addressing and Repairing the D3D Device Creation Failure"
-date: 2024-08-07 15:25:20
-updated: 2024-08-09 11:35:39
+date: 2024-08-09T01:01:08.667Z
+updated: 2024-08-10T01:01:08.667Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/01734b8ef062c5f42913179297294f7a33898d76f
  **Solution 2:[Reinstall your keyboard](#solution2)**
  **Solution 3:[Update your keyboard driver \[Recommended\]](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Turn off the Sticky Keys and the Filter Keys feature
 
  Sticky Keys and Filter keys are two accessibility functions in the Windows operating system. Sticky Keys allows you to press one key at a time for keyboard shortcuts; Filter Keys tells the keyboard to ignore your brief or repeated keystrokes. If these two keyboard functions are enabled, sometimes your backspace key cannot work fine.
@@ -41,14 +44,23 @@ thumbnail: https://thmb.techidaily.com/01734b8ef062c5f42913179297294f7a33898d76f
 
  2) Make sure the status of Sticky Keys and Filter Keys are all set to **Off** . If you see **On** , switch to **Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a067818b6a47.jpg)
 
 #### Windows 11
 
 1. Press the **Windows logo key**  and **R**  simultaneously to open Settings.
 2. Select**Accessibility** on the left panel, then scroll down the list on the right and click**Keyboard** under the Interaction section.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key1.jpg)
 3. Under the Sticky, Filter, and Toggle keys section, make sure the status of**Sticky Keys** and**Filter Keys** are all set to **Off** . If you see On, switch to Off.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
@@ -65,10 +77,16 @@ Follow these:
 
  2) Type **devmgmt.msc**  and press **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066acd62fb2.png)
 
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.

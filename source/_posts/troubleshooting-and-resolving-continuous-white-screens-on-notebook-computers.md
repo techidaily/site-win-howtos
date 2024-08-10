@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Continuous White Screens on Notebook Computers
-date: 2024-08-06 18:20:53
-updated: 2024-08-09 10:29:56
+date: 2024-08-09T01:01:27.358Z
+updated: 2024-08-10T01:01:27.358Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
   
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1\. Turn off “Get tips, tricks, and suggestions as you use Windows” option  
   
  Many Windows 10 users reported that disabling Windows tips immediately drops CPU Usage. So be sure to take it a try.  
@@ -39,17 +42,27 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 `` 1)  
 `` Click **Settings**  button from **Start**  menu.  
 ``
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-1.png)
 ``
 `` 2)  
 `` Click **System** .  
 ``
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-9.png)
 ``
 `` 3)  
 `` Click **Notifications & actions**  on the left pane.  
 `` Then scroll down to uncheck **Get tips, tricks, and suggestions as you use Windows**  on the right pane.  
 ``
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-6.png)
 ``
 `` You will get rid of the error by this error. If the issue still occur, try next fix.  
@@ -66,12 +79,18 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 `` 2)  
 `` Click **Privacy** .  
 ``
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-2.png)
 ``
 `` 3)
 `` Scroll down on left pane to choose **Background apps** .  
 `` And uncheck the on-run apps.  
 ``
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-2.png)
 ``
 ``

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Correct 'Not Found' Error Messages When Running Applications in Windows
-date: 2024-08-08 23:57:15
-updated: 2024-08-09 11:35:22
+date: 2024-08-09T01:01:18.061Z
+updated: 2024-08-10T01:01:18.061Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Twitch is the world’s leading live-streaming platform. But users report that t
 
 ![Twitch error 4000 Resource Format not Supported](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -46,6 +49,9 @@ Twitch is the world’s leading live-streaming platform. But users report that t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Fix 1: Use the Twitch popout player
 
  Twitch**popout player** is a feature set to meet the players’ multitasking heart desires. While for error 4000, using the popout player can be a temporary quick fix.
@@ -64,6 +70,9 @@ To enable the feature, you can
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Clear cache and cookies
 
  There are times that cache and cookies become corrupt, which may prevent you from loading the pages. So clearing them can fix the issue.
@@ -81,10 +90,16 @@ To enable the feature, you can
 
  2) When the**Clear browsing data** window appears, make sure that options**Cookies and other site data** &**Cached images and files** are checked. After that, click**Clear data** .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![clear cache and cookies in Chrome Twitch error 4000 resource format not supported](https://images.drivereasy.com/wp-content/uploads/2020/09/clear-cache-and-cookies-1.png)
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Firefox
 
  1) In the top right corner, click on the**Open menu** button (three lines) and select**Options** .
@@ -97,6 +112,9 @@ To enable the feature, you can
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### In Edge
 
  1) Open Edge and press**Ctrl** +**Shift** +**Delete** together on your keyboard.
@@ -104,10 +122,16 @@ To enable the feature, you can
  2) When the**Clear browsing data** window appears, make sure options**Cookies and other site data** &**Cached images and files** are checked. Then click**Clear now** .  
  (For the**Time range** , you can choose**All time** or whatever you want. You can do this by clicking the**drop-down** menu.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear cache and cookies in Edge Twitch error 4000 resource format not supported](https://images.drivereasy.com/wp-content/uploads/2020/09/clear-cache-and-cookies-in-Edge-1.png)
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### In Internet Explorer
 
  1) Open Internet Explorer and press**Ctrl** +**Shift** +**Delete** together on your keyboard.
@@ -120,6 +144,9 @@ To enable the feature, you can
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Flush the DNS cache
 
  If clearing the cache and cookies doesn’t fix the issue, clearing your DNS may help.
@@ -141,6 +168,9 @@ To do this, simply follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Disable browser extensions
 
  Extensions or add-ons might be interfering with your player. So you’re supposed to disable them if you have the error code appearing on the screen.
@@ -168,6 +198,9 @@ To do this, simply follow the instructions below:
 
  1) In the upper right corner, click on the**Open menu** button (three lines) and select**Add-ons** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable extensions in Firefox](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-firefox.png)
 
  2) On the left pane, click**Extensions** . Under the**Manage Your Extensions** section, click the**blue toggle switch** so that it will turn gray.
@@ -176,6 +209,18 @@ To do this, simply follow the instructions below:
 
  After that, go back to your streaming and refresh the page to see if it solves the problem. If not, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Edge
 
  1) In the upper right corner, click on the**three dots** icon and select**Extensions** .
@@ -184,14 +229,23 @@ To do this, simply follow the instructions below:
 
  2) Under the**Installed extensions** section, click the**blue toggle switch** so that it turns gray.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![disable extensions in Edge](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-edge-2.png)
 
  After that, go back to your streaming and refresh the page to see if it solves the problem. If not, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Internet Explorer
 
  1) Click on the**Tools** icon and select**Manage add-ons** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![disable extensions in Internet Explorer](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-ie-1.png)
 
  2) Under the**Toolbars and Extensions** section, click on the add-on you want to disable and click**Disable** .
@@ -233,6 +287,9 @@ To do this, simply follow the instructions below:
 
  If you still can’t get rid of the error code after doing private browsing, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### In Edge
 
  In Microsoft Edge, click on the**three dots** icon and select**New InPrivate window** .
@@ -243,6 +300,9 @@ To do this, simply follow the instructions below:
 
  If you still can’t get rid of the error code after doing private browsing, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### In Internet Explorer
 
  Before you take any steps, please note that**InPrivate Browsing** is only available on IE8 and later.
@@ -274,6 +334,18 @@ To do so, you can:
 
  3) Right-click on the running player and select**End task** .
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close other active media players](https://images.drivereasy.com/wp-content/uploads/2020/09/close-other-media-players.png)
 
  After closing those media players, reload your streaming page and check if the error still appears. If it does, try the next fix.
@@ -288,10 +360,16 @@ Here’s how to do this:
 
  1) In the search box on the taskbar, type**control panel** and select it from the results
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open control panel set the audio device as the default device](https://images.drivereasy.com/wp-content/uploads/2020/09/control-panel.png)
 
  2) Make sure you’ve chosen**Large icons** as the**View by** option. Then select**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/sound-settings.png)
 
  3) Under the**Playback** tab, right-click on your audio device and select**Set as Default Device** . Then click**OK** .
@@ -322,6 +400,10 @@ Here’s how to do this:
 [NVIDIA](https://www.nvidia.com/en-us/geforce/drivers/)
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your drivers (recommended)
 
  If you update the drivers on your own, you might risk downloading the wrong versions. So if you don’t feel like doing it, we recommend you use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) . It’s a useful tool that detects, downloads and installs the correct drivers for your computer. With Driver Easy, updating drivers becomes quite easy.
@@ -340,16 +422,25 @@ OR
 
  Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) with **full support**  and a 30-day **money-back guarantee** and You’ll be prompted to upgrade when you click Update All.)  
   
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![update drivers; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/AMD.jpg)
   
  4) Restart your computer and load the streaming to check if the error still appears. If updating the drivers doesn’t resolve the issue, move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Fix 9: Remove audio hardware
 
  If neither**setting your audio device as the default device** nor**updating drivers** help solve the problem, you should remove your audio hardware. Hardware such as headphones or external speakers could be interfering with your streaming. In order to prevent the conflict, you should remove the audio hardware and try loading the stream again. If the error disappears, you can plug it back.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fix 10: Switch to the Twitch desktop app
 
  If none of the methods listed above work for you, then you should use the Twitch[desktop app](https://www.twitch.tv/downloads/) . Compared to the web version, the Twitch desktop app has proved to have better performance and it brings better responsiveness.

@@ -1,7 +1,7 @@
 ---
 title: Dragon Ball FighterZ - Successfully Overcoming Network Setup Errors
-date: 2024-08-08 23:44:12
-updated: 2024-08-09 12:43:48
+date: 2024-08-09T01:01:35.574Z
+updated: 2024-08-10T01:01:35.574Z
 tags:
   - win11
   - win10
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
  If other people can log in and play the game without problems, it seems the cause lies in your computer. You can choose another region and see if you can play the same. If that’s unavailable, or that didn’t fix your problem, it means that you need to do something in your PC. Then go to[Fix 2](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Fix 2: Reset network settings
 
  Since the error suggested that**Dragon Ball FighterZ failed to initialize network** , there may be something wrong with your network. So make sure your network connection works properly.
@@ -60,10 +63,28 @@ Here’s what you can do:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to bring the Settings application.
 2. Click**Network & Internet** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b301a7d95.jpg)
 3. Scroll down and click**Network reset** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3266bfa6.jpg)
 4. Click**Reset now** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b342f0b4a.jpg)
 5. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b374a7f94.jpg)
@@ -73,9 +94,15 @@ Here’s what you can do:
 **If you’re using Windows 8 and Windows 7:**
 
 1. Type**cmd** in the search box on your desktop, right click **cmd**  and select**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3bdbe2fe.jpg)
 2. Type the following command in cmd and press**Enter** on your keyboard.  
 _**netsh winsock reset**_  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b406867ca.jpg)
 3. Wait for the command to run through the reset. Once complete, you’ll see something like “**Winsock reset completed successfully** “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b42e5dfce.jpg)
@@ -103,6 +130,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b4975a0ab.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b4e869741.jpg)
 4. Restart your computer to take effect.
 
@@ -110,6 +140,9 @@ OR
 
 Still no luck? Okay, there’s one more thing to try.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update Windows 10
 
  If you’re using Windows 10, you can update Windows 10 in your computer to fix**Dragon Ball FighterZ failed to initialize network** . This does a trick for many people.
@@ -119,6 +152,9 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b506bbbf3.jpg)
 3. Click**Check for updates** .
 4. Click**Download** to download any available updates.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b539cac0e.jpg)
 5. Follow the on-screen instructions to finish the update.
 6. Open Dragon Ball FighterZ and it should be working.

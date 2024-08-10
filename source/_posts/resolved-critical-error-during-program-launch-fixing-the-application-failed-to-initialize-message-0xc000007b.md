@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Critical Error During Program Launch - Fixing The 'Application Failed To Initialize' Message (0xC000007B)"
-date: 2024-08-07 14:24:46
-updated: 2024-08-09 12:32:36
+date: 2024-08-09T01:01:37.394Z
+updated: 2024-08-10T01:01:37.394Z
 tags:
   - win11
   - win10
@@ -55,3 +55,7 @@ When you upgrade the system to Windows 7, 8, 8.1,10, you find that the driver fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->

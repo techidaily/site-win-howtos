@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Windows 10 System Crashes or Freezes
-date: 2024-08-06 12:44:13
-updated: 2024-08-09 12:38:52
+date: 2024-08-09T01:01:25.509Z
+updated: 2024-08-10T01:01:25.509Z
 tags:
   - win11
   - win10
@@ -33,14 +33,23 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-set-up-accept-decline.jpg)
   
  3) Tick the option**Create installation media for another PC** , and then click**Next** .  
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-setup-600x470.png)
 
  4) Then you will be lead to a page where you need to select language, architecture and edition. If you are going to install it on a different PC, clear the check box before “**Use the recommended options for this PC** ” and fill in the information that you prefer and click**Next** to continue.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-architecture-and-edition-600x470.png)
   
  If you are going to use the installation media on the same PC that you create it, you can click**Next** to go ahead.  
@@ -57,10 +66,21 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  6) Choose a place where you want to save the finished ISO file and choose**Save** to continue. If you choose USB flash drive option, you should choose the right USB drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-a-path-600x487.jpg)
   
  7) It will take a while for Media Creation Tool to download the files and assemble your ISO.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/downloading-windows-10-600x470.png)
 
  8) When this process is finished, you could choose**Open DVD Burner** if you want to create a disc right now. Or you can just click**Finish** if you want to make a disc later.  
@@ -78,6 +98,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Follow the path**Start> Settings> Update & security> Recovery>** **Restart now** button under**Advanced startup** .
   
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/advanced-startup-restart-now.jpg)
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
@@ -88,6 +111,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  10) You will see the activation screen next. If you have installed Windows 10 on this computer, please choose**I don’t have a product key** . If you have never installed Windows 10 on this computer before, please type in your valid license key, which could be the key for Windows 7, Windows 8 or Windows 8.1\.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-setup-activate-windows-600x452.png)
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
@@ -133,6 +159,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  3) On the left panel, choose**Recovery** , and then choose**Get started** option under**Reset this PC** .
   
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b183962f937.png)
   
  4) Choose**Remove everything** to perform a**Reset** .
@@ -141,6 +170,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  5) Then you will be lead to the page below. Please choose accordingly.  
   
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/do-you-want-to-clean-the-drives-too.jpg)
   
 **Note:** **Just remove my files** will performs a quick format and it will not take long. Your files might be recoverable by someone else since they are only marked as deleted. It is suggested that you choose this option if you are keeping your computer.  
@@ -149,6 +181,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  6) Press**Reset** to start the reset process.
   
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-uninstall-windows-10-quickly-and-easily-5071.jpg)
   
  7) Wait for a while for the process to begin. When finished, you will need to set up your personal preference before logging onto your desktop.

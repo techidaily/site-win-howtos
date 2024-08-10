@@ -1,7 +1,7 @@
 ---
 title: Audio Issues in Win 10 & 11, Now Solved
-date: 2024-08-06 12:45:15
-updated: 2024-08-09 11:11:32
+date: 2024-08-09T01:01:36.883Z
+updated: 2024-08-10T01:01:36.883Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
 ## Overcoming CRC Faults in Your Data Transmission - Now Solved
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597b0693e1cf1.png)
 
  When you copy files to the hard drive, if you receive the error message “Data error (cyclic redundancy check)”, don’t worry that you may lose the data. Follow the steps in this post, you’ll fix the error instantly.
@@ -27,12 +30,22 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
  If the problem is the hard drive, you can[**repair the drive**](#drive) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## **Recover the file**
 
  If you don’t care about the data in the file, you can ignore the error and just delete the file. But if the data is important, you may want to recover it. There’re many free data recovery software online you can search for. If you have no idea which one should be trusted, we recommend **[Stellar Phoenix Windows Data Recovery](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that recovers any corrupted data and file automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/Stellar-Windows-data-recovery.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## **Repair the drive**
 
  To repair the drive, you can run a Windows utility:**CHKDSK** . CHKDSK can check the integrity of your hard disk and can fix various system errors.
@@ -41,6 +54,10 @@ Just follow these steps:
 
  1\. On your keyboard, press the**Windows logo key** , then type**command prompt** . Find**Command Prompt** from the list of results, right-click it, and select**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 
  Click**Yes** when you’re prompted.
@@ -53,6 +70,9 @@ Just follow these steps:
 
  3\. Then press the Enter button. The process might take longer if there are problems with many files. So please be patient until it’s finished.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597b140aa2470.png)
 
 4\. Restart your computer.

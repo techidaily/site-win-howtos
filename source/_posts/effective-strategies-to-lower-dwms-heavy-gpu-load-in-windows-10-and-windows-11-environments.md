@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Lower DWM's Heavy GPU Load in Windows 10 and Windows 11 Environments
-date: 2024-08-07 10:35:30
-updated: 2024-08-09 12:45:34
+date: 2024-08-09T01:01:50.055Z
+updated: 2024-08-10T01:01:50.055Z
 tags:
   - win11
   - win10
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/f55b150f0a70b6f75b4f29cb771315089c12f9268
 
 Twitch is the world’s leading live-streaming platform. But users report that the**error 4000 resource format not supported** appears while watching a stream. If you happened to be one of them, don’t worry. Here are some simple fixes for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Twitch error 4000 Resource Format not Supported](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -34,6 +40,9 @@ Twitch is the world’s leading live-streaming platform. But users report that t
 9. [Remove audio hardware](https://tools.techidaily.com/drivereasy/download/)
 10. [Switch to the Twitch desktop app](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before getting started
 
  Before taking any attempts to fix Twitch Error 4000, you should try refreshing the stream. Sometimes the computer might be disconnected from the Internet and a simple page refreshing could fix the issue.
@@ -81,6 +90,9 @@ To enable the feature, you can
 
  2) When the**Clear browsing data** window appears, make sure that options**Cookies and other site data** &**Cached images and files** are checked. After that, click**Clear data** .
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear cache and cookies in Chrome Twitch error 4000 resource format not supported](https://images.drivereasy.com/wp-content/uploads/2020/09/clear-cache-and-cookies-1.png)
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -89,6 +101,9 @@ To enable the feature, you can
 
  1) In the top right corner, click on the**Open menu** button (three lines) and select**Options** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![clear cache and cookies in Firefox Twitch error 4000 resource format not supported](https://images.drivereasy.com/wp-content/uploads/2020/09/clear-cache-and-cookies-in-Firefox-2.png)
 
  2) Select**Privacy & Security** on the left panel. Scroll down to the**Cookies and Site Data** section, click**Clear Data…** .
@@ -97,6 +112,9 @@ To enable the feature, you can
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### In Edge
 
  1) Open Edge and press**Ctrl** +**Shift** +**Delete** together on your keyboard.
@@ -104,6 +122,9 @@ To enable the feature, you can
  2) When the**Clear browsing data** window appears, make sure options**Cookies and other site data** &**Cached images and files** are checked. Then click**Clear now** .  
  (For the**Time range** , you can choose**All time** or whatever you want. You can do this by clicking the**drop-down** menu.)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![clear cache and cookies in Edge Twitch error 4000 resource format not supported](https://images.drivereasy.com/wp-content/uploads/2020/09/clear-cache-and-cookies-in-Edge-1.png)
 
  After clearing the data, reload your streaming page and check if it fixes the issue. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -156,6 +177,9 @@ To do this, simply follow the instructions below:
 
  1) In the upper right corner of the window, click on the**three dots** icon and select**More tools > Extensions** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable extensions in Chrome](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-chrome-1.png)
 
  2) To disable an extension, click the**blue toggle switch** so that it will turn gray.
@@ -164,6 +188,9 @@ To do this, simply follow the instructions below:
 
  After that, go back to your streaming and refresh the page to see if it solves the problem. If not, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Firefox
 
  1) In the upper right corner, click on the**Open menu** button (three lines) and select**Add-ons** .
@@ -176,10 +203,16 @@ To do this, simply follow the instructions below:
 
  After that, go back to your streaming and refresh the page to see if it solves the problem. If not, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Edge
 
  1) In the upper right corner, click on the**three dots** icon and select**Extensions** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![disable extensions in Edge](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-edge-1.png)
 
  2) Under the**Installed extensions** section, click the**blue toggle switch** so that it turns gray.
@@ -192,10 +225,21 @@ To do this, simply follow the instructions below:
 
  1) Click on the**Tools** icon and select**Manage add-ons** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![disable extensions in Internet Explorer](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-ie-1.png)
 
  2) Under the**Toolbars and Extensions** section, click on the add-on you want to disable and click**Disable** .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable extensions in Internet Explorer](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-browser-extensions-ie-2.png)
 
  After that, go back to your streaming and refresh the page to see if it solves the problem. If not, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -213,20 +257,33 @@ To do this, simply follow the instructions below:
 [Microsoft Edge](https://tools.techidaily.com/drivereasy/download/)
 [Internet Explorer](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Chrome
 
  In the upper right corner, click on the**three dots** icon >**New incognito Window** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![use the incognito mode in Chrome Twitch error 4000](https://images.drivereasy.com/wp-content/uploads/2020/09/use-incognito-mode.png)
 
 **Tip:** On a Windows computer, use the shortcuts**Ctrl + Shift + N** to open an incognito window quickly.
 
  If you still can’t get rid of the error code after using the incognito mode, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### In Firefox
 
  In the upper right corner, click on the**Open menu** button (three lines) and then select**New Private Window** .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use the incognito mode in Firefox Twitch error 4000](https://images.drivereasy.com/wp-content/uploads/2020/09/use-incognito-mode-in-Firefox.png)
 
 **Tip:** On a Windows computer, use the shortcuts**Ctrl + Shift + P** to open a new private window quickly.
@@ -237,6 +294,9 @@ To do this, simply follow the instructions below:
 
  In Microsoft Edge, click on the**three dots** icon and select**New InPrivate window** .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use the incognito mode in Edge Twitch error 4000](https://images.drivereasy.com/wp-content/uploads/2020/09/use-the-incognito-mode-in-edge.png)
 
 **Tip:** On a Windows computer, use the shortcuts**Ctrl + Shift + N** to enter an InPrivate window quickly.
@@ -251,6 +311,9 @@ Here’s how you can do an InPrivate Browsing:
 
  1) In the upper right corner, click on the**Tools** icon and then select**Safety > InPrivate Browsing** .
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use the incognito mode in Internet Explorer Twitch error 4000](https://images.drivereasy.com/wp-content/uploads/2020/09/use-incognito-mode-in-Edge-1.png)
 
 **Tip:** On a Windows computer, use the shortcuts**Ctrl + Shift + P** to enter an InPrivate window quickly.
@@ -288,10 +351,16 @@ Here’s how to do this:
 
  1) In the search box on the taskbar, type**control panel** and select it from the results
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open control panel set the audio device as the default device](https://images.drivereasy.com/wp-content/uploads/2020/09/control-panel.png)
 
  2) Make sure you’ve chosen**Large icons** as the**View by** option. Then select**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/sound-settings.png)
 
  3) Under the**Playback** tab, right-click on your audio device and select**Set as Default Device** . Then click**OK** .
@@ -306,6 +375,10 @@ Here’s how to do this:
 
  Here are two options you can take to update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your drivers
 
  To manually update your audio and graphics drivers, you need to navigate to the official websites and download the correct drivers compatible with your system.
@@ -332,6 +405,9 @@ You can follow the steps below:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![update drivers; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/driver-easy-scan-now-1.jpg)
   
  3) Click the **Update** button next to the video driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -350,6 +426,9 @@ OR
 
  If neither**setting your audio device as the default device** nor**updating drivers** help solve the problem, you should remove your audio hardware. Hardware such as headphones or external speakers could be interfering with your streaming. In order to prevent the conflict, you should remove the audio hardware and try loading the stream again. If the error disappears, you can plug it back.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 10: Switch to the Twitch desktop app
 
  If none of the methods listed above work for you, then you should use the Twitch[desktop app](https://www.twitch.tv/downloads/) . Compared to the web version, the Twitch desktop app has proved to have better performance and it brings better responsiveness.

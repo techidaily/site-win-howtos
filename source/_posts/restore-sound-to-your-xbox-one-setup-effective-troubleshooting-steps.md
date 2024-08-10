@@ -1,7 +1,7 @@
 ---
 title: Restore Sound to Your Xbox One Setup - Effective Troubleshooting Steps
-date: 2024-08-06 16:49:14
-updated: 2024-08-09 12:31:34
+date: 2024-08-09T01:01:45.161Z
+updated: 2024-08-10T01:01:45.161Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ a)
 Open run dialog box by pressing**Windows** key + **R** key together.  
 Then type **msconfig** in the box and hit **Enter**.  
   
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 b)  
@@ -46,6 +49,9 @@ Open quick-access menu by pressing **Windows** key + **X** key.
 Then click **Command Prompt(Admin)** to run it as administrator.  
 When prompted by User Account Control, click   **Yes.**
   
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
 3)  
@@ -62,6 +68,9 @@ Type the following commands and hit **Enter** to run them one by one:
 Follows the a) & b) of Step 1 to open**System Configuration**Window.  
 This time uncheck **Safe boot** to reboot your Windows 10.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 5)  
@@ -78,17 +87,26 @@ a)
 Open Settings Window by pressing **Windows** key + **I** key.  
 Then click **Update & security**.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
   
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-2.jpg)
   
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
 2)  

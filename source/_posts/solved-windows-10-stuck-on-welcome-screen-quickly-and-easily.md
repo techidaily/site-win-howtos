@@ -1,7 +1,7 @@
 ---
 title: "[Solved] | Windows 10 Stuck on Welcome Screen | Quickly & Easily"
-date: 2024-08-06 23:20:26
-updated: 2024-08-09 11:20:53
+date: 2024-08-09T01:01:29.174Z
+updated: 2024-08-10T01:01:29.174Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4
 **[3: Restart WMI Provider Host Service](#f3)**
 **[4: Uninstall Components and Drivers Causing the Problem](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Fix 1: Run Virus Scan
 
  In some cases, the culprit is virus or malware. You just need to run your antivirus program to get it fixed. If you haven’t done it yet, you should do it right now.
@@ -41,12 +44,22 @@ thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4
  Troubleshooting in Safe Mode will better help you isolate and identify the culprits:
 
 1. On your keyboard, press the **Windows logo key** and**R** at the same time, then type**msconfig** in the search box and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Go to the**Boot** tab, then tick the box for Safe boot, and select the**Network** option. Click**Apply** and**OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Windows 11 - How to boot into Safe Mode](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Boot-into-safe-mode-with-networking.jpg)
 3. Make sure that you have saved your files and data, then click**Restart** to enter Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58eef72fb629f.png)
 4. When in Safe Mode, press the **Windows logo + R keys** simultaneously to open the Run box, then type**powershell.exe** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 11 - Open Windows PowerShell as an Administrator](https://www.drivereasy.com/wp-content/uploads/2017/04/win11-powershell.exe_.jpg)
 5. Then type this command**`msdt.exe -id MaintenanceDiagnostic`** and press **Enter** .  
 
@@ -58,11 +71,20 @@ thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4
 1. Still in the PowerShell window, type in this command**`msdt.exe /id PerformanceDiagnostic`** and press**Enter** .  
 
  You’ll see a Performance troubleshooting window pop up, just click**Next** to continue with the troubleshooting.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58eeff920bcfd.jpg)
 2. Still, if you see the notification telling you that something needs to be changed in your system, do as the system tells you to do.
 3. When the troubleshooting process finishes, you need to boot into a normal mood. Repeat step 1). Then go to the**Boot** tab and empty the box for**Safe boot** . Click**Apply** and**OK** to save and exit. Restart your computer into normal mode.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Windows 11 - Normal boot](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-System-Configuration-Do-not-go-into-Safe-boot.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Fix 3: Restart WMI Provider Host Service
 
  In some cases, the problem is with WMI Provider Host Service occupying too much of your PC resources. You can restart it:
@@ -72,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4
 2. Press the W key to locate the**Windows Management Instrument** service. Right-click it and select **Restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef1c683ff0b.jpg)
 3. Now press the**Windows logo key** to open the Start menu, then type**cmd** . Right-click**Command Prompt** from the list of results and select**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 4. In the Command Prompt window, type in the following commands and press**Enter** after each command.
 
@@ -87,6 +112,9 @@ net start wscsvc
 
 net start iphlpsvc
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef21b31a464.jpg)
 
 Restart your PC after the commands.
@@ -100,10 +128,17 @@ Restart your PC after the commands.
 2. Click the**View** button on top and then **Show Analytic and Debug Logs** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef237e03311.jpg)
 3. On the left pane, follow the path: **Applications and Service Logs > Microsoft > Windows > WMI Activity > Operational** log. Mark down the**latest** items listed as**Error** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef283a89775.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time, then type**taskmgr** and hit Enter to open the Task Manager.  
 ![how to open Task Manager](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 5. Go to the Details tab. Find the processes with matching IDs as seen in Event Viewer in the PID column. When you locate such a process, you can uninstall the program or disable its service as you like.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/03/2020-03-25_18-18-02.jpg)
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.

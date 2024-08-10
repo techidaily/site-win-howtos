@@ -1,7 +1,7 @@
 ---
 title: What to Do When the Latest Windows 11 Version 1607 Update Won't Install Successfully?
-date: 2024-08-06 18:30:24
-updated: 2024-08-09 11:47:43
+date: 2024-08-09T01:01:04.352Z
+updated: 2024-08-10T01:01:04.352Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 
 ## Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![d3d11 compatible GPU error](https://images.drivereasy.com/wp-content/uploads/2023/08/d3d11-compatible-GPU-error.jpg)
 
  Received an error message saying**A D3D11-compatible GPU is required to run the engine** when you launch an application or game such as Fortnite or Valorant. That’s a common error and means your GPU doesn’t support the required hardware features of Direct3D 11\. But don’t worry. You can fix it easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What is D3D11 compatible GPU error?
 
  D3D11 is short for Direct3D 11, which is used for rendering 3D graphics. If the system fails to recognize a D3D11-compatible GPU, you may receive the D3D11 compatible GPU error and find that certain programs cannot work. This can happen for several reasons, such as outdated DirectX version or GPU driver or improper configurations.
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 3. **[Download DirectX End-User Runtime Web Installer](#fix3)**
 4. **[Run the game on the dedicated GPU](#fix4)**
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Update DirectX
 
  If your computer is running an older DirectX version than DirectX 11, it may fail to support the DirectX 11 features. And this case, you should update the DirectX.
@@ -43,6 +52,9 @@ First, check the DirectX version on your PC.
 1. On your keyboard, press the Windows logo key and R at the same time to invoke the Run command. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-directx-1.jpg)
 2. Check your DirectX version. If it’s 12 or 11, the DirectX is already up-to-date and you could jump to the**[second solution](fix2)** . If it’s lower, follow the steps below to update it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-directx-2.jpg)
 
  On Windows 11, 10, 8, and 7, you could simply**install the latest Windows updates** to update the DirectX.
@@ -50,6 +62,9 @@ First, check the DirectX version on your PC.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows settings app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 2. Click **Check for updates** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Follow the on-screen instruction to install the latest Windows update, which may take a while. Once done, check if the DirectX version is updated. If the problem persists, continue to the next fix.
@@ -74,6 +89,9 @@ First, check the DirectX version on your PC.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the**Pro version** – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -100,12 +118,21 @@ First, check the DirectX version on your PC.
 1. On your desktop, right-click any empty space and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Scroll to the Multiple displays section and click**Graphics settings** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the program or game that triggers the error.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Choose**High performance** to utilize the dedicated GPU and click**Save** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/change-graphics-settings.jpg)
 
 Launch the game or program to see if the error message disappears now.

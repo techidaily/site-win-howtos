@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Sporadic Wi-Fi Mouse Failures in Modern Operating Systems (Windows 11/10)
-date: 2024-08-06 10:47:46
-updated: 2024-08-09 11:12:40
+date: 2024-08-09T01:01:24.639Z
+updated: 2024-08-10T01:01:24.639Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ a)
 Open run dialog box by pressing**Windows** key + **R** key together.  
 Then type **msconfig** in the box and hit **Enter**.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 b)  
@@ -36,6 +39,9 @@ On the pop-up window, view on **Boot** pane.
 Then tick on **Safe boot**and click **OK**.  
 Click **Restart**, if prompted by system configuration  
   
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
 Then your Windows 10 would get into safe mode.  
@@ -46,6 +52,9 @@ Open quick-access menu by pressing **Windows** key + **X** key.
 Then click **Command Prompt(Admin)** to run it as administrator.  
 When prompted by User Account Control, click   **Yes.**
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
 3)  
@@ -62,6 +71,9 @@ Type the following commands and hit **Enter** to run them one by one:
 Follows the a) & b) of Step 1 to open**System Configuration**Window.  
 This time uncheck **Safe boot** to reboot your Windows 10.  
   
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 5)  
@@ -78,6 +90,9 @@ a)
 Open Settings Window by pressing **Windows** key + **I** key.  
 Then click **Update & security**.  
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 b)  
@@ -89,6 +104,9 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
 2)  

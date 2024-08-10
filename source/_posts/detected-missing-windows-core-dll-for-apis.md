@@ -1,7 +1,7 @@
 ---
 title: Detected Missing Windows Core DLL for APIs
-date: 2024-08-08 22:49:49
-updated: 2024-08-09 12:57:47
+date: 2024-08-09T01:01:04.869Z
+updated: 2024-08-10T01:01:04.869Z
 tags:
   - win11
   - win10
@@ -33,18 +33,30 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-set-up-accept-decline.jpg)
   
  3) Tick the option**Create installation media for another PC** , and then click**Next** .  
   
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-setup-600x470.png)
 
  4) Then you will be lead to a page where you need to select language, architecture and edition. If you are going to install it on a different PC, clear the check box before “**Use the recommended options for this PC** ” and fill in the information that you prefer and click**Next** to continue.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-architecture-and-edition-600x470.png)
   
  If you are going to use the installation media on the same PC that you create it, you can click**Next** to go ahead.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-windows-10-setup-600x470.png)
 
  5) Next, select whether you want the tool to create a bootable**USB flash drive** with the installation media, or just create an**ISO file** that can be used to burn to a DVD later. Select the option you want and click**Next** .
@@ -78,16 +90,25 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Follow the path**Start> Settings> Update & security> Recovery>** **Restart now** button under**Advanced startup** .
   
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/advanced-startup-restart-now.jpg)
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
   
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/use-a-device.png)
   
 **Note** : Some users might not be able to see the **Use a device** option here. But we find that if the USB flash drive with the ISO files or the DVD disc is connected to the computer, you can boot from the device by clicking**Continue** button.
   
  10) You will see the activation screen next. If you have installed Windows 10 on this computer, please choose**I don’t have a product key** . If you have never installed Windows 10 on this computer before, please type in your valid license key, which could be the key for Windows 7, Windows 8 or Windows 8.1\.
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-setup-activate-windows-600x452.png)
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
@@ -107,6 +128,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Type**cmd** in the search box, then choose**Command Prompt** from the list of choice.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd.jpg)
 
  b) Type in the command**slmgr.vbs /ato**  and press**Enter** key.  
@@ -125,6 +149,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  1) Click the**Start** button, and then choose**Settings** that comes up.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/settigns-in-start.jpg)
 
  2) Click on the**Update & security** icon.  
@@ -149,6 +176,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  6) Press**Reset** to start the reset process.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-uninstall-windows-10-quickly-and-easily-5071.jpg)
   
  7) Wait for a while for the process to begin. When finished, you will need to set up your personal preference before logging onto your desktop.

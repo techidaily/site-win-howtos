@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside
-date: 2024-08-08 20:28:24
-updated: 2024-08-09 10:46:32
+date: 2024-08-09T01:01:35.459Z
+updated: 2024-08-10T01:01:35.459Z
 tags:
   - win11
   - win10
@@ -17,10 +17,16 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 For people who love watching episodes, Netflix is one of the important parts of life. If you have the same feeling as below, you’re not alone. We can totally understand.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/tweet.jpg)
 
  But it won’t always be a worldwide outage, sometimes it just happens to you. So what can you do when your Netflix not working properly? Read on to find how.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check the Netflix status
 
  You have to make sure whether the issue is on the Netflix side or your side. You can check the[Netflix status](https://help.netflix.com/en/is-netflix-down) on its official website.
@@ -71,6 +77,10 @@ For people who love watching episodes, Netflix is one of the important parts of 
 2. Click **Update & security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-6.jpg)
 3. Windows will check for updates. If it does not, select **Check for updates** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/update1-1.jpg)
 4. After installation, restart your computer and try Netflix again.
 
@@ -82,6 +92,9 @@ For people who love watching episodes, Netflix is one of the important parts of 
 1. Run Google Chrome.
 2. Click the three dots button in the upper right corner of your browser.
 3. Select **History > History** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/clear-data.jpg)
 4. In the left pane, select **Clear Browsing Data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/clear-data1.jpg)
@@ -89,6 +102,9 @@ For people who love watching episodes, Netflix is one of the important parts of 
 6. In the **Time Range** drop-down, select **All time** .
 7. Uncheck everything except **Cached images and files** .
 8. Select **Clear data** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/data-1.jpg)
 9. Try Netflix again.
 
@@ -96,6 +112,9 @@ For people who love watching episodes, Netflix is one of the important parts of 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Sign out of Netflix
 
  When your smart TV couldn’t play TV shows or movies, try to sign out of Netflix first.

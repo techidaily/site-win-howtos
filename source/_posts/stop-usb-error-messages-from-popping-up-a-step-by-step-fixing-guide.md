@@ -1,7 +1,7 @@
 ---
 title: "Stop USB Error Messages From Popping Up: A Step-by-Step Fixing Guide"
-date: 2024-08-06 12:40:20
-updated: 2024-08-09 10:24:42
+date: 2024-08-09T01:01:34.391Z
+updated: 2024-08-10T01:01:34.391Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 
  The programs in Windows work depend on Dll files. If the Dll file crashes, your program may not work and there you get error **Windows Shell Common Dll has stopped working** . This small tutorial is going to give you the solutions for the error. Please take your time following the easy steps below to try to solve it on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Solution 1\. Update your device drivers**
 
  The outdated or corrupted drivers on your Windows can cause various problem, including the issue here we are talking about. So make sure to update the device drivers on your PC. As users reported, the issue always relates to sound device. Thus you can update you audio driver first.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
  Press**Windows** key +**R** key at the same time to open Run box.  
  Type**devmgmt.msc** in the box and hit**Enter** to open Device Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-20.png)
 
  2)  
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 
  Click**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-19.png)
 
  Now the Windows will detect the update for your driver automatically. Follow the on-screen instructions if there is update detected.
@@ -71,6 +80,9 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
 
  Type**sfc /scannow** in the open window and hit**Enter** to run it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/11-2.jpg)
 
  Wait till Verification**100%** complete.
@@ -90,6 +102,10 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
 
  Click**Yes** when prompted by**User Account Control** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-4.png)
 
  3)  
@@ -97,6 +113,9 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
  Type the following command in the pop-up window and press**Enter** .  
  **Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/9-4.png)
 
  4)  

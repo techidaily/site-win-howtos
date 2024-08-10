@@ -1,7 +1,7 @@
 ---
 title: "Mastering Touchpad Navigation: Resolve Stuck/Unresponsive Scroll Wheel Issues"
-date: 2024-08-06 12:34:11
-updated: 2024-08-09 11:56:38
+date: 2024-08-09T01:01:39.536Z
+updated: 2024-08-10T01:01:39.536Z
 tags:
   - win11
   - win10
@@ -24,6 +24,9 @@ If you suddenly cannot scroll with two fingers on your touchpad, don’t worry. 
 3. [**Roll back the touchpad driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update the toupad driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Change the Mouse Pointer
 
 Changing the mouse pointer had worked for some users who had the same error. So it is worth a try.
@@ -34,10 +37,16 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
  2) View by Category and select click on **Hardware and Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f47f87ea005.jpg)
 
 3) Under **Devices and Printers** , click **Mouse** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f47f9f7c2c8.jpg)
 
  4) Select the new pointer from the drop-down menu of **Scheme**. You can change the mouse pointer to a solid black one.  
@@ -54,6 +63,9 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
  2) View by Category and select click on**Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f46586134da.jpg)
 
 3) Under**Devices and Printers**, click**Mouse**.  
@@ -66,6 +78,11 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
  5) Expand**MultiFinger Gestures** , and check the box next to**Two-Finger Scrolling** .  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f46725e17fd.jpg)
   
  6) Click**Apply** buttons.  
@@ -82,6 +99,9 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
  2) Expand category “**Mice and other pointing devices** “, and right-click on the touchpad device and select**Properties** . (In the case here, it is Synaptics Pointing Device.)  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f4837cbe218.jpg)
   
  3) Click**Driver** tab and click on**Roll Back Driver** . (If the button is grayed out, it means the driver cannot be restored. This solution doesn’t work for you.)  
@@ -96,6 +116,10 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
  If rolling back driver doesn’t work for you, try to uninstall then update the driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  Solution 4: Update the toupad driver  
 
  The steps above may resolve the problem, but it they don’t, update the touchpad driver.

@@ -1,0 +1,181 @@
+---
+title: "Problem Solved: Correcting Login Keyboard Connectivity Issues"
+date: 2024-08-15T11:26:50.142Z
+updated: 2024-08-16T11:26:50.142Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Problem Solved: Correcting Login Keyboard Connectivity Issues"
+excerpt: "This Article Describes Problem Solved: Correcting Login Keyboard Connectivity Issues"
+thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588b1a16a6d86a2463638f1ee2.jpg
+---
+
+## Troubleshooting Keyboard Delay Issues in Windows 10: Effective Solutions Applied
+
+If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
+
+## 4 Fixes for Keyboard Lag
+
+ All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
+
+1. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
+4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+### Fix 1: Check for hardware issues
+
+ This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
+
+1. Depending on what kind of keyboard you’re using:  
+   * **I’m using a wired keyboard** : double check that your keyboard has been connected properly. If typing still can’t catch up, try **2)** .  
+   * **I’m using a wireless keyboard** : replace/charge the battery if needed. If the typing still can’t catch up, try**2)** .
+2. Try a different (and functioning) keyboard on your computer. Test if the delay still happens. If the issue disappears, then it’s probably that the first keyboard is faulty. If the delay issue still occurs, then move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Run Hardware and Devices troubleshooter
+
+**Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
+
+1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+ Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 3: Update your keyboard driver
+
+ This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+**Driver Easy** will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+ 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+ 4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Run DISM
+
+ Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
+
+1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+2. Type **the following command** and press **Enter** :  
+**DISM.exe /Online /Cleanup-image /Restorehealth**  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Wait a while for the whole process to finish.
+3. Type **sfc /scannow**  and press **Enter** .
+4. Restart your computer, type a few words and see if it registers as expected.
+
+---
+
+ That’s it – 4 fixes for your**keyboard lag** issue. Hope it helps and feel free to comment below if you have any further questions.
+
+ Featured image by **[Soumil Kumar](https://www.pexels.com/@soumil-kumar-4325?utm%5Fcontent=attributionCopyText&utm%5Fmedium=referral&utm%5Fsource=pexels)**  from **[Pexels](https://www.pexels.com/photo/photo-of-person-typing-on-computer-keyboard-735911/?utm%5Fcontent=attributionCopyText&utm%5Fmedium=referral&utm%5Fsource=pexels)**
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [keyboard](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-7-high-motion-dslrs-for-dynamic-live-content-creation/"><u>[New] In 2024, Best 7 High-Motion DSLRs for Dynamic Live Content Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>[New] Live to Share  Top Tech For High-Quality YouTube Livestreams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-overwatch-could-not-locate-resources/"><u>[Solved] Overwatch Could Not Locate Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-wacom-tablet-not-working-issues/"><u>[Solved] Wacom Tablet Not Working Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ppt-visualization-leveraging-webcam-tech/"><u>[Updated] 2024 Approved  PPT Visualization  Leveraging Webcam Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-guide-to-leveraging-obs-in-android/"><u>[Updated] Expert Guide to Leveraging OBS in Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-basics-to-brilliance-the-fb-cover-video-journey/"><u>[Updated] In 2024, From Basics to Brilliance  The FB Cover Video Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-laptop-specific-tips-to-maximize-your-screenrec-for-2024/"><u>[Updated] Laptop-Specific Tips to Maximize Your ScreenRec for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-podcast-style-unboxing/"><u>[Updated] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-20-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 20 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-tackling-the-persistent-sound-crackles-in-windows-11-and-windows-abcdessors-win7/"><u>Diagnose & Repair: Tackling the Persistent Sound Crackles in Windows 11 & Windows Abcdessors (Win7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-broken-usb-ports-for-windows-1011-users/"><u>Diagnosing & Repairing Broken USB Ports for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-audio-driver-not-installed-problem-in-modern-windows-os/"><u>Diagnosing and Repairing the 'Audio Driver Not Installed' Problem in Modern Windows OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-quality-in-a-shoe-box-kodaks-fz53/"><u>Discover Quality in a Shoe Box - Kodak's FZ53</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-fixing-a-malfunctioning-scroll-wheel-on-logitech-mice-with-ease/"><u>DIY Repair: Fixing a Malfunctioning Scroll Wheel on Logitech Mice with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-troubleshooting-techniques-for-frozen-windows-10-taskbar/"><u>Effective Troubleshooting Techniques for Frozen Windows 10 Taskbar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ethical-relaxation-soundscapes/"><u>Ethical Relaxation Soundscapes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-getting-your-igfxem-module-back-up-and-running/"><u>Expert Tips on Getting Your Igfxem Module Back Up and Running</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-the-ideal-camera-for-windows-hello/"><u>Finding the Ideal Camera for Windows Hello</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-in-google-chrome-a-step-by-step-guide/"><u>Fixing the 'Critical Error' In Google Chrome: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-offscreen-window-issues-a-comprehensive-walkthrough/"><u>How To Fix Offscreen Window Issues: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-may-update-version-1903-installation-problems-a-comprehensive-guide/"><u>How to Fix Windows 10 May Update (Version 1903) Installation Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-reconnect-to-the-steam-shop-after-unexpected-disruptions/"><u>How To Successfully Reconnect to The Steam Shop After Unexpected Disruptions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-c50-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco C50 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instabeats-intellectual-property-overview/"><u>In 2024, InstaBeats  Intellectual Property Overview</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y36-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y36 Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-and-configuring-razer-mice-drivers-on-windows-systems-fast-and-effortless-guide/"><u>Installing and Configuring Razer Mice Drivers on Windows Systems: Fast & Effortless Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-lut-use-in-professional-video-editing-for-2024/"><u>Navigating LUT Use in Professional Video Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-dxgkrnl-fatal-error-in-videos-under-windows/"><u>Resolve DXGKRNL Fatal Error in Videos Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-latency-problems-with-your-keyboard-in-windows-11-systems/"><u>Resolving Latency Problems with Your Keyboard in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211489147-small-cell-lung-cancer-sclc-is-highly-aggressive-with-rapid-growth-rates-and-early-metastasis/"><u>Small Cell Lung Cancer (SCLC) Is Highly Aggressive, with Rapid Growth Rates and Early Metastasis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-screen-and-video-capture-on-android/"><u>Step-by-Step  Screen and Video Capture on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-winning-against-kb4056892-installation-woes-in-windows-11/"><u>Step-by-Step Fix for Winning Against KB4056892 Installation Woes in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-windows-installation-failure-error-0x80code0x080070643-on-windows-systems/"><u>Step-by-Step Solutions to Fix 'Windows Installation Failure Error 0X80([code]0X080070643) on Windows Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-enhancing-wireless-range-with-netgears-ac1200-extender-ex6200-reviews-and-insights/"><u>The Ultimate Guide to Enhancing Wireless Range with Netgear's AC1200 Extender (EX6200) - Reviews & Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-nonfunctional-brightness-settings-on-windows-10/"><u>Troubleshooting Fixes for Nonfunctional Brightness Settings on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overactive-msmpengexe-eating-cpu-on-your-windows-10-system-fixed/"><u>Troubleshooting: Overactive MsMpEng.exe Eating CPU on Your Windows 10 System (FIXED)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutorial-for-solving-widevine-not-updated-issue-and-restoring-playback-on-windows/"><u>Tutorial for Solving 'Widevine Not Updated' Issue and Restoring Playback on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-resolving-videodxgkrnlcriticalfailures-in-windows-os/"><u>Ultimate Guide to Resolving Video_Dxgkrnl_Critical_Failures in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-v1607-installation-issue-how-to-fix/"><u>Windows 10 Update v1607 Installation Issue - How to Fix?</u></a></li>
+</ul></div>

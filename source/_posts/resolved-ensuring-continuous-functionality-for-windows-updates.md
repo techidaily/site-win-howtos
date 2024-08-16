@@ -1,0 +1,193 @@
+---
+title: Resolved! Ensuring Continuous Functionality for Windows Updates
+date: 2024-08-15T11:40:12.237Z
+updated: 2024-08-16T11:40:12.237Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Resolved! Ensuring Continuous Functionality for Windows Updates
+excerpt: This Article Describes Resolved! Ensuring Continuous Functionality for Windows Updates
+thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d3040a1084f509333c65c397.jpg
+---
+
+## Troubleshooting Non-Functional Volume Buttons in Windows 11 – Solved
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d46a84135.jpg)
+
+ If you find the volume control bar on your computer not working, don’t worry. Many users have reported the same.
+
+The good news is, you can fix it easily!
+
+## Try these fixes
+
+ All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
+
+1. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Restart the Windows Audio service and Windows Audio Endpoint Builder**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Run SFC**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Fix 1: Update your sound driver
+
+ Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
+
+ There’re two ways you can update your device drivers — manually or automatically. But the manual driver updating process can be time-consuming and risky, so we won’t be covering it here.
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either[**the FREE**](https://tools.techidaily.com/drivereasy/download/) or[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **Download**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual
+4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
+
+ Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
+
+To do so:
+
+1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+2. Locate and double-click on**Windows Audio** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
+4. Repeat this fix on **Windows Audio Endpoint Builder** .
+5. **Restart** your PC and check if your volume control icon works as it should.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Run SFC
+
+ Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
+
+To run SFC:
+
+1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Click **Yes**   when prompted to confirm.
+2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
+ It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+### Fix 4: Run the Playing Audio troubleshooter
+
+ If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
+
+Here’s how:
+
+1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2. Click**Playing Audio** \>**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+4. Don’t forget to**restart** your machine and check if the volume control works fine now.
+
+---
+
+ How have the methods above helped you with the troubleshooting? Do you have any ideas or tips to share with us? Drop a comment below and let us know your thoughts.
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-illumination-innovations-advanced-lighting-in-video-making/"><u>[New] Illumination Innovations  Advanced Lighting in Video Making</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-finest-yt-unboxing-sequences/"><u>[Updated] Explore the Finest YT Unboxing Sequences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-influencer-integration-amplifying-engagement-through-collaborations/"><u>[Updated] Influencer Integration  Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-guide-to-achieving-video-freeze-effects-on-snapchat-for-2024/"><u>[Updated] Quick Guide to Achieving Video Freeze Effects on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-skyrocketing-engagement-on-igtv-with-smart-hash-tagging-for-2024/"><u>[Updated] Skyrocketing Engagement on IGTV with Smart Hash Tagging for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages  Elevate Your Environment for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-believe-everything-chatgpt-says-understanding-its-reliability/"><u>Can You Believe Everything ChatGPT Says: Understanding Its Reliability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-microsoft-antimalware-engine-overusing-resources-on-your-windows-11-pc/"><u>Comprehensive Solution for Microsoft Antimalware Engine Overusing Resources on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-boot-issues-solved-a-guide-to-overcoming-initialization-hiccups/"><u>Computer Boot Issues Solved: A Guide to Overcoming Initialization Hiccups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-dealing-with-freezing-issues-on-your-laptop-mouse/"><u>Effective Solutions for Dealing with Freezing Issues on Your Laptop Mouse</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/grasp-growth-with-free-fb-extractor-apps/"><u>Grasp Growth with Free FB Extractor Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-v29-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo V29 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-astro-a40s-malfunctioning-mic/"><u>How to Restore Functionality to Your Astro A40's Malfunctioning Mic</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y200-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y200 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-green-screen-videos-must-know-secrets/"><u>In 2024, Ace Your Green Screen Videos  Must-Know Secrets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>In 2024, HD's Finest Picks  Reviewing Top Screen Recorders</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-realm-of-ring-vs-reality-stream/"><u>In 2024, The Realm of Ring vs Reality Stream</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/issue-resolved-connectivity-issues-between-windows-os-and-event-notification-server/"><u>Issue Resolved: Connectivity Issues Between Windows OS and Event Notification Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-connectivity-how-to-ensure-flawless-bluetooth-pairing-on-your-windows-11-pc/"><u>Master Connectivity: How to Ensure Flawless Bluetooth Pairing on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211140305-master-the-trick-to-keep-your-cs-go-game-running-smoothly/"><u>Master the Trick to Keep Your CS GO Game Running Smoothly!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterful-color-grading-explore-these-7-methods-for-2024/"><u>Masterful Color Grading  Explore These 7 Methods for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-troubleshooting-guide-tackling-the-ominous-black-screen-on-boot/"><u>Monster Hunter: World Troubleshooting Guide – Tackling the Ominous Black Screen on Boot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-darkness-in-depth-strategies-for-repairing-a-nonresponsive-screen-on-dell-notebooks/"><u>Navigating the Darkness: In-Depth Strategies for Repairing a Nonresponsive Screen on Dell Notebooks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-window-plus-shift-plus-s-hurdle-on-your-computer-running-windows-11-or-10/"><u>Overcome the 'Window + Shift + S' Hurdle on Your Computer Running Windows 11 or 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-laptops-keyboard-tips-and-solutions/"><u>Resolving Issues with Your Laptop's Keyboard - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-usb-port-how-to-restore-functionality-in-your-hp-notebook/"><u>Reviving the USB Port: How to Restore Functionality in Your HP Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206824332-reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategy-for-fixing-broken-system-files-in-windows-11/"><u>Step-by-Step Strategy for Fixing Broken System Files in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-to-print-pdf-files-heres-how-you-can-resolve-it-fast/"><u>Struggling To Print PDF Files? Here's How You Can Resolve It Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-displays-without-touchscreen-or-physical-keyboard-support/"><u>Troubleshooting Displays Without Touchscreen or Physical Keyboard Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-dvd-playback-problems-on-windows-computers/"><u>Troubleshooting Guide: DVD Playback Problems on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-consumption-by-msmpengexe-on-windows-10-completed/"><u>Troubleshooting High CPU Consumption by MsMpEng.exe on Windows 10 [COMPLETED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-solutions-for-unrecognized-usb-flash-drives/"><u>Troubleshooting: Quick Solutions for Unrecognized USB Flash Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-and-preventing-critical-errors-in-google-chrome-stay-protected/"><u>Ultimate Guide: Fixing and Preventing Critical Errors in Google Chrome - Stay Protected!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-your-touchscreen-on-windows-10-try-these-5-troubleshooting-tactics/"><u>Unstuck Your Touchscreen on Windows 10? Try These 5 Troubleshooting Tactics!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-version-1607-issues-with-feature-update-installation-process/"><u>Windows 10 Version 1607: Issues with Feature Update Installation Process</u></a></li>
+</ul></div>

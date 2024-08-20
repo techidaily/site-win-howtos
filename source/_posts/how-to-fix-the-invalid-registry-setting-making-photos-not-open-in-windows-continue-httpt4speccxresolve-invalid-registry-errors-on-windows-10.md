@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/"
-date: 2024-08-09T01:01:32.888Z
-updated: 2024-08-10T01:01:32.888Z
+date: 2024-08-19T07:09:29.476Z
+updated: 2024-08-20T07:09:29.476Z
 tags:
   - win11
   - win10
@@ -166,3 +166,41 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-digital-leaders-the-top-10-online-video-recorder-apps/"><u>[New] 2024 Approved  Digital Leaders  The Top 10 Online Video Recorder Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-smooth-media-transfer-twitvideos-to-whatsapp-guide/"><u>[New] In 2024, Smooth Media Transfer  TwitVideos to WhatsApp Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-soundstage-storytelling-scripts/"><u>[Updated] In 2024, Elite Soundstage Storytelling Scripts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-melodic-guide-navigating-copyright-with-instagram/"><u>A Melodic Guide  Navigating Copyright with Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-your-own-gpt-experience-today-on-the-official-openai-store-platform/"><u>Access Your Own GPT Experience Today on the Official OpenAI Store Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/answered-troubleshooting-directx-device-instantiation-mishap/"><u>Answered: Troubleshooting DirectX Device Instantiation Mishap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-review-of-syma-x8c-for-2024/"><u>Comprehensive Review of Syma X8C for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-your-stuck-touchpad-scroll-wheel/"><u>Comprehensive Solutions to Fix Your Stuck Touchpad Scroll Wheel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-to-correct-file-path-not-found-in-windows/"><u>Comprehensive Walkthrough to Correct 'File Path Not Found' In Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-elevated-cpu-load-from-windows-update-host-wu-dll-in-windows-11/"><u>Diagnosing and Repairing Elevated CPU Load From Windows Update Host (Wu-Dll) in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-dell-display-rapid-flashes/"><u>Ending Dell Display Rapid Flashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-for-wacom-tablet-connectivity-and-functionality-issues/"><u>Essential Solutions for Wacom Tablet Connectivity and Functionality Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-window-10-sluggish-shutdown-problems-simple-solutions/"><u>Fix Your Window 10 Sluggish Shutdown Problems - Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-endless-loop-windows-update-stuck-on-100-percent-solution-inside/"><u>Fixing the Endless Loop: Windows Update Stuck on 100 Percent - Solution Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-frozen-prepare-to-configure-phase-on-your-windows-device-now-resolved/"><u>Fixing the Frozen Prepare-to-Configure Phase on Your Windows Device - Now Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/geforce-experience-wont-open-issue-solved/"><u>GeForce Experience Won't Open Issue [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-problem-with-my-diagnostic-tools-currently-inactive/"><u>How I Fixed the Problem with My Diagnostic Tools Currently Inactive</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55 Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211734324-how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207956611-laptop-microphone-not-working-heres-how-to-fix-it-right-now/"><u>Laptop Microphone Not Working? Here's How to Fix It Right Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003538293-master-the-art-of-stable-gaming-overcome-yakuza-6-pc-faults-easily/"><u>Master the Art of Stable Gaming: Overcome Yakuza 6 PC Faults Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-usb-dropout-effective-strategies-for-stable-connectivity-fixes/"><u>Overcoming USB Dropout: Effective Strategies for Stable Connectivity Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-mouse-pointer-visibility-issues-on-windows-11-expert-fixes/"><u>Restoring Mouse Pointer Visibility Issues on Windows 11: Expert Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smooth-movies-clean-shots-the-10-best-for-superior-image-stabilization/"><u>Smooth Movies, Clean Shots  The 10 Best for Superior Image Stabilization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-popping-resolving-crackle-sound-problems-in-windows-operating-systems/"><u>Stop the Popping: Resolving Crackle Sound Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-obs-screenshots-and-captures-the-ultimate-fix-for-black-image-dilemmas/"><u>Tackling OBS Screenshots and Captures - The Ultimate Fix for Black Image Dilemmas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-casting-issues-in-windows-10/"><u>Troubleshooting and Fixing Casting Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-right-click-issues-on-a-mouse-with-windows-11/"><u>Troubleshooting Guide: Fixing Right-Click Issues on a Mouse with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-on-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues on Your ASUS Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-dealing-with-unresponsive-numeric-keys/"><u>Troubleshooting Tips: Dealing with Unresponsive Numeric Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-device-inputs-monitor-compatibility-solutions/"><u>Troubleshooting Unsupported Device Inputs – Monitor Compatibility Solutions</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-teredo-did-not-make-the-cut-a-comprehensive-breakdown/"><u>Why Teredo Did Not Make the Cut: A Comprehensive Breakdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-user-guide-fixing-hosted-wi-fi-connection-startup-failures/"><u>Windows 10 User Guide: Fixing Hosted Wi-Fi Connection Startup Failures</u></a></li>
+</ul></div>

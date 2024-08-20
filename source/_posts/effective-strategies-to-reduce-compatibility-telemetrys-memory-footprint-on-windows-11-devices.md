@@ -1,0 +1,217 @@
+---
+title: Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices
+date: 2024-08-19T07:55:05.584Z
+updated: 2024-08-20T07:55:05.584Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices
+excerpt: This Article Describes Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices
+thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a3953138abcae7ed2effebf679e.jpg
+---
+
+## Overcome Slow Shutdown Woes in Windows 11 – Effective Strategies Inside
+
+After a day’s work, you click**Shut down** and pack your stuff for leaving. But when you glance at your computer screen, it’s still on the loading screen. You stand and watch it impatiently. Usually, the shutdown process should be taken no more than a few seconds. But when it takes you a lot of time while shutting down, your computer has Windows 10 slow shutdown issue.  
+ Don’t worry, you’re not alone. And this issue should be easy to fix.
+
+## Try these fixes
+
+1. [**Disconnect your USB-C device before shut down**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Run Power Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Disable Fast Startup feature**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Disconnect your USB-C device before shut down
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
+
+ USB Type-C sample  
+ Photo from Amazon
+
+ Microsoft has confirmed that there’s a new bug which will affect your computer shut down process slowly. The bug in the USB Type-C Connector System Software Interface (UCSI) software may cause a 1 minute delay for Windows 10 to shut down.
+
+**Note** : This bug only affects with Windows shut down, won’t influence normal functionality on your computer. And it will work normally after restarting the system.
+
+The solution for this bug is very simple.
+
+ Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
+
+### Fix 2: Run Power Troubleshooter
+
+ Windows has built-in troubleshooter to fix some common errors. You can try Power Troubleshooter to fix the slow shut down issue.
+
+1. Press the**Windows logo key + I** to open**Settings** .
+2. Click**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
+3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
+4. Follow the on-screen instructions to finish the process.
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Reboot your computer to apply the changes.
+
+### Fix 3: Disable Fast Startup feature
+
+ If your Fast Startup is enabled, when you shut down the computer, you may encounter slow shutdown or back to the Windows Lock Screen.  
+ Fast Startup is supposed to reduce startup time by pre-loading some boot information before your PC shuts off. But when it’s enabled and you shut down the computer, all sessions logged off and the computer enters hibernation. This feature may slow down shutdown speed for your computer.  
+ To solve it, you can simply disable the Fast Startup.
+
+1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
+2. Change **View by Large icons** and click **Power Options** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
+3. Click **Choose what the power button do** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
+4. Click **Change settings that are currently unavailable** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
+5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
+6. Reboot your computer to apply the changes.
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Repair system files
+
+ The corrupted system file will let the system take more time to shut down your computer. To solve it, you can use System File Checker (SFC) to repair the broken system files.
+
+1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
+2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
+**Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
+4. Reboot your computer to check the changes.
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
+ Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
+
+### Fix 5: Registry fix
+
+ If the above fixes can’t help, you can try this one. The corruption of registry files may the reason for the slow shut down issue. You can solve the issue by following the below steps:
+
+1. Press the**Windows logo key + R** to open the Run box.
+2. Type “regedit” and press**Enter** to open**Registry Edition** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
+3. Copy and paste the text into the address bar and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+ “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
+4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
+5. Copy and paste the text into the address bar and press Enter.  
+ “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
+6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
+7. Click**OK** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+8. Reboot your computer to apply the changes.
+
+## Bonus: Update your driver
+
+ If there’re any old or corrupted drivers on your Windows 10 PC, this will cause trouble to your computer. To get a better-using experience and prevent your computer from trouble, it’s important to keep your device drivers up-to-date.
+
+ You can do this manually by downloading the latest drivers from the devices’ manufacturer official website. This will take time and need a litter computer knowledge. If you want to save some time or not confident with drivers, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to do it automatically.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click Scan Now button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+**Note** : You can do it for free if you like, but it’s partly manual.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+4. Reboot your Windows 10 computer and check the issue.
+
+ Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secure-mp3-conversion-of-live-skype-talks/"><u>[New] 2024 Approved  Secure MP3 Conversion of Live Skype Talks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-10-fb-videos-to-mp4-converter-toolkit/"><u>[New] In 2024, Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetstream-extractor-pull-twitter-videos-to-iphone-for-2024/"><u>[New] TweetStream Extractor  Pull Twitter Videos to iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-visual-journey-uncovering-the-best-icons-and-logos-online-for-2024/"><u>[Updated] A Visual Journey  Uncovering the Best Icons & Logos Online for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screening-the-best-selecting-premium-macos-recording-apps/"><u>[Updated] Screening the Best  Selecting Premium macOS Recording Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-arc-architect-suite/"><u>2024 Approved  Arc Architect Suite</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-guide-choosing-the-right-wireless-travel-router/"><u>2024'S Ultimate Guide: Choosing the Right Wireless Travel Router</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-inclusive-360-panorama-viewer-for-2024/"><u>All-Inclusive 360 Panorama Viewer for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-how-to-resolve-your-mouse-not-working-in-windows/"><u>Bluetooth Connectivity Issues: How to Resolve Your Mouse Not Working in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/critical-insights-into-the-intensified-influence-of-marvels-spider-man-miles-morales-title/"><u>Critical Insights Into the Intensified Influence of Marvel's Spider-Man: Miles Morales Title</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disable-lcd-flicker-effects/"><u>Disable LCD Flicker Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-guide-resolving-audio-device-uninstalled-troubles-on-your-windows-amelon-computer/"><u>DIY Guide: Resolving 'Audio Device Uninstalled' Troubles on Your Windows Amelon Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-video-capture-expert-tips-for-obs-on-android-for-2024/"><u>Effortless Video Capture  Expert Tips for OBS on Android for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-lag-in-pubg-a-comprehensive-guide-to-addressing-connectivity-issues/"><u>Eliminating Lag in PUBG: A Comprehensive Guide to Addressing Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-encountered-mastering-the-solutions-for-incorrect-parameter-issues-in-loadlibrary/"><u>Error 87 Encountered? Mastering the Solutions for Incorrect Parameter Issues in LoadLibrary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>Exclusive Exploration  Superior VR Games on Google Cardboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203952593-fix-your-huion-pen-issues-quickly-top-5-troubleshooting-steps/"><u>Fix Your Huion Pen Issues Quickly: Top 5 Troubleshooting Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-casting-issues-how-to-get-your-windows-10-devices-connected/"><u>Fixing Casting Issues: How to Get Your Windows 10 Devices Connected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-hp-laptop-camera-problems-under-windows-11-expert-tips-and-tricks/"><u>Fixing Your HP Laptop Camera Problems Under Windows 11: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hacking-the-heavens-a-beginners-guide-to-spoofing-your-phones-gps/"><u>Hacking the Heavens: A Beginner’s Guide to Spoofing Your Phone’s GPS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-g310-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-missing-device-warning-windows-versions-11-8-and-7/"><u>How to Correctly Address the Missing Device Warning - Windows Versions 11, 8 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-access-the-essential-guide-for-installing-missing-printer-drivers/"><u>How to Enable Access: The Essential Guide for Installing Missing Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-not-found-d3dcompiler-error-on-windows/"><u>How to Fix the Not Found D3DCOMPILER Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-from-crashing-during-start-up/"><u>How to Fix Windows 11 From Crashing During Start-Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-expired-semaphore-timer-problem-code-0x80070079/"><u>How to Overcome the Expired Semaphore Timer Problem (Code 0X80070079)?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-x100-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo X100 Pro Through Google Earth?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6s?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-12-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 12 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-necessary-hp-deskjet-2652-drivers-on-windows-version-111087/"><u>Install the Necessary HP DeskJet 2652 Drivers on Windows (Version 11/10/8/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-malfunctions-heres-how-you-can-get-it-working-again/"><u>Laptop Microphone Malfunctions? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-strategies-to-repair-videodxgkrnl-catastrophic-failures-in-windows/"><u>Mastering the Fix: Strategies to Repair Video_dxgkrnl Catastrophic Failures in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-with-confidence-solving-your-windows-touchpad-scroll-woes-today/"><u>Navigate With Confidence: Solving Your Window's Touchpad Scroll Woes Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-false-debit-alerts-on-game-console/"><u>Overcoming False Debit Alerts on Game Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210782325-resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-stylish-and-powerful-apple-215-inch-4k-imac/"><u>Review of the Stylish & Powerful Apple 21.5-Inch 4K iMac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-firefox-secure-connection-error-secerrorunknownissuer-with-ease/"><u>Solve Firefox Secure Connection Error (SEC_ERROR_UNKNOWN_ISSUER) with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/spark-inspiration-free-soundtracks-to-enhance-projects-in-2024/"><u>Spark Inspiration - Free Soundtracks to Enhance Projects, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-overcoming-black-screen-problems-on-your-dell-computer/"><u>Step-by-Step Solution: Overcoming Black Screen Problems on Your Dell Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-improving-your-csgo-ping-speed/"><u>Step-by-Step Solutions for Improving Your CS:GO Ping Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-nier-automata-from-crashing-a-guide-for-pc-gamers/"><u>Stop Nier: Automata From Crashing - A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-solution-guide-restoring-access-to-your-networks-dhcp-server/"><u>The Solution Guide: Restoring Access to Your Network's DHCP Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubled-by-your-mouse-dropping-out-heres-how-to-restore-stable-connections/"><u>Troubled by Your Mouse Dropping Out? Here's How to Restore Stable Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-update-failure-code-0xc1900208-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Update Failure Code 0xC1900208: A Comprehensive Guide</u></a></li>
+</ul></div>

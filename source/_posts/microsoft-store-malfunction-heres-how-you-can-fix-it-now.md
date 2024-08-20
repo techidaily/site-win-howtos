@@ -1,0 +1,192 @@
+---
+title: Microsoft Store Malfunction? Here's How You Can Fix It Now
+date: 2024-08-19T07:48:21.552Z
+updated: 2024-08-20T07:48:21.552Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Microsoft Store Malfunction? Here's How You Can Fix It Now
+excerpt: This Article Describes Microsoft Store Malfunction? Here's How You Can Fix It Now
+thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70dc520fe3fec90378bd8cb5b.jpg
+---
+
+## Microsoft Store Malfunction? Here's How You Can Fix It Now
+
+ It’s annoying when you want to download an app from Microsoft Store but find out your Microsoft Store won’t open or closes immediately after opening. Don’t worry, you’re not alone. This issue can be solved easily.
+
+Before start using the methods, you should check your connection first.
+
+## Try these methods
+
+1. [Run Fortect to repair error](#f1)
+2. [Correct your time and location](#m1)
+3. [Use the WSReset tool](#m2)
+4. [Disable the Proxy connection](#m3)
+5. [Use Microsoft Store troubleshoot](#m4)
+6. [Reset Microsoft Store from settings](#m5)
+
+### Method 1\. Run Fortect to repair error
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix Windows errors. It is tailored to your specific system and is working in a private and automatic way.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+### Method 2: Correct your time and location
+
+ One of the most common reasons for the Microsoft Store won’t open problem is your time and region are not correct. Microsoft Store connects with the internet to download apps. When you open the Microsoft Store, the Store will compare the date and time automatically. If your PC time zone is different from your region, the Store will fail to load and cause the problem.  
+ Take a look at the time show on your screen, if it’s different from your region, you can follow the steps below to fix the problem.
+
+1. Press the**Windows key** +**I** together then click**Time & Language** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
+2. Open the**Set time automatically** button.![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
+3. Check your time and date.
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
+5. Open the Microsoft Store to check.
+
+### Method 3: Use the WSReset tool
+
+ This tool is made to clear and reset the Microsoft Store cache. Mostly, many problems are caused by corrupted cache files. So use the WSReset tool to clear and reset can easily solve the problem.
+
+1. Press the**Windows key** +**R** together to open the Run box.
+2. Type “wsreset.exe” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
+3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 4: Disable the Proxy connection
+
+ Your proxy setting may be the reason for the Microsoft Store won’t open problem. You may disable the proxy connection if it can help.
+
+1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
+2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+4. Run the Microsoft Store and check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 5: Use Microsoft Store troubleshoot
+
+ Whenever you’re having problems with the Windows system, the easiest method you can try is to run the Windows built-in troubleshooters. Windows 10 has built-in troubleshooters to diagnose and automatically fix common problems. There are many troubleshooters for different problems.  
+ You can use the troubleshooter specific for this “Microsoft Store won’t open” issue to resolve the problem.
+
+1. Press the**Windows key** +**I** together and click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/update.jpg)
+2. Click**Troubleshoot** and scroll down to find Microsoft Store Apps.
+3. Click**Microsoft Store Apps** and then click**Run the troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/troubleshoot.jpg)
+4. Follow the instructions on the screen then restart your computer.
+5. Run the Microsoft Store to check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Method 6: Reset Microsoft Store from settings
+
+ If the above settings can’t fix the problem, you can reset the Microsoft Store to default to solve the problem.
+
+1. Press the**Windows key** +**I** together and click**Apps** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
+2. Scroll down to find Microsoft Store.
+3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
+4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
+**Note** : This step will permanently delete the app’s data including your sign-in details.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
+5. Run the Microsoft Store to check whether the problem is solved or not.
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
+
+* [Windows store](/tag-search/?tagId=21777)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects/"><u>[New] 2024 Approved  Bring Your Vision to Life  Incorporating Free LUT Filters Into OBS Projects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-recover-missing-audio-from-tweeted-videos/"><u>[New] 2024 Approved  Recover Missing Audio From Tweeted Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-selection-of-win-11-camcorders-and-webcam-devices/"><u>[Updated] 2024 Approved  Expert Selection of Win 11 Camcorders & Webcam Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-real-time-streaming-methods-for-facebook-video-uploads/"><u>[Updated] 2024 Approved  Real-Time Streaming Methods for Facebook Video Uploads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-8-low-lag-screen-snipters-overview-for-2024/"><u>[Updated] Top 8 Low-Lag Screen Snipters Overview for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-winning-instagram-viewers-with-impactful-videos/"><u>[Updated] Winning Instagram Viewers with Impactful Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/become-proficient-at-note-management-through-mematic-for-2024/"><u>Become Proficient at Note Management Through Mematic for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/broadcast-tools-battle-wirecast-versus-obs-in-detail-for-2024/"><u>Broadcast Tools Battle  Wirecast versus OBS in Detail for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-complete-resource-lacking-response/"><u>Configuration Complete; Resource Lacking Response</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-step-by-step-process-for-rebooting-your-keyboard/"><u>Easy Guide: Step-by-Step Process for Rebooting Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-windows-11s-non-responsive-touchpad-scroll-barrier/"><u>Effective Solutions for Windows 11'S Non-Responsive Touchpad Scroll Barrier</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-dells-usb-port-stops-responding/"><u>Effective Solutions: When Your Dell's USB Port Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-the-common-module-retrieval-error-message/"><u>Efficient Fixes for the Common Module Retrieval Error Message</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficient-techniques-to-change-songs-playback-rate-on-spotify/"><u>Efficient Techniques to Change Songs' Playback Rate on Spotify</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/explore-tools-that-beat-sharex-performance-for-2024/"><u>Explore Tools That Beat ShareX Performance for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/file-explorer-woes-no-more-seamless-fixes-and-guides-for-windows-11-users/"><u>File Explorer Woes No More: Seamless Fixes and Guides for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-malfunctioning-huion-pen-top-5-effective-strategies/"><u>Fixing a Malfunctioning Huion Pen - Top 5 Effective Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-installation-failure-error-code-80240020-solution-guide/"><u>Fixing Windows 10 Installation Failure: Error Code 80240020 Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206639669-geforce-shadowplay-not-working-heres-how-to-get-it-up-and-running/"><u>GeForce ShadowPlay Not Working? Here's How to Get It Up and Running!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 7 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-wacom-stylus-when-its-unresponsive-on-pc-windows-1110/"><u>How to Repair Your Wacom Stylus When It's Unresponsive on PC (Windows 11/10)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-15-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-14-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi 14 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-incoherency/"><u>Keyboard Incoherency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-heres-how-to-get-your-numbers-working-again/"><u>Keyboard Malfunction? Here's How to Get Your Numbers Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lost-your-steam-game-files-learn-how-to-get-them-back-and-restore-access/"><u>Lost Your Steam Game Files? Learn How to Get Them Back and Restore Access!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-the-stop-error-0xc0000005-expert-strategies-for-fixing-critical-process-died-on-your-windows-machine/"><u>Navigate Through the STOP Error 0XC0000005: Expert Strategies for Fixing Critical Process Died on Your Windows Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-missing-dll-from-steam-games/"><u>Overcoming Missing Dll From Steam Games</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-game-hub-error-code-0x800700e9-on-microsoft-devices/"><u>Resolving Game Hub Error Code 0X800700E9 on Microsoft Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-werfuelexe-malfunction-top-6-strategies-for-windows-users/"><u>Resolving the 'werfuel.exe' Malfunction: Top 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dell-laptops-dead-keys-expert-fixes-for-non-responsive-buttons/"><u>Revive Your Dell Laptop's Dead Keys: Expert Fixes for Non-Responsive Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-letter-inputs-a-guide-to-fixing-broken-keys-on-win-11-systems/"><u>Reviving Letter Inputs: A Guide to Fixing Broken Keys on Win 11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-viewable-files-in-outlook-2019-on-a-pc/"><u>Tackling Non-Viewable Files in Outlook 2019 on a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-non-working-voice-chat-in-overwatch-effortlessly/"><u>Troubleshoot and Resolve Non-Working Voice Chat in Overwatch Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-update-issue-0x800f0831-with-ease/"><u>Troubleshooting and Resolving Windows Update Issue 0X80#0F0831 with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-failed-windows-10-version-1903-updates/"><u>Troubleshooting Tips: Fixing Failed Windows 10 Version 1903 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211090089-ultimate-fixes-for-total-war-rome-remastered-say-goodbye-to-crashes/"><u>Ultimate Fixes for Total War: Rome Remastered - Say Goodbye to Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-cannot-reach-remote-server-issues/"><u>Ultimate Guide: Resolving 'Cannot Reach Remote Server' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unplanned-restarts-post-gaming/"><u>Unplanned Restarts Post-Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-you-encounter-error-0x80071ac3-volume-corruption-issues/"><u>What to Do When You Encounter Error 0X80071AC3: Volume Corruption Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-usb-to-hdmi-adapter-connect-solving-common-issues/"><u>Why Won't My USB to HDMI Adapter Connect? Solving Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-core-api-dll-is-affecting-system-functions/"><u>Windows Core API DLL Is Affecting System Functions</u></a></li>
+</ul></div>

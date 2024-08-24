@@ -1,0 +1,218 @@
+---
+title: How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide
+date: 2024-08-23T14:01:38.356Z
+updated: 2024-08-24T14:01:38.356Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide
+excerpt: This Article Describes How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide
+thumbnail: https://thmb.techidaily.com/376a21d7adf513ad247008e922e6f8963a8f68fa243f110f1e6012bff2388fa5.jpg
+---
+
+## Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside
+
+ Found your**internal microphone** not working properly in**Windows 10** ? Don’t worry, you’re not alone. This is a fairly common error, and it’s usually not very hard to resolve.
+
+ Here we’ve included three possible solutions that have proved helpful to many users. You may not need to try them all; just work your way down the list until you find the one that works for you.
+
+**[Fix 1: Update your device drivers](#fix1)**
+
+**[Fix 2: Set microphone as default device](#fix2)**
+
+**[Fix 3: Re-enable microphone in Device Manager](#fix3)**
+
+**[Fix 4: Modify privacy settings](#fix4)**
+
+---
+
+## Fix 1: Update your device drivers
+
+If you got the mic-not-working issue after having Windows Updates, it’s possible that the drivers (especially the sound card driver) you’re using currently are out-dated, missing, or incompatible with your system. In case you’re not sure whether all the drivers are working fine, you should check.
+
+ You can do this in Windows Device Manager, one device at a time. But this takes a lot of time and patience, and if any of your drivers do happen to be out of date, you’ll need to manually update them, which is difficult and risky. If you don’t have the time, patience or computer skills to update your device drivers manually,   **you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy takes care of everything.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just two clicks (and you’ll get full support and a 30-day money-back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
+
+ 3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
+
+ Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
+
+**Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
+
+---
+
+## Fix 2: Set microphone as default device
+
+ Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
+
+ 1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
+
+ 2) Select**System Sounds** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
+
+ 3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+ 4) Click to highlight your microphone, then click**Set Default > Default Device** .
+
+**Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+ You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
+
+ 5) Again, click to highlight your mic. This time, click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+ 6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
+
+ 7) Click**OK** to save all the changes you’ve made.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
+
+ Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 3: Re-enable microphone in Device Manager
+
+ This is a quick yet useful solution when your internal microphone ran into glitches. Just follow the steps below to disable and then re-enable the mic device from Windows Device Manager:
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+ 2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Right-click your mic and select**Disable device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+ 4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+Now check to see your mic is back on track.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## Fix 4: Modify privacy settings
+
+ There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
+
+ 1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+ 2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
+
+ Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
+
+ 3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+If this fix doesn’t work, please proceed to the next one.
+
+---
+
+ Hopefully this article helped you resolve your mic issues. If you have any follow-up questions or ideas, please feel free to leave a comment below. Thanks for reading!
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-broaden-your-reach-sharing-360-photos-via-smartphone-apps/"><u>[New] Broaden Your Reach  Sharing 360 Photos via Smartphone Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-snapshot-the-essential-skill-for-zoom-meetings/"><u>[New] In 2024, Quick Snapshot  The Essential Skill for Zoom Meetings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fix-the-facebook-message-shows-its-you-in-this-video/"><u>[Updated] 2024 Approved  Fix the Facebook Message Shows It's You in This Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-how-to-craft-videos-flawlessly-in-8-tools/"><u>[Updated] In 2024, Discover How to Craft Videos Flawlessly in 8 Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pro-gamers-manual-learn-xbox-one-screen-recording/"><u>[Updated] In 2024, Pro Gamer's Manual  Learn Xbox One Screen Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamlining-your-technique-for-better-home-recordings/"><u>[Updated] In 2024, Streamlining Your Technique for Better Home Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-full-screen-in-ppro/"><u>2024 Approved  Navigating Full Screen in PPro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/determined-no-driver-affirms-opengl-use/"><u>Determined: No Driver Affirms OpenGL Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-common-d3de-error-not-available-problem/"><u>Diagnosing and Fixing the Common D3DE ERROR: Not Available Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-windows-10-failed-to-download-updates-problem-error-code-0xc1900208/"><u>Effective Fixes for the Persistent 'Windows 10 Failed to Download Updates' Problem (Error Code 0Xc1900208)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-download-issues-during-steam-platform-updates/"><u>Effective Solutions for Download Issues During Steam Platform Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-solve-the-bluetooth-disappearance-problem-in-windows-11-expert-advice/"><u>Effortlessly Solve the Bluetooth Disappearance Problem in Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-broadcast-combining-zoom-and-fb-live/"><u>Elevating Your Broadcast  Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-restoring-copy-and-paste-capabilities-in-windows-11-systems/"><u>Expert Guide: Restoring Copy & Paste Capabilities in Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-invisible-mouse-icon-on-windows-11-without-breaking-a-sweat/"><u>Fix Your Invisible Mouse Icon on Windows 11 Without Breaking a Sweat!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-connection-unsecured-warning-in-firefox-easy-solutions/"><u>Fixing 'Connection Unsecured' Warning in Firefox: Easy Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-13-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 13?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-cpu-use-by-svchost-process-in-windows-10/"><u>How to Fix Elevated CPU Use by Svchost Process in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-mic-functionality-on-your-steelseries-arctis-5-headset-easy-fix-tips-for-gamers/"><u>How to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset - Easy Fix Tips for Gamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-t2x-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo T2x 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-a78-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo A78 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/key-specification-for-game-engine-launch-ensure-you-have-a-d3d1n-supported-gpu-installed/"><u>Key Specification for Game Engine Launch: Ensure You Have a D3D1n-Supported GPU Installed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-of-error-0x8024401c-on-windows-update-for-users-of-windows-10-and-11-systems/"><u>Master the Fix of Error 0X8024401c on Windows Update for Users of Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-device-driver-issues-in-world-of-warcraft-successful-update-and-compatibility-guide/"><u>Overcome Device Driver Issues in World of Warcraft - Successful Update and Compatibility Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-d3dxx939dll-missing-error-a-step-by-step-repair-manual-for-windows-users/"><u>Overcoming the d3dxx9_39.dll Missing Error: A Step-by-Step Repair Manual for Windows Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/reversing-macos-sierra-update-to-os-x-el-capitan/"><u>Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-issues-with-uninstalling-windows-10-updates/"><u>Solution Guide: Overcoming Issues with Uninstalling Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210599306-solving-error-code-224003-now-your-video-plays-smoothly/"><u>Solving 'Error Code 224003': Now Your Video Plays Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-ps4-mic-problems-top-fixes-for-a-quiet-console/"><u>Solving PS4 Mic Problems: Top Fixes For A Quiet Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-laptops-endless-boot-loop-problem/"><u>Solving Your Laptop's Endless Boot Loop Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correct-the-darkness-defeating-windows-11-black-screen-glitches/"><u>Step-by-Step Solutions to Correct the Darkness: Defeating Windows 11 Black Screen Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-stickynon-functioning-keys-on-hp-laptops-a-step-by-step-guide/"><u>Troubleshoot Sticky/Non-Functioning Keys on HP Laptops: A Step-by-Step Guide</u></a></li>
+</ul></div>

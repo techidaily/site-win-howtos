@@ -1,0 +1,199 @@
+---
+title: Troubleshooting Windows 0X80070#643 Update Failures - Expert Solutions
+date: 2024-08-23T14:05:14.072Z
+updated: 2024-08-24T14:05:14.072Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Troubleshooting Windows 0X80070#643 Update Failures - Expert Solutions
+excerpt: This Article Describes Troubleshooting Windows 0X80070#643 Update Failures - Expert Solutions
+thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg
+---
+
+## Troubleshooting Offline Steam Services – Solutions at Hand
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/unreachable.jpg)
+
+ When you trying to update or download a game, you may encounter this message “An error occurred while updating Deus Ex: Mankind Divided (**content servers unreachable** )”. It’s annoying. Don’t worry, you’re not alone. This problem should easy to be fixed.
+
+## Try these methods
+
+1. [**Change your download region**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Change your proxy settings**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Turn off your router’s safe-web**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Run steam://flushconfig**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Run Steam as administrator**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Disable/Uninstall antivirus software**](https://tools.techidaily.com/drivereasy/download/)
+
+[Bonus tip: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+
+### Method 1: Change your download region
+
+ Steam provides servers in regions. When you meet the “Steam content servers unreachable” message, it’s possible that servers in this region are out of service. So you can solve the problem by simply changing your download region to use other servers to update your games.
+
+1. Run Steam.
+2. Click the **Steam** button in the upper left corner. Then click **Settings** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/un1.jpg)
+3. In the Download tab, in the Download Region section change the region in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/un2.jpg)
+4. Restart Steam and you’re all set.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 2: Change your proxy settings
+
+ Proxy servers can be used to open the restrictions of Internet access. The proxy can track the network and provide an alternate gate for users. But this feature often becomes the boundary for Steam to connect with its servers. So, disable your proxy settings may help you solve the problem.
+
+1. Press the**Windows logo key + R** to open the Run box.
+2. Type “inetcpl.cpl” and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/inetcpl.jpg)
+3. Choose the**Connections** tab and click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan.jpg)
+4. Uncheck “**Automatically detect settings** “. Click**OK** to finish setting.![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan1.jpg)
+5. Relaunch Steam and check your download speed.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Method 3: Turn off your router’s safe-web
+
+ The “Steam Content Servers Unreachable” can be caused by your Wi-Fi router. It’s because your Wifi router may have a setting called safe-web. This setting is designed to protect your computer by filtering websites and data that it believes are not trustworthy. But it is possible that it list Steam as untrustable. Therefore, turning off this setting may help you solve the problem.
+
+ Due to the various brands in the market, you can go to your Wifi router’s official website to find a way to turn off this setting. You can also contact the manufacturer for help.
+
+### Method 4: Run steam://flushconfig
+
+ Many Steam problems can be solved by running the command “steam://flushconfig”. It’s a function that can refresh Steam’s core files and bring it back to default settings without interfering your Steam account and related games.  
+ Note: Before using this command, if you’re dealing with a certain game, try relaunching steam and verifying cache files first.
+
+1. Press the**Windows logo key + R** to open the Run box.
+2. Type “steam://flushconfig” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam.jpg)
+3. Click**OK** in the jump-out window.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/cmd.jpg)
+4. Run Steam and login. Download your game again.
+
+### Method 5: Run Steam as administrator
+
+ Some features may be blocked by the Windows system that causes the steam update stuck problem. With high integrity access, Steam can make full use of its features, won’t be blocked by other programs. So run Steam as an administrator to fix the problem.
+
+1. Right-click on the Steam icon and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-icon.jpg)
+2. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-1.jpg)
+3. Run Steam. You should be able to download games smoothly.
+
+### Method 6: Disable/Uninstall antivirus software
+
+ The “Steam Content Servers Unreachable” problem may also be caused by the conflict between your antivirus software and Steam. Therefore, disabling or uninstalling the antivirus software and then restarting your computer can help you solve the error.
+
+ If this method resolves the problem, you can install another antivirus software to protect your computer. But if you are fond of the old one, contact the vendor of your antivirus software and ask them for advice.
+
+**IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Bonus tip: Update your drivers
+
+ It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter issues like crashing, freezing, or not launching. So it’s really important to keep your drivers updating to improve your gaming experience.
+
+ There are two ways you can update your driver: manually and automatically.
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-steam-content-servers-unreachable/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+#### **Option 2 – Automatically update drivers**
+
+ If you don’t have time or patience to manually update your graphics drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a **30-day money back guarantee** ):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+ Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+---
+
+ We hope you find these techniques useful. You’re welcome to leave comments and questions below.
+
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-depth-look-at-screenrec-your-laptops-best-friend/"><u>[New] In 2024, In-Depth Look at ScreenRec  Your Laptop's Best Friend</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-instagram-video-clipping-and-trimming/"><u>[New] In 2024, The Art of Instagram Video Clipping and Trimming</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-animated-text-that-jumps-master-class-with-easy-steps/"><u>[Updated] Animated Text That Jumps  Master Class with Easy Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-symphony-in-your-pocket-classic-tones-at-a-click/"><u>2024 Approved  Symphony in Your Pocket  Classic Tones at a Click</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-solution-to-fix-ps4-mic-not-working/"><u>Best Solution to Fix PS4 Mic Not Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breakthrough-for-xbox-ones-use-on-personal-computers/"><u>Breakthrough for Xbox One's Use on Personal Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-causes-of-minecraft-multiplayer-lan-failures-and-solutions/"><u>Common Causes of Minecraft Multiplayer LAN Failures and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-stuck-or-defective-keys-for-windows-10-and-11-users/"><u>Diagnosing and Repairing Stuck or Defective Keys for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-error-code-0xc1900208-in-your-latest-windows-11-installation/"><u>Expert Advice: Resolving Error Code 0xC1900208 in Your Latest Windows 11 Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207534072-fixing-windows-11-installation-failure-resolve-error-code-802/"><u>Fixing Windows 11 Installation Failure: Resolve Error Code 802#</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 5 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-reduce-high-network-consumption-by-svchostexe-netsvcs/"><u>How To Resolve & Reduce High Network Consumption by svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improving-display-synchronization-between-your-device-and-monitor/"><u>Improving Display Synchronization Between Your Device and Monitor</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nubia-red-magic-8s-proplus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nubia Red Magic 8S Pro+ Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-rising-from-hobbyist-to-leading-graphic-expert/"><u>In 2024, Rising From Hobbyist to Leading Graphic Expert</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-s23plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel S23+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-brightness-control-glitches-learn-7-handy-tips-and-tricks/"><u>Overcome iPhone Brightness Control Glitches: Learn 7 Handy Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-windows-update-error-0x80070652-easily-with-these-tips/"><u>Overcome the Windows Update Error 0X80070652 Easily with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-application-failed-to-initialize-0xc000007b-problem-on-your-computer/"><u>Overcoming the 'Application Failed to Initialize: 0Xc000007b' Problem on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-and-google-chrome-compatibility-eliminating-the-couldnt-load-plugin-problem/"><u>Overcoming Windows 10 and Google Chrome Compatibility: Eliminating the 'Couldn’t Load Plugin' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-overcoming-startup-problems-with-error-code-1053/"><u>Quick Fixes: Overcoming Startup Problems with Error Code 1053</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-power-surge-issue-with-gateway-hub/"><u>Rectified: Power Surge Issue with Gateway Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-update-issue-with-error-code-0x800f0922-using-these-easy-fixes/"><u>Resolve Windows 10 Update Issue with Error Code 0X800f0922 Using These Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-adjusted-security-preferences-now-permit-download-of-this-file/"><u>Resolved: Adjusted Security Preferences Now Permit Download of This File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-unexpected-auto-boot-on-your-windows-11-machine-a-comprehensive-guide/"><u>Solve Unexpected Auto-Boot on Your Windows 11 Machine: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-entrypointnotavailable-error-on-your-windows-pc/"><u>Solving the 'EntryPointNotAvailable' Error on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210725290-top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-nonfunctional-usb-ports-on-windows-11/"><u>Troubleshooting and Fixing Nonfunctional USB Ports on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-nvidias-ai-foundation-services-tailored-access-for-diverse-users/"><u>Understanding NVIDIA’s AI Foundation Services: Tailored Access for Diverse Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-guide-enabling-unsupported-graphics-on-windows-for-fortnite-gaming/"><u>Update Guide: Enabling Unsupported Graphics on Windows for Fortnite Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-fixed-potential-errors-in-your-windows-tupdet-update-db/"><u>Winning Against the Fixed Potential Errors in Your Windows ˈtuːpɪdətʃ, ˈupdate Db</u></a></li>
+</ul></div>

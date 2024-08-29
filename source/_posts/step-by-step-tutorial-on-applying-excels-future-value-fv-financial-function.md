@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function
-date: 2024-08-26 12:23:30
-updated: 2024-08-29 12:30:32
+date: 2024-08-28T00:18:40.246Z
+updated: 2024-08-29T00:18:40.246Z
 tags:
   - excel
 categories:
@@ -34,18 +34,28 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
  To determine the future [value of your investment](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/), make sure you have the annual interest rate, the total number of payments, and the payment amount each period.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the FV Function
 
  As an example, we have our rate in cell B2, number of payments in cell B3, and payment amount in cell B4\. Note that you must enter the payment amount as a negative number when using the FV function.
 
 ![Investment data in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InvestmentData-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  Select the cell to display the result. This is where you'll enter the formula for the function. To find the future value of our investment with the data you see, you'd use the following formula:
 
 =FV(B2/12,B3,B4)
 
 ![FV function formula with required arguments only](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaRequiredArguments-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The interest rate is divided by 12 because it's an annual interest rate.
 
  Easy, right? Now let's add in those optional arguments. Here, we'll add a `pv` (present value) of 100 which must also be a negative number. You can use either the value or a cell reference in the formula.
@@ -54,18 +64,28 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![FV function formula with present value argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaPVArgument-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  Now, let's add a 1 for the last optional argument of `type` to indicate payments are due at the beginning of the period. Again, you can enter the value or use a cell reference in the formula:
 
 =FV(B2/12,B3,B4,-100,1)
 
 ![FV function formula with all arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaAllArguments-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you want to use the `type` argument without the `pv` argument, you can do this by entering nothing between the commas inside the formula as:
 
 =FV(B2/12,B3,B4,,1)
 
 ![FV function formula with type argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaTypeArgument-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  When you want to find out how much your investment is worth in the end, the FV function in Excel comes through. For additional help with your finances, take a look at [how to use Microsoft's Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -88,3 +108,42 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-best-travel-youtube-channels-to-follow/"><u>[New] 2024 Approved  10 Best Travel Youtube Channels to Follow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-youtube-gif-wizard-your-complete-online-transformation-tutorial-for-2024/"><u>[New] Become a Youtube Gif Wizard  Your Complete Online Transformation Tutorial for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-systems-for-recording-and-streaming-athletic-competitions/"><u>[New] Ideal Systems for Recording and Streaming Athletic Competitions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-masking-methods-for-confidential-recordings-for-2024/"><u>[New] Masking Methods for Confidential Recordings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-crafting-a-memorable-look-back-experience-on-fb/"><u>[Updated] 2024 Approved  Crafting a Memorable Look Back Experience on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-traversing-the-terrain-of-facebooks-video-hub/"><u>[Updated] In 2024, Traversing the Terrain of Facebook’s Video Hub</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi 12 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-unreadable-text-in-windows-n-quick-troubleshooting-tips/"><u>Clearing Up Unreadable Text in Windows N - Quick Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-svchostexes-extreme-cpu-drain-on-windows-11-effective-fixes-and-tips-unveiled/"><u>Combat svchost.exe's Extreme CPU Drain on Windows 11: Effective Fixes and Tips Unveiled</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-and-economical-cameras-of-2024/"><u>Compact and Economical Cameras of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-editing-advanced-strategies-for-using-the-background-erase-feature/"><u>Cutting Edge Editing  Advanced Strategies for Using the Background Erase Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-troubleshooting-windows-blue-screen-error-0xc00x00000e9-a-step-by-step-guide/"><u>Decoding and Troubleshooting Windows Blue Screen Error 0xC00^X00000E9: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-protection-settings-unlocking-your-file-downloading-capabilities-after-update/"><u>Enhanced Protection Settings: Unlocking Your File Downloading Capabilities After Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/feature-update-to-windows-11-version-1607-failed-to-install/"><u>Feature Update to Windows 11 Version 1607 Failed to Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-solutions/"><u>How to Fix Speaker Distortion on Windows 11 and 7 - Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-windows-plus-shift-plus-s-working-again-on-your-pc-windows-1110/"><u>How to Get Windows + Shift + S Working Again on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-integrated-webcam-in-the-windows-environment/"><u>How to Repair an Unresponsive Integrated Webcam in the Windows Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-reality-comparing-metaverse-and-multiverse/"><u>In 2024, Beyond Reality  Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200832245-local-safeguard-protocols-need-activation-action-steps-inside/"><u>Local Safeguard Protocols Need Activation – Action Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11-stalling-at-startup-quick-fix-tips-and-tricks/"><u>Overcome Windows 11 Stalling at Startup: Quick Fix Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-disk-read-malfunction-on-your-windows-11-pc-proven-solutions/"><u>Resolving a Disk Read Malfunction on Your Windows 11 PC - Proven Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-for-your-xbox-one-gamepad-expert-advice/"><u>Resolving Connectivity Issues for Your Xbox One Gamepad: Expert Advice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplicity-in-capturing-your-lenovo-pics-for-2024/"><u>Simplicity in Capturing Your Lenovo Pics for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-the-common-vcruntime140dll-error-message-on-windows-computers/"><u>Solution Steps for the Common 'VCRUNTIME140.dll' Error Message on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-typing-troubles-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Troubles: Fix Unresponsive Letter Keys in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>Spreading Smiles  Building a Solid Foundation in GIF Humor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-installation-problems-with-audio-devices-on-windows-11/"><u>Step-by-Step Guide: Correcting Installation Problems with Audio Devices on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-windows-users-dealing-with-unresponsive-bluetooth-mice/"><u>Step-by-Step Solution for Windows Users Dealing With Unresponsive Bluetooth Mice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-reset-issues-on-your-windows-11-machine-expert-solutions/"><u>Troubleshooting and Fixing Reset Issues on Your Windows 11 Machine: Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-preventing-photos-access-in-windows-11/"><u>Troubleshooting Invalid Registry Values Preventing Photos Access in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-resolving-set-user-settings-to-driver-failed-mistake/"><u>Troubleshooting Tip: Resolving 'Set User Settings To Driver Failed' Mistake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-diagnose-and-repair-driverpowerstatefailure-glitches/"><u>Ultimate Guide to Diagnose and Repair DRIVER_POWER_STATE_FAILURE Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-entry-point-missing-mistakes-on-windows-devices/"><u>Understanding and Correcting ‘Entry Point Missing’ Mistakes on Windows Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-beginner-to-pro-6-adobe-premiere-tips-to-improve-your-video-editing/"><u>Updated 2024 Approved From Beginner to Pro 6 Adobe Premiere Tips to Improve Your Video Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-logitech-keyboard-working-on-windows-11-troubleshooting-tips/"><u>Why Isn't My Logitech Keyboard Working on Windows 11? Troubleshooting Tips</u></a></li>
+</ul></div>

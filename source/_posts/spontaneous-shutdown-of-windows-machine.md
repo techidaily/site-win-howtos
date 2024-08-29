@@ -1,0 +1,224 @@
+---
+title: Spontaneous Shutdown of Windows Machine
+date: 2024-08-28T00:30:07.818Z
+updated: 2024-08-29T00:30:07.818Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Spontaneous Shutdown of Windows Machine
+excerpt: This Article Describes Spontaneous Shutdown of Windows Machine
+thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155fd0a604dc9fcf1b208976460.jpg
+---
+
+## Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now
+
+After a day’s work, you click**Shut down** and pack your stuff for leaving. But when you glance at your computer screen, it’s still on the loading screen. You stand and watch it impatiently. Usually, the shutdown process should be taken no more than a few seconds. But when it takes you a lot of time while shutting down, your computer has Windows 10 slow shutdown issue.  
+ Don’t worry, you’re not alone. And this issue should be easy to fix.
+
+## Try these fixes
+
+1. [**Disconnect your USB-C device before shut down**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Run Power Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Disable Fast Startup feature**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Disconnect your USB-C device before shut down
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
+
+ USB Type-C sample  
+ Photo from Amazon
+
+ Microsoft has confirmed that there’s a new bug which will affect your computer shut down process slowly. The bug in the USB Type-C Connector System Software Interface (UCSI) software may cause a 1 minute delay for Windows 10 to shut down.
+
+**Note** : This bug only affects with Windows shut down, won’t influence normal functionality on your computer. And it will work normally after restarting the system.
+
+The solution for this bug is very simple.
+
+ Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
+
+### Fix 2: Run Power Troubleshooter
+
+ Windows has built-in troubleshooter to fix some common errors. You can try Power Troubleshooter to fix the slow shut down issue.
+
+1. Press the**Windows logo key + I** to open**Settings** .
+2. Click**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
+3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
+4. Follow the on-screen instructions to finish the process.
+5. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Disable Fast Startup feature
+
+ If your Fast Startup is enabled, when you shut down the computer, you may encounter slow shutdown or back to the Windows Lock Screen.  
+ Fast Startup is supposed to reduce startup time by pre-loading some boot information before your PC shuts off. But when it’s enabled and you shut down the computer, all sessions logged off and the computer enters hibernation. This feature may slow down shutdown speed for your computer.  
+ To solve it, you can simply disable the Fast Startup.
+
+1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
+2. Change **View by Large icons** and click **Power Options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
+3. Click **Choose what the power button do** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
+4. Click **Change settings that are currently unavailable** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
+5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
+6. Reboot your computer to apply the changes.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Repair system files
+
+ The corrupted system file will let the system take more time to shut down your computer. To solve it, you can use System File Checker (SFC) to repair the broken system files.
+
+1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
+2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
+**Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
+4. Reboot your computer to check the changes.
+
+ If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
+ Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Registry fix
+
+ If the above fixes can’t help, you can try this one. The corruption of registry files may the reason for the slow shut down issue. You can solve the issue by following the below steps:
+
+1. Press the**Windows logo key + R** to open the Run box.
+2. Type “regedit” and press**Enter** to open**Registry Edition** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
+3. Copy and paste the text into the address bar and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
+4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
+5. Copy and paste the text into the address bar and press Enter.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+ “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
+6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
+7. Click**OK** .
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+8. Reboot your computer to apply the changes.
+
+## Bonus: Update your driver
+
+ If there’re any old or corrupted drivers on your Windows 10 PC, this will cause trouble to your computer. To get a better-using experience and prevent your computer from trouble, it’s important to keep your device drivers up-to-date.
+
+ You can do this manually by downloading the latest drivers from the devices’ manufacturer official website. This will take time and need a litter computer knowledge. If you want to save some time or not confident with drivers, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to do it automatically.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click Scan Now button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Note** : You can do it for free if you like, but it’s partly manual.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+4. Reboot your Windows 10 computer and check the issue.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+
+ Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-customizing-youtube-viewing-policies-for-your-content/"><u>[New] 2024 Approved  Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>[New] 2024 Approved  Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expanding-youtube-audience-through-perpetual-creative-commons-for-2024/"><u>[New] Expanding YouTube Audience Through Perpetual Creative Commons for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-harnessing-power-of-ez-grabber-quick-start-guide-to-usage-for-2024/"><u>[New] Harnessing Power of EZ Grabber - Quick Start Guide to Usage for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[New] Sliding to Victory  Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-essential-guide-to-twitter-videos-and-aspect-ratios-for-2024/"><u>[Updated] Essential Guide to Twitter Videos and Aspect Ratios for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-by-step-speeding-up-snapchat-media-video/"><u>[Updated] Step-by-Step  Speeding Up Snapchat Media (Video)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-10-innovative-gloves-for-virtual-immersion-for-2024/"><u>[Updated] Top 10 Innovative Gloves for Virtual Immersion for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267765033-stellar/"><u>【急速】Stellar 画像修復ソフトウェアを今すぐダウンロード</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-compact-snaps-via-mac-techniques/"><u>2024 Approved  Crafting Compact Snaps via Mac Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>2024 Approved  Ultimate Checklist  Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-compreeved-look-at-effective-spotify-ad-implementation/"><u>A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bridging-the-gap-how-to-seamlessly-pair-airpods-with-windows-11/"><u>Bridging the Gap: How to Seamlessly Pair AirPods with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-guide-for-dealing-with-fn-key-issues-in-your-dell-laptop/"><u>DIY Troubleshooting Guide for Dealing with FN-Key Issues in Your Dell Laptop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-echoes-the-windows-choice/"><u>Elite Echoes  The Windows Choice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-failed-windows-updates-on-your-computer/"><u>Expert Tips For Repairing Failed Windows Updates On Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restore-keyboard-letters-that-arent-responding-in-windows-10-and-11/"><u>Guide to Restore Keyboard Letters That Aren't Responding in Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-persistent-code-28-glitch-in-windows-device-manager/"><u>How to Correctly Address the Persistent 'Code 28' Glitch in Windows Device Manager</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-12plus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 12+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-on-windows-10-solutions-explored/"><u>How to Fix Unresponsive File Explorer on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-gain-authorization-from-trustedinstaller-for-changing-protected-files/"><u>How to Gain Authorization From TrustedInstaller for Changing Protected Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-the-brightness-control-back-in-working-order-on-windows-11/"><u>How to Get the Brightness Control Back in Working Order on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-power-off-your-pc-running-windows-11-solutions-explored/"><u>How to Successfully Power Off Your PC Running Windows 11: Solutions Explored</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-srt-transition-the-ultimate-subcap-guide/"><u>In 2024, SRT Transition  The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/installation-error-windows-11-v1607-feature-update-uninstallable/"><u>Installation Error: Windows 11 v1607 Feature Update Uninstallable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-win-10s-update-challenges-8-remedies-for-error-0x800f0922/"><u>Navigate Through Win 10'S Update Challenges: 8 Remedies for Error 0X800F0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-update-completed-errors-at-100-on-your-windows-pc-fixed/"><u>Overcoming 'Update Completed' Errors at 100%% on Your Windows PC [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-update-error-8007000e-simple-steps/"><u>Quick Fixes for Windows Update Error 8007000E – Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-your-non-charging-laptop-battery-a-simple-guide/"><u>Quick Fixes for Your Non-Charging Laptop Battery: A Simple Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/re-enabled-local-security-framework-ensuring-robust-protection/"><u>Re-Enabled Local Security Framework - Ensuring Robust Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reboot-anomalies-in-win10-environment/"><u>Reboot Anomalies in Win10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-livekernelevent-type-144-mistake/"><u>Resolve LiveKernelEvent Type 144 Mistake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-error-due-to-lack-of-system-resources/"><u>Resolved! Error Due to Lack of System Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-kernel32dll-fails/"><u>Resolving Kernel32.dll Fails</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-twitter-instagram-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-issues-preventing-maplestory-from-starting-up/"><u>Solved! Issues Preventing MapleStory From Starting Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-visibility-on-dell-laptop-screens/"><u>Step-by-Step Instructions to Restore Visibility on Dell Laptop Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-resolving-windows-update-issue-error-0x80240017/"><u>Step-by-Step Solution for Resolving Windows Update Issue (Error 0X80240017)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/surviving-the-continuum-strategies-for-overcoming-the-black-lives-matter-challenges/"><u>Surviving the Continuum: Strategies for Overcoming the 'Black Lives Matter' Challenges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/syncing-audiovideo-online-collective/"><u>Syncing Audio/Video Online Collective</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/techniques-for-concurrent-webcam-and-screen-recordings/"><u>Techniques for Concurrent Webcam & Screen Recordings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-cinematic-edge-edging-your-vt-footage-on-final-cut-x-for-2024/"><u>The Cinematic Edge  Edging Your VT Footage on Final Cut X for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-gaining-complete-control-over-your-steam-installation/"><u>The Ultimate Guide to Gaining Complete Control Over Your Steam Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-overcoming-youtubes-audio-playback-problem-in-the-windows-10-ecosystem/"><u>The Ultimate Solution for Overcoming YouTube's Audio Playback Problem in the Windows 10 Ecosystem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-successfully-install-battleye-anti-cheat-now/"><u>Troubleshoot and Successfully Install BattlEye Anti-Cheat Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-wacom-device-drivers-missing-error-in-windows-11/"><u>Troubleshooting Steps for Wacom Device Drivers Missing Error in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-call-of-duty-world-war-ii-error-code-4220-issues/"><u>Ultimate Solution for Call of Duty World War II Error Code 4220 Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-of-neon-text-generators-top-9-picks/"><u>Updated 2024 Approved The Ultimate List of Neon Text Generators Top 9 Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updated-reactivate-the-local-user-account-verification-mechanism/"><u>Updated: Reactivate the Local User Account Verification Mechanism</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12plus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/win-11-audio-issues-solved-get-your-volume-back-now/"><u>Win 11 Audio Issues Solved? Get Your Volume Back Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-audio-woes-discover-how-to-restore-headset-functionality-today/"><u>Xbox One Audio Woes? Discover How to Restore Headset Functionality Today</u></a></li>
+</ul></div>

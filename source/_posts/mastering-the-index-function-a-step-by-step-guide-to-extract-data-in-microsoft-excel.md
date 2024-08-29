@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel"
-date: 2024-08-26 22:39:25
-updated: 2024-08-29 11:10:36
+date: 2024-08-28T00:19:26.082Z
+updated: 2024-08-29T00:19:26.082Z
 tags:
   - excel
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
  Let's look at how to use both.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use INDEX in Array Form
 
  The syntax for the function in Array Form is 
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![INDEX in Array Form for a row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayRow-ExcelINDEXFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To find the value in the third row and fifth column for the cell range A1 through E10, you would use this formula.
 
 =INDEX(A1:E10,3,5)
@@ -59,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![INDEX in Array Form for an intersection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayIntersection-ExcelINDEXFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use INDEX in Reference Form
 
  The syntax for the function in Reference Form is `INDEX(reference, row_number, column_number, area_number)` where the first two arguments are required and second two are optional.
@@ -79,6 +91,9 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 
 ![INDEX in Reference Form for area one](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceFirstArea-ExcelINDEXFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To find the value using the same cell ranges, row number, and column number, but in the second area instead of the first, you would use this formula:
 
 =INDEX((A1:E4,A7:E10),3,4,2)
@@ -87,6 +102,9 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 
 ![INDEX in Reference Form for area two](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceSecondArea-ExcelINDEXFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  The INDEX function in Excel is a handy one to keep in mind. If you plan to use lookup and reference functions often, be sure to check out how to [use VLOOKUP for a range of values](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/) and how to [use XLOOKUP in Excel](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -109,3 +127,40 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide/"><u>[New] 2024 Approved  Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenshot-and-recording-masterclass-ios-devices-2023/"><u>[Updated] 2024 Approved  Screenshot & Recording Masterclass  IOS Devices 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-6-types-of-videos-that-will-hook-your-viewers-for-2024/"><u>[Updated] 6 Types of Videos That Will Hook Your Viewers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-making-memories-sing-visual-plus-auditory-blend-for-2024/"><u>[Updated] Making Memories Sing  Visual + Auditory Blend for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-recordings-fix-frames-out-of-sync-in-obs/"><u>2024 Approved  Streamline Your Recordings  Fix Frames Out of Sync in OBS</u></a></li>
+<li><a href="https://ai-video.techidaily.com/best-10-chinese-video-to-english-translators/"><u>Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-solve-windows-network-problem-0x80e704cf-fixed/"><u>Complete Guide: Solve Windows Network Problem - 0X80e704CF Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehhemic-approach-to-repairing-and-preventing-cod-black-ops-4-malfunctions/"><u>Comprehhemic Approach to Repairing and Preventing COD Black Ops 4 Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-display-to-windows-11-step-by-step-troubleshooting-guide/"><u>Connect Your Microsoft Wireless Display to Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/correcting-unsteady-flight-footage-artifacts/"><u>Correcting Unsteady Flight Footage Artifacts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-your-windows-11-computers-broken-usb-connections/"><u>Effective Solutions to Restore Your Windows 11 Computer's Broken USB Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-flicker-frustration-solutions-for-stabilizing-windows-11-screens/"><u>End the Flicker Frustration: Solutions for Stabilizing Windows 11 Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-problem-windows-10-troubleshooting/"><u>Fixing the Sluggish Closure Problem: Windows 10 Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-issue-quickly-for-your-ps4-console/"><u>How to Fix the CE-34878-0 Issue Quickly for Your PS4 Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-missing-or-invisible-cursor-problem-on-your-windows-10-pc/"><u>How to Resolve a Missing or Invisible Cursor Problem on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205397157-how-to-resolve-common-issues-apex-legends-cheating-protection-bugs-fixed/"><u>How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-11-update-error-code-0x80c705b4/"><u>How to Resolve the Persistent Windows 11 Update Error (Code 0X80C705B4)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-ps4-ce-34878-0-error-code-successfully/"><u>How to Resolve the PS4 CE-34878-0 Error Code Successfully</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-demystifying-screen-recording-how-bandicam-changes-the-game/"><u>In 2024, Demystifying Screen Recording  How Bandicam Changes the Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-steam-disk-error-write-failed-instantly/"><u>Mastering the Art of Fixing Steam 'Disk Error: Write Failed' Instantly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-integrating-sound-into-visual-media-adobe-premiere-pro-guide/"><u>New 2024 Approved Integrating Sound Into Visual Media Adobe Premiere Pro Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-frozen-chromium-experience-with-easy-relaunch-steps/"><u>Overcome Frozen Chromium Experience with Easy Relaunch Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-glitch-windows-10s-full-screen-windows-unseen/"><u>Overcome Glitch: Windows 10'S Full Screen Windows Unseen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-correcting-error-0x800f081f-in-net-framework-35-implementation/"><u>Overcoming the Hurdle: Correcting Error 0X800F081F in .NET Framework 3.5 Implementation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-magic-6-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor Magic 6 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-making-a-non-working-external-component-work-with-your-pc-again/"><u>Resolved Issue: Making A Non-Working External Component Work With Your PC Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-overcoming-initialization-errors-in-the-updated-renderer/"><u>Solution Steps: Overcoming Initialization Errors in the Updated Renderer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-tip-reducing-microsoft-telemetrys-impact-on-hard-drive-space-for-windows-10/"><u>Tech Tip: Reducing Microsoft Telemetry's Impact on Hard Drive Space for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-your-windows-10-hosted-network-when-initialization-fails/"><u>Troubleshooting Guide: Enabling Your Windows 10 Hosted Network When Initialization Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Itel P55T? | Dr.fone</u></a></li>
+</ul></div>

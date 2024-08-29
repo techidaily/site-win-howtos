@@ -1,7 +1,7 @@
 ---
 title: Essential Tools Everyone Needs on the 6 Quick Access Toolbar for Excel Efficiency
-date: 2024-08-26 22:37:50
-updated: 2024-08-29 12:33:34
+date: 2024-08-28T00:19:58.637Z
+updated: 2024-08-29T00:19:58.637Z
 tags:
   - excel
 categories:
@@ -66,6 +66,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The AutoSave icon is green in the Excel QAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/autosave-on.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  However, if the AutoSave toggle is gray, your work isn't currently syncing to the cloud, and you could lose your work if Excel crashes or [your computer malfunctions](https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-approaches-to-ppt-video-captures/).
 
 ![Excel's AutoSave toggle switched to Off in the QAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/autosave-off.png) 
@@ -84,6 +87,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's Quick Access Toolbar containing the Spelling icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/qat-spelling-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Paste Special
 
  Ctrl+V is one of the most well-known keyboard shortcuts, but it's less useful in Excel than in other programs. For example, you might want to copy and paste some data between sheets that are formatted differently, so you would want to paste the numbers without pasting the formatting. Similarly, you might only want to copy and paste the formatting, not the data. Going one step further, the Paste Special operation also lets you perform operations while pasting the data, such as turning all positive numbers into negative numbers.
@@ -94,6 +100,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's QAT containing the Paste Special icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/paste-special-qat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ##  Conditional Formatting
 
  Let's be honest—if your Excel spreadsheet doesn't have Conditional Formatting, it's not really a proper Excel spreadsheet. Just as every Microsoft Word document should have styles, [every Microsoft Excel worksheet should have Conditional Formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/), which is why the Conditional Formatting icon is a QAT non-negotiable.
@@ -102,10 +111,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet containing four sets of data, each with different preset Conditional Formatting rules.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting-presets.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Having instant access to Conditional Formatting meant that the above actions took no more than five seconds, which is why you should also add this function to your QAT.
 
 ![Excel's Quick Access Toolbar with the Conditional Formatting icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting-qat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Freeze Panes
 
  If you have a large spreadsheet with many rows and columns of data, it's handy to [freeze your heading rows and columns](https://some-guidance.techidaily.com/updated-the-artisan-editor-refining-video-transitions-with-inshot/) so that they remain in view when you scroll down or across. I always forget where the Freeze Panes option is—it feels like it should be in the Home tab (because it's such a handy tool) or in the Data tab (because it helps you to read your data efficiently), but it's actually in the View tab. So, having it in my QAT means I don't have to go searching for it each time.
@@ -118,6 +137,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's Quick Access Toolbar with the Freeze Panes drop-down expanded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/freeze-panes-qat-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  Notice, also, how you can instantly freeze just the first row or column using this handy QAT icon. Once you've frozen the relevant rows or columns, clicking the Freeze Panes icon in the QAT again will give you the option to unfreeze.
 
 ##  Personalized Macro Buttons
@@ -128,14 +151,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Customize Quick Access Toolbar menu with More Commands selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-qat-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, in the Excel Options window, click the "Choose Commands From" drop-down arrow, and click "Macros." Now, select the relevant macro, and click "Add."
 
 ![The Excel Options window with a macro being added to the Quick Access Toolbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-macro-to-qat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can then choose a suitable icon for your macro by selecting the macro and clicking "Modify." In the example below, the macro turns the selected cell yellow, so I have chosen a yellow icon.
 
 ![A macro is selected in the Excel Options QAT menu, and the Modify button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/modify-macro-icon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  When you're done, click "OK," and you'll see the new icon appear in your QAT.
 
 ![Excel's Quick Access Toolbar containing a modified macro icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/macro-in-qat.png) 
@@ -172,3 +205,60 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-chromium-device-live-screen-recorder/"><u>[New] 2024 Approved  Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-explore-our-top-5-affordable-keyboards-to-boost-your-gameplay-for-2024/"><u>[New] Explore Our Top 5 Affordable Keyboards to Boost Your Gameplay for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebooks-edge-mastering-the-art-of-360-videos/"><u>[New] In 2024, Facebook's Edge  Mastering the Art of 360 Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>[New] The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-websites-for-youtube-preview-creation-tools/"><u>[Updated] In 2024, Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-video-spin-vlcs-rotation-guide/"><u>[Updated] In 2024, Mastering Video Spin  VLC's Rotation Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-animated-arena-androids-top-12-game-lineup-for-2024/"><u>[Updated] The Animated Arena  Android's Top 12 Game Lineup for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premier-eco-cinema-tech-usage-and-mastery/"><u>2024 Approved  Premier Eco-Cinema Tech  Usage and Mastery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pushing-boundaries-upward-an-incisive-mavic-pro-review/"><u>2024 Approved  Pushing Boundaries Upward  An Incisive Mavic Pro Review</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/breaking-down-barriers-mediatek-readies-arm-cpus-for-windows-machines-amidst-expiring-qualcomm-exclusivity-window/"><u>Breaking Down Barriers: MediaTek Readies Arm CPUs for Windows Machines Amidst Expiring Qualcomm Exclusivity Window</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consolidating-identical-images-tips-for-iphone-and-mac-users/"><u>Consolidating Identical Images: Tips for iPhone and Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-personalized-game-recommendations-on-w11/"><u>Disabling Personalized Game Recommendations on W11</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-improving-valorants-performance-and-fixing-frames-per-second-issues/"><u>Elevate Gameplay: Improving Valorant's Performance & Fixing Frames Per Second Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/extensive-insights-deconstructing-the-dji-inspire-1-for-2024/"><u>Extensive Insights  Deconstructing the DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-no-device-detected-error-on-your-iphoneipad/"><u>Fixing the 'No Device Detected' Error on Your iPhone/iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-touchpad-to-respond-fixing-scroll-issues-effectively/"><u>Getting Your Touchpad to Respond: Fixing Scroll Issues Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-timeout-issue-during-download-progress/"><u>How to Fix “Timeout” Issue During Download Progress</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201428080-how-to-fix-oculus-hardware-error-2024/"><u>How to Fix Oculus Hardware Error - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-challenges-with-torrents-not-downloading-properly/"><u>How to Overcome Challenges with Torrents Not Downloading Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-local-area-network-lan-problems-in-minecraft-quickly/"><u>How To Repair Local Area Network (LAN) Problems in Minecraft Quickly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-constant-connectivity-for-a-frequently-dropping-mouse/"><u>How To Restore Constant Connectivity for a Frequently Dropping Mouse</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g-5g-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G 5G (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-play-40c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Play 40C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-in-windows-11-heres-the-solution-to-unresponsive-characters/"><u>Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-miracast-on-windows-10-and-11-setup-instructions-plus-solutions-for-connectivity-issues/"><u>Mastering Miracast on Windows 10 and 11: Setup Instructions Plus Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-mixing-sounds-with-after-effects/"><u>New The Ultimate Guide to Mixing Sounds with After Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-errors-the-stop-working-problem-with-32bit-application-print-drivers-is-fixed/"><u>No More Errors - The 'Stop Working' Problem with 32Bit Application Print Drivers Is Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-games-solving-issues-in-your-game-configuration/"><u>Origin Games: Solving Issues in Your Game Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-non-responsive-internet-explorer-browser/"><u>Overcoming the Challenge of a Non-Responsive Internet Explorer Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-unresponsive-mouse-and-keyboard-on-windows-7-a-step-by-step-guide/"><u>Resolve Your PC's Unresponsive Mouse & Keyboard on Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-exeapplication-error-fixed-stopped-working-issue/"><u>Resolved: Exe.Application Error - Fixed 'Stopped Working' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-audio-issues-fixing-the-logitech-g930-earbuds/"><u>Resolving Audio Issues: Fixing the Logitech G930 Earbuds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-dll-dilemma-msvcr71/"><u>Resolving DLL Dilemma - MSVCR71</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-excessive-disk-space-consumed-by-microsoft-telemetry-in-windows-10/"><u>Resolving the Issue of Excessive Disk Space Consumed by Microsoft Telemetry in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-world-of-warcraft-wow-latency-problems-a-comprehensive-guide/"><u>Resolving World of Warcraft (WoW) Latency Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-computers-sound-fixes-for-common-windows-audio-problems/"><u>Revive Your Computer's Sound - Fixes for Common Windows Audio Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-windows-pcs-built-in-camera-issues-a-step-by-step-guide/"><u>Solving Your Windows PC's Built-In Camera Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Tecno Spark 10C without backup.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/5-youtube-intro-templates-for-your-youtube-video/"><u>Top 15 YouTube Intro Templates for Your YouTube Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tricks-to-successfully-connect-your-microsoft-wireless-display-adapter-with-a-compatible-configuration-in-windows-10/"><u>Top Tricks to Successfully Connect Your Microsoft Wireless Display Adapter with a Compatible Configuration in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-disk-read-errors-on-your-windows-10-pc-today/"><u>Troubleshoot and Fix Disk Read Errors on Your Windows 10 PC Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-dns-problems-in-chrome-the-errhostnamerequired-tutorial/"><u>Troubleshoot and Fix DNS Problems in Chrome: The ERR_HOSTNAME_REQUIRED Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-getting-miracast-to-work-on-systems-with-incorrect-graphic-card-support/"><u>Troubleshoot and Fix: Getting Miracast to Work on Systems with Incorrect Graphic Card Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-audio-glitches-in-youtube-videos-on-windows-11/"><u>Troubleshooting and Fixing Audio Glitches in YouTube Videos on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-bright-white-screens-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Bright White Screens on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7 – A Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-mic-on-your-arctis-5-headset-solution-included/"><u>Troubleshooting Non-Functional Mic on Your Arctis ^5 Headset (Solution Included)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-numeric-buttons-a-step-by-score-guide/"><u>Troubleshooting Non-Functional Numeric Buttons: A Step-by-Score Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-update-error-code-0x802eb3ae/"><u>Ultimate Guide: Resolving Windows Update Error Code 0X802eb3ae</u></a></li>
+</ul></div>

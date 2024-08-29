@@ -1,0 +1,185 @@
+---
+title: PUBG - How to Fix Building Load Issues on PC
+date: 2024-08-28T00:24:24.761Z
+updated: 2024-08-29T00:24:24.761Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes PUBG - How to Fix Building Load Issues on PC
+excerpt: This Article Describes PUBG - How to Fix Building Load Issues on PC
+thumbnail: https://thmb.techidaily.com/dac11c6cc9fc4c74d0a91630c727d89a2865b8212237d761cabdd5e063687899.jpg
+---
+
+## Top Solutions to Eliminate PUBG Slow Loading Issues: Best Fixes Revealed
+
+If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alone.
+
+ But don’t worry – check out the following 5 steps below and you can make all the difference…
+
+## 5 fixes for PUBG lag
+
+ All the steps below work in Windows 10\. Just work your way down the list to reduce lag:
+
+1. **[Run PUBG in windowed full screen](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Close unused apps and set high priority for PUBG](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Lower your game resolution](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Change the power option and adjust for best performance](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Run PUBG in windowed full screen
+
+ Running PUBG in windowed full screen is a proven effective way to reduce lag. To do so:
+
+ While in PUBG, press**Alt** and**Enter** at the same time.
+
+ Once you’re in windowed full screen mode, check if the lag issues have reduced. If yes, then great! If the lag issues remain, please move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Close unused apps and set high priority for PUBG
+
+ Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
+
+1. On your keyboard, press **Ctrl** , **Shift**   and **Esc**   at the same time to open **Task Manager** .
+2. Right-click on the programs you don’t need to run at the moment and click **End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7311c0152.jpg)
+3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
+4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+### Fix 3: Lower your game resolution
+
+Running PUBG in a lower resolution can also help in fixing lag:
+
+1. Create a shortcut of your PUBG, then right-click on the**shortcut** and click**Properties** .
+2. Under the **Shortcut** tab, in **Target** field, leave**a space** and type**resolution:** **the resolution of your preference** (1024×768 for example).
+3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
+
+---
+
+### Fix 4: Update your graphics drivers
+
+ The PUBG lag problem may also occur if you’re using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Start a new game in PUBG to see if the PUBG lap problem has been resolved. If yes, then congrats! But if the issue persists, please move on to**Fix 5** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Fix 5: Change the power option and adjust for best performance
+
+ By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
+
+ Also the system performance on our computer may also be undermined for the advanced graphics features.
+
+So to tweak the settings:
+
+1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+2. Choose the **High performance** option.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
+4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+---
+
+ There you go – top 5 fixes for you to reduce PUBG lag. Hope this helps and feel free to comment below if you have any further questions or ideas to share with us. 🙂
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-redefining-digital-space-alternative-video-hosting-sites/"><u>[New] 2024 Approved  Redefining Digital Space  Alternative Video Hosting Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>[New] Icebound Battles  Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-laptop-keyboard-not-working/"><u>[Solved] Laptop Keyboard Not Working</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevate-your-meetings-best-tools-to-record-zoom/"><u>[Updated] 2024 Approved  Elevate Your Meetings  Best Tools to Record Zoom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhance-multitasking-pip-configuration-on-iphone-youtube/"><u>[Updated] 2024 Approved  Enhance Multitasking  PIP Configuration on iPhone YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-reveal-the-disenchanted-instagrams-unfollowers/"><u>[Updated] Reveal the Disenchanted  Instagram's Unfollowers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-lowering-audio-amplitude-progressively-using-lumafusion/"><u>2024 Approved  Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-the-pitfalls-of-google-chromes-fatal-system-error-solutions-unveiled/"><u>Avoiding the Pitfalls of Google Chrome's Fatal System Error: Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207499577-corsair-backlight-failure-heres-how-to-reactivate-your-custom-lights/"><u>Corsair Backlight Failure? Here's How to Reactivate Your Custom Lights!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-1112-setup-woes-fixing-the-infamous-failed-d3d-device-issue/"><u>DirectX 11/12 Setup Woes? Fixing the Infamous Failed D3D Device Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embrace-audio-wonders-streaming-podcasts-with-an-iphone/"><u>Embrace Audio Wonders  Streaming Podcasts with an iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-updating-the-definitive-solution-for-windows-error-code-80244019/"><u>Error-Free Updating: The Definitive Solution for Windows Error Code 80244019</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-feature-in-windows-7-a-step-by-step-guide/"><u>Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-the-0xc19e0208-update-issue-in-windows-11-fixed/"><u>How To Successfully Resolve The 0xC19e0208 Update Issue in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-x-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone X to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-the-notorious-stop-error-0xc0000005-in-microsoft-windows-systems/"><u>Master the Fix for the Notorious 'STOP' Error 0xC0000005 in Microsoft Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-instructions-to-execute-a-hard-reset-and-enter-recovery-modes/"><u>Mastering iPhone Maintenance: Instructions to Execute a Hard Reset & Enter Recovery Modes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-ultimate-guide-to-stop-buffering-in-kodi/"><u>No More Interruptions: Ultimate Guide to Stop Buffering in Kodi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-logitech-g930-connection-challenges-on-windows-driver-solutions/"><u>Overcoming Logitech G930 Connection Challenges on Windows: Driver Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-initial-dark-screen-error-in-monster-hunter-world-gameplay/"><u>Overcoming the Initial Dark Screen Error in Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-performance-issues-what-to-do-when-your-pc-runs-slow-on-windows-11/"><u>Resolving Performance Issues: What to Do When Your PC Runs Slow on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-sailing-post-nvidia-installer-troubles/"><u>Smooth Sailing Post-NVIDIA Installer Troubles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-opengl-issues-in-minecraft-a-step-by-step-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-excessive-cpu-consumption-by-msmpengine-in-windows-10-systems/"><u>Solving the Issue: Excessive CPU Consumption by MsMpEngine in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-take-if-your-windows-11-operating-system-keeps-crashing-or-freezing/"><u>Steps to Take if Your Windows 11 Operating System Keeps Crashing or Freezing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taking-solo-shots-from-videos-in-windows-10-photos-interface-for-2024/"><u>Taking Solo Shots From Videos in Windows 10 Photos Interface for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-the-windows-1903-feature-update/"><u>Troubleshooting Common Issues with the Windows 1903 Feature Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-restricted-input-issues-with-monitors/"><u>Troubleshooting Guide: Overcoming Restricted Input Issues with Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-by-msmpengine-in-windows-11/"><u>Troubleshooting High Resource Consumption by MsMpEngine in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-windows-cannot-install-service-packs-problem-in-windows-10-error-0x800705b4/"><u>Troubleshooting Tips: Correcting the 'Windows Cannot Install Service Packs' Problem in Windows 10 (Error 0X800705b4)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-computer-unable-to-power-off-in-windows-10-solution/"><u>Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-secrets-successfully-connecting-a-paired-bluetooth-device-in-windows-11/"><u>Unlocking the Secrets: Successfully Connecting a Paired Bluetooth Device in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-nokia-xr21-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia XR21 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-ps4-so-loud-uncovering-reasons-and-implementing-solutions-for-quieter-gameplay/"><u>Why Is My PS4 So Loud? Uncovering Reasons and Implementing Solutions for Quieter Gameplay</u></a></li>
+</ul></div>

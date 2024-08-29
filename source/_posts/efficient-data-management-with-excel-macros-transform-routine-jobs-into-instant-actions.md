@@ -1,7 +1,7 @@
 ---
 title: "Efficient Data Management with Excel Macros: Transform Routine Jobs Into Instant Actions"
-date: 2024-08-27 20:54:29
-updated: 2024-08-29 12:15:24
+date: 2024-08-28T00:19:08.022Z
+updated: 2024-08-29T00:19:08.022Z
 tags:
   - excel
 categories:
@@ -38,12 +38,18 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 * Create entirely new documents.
 * Any combination, in any order, of any of the above.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Creating a Macro: An Explanation by Example
 
  We start with your garden variety CSV file. Nothing special here, just a 10x20 set of numbers between 0 and 100 with both a row and column header. Our goal is to produce a well formatted, presentable data sheet which includes summary totals for each row.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As we stated above, a macro is VBA code, but one of the nice things about Excel is you can create/record them with zero coding required - as we will do here.
 
  To create a macro, go to View > Macros > Record Macro.
@@ -68,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image51.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, apply the appropriate formulas (respectively):
 
 * \=SUM(B2:K2)
@@ -78,10 +87,22 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image52.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, highlight all the calculation cells and drag the length of all our data rows to apply the calculations to each row.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image53.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  Once this is done, each row should display their respective summaries.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image54.png) 
@@ -90,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image55.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Respectively:
 
 * \=SUM(L2:L21)
@@ -104,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  Next, apply some visual formatting to both the row and column headers:
 
 * Bold.
@@ -112,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image58.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And finally, apply some style to the totals.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image59.png) 
@@ -124,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image61.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Congratulations - you have just created an Excel macro.
 
  In order to use our newly recorded macro, we have to save our Excel Workbook in a macro enabled file format. However, before we do that, we first need to clear all the existing data so that it is not embedded in our template (the idea being every time we use this template, we will import the most up-to-date data).
@@ -132,6 +165,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image62.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With the data now cleared (but the macros still included in the Excel file), we want to save the file as a macro enabled template (XLTM) file. It is important to note that if you save this as a standard template (XLTX) file then macros will **not** be able to be run from it. Alternately, you can save the file as a legacy template (XLT) file, which will allow macros to be run.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image63.png) 
@@ -151,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image64.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Up next, we are going to import the latest data set from a CSV (this is the source the worksheet used to create our macro).
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image65.png) 
@@ -183,6 +222,12 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image71.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Taking Our Example One Step Farther...
 
  Hypothetically, assume our source data file, data.csv, is produced by an automated process which always saves the file to the same location (e.g. [C:\\Data\\data.csv](https://www.howtogeek.com/162975/geek-school-learn-how-to-use-excel-macros-to-automate-tedious-tasks/file://\\NetworkPath\Important\data.csv) is always the most recent data). The process of opening this file and importing it can be easily made into a macro as well:
@@ -198,8 +243,14 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/image72.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you really wanted to get your hands dirty with a bit of code editing, you could easily combine these actions into a single macro by copying the code produced from "LoadData" and inserting it at the beginning of the code from "FormatData".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  Download this Template
 
  For your convenience, we have included both the Excel template produced in this article as well as a sample data file for you to play around with.
@@ -220,3 +271,45 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-capturing-your-screens-stepwise-approach/"><u>[Updated] In 2024, Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-share-smart-optimizing-youtube-videos-on-fb-platform/"><u>[Updated] In 2024, Share Smart  Optimizing YouTube Videos on FB Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-seamless-rotation-a-cameras-360-journey/"><u>[Updated] Seamless Rotation  A Camera's 360 Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-rising-tide-of-infographics-for-social-insights/"><u>2024 Approved  The Rising Tide of Infographics for Social Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnose-and-fix-windows-error-code-0xc00000e9/"><u>Comprehensive Guide to Diagnose and Fix Windows Error Code 0Xc00000e9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackle-free-audio-effective-solutions-for-clearing-up-sound-on-windows-11-and-7-computers/"><u>Crackle-Free Audio: Effective Solutions for Clearing Up Sound on Windows 11 and 7 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cured-discord-microphone-halt/"><u>Cured Discord Microphone Halt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-hp-laptop-usb-port-troubleshooting-step-by-step-repair-tips/"><u>DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-chronic-computer-stalling-and-unresponsiveness-issues/"><u>Expert Tips for Fixing Chronic Computer Stalling and Unresponsiveness Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-differences-between-igtv-and-youtube-for-effective-posts-for-2024/"><u>Exploring Differences Between IGTV and YouTube for Effective Posts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-keyboard-shortcuts-why-winplusshiftpluss-is-unresponsive-in-windows-11-and-10/"><u>Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-activating-touchscreen-capabilities-on-computers-with-disabled-stylus-access/"><u>Guide to Activating Touchscreen Capabilities on Computers with Disabled Stylus Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-repairing-unknown-usb-device-detected-port-reset-problems-in-windows-10/"><u>Guide: Successfully Repairing 'Unknown USB Device Detected - Port Reset' Problems in Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-fill-your-free-time-top-10-exciting-games-when-youre-feeling-bored/"><u>How to Fill Your Free Time: Top 10 Exciting Games When You're Feeling Bored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-broken-usb-input-devices-on-your-windows-7-pc/"><u>How to Fix Broken USB Input Devices on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-common-obstacles-in-downloading-steam-updates-correctly/"><u>How to Overcome Common Obstacles in Downloading Steam Updates Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-non-functioning-ps4-headset-audio-problems/"><u>How to Quickly Resolve Non-Functioning PS4 Headset Audio Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-the-component-object-model-surrogate-stopped/"><u>How to Resolve When the 'Component Object Model Surrogate Stopped'</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-troubleshooting-resolving-no-audio-in-obs/"><u>In 2024, Troubleshooting  Resolving No Audio in OBS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-lg-watch-style-experience-a-detailed-review-of-a-timeless-wear-os-20-companion/"><u>Inside the LG Watch Style Experience: A Detailed Review of a Timeless Wear OS 2.0 Companion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-digital-life-with-the-lenovo-tab-m10-hd-2020-an-in-depth-review-on-affordable-web-and-media-tablets/"><u>Maximize Your Digital Life with the Lenovo Tab M10 HD 2020: An In-Depth Review on Affordable Web and Media Tablets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximize-your-impact-knowledge-of-instagrams-video-time-policy-for-2024/"><u>Maximize Your Impact  Knowledge of Instagram's Video Time Policy for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-movie-magic-for-all-a-comprehensive-guide-to-producing-high-quality-videos/"><u>New In 2024, Movie Magic for All A Comprehensive Guide to Producing High-Quality Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-printer-update-failures-a-comprehensive-fix-for-xerox-error-code-0x800f02eb-in-windows-systems/"><u>Overcoming Printer Update Failures: A Comprehensive Fix for Xerox Error Code 0X800f02eb in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-eliminate-delays-on-your-keyboard-in-windows-10/"><u>Resolved: Eliminate Delays on Your Keyboard in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-realtek-hd-audio-process-ravbg64exe-consuming-too-much-cpu-power/"><u>Solve Realtek HD Audio Process 'ravbg64.exe' Consuming Too Much CPU Power</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-keyboard/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-windows-error-code-0x800f020b-from-xerox-printer-updates/"><u>Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-youtube-sound-issues-fixing-audio-renderer-errors-in-windows-11/"><u>Troubleshooting YouTube Sound Issues: Fixing Audio Renderer Errors in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-input-errors-on-computer-screens/"><u>Troubleshooting: Unsupported Input Errors on Computer Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-google-chrome-freezing-expert-tips-for-resolving-non-responsive-issues/"><u>Why Is Google Chrome Freezing? Expert Tips for Resolving Non-Responsive Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-start-menu-issues-discover-quick-solutions/"><u>Windows 11 Start Menu Issues? Discover Quick Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205764869-windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player Server Execution Failed Error on Windows [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-ultimate-guide-to-telegram-web-navigation/"><u>Your Ultimate Guide to Telegram Web Navigation</u></a></li>
+</ul></div>

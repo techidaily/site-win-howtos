@@ -1,7 +1,7 @@
 ---
 title: "Discover the Current Release of Microsoft Office: Which Version Are You Using?"
-date: 2024-08-27 16:49:51
-updated: 2024-08-29 12:43:43
+date: 2024-08-28T00:19:53.794Z
+updated: 2024-08-29T00:19:53.794Z
 tags:
   - excel
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
 ![img_5b0f2c2233ce9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5b0f2c2233ce9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Check if You Have the Latest Version
 
  To [check which version of Microsoft Office you're using](https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10-4g-phone-that-is-locked-by-drfone-android/) on Windows, open an Office application like Word or Excel, and then click the "File" menu at the top left corner of the window.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
 ![img_5bd75420b19ca](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bd75420b19ca.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also scroll down and look click the "About" button on the Account page---for example, "About Word" in Microsoft Word---to find more information.
 
  Next to the "About" button, you'll also see the version and release channel of your Office apps. In the screenshot below, we're using version 1809, which was released in September 2018, and we're on the monthly update channel. The semi-annual channel is slower and useful for organizations that want less frequent updates.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
 ![img_5bd754bd28c75](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bd754bd28c75.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On a Mac, click the "About" option in an application's menu to find this information.
 
  For example, in Microsoft Word, click Word > About Word. In Microsoft Excel, click Excel > About Excel.
@@ -65,6 +74,12 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
 
 ![img_5b0f2439145da](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5b0f2439145da.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ##  How to Update to the Latest Version
 
  How you update depends on how you purchased Microsoft Office. If you subscribe to [the Office 365 subscription service](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-nova-y71-drfone-by-drfone-virtual/), you will always have the latest version of Microsoft Office.
@@ -79,6 +94,9 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
 
 ![img_5b0f2a2e6c83e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5b0f2a2e6c83e.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  If you don't have Office 2019, you can get it by either subscribing to Microsoft's [Office 365](https://www.microsoft.com/en-us/microsoft-365) subscription service or by purchasing [a single PC or Mac license of Office 2019](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products) and installing it on your system.
 
  If you opt to purchase Office 2019 instead of subscribing to Office 365, you won't be automatically updated to the next major release of Office. However, if you subscribe to Office 365, you'll automatically be kept up-to-date with the latest Office software.
@@ -103,3 +121,40 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-full-examination-evaluating-the-gecata-analyzer-for-2024/"><u>[New] Full Examination  Evaluating the Gecata Analyzer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>[New] Leading Sites Unveiled  Acquiring Personalized Ringtone Files From Youtube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-strategies-for-transmitting-obs-livestreams-to-facebook-for-2024/"><u>[Updated] Cutting-Edge Strategies for Transmitting OBS Livestreams to Facebook for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-save-the-scene-techniques-for-transcribing-live-videos/"><u>[Updated] Save the Scene  Techniques for Transcribing Live Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-teaspoon-salt/"><u>1 Teaspoon Salt</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-the-art-of-import-in-windows-10-photo-space/"><u>2024 Approved  Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnose-and-fix-windows-error-code-0xc00000e9/"><u>Comprehensive Guide to Diagnose and Fix Windows Error Code 0Xc00000e9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-defeating-the-werfaultexe-error-in-windows-a-comprehensive-guide/"><u>Decoding and Defeating the werFault.exe Error in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-hp-laptop-usb-port-troubleshooting-step-by-step-repair-tips/"><u>DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-keeping-your-pc-awake-and-alert-at-all-times/"><u>Effective Solutions: Keeping Your PC Awake and Alert at All Times</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-chronic-computer-stalling-and-unresponsiveness-issues/"><u>Expert Tips for Fixing Chronic Computer Stalling and Unresponsiveness Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-repairing-unknown-usb-device-detected-port-reset-problems-in-windows-10/"><u>Guide: Successfully Repairing 'Unknown USB Device Detected - Port Reset' Problems in Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-broken-usb-input-devices-on-your-windows-7-pc/"><u>How to Fix Broken USB Input Devices on Your Windows 7 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-common-obstacles-in-downloading-steam-updates-correctly/"><u>How to Overcome Common Obstacles in Downloading Steam Updates Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-non-functioning-ps4-headset-audio-problems/"><u>How to Quickly Resolve Non-Functioning PS4 Headset Audio Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-photography-lighting-tips-for-2024/"><u>IPhone Photography Lighting Tips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-printer-update-failures-a-comprehensive-fix-for-xerox-error-code-0x800f02eb-in-windows-systems/"><u>Overcoming Printer Update Failures: A Comprehensive Fix for Xerox Error Code 0X800f02eb in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-eliminate-delays-on-your-keyboard-in-windows-10/"><u>Resolved: Eliminate Delays on Your Keyboard in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-realtek-hd-audio-process-ravbg64exe-consuming-too-much-cpu-power/"><u>Solve Realtek HD Audio Process 'ravbg64.exe' Consuming Too Much CPU Power</u></a></li>
+<li><a href="https://facebook.techidaily.com/trapped-in-online-purgatory-discover-why/"><u>Trapped in Online Purgatory? Discover Why</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-0x-memory-reference-issues-in-computing-systems/"><u>Troubleshooting and Solving 0X Memory Reference Issues in Computing Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-keyboard/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-windows-error-code-0x800f020b-from-xerox-printer-updates/"><u>Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-repair-a-malfunctioning-cddvd-drive-on-windows-pcs/"><u>Troubleshooting Steps to Repair a Malfunctioning CD/DVD Drive on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting Tips: Fixing Your Non-Functional USB-to-HDMI Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-youtube-sound-issues-fixing-audio-renderer-errors-in-windows-11/"><u>Troubleshooting YouTube Sound Issues: Fixing Audio Renderer Errors in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-input-errors-on-computer-screens/"><u>Troubleshooting: Unsupported Input Errors on Computer Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-start-menu-issues-discover-quick-solutions/"><u>Windows 11 Start Menu Issues? Discover Quick Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player Server Execution Failed Error on Windows [Solved]</u></a></li>
+</ul></div>

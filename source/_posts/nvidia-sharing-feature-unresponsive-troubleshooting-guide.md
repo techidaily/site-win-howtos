@@ -1,0 +1,199 @@
+---
+title: NVIDIA Sharing Feature Unresponsive - Troubleshooting Guide
+date: 2024-08-28T00:24:07.150Z
+updated: 2024-08-29T00:24:07.150Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes NVIDIA Sharing Feature Unresponsive - Troubleshooting Guide
+excerpt: This Article Describes NVIDIA Sharing Feature Unresponsive - Troubleshooting Guide
+thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a93717f2bc1e33482afa7bcb7676.jpg
+---
+
+## Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside
+
+Many**PUBG**players are recently reporting an issue with their game. Their PUBG is**not loading the** **texture of buildings and other objects**after they land on the ground, which makes the game graphics look retro. If you’re also experiencing this issue, don’t worry. You should be able to fix your issue with one of the solutions below.
+
+## Try these fixes
+
+You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Press Tab when parachuting**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Move your game files to your SSD (if you have one)**](https://www.drivereasy.com/knowledge/pubg-buildings-not-loading-fixed/#b)
+3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Reinstall your game**](https://tools.techidaily.com/drivereasy/download/)
+
+### Method 1: Press Tab when parachuting
+
+To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+### Method 2: Move your game files to your SSD (if you have one)
+
+If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
+
+**2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+**3)** Click**ADD LIBRARY FOLDER**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+**5)** Click**CLOSE**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
+
+**6)** Click**OK**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
+
+**7)** Click**LIBRARY**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
+
+**8)** Right click **PLAYERUNKNOWN’S BATTLEGROUNDS** , then click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
+
+**9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
+
+**10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+### Method 3: Update your graphics driver
+
+Your game may not be able to load the building texture properly if you’re not using a correct graphics driver or it’s out of date. You should update this driver to see if this fixes your issue. If you don’t have the time, patience or skills to update your printer driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+**3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
+
+ You can do it for free if you like, but it’s partly manual.
+
+ If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
+
+### Method 4: Reinstall your game
+
+Your PUBG files may have been corrupted so you are having the texture loading issues. You can reinstall your game to repair the corrupted files. After that, run your game and, if this method helps you, you should see the texture of buildings is fully loaded. We hope one of these fixes works for you! If you have any questions, leave us a comment below.
+
+* [PLAYERUNKNOWN'S BATTLEGROUNDS](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-broadcast-mastery-mobile-livestraning-on-facebook-unveiled/"><u>[New] 2024 Approved  Broadcast Mastery  Mobile Livestraning on Facebook Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-guide-to-top-notch-webcam-filming/"><u>[New] Step-by-Step Guide to Top-Notch Webcam Filming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-the-mystery-of-pfp-a-tiktok-perspective/"><u>[New] Unlocking the Mystery of 'PFP'  A TikTok Perspective</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-giggle-generator-for-imgur-for-2024/"><u>[Updated] Giggle Generator for Imgur for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-windows-10-hacks-and-insights/"><u>[Updated] In 2024, Essential WINDOWS 10 Hacks & Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-secrets-to-procuring-gratis-picture-frame-media/"><u>[Updated] In 2024, Secrets to Procuring Gratis Picture Frame Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-youtube-url-your-way-easy-personalization-steps/"><u>[Updated] Your YouTube URL, Your Way  Easy Personalization Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-gamers-guide-5-crucial-webcams-to-master/"><u>2024 Approved  Elite Gamers' Guide  5 Crucial Webcams to Master</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-tech-with-a-twist-of-style-our-in-depth-analysis-of-the-moto-g-stylus/"><u>Affordable Tech with a Twist of Style: Our In-Depth Analysis of the Moto G Stylus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-life-to-your-race-a-step-by-step-fix-for-silent-gameplay-in-forza-horizon-4/"><u>Bring Life to Your Race: A Step-by-Step Fix for Silent Gameplay in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-successfully-creating-a-d3d-device-after-previous-failures/"><u>Comprehensive Guide to Successfully Creating a D3D Device After Previous Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-repairing-incomplete-or-damaged-registry-issues-causing-dvdcd-rom-errors-on-windows-10/"><u>Comprehensive Guide: Repairing Incomplete or Damaged Registry Issues Causing DVD/CD-ROM Errors on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211398342-computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-halo-4s-unreal-engine-4-ue4-fatal-error-a-step-by-step-guide/"><u>Fixing Halo 4'S Unreal Engine 4 (UE4) Fatal Error : A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-darkness-to-light-solutions-for-overcoming-the-windows-11-screen-blackout-challenge/"><u>From Darkness to Light: Solutions for Overcoming the Windows 11 Screen Blackout Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-accelerate-league-of-legends-download-speed-and-avoid-lag/"><u>How to Accelerate League of Legends Download Speed and Avoid Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-interaction-when-your-screen-has-no-pentouch-input/"><u>How to Enable Interaction When Your Screen Has No Pen/Touch Input</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-keyboard-letter-issue-on-pcs-with-windows-1011/"><u>How to Fix a Broken Keyboard Letter Issue on PCs with Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-stagnant-windows-update-process-resolved/"><u>How to Fix a Stagnant Windows Update Process: Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-challenges-with-torrents-not-downloading-properly/"><u>How to Overcome Challenges with Torrents Not Downloading Properly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-quick-guide-to-chroma-key-background/"><u>In 2024, A Quick Guide to Chroma Key Background</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-fold-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel Fold by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mod-video-editing-solutions-expert-approved-choices/"><u>New Free MOD Video Editing Solutions Expert-Approved Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-photography-expert-tips-for-screen-shotting-and-video-clips/"><u>Nintendo Switch Photography: Expert Tips for Screen Shotting & Video Clips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-errors-the-stop-working-problem-with-32bit-application-print-drivers-is-fixed/"><u>No More Errors - The 'Stop Working' Problem with 32Bit Application Print Drivers Is Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-games-solving-issues-in-your-game-configuration/"><u>Origin Games: Solving Issues in Your Game Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-browser-barriers-a-user-friendly-guide-for-safari-cannot-load-page-issues/"><u>Overcoming Browser Barriers - A User-Friendly Guide for 'Safari Cannot Load Page' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-non-responsive-internet-explorer-browser/"><u>Overcoming the Challenge of a Non-Responsive Internet Explorer Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/preserve-file-locations-seamless-booting-and-access-in-windows-11/"><u>Preserve File Locations: Seamless Booting and Access in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ranked-slideshow-creation-software-on-latest-iphones-for-2024/"><u>Ranked Slideshow Creation Software on Latest iPhones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-unresponsive-mouse-and-keyboard-on-windows-7-a-step-by-step-guide/"><u>Resolve Your PC's Unresponsive Mouse & Keyboard on Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-remote-server-connection-failures-a-step-by-step-guide/"><u>Resolving Issues with Remote Server Connection Failures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-world-of-warcraft-wow-latency-problems-a-comprehensive-guide/"><u>Resolving World of Warcraft (WoW) Latency Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/safari-cannot-open-the-page-easy-fix/"><u>Safari Cannot Open the Page [Easy Fix]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206319956-shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-enabling-camera-access-for-snapchat-photos-and-videos/"><u>Step-by-Step Guide: Enabling Camera Access for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-msmpengineexe-from-hogs-up-cpu-resources-in-windows-10-fixed/"><u>Stop MsMpEngine.exe From Hogs Up CPU Resources in Windows 10 – FIXED</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-and-high-cpu-use-in-windows-11-step-by-step-fix-guide/"><u>Svchost.exe & High CPU Use in Windows 11: Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-dealing-with-undetectable-system-modules/"><u>The Ultimate Fix Guide: Dealing With Undetectable System Modules</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-females-in-youtube-a-list-of-leading-creators-for-2024/"><u>Top Females in YouTube  A List of Leading Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tricks-to-successfully-connect-your-microsoft-wireless-display-adapter-with-a-compatible-configuration-in-windows-10/"><u>Top Tricks to Successfully Connect Your Microsoft Wireless Display Adapter with a Compatible Configuration in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-airpods-on-windows-11-guide-updated/"><u>Troubleshoot Your AirPods on Windows 11 (Guide Updated )</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-broken-files-in-windows-11-operating-systems/"><u>Troubleshooting and Repairing Broken Files in Windows 11 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-bright-white-screens-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Bright White Screens on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-your-lost-desktop-icons-on-windows-10-fixed/"><u>Troubleshooting Guide: Restoring Your Lost Desktop Icons on Windows 10 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-mic-on-your-arctis-5-headset-solution-included/"><u>Troubleshooting Non-Functional Mic on Your Arctis ^5 Headset (Solution Included)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209472926-troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-surge-incident-on-transmission-node/"><u>Troubleshooting Successful: Surge Incident on Transmission Node</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcome-audio-issues-with-your-logitech-g930-headset/"><u>Troubleshooting Tips: Overcome Audio Issues with Your Logitech G930 Headset</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-guide-recording-your-youtube-livestreams/"><u>Ultimate Guide  Recording Your YouTube Livestreams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-how-to-re-sync-your-unresponsive-xbox-one-controller/"><u>Ultimate Solution: How To Re-Sync Your Unresponsive Xbox One Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-microsofts-0x80004005-error-a-step-by-step-tutorial/"><u>Understanding and Correcting Microsoft's 0X80004005 Error: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-reasons-behind-ps4-loud-operation-and-fixing-them/"><u>Understanding the Reasons Behind PS4 Loud Operation & Fixing Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-secret-to-fixing-error-code-0x80070002-in-windows-update-expert-advice/"><u>Unlock the Secret to Fixing Error Code 0X80070002 in Windows Update - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsticking-the-steelseries-arctis-5-mic-effective-strategies-for-audio-recovery/"><u>Unsticking the SteelSeries Arctis 5 Mic: Effective Strategies for Audio Recovery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-hello-ready-cameras-identified/"><u>Windows Hello Ready Cameras Identified</u></a></li>
+</ul></div>

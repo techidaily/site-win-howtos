@@ -1,0 +1,182 @@
+---
+title: Destiny 지미 2 시작 중에 일시 불확인 상태에서 깨어나다는 방법
+date: 2024-09-01T05:01:36.838Z
+updated: 2024-09-02T05:01:36.838Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Destiny 지미 2 시작 중에 일시 불확인 상태에서 깨어나다는 방법
+excerpt: This Article Describes Destiny 지미 2 시작 중에 일시 불확인 상태에서 깨어나다는 방법
+thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c96896292c9c0c5d9f8bf9d7.jpg
+---
+
+## Destiny 2 Not Working? Fix Connection Errors to the Game Servers Here
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ab9e09904.jpg)
+
+Having an error on Destiny 2 saying:**Destiny 2 servers are not available**? Don’t worry. This is a common Destiny server issue and you can fix servers not available in Destiny 2\. Why is Destiny 2 server unavailable? It’s very likely that too many people connect to the servers at the same time period, and the servers are overloading. So you can’t currently connect to the server and get the servers unavailable error. In addition, the network problems in your computer can also result in the error. But the good news is, this is not a difficult issue to resolve.
+
+## Try these fixes
+
+Here are some solutions that have helped people resolve the error “**Destiny 2 servers are not available**”. You don’t need to try them all; just work your way down the list until everything’s working again.
+
+1. [**Connect to the Destiny 2 server in another time**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Disable DHCP for your connection**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Use the Ethernet connection**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Update your network card driver**](https://tools.techidaily.com/drivereasy/download/)
+
+ Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+---
+
+---
+
+---
+
+### Fix 1: Connect to the Destiny 2 server in another time
+
+It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+### Fix 2: Disable DHCP for your connection
+
+If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
+
+1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+2. Click**Change adapter** **settings** on the left.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
+3. Right click on the**connection** you’re currently using, and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
+4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
+5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
+6. Restart your computer and open Destiny 2 to see if it works.
+It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
+
+---
+
+### Fix 3: Use the Ethernet connection
+
+It’s recommended to use the Ethernet connection, since playing games like Destiny 2 requires a more stable and faster Internet connection. So you can switch to the**Ethernet connection**on your computer to see if it works. If you want to use the WiFi connection, or there’s no Ethernet connection available, try these steps to force your computer (and Destiny 2 included) to connect via WiFi.
+
+1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Right click on the**connections** that you’re not using, and select**Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
+ You’ll need to repeat this step for any other connections that you’re not using.
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
+Still no luck? Ok, there’s one more thing to try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Update your network card driver
+
+A missing or outdated network card driver will cause connection issues in your computer, so you should keep the network card driver up to date. There are two ways to update the network card driver:**manually**and**automatically**.**Manually update the driver**– You can go to the manufacturer’s website of your network card, then download and install the latest correct driver into your computer. Be sure to download the one that is compatible with the Windows OS running in your computer. This requires time and computer skills.**Automatically update the driver**– If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
+3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
+4. Restart your computer to take effect.
+Open Destiny 2 and see the servers not available error has been removed.
+
+---
+
+So there you have it – the four effective ways to fix “**Destiny 2 servers are not available**” in your computer. Feel free to leave a comment below if you have any questions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-distraction-free-video-conferencing-with-skype-for-2024/"><u>[New] Achieving Distraction-Free Video Conferencing with Skype for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-playful-pioneers-the-kids-game-bazaar-for-2024/"><u>[New] Playful Pioneers  The Kids' Game Bazaar for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-aural-ascendancy-mastering-sound-integration-on-reels/"><u>2024 Approved  Aural Ascendancy  Mastering Sound Integration on Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints-for-2024/"><u>Capturing the Echoes of Yesteryears  Scanning and Storing Vintage Prints for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steps-for-windows-update-error-0x8024002e-recovery-tips-included/"><u>Complete Troubleshooting Steps for Windows Update Error 0X8024002e Recovery Tips Included</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-error-0x80224200d-successfully-update-your-windows-system-now/"><u>Definitive Solutions to Error 0X802^24200D – Successfully Update Your Windows System Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-mouse-right-click-issues-under-windows-10-operating-system/"><u>Diagnosing and Fixing Mouse Right-Click Issues Under Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0xc0000098-on-windows-a-comprehensive-fixing-guide/"><u>Error Code 0XC0000098 on Windows: A Comprehensive Fixing Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/examining-high-disk-usage-by-microsoft-security-essentials-understanding-mses-operational-footprint/"><u>Examining High Disk Usage by Microsoft Security Essentials - Understanding MSE's Operational Footprint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-how-to-successfully-address-failed-driver-setup-due-to-user-settings/"><u>Expert Tips: How to Successfully Address 'Failed Driver Setup Due to User Settings'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-corrupted-or-broken-start-menu-on-windows-11-proven-fixes-here/"><u>Fix Corrupted or Broken Start Menu on Windows 11 - Proven Fixes Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-white-screen-of-death-on-your-laptop-a-comprehensive-guide/"><u>Fixing the White Screen of Death on Your Laptop – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-windows-printer-driver-not-found-problem-solution-done/"><u>Guide to Overcome Windows Printer Driver Not Found Problem [SOLUTION DONE]</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206502142-how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-usb-connections-in-windows-11/"><u>How to Fix Malfunctioning USB Connections in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-start-menu-issues-quickly-and-easily/"><u>How to Fix Windows 11 Start Menu Issues Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-typing-lags-in-your-windows-11-computer-experience/"><u>How to Overcome Typing Lags in Your Windows 11 Computer Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-star-wars-galaxies-the-expanded-universe-from-crashing-during-pc-battles/"><u>How To Prevent Star Wars Galaxies - The Expanded Universe From Crashing During PC Battles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-incompatible-with-miracast-error-comprehensive-guide/"><u>How to Resolve Device Incompatible with Miracast Error : Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-impact-setting-techniques-for-live-media/"><u>In 2024, High-Impact Setting Techniques for Live Media</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-hot-40-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Hot 40 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>In 2024, Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-linkages-the-portuguese-connection-across-continents/"><u>Language Linkages: The Portuguese Connection Across Continents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-hugging-face-usage-and-significance-explained/"><u>Navigating Hugging Face: Usage and Significance Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-windows-11-errors-how-sfc-and-dism-can-save-the-day/"><u>Navigating Windows 11 Errors: How SFC & DISM Can Save the Day</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-quiet-cinema-effective-methods-to-address-netflixs-lack-of-audio/"><u>No More Quiet Cinema: Effective Methods to Address Netflix's Lack of Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205651243-overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functional-huion-drawing-tablet-top-5-solutions/"><u>Quick Fixes for a Non-Functional Huion Drawing Tablet: Top 5 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/red-alert-resolution-tips-and-tricks-for-fixing-critical-screens/"><u>Red Alert Resolution: Tips & Tricks for Fixing Critical Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reducing-loudness-on-your-ps4-console-diagnosis-and-repair-guide/"><u>Reducing Loudness on Your PS4 Console: Diagnosis and Repair Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-kernel32dll-on-your-pc/"><u>Reviving Kernel32.dll on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-windows-10-restart-loop/"><u>Simple Fixes for the Persistent Windows 10 Restart Loop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/skyrim-infinite-screen-glitch-no-more-issue-resolved/"><u>Skyrim Infinite Screen Glitch No More: Issue Resolved</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-11-proplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme 11 Pro+ with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-fn-key-problems-for-a-smooth-experience-with-asus-notebooks/"><u>Solving Fn Key Problems for a Smooth Experience with ASUS Notebooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-nonfunctioning-lenovo-mousepads-across-win11-win8-and-win7-a-comprehensive-fix/"><u>Solving Nonfunctioning Lenovo Mousepads Across Win11, Win8, and Win7: A Comprehensive Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003001283-step-up-your-gameplay-supercharge-horizon-zero-dawns-frame-rate-for-optimal-play/"><u>Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-fix-surface-input-restored/"><u>Tech Fix: Surface Input Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-overcome-werfaultexe-crashing-in-windows/"><u>Top 6 Solutions to Overcome werFault.exe Crashing in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transforming-your-living-space-into-a-podcast-studio/"><u>Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unchanged-file-storage-during-startup-navigating-windows-11-with-ease/"><u>Unchanged File Storage During Startup: Navigating Windows 11 with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-the-pcs-continuous-power-cycle-problem/"><u>Understanding and Resolving the PC's Continuous Power Cycle Problem</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-camtasia-video-editing-secrets-speeding-up-or-slowing-down-footage-for-2024/"><u>Updated Camtasia Video Editing Secrets Speeding Up or Slowing Down Footage for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-if-you-are-a-fan-of-electronic-noise-and-other-experimental-genres-of-music-that-emerged-in-the-early-and-mid-1990s-then-you-probably-alread/"><u>Updated In 2024, If You Are a Fan of Electronic, Noise and Other Experimental Genres of Music that Emerged in the Early and Mid-1990s, Then You Probably Already Know What Glitch Art Is. If You Would Like to Create Gli</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204621854-windows-10-unresponsiveness-heres-what-you-can-do/"><u>Windows 10 Unresponsiveness? Here's What You Can Do</u></a></li>
+</ul></div>

@@ -1,0 +1,255 @@
+---
+title: Fixing Persistent Issues and Errors in Black Ops 4 Gameplay
+date: 2024-09-01T05:01:23.636Z
+updated: 2024-09-02T05:01:23.636Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Fixing Persistent Issues and Errors in Black Ops 4 Gameplay
+excerpt: This Article Describes Fixing Persistent Issues and Errors in Black Ops 4 Gameplay
+thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5da6255104df4cb09d08d4f81.jpg
+---
+
+## How to Optimize Your Gameplay and Fix Lag in Fallout 4 - Expert Tips From 2N22
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-205.png)
+
+ Launched on 10 November 2015,**Fallout 4** is now with a history of around 4 years. Still, some players are complaining of lag issues that almost ruin their gaming experience in Fallout 4\. If you happen to be one of those victims, don’t worry – this post provides 5 fixes for you to solve the problem.
+
+ In this post, we simply define “lag issue” as one that’s similar to “low FPS” or “stuttering.”
+
+## 5 fixes for Fallout 4 lagging
+
+ Here are a few easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+**[Fix 1: Update your video card drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 2: Modify your video card settings](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 3: Adjust in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 4: Uncap FPS limit](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 5: Stop CPU/memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Update your video card drivers
+
+ Keep in mind to update your video card drivers at regular times; otherwise an out-dated or corrupt driver may end up lowering your FPS and even preventing the game from running smoothly.
+
+ Besides, if it turns out that merely updating the video drivers cannot solve your issue, you should take a shot at updating every possible device driver (such as CPU and audio) and see whether that works for you.
+
+ No need to worry if you don’t have the time, patience, or computer skills to update drivers manually – **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  is there for you.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy takes care of everything.**
+
+ You can update your drivers automatically with either the **FREE**  or the **Pro**  version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
+
+ 3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
+
+**Note:** you can do it for free if you like, but it’s partly manual.
+
+ If you have any problems when using**Driver Easy Pro** to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** .
+
+ Now launch the game and check whether it runs smoothly. Hopefully it does; but if not, read on and try out the next fix below.
+
+---
+
+### Fix 2: Modify your video card settings
+
+To modify your video card settings, use the following procedure:
+
+ This fix is only available to**NVIDIA graphics card** users. If you happen to be using an AMD or Intel graphics card, you should seek other ways to make the similar tweaks as follows.
+
+ 1) Right-click an empty area on your desktop and then select**NVIDIA Control Panel** from the context menu.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you’re able to modify the settings of this program.
+
+ 3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
+
+* Set**Power management mode** to**Prefer maximum performance**
+* Set**Triple buffering** to**On**
+* Set**Maximum pre-rendered frames** to**1**
+* Set**Vertical sync** to**On**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+ After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Adjust in-game settings
+
+ This is also a quick-fix when you find yourself suffering from a lag issue in Fallout 4 – adjust the in-game settings.
+
+ 1) Launch Fallout 4\. Then, on the launch menu, click**Options** .
+
+ 2) Set**Resolutions** to the same value as your monitor uses. After that, make sure you check these two boxes:**Windowed Mode** and**Borderless** . Click**OK** to save the changes.
+
+![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
+
+ If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
+
+ Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
+
+---
+
+### Fix 4: Uncap FPS limit
+
+ You may seek to uncap the FPS limit of Fallout 4 by using Notepad to modify some certain values. Here’s how to do it:
+
+ 1) Navigate to the following folder (this is where the game file basically resides):
+
+C:\Users\YourWindowsName\Documents\My Games\Fallout4
+
+ 2) Locate a file named**Fallout4Prefs.ini** . Right-click on it to open the context menu and then click**Open with** \> **Notepad** .
+
+ 3) After the file is opened, press**Ctrl + F** on your keyboard to invoke the**Find** dialog box. Then, type in**iPresentInterval** and hit**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+ When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
+
+4) Save the file and exit Notepad.
+
+**Note:** According to some players, uncapping FPS limit may bring about messy side effects such as “UI is boosted up” (thanks to the comment by**one russian лёха** ). If you run into problems like that, please revert the change. Just reset**iPresentInterval** to**1** , exit the game and then relaunch it.
+
+ If this fix doesn’t work for you, you may read on and try the next one.
+
+---
+
+### Fix 5: Stop CPU/memory hogging applications
+
+ If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
+
+ 1) On your keyboard, press the**Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **taskmgr** and hit **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
+
+ 2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
+
+ Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+ 3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
+
+**Note** that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable the third-party antivirus programs, Windows Defender is still there for you during that certain time range. So, no need to worry too much about temporarily turning your antivirus off.
+
+---
+
+ So far, have you succeeded in solving your lag issue in Fallout 4? If you have any further questions or ideas, please feel free to leave a comment below. Thanks for reading, and take your time scavenging in the wasteland!
+
+* [Fallout 4](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>[New] Cross-Device  The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-video-grabbers-for-windows-10-users/"><u>[New] Essential Video Grabbers for Windows 10 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-guide-to-enhancing-photos-with-facetune-app/"><u>[New] Full Guide to Enhancing Photos with Facetune App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-nailing-the-perfect-gameplay-with-fbx/"><u>[New] In 2024, Nailing the Perfect Gameplay with FBX</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide-for-2024/"><u>[New] Mastering Easy HDR  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-identifying-lowest-cloud-data-rates/"><u>[New] Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-12-action-cameras-with-gps-for-2024/"><u>[New] Top 12 Action Cameras with GPS for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-kickboxing-and-karate-game-round-up-for-2024/"><u>[New] Ultimate Kickboxing & Karate Game Round-Up for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-going-from-frame-to-note-on-instagrams-mp3-route-for-2024/"><u>[Updated] Going From Frame-to-Note on Instagram's Mp3 Route for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-title-creation-on-youtube-for-engagement/"><u>[Updated] Leveraging Title Creation on YouTube for Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-chroma-key-techniques-in-live-broadcasts/"><u>[Updated] Mastering Chroma Key Techniques in Live Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-social-media-marketing-elevating-public-health-dialogue/"><u>[Updated] Social Media Marketing  Elevating Public Health Dialogue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-your-perfect-video-presentation-toolkit-unveiling-the-best-36-tools-on-play-store/"><u>[Updated] Your Perfect Video Presentation Toolkit  Unveiling the Best 36 Tools on Play Store</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensively-guide-windows-10s-best-practices-for-mov-files/"><u>2024 Approved  Comprehensively Guide  Windows 10'S Best Practices for Mov Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-effective-ways-how-to-block-facebook-video-ads/"><u>2024 Approved  Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-masterpieces-top-sites-for-legal-skype-files/"><u>2024 Approved  Melodic Masterpieces  Top Sites for Legal Skype Files</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-visual-experience-on-youtube-with-professional-techniques/"><u>2024 Approved  Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-stubborn-windows-update-glitch-eliminate-error-0x80240017-now/"><u>Bypassing the Stubborn Windows Update Glitch: Eliminate Error 0X80240017 Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/clipgame-compact-bite-sized-vintage-gaming/"><u>ClipGame Compact: Bite-Sized Vintage Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-instructions-turning-on-your-devices-bluetooth-feature-on-windows/"><u>Comprehensive Instructions: Turning on Your Device's Bluetooth Feature on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-wont-proceed-past-boot-tips-for-successful-resolution/"><u>Computer Won’t Proceed Past Boot - Tips for Successful Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dells-guide-to-restoring-usb-port-functionality-solved/"><u>Dell's Guide to Restoring USB Port Functionality - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-frozen-windows-updates-that-wont-finish/"><u>Diagnosing and Repairing Frozen Windows Updates That Won't Finish</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-your-stubborn-usb-to-hdmi-connection-problems/"><u>Expert Fixes for Your Stubborn USB to HDMI Connection Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-step-by-step-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210851945-fixing-the-windows-11-welcome-hang-up-fast-solutions/"><u>Fixing the Windows 11 Welcome Hang-Up: Fast Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-system-shutdowns-during-pc-gaming-on-windows-versions/"><u>Fixing Unexpected System Shutdowns During PC Gaming on Windows Versions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-one-off-to-firm-follower-an-ethical-approach-for-2024/"><u>From One-Off to Firm Follower  An Ethical Approach for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-back-online-expert-advice-on-handling-internet-disconnection-errors-efficiently/"><u>Getting Back Online: Expert Advice on Handling Internet Disconnection Errors Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-play-fortnite-solutions-for-incompatible-graphics-cards-under-windows/"><u>How to Play Fortnite: Solutions for Incompatible Graphics Cards Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-overcome-the-persistent-livekernelevent-144-glitch/"><u>How to Quickly Overcome the Persistent 'LiveKernelEvent 144' Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touch-functionality-on-your-microsoft-surface-pro-4/"><u>How to Restore Touch Functionality on Your Microsoft Surface Pro 4</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>In 2024, Natural Setups  Comprehensive Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-unlocking-your-library-the-ultimate-techniques-for-extracting-spotify-tracks/"><u>In 2024, Unlocking Your Library The Ultimate Techniques for Extracting Spotify Tracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insider-look-the-fix-for-nba-2k21s-sustainable-gameplay-feature-bug/"><u>Insider Look: The Fix for NBA 2K21's Sustainable Gameplay Feature Bug</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-continuous-playback-solution-say-goodbye-to-buffering/"><u>Kodi Continuous Playback Solution - Say Goodbye to Buffering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/miracast-troubles-start-here-correcting-graphics-driver-incompatibilities/"><u>Miracast Troubles? Start Here: Correcting Graphics Driver Incompatibilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204890142-overcoming-laptop-compatibility-hurdles-get-your-usb-mouse-working-now/"><u>Overcoming Laptop Compatibility Hurdles – Get Your USB Mouse Working Now</u></a></li>
+<li><a href="https://media-tips.techidaily.com/peacock-service-set-to-boost-fees-prior-to-the-start-of-summer-olympiad-broadcasts/"><u>Peacock Service Set to Boost Fees Prior to the Start of Summer Olympiad Broadcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ps4-charger-troubles-heres-how-to-get-your-dualshock-working-again/"><u>PS4 Charger Troubles? Here's How to Get Your Dualshock Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quench-windows-wmi-cpu-spikes/"><u>Quench Windows WMi CPU Spikes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-keypad-performance-in-windows-operating-systems-win-1187-effective-remedies/"><u>Restoring Keypad Performance in Windows Operating Systems (Win 11/8/7): Effective Remedies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spiral-fabricator-package-for-2024/"><u>Spiral Fabricator Package for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/supercharge-your-pc-games-by-refreshing-your-asus-r9-970-gpu/"><u>Supercharge Your PC Games by Refreshing Your Asus R9 970 GPU</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-psd-artistry-tweaks/"><u>Top-Tier PSD Artistry Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-when-your-screen-ignores-touch-and-stylus-commands-tips-and-tricks/"><u>Troubleshoot When Your Screen Ignores Touch and Stylus Commands: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-repaired-keyboard-typing-errors/"><u>Troubleshooting Complete: Repaired Keyboard Typing Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: Fixing a Non-Responsive Bluetooth Mouse on Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-cannot-reach-dhcp-server-issues/"><u>Troubleshooting Guide: How to Fix 'Cannot Reach DHCP Server' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-wont-minecraft-open-in-windows-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Won't Minecraft Open in Windows and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
+</ul></div>

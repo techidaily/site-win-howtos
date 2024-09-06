@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice
-date: 2024-09-01T04:54:04.926Z
-updated: 2024-09-02T04:54:04.926Z
+date: 2024-09-05T10:00:22.062Z
+updated: 2024-09-06T10:00:22.062Z
 tags:
   - win11
   - win10
@@ -19,10 +19,22 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
@@ -31,14 +43,32 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
@@ -47,6 +77,12 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Then choose**Uninstall updates**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
@@ -124,7 +160,3 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 <li><a href="https://win-howtos.techidaily.com/windows-11-hiccups-how-to-stop-them/"><u>Windows 11 Hiccups: How to Stop Them</u></a></li>
 <li><a href="https://mondly-stories.techidaily.com/witches-and-warlocks-in-world-cultures/"><u>Witches & Warlocks in World Cultures</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Application Stalls with Easy Fixes for Error 1053
-date: 2024-09-01T04:58:13.027Z
-updated: 2024-09-02T04:58:13.027Z
+date: 2024-09-05T10:00:18.552Z
+updated: 2024-09-06T10:00:18.552Z
 tags:
   - win11
   - win10
@@ -13,10 +13,22 @@ excerpt: This Article Describes Overcoming Application Stalls with Easy Fixes fo
 thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expert Tips for Overcoming Monitor Resolution Adjustment Hurdles – Now Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a752ed32f6aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It should have been another marvelous gaming day. But when you start your game as usual, it doesn’t go fine as before. Instead, you’re seeing a pop-up error saying:
 
 **Couldn’t switch to requested monitor resolution**
@@ -30,6 +42,18 @@ Read on this page and follow the steps:
 1. [Disable the full screen optimization of your game application](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Disable the full screen optimization of your game application
 
  This error happens mostly due to the automatic full screen optimization. You can solve it by easily disable the full screen optimization.
@@ -44,6 +68,12 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
@@ -54,6 +84,12 @@ To do that, please follow these easy steps:
 
 4) Relaunch your game application to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Update your graphics card driver
 
  This error could be also cause by an outdated, corrupted or missing graphics card driver. You can solve it through updating your graphics card driver. What’s more,**for the best gaming performance** , you should keep your device driver, especially the graphics card driver up-to-date.
@@ -70,6 +106,12 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -153,7 +195,3 @@ Or click **Update All**  to automatically download and install the correct versi
 <li><a href="https://win-howtos.techidaily.com/understanding-and-solving-common-update-errors-in-warframe-a-step-by-step-approach/"><u>Understanding and Solving Common Update Errors in Warframe – A Step-by-Step Approach</u></a></li>
 <li><a href="https://tech-recovery.techidaily.com/1722884714968-whats-next-anticipated-details-for-the-new-google-pixel-tab-coming-soon/"><u>What's Next? Anticipated Details for The New Google Pixel Tab Coming Soon</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

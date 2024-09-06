@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Not Responding' Issues with Windows 11'S File Explorer: Expert Solutions"
-date: 2024-09-01T04:59:10.660Z
-updated: 2024-09-02T04:59:10.660Z
+date: 2024-09-05T10:00:17.705Z
+updated: 2024-09-06T10:00:17.705Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Resolving 'Not Responding' Issues with Windows 
 thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a10883de886d722f86edd02f3d2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering USB Recognition Issues in Windows 11: No More Port Reset Failures
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
@@ -37,6 +43,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 **Solution 2: Update the Generic USB Hub Drivers**
@@ -47,6 +59,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2\. Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
@@ -55,6 +73,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. Check the box next to “Show compatible hardware” and select**Generic USB Hub** . Click on**Next** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
@@ -73,6 +97,12 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -88,6 +118,12 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -151,7 +187,3 @@ Follow below steps.
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-laptop-trackpad-issues-on-windows-10-8-and-7/"><u>Troubleshooting Guide: Fixing Laptop Trackpad Issues on Windows 10, 8 & 7</u></a></li>
 <li><a href="https://vp-tips.techidaily.com/unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

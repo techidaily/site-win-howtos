@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Experience: Expert Advice on File Explorer for Windows 10 Users"
-date: 2024-09-01T04:59:59.417Z
-updated: 2024-09-02T04:59:59.417Z
+date: 2024-09-05T10:00:17.005Z
+updated: 2024-09-06T10:00:17.005Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Simplify Your Experience: Expert Advice on File
 thumbnail: https://thmb.techidaily.com/a1952e1112a322c48709e825dbee9897ba132a48df48b3f0ca917e7642a4b4a3.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills
 
 Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explorer**, and has added tons of new features to it. As an old-time Windows operating system user, you must know what it is for. In this post, we will be introducing some ways for you to get help with**File Explorer**in Windows 10 easily.
@@ -23,14 +29,50 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
@@ -43,6 +85,18 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
@@ -51,6 +105,12 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
@@ -121,7 +181,3 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 <li><a href="https://win-howtos.techidaily.com/1723212015705-windows-7-wont-respond-to-your-clicks-fix-your-broken-mouse-and-keyboard-connections-now/"><u>Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now!</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/winning-over-windows-update-glitches-solutions-for-error-code-0xc1900208-in-w10/"><u>Winning Over Windows Update Glitches: Solutions for Error Code 0Xc1900208 in W10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

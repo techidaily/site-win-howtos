@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Overuse of Storage By Compatibility Telemetry in Windows 10
-date: 2024-09-01T04:59:04.173Z
-updated: 2024-09-02T04:59:04.173Z
+date: 2024-09-05T10:00:17.791Z
+updated: 2024-09-06T10:00:17.791Z
 tags:
   - win11
   - win10
@@ -13,10 +13,22 @@ excerpt: This Article Describes Troubleshooting the Overuse of Storage By Compat
 thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfaeee292d2afe0ece59b7e568.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Runtime Broker's Overuse of Resources on Windows 10 - Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-1.png)
 ``
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **`` Runtime Broker**  is a Windows process in Task Manager. It helps manage permissions for apps from Windows Store on your Windows 10\. Normally, it should use just a little memory and has a very low CPU usage. But for some reasons, Runtime Broker exactly has High CPU Usage to make your Windows 10 run slowly. If you encounter such error on your Windows 10, no worry any more. Here we’ve got the answer for you.  
 ``
 `` Since it is used for managing apps from Windows Store, Runtime Broker is necessary for protecting your Windows 10 security and privacy when running those apps. In such case, we recommend you do not try to disable it in Task Manager to fix the error.
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
   
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1\. Turn off “Get tips, tricks, and suggestions as you use Windows” option  
   
  Many Windows 10 users reported that disabling Windows tips immediately drops CPU Usage. So be sure to take it a try.  
@@ -46,17 +64,41 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-9.png)
 ``
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `` 3)  
 `` Click **Notifications & actions**  on the left pane.  
 `` Then scroll down to uncheck **Get tips, tricks, and suggestions as you use Windows**  on the right pane.  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-6.png)
 ``
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `` You will get rid of the error by this error. If the issue still occur, try next fix.  
 ``
 ``
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2\. Disable background apps  
   
  1)  
@@ -151,7 +193,3 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-correcting-the-entry-point-not-detected-on-windows/"><u>Troubleshooting: Correcting the 'Entry Point Not Detected' On Windows</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/windows-11-and-gamers-unite-strategies-to-amplify-game-performance/"><u>Windows 11 and Gamers Unite! Strategies to Amplify Game Performance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

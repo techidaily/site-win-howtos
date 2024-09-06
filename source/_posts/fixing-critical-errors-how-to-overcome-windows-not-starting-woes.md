@@ -1,7 +1,7 @@
 ---
 title: Fixing Critical Errors – How to Overcome Windows Not Starting Woes
-date: 2024-09-01T04:55:56.395Z
-updated: 2024-09-02T04:55:56.395Z
+date: 2024-09-05T10:00:20.479Z
+updated: 2024-09-06T10:00:20.479Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800776f4e2c0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The error can be caused by hardware issues. So first, follow below simple instructions to do the troubleshooting.
 
 **1\. Connect the device to your PC using another USB cable.** This may work like a charm on solving the problem.
@@ -51,6 +57,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. Select**Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
@@ -59,6 +71,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
@@ -73,6 +91,12 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -84,10 +108,22 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -166,7 +202,3 @@ Follow below steps.
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-correcting-the-entry-point-not-detected-on-windows/"><u>Troubleshooting: Correcting the 'Entry Point Not Detected' On Windows</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->

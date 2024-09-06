@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Unresponsive USB Ports in Windows 11 Systems
-date: 2024-09-01T05:01:12.657Z
-updated: 2024-09-02T05:01:12.657Z
+date: 2024-09-05T10:00:15.920Z
+updated: 2024-09-06T10:00:15.920Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Resolving Issues with Unresponsive USB Ports in 
 thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae2d19190125a50a9ecf80d6e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering USB Recognition Issues in Windows 11: No More Port Reset Failures
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
@@ -47,6 +53,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2\. Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
@@ -59,10 +71,22 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Repeat the steps above to update driver software for every Generic USB Hub until the problem is resolved.
 
  If the problem persists, go to your PC manufacturer’s website to download the latest USB driver according to the PC model and the operating system that you are using.
@@ -73,6 +97,12 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -84,6 +114,12 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
@@ -148,8 +184,3 @@ Follow below steps.
 <li><a href="https://win-howtos.techidaily.com/win-10-volume-dysfunction-heres-how-you-can-get-it-working-again/"><u>Win 10 Volume Dysfunction? Here's How You Can Get It Working Again!</u></a></li>
 <li><a href="https://hardware-updates.techidaily.com/windows-11-bluetooth-driver-issues-solved/"><u>Windows 11 Bluetooth Driver Issues [SOLVED]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->

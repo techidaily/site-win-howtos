@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Your Connection Is Not Secured Firefox Error"
-date: 2024-09-01T05:01:13.938Z
-updated: 2024-09-02T05:01:13.938Z
+date: 2024-09-05T10:00:15.904Z
+updated: 2024-09-06T10:00:15.904Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b256751f5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Solution 1: Restart Driver Easy**
 
  The problem can be caused by temporary disconnection from the server. When you run into this error, you can try to restart Driver Easy and see if the problem resolves.
@@ -30,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b2a29e9ee.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\.
  Type **ping app1.drivereasy.com**   and press **Enter**   button.  
  Type**ping** **app.drivereasy.com** and press**Enter** button  
@@ -37,6 +49,12 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b4406d257.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the ping command does not run successfully, the Execute Ping results screens displays an error message. In this case, problem may be caused by the network problem. Run Driver Easy after a while to try again.
 
  **Solution 3: IE (Internet Explorer) Checking**
@@ -46,14 +64,38 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b2edc7db0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In the **Connections**   tab in Internet options, click the **LAN settings**   button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b2fd185f8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. In the Local Area Network (LAN) Settings window, check the box next to Automatically detect settings and click **OK**   button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5715b30e08b9c.png)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Solution 4: Antivirus / Firewall/VPN Checking**
 
  Some AntiVirus, Firewall programs and VPN may block the connection between Driver Easy and the driver database server or driver download server.
@@ -134,7 +176,3 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 <li><a href="https://buynow-tips.techidaily.com/unlocking-peak-wifi-coverage-with-linksys-velop-a-complete-review-experience/"><u>Unlocking Peak WiFi Coverage with Linksys Velop - A Complete Review Experience</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/what-is-msdia80dll-and-how-does-it-affect-your-pc-performance/"><u>What Is msdia80.dll and How Does It Affect Your PC Performance?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->

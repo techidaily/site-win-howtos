@@ -1,7 +1,7 @@
 ---
 title: Overcoming MSVCR71 Absence
-date: 2024-09-01T05:00:47.758Z
-updated: 2024-09-02T05:00:47.758Z
+date: 2024-09-05T10:00:16.294Z
+updated: 2024-09-06T10:00:16.294Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Overcoming MSVCR71 Absence
 thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9aca849f4db3b0e7bc708ddb0e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overcoming Minecraft Performance Issues Caused by Windows Graphics Driver Errors - Fixed
 
 * **[Problem description](https://tools.techidaily.com/drivereasy/download/)**
@@ -26,10 +32,22 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Let’s look closer at this problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png)Then compare the version number with the one that could be found on[Minecraft website](https://minecraft.net/en/)to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785befa5c60a.png)
@@ -38,6 +56,18 @@ If you can see some updates on your computer, click the**Install updates**button
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this[webpage](https://www.java.com/en/download/installed.jsp)in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
@@ -52,10 +82,34 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 5) In**Troubleshoot**bar, select**Change settings**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f08382bd7.png)6) Move**Hardware acceleration**slider to**Full**. Press**OK**and exit this panel.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f0c337e92.png)   **Method Two: Roll back Driver**1) Go to[Device Manager](https://tools.techidaily.com/drivereasy/download/). 2) Expand **Display adapters** and then right click on the device under this category and choose**Properties**.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png)4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png)5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png)2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png)Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Intel –[How to download Intel display card driver?](https://tools.techidaily.com/drivereasy/download/)**
 * **NVidia –[How to download NVidia graphics drivers?](https://tools.techidaily.com/drivereasy/download/)**
 * **AMD/ATI –[How to download AMD Radeon HD Graphics driver?](https://tools.techidaily.com/drivereasy/download/)**
@@ -63,6 +117,12 @@ If you have video card made by manufacturers other than these three listed here,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6163c3a61c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
@@ -135,7 +195,3 @@ As you can see, the free version is equally capable as the professional version 
 <li><a href="https://win-howtos.techidaily.com/1723208049038-upside-down-laptop-screen-troubles-heres-how-to-set-it-right/"><u>Upside Down Laptop Screen Troubles? Here's How to Set It Right!</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

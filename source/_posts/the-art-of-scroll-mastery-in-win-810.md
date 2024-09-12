@@ -1,7 +1,7 @@
 ---
 title: The Art of Scroll Mastery in Win 8/10
-date: 2024-09-05T10:20:26.391Z
-updated: 2024-09-06T10:20:26.391Z
+date: 2024-09-11T15:18:15.873Z
+updated: 2024-09-12T15:18:15.873Z
 tags:
   - win11
   - win10
@@ -13,32 +13,21 @@ excerpt: This Article Describes The Art of Scroll Mastery in Win 8/10
 thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d967ff930da0e4fa72eadefc85.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-loading-pic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With its unique visual style, great graphics quality and gameplay, Valorant has gained an increasing number of game players in the PC gaming community. However, more and more reports about**Valorant stuck on the loading screen** came out. If you are a Valorant player experiencing such an issue, you’re not alone. The good news is, we have found some solutions for you to troubleshoot this problem! Now, let’s get started to try the methods below.
 
  Before you set out to try the fixes below, please check on the**game server status** first. Because if the Valorant is in the middle of server maintenance, you won’t be able to load into the game. For your Valorant server maintenance information, head to **[Riot Games Service Status](https://status.riotgames.com/)**  or **[Twitter of Riot Games Support](https://twitter.com/riotsupport?lang=en)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Here’re the fixes to try
 
  You may not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -48,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Check for network connection
 
@@ -59,11 +55,12 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
  If network connection is not where the problem is, try the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -71,14 +68,16 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -108,19 +107,27 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Reinstall Valorant
 
@@ -129,27 +136,29 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Delete Manifest txt files
 
  Manifest files usually contain info about resources stored as well as settings for loading those resources. In this sense, the Manifest txt files in the Valorant install file may have something to do with the loading trouble. So we could try to delete those Manifest txt files to see if it helps with the problem.
@@ -172,8 +181,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,39 +190,17 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-elite-selection-of-stardew-customizations-and-updates/"><u>[New] 2024 Approved  The Elite Selection of Stardew Customizations and Updates</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-action-to-archive-top-screen-recording-tools-assessed/"><u>[Updated] 2024 Approved  Action to Archive  Top Screen Recording Tools Assessed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-iphones-mirror-images-in-photos/"><u>[Updated] 2024 Approved  Mastering iPhone's Mirror Images in Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-leading-editing-pros-in-dev-device-content-for-2024/"><u>[Updated] Leading Editing Pros in Dev Device Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-quintessential-guide-to-secret-story-viewing-for-2024/"><u>[Updated] The Quintessential Guide to Secret Story Viewing for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10C Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cultural-compliments-worldwide-birthday-excellence/"><u>Cultural Compliments: Worldwide Birthday Excellence</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Galaxy S23 Ultra?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-address-and-repair-netflix-volume-problems/"><u>Easy Steps to Address and Repair Netflix Volume Problems</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-70-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 70 Lite 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restoring-functionality-of-a-malfunctioning-laptop-pad/"><u>Expert Advice on Restoring Functionality of a Malfunctioning Laptop Pad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-usb-connections-in-windows-11/"><u>How to Fix Malfunctioning USB Connections in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-typing-lags-in-your-windows-11-computer-experience/"><u>How to Overcome Typing Lags in Your Windows 11 Computer Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-stuck-file-explorer-in-windows-11-quickly/"><u>How to Troubleshoot and Fix Stuck File Explorer in Windows 11 Quickly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-hide-identity-blurred-face-artistry/"><u>In 2024, Hide Identity  Blurred Face Artistry</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mobile-masterpieces-phones-ideal-for-media-makers/"><u>Mobile Masterpieces  Phones Ideal for Media Makers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-windows-11-errors-how-sfc-and-dism-can-save-the-day/"><u>Navigating Windows 11 Errors: How SFC & DISM Can Save the Day</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-web-experience-with-advanced-cookiebot-technology/"><u>Optimize Web Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-wow-gameplay-to-avoid-slowdowns-and-lag/"><u>Optimizing Your WoW Gameplay to Avoid Slowdowns and Lag</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205651243-overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-hang-and-lag-issues-in-windows-1n-operating-system/"><u>Resolving Hang and Lag Issues in Windows 1N Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-resolving-werfaultexe-application-crashes/"><u>Simple Solutions for Resolving werFault.exe Application Crashes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/social-streaming-downloading-videos-and-turning-them-to-audio-for-2024/"><u>Social Streaming  Downloading Videos & Turning Them to Audio for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-fn-key-problems-for-a-smooth-experience-with-asus-notebooks/"><u>Solving Fn Key Problems for a Smooth Experience with ASUS Notebooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-the-critical-videodxgkrnlerror-on-your-pc/"><u>Step-by-Step Solutions to Overcome the Critical Video_dxgkrnl_error on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-what-to-do-when-your-mouse-wont-stay-connected/"><u>Step-by-Step Troubleshooting: What to Do When Your Mouse Won't Stay Connected</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-reappearing-bluetooth-drivers-in-computers-device-manager/"><u>Troubleshooting Tips for Reappearing Bluetooth Drivers in Computer's Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-stop-windows-10-unwanted-automatic-re-starts-now/"><u>Troubleshooting Tips: Stop Windows 10 Unwanted Automatic Re-Starts Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-how-to-restore-touchpad-scroll-functionality/"><u>Troubleshooting Windows 11: How to Restore Touchpad Scroll Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-and-solving-windows-11s-bluetooth-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solving Windows 11'S Bluetooth Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-bluetooth-connection-issues-on-windows-10/"><u>Ultimate Guide: Troubleshooting Bluetooth Connection Issues on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-the-pcs-continuous-power-cycle-problem/"><u>Understanding and Resolving the PC's Continuous Power Cycle Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204621854-windows-10-unresponsiveness-heres-what-you-can-do/"><u>Windows 10 Unresponsiveness? Here's What You Can Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-abruptly-delete-non-responsive-printers/"><u>Windows 10/11 Hack: Abruptly Delete Non-Responsive Printers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-visual-impact-editing-videos-for-instagram/"><u>[New] Enhancing Visual Impact Editing Videos for Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-strategies-for-documenting-ps3-matches/"><u>[Updated] 2024 Approved Essential Strategies for Documenting PS3 Matches</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-new-era-facebooks-quintessential-features-showcased/"><u>[Updated] 2024 Approved New Era Facebook's Quintessential Features Showcased</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-power-how-to-use-phantoms-retro-vision/"><u>[Updated] Harnessing Power How to Use Phantom's Retro Vision</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snapseed-101-easy-steps-for-image-transformation/"><u>[Updated] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-optimized-note-recording-on-mematic-app/"><u>2024 Approved Optimized Note Recording on Mematic App</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-15-youtube-channels-for-stock-market-to-follow/"><u>In 2024, Top 15 YouTube Channels for Stock Market to Follow</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/obs-capture-directly-on-instagram-for-2024/"><u>OBS Capture Directly on Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-glitches-expert-fix-for-total-war-rome-remastered-stability-issues/"><u>Say Goodbye to Glitches - Expert Fix for Total War: Rome Remastered Stability Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/touchscreen-functionality-restored-swipe-tap-and-type-options-activated/"><u>Touchscreen Functionality Restored: Swipe, Tap, and Type Options Activated</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-the-fatal-installation-error-code-1603/"><u>Troubleshooting Guide: Overcoming the 'Fatal Installation Error' (Code 1603)</u></a></li>
 </ul></div>
+

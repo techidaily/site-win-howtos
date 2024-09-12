@@ -1,0 +1,214 @@
+---
+title: Troubleshoot Unresponsive Windows Key Issues in Your Windows 10 System
+date: 2024-09-11T15:36:39.660Z
+updated: 2024-09-12T15:36:39.660Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Troubleshoot Unresponsive Windows Key Issues in Your Windows 10 System
+excerpt: This Article Describes Troubleshoot Unresponsive Windows Key Issues in Your Windows 10 System
+thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7cabbe84615d93d1098bb494.jpg
+---
+
+## Troubleshooting Audio Issues on Windows 11 - Get Your Volume Back
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d46a84135.jpg)
+
+ If you find the volume control bar on your computer not working, don’t worry. Many users have reported the same.
+
+The good news is, you can fix it easily!
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+ All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
+
+1. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Restart the Windows Audio service and Windows Audio Endpoint Builder**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Run SFC**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 1: Update your sound driver
+
+ Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
+
+ There’re two ways you can update your device drivers — manually or automatically. But the manual driver updating process can be time-consuming and risky, so we won’t be covering it here.
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either[**the FREE**](https://tools.techidaily.com/drivereasy/download/) or[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **Download**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
+
+ Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
+
+To do so:
+
+1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+2. Locate and double-click on**Windows Audio** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
+3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
+4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. **Restart** your PC and check if your volume control icon works as it should.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 3: Run SFC
+
+ Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
+
+To run SFC:
+
+1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Click **Yes**   when prompted to confirm.
+2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
+ It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
+
+---
+
+### Fix 4: Run the Playing Audio troubleshooter
+
+ If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
+
+Here’s how:
+
+1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
+3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Don’t forget to**restart** your machine and check if the volume control works fine now.
+
+---
+
+ How have the methods above helped you with the troubleshooting? Do you have any ideas or tips to share with us? Drop a comment below and let us know your thoughts.
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-method-acquire-free-secure-version-of-vlc-on-mac/"><u>[New] Streamlined Method Acquire Free, Secure Version of VLC on MAC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential-for-2024/"><u>[Updated] Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-art-of-captions-a-short-guide-to-facebook-videos-for-2024/"><u>[Updated] Unlocking the Art of Captions A Short Guide to Facebook Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-halt-no-coding-permitted/"><u>Execution Halt: No Coding Permitted</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor X7b</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xs-max-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone XS Max with/without SIM Card</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y78plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y78+ FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incorporate-branding-if-relevant-if-brand-recognition-is-important-eg-a-well-known-tech-blog-consider-including-it-subtly-within-the-title-as-long-as-it-doe79/"><u>Incorporate Branding if Relevant: If Brand Recognition Is Important (E.g., a Well-Known Tech Blog), Consider Including It Subtly Within the Title, as Long as It Doesn't Detract From the Primary Keywords or Message.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-update-on-playstation-5-slim-current-pricing-and-expected-launch-timeline/"><u>Latest Update on PlayStation 5 Slim - Current Pricing & Expected Launch Timeline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-corporate-governance-on-your-windows-pc-a-guide-to-controlled-settings/"><u>Navigating Corporate Governance on Your Windows PC: A Guide to Controlled Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-logitech-g930-sound-cutting-problem-with-these-simple-tips/"><u>Solve Your Logitech G930 Sound Cutting Problem with These Simple Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203201546-windows-11-upgrade-fails-with-error-0xc1900208-heres-how-to-fix-it/"><u>Windows 11 Upgrade Fails with Error 0Xc1900208? Here's How to Fix It!</u></a></li>
+</ul></div>
+

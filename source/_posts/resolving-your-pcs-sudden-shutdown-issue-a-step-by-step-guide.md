@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your PC's Sudden Shutdown Issue: A Step-by-Step Guide"
-date: 2024-09-05T10:14:02.485Z
-updated: 2024-09-06T10:14:02.485Z
+date: 2024-09-11T15:24:13.374Z
+updated: 2024-09-12T15:24:13.374Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Resolving Your PC's Sudden Shutdown Issue: A St
 thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2a49b0c58b6a37168dddbfaf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fd4e4c17cd.jpg)
@@ -30,11 +24,12 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -55,11 +50,12 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -71,11 +67,18 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -99,11 +102,18 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 ### Solution 2: Update your keyboard driver
@@ -123,22 +133,36 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,8 +174,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,44 +183,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[New] In 2024, Audio Perfection Achieved  Expert Tips Without a Microphone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope-for-2024/"><u>[New] Unleash the Potential of Your Gopro  Streaming Made Easy on Facebook/Periscope for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-10-secret-photoshop-photo-editing-tips-for-beginners/"><u>[Updated] 10 Secret Photoshop Photo Editing Tips for Beginners</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-record-and-share-the-essence-of-spring-screens/"><u>[Updated] In 2024, Capture, Record, and Share - The Essence of Spring Screens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premium-mac-tool-seamless-screen-plus-voice-logging/"><u>[Updated] In 2024, Premium Mac Tool  Seamless Screen + Voice Logging</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-perfect-playback-overcoming-mutes-on-linkedin-video-posts/"><u>[Updated] Perfect Playback  Overcoming Mutes on LinkedIn Video Posts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>[Updated] Prime Video Power Players  All-Time Top Tweets & Views Ranking</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-proscreencapture-ultimate-edition/"><u>[Updated] ProScreenCapture Ultimate Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-saturation-dropped-in-prints/"><u>Color Saturation Dropped in Prints</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discover-the-innovations-in-iphone-xs-imaging-system/"><u>Discover the Innovations in iPhone X's Imaging System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-methods-to-rename-your-user-profile-in-windows-10-and-11-systems/"><u>Easy Methods to Rename Your User Profile in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-unveiling-the-benefits-of-ergodynes-topo-mat-for-reducing-office-strain/"><u>Expert Review: Unveiling the Benefits of Ergodyne's Topo Mat for Reducing Office Strain</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-prevent-obss-blackout-while-recording-games/"><u>How to Prevent OBS's Blackout While Recording Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-5-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-open-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus Open for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-clean-data-presentation-easy-tips-to-eliminate-unwanted-formats-in-excel-spreadsheets/"><u>Mastering Clean Data Presentation - Easy Tips to Eliminate Unwanted Formats in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-currency-conversion-a-step-by-step-guide-to-retrieving-live-exchange-rates-in-excel/"><u>Mastering Currency Conversion: A Step-by-Step Guide to Retrieving Live Exchange Rates in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-confidentiality-techniques-for-hiding-sheets-tabs-and-whole-workbooks/"><u>Mastering Excel Confidentiality: Techniques for Hiding Sheets, Tabs & Whole Workbooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-formula-tracking-in-microsoft-excel-a-guide-to-utilizing-the-watch-window/"><u>Mastering Formula Tracking in Microsoft Excel: A Guide to Utilizing the Watch Window</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-excel-a-step-by-step-guide-to-determining-compound-annual-growth-rate/"><u>Mastering Microsoft Excel: A Step-by-Step Guide to Determining Compound Annual Growth Rate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-multilingual-spreadsheets-a-comprehensive-tutorial-on-translating-excel-formulas/"><u>Mastering Multilingual Spreadsheets: A Comprehensive Tutorial on Translating Excel Formulas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-string-manipulation-the-ultimate-technique-for-excel-substrings-retrieval/"><u>Mastering String Manipulation: The Ultimate Technique for Excel Substrings Retrieval</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-building-tailored-spreadsheets-in-microsoft-excel/"><u>Mastering the Art of Building Tailored Spreadsheets in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-count-functions-in-excel-spreadsheets/"><u>Mastering the Art of COUNT Functions in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-total-of-square-values-a-step-by-step-guide-using-excel/"><u>Mastering the Total of Square Values: A Step-by-Step Guide Using Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-excel-tutorial-clearing-out-select-box-options-efficiently/"><u>Microsoft Excel Tutorial: Clearing Out Select Box Options Efficiently</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-websites-to-download-nature-sounds/"><u>New 2024 Approved Best Websites to Download Nature Sounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/opening-and-interpreting-csv-data-formats-essential-tips-for-users/"><u>Opening and Interpreting CSV Data Formats: Essential Tips for Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-integration-setting-up-and-streamline-data-management/"><u>Seamless Integration, Setting up, and Streamline Data Management.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/spreadsheet-showdown-deciding-between-google-sheets-and-microsoft-excel-for-your-needs/"><u>Spreadsheet Showdown: Deciding Between Google Sheets and Microsoft Excel for Your Needs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-determining-percentage-growth-with-microsoft-excel/"><u>Step-by-Step Guide: Determining Percentage Growth with Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-inserting-headers-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Inserting Headers Efficiently in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-organizing-data-by-hue-in-ms-excel/"><u>Step-by-Step Guide: Organizing Data by Hue in MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-information-from-pdf-documents-into-microsoft-excel/"><u>Step-by-Step Guide: Transferring Information From PDF Documents Into Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-your-data-with-javascript-converting-json-to-ms-excel/"><u>Step-by-Step Guide: Transforming Your Data with JavaScript - Converting JSON to MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-applying-excels-future-value-fv-financial-function/"><u>Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-customized-text-editing-techniques-for-2024/"><u>The Ultimate Guide to Customized Text Editing Techniques for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-verse-ideas-using-chatgpt/"><u>Transform Your Verse Ideas Using ChatGPT</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/visual-identity-shielding-adding-watermark-and-logo-to-youtube-media-for-2024/"><u>Visual Identity Shielding  Adding Watermark & Logo to YouTube Media for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[Updated] In 2024, Picture Perfect Pairings Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-fast-play-videos-in-ppt-sessions/"><u>[Updated] Mastering Fast-Play Videos in PPT Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-105-classic-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia 105 Classic Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdi-bus-system-error-driver-compatibility-issue-leads-to-loss-of-memory-integrity/"><u>FTDI Bus System Error: Driver Compatibility Issue Leads to Loss of Memory Integrity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-system-running-again-expert-tips-for-fixing-windows-10-boot-issues-after-updates/"><u>Get Your System Running Again: Expert Tips for Fixing Windows 10 Boot Issues After Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-13c-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi 13C Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-corporate-governance-on-your-windows-pc-a-guide-to-controlled-settings/"><u>Navigating Corporate Governance on Your Windows PC: A Guide to Controlled Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/outstanding-20-free-no-right-pubg-montages/"><u>Outstanding 20 Free, No-Right PUBG Montages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-internet-explorer-failed-to-connect-errors-easily-and-quickly/"><u>Overcoming Microsoft Internet Explorer Failed to Connect Errors Easily and Quickly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-sounds-top-gpodc-recommendations/"><u>Superior Sounds Top GPodC Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opaque-initialization-screens-on-monster-hunter-world-starts/"><u>Troubleshooting Opaque Initialization Screens on Monster Hunter: World Starts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203201546-windows-11-upgrade-fails-with-error-0xc1900208-heres-how-to-fix-it/"><u>Windows 11 Upgrade Fails with Error 0Xc1900208? Here's How to Fix It!</u></a></li>
 </ul></div>
+

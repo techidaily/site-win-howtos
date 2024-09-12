@@ -1,0 +1,358 @@
+---
+title: PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch
+date: 2024-09-11T15:36:43.611Z
+updated: 2024-09-12T15:36:43.611Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch
+excerpt: This Article Describes PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch
+thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68c8e82ebf0f07967ea3707f2.jpg
+---
+
+## PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-440-1024x442.png)
+
+ PlayerUnknown’s Battlegrounds (PUBG) has been a blockbuster among battle royale games since 2017\. Boasting a large number of players, this game has done its best to bring a frisson of excitement to everyone except for a few game errors such as PUBG not launching/starting. If you are having this PUBG-not-launching issue, don’t lose your heart so soon – here we’ll provide you with 6 fixes that prove to be useful.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to fix PUBG not launching
+
+ Causes of the PUBG-not-launching issue vary from one to another. Sometimes it is the game’s new update that triggers the problem; sometimes there may be a software conflict lurking in your computer; and sometimes the out-dated and missing files in your game or other Microsoft programs should be blame for the inconvenience. Whatever the reason is, you should try out the fixes we mention here and see whether that gets you out of trouble.
+
+ Here are 6 fixes that have helped many other players solve their problem. You don’t have to try them all; just walk your way down the list until you find the one that works for you.
+
+**[Fix 1: Run system file checker](#fix1)**
+
+**[Fix 2: Verify integrity of game files](#fix2)**
+
+**[Fix 3: Repair or install the 2017 Visual C++ Redistributable](#fix3)**
+
+**[Fix 4: Disable unsupported programs](#fix4)**
+
+**[Fix 5: Update your device drivers](#fix5)**
+
+**[Fix 6: Reinstall PUBG](#fix6)**
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 1: Run system file checker
+
+ Missing or damaged system files may lead to your PUBG-not-launching issue. If that’s the case, you can use the system file checker tool of Windows to check for any file corruption and thereby repair it.
+
+ 1) On your keyboard, press the **Windows Logo Key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) When prompted for permission to make changes to your device, click**Yes** .
+
+ 3) In the pop-up window of Command Prompt, enter the following command (**note** that there’s a space between**sfc and /** ):
+
+sfc /scannow
+
+ After you finish typing the command, hit**Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+4) Wait for the verification to complete.
+
+ Windows Support provides more depth on the system file checker tool at  
+**[https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)** [](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
+
+ Now that your system files have been repaired, try to launch PUBG and see if the problem still remains. If so, please proceed to the next fix.
+
+---
+
+### Fix 2: Verify integrity of game files
+
+ There’s a possibility that some of the game files got missing or damaged during the download process.In this case, you should use the built-in tool of Steam to verify the integrity of your game files.
+
+ 1) Log in Steam and click**LIBRARY** .
+
+![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Right-click on**PUBG** and select**Properties** .
+
+ This method can be applied to all the steam games so please don’t be surprised if there’s no PUBG in the following screenshots. Just make sure you perform all these actions on your PUBG game.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-445.png)
+
+ 3) Go to the**LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-446.png)
+
+ 4) Wait till the process is complete. After that, click**CLOSE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-31.png)
+
+ Now it’s time to launch the game and check whether it runs normally. If not, read the next fix and give it a whirl.
+
+---
+
+### **Fix 3: Repair or install the 2017 Visual C++ Redistributable**
+
+ To repair and install the 2017 Visual C++ Redistributable, you should complete the following procedure:
+
+ 1) Find your own way to the folder where PUBG is downloaded. Or you can open it**from Steam** .
+
+ First of all, log in Steam and click**LIBRARY** .
+
+![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
+
+ 2) Right-click on**PUBG** and then click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-448.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) On the next page, go to the**LOCAL FILES** tab. Next, click **BROWSE LOCAL FILES…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-466.png)
+
+ 4) When the game folder is opened, locate**\_CommonRedist** and double-click on it. Then go on to double-click these two subfolders:**vcredist > 2017** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-471.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-469.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![This image has an empty alt attribute; its file name is image-473.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-473.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If you don’t spot a**2017** subfolder here, please download and install the**2017 Visual C++ Redistributable** by yourself. Here’s a possible download webpage for your reference:  
+[**https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
+ 5) Double-click**vc\_redist.x64** to invoke the setup wizard.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-474.png)
+
+ 6) Select**Repair** and follow the onscreen instructions to repair your 2017 Visual C++ Redistributable. Wait for the process to finish, and then launch PUBG to check if it has gone back to normal. If yes, then congrats – you’ve solved the problem!
+
+ If not, return to this step and choose**Uninstall** . Likewise, complete the follow-up process and check to see whether your PUBG-not-launching issue has disappeared or not.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-475.png)
+
+ In case your problem hasn’t been solved successfully, you may move on to the next fix below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Disable unsupported programs
+
+ Unsupported programs are among the most common causes of games-not-launching issues. This is also true with PUBG. To solve the problem, you need to remove or disable any programs unrelated to the game, and even turn off your antivirus temporarily.
+
+ 1) On your keyboard, press the **Windows Logo key** and **R** at the same time to invoke the Run dialog box. Type in **taskmgr** and hit **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Select the**Processes** tab. Right-click on the program that needs to be ended and click**End task** . If you don’t know which program should be shut down, simply close all the background running apps that you think are unnecessary.**Note** that you shouldn’t end any processes that you’re not familiar with in case you mistakenly close the important ones.
+
+ As reported by many PUBG players,**MSI Afterburner** – an overclocking tool for MSI graphics cards – may be one of the culprits for the trouble. If you happen to be using this app, make sure you turn if off.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If you find out any programs that trigger the issue, you can forward them to **[PUBG support](https://www.pubg.com/support/)**  .
+
+ 3) Your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily**disable your antivirus program** and check if the PUBG-not-launching issue persists. (Consult your antivirus documentation for instructions on disabling it.)
+
+ If the game works properly after you disable the antivirus, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
+
+ Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+If this didn’t help, please try out the next fix.
+
+---
+
+### **Fix 5: Update your device drivers**
+
+ Make sure you have the latest drivers for your PC components (such as CPU, GPU, and audio). Sometimes PUBG may fail to be launched because of an out-dated or corrupt driver, which is so inconspicuous that you may not even notice it until the problem occurs. If that’s the case, try to update your device drivers periodically.
+
+ You may either download the most up-to-date drivers online and install them manually, or simply trust in **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and its abilities to update all your drivers automatically.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy takes care of everything.**
+
+ You can update your drivers automatically with either the **FREE**  or the **Pro**  version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-96.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the **FREE** version). Then install the driver in your computer.
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-97.png)
+
+ If you have any problems when using Driver Easy, please feel free to drop us an email at <support@drivereasy.com>. We are always here if we can help.
+
+ 4) Reboot your computer and launch PUBG. Check to see whether it can run properly this time.
+
+---
+
+### Fix 6: Reinstall PUBG
+
+ If all the fixes above can’t help you solve the problem, then you should try to reinstall PUBG in case some of its crucial files have been corrupted. Here’s how to do it:
+
+ 1) On your keyboard, press the **Windows Logo**  key and **R** at the same time to invoke the Run dialog box. Type in **control panel** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_10-55-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Expand the drop-down list next to**View by:** and select **Category** . Then, click **Uninstall a program** right under the **Programs** category.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-750.png)
+
+ 3) Right-click on PUBG and click**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-481.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4) Follow the on-screen instructions to uninstall PUBG.
+
+5) Download and install PUBG from Steam once again. Then try to launch the game and see if your problem still remains.
+
+---
+
+ If you also have problems like “PUBG stuck on loading screen”, don’t hesitate to check out **[this post](https://tools.techidaily.com/drivereasy/download/)**  and find possible solutions for yourself.
+
+ So far, have you succeeded in solving the PUBG-not-launching issue? If you have any follow-up questions or ideas, please feel free to leave a comment below. Hopefully you’ll have chicken for dinner as much as you like in PUBG!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-discovering-the-best-of-360-cams-pros-choice-roundup-2023/"><u>[New] Discovering the Best of 360° Cams Pros Choice Roundup, 2023</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-antique-cinematography-in-the-digital-realm/"><u>[New] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-a-complete-breakdown-of-instagrams-audio-copyright-rules/"><u>2024 Approved A Complete Breakdown of Instagram's Audio Copyright Rules</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>2024 Approved Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/amd-high-definition-audio-fix-unplugged-device-resolved/"><u>AMD High Definition Audio Fix: Unplugged Device Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disable-touchpad-when-connected-to-mouse-on-windows-10/"><u>Disable Touchpad When Connected to Mouse on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-the-error-code-easy-achievement-unlocker-cannot-start-without-installed-eac/"><u>Guide to Fixing the Error Code: Easy Achievement Unlocker Cannot Start without Installed EAC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-correct-windows-update-error-0x8007001f-issue/"><u>How to Successfully Correct Windows Update Error 0X8007001f Issue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/snapshot-elite-windows-vista2008/"><u>SnapShot Elite Windows Vista/2008</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-why-does-my-computer-power-down-when-gaming-solutions-for-win-11-10-7-81-and-8/"><u>Solved! Why Does My Computer Power Down When Gaming? - Solutions for Win 11, 10, 7, 8.1 & 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-unreadable-directories-and-corrupted-data-errors-restoration-steps/"><u>Solving Unreadable Directories & Corrupted Data Errors - Restoration Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-your-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot Your PS4 Microphone Issues</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winx-mediatrans-iphoneipadmv/"><u>WinX MediaTrans™: 最適合iPhone、iPad上移動照片及MV管理解決方案</u></a></li>
+</ul></div>
+

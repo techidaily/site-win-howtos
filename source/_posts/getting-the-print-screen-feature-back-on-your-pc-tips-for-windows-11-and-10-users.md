@@ -1,7 +1,7 @@
 ---
 title: Getting the Print Screen Feature Back on Your PC - Tips for Windows 11 & 10 Users
-date: 2024-09-05T10:18:42.328Z
-updated: 2024-09-06T10:18:42.328Z
+date: 2024-09-11T15:19:50.751Z
+updated: 2024-09-12T15:19:50.751Z
 tags:
   - win11
   - win10
@@ -18,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -76,11 +77,12 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -110,37 +112,34 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -151,14 +150,24 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -182,8 +191,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,44 +200,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-direct-obs-live-to-instagram-feed-for-2024/"><u>[New] Direct OBS Live to Instagram Feed for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-guide-adding-videos/"><u>[Updated] 2024 Approved  Twitter's Guide  Adding Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-harmonizing-film-teasers-with-music-selections/"><u>[Updated] In 2024, Harmonizing Film Teasers with Music Selections</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-designing-a-standout-youtube-video-intro-for-2024/"><u>[Updated] Step-by-Step  Designing a Standout YouTube Video Intro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-challenges-the-comprehensive-guide-to-google-podcasts/"><u>Conquering Challenges  The Comprehensive Guide to Google Podcasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-implementing-user-tags-in-office-365-team-chats-and-comments/"><u>Effective Strategies for Implementing User Tags in Office 365 Team Chats and Comments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effectively-embedding-or-linking-excel-data-in-your-presentations-with-these-easy-steps/"><u>Effectively Embedding or Linking Excel Data in Your Presentations with These Easy Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-data-analysis-with-excel-how-to-apply-less-than-or-equal-to-conditions/"><u>Efficient Data Analysis with Excel: How to Apply 'Less than or Equal To' Conditions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-data-management-with-excel-macros-transform-routine-jobs-into-instant-actions/"><u>Efficient Data Management with Excel Macros: Transform Routine Jobs Into Instant Actions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/excel-essentials-unlocking-data-management-with-advanced-filter-techniques/"><u>Excel Essentials: Unlocking Data Management with Advanced Filter Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/excel-trick-for-seamless-selection-how-to-selectively-copy-and-paste-non-displayed-cells-efficiently/"><u>Excel Trick for Seamless Selection: How to Selectively Copy & Paste Non-Displayed Cells Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exclusive-insight-how-understanding-microsoft-offices-concealed-features-can-benefit-you/"><u>Exclusive Insight: How Understanding Microsoft Office's Concealed Features Can Benefit You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-crafting-eye-catching-visuals-with-microsoft-excel-top-six-techniques/"><u>Expert Advice: Crafting Eye-Catching Visuals with Microsoft Excel - Top Six Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-leveraging-microsoft-excels-smart-data-recognition-feature/"><u>Expert Tips for Leveraging Microsoft Excel's Smart Data Recognition Feature</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-elitebook-8460p-running-smoothly-with-updated-drivers-on-windows-solved/"><u>Get Your HP EliteBook 8460P Running Smoothly with Updated Drivers on Windows [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-creating-and-using-temporary-sharing-features-within-an-excel-spreadsheet/"><u>Guide: Creating and Using Temporary Sharing Features Within an Excel Spreadsheet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-displayhide-header-rows-and-columns-in-microsoft-excel/"><u>Guide: Display/Hide Header Rows and Columns in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-lock-down-workbooks-and-worksheets-for-safe-sharing-on-excel/"><u>How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-fix-a-malfunctioning-router-or-access-point-a-10-step-process/"><u>How to Successfully Fix a Malfunctioning Router or Access Point – A 10 Step Process</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-new-photogs-cameras-the-top-entry-level-picks-of-24/"><u>In 2024, New Photog's Cameras  The Top Entry-Level Picks of '24</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-13t-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on 13T</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-designing-excel-chart-templates-from-scratch/"><u>Master the Art of Designing Excel Chart Templates From Scratch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-management-a-four-step-guide-to-structuring-spreadsheets-in-excel/"><u>Mastering Data Management: A Four-Step Guide to Structuring Spreadsheets in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-guide-on-incorporating-cell-data-into-your-chart-labels/"><u>Mastering Excel: A Guide on Incorporating Cell Data Into Your Chart Labels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-step-by-step-guide-on-setting-your-numbers-accuracy/"><u>Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-creating-modifying-displaying-and-transforming-notes/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Creating, Modifying, Displaying & Transforming Notes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-precision-with-excels-truncate-feature-a-step-by-step-guide/"><u>Mastering Precision with Excel's TRUNCATE Feature: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-index-function-a-step-by-step-guide-to-extract-data-in-microsoft-excel/"><u>Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-of-cutting-out-images-without-backgrounds-using-excel-tools/"><u>Mastering the Technique of Cutting Out Images Without Backgrounds Using Excel Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-uniqueness-a-guide-to-identifying-and-organizing-distinct-data-with-microsoft-excel/"><u>Mastering Uniqueness: A Guide to Identifying and Organizing Distinct Data with Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/potential-threats-when-using-microsoft-office-on-apples-macos-platform/"><u>Potential Threats when Using Microsoft Office on Apple's macOS Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionary-upgrade-new-features-in-the-latest-version-of-microsoft-excel-web-app/"><u>Revolutionary Upgrade: New Features in the Latest Version of Microsoft Excel Web App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/setting-microsoft-excel-as-your-macs-primary-spreadsheet-software-a-step-by-step-guide/"><u>Setting Microsoft Excel as Your Mac's Primary Spreadsheet Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-techniques-for-transposing-rows-into-columns-in-microsoft-excel/"><u>Simple Techniques for Transposing Rows Into Columns in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-on-applying-universal-cell-formatting-in-multiple-excel-workbooks/"><u>Step-by-Step Guide on Applying Universal Cell Formatting in Multiple Excel Workbooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-building-your-project-schedule-with-ms-excel/"><u>Step-by-Step Guide: Building Your Project Schedule with MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-pictured-data-into-excel-apps-on-smartphones/"><u>Step-by-Step Guide: Transferring Pictured Data Into Excel Apps on Smartphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-excel-charts-to-picture-format-for-easy-sharing-and-editing/"><u>Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-perfecting-your-shots-top-tripods-for-content-creators/"><u>[New] 2024 Approved Perfecting Your Shots Top Tripods for Content Creators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortlessly-post-videos-on-youtube-with-our-expert-guide-for-2024/"><u>[Updated] Effortlessly Post Videos on YouTube with Our Expert Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-fuse-rhythms-into-powerpoint-layouts/"><u>[Updated] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-guide-to-successfully-saving-your-iptv-streams-for-2024/"><u>[Updated] Guide to Successfully Saving Your IPTV Streams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-release-a-stuck-window-updates-on-legacy-oss-like-windows-seven-updated-tips-and-techniques-for-better-user-experience-in-the-year-2024-helpful-tips-148/"><u>How To Release A Stuck Window Updates On Legacy OSs Like WIndows Seven - Updated Tips And Techniques For Better User Experience In The Year 2024 (Helpful Tips & Guide)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-mini-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 mini and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-making-moolah-the-snapchat-way/"><u>In 2024, Making Moolah The Snapchat Way</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-tricks-to-optimize-your-minecraft-experience-say-goodbye-to-lag/"><u>Latest Tricks to Optimize Your Minecraft Experience: Say Goodbye to Lag!</u></a></li>
+<li><a href="https://games-able.techidaily.com/platinum-membership-fees-at-sony-online-entertainment/"><u>Platinum Membership Fees at Sony Online Entertainment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-issues-in-windows-files-and-folders-quickly/"><u>Resolve 'Access Denied' Issues in Windows Files & Folders Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-the-0x802e0034-problem-in-windows-10-updates/"><u>Troubleshooting Tips for Fixing the '0X802e0034' Problem in Windows 10 Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-pc-with-steelseries-engine-windows-11-compatible-free-installation-guide/"><u>Upgrade Your PC with SteelSeries Engine [Windows 11 Compatible]: Free Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206405765-you-dont-have-permission-to-access-solved/"><u>You Don't Have Permission to Access [SOLVED]</u></a></li>
 </ul></div>
+

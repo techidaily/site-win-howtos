@@ -1,7 +1,7 @@
 ---
 title: "Resolution Guide: Toshiba Laptop Key Malfunction Fixed!"
-date: 2024-09-11T15:41:34.562Z
-updated: 2024-09-12T15:41:34.562Z
+date: 2024-09-11T21:23:37.917Z
+updated: 2024-09-18T01:55:49.735Z
 tags:
   - win11
   - win10
@@ -44,36 +44,9 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
 
@@ -89,13 +62,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
@@ -109,16 +75,10 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
@@ -126,10 +86,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
@@ -155,15 +115,13 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-8-mirrorless-cameras-for-vloggers/"><u>[New] 2024 Approved The Ultimate Guide to 8 Mirrorless Cameras for Vloggers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>[New] In 2024, Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] In 2024, Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-primes-worthiness-an-in-depth-comparative-analysis/"><u>Amazon Prime's Worthiness: An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-data-management-with-these-5-expert-tips-for-the-seagate-backup-plus-drive/"><u>Enhance Your Data Management with These 5 Expert Tips for the Seagate Backup Plus Drive</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxwindowlock-up-error-windows-fix-ready/"><u>GfxWindowLock Up Error, WIndows Fix (Ready)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-sluggish-or-frozen-google-chrome-back-on-track/"><u>How to Get Your Sluggish or Frozen Google Chrome Back on Track</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-problem-detected-on-startup-in-windows-11-easily/"><u>Troubleshooting and Solving the ‘Problem Detected on Startup’ in Windows 11 Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-hdcp-compliant-monitor-displays/"><u>Troubleshooting: Fixing Non-HDCP Compliant Monitor Displays</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/automated-calendar-management-for-remote-teams/"><u>Automated Calendar Management for Remote Teams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-revolution-nvidias-latest-driver-upgrade-for-win10/"><u>Gaming Revolution: Nvidia's Latest Driver Upgrade for Win10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-handheld-video-stabilizer-equipment-to-help-shoot-smooth-scenes/"><u>In 2024, Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-pivoting-vids-in-windows-11-discover-these-three-simple-strategies/"><u>Quickly Pivoting Vids in Windows 11: Discover These Three Simple Strategies!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-transition-from-kodis-latest-update-downgrading-from-matrix-19-to-previous-release-leia-18-while-keeping-your-configurations-intact/"><u>Seamless Transition From Kodi's Latest Update: Downgrading From Matrix (19) to Previous Release, Leia (18), While Keeping Your Configurations Intact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securely-transfer-your-wonderfox-dvd-collection-blu-ray-to-ipodipadiphoneappletv-conversion-with-built-in-copy-protection/"><u>Securely Transfer Your WonderFox DVD Collection: Blu-Ray to iPod/iPad/iPhone/AppleTV Conversion with Built-In Copy Protection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-customizing-your-macs-folder-colors/"><u>Step-by-Step Guide: Customizing Your Mac's Folder Colors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-call-of-duty-warzone-pc-crashes/"><u>Troubleshooting Guide: Fixing Call of Duty Warzone PC Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing 'Laptop Won't Charge Despite Being Connected to Power with Windows 11
-date: 2024-09-11T15:40:43.411Z
-updated: 2024-09-12T15:40:43.411Z
+date: 2024-09-11T21:21:05.468Z
+updated: 2024-09-17T16:17:54.824Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Method 1: Check keyboard connection](https://tools.techidaily.com/drivereasy/download/)
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -62,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -76,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
  If you find any viruses or malware, remove them completely from your computer. If you don’t have a third-party anti-virus program, we recommend **[Malwarebytes](https://tools.techidaily.com/drivereasy/download/)**  – a power tool that can protect your device from threats like worms, trojans, rootkits, spyware, bots, and more.
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
 
@@ -91,29 +83,15 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -143,17 +121,16 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screensnap-sage-mastering-captures-technology-for-2024/"><u>[Updated] ScreenSnap Sage Mastering Captures Technology for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/achieve-success-in-twitch-top-5-livestream-strategies-for-2024/"><u>Achieve Success in Twitch Top 5 Livestream Strategies for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/premier-digital-classrooms-alternatives-to-udemys-model/"><u>Premier Digital Classrooms Alternatives to Udemy's Model</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/radpowers-heavy-duty-radcity-5-plus-unveiled-a-comprehensive-review-of-strength-and-performance/"><u>RadPower's Heavy-Duty RadCity 5 Plus Unveiled: A Comprehensive Review of Strength and Performance</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-13t-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi 13T Pro on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-launching-the-microsoft-store-fix-guide/"><u>Resolved: Issues with Launching the Microsoft Store - Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-windows-minimizing-glitches/"><u>Strategies to Combat Windows Minimizing Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-overcoming-initial-boot-failures-on-pcs/"><u>Troubleshooting Successful: Overcoming Initial Boot Failures on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80072efd-problem-on-your-pc-with-windows-10/"><u>Troubleshooting the 0X80072EFD Problem on Your PC with Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208952957-uninterrupted-workflow-on-windows-11-how-your-files-remain-unchanged-post-bootup/"><u>Uninterrupted Workflow on Windows 11: How Your Files Remain Unchanged Post Bootup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>[Updated] Best of the Best 10 Acclaimed Online Vimeo Downloaders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>[Updated] How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-workflow-top-windows-11-rdc-techniques/"><u>Enhance Your Workflow: Top Windows 11 RDC Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-battle-google-nest-audio-vs-nest-mini-reviewed/"><u>Head-to-Head Battle: Google Nest Audio Vs. Nest Mini Reviewed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-rid-of-malware-on-your-android-device-without-doing-a-full-restore/"><u>How to Get Rid of Malware on Your Android Device Without Doing a Full Restore</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-creative-boundaries-the-power-of-magix-vpx/"><u>In 2024, Pushing Creative Boundaries The Power of Magix VPX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mp3wav/"><u>MP4/MP3ビデオ音声をWAVフォーマットにアップコンバートする詳細ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-release-alert-enhanced-watermarks-with-wonderfoxs-latest-photography-software-v11/"><u>New Release Alert: Enhanced Watermarks with WonderFox's Latest Photography Software V1.1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-based-dash-cam-footage-enhancement-a-step-by-step-guide/"><u>PC-Based Dash Cam Footage Enhancement: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/portable-music-excellence-sonos-roam-review-deep-dive/"><u>Portable Music Excellence: Sonos Roam Review Deep Dive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-high-volume-sounds-a-guide-for-windows-11-users-with-low-audio-output/"><u>Restoring High-Volume Sounds: A Guide for Windows 11 Users with Low Audio Output</u></a></li>
 </ul></div>
 

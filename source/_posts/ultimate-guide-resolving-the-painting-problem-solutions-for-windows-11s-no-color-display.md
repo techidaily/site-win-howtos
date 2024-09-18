@@ -1,0 +1,95 @@
+---
+title: "Ultimate Guide: Resolving the Painting Problem – Solutions for Windows 11'S No-Color Display"
+date: 2024-09-11T17:48:24.569Z
+updated: 2024-09-18T01:04:16.525Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Ultimate Guide: Resolving the Painting Problem – Solutions for Windows 11'S No-Color Display"
+excerpt: "This Article Describes Ultimate Guide: Resolving the Painting Problem – Solutions for Windows 11'S No-Color Display"
+thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b832a71241d754322497bd16d3.jpg
+---
+
+## Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside
+
+Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explorer**, and has added tons of new features to it. As an old-time Windows operating system user, you must know what it is for. In this post, we will be introducing some ways for you to get help with**File Explorer**in Windows 10 easily.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
+
+[**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
+
+ You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
+
+ If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
+
+ If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
+
+ **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
+
+2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
+
+You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
+
+4) Then choose**Uninstall updates**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
+
+5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-finding-lost-chats/"><u>[New] 2024 Approved Mastering the Art of Finding Lost Chats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-castcritique-exploring-dacast-options/"><u>[Updated] CastCritique Exploring DaCast Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-complete-guide-to-mastering-instagrams-filter-features/"><u>[Updated] In 2024, The Complete Guide to Mastering Instagram's Filter Features</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlock-the-full-power-of-apples-siri-with-integrated-voice-control-on-tiktok/"><u>[Updated] Unlock the Full Power of Apple's Siri with Integrated Voice Control on TikTok</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>2024 Approved Innovation in Minimization The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-kodi-handbook-navigating-features-addons-and-setup-full-guide-overview-page-8/"><u>In-Depth Kodi Handbook: Navigating Features, Addons, and Setup - Full Guide Overview Page 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/insightful-analysis-the-phenomenon-of-mixed-reality-for-2024/"><u>Insightful Analysis The Phenomenon of Mixed Reality for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4amp3wavmp4top4/"><u>M4Aファイルから無料でMP3、WAV、MP4への変換ツールTOP4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/most-effective-dvd-to-mp4-transformation-tools-of-2erwindows-os-windows-10-and-11-edition-2024/"><u>Most Effective DVD to MP4 Transformation Tools of 2erWindows OS: Windows 10 and 11 Edition, 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3spotify/"><u>MP3への曲転送：無料ツールでSpotify音楽を変換します</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uniting-visuals-on-iphone-photos-with-videos/"><u>Uniting Visuals on iPhone Photos with Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

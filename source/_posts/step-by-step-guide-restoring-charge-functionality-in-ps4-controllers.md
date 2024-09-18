@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Charge Functionality in PS4 Controllers"
-date: 2024-09-11T15:41:19.735Z
-updated: 2024-09-12T15:41:19.735Z
+date: 2024-09-13T16:18:45.926Z
+updated: 2024-09-18T01:42:18.579Z
 tags:
   - win11
   - win10
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -70,13 +57,6 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -84,19 +64,6 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -112,21 +79,7 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -150,13 +103,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -176,19 +122,33 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[New] In 2024, Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pros-picks-top-10-spotify-recording-applications/"><u>[New] In 2024, Pro's Picks Top 10 Spotify Recording Applications</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ersonal-narratives-for-online-connection-and-growth/"><u>[New] Personal Narratives for Online Connection and Growth</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-malfunction-critical-failure/"><u>Device Malfunction: Critical Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80070091-on-windows-10-a-comprehensive-solution-for-successful-system-restore/"><u>Error Code 0X80070091 on Windows 10: A Comprehensive Solution for Successful System Restore</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-post-tweets-on-facebook-for-2024/"><u>How to Post Tweets on Facebook for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-no-signal-or-missing-picture-display-on-your-screen-a-comprehensive-guide/"><u>How to Repair 'No Signal' Or Missing Picture Display on Your Screen - A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-enhancing-your-ig-presence-the-ultimate-tool-list/"><u>In 2024, Enhancing Your IG Presence The Ultimate Tool List</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-zte-blade-a73-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for ZTE Blade A73 5G Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-artificial-intelligence-a-better-future-seer-than-the-classic-magazine-zodiac-forecasts/"><u>Is Artificial Intelligence a Better Future Seer Than the Classic Magazine Zodiac Forecasts?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-managed-system-policies-insights-for-windows-users-under-corporate-regulation/"><u>Navigating Managed System Policies: Insights for Windows Users Under Corporate Regulation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-update-error-0x80240034-tips-and-solutions-for-a-smooth-upgrade/"><u>Overcoming Window's 11 Update Error (0X80240034) – Tips and Solutions for a Smooth Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-art-of-scroll-mastery-in-win-810/"><u>The Art of Scroll Mastery in Win 8/10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/story-your-stage-youtube-video-mastery/"><u>Your Story, Your Stage YouTube Video Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-find-your-next-vector-the-best-10-pics-sites/"><u>[New] Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-virtual-sound-devices/"><u>[Updated] Ultimate Virtual Sound Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-techniques-for-shrinking-audio-file-size-with-an-audio-compressor/"><u>Easy Techniques for Shrinking Audio File Size with an Audio Compressor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-transform-your-avi-videos-into-youtube-content-a-comprehensive-tutorial/"><u>Efficiently Transform Your AVI Videos Into YouTube Content - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-transforming-dat-files-into-mp3-format-using-two-simple-techniques/"><u>Effortless Guide: Transforming DAT Files Into MP3 Format Using Two Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-jittery-sounds-in-vlc-for-a-crystal-clear-experience-on-windows-pcs/"><u>Eliminating Jittery Sounds in VLC for a Crystal-Clear Experience on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-turn-any-screen-capture-into-a-playable-mp3-file-step-by-step-process/"><u>How to Quickly Turn Any Screen Capture Into a Playable MP3 File: Step-by-Step Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieve-video-excellence-without-the-cost-of-fcp/"><u>In 2024, Achieve Video Excellence Without the Cost of FCP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-broadcast-to-box-viewing-facebook-streams-on-roku/"><u>In 2024, From Broadcast to Box Viewing Facebook Streams on Roku</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/looping-videos-on-vlc-a-simple-step-by-step-guide/"><u>Looping Videos on VLC: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ps3-experience-on-pc-leading-emulators-guide-for-2024/"><u>PS3 Experience on PC Leading Emulators Guide for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

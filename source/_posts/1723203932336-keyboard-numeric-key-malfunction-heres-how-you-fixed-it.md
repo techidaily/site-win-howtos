@@ -1,7 +1,7 @@
 ---
 title: Keyboard Numeric Key Malfunction? Here's How You Fixed It
-date: 2024-09-11T15:38:10.355Z
-updated: 2024-09-12T15:38:10.355Z
+date: 2024-09-13T19:05:05.525Z
+updated: 2024-09-17T17:42:38.104Z
 tags:
   - win11
   - win10
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### On Windows 11
 
 1. Press the**Windows + I** keys to open the Settings window.
@@ -69,21 +55,7 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
@@ -93,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -127,20 +92,13 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
@@ -152,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -178,17 +143,18 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-globes-biggest-video-content-mogul-for-2024/"><u>[Updated] Globe’s Biggest Video Content Mogul for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/eliminators-last-stand-a-critical-review-of-hitman-3/"><u>Eliminator's Last Stand: A Critical Review of Hitman 3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-a-frozen-windows-10-update-dilemma/"><u>Expert Tips for Fixing a Frozen Windows 10 Update Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-address-and-correct-wacom-tablet-functionality-issues/"><u>How to Address and Correct Wacom Tablet Functionality Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-bring-back-deleted-snaps-leading-software-solutions-for-iphone-users/"><u>How to Bring Back Deleted Snaps: Leading Software Solutions for iPhone Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-an-unresponsive-google-chrome-session-effectively/"><u>How to Recover From an Unresponsive Google Chrome Session Effectively</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-strategies-for-novice-level-nft-crafting/"><u>In 2024, Simplified Strategies for Novice-Level NFT Crafting</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-get-closer-to-the-artistic-marvels-of-ai-portrait-generator-for-2024/"><u>New Get Closer to the Artistic Marvels of AI Portrait Generator for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-update-error-code-0x80402c-your-ultimate-solution/"><u>Troubleshooting and Fixing Windows Update Error Code 0X80^402C: Your Ultimate Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-addressing-miskeyed-characters-on-keyboard-devices/"><u>Troubleshooting: Addressing Miskeyed Characters on Keyboard Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-titans-comparative-study-of-notion-and-chatgpt/"><u>Unveiling the Titans: Comparative Study of Notion and ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views-for-2024/"><u>[New] How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-empowering-tiktok-sharing-on-twitter-networks-for-2024/"><u>[Updated] Empowering TikTok Sharing on Twitter Networks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-easy-fixes-to-restore-functionality-of-your-iphone-or-ipad-widgets-quickly/"><u>5 Easy Fixes to Restore Functionality of Your iPhone or iPad Widgets Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-problems-and-fixes-for-the-windows-10-may-2020-update-version-1903/"><u>Common Problems and Fixes for the Windows 10 May 2020 Update (Version 1903)</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-7-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 7 Lock Screen Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo S17 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-glitches-in-windows-11-effective-solutions/"><u>Overcoming HP Laptop Webcam Glitches in Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-valorants-tearing-issue-a-comprehensive-guide/"><u>Resolving Valorant's Tearing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-streamlines-mac-tasks-speedier-results-await/"><u>Stellar Streamlines Mac Tasks - Speedier Results Await</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolve-errors-when-modules-cant-be-located/"><u>Troubleshooting: Resolve Errors When Modules Can't Be Located</u></a></li>
 </ul></div>
 

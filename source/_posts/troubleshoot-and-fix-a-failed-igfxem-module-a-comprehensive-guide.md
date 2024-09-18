@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix a Failed IgfxEM Module - A Comprehensive Guide
-date: 2024-09-11T15:38:38.215Z
-updated: 2024-09-12T15:38:38.215Z
+date: 2024-09-14T20:37:46.842Z
+updated: 2024-09-17T17:24:44.222Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -68,13 +61,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -83,23 +69,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Press the**Xbox button** to turn on your console.
 
 **3)** Check and see if your controller can connect to the console.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your controller software
 
@@ -117,6 +89,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
@@ -126,28 +105,15 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -170,12 +136,17 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-mastery-in-motion-building-high-impact-gifs/"><u>[Updated] Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-activating-your-pcs-bluetooth-feature-in-windows-7/"><u>Easy Fixes: Activating Your PC's Bluetooth Feature in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-understanding-and-solving-the-monitor-doesnt-accept-this-entry/"><u>Error Resolved: Understanding and Solving the 'Monitor Doesn't Accept This Entry'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-proceed-with-admin-rights-prompts-on-windows-solutions-for-11-10-and-nully/"><u>How to Proceed with Admin Rights Prompts on Windows: Solutions for 11, 10 & Nully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a1-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/online-assistance-centre-pour-le-programme-de-rip-et-conversion-video-de-winx/"><u>Online Assistance Centre Pour Le Programme De Rip Et Conversion Vidéo De WinX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-affordable-video-capture-tools-for-budget-computers/"><u>[New] Best Affordable Video Capture Tools for Budget Computers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-fb-videos-with-background-tracks-a-guide/"><u>[Updated] Enhancing FB Videos with Background Tracks A Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-free-stock-footage-websites-you-should-know/"><u>[Updated] Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/best-no-cost-ultra-hd-video-player-apps-compatible-with-h265-hevc-on-pc-and-mac-for-2020/"><u>Best No-Cost Ultra HD Video Player Apps Compatible with H.265 HEVC on PC and Mac for 2020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-how-to-edit-gif-images-with-text-on-various-platforms-including-windows-macos-mobile-devices-and-online-tools/"><u>Comprehensive Tutorial: How to Edit GIF Images with Text on Various Platforms Including Windows, macOS, Mobile Devices, and Online Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-xvid-files-to-avi-format-for-free-simple-steps-for-pc-mac-and-online-methods/"><u>Convert Xvid Files to AVI Format for Free: Simple Steps for PC, Mac & Online Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-tiktoks-like-a-pro-the-5-best-software-picks-for-pc-and-web-usage/"><u>Download TikToks Like a Pro: The 5 Best Software Picks for PC & Web Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-for-sharing-your-videos-with-fb-from-pcs-or-smartphones/"><u>Easy Tutorial for Sharing Your Videos with FB From PCs or Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-using-vlc-media-players-dvd-ripping-feature/"><u>Effective Techniques for Using VLC Media Player's DVD Ripping Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-g310-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia G310 has been deleted.</u></a></li>
 </ul></div>
 

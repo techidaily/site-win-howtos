@@ -1,0 +1,151 @@
+---
+title: Comprehensive Fixes for the Persistent 0X80072EFD Glitch in Windows 11 Users Facing Troubleshooting Steps and Tips
+date: 2024-09-12T19:06:41.926Z
+updated: 2024-09-18T00:15:22.582Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Comprehensive Fixes for the Persistent 0X80072EFD Glitch in Windows 11 Users Facing Troubleshooting Steps and Tips
+excerpt: This Article Describes Comprehensive Fixes for the Persistent 0X80072EFD Glitch in Windows 11 Users Facing Troubleshooting Steps and Tips
+thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d534b3bf1b20e29d9f9fc07b91.jpg
+---
+
+## Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586c9a4e6db41.jpg)
+
+ Windows 10 is equipped with some very handy tools that allow you to solve your computer problems.**System File Checker** and**Deployment Image & Servicing Management** tools are ones of them.
+
+You should consider using these tools when:
+
+**a) troubleshooting a buggy Windows system;**
+**b) blue screen of death errors occur;**
+**c) applications crash;**
+**d) some Windows features are not working properly.**
+
+and etc.
+
+ In this post, we will show you some tools that you can use to solve your computer problems:
+
+[**System File Checker tool**](#1)
+[**Deployment Image & Servicing Management tool**](#2)
+[**System Restore**](#3)
+
+**Run SFC Command to Repair System Files**
+
+ 1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
+
+ When prompted with the UAC, hit**Yes** to continue.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
+
+2) In the Command Prompt window, type in the following command:
+
+sfc /scannow
+
+ Make sure that you have made no typo and hit**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca221df44e.jpg)
+
+Leave the Command Prompt window on until the command completes.
+
+ 3) If you see the message saying that   **Windows Resource Protection did not find any integrity violations** , then everything is fine with your system.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca520c7e49.png)
+
+ 4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
+
+ If the SFC command doesn’t work well, please mve on to the next section to run the DISM command to fix the SFC command problem and then run SFC command again.
+
+**Run the DISM Command to Fix SFC Problems**
+
+**DISM** stands for Deployment Image & Servicing Management, which is a tool that can fix component store corruption that prevents the SFC command from working properly.
+
+ 1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
+
+ When prompted with the UAC, hit**Yes** to continue.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
+
+2) In the Command Prompt window, type in the following command:
+
+DISM /Online /Cleanup-Image /RestoreHealth
+
+ Make sure you have made no typo and hit**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca8464439b.jpg)
+
+Wait for a while for the whole process to finishes.
+
+ 3) When the whole process finishes, restart your computer. Then run SFC command again so it will help you replace any corrupted files with the correct ones.
+
+ **System Refresh or Reset**
+
+ If the above tools cannot help you solve your computer problems, you can have a try at refreshing or resetting your Windows 10.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586caacd9f489.jpg)
+
+For more detailed information, please go to the posts below:
+
+[**How to refresh Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+[**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+
+**Pro Tip:**
+ In many cases, most of your computer problems can be solved by updating your device drivers to their latest versions unless the problems are with the hardware, in which case, you will need to get your hardware replaced.
+
+ To update device drivers, you can use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) for assistance. It automatically detects, downloads and updates your missing and outdated device drivers and allow you to finish the whole process in just a couple of minutes.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8abc65e6ec.jpg)
+
+ If you want to have your own professional tech support and tons of other features in Driver Easy such as driver back up and driver restore, by all means, have a try at the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It allows you to update all your device drivers in just ONE click and poof, your computer problems are gone!
+
+ You can always ask for a refund thirty days within the purchase if you are not satisfied with it. What’s with the hold up, come on and have a try at[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) now!
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-setting-up-your-phone-as-a-home-based-webcam/"><u>[New] Setting Up Your Phone as a Home-Based Webcam</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-audio-excellence-with-these-mics/"><u>2024 Approved High-Quality Audio Excellence with These Mics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-lifetime-visual-vaults-blend-cost-free-sky-spaces-and-paid-premium-alternatives/"><u>2024 Approved Lifetime Visual Vaults Blend Cost-Free Sky Spaces & Paid Premium Alternatives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-of-both-worlds-free-paid-film-apps-for-iphones-for-2024/"><u>Best of Both Worlds Free, Paid Film Apps for iPhones for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-itel-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Itel S23+</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis/"><u>Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-transforming-your-openoffice-impress-odp-presentations-into-watchable-videos/"><u>Guide: Transforming Your OpenOffice Impress (.odp) Presentations Into Watchable Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-batch-convert-flac-files-to-wav-audio-format-on-your-pc/"><u>How to Easily Batch Convert FLAC Files to WAV Audio Format on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-extract-sound-from-video-captures-a-quick-3-step-guide/"><u>How to Effortlessly Extract Sound From Video Captures: A Quick 3-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-usb-driver-refresh-techniques-for-better-smartphone-functionality/"><u>Samsung USB Driver Refresh Techniques for Better Smartphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211454114-why-doesnt-my-laptop-touchpad-scroll-properly-on-windows-10-solutions-inside/"><u>Why Doesn't My Laptop Touchpad Scroll Properly on Windows 10? Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hdfactory/"><u>フリーHDビデオコンバータFactory 成功設定完了！</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

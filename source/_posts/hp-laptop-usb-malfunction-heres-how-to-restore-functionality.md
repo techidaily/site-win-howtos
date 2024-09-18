@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Malfunction? Here's How to Restore Functionality
-date: 2024-09-11T15:37:13.185Z
-updated: 2024-09-12T15:37:13.185Z
+date: 2024-09-13T21:56:00.158Z
+updated: 2024-09-18T02:32:42.433Z
 tags:
   - win11
   - win10
@@ -43,36 +43,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -88,29 +67,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -131,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -156,13 +128,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -170,6 +135,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -213,17 +185,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-ensure-your-virtual-meetings-are-documented-for-2024/"><u>[Updated] How to Ensure Your Virtual Meetings Are Documented for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-navigating-the-world-of-9gag-memes-made-easy/"><u>[Updated] Navigating the World of 9GAG Memes Made Easy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vinyl-virtuoso-access-to-premium-dj-video-samples/"><u>[Updated] Vinyl Virtuoso Access to Premium DJ Video Samples</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80070091-on-windows-10-a-comprehensive-solution-for-successful-system-restore/"><u>Error Code 0X80070091 on Windows 10: A Comprehensive Solution for Successful System Restore</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-v29-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo V29 Pro Is Unlocked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-maximizing-b-roll-creative-uses-and-integration/"><u>In 2024, Maximizing B-Roll Creative Uses and Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211636160-overcoming-volume-control-issues-on-your-windows-11-system-easy-fixes-inside/"><u>Overcoming Volume Control Issues on Your Windows 지구 11 System - Easy Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-skype-noise-issues-instantly-expert-tips-included/"><u>Troubleshoot Skype Noise Issues Instantly - Expert Tips Included</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210396755-troubleshooting-and-correcting-error-0x80070091-during-windows-11-system-restore-solved/"><u>Troubleshooting and Correcting Error 0X80070091 During Windows 11 System Restore - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-persistent-pc-freeze-problems/"><u>Ultimate Guide: Solving Persistent PC Freeze Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-instagram-video-lengths-a-step-by-step-guide/"><u>[New] 2024 Approved Maximizing Instagram Video Lengths A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>[New] Boosting Playback Speed Guidelines for Secure Sound Enhancement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger-for-2024/"><u>[New] Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/blizzard-support-temporarily-disconnected/"><u>Blizzard Support Temporarily Disconnected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/data-integrity-issue-solved-correcting-crc-cyclic-redundancy-check-mistakes/"><u>Data Integrity Issue Solved: Correcting CRC (Cyclic Redundancy Check) Mistakes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-overcoming-windows-updates-troublesome-error-0x80240017/"><u>Effective Remedies for Overcoming Window's Updates Troublesome Error 0X80240017</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-resolving-problems-when-teredo-does-not-qualify-network-access/"><u>Expert Guide - Resolving Problems When Teredo Does Not Qualify Network Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-brilliance-overshadowed-by-a-small-problem/"><u>Google Play Pass's Brilliance Overshadowed by a Small Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-correct-hp-officejet-pro-6978s-driver-issues-quickly/"><u>Guide to Correct HP OfficeJet Pro 6978'S Driver Issues Quickly</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a18-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A18 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid/"><u>Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206478583-stop-laptop-frustrations-charge-that-battery-in-no-time-with-these-fixes/"><u>Stop Laptop Frustrations: Charge That Battery in No Time with These Fixes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-bogus-connections-tips-on-detecting-false-friend-requests-online/"><u>Unmasking Bogus Connections: Tips on Detecting False Friend Requests Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-usb-connectors-arent-working-in-windows-11-heres-the-fix/"><u>Why Your USB Connectors Aren’t Working in Windows 11? Here's the Fix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Loop: Windows Update Stuck on 100 Percent - Solution Inside"
-date: 2024-09-11T15:41:33.256Z
-updated: 2024-09-12T15:41:33.256Z
+date: 2024-09-15T16:54:30.657Z
+updated: 2024-09-17T16:53:18.938Z
 tags:
   - win11
   - win10
@@ -45,31 +45,10 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Try the Cast to Device feature again to see if it succeeds.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -80,33 +59,12 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 3. Click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
@@ -114,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -136,14 +87,22 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -167,20 +126,21 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-building-a-business-on-snapchat-a-beginners-blueprint/"><u>[New] In 2024, Building a Business on Snapchat A Beginner's Blueprint</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-3d-blu-ray-players/"><u>[Updated] 2024 Approved Best 3D Blu-Ray Players</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revolutionizing-how-you-record-and-archive-ps3-gaming-for-2024/"><u>[Updated] Revolutionizing How You Record and Archive PS3 Gaming for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-fixing-non-operational-srt-exports/"><u>[Updated] Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-the-booting-blues-fixing-your-computers-red-screen-issue/"><u>Beating the Booting Blues: Fixing Your Computer's Red Screen Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-persistent-pairing-errors-with-bluetooth-on-your-windows-10-pc-tips/"><u>How to Fix Persistent Pairing Errors with Bluetooth on Your Windows 10 PC - Tips</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c210frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C210FRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-windows-11-clean-enable-the-autodelete-functionality/"><u>Keep Windows 11 Clean: Enable the Autodelete Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-a-fix-for-hp-laptops-with-defective-usb-slots/"><u>Resolving Connectivity Issues: A Fix for HP Laptops with Defective USB Slots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-problems-whenever-you-encounter-an-hiccup-on-steam-games-updateinstall/"><u>Resolving Problems Whenever You Encounter an Hiccup on Steam Games Update/Install</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-error-0x8024401c-during-windows-updates-for-windows-11-users/"><u>Troubleshooting Guide: Fixing Error 0X8024401c During Windows Updates for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-windows-update-error-0x80n0490-code-successfully/"><u>Troubleshooting Tips for Resolving Windows Update Error 0X80n0490 Code Successfully</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1725290305294-winxdvd/"><u>WinXDVD 소프트웨어를 제대로 사용하는 데 도움이 되는 전문가 수락 - 강력한 교육기</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/imeo-vs-youtube-the-differentiators-analysis/"><u>[New] Vimeo V/S YouTube The Differentiator's Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dissection-of-fb-video-dimensions/"><u>[Updated] 2024 Approved Dissection of FB Video Dimensions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-techniques-for-quiet-filming-for-2024/"><u>[Updated] Essential Techniques for Quiet Filming for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[Updated] MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-curating-creator-rewards-on-video-platforms/"><u>2024 Approved Curating Creator Rewards on Video Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/flashspeedlight-tt560-simplicity-meets-consistent-power/"><u>FlashSpeedlight TT560: Simplicity Meets Consistent Power</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-g22-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia G22 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-c1900101-error-during-installation/"><u>Solving C1900101 Error During Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-combining-multiple-wma-audio-files-into-a-single-file/"><u>Step-by-Step Guide: Combining Multiple WMA Audio Files Into a Single File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-inserting-text-onto-youtube-videos-using-dual-techniques/"><u>Step-by-Step Guide: Inserting Text Onto YouTube Videos Using Dual Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-opening-and-watching-mkv-movies-on-your-apple-device/"><u>Step-by-Step Guide: Opening & Watching MKV Movies on Your Apple Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-your-dvd-content-to-an-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your DVD Content to an External Hard Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-bulk-transformation-of-m2p-footage-to-high-quality-mp4-files/"><u>Step-by-Step Tutorial on Bulk Transformation of M2P Footage to High-Quality MP4 Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-file-importation-techniques-for-optimal-performance/"><u>Step-by-Step Tutorial on File Importation Techniques for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-how-to-transform-blu-rays-to-mp4-without-costs/"><u>Step-by-Step Tutorial on How to Transform Blu-Rays to MP4 Without Costs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-videopad-video-editor-2023-a-detailed-review-and-recommendation-for-beginners-and-pros/"><u>Updated 2024 Approved Videopad Video Editor 2023 A Detailed Review and Recommendation for Beginners and Pros</u></a></li>
 </ul></div>
 

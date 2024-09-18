@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Power State Failure Issues in Your Driver Software
-date: 2024-09-11T15:40:45.997Z
-updated: 2024-09-12T15:40:45.997Z
+date: 2024-09-10T19:09:21.411Z
+updated: 2024-09-17T23:00:00.724Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -48,13 +41,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -73,13 +59,6 @@ To rule out this as a possibility:
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -105,27 +84,20 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -136,10 +108,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
@@ -151,15 +123,34 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -185,20 +176,17 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-social-media-tags-leading-tools-reviewed-fbtwitterinsta/"><u>[New] 2024 Approved Mastering Social Media Tags Leading Tools Reviewed (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>[Updated] Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-repair-hp-laptops-camera-in-windows-11/"><u>A Step-by-Step Guide to Repair HP Laptop's Camera in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/destiny-2-wont-start-clear-your-cache-and-initialize-successfully/"><u>Destiny 2 Won't Start? Clear Your Cache and Initialize Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-how-to-pick-the-right-smartwatch-with-these-5-must-consider-criteria/"><u>Discover How to Pick the Right Smartwatch With These 5 Must-Consider Criteria</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/elevate-mf4770n-integration-on-windows-platforms/"><u>Elevate MF4770n Integration on Windows Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 In Different Conditionsin</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-13-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 13 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-normalized-flickering-no-more/"><u>Laptop Display Normalized: Flickering No More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209730276-no-charge-detected-heres-how-to-troubleshoot-and-restore-in-a-flash/"><u>No Charge Detected? Here’s How to Troubleshoot & Restore in a Flash!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-internet-explorer-failed-to-connect-errors-easily-and-quickly/"><u>Overcoming Microsoft Internet Explorer Failed to Connect Errors Easily and Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-when-your-app-wont-launch-due-to-error-code-0xc000007b/"><u>Solved: Fixing the Issue When Your App Won't Launch Due to Error Code 0xC000007B</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-28-a-step-by-step-guide-for-device-manager-in-windows/"><u>Troubleshooting Code 28 – A Step-by-Step Guide for Device Manager in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-opaque-initialization-screens-on-monster-hunter-world-starts/"><u>Troubleshooting Opaque Initialization Screens on Monster Hunter: World Starts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-complete-look-at-hand-recognition-systems/"><u>[New] A Complete Look at Hand Recognition Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-comprehensive-12-video-live-viewing-platform/"><u>[New] Comprehensive 12-Video Live Viewing Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-video-content-iphoneipad-screen-capture-basics-for-2024/"><u>[New] Enhancing Video Content IPhone/iPad Screen Capture Basics for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-profile-pictures-download-for-free/"><u>[New] In 2024, Profile Pictures - Download for FREE</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-background-blur-101-boosting-video-clarity-on-youtube/"><u>[Updated] Background Blur 101 Boosting Video Clarity on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-wonders-of-home-assistant-a-comprehensive-guide/"><u>1. Unveiling the Wonders of Home Assistant: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>2024 Approved The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-preserving-video-integrity-during-mkv-remux-processes/"><u>Expert Guide: Preserving Video Integrity During MKV Remux Processes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-the-revolutionary-approach-of-smart-training-techniques/"><u>Exploring the Revolutionary Approach of Smart Training Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-watch-videos-on-psp-a-comprehensive-guide-to-supported-file-types-and-conversion-tips/"><u>How to Watch Videos on PSP: A Comprehensive Guide to Supported File Types and Conversion Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/installing-the-morpheus-extension-for-enhanced-kodi-viewing-experience-is-it-matrix-ready/"><u>Installing the Morpheus Extension for Enhanced Kodi Viewing Experience - Is It Matrix Ready?</u></a></li>
 </ul></div>
 

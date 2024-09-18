@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'No Disk' Error with NVIDIA Graphics Card
-date: 2024-09-11T15:38:45.903Z
-updated: 2024-09-12T15:38:45.903Z
+date: 2024-09-13T01:41:59.744Z
+updated: 2024-09-17T22:57:18.408Z
 tags:
   - win11
   - win10
@@ -32,45 +32,17 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/select-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **General** tab, click the **SET LAUNCH OPTIONS…** button.
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/set-launch-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type**\-dx11** and then click**OK** .
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/dx11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s recommended to run your game on**dx11** . But some older hardware doesn’t support dx11 so you would run it on**dx9** . You can simply type**\-dx9** instead of -dx11.
 
  4) Close your game’s **Properties** window and your problem should be solved. Till then launch your game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -88,31 +60,11 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -133,18 +85,21 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/clearing-up-nvidia-install-complications/"><u>Clearing Up NVIDIA Install Complications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-black-screen-blues-a-step-by-step-fix-for-windows-11-users/"><u>Conquering the Black Screen Blues: A Step-by-Step Fix for Windows 11 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972313070-effortless-access-to-official-canon-mg3620-drivers-download-today/"><u>Effortless Access to Official Canon MG3620 Drivers - Download Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x8024200d-explained-winning-strategies-for-updating-your-windows-smoothly-solved/"><u>Error 0X8024200D Explained: Winning Strategies for Updating Your Windows Smoothly [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212069876-fixing-a-nonfunctional-camera-on-your-hp-laptop-running-windows-aturate-with-an-active-and-dynamic-atmosphere/"><u>Fixing a Nonfunctional Camera on Your HP Laptop Running Windows Aturate with an Active and Dynamic Atmosphere.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-the-persistent-windows-error-0x800704cf-solved/"><u>How to Recover From the Persistent Windows Error: 0X800704CF [Solved]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/impara-a-modificare-la-regione-dei-tuoi-dvd-in-pochi-passi-gratuitamente-manuale-dettagliato/"><u>Impara a Modificare La Regione Dei Tuoi DVD in Pochi Passi, Gratuitamente - Manuale Dettagliato</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y02t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y02T to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-mobile-listening-androids-best-podcast-apps-top-6/"><u>In 2024, Mastering Mobile Listening Android's Best Podcast Apps (Top 6)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>Resolving Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unclutter-your-mac-a-comprehensive-guide-to-liberating-space-for-fcpx-for-2024/"><u>Unclutter Your Mac A Comprehensive Guide to Liberating Space for FCPX for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/visualize-for-a-friendly-facebook/"><u>Visualize for a Friendly Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-effortless-audio-delivery-on-your-iphone/"><u>[Updated] In 2024, Effortless Audio Delivery on Your iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-starting-up-key-gopro-add-ons-unveiled/"><u>[Updated] Starting Up Key GoPro Add-Ons Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-s23-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel S23 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722115686621-mastering-recipes-easier-than-ever-with-chatgpt-discover-how/"><u>Mastering Recipes Easier than Ever with ChatGPT, Discover How!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-disabling-onedrive-integration-in-windows-11-file-explorer/"><u>Step-by-Step Guide: Disabling OneDrive Integration in Windows 11 File Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-viewing-your-downloaded-youtube-content/"><u>Troubleshooting Guide: Successfully Viewing Your Downloaded YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-silent-playback-resolving-the-no-audio-issue-on-media-player-windows-10/"><u>Troubleshooting Silent Playback: Resolving the No Audio Issue on Media Player Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/two-effective-methods-for-capturing-your-dota-2-matches-in-windows/"><u>Two Effective Methods for Capturing Your Dota 2 Matches in Windows</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dell's Non-Functional USB Connection
-date: 2024-09-11T15:41:03.062Z
-updated: 2024-09-12T15:41:03.062Z
+date: 2024-09-14T18:26:47.380Z
+updated: 2024-09-18T00:02:09.345Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -69,13 +62,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -87,20 +73,20 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
@@ -108,13 +94,6 @@ To do so:
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -134,16 +113,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -177,16 +162,19 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-the-semaphore-timeout-period-has-expired-0x80070079/"><u>[Fixed] The Semaphore Timeout Period Has Expired. (0X80070079)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-skills-for-efficient-zoom-podcasting/"><u>[Updated] Essential Skills for Efficient Zoom Podcasting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-top-additions-for-savvy-users-unveiled/"><u>[Updated] Facebook's Top Additions for Savvy Users Unveiled</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v30-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V30 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-led-issue-resolved-steps-for-brightening-up-your-board/"><u>Corsair Keyboard LED Issue Resolved – Steps for Brightening Up Your Board</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-reno-9a-by-fonelab-android-recover-music/"><u>How to restore wiped music on Reno 9A</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-insights-into-the-art-of-srt-file-creation/"><u>In 2024, Ultimate Insights Into the Art of SRT File Creation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-hearthstone-performance-issues-no-hassle/"><u>Quick Fixes for Hearthstone Performance Issues - No Hassle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-your-corsair-hs50-mic-heres-how-to-restore-its-voice-recognition-functionality/"><u>Trouble with Your Corsair HS_50 Mic? Here's How to Restore Its Voice Recognition Functionality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-your-creativity-with-manycam-the-ultimate-guide-to-online-broadcasting-and-digital-webcams/"><u>Unlock Your Creativity with ManyCam - The Ultimate Guide to Online Broadcasting and Digital Webcams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-delving-into-recmeisters-capabilities-for-quality-video-capture/"><u>[New] 2024 Approved Delving Into Recmeister’s Capabilities for Quality Video Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precise-voice-adjustments-for-pubg-success/"><u>[New] Precise Voice Adjustments for PUBG Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-your-ultimate-guide-to-mac-audio-capture-via-audacity/"><u>[Updated] 2024 Approved Your Ultimate Guide to Mac Audio Capture via Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-psychology-behind-effective-interviews/"><u>[Updated] The Psychology Behind Effective Interviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-how-to-install-and-use-the-xvid-codec-for-enhanced-video-playback-on-vlc-media-player/"><u>1. How to Install and Use the Xvid Codec for Enhanced Video Playback on VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-how-to-troubleshoot-and-resolve-issues-with-non-playable-instagram-video-content/"><u>1. How to Troubleshoot and Resolve Issues with Non-Playable Instagram Video Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-iphones-video-fix-combat-blurry-facebook-videos/"><u>2024 Approved IPhone's Video Fix Combat Blurry Facebook Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Phone without PIN</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-window-calls-top-8-standout-titles/"><u>In 2024, Premium Window Calls Top 8 Standout Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-wit-funnypictorials-for-2024/"><u>Photo Wit FunnyPictorials for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlimited-entertainment-streaming-download-movies-and-songs-directly-from-websites/"><u>Unlimited Entertainment Streaming: Download Movies and Songs Directly From Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vlch264and/"><u>VLCプレーヤーにおけるH264ビデオファイルの再生失敗:原因分析&解決策</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vlc4/"><u>VLCメディアプレーヤーに匹敵する4つの最高の代用ソフトをご紹介！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windowsmacpc/"><u>Windows/Macに最適、ノートPCですぐ始められるブラウジングキャプチャ方法</u></a></li>
 </ul></div>
 

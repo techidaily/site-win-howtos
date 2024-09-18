@@ -1,7 +1,7 @@
 ---
 title: "Interface Issue: Keyboard Revived"
-date: 2024-09-11T15:37:37.268Z
-updated: 2024-09-12T15:37:37.268Z
+date: 2024-09-16T23:58:23.737Z
+updated: 2024-09-17T23:31:01.731Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,29 +43,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -93,13 +66,6 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -130,10 +96,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -152,28 +118,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -182,6 +135,19 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -225,17 +191,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-crafting-captivating-presentations-by-adding-tunes/"><u>[New] In 2024, Crafting Captivating Presentations by Adding Tunes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-choosing-superior-wi-fi-range-enhancers/"><u>Comprehensive Guide to Choosing Superior Wi-Fi Range Enhancers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-get-your-file-explorer-running-smoothly-again-in-windows-11/"><u>Comprehensive Solutions to Get Your File Explorer Running Smoothly Again in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XR Lock Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-rescued-beat-ark-survival-evolveds-persistent-crashes-using-these-9-fixes/"><u>PC Gaming Rescued: Beat ARK: Survival Evolved's Persistent Crashes Using These 9 Fixes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfect-process-for-embedding-youtube-playlists-on-websites-efficiently-for-2024/"><u>Perfect Process for Embedding YouTube Playlists on Websites Efficiently for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezing-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving File Explorer Freezing Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-fixes-for-vanishing-youtube-shorts-thumbnails-for-2024/"><u>Top 10 Fixes for Vanishing YouTube Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-geforce-cant-access-your-settings/"><u>Troubleshooting Tips: When GeForce Can't Access Your Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-ephemeral-mouse-cursor-issue-heres-how-to-bring-it-back-for-good/"><u>Windows Ephemeral Mouse Cursor Issue? Here's How to Bring It Back for Good!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-hues-iphone-low-light-mastery/"><u>[New] 2024 Approved Harnessing Hues IPhone Low-Light Mastery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>[New] 2024 Approved Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-pinnacle-of-insta-grids-our-curated-list-of-best-tools-for-2024/"><u>[New] The Pinnacle of Insta Grids Our Curated List of Best Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unbeatable-deals-discover-the-best-free-desktop-recorders/"><u>2024 Approved Unbeatable Deals Discover the Best Free Desktop Recorders</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-13-ultra-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi 13 Ultra Fingerprint Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/event-id-1000-solutions-and-fixes-for-windows-7-8-and-1ve-10-platforms/"><u>Event ID 1000 - Solutions and Fixes for Windows 7, 8, and 1Ve 10 Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-share-twitch-stream-on-facebook-in-2024/"><u>How to Share Twitch Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instantly-resolve-no-charge-issues-with-these-quick-laptop-battery-tips/"><u>Instantly Resolve No Charge Issues with These Quick Laptop Battery Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-consumption-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry: Excessive Storage Consumption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stuck-file-explorer-problems-for-a-smooth-experience-with-windows-11/"><u>Resolving Stuck File Explorer Problems for a Smooth Experience with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-display-adapter-with-windows-11-a-comprehensive-guide/"><u>Successfully Pairing Microsoft Wireless Display Adapter with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-invitation-apps-that-will-make-your-event-unforgettable/"><u>Updated Video Invitation Apps That Will Make Your Event Unforgettable</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows # Solving Copy and Paste Problems on Your PC - A Step-by-Step Guide
-date: 2024-09-11T15:41:42.401Z
-updated: 2024-09-12T15:41:42.401Z
+date: 2024-09-15T19:51:47.061Z
+updated: 2024-09-18T00:17:30.436Z
 tags:
   - win11
   - win10
@@ -26,19 +26,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -50,26 +37,12 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)  
 
@@ -78,21 +51,7 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scroll still not working?
 
@@ -118,13 +77,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -147,19 +99,25 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-monetary-aspects-of-podcasting/"><u>[New] Evaluating the Monetary Aspects of Podcasting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-techniques-for-broadcasting-fb-live-on-cable/"><u>[Updated] 2024 Approved Top Techniques for Broadcasting FB Live on Cable</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-creating-compelling-valorant-thumbnails-for-digital-viewers-for-2024/"><u>[Updated] Creating Compelling Valorant Thumbnails for Digital Viewers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chrome-banners-silenced-windows-notification-guide/"><u>Chrome Banners Silenced: Windows Notification Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-connectivity-issue-successfully-resolved/"><u>Dragon Ball FighterZ Connectivity Issue - Successfully Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone XS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-of-3d-color-grading-tools-for-2024/"><u>Navigating the Landscape of 3D Color Grading Tools for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973341279-quick-setup-of-your-xbox-controllers-with-updated-drivers-download-now/"><u>Quick Setup of Your Xbox Controllers with Updated Drivers - Download Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-approval-from-trustedinstaller-for-file-alterations/"><u>Securing Approval From TrustedInstaller for File Alterations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-turning-on-bluetooth-functionality-in-windows-7/"><u>Step-by-Step Tutorial for Turning On Bluetooth Functionality in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-device-doesnt-charge-while-plugged-into-a-windows-7-or-10-computer/"><u>TroubleShooting Steps When Your Device Doesn't Charge While Plugged Into a Windows 7 or 10 Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-1903-feature-update-issues-resolved/"><u>Troubleshooting Windows 1903 Feature Update Issues Resolved</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-disable-windows-11-tpm-effortlessly/"><u>Unlocking Secrets: Disable Windows 11 TPM Effortlessly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-anonymous-footage-blurring-private-sections-in-video-for-2024/"><u>[New] Anonymous Footage Blurring Private Sections in Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-finest-iosdesktop-video-to-file-converters/"><u>[New] Explore the Finest iOS/Desktop Video to File Converters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>[Updated] In 2024, The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-9-cross-platform-communication-apps-iphone-vs-android-comparison/"><u>2024 Approved Top 9 Cross-Platform Communication Apps IPhone vs Android Comparison</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6-effective-methods-to-save-your-favorite-youtube-videos-a-step-by-step-guide/"><u>6 Effective Methods to Save Your Favorite YouTube Videos – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g22-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G22 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-the-webs-essence-top-browsers-for-screen-recorders/"><u>In 2024, Capturing the Web’s Essence Top Browsers for Screen Recorders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-file-combination-easy-steps-and-top-tools-for-windows-1011-users/"><u>MP3 File Combination: Easy Steps & Top Tools for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-vs-secam-understanding-the-differences-in-tv-broadcast-standards-and-conversion-techniques/"><u>NTSC Vs. PAL Vs. SECAM: Understanding the Differences in TV Broadcast Standards and Conversion Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pandorahd/"><u>Pandora番組をフルHDで安全に保存してみませんか？</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-rar-archives-to-crystal-clear-mp3s-with-these-2-simple-tricks-eliminate-file-format-worries-today/"><u>Transform Your RAR Archives to Crystal Clear MP3s with These 2 Simple Tricks - Eliminate File Format Worries Today!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-removing-background-noise-extracting-silent-videos/"><u>Updated 2024 Approved Removing Background Noise Extracting Silent Videos</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

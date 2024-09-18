@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixes for Unresponsive Touchpad Scrolling Issues"
-date: 2024-09-11T15:39:07.916Z
-updated: 2024-09-12T15:39:07.916Z
+date: 2024-09-12T20:52:43.185Z
+updated: 2024-09-18T00:56:18.678Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check the status of your controller
 
  You should check the basic status of your controller and see if there is any issue that causes the problem.
@@ -51,19 +38,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)** Check the**connection status** of your controller: Make sure your wireless controller is **close enough** to the console. Ensure that there is no**objects (such as a wireless router or a microwave oven)** or**USB or wireless devices (such as a headset or a flash drive)** that may interfere in the connection.
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Re-sync your controller
 
@@ -87,13 +61,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -101,13 +68,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)**  Press and hold the**Xbox button** on the console until it completely shuts down. (It can take about**10** seconds.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
 
@@ -126,10 +86,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Select**Devices & accessories** .
@@ -140,13 +100,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
@@ -154,6 +107,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -176,17 +136,16 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-amd-gpu-revival-suite/"><u>[New] AMD GPU Revival Suite</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-rapid-removal-of-ssgnature-backdrops-explained-for-2024/"><u>[New] Rapid Removal of Ssgnature Backdrops Explained for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-screentosave-mobilepc-video-recording/"><u>[Updated] 2024 Approved ScreenToSave Mobile/PC Video Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discord-live-a-users-blueprint/"><u>[Updated] In 2024, Navigating Discord Live A User's Blueprint</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>[Updated] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-a1x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo A1x 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-value-in-sound-paww-triad-headphones-overview/"><u>Exploring Value in Sound: Paww Triad Headphones Overview</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-7-hd-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 7 HD to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-window-11-glitches-correcting-the-synaptics-touchpad-scroll-error/"><u>Overcoming Window 11 Glitches: Correcting the Synaptics Touchpad Scroll Error</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pudding-patrol-tutorial-how-to-guide-to-screen-capture-software/"><u>Pudding Patrol Tutorial How-To Guide to Screen Capture Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-msmpengexe-process-overloading-your-pcs-resources/"><u>Troubleshooting and Fixing the MsMpEng.exe Process Overloading Your PC's Resources</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-google-chrome-freezes-up/"><u>Troubleshooting Guide: When Google Chrome Freezes Up</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>[New] Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-how-to-access-high-end-features-with-disconitro/"><u>[Updated] In 2024, Unveiling the Secrets How to Access High-End Features with DiscoNitro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-vigor-in-voice-assessment-version-8/"><u>[Updated] In 2024, Vigor in Voice Assessment Version 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-harmonizing-photo-and-video-in-one-iphone-session/"><u>In 2024, Harmonizing Photo & Video in One iPhone Session</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-13-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 13 Pro online without jailbreak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-tools-for-image-deformation-for-2024/"><u>Innovative Tools for Image Deformation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-sites-for-streaming-lower-resolution-anime-content-144p-240p-360p-and-more/"><u>Top Sites for Streaming Lower-Resolution Anime Content (144P, 240P, 360P, and More)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-mp3-tracks-into-videos-for-free-top-3-audio-to-video-converter-tools/"><u>Transform MP3 Tracks Into Videos for Free: Top 3 Audio-to-Video Converter Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transition-from-free-to-professional-enhancing-your-experience-with-the-premium-video-converter/"><u>Transition From Free to Professional: Enhancing Your Experience with the Premium Video Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-media-player-unable-to-load-files/"><u>Troubleshooting Guide: Resolving 'Windows Media Player' Unable To Load Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962348208-upgrade-to-enhanced-performance-free-download-of-updated-killer-network-drivers-for-all-win-users/"><u>Upgrade to Enhanced Performance: Free Download of Updated Killer Network Drivers for All Win Users</u></a></li>
 </ul></div>
 

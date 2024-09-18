@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PCs Freezing During Windows Setup Process
-date: 2024-09-11T15:41:39.784Z
-updated: 2024-09-12T15:41:39.784Z
+date: 2024-09-12T17:11:48.021Z
+updated: 2024-09-17T20:57:53.271Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ A lot Windows 10 users reported that system restore did not complete successfull
 >
 
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
@@ -63,13 +56,6 @@ When prompted by User Account Control, click   **Yes.**
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3)  
 
 Type the following commands and hit **Enter** to run them one by one:  
@@ -87,24 +73,10 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5)  
 
 When it finish rebooting, run System Restore again.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
 
@@ -119,13 +91,6 @@ Then click **Update & security**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
@@ -137,13 +102,6 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2)  
 
@@ -175,17 +133,27 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-optimizing-your-fb-profile-with-stunning-cover-videos/"><u>[Updated] In 2024, Optimizing Your FB Profile with Stunning Cover Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207222250-accelerate-your-league-of-legends-installations-no-more-sluggish-downloads/"><u>Accelerate Your League of Legends Installations: No More Sluggish Downloads!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adding-music-to-photo-online/"><u>Adding Music to Photo Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/compress-videos-by-upgrading-from-h264-to-h265-with-zero-loss-in-quality-and-reduced-file-dimensions/"><u>Compress Videos by Upgrading From H.264 To H.2#65 With Zero Loss in Quality and Reduced File Dimensions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-setting-up-your-microsoft-wireless-display-adapter-for-optimal-performance-on-windows-10-devices/"><u>Expert Advice on Setting Up Your Microsoft Wireless Display Adapter for Optimal Performance on Windows 10 Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-techkey-bluetooth-device-driver-for-windows-operating-systems-windows-1178-download-now/"><u>Get Your Techkey Bluetooth Device Driver for Windows Operating Systems (Windows 11/7/8) - Download Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hit-compliant-resolution-enhanced-missing-touch-sensitivity/"><u>HIT Compliant Resolution - Enhanced Missing Touch Sensitivity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-fix-for-background-removal-in-figma-projects/"><u>Quick Fix for Background Removal in Figma Projects</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-logitech-keyboard-wont-connect-with-windows-10/"><u>Troubleshooting Steps When Logitech Keyboard Won’t Connect with Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/zooming-ahead-with-the-best-audio-to-text-applications-freepaid/"><u>Zooming Ahead with the Best Audio to Text Applications (Free/Paid)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-3-step-formula-how-to-check-youtube-income-for-2024/"><u>[New][3-Step Formula] How To Check YouTube Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[Updated] In 2024, From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-7-fps-experiences-of-the-decade-for-2024/"><u>[Updated] Top 7 FPS Experiences of the Decade for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/access-all-english-movies-for-free-with-simple-steps-on-youtube-and-safe-downloads/"><u>Access All English Movies for Free with Simple Steps on YouTube and Safe Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/appleiphoneavi3/"><u>Appleスマホで楽しむ「iPhone」AVIファイルの魅力!おすすめアプリベスト3ピックアップ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/celebrate-hobbit-day-with-free-online-screening-the-desolation-of-smaug/"><u>Celebrate Hobbit Day with Free Online Screening - The Desolation of Smaug</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-editors-treasure-trove-curated-list-of-iconic-80s-vhs-hacks-for-editing/"><u>In 2024, The Editor's Treasure Trove Curated List of Iconic 80S VHS Hacks for Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pioneering-water-dynamics-video-games-roundup-for-2024/"><u>Pioneering Water Dynamics Video Games Roundup for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-f34-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy F34 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-full-potential-with-network-traffic-insight-via-win11s-netstat/"><u>Unlock Your Full Potential with Network Traffic Insight via Win11's Netstat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-mobile-app-gratis-descargar-para-android-e-ios/"><u>Winxvideo AI Mobile App Gratis Descargar Para Android E iOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030248120-youtube-3/"><u>YouTubeで動画音量強化レシピ ベスト3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028110366-5/"><u>スピットライフ無料音楽ダウンロード！5つの最優秀録音ソフトブックメーカー</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028239801-pc/"><u>パーソナライズドデスクのためのPCプログラム：動的な壁紙設定ツール「無料・有料」選び方ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027833388-powerdirector/"><u>ビデオの音量調整:PowerDirectorで見つけた効果的なテクニック</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

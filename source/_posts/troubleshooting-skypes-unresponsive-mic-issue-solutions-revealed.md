@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Skype's Unresponsive Mic Issue - Solutions Revealed
-date: 2024-09-11T15:40:40.222Z
-updated: 2024-09-12T15:40:40.222Z
+date: 2024-09-13T19:24:25.551Z
+updated: 2024-09-17T18:17:47.760Z
 tags:
   - win11
   - win10
@@ -42,19 +42,6 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Correct your DNS server address
 
 The DNS server not responding error could be probably caused by an **incorrect DNS server address**. So you can follow these to correct your DNS server address:
@@ -69,23 +56,9 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
@@ -95,19 +68,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
@@ -116,23 +76,9 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
@@ -164,6 +110,13 @@ Then restart your computer and try to access the website you want to visit again
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Update your network adapter driver
 
 Your DNS server won’t respond if the network adapter driver is outdated. You can update your network adapter driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**.
@@ -181,29 +134,9 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -214,16 +147,10 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Try to access the website you want to go to again and see if it succeeds.
@@ -259,17 +186,20 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-look-at-logitechs-high-quality-4k-cam/"><u>[Updated] 2024 Approved The Ultimate Look at Logitech's High-Quality 4K Cam</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-vitas-video-editor-full-review-2024/"><u>[Updated] Ultimate Guide to Vita's Video Editor - Full Review 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-is-it-possible-to-command-your-smart-devices/"><u>ChatGPT: Is It Possible To Command Your Smart Devices?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/epic-echoes-academy-superlative-seventeen/"><u>Epic Echoes Academy – Superlative Seventeen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/functionalities-and-techniques-behind-localized-ai/"><u>Functionalities and Techniques Behind Localized AI</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-uavs-the-basics-of-drone-operations/"><u>In 2024, Unveiling UAVs The Basics of Drone Operations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-opengl-demystifying-and-fixing-error-1281/"><u>Mastering OpenGL: Demystifying and Fixing Error 1281</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-keys-effective-solutions-for-malfunctioning-keyboard-lighting-in-windowsmac-systems/"><u>Revive Your Keys: Effective Solutions for Malfunctioning Keyboard Lighting in Windows/Mac Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/slash-your-pcs-graphics-power-use-combat-dwm-overload-with-these-simple-steps-on-windows-11/"><u>Slash Your PC's Graphics Power Use: Combat DWM Overload with These Simple Steps on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-when-windows-fails-to-identify-correct-printer-drivers/"><u>Solution Guide: When Windows Fails to Identify Correct Printer Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-solutions-resolving-the-installation-unsuccessful-on-windows-error/"><u>Swift Solutions: Resolving the 'Installation Unsuccessful on Windows' Error</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-olympic-freeze-frame-figure-skating-best-of-2022/"><u>[Updated] In 2024, Olympic Freeze-Frame Figure Skating Best of 2022</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-optimal-insta-video-sizes-2023-guide/"><u>[Updated] Optimal Insta Video Sizes - 2023 Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-basics-of-ray-tracing-technology/"><u>Exploring the Basics of Ray Tracing Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-infinix-hot-30-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Infinix Hot 30 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-whats-your-payout-per-view-on-sponsored-content-in-youtube/"><u>In 2024, What's Your Payout Per View on Sponsored Content in Youtube?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-shortcut-guide-20-tips-and-tricks/"><u>New In 2024, The Ultimate Adobe Premiere Shortcut Guide 20 Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/revolutionary-battery-saving-function-in-latest-android-version-how-it-transforms-your-devices-efficiency/"><u>Revolutionary Battery-Saving Function in Latest Android Version: How It Transforms Your Device's Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slice-and-edit-youtube-content-fast-with-the-youtube-shorten-technique/"><u>Slice & Edit YouTube Content Fast with the YouTube Shorten Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-how-to-resolve-shadowplays-audio-recording-glitch/"><u>Solution Found: How to Resolve ShadowPlay's Audio Recording Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adjusting-your-youtube-videos-aspect-ratio-perfectly/"><u>Step-by-Step Guide: Adjusting Your YouTube Videos' Aspect Ratio Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
 </ul></div>
 

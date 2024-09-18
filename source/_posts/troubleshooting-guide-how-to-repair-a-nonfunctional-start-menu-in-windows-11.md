@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Repair a Nonfunctional Start Menu in Windows 11"
-date: 2024-09-11T15:38:40.740Z
-updated: 2024-09-12T15:38:40.740Z
+date: 2024-09-14T18:12:18.747Z
+updated: 2024-09-17T22:19:02.202Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -54,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 3) Connect your USB device to the laptop again
 
 4) Plug the power supply back in
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
 
@@ -86,50 +66,23 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -151,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -176,21 +136,12 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hilling-yet-heating-top-5-winter-scenes-for-vids-for-2024/"><u>[New] Chilling Yet Heating Top 5 Winter Scenes for Vids for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-imovies-power-for-youtube-presence-and-growth/"><u>[New] Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tart-your-affordable-webinar-journey-with-youtube/"><u>[New] Start Your Affordable Webinar Journey with YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>[Updated] 2024 Approved How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-enable-and-use-windows-11s-auto-hdr-functionality/"><u>2024 Approved How to Enable and Use Windows 11'S Auto HDR Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/from-here-to-innovation-the-post-11-windows-journey/"><u>From Here to Innovation: The Post-11 Windows Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-solve-connection-errors-with-remote-servers/"><u>Guide to Solve Connection Errors with Remote Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-pink-monitor-problem-on-your-windows-11-device/"><u>How to Fix a Pink Monitor Problem on Your Windows 11 Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi ?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-how-to-tame-a-sudden-power-spike-on-your-data-hub/"><u>Mastering the Fix: How to Tame a Sudden Power Spike on Your Data Hub</u></a></li>
-<li><a href="https://fox-links.techidaily.com/post-tomorrow-assessment-original-ideas/"><u>Post-Tomorrow Assessment Original Ideas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-typing-slowdowns-solutions-for-keyboard-latency-in-win-10/"><u>Resolving Typing Slowdowns: Solutions for Keyboard Latency in Win 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-accessibility-for-malfunctioning-user-customization-options/"><u>Restoring Accessibility for Malfunctioning User Customization Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silence-the-sluggishness-in-games-playing/"><u>Silence the Sluggishness in Games Playing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-c0000022-crash-in-windows-os/"><u>Troubleshooting C0000022 Crash in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-the-fatal-installation-error-code-1603/"><u>Troubleshooting Guide: Overcoming the 'Fatal Installation Error' (Code 1603)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-best-practices-in-fb-advertising-leading-video-trends/"><u>[New] 2024 Approved Best Practices in FB Advertising Leading Video Trends</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>[New] In 2024, The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/46ver/"><u>「乃木坂46」楽曲フルver.無料ダウンロード方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5a6m5ywo44k544kv44oq44o844oz44os44kz44o844oh44kj44oz44kw44gn44gn44ga44cb44gd44gu5y6f5zug44ks6kqs5pio44gx44gplus44gz/"><u>完全スクリーンレコーディングできず、その原因を説明します</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/friend-battles-and-buddy-adventures-essential-techniques-for-a-shared-journey-in-pokemon-go/"><u>Friend Battles and Buddy Adventures: Essential Techniques for a Shared Journey in Pokémon GO</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v16-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.6 file when manual method fails</u></a></li>
 </ul></div>
 

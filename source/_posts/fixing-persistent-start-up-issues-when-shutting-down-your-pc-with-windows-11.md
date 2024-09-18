@@ -1,0 +1,213 @@
+---
+title: Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11
+date: 2024-09-16T21:05:47.454Z
+updated: 2024-09-17T23:59:36.074Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11
+excerpt: This Article Describes Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
+---
+
+## Breeze Through Windows 11'S Persistent Restart Issue - Easy Solutions Inside
+
+If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Luckily the good news is, it’s not hard to fix at all…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Fixes for Windows 10 keeps restarting
+
+ Here’re 5 fixes that have helped other users resolve the**Windows 10 computer keeps restarting** problem.
+
+ If you**CANNOT** log into your computer system, please start from**Fix 1** ; If you**CAN** log into your computer system properly however, please start from**Fix 2** .
+
+1. **[Enter Safe Mode with Networking](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable auto-restart](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Enter Safe Mode with Networking
+
+ 1) Make sure your computer is **off** .
+
+![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
+
+ 2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
+
+ 3) Repeat **1)**   and **2)**   until the screen says **Preparing Automatic Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
+
+ 4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
+
+ 5) Click **Troubleshoot** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
+
+ 6) Click **Advanced options** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
+
+ 7) Click **Startup settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
+
+ 8) Click **Restart** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
+
+ 9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
+
+ 10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
+
+---
+
+### Fix 2: Disable auto-restart
+
+ 1) On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste**sysdm.cpl** into the box and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
+
+ 2) Click**Settings…** under the **Startup and Recovery** section.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
+
+ 3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
+
+ 4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
+
+---
+
+### Fix 3: Update your device drivers
+
+ This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
+
+ You can also click **Update**   to do it for free if you like, but it’s partly manual.
+
+ 4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
+
+---
+
+### Fix 4: Change the power option
+
+ 1) On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Click the**High performance** option >**Change plan settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) Click**Change advanced power settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+
+ 4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
+
+ 5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
+
+---
+
+### Fix 5: Check for hardware issues
+
+ Overheating and faulty hardwares can also be responsible for your**computer keeps restarting** problem. So you can check the following hardware to troubleshoot the issue:
+
+#### 1) CPU
+
+ To avoid overheating, you might want to get a cooling fan or move your computer to a well-ventilated place.
+
+#### 2) RAM
+
+ Remove your **Random Access Memory** (**RAM** ) if you have it installed on your computer. Then carefully clean the RAM and the slot before putting the RAM back. Check if it fixes the issue.
+
+#### 3) External devices
+
+ Remove ALL of the external devices from your computer to see if it fixes the**Windows 10 keeps restarting** problem. If yes, then insert them back one by one until you pinpoint the exact one.
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-photos-master-adobes-curving-methods/"><u>[New] Revolutionize Your Photos Master Adobe's Curving Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[Updated] 2024 Approved Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-9-prime-live-streaming-venues-for-gamers/"><u>[Updated] 9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bypassing-costs-your-step-by-step-to-fcp/"><u>[Updated] Bypassing Costs Your Step-by-Step to FCP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/46ver/"><u>「乃木坂46」楽曲フルver.無料ダウンロード方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030670934-3/"><u>連続して3枚のビデオを効果的に一画面表示するテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5a6m5ywo44k544kv44oq44o844oz44os44kz44o844oh44kj44oz44kw44gn44gn44ga44cb44gd44gu5y6f5zug44ks6kqs5pio44gx44gplus44gz/"><u>完全スクリーンレコーディングできず、その原因を説明します</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5lia5q2p44os44k344ouic0g44kr44od44oi44gg44gr44gn5yuv55s757eo6zug44gm57ch5y2y44gr44gq44kk44gplus44gx44gf/"><u>一歩レシピ - カットだけで動画編集が簡単になりました</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-and-strong-sounds-on-xbox-by-troubleshooting/"><u>Clear and Strong Sounds on Xbox by Troubleshooting</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-supercharge-youtube-traffic-with-key-hash-tags/"><u>In 2024, Supercharge YouTube Traffic with Key Hash Tags</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-thriving-in-the-digital-age-mastering-facebook-interaction/"><u>In 2024, Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
+</ul></div>
+

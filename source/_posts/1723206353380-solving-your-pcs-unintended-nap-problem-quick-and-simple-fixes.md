@@ -1,0 +1,244 @@
+---
+title: "Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes!"
+date: 2024-09-10T20:57:02.672Z
+updated: 2024-09-17T20:19:58.789Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes!"
+excerpt: "This Article Describes Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes!"
+thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg
+---
+
+## Guide to Restarting Your Windows Update Service – Problems Solved
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb080685ea1.png)
+
+ Many Windows users are having an issue with their Windows Update. If they check for updates on their Windows system, they get an error that says “ **Windows Update cannot currently check for updates, because the service is not running** “. And they can’t install updates for their system.
+
+ This is an annoying issue. And trying to fix it is just as annoying, because you’ll spend a lot of time reading suggestions on the Internet, and most won’t work.
+
+ But don’t worry. The following are some methods that have helped many Windows users fix their error.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Run Windows Update troubleshooter**](#a)
+2. [**Check for malicious software**](#b)
+3. [**Restart your Windows Update associated services**](#c)
+4. [**Clear the SoftwareDistribution folder**](#d)
+5. [**Update your device drivers**](#e)
+
+## Method 1: Run Windows Update troubleshooter
+
+ Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
+
+### on Windows 10
+
+**1)** On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
+
+**2)** Select**Update & Security** .
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
+
+**2)** Click**Troubleshoot > Additional troubleshooters** .
+
+**3)** Find**Windows Update** and click**Run the troubleshooter** .
+
+**4)** Follow the on-screen instructions to complete the troubleshooting process.
+
+**5)** Run your Windows Update again and see if your error is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### on Windows 11
+
+**1)** On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
+
+**2)** From the left navigation panel, select**System** . Click**Troubleshoot** .
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
+
+**3)** Click**Other troubleshooters** .
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
+
+**4)** Click on the**Run** button next to**Windows Update** .
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**5)** Follow the on-screen instructions to complete the troubleshooting process.
+
+**6)** Run your Windows Update again and see if your error is fixed.
+
+## Method 2: Check for malicious software
+
+ Your error may occur because of interference from malicious software. You should run a scan on your computer for any malicious program.
+
+ You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
+
+## Method 3: Restart your Windows Update associated services
+
+ You may get the service not running error because the services associated with your Windows Update are disabled. You should restart those services and see if this fixes your error. To do so:
+
+**1)** Press the**Windows logo key** and**R** on your keyboard to invoke the Run box.
+
+**2)** Type “_services.msc_ ” and click**OK** to open the_Services_ snap-in.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
+
+**3)** Double click **Background Intelligent Transfer Service** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
+
+**4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
+
+**5)** Double click**Cryptographic Services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
+
+**6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
+
+**7)** Double click**Windows Update** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
+
+**6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
+
+## Method 4: Clear the SoftwareDistribution folder
+
+ The SoftwareDistribution folder stores temporary files for Windows Update. You may get the error due to corruption issues with these files. To see if these files are the cause, you should remove all the content of this folder.
+
+**1)** Press the**Windows logo key** and**R** on your keyboard to invoke the Run box.
+
+**2)** Type “_services.msc_ ” and click**OK**  to open the_Services_ snap-in.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
+
+**3)** Click**Windows Update** and then click**Stop** (the service).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
+
+**5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
+
+**6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
+
+## Method 5: Update your device drivers
+
+ Your error may occur because you’re using a wrong device driver or it’s out of date. To see if that’s the case for you, you should check your computer and update all those outdated or wrong drivers.
+
+ Updating drivers can consume a lot of time. But if you want to do it easily and quickly, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+**Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ):
+
+**1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
+
+**2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
+
+**4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-discover-the-top-10-efficiency-boosters-for-fcp-for-2024/"><u>[New] Discover the Top 10 Efficiency Boosters for FCP for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-list-7-high-quality-vids-on-mac/"><u>[New] Prime List 7 High-Quality Vids on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsmp4/"><u>高速化・大量データのMTSからMP4への変換テクニック - 効率的な方法を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ppt-gifpowerpoint/"><u>迅速なPPT GIF変換：PowerPoint使い方ビデオテックニック</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-downloadfacebookcontent-the-premiere-addons-and-browser-plugins-for-facebook-videos-firefox-edition/"><u>In 2024, DownloadFacebookContent! - The Premiere Addons and Browser Plugins for Facebook Videos, FireFox Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-recording-updated-techniques-to-record-from-crunchyroll-in-four-ways/"><u>Mastering Screen Recording: Updated Techniques to Record From Crunchyroll in Four Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-orientation-changes-tips-for-quickly-rotating-clips-in-media-player-classic/"><u>Mastering Video Orientation Changes: Tips for Quickly Rotating Clips in Media Player Classic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-guide-fast-dvd-ripping-with-windows/"><u>Quick & Easy Guide: Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-through-your-dvd-duplication-process-on-windows-1011/"><u>Quick Guide: Speeding Through Your DVD Duplication Process on Windows 10/11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-capturing-your-hearthstone-matches-on-windows-pc/"><u>Step-by-Step Guide: Capturing Your Hearthstone Matches on Windows PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-to-effective-imagery-discovery-on-facebook-platforms/"><u>Unlocking the Secrets to Effective Imagery Discovery on Facebook Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-public-domain-image-sites-to-explore/"><u>Updated 2024 Approved Best Public Domain Image Sites to Explore</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Updated 2024 Approved Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsm2ts-wmv/"><u>フリーソフトで MTS/M2TS から WMV への変換手順</u></a></li>
+</ul></div>
+

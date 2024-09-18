@@ -1,7 +1,7 @@
 ---
 title: "Debugging Tips: Overcoming Write Failures on Referenced Memory Addresses"
-date: 2024-09-11T15:38:15.536Z
-updated: 2024-09-12T15:38:15.536Z
+date: 2024-09-12T02:40:06.044Z
+updated: 2024-09-17T19:12:22.862Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -45,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -61,43 +47,15 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Try the Cast to Device feature again to see if it succeeds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
@@ -106,33 +64,20 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -148,6 +93,14 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -171,20 +124,20 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-update-error-0x8024401c-in-windows-1011/"><u>[Fixed] Windows Update Error 0X8024401c in Windows 10/11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>[New] 2024 Approved Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-make-facebook-videos-full-screen/"><u>2023 | How to Make Facebook Videos Full Screen?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>2024 Approved Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-k11x-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo K11x Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/combatting-copypaste-complications-in-windows-10/"><u>Combatting Copy/Paste Complications in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flawless-fix-strategies-for-windows-update-error-code-0x80240017-no-more-setbacks/"><u>Flawless Fix Strategies for Windows Update Error Code 0X80240017 - No More Setbacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-invalid-registry-setting-making-photos-not-open-in-windows-continue-(httpt4speccxresolve-invalid-registry-errors-on-windows-10)/"><u>How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] <http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/></u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-uncooperative-usb-mouse-back-on-track-with-these-fixes/"><u>How to Get Your Uncooperative USB Mouse Back on Track with These Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212036791-icue-no-device-trouble-heres-how-you-can-fix-it/"><u>ICUE 'No Device' Trouble? Here's How You Can Fix It</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-m34-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy M34 Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-techniques-for-common-windows-update-issue-error-80070103/"><u>Mastering Troubleshooting Techniques for Common Windows Update Issue (Error 80070103)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y78plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y78+ Phone Network-Ready</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[Updated] 2024 Approved Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>2024 Approved Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-find-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Find X6 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-x3daudio17dll-recovery-techniques/"><u>Efficient X3DAudio1_7.dll Recovery Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-system-error-5-has-occurred-error-on-windows-11-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 11, 7 & 8 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-solving-errors-in-your-windows-software-installers/"><u>Identifying and Solving Errors in Your Windows Software Installers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-free-4k-video-converters-for-windows-and-mac/"><u>In 2024, Best Free 4K Video Converters for Windows and Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-a2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo A2</u></a></li>
+<li><a href="https://extra-support.techidaily.com/internet-radio-streaming-made-easy-your-recording-guidebook-for-2024/"><u>Internet Radio Streaming Made Easy Your Recording Guidebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-glitches-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Glitches with These Simple Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-cheat-sheet-for-overcoming-the-notorious-steam-black-screen-glitch/"><u>The Complete Cheat Sheet for Overcoming the Notorious Steam Black Screen Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-0x80072efd-error-on-your-pc-windows-10-guide/"><u>Troubleshooting and Repairing the 0X80072EFD Error on Your PC - Windows 10 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-microphone-problems-on-windows-11-computers/"><u>Troubleshooting Nonfunctional Microphone Problems on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-the-missing-binkw32dll-error-message/"><u>Troubleshooting Tips for The Missing binkw32.dll Error Message</u></a></li>
 </ul></div>
 

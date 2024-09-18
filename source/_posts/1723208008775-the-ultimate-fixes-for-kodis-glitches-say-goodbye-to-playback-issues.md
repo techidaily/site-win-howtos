@@ -1,0 +1,169 @@
+---
+title: "The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues"
+date: 2024-09-11T16:35:35.559Z
+updated: 2024-09-17T19:27:15.493Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues"
+excerpt: "This Article Describes The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues"
+thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9fdf1c818444f469b9c52d07.PNG
+---
+
+## PUBG Lag Woes? Discover the Ultimate Fixes for a Seamless Play
+
+If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alone.
+
+ But don’t worry – check out the following 5 steps below and you can make all the difference…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 5 fixes for PUBG lag
+
+ All the steps below work in Windows 10\. Just work your way down the list to reduce lag:
+
+1. **[Run PUBG in windowed full screen](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Close unused apps and set high priority for PUBG](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Lower your game resolution](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Change the power option and adjust for best performance](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Run PUBG in windowed full screen
+
+ Running PUBG in windowed full screen is a proven effective way to reduce lag. To do so:
+
+ While in PUBG, press**Alt** and**Enter** at the same time.
+
+ Once you’re in windowed full screen mode, check if the lag issues have reduced. If yes, then great! If the lag issues remain, please move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Close unused apps and set high priority for PUBG
+
+ Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
+
+1. On your keyboard, press **Ctrl** , **Shift**   and **Esc**   at the same time to open **Task Manager** .
+2. Right-click on the programs you don’t need to run at the moment and click **End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7311c0152.jpg)
+3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
+4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
+
+---
+
+### Fix 3: Lower your game resolution
+
+Running PUBG in a lower resolution can also help in fixing lag:
+
+1. Create a shortcut of your PUBG, then right-click on the**shortcut** and click**Properties** .
+2. Under the **Shortcut** tab, in **Target** field, leave**a space** and type**resolution:** **the resolution of your preference** (1024×768 for example).
+3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Update your graphics drivers
+
+ The PUBG lag problem may also occur if you’re using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+ 3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Start a new game in PUBG to see if the PUBG lap problem has been resolved. If yes, then congrats! But if the issue persists, please move on to**Fix 5** , below.
+
+---
+
+### Fix 5: Change the power option and adjust for best performance
+
+ By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
+
+ Also the system performance on our computer may also be undermined for the advanced graphics features.
+
+So to tweak the settings:
+
+1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+2. Choose the **High performance** option.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
+4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+ There you go – top 5 fixes for you to reduce PUBG lag. Hope this helps and feel free to comment below if you have any further questions or ideas to share with us. 🙂
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[New] Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cross-platform-comparison-iphone-vs-android-youtube-viewing-for-2024/"><u>[Updated] Cross-Platform Comparison IPhone vs Android YouTube Viewing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-3d-entrance-makers-for-youtube-creators/"><u>[Updated] In 2024, Best 3D Entrance Makers for YouTube Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-achieving-distraction-free-video-conferencing-with-skype/"><u>2024 Approved Achieving Distraction-Free Video Conferencing with Skype</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spinning-tales-embracing-the-full-rotational-vision/"><u>2024 Approved Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-to-address-and-rectify-a-blinking-cursor-issue/"><u>A Step-By-Step Tutorial to Address and Rectify a Blinking Cursor Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/altering-meeting-screens-in-microsoft-teams-for-2024/"><u>Altering Meeting Screens in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-sign-in-error-messages-with-windows-user-profile-services-on-1011-systems/"><u>Effective Solutions for Overcoming Sign-In Error Messages with Windows User Profile Services on 10/11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-google-chromes-errcachemiss-error/"><u>Effective Solutions to Overcome Google Chrome's ERR_CACHE_MISS Error</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-save-or-record-periscope-videos-complete-guide/"><u>How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-type-errors-corrected-enjoy-smooth-typing-once-again/"><u>Keyboard Type Errors Corrected: Enjoy Smooth Typing Once Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-top-issues-for-a-smooth-black-ops-4-experience/"><u>Troubleshooting Top Issues for a Smooth Black Ops 4 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
+</ul></div>
+

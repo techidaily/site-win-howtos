@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome the Windows Update Fiasco: A Guide to Solving Error 0X8024200d"
-date: 2024-09-11T15:37:48.910Z
-updated: 2024-09-12T15:37:48.910Z
+date: 2024-09-14T19:39:25.690Z
+updated: 2024-09-17T23:28:09.140Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -59,13 +46,6 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
@@ -79,13 +59,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -101,22 +74,15 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupted system files
@@ -134,21 +100,7 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -159,10 +111,10 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow  
@@ -187,6 +139,14 @@ sfc /scannow
 2. Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
@@ -213,21 +173,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-approach-for-automatic-youtube-video-playback-for-2024/"><u>[New] Facebook's Approach for Automatic YouTube Video Playback for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-you-have-been-disconnected-from-blizzard-services/"><u>[SOLVED] You Have Been Disconnected From Blizzard Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-vrs-negative-aspects/"><u>2024 Approved Navigating VR's Negative Aspects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-ways-to-fix-desktop-window-manager-high-gpu-usage-in-windows-1011/"><u>5 Ways to Fix Desktop Window Manager High GPU Usage in Windows 10/11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-a-broken-dell-wireless-keyboard-effective-solutions-and-tips/"><u>Dealing With a Broken Dell Wireless Keyboard – Effective Solutions and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solution-retrieving-lost-desktop-shortcuts-in-windows-10-operating-system/"><u>Easy Solution: Retrieving Lost Desktop Shortcuts in Windows 10 Operating System</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-x6-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X6 Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
-<li><a href="https://article-files.techidaily.com/proven-approaches-for-large-media-file-transfers-from-iphones-to-macs/"><u>Proven Approaches for Large Media File Transfers From iPhones to Macs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dreaded-error-1068-in-windows-a-step-by-step-guide/"><u>Resolving the Dreaded Error 1068 in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/set-you-apart-on-snapchat-explore-over-120-innovative-narrative-ideas-for-stories-for-2024/"><u>Set You Apart on Snapchat Explore Over 120 Innovative Narrative Ideas for Stories for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/subscribe-to-success-amazons-top-4-selling-points-of-kindle-unlimited/"><u>Subscribe to Success: Amazon's Top 4 Selling Points of Kindle Unlimited</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-solutions-3d-models-in-animation-space-for-2024/"><u>Superior Solutions 3D Models in Animation Space for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-casting-glitches-solved-get-your-devices-connected-again/"><u>Windows 10 Casting Glitches Solved: Get Your Devices Connected Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10-constant-restarts-troubleshooting-guide/"><u>Winning Against Windows 10 Constant Restarts - Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-inspiring-lifestyle-content-for-viewers/"><u>[New] 2024 Approved Building Inspiring Lifestyle Content for Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-reimagine-your-storytelling-with-smartly-scaled-instagram-videos/"><u>2024 Approved Reimagine Your Storytelling with Smartly Scaled Instagram Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-c55-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-download-of-official-hp-wifi-driver-software-on-windows-computers/"><u>Easy Download of Official HP WiFi Driver Software on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-curated-selection-of-top-ranking-free-software-to-delete-programs-seamlessly/"><u>Explore Our Curated Selection of Top-Ranking Free Software to Delete Programs Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-troubleshooting-fixing-error-0x8024401c-in-windows-update-for-users-of-windows-1011/"><u>In-Depth Troubleshooting: Fixing Error 0X8024401c in Windows Update for Users of Windows 10/11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/loop-creator-pro-for-2024/"><u>Loop Creator Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209048194-no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-resetting-failed-mishaps-in-windows-10-recovery-options-solutions-that-work/"><u>Overcoming Resetting Failed Mishaps in Windows 10 Recovery Options: Solutions That Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-academia-with-ai-4-innovative-tools-for-better-research/"><u>Revolutionizing Academia with AI: 4 Innovative Tools for Better Research</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-enable-and-start-hosted-wi-fi-functionality-in-windows-10/"><u>Step-by-Step Guide to Enable and Start Hosted Wi-Fi Functionality in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-strategies-for-overcoming-the-0xc0000098-code-on-pc/"><u>Ultimate Troubleshooting Strategies for Overcoming the 0xC0000098 Code on PC</u></a></li>
 </ul></div>
 

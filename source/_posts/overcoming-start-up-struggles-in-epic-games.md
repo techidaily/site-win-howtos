@@ -1,7 +1,7 @@
 ---
 title: Overcoming Start-Up Struggles in Epic Games
-date: 2024-09-11T15:40:19.189Z
-updated: 2024-09-12T15:40:19.189Z
+date: 2024-09-16T17:16:45.231Z
+updated: 2024-09-17T23:11:17.222Z
 tags:
   - win11
   - win10
@@ -21,13 +21,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 fixes for **Overwatch voice chat not working**
 
@@ -54,19 +47,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
@@ -85,32 +65,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
@@ -119,10 +78,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
@@ -139,14 +98,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Check your in-game audio settings
 
@@ -157,19 +116,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -196,21 +142,16 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-ps2-replay-on-android-devices-top-picks/"><u>[Updated] 2024 Approved Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>2024 Approved The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://facebook.techidaily.com/decision-on-trump-account-shelved-by-facebook-watchdog/"><u>Decision on Trump Account Shelved by Facebook Watchdog</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-persistent-computer-hangs-and-stops-working-problems/"><u>DIY Solutions for Persistent Computer Hangs and Stops Working Problems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-hp-deskjet-3702-printer-drivers-latest-updates-available/"><u>Download HP DeskJet 3702 Printer Drivers - Latest Updates Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computing-with-toms-gear-hub-detailed-analyses-and-tips/"><u>Exploring Computing with Tom's Gear Hub: Detailed Analyses and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-the-restart-cycle-in-windows-1011-a-comprehensive-guide/"><u>How to Break Free From the Restart Cycle in Windows 10/11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/m1-pro-vs-m1-max-a-detailed-comparison-of-apple-chipsets/"><u>M1 Pro Vs. M1 Max A Detailed Comparison of Apple Chipsets</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-the-art-of-astro-driver-updates-in-windows-environments/"><u>Master the Art of Astro Driver Updates in Windows Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-windows-stuck-on-restarting-issue-a-guide-for-11-and-10-users/"><u>Overcome Windows Stuck on Restarting Issue: A Guide for 11 & #10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-brightness-settings-not-working-problem-in-windows-10/"><u>Resolving the 'Brightness Settings Not Working' Problem in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-connection-woes-heres-how-you-can-restore-access-to-game-content-servers/"><u>Steam Connection Woes? Here’s How You Can Restore Access to Game Content Servers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-7-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 7 Plus Activation Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-reduce-excessive-cpu-usage-by-msmpengexe-in-windows-11-step-by-step-fix/"><u>Troubleshoot and Reduce Excessive CPU Usage by MsMpEng.exe in Windows 11 - Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-non-charging-surface-device-issues-and-fixes/"><u>Troubleshooting Your Non-Charging Surface Device - Issues and Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>Unlock Clarity in Photos Leading 10 Online Edits at a Glance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-precision-editing-unveiled-harnessing-the-potential-of-ps-background-erasure-feature/"><u>[Updated] 2024 Approved Precision Editing Unveiled Harnessing the Potential of PS Background Erasure Feature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-sliding-the-timer-on-snapchat-videos/"><u>2024 Approved Sliding the Timer on Snapchat Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-mp3/"><u>DVDオーディオコンテンツのダウンロード変換 - MP3フォーマット化ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-methods-for-transforming-dts-tracks-to-common-stereo-codecs-such-as-wav-flac-and-more/"><u>Easy Methods for Transforming DTS Tracks to Common Stereo Codecs Such as WAV, FLAC, and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-resolve-unidentified-codec-error-in-vlc-media-player/"><u>Easy Solutions to Resolve 'Unidentified Codec' Error in VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-restore-your-plex-streaming-experience-on-different-screens/"><u>Easy Troubleshooting Tips to Restore Your Plex Streaming Experience on Different Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flying-vs-capturing-dji-action-gopro-max-instax360/"><u>In 2024, Flying Vs. Capturing DJi Action, GoPro Max, InstaX360</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-perfect-your-video-dimensions-on-youtube-for-max-impact/"><u>In 2024, Perfect Your Video Dimensions on YouTube for Max Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-rookies-guide-to-youtube-entrepreneurship-and-earnings-for-2024/"><u>The Rookie's Guide to YouTube Entrepreneurship and Earnings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-effortless-zooming-on-snapchat/"><u>The Ultimate Guide to Effortless Zooming on Snapchat</u></a></li>
 </ul></div>
 

@@ -1,0 +1,136 @@
+---
+title: "Expert Advice: Handling and Correcting the 0X800F0922 Update Error in Windows 11"
+date: 2024-09-16T00:24:03.092Z
+updated: 2024-09-17T23:56:35.317Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Expert Advice: Handling and Correcting the 0X800F0922 Update Error in Windows 11"
+excerpt: "This Article Describes Expert Advice: Handling and Correcting the 0X800F0922 Update Error in Windows 11"
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
+---
+
+## The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c434dca99.jpg)
+
+ When you attempts to connect your system to a wireless network, if you’re getting the**Error 1068: The dependency service or group failed to start** error on your Windows computer, it could be super frustrating. Don’t worry. You’re certainly not the only one. We’ve seen many users are reporting this issue. More importantly, you can fix it with the solutions here. Read on and see how…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 3 Fixes for Error 1068
+
+1. **[Restart the WLAN AutoConfig service](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Repair your registry](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
+
+### Solution 1: Restart the WLAN AutoConfig service
+
+ This error could happen if the WLAN AutoConfig service isn’t correctly configured on your computer. In this case, you can try to restart the service to solve your problem.
+
+See how to do it:
+
+1. On your keyboard, hold down the**Windows logo key** and press**R** to bring up the Run box.
+2. Type**services.msc** , then press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c45b02d97.png)
+3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
+4. **Double-click** WLAN AutoConfig.
+5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
+
+ Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
+
+### Solution 2: Repair your registry
+
+ When your system settings are not configured properly, this error may also occur. You can solve it through repairing your registry.
+
+Here’s how you can do it:
+
+1. On your keyboard, hold down the**Windows logo key** and press**R** to bring up the Run box.
+2. Type**regedit** , then press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca32dcfd4.png)
+3. Click**Yes** when prompted by User Account Control.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
+4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
+5. Right-click**Dhcp** under the Services section to select**Export** .  
+ Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
+6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
+7. Right-click**Eaphost** under the Services section to select**Export** .  
+ Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
+8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
+
+ Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Solution 3: Update your network adapter driver
+
+ This problem could be also due to**a corrupted, old or missing network driver** on your system. So you can solve it through updating your network driver.
+
+ Updating drivers require Internet connection on your computer. If your computer can’t access the wireless network, try to connect your computer to a wired network connection or, you can try the[Offline Scan](https://tools.techidaily.com/drivereasy/download/) feature of Driver Easy.
+
+You can update your network driver either manually or automatically.
+
+#### Manual driver update
+
+ You can update your network driver manually by going to the manufacturer’s website for your network adapter, say,**Realtek** , and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
+
+#### Automatic driver update
+
+ If you don’t have the time, patience or computer skills to update your network driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact network adapter, and your Windows version, and it will download and install them correctly.
+
+ You can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You’re done. Feel free to comment below if you have any question.
+
+* [error](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-chromebook-screen-capture-simplified-into-four-methods-for-2024/"><u>[New] Chromebook Screen Capture Simplified Into Four Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-squared-success-creating-compelling-video-posts-on-facebook/"><u>[Updated] In 2024, Squared Success Creating Compelling Video Posts on Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-look-at-hand-recognition-systems/"><u>2024 Approved A Complete Look at Hand Recognition Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-complete-tutorial-on-saving-your-instagram-story/"><u>2024 Approved A Complete Tutorial on Saving Your Instagram Story</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cda-to-wav/"><u>初心者にもわかるCDA to WAV変換テクニックガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-nvme-drives-on-windows-driver-setup-tutorial/"><u>Easy Installation of NVMe Drives on Windows - Driver Setup Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-edge-2023-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Edge 2023 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-applecare-plus-worth-it-5-reasons-why-you-should-get-an-extended-warranty/"><u>Is AppleCare Plus Worth It? 5 Reasons Why You Should Get an Extended Warranty</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-f5-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco F5 Pro 5G Device</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-poco-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Poco</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Endless Wait Times in Valorant - Steps to Resolve the Issue
-date: 2024-09-11T15:38:47.206Z
-updated: 2024-09-12T15:38:47.206Z
+date: 2024-09-15T01:06:08.977Z
+updated: 2024-09-17T20:21:48.330Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Since this cause may vary from person to person, so here we provide more than one fix so that you can better solve your problem. You may not need to try them all; just walk your way down until you find the one that works.
@@ -49,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Type and copy this command below and press**Enter** .
 
 msdt.exe -id DeviceDiagnostic
@@ -73,13 +53,6 @@ msdt.exe -id DeviceDiagnostic
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. You may need to restart your PC for the changes to take full effect.
 
@@ -98,13 +71,6 @@ msdt.exe -id DeviceDiagnostic
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your camera drivers
 
@@ -140,10 +106,10 @@ msdt.exe -id DeviceDiagnostic
 ![settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Select**Apps** .
@@ -151,41 +117,28 @@ msdt.exe -id DeviceDiagnostic
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Locate**Camera** and select**Advanced options** .
 
 ![app and features](https://images.drivereasy.com/wp-content/uploads/2021/03/image-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
 
- It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
-
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
 
 ### Fix 5: Run the System File Checker
 
@@ -196,10 +149,10 @@ msdt.exe -id DeviceDiagnostic
 ![command prompt](https://images.drivereasy.com/wp-content/uploads/2021/03/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click**Yes** when prompted for consent.
@@ -235,14 +188,19 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-prime-zero-cost-switch-mimicry-apps/"><u>[Updated] Prime Zero-Cost Switch Mimicry Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionize-your-discord-community-with-these-bots/"><u>[Updated] Revolutionize Your Discord Community with These Bots</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-neo-5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme GT Neo 5 Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-destiny-2-startup-glitch-initialization-error-solutions/"><u>Overcoming Destiny 2 Startup Glitch: Initialization Error Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pixels-to-percussion-composing-visuals-in-video-for-2024/"><u>Pixels to Percussion Composing Visuals in Video for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210066041-resolving-adobe-flash-player-crashes-on-google-chrome-solved/"><u>Resolving Adobe Flash Player Crashes on Google Chrome - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-client-bootstrapper-has-stopped-working-solved/"><u>Steam Client Bootstrapper Has Stopped Working [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-group-policy-client-service-failed-the-logon-solved/"><u>The Group Policy Client Service Failed the Logon [SOLVED]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-steam-disk-write-failure-step-by-step-solutions/"><u>Troubleshooting the Steam Disk Write Failure - Step-by-Step Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-12-sites-for-premium-free-photography-images/"><u>[New] 2024 Approved Top 12 Sites for Premium-Free Photography Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-iphone-photography-playbook/"><u>[New] In 2024, The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tech-savvy-tips-for-lenovo-display-capture/"><u>[New] Tech-Savvy Tips for Lenovo Display Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-essential-tips-for-adding-captions-and-text-in-microsoft-photos-app/"><u>2024 Approved Essential Tips for Adding Captions & Text in Microsoft Photos App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-officejet-5255-software-updates-and-driver-downloads/"><u>Get the Newest HP OfficeJet 5255 Software Updates and Driver Downloads</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-6-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 6 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-money-with-top-deals-on-1440p-gaming-screens/"><u>Mastering Your Money with Top Deals on 1440P Gaming Screens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-dormant-windows-pci-controller/"><u>Reviving Dormant Windows PCI Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-acquiring-e-copies-for-movies-in-your-library/"><u>Step-by-Step Tutorial on Acquiring E-Copies for Movies in Your Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-guide-enjoying-mkv-files-on-ps4-best-setup-tips/"><u>Successful Guide: Enjoying MKV Files on PS4 – Best Setup Tips</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-dvd-to-avi-converter-software-for-windows-10-and-11/"><u>Top-Rated DVD to AVI Converter Software for Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcode-dvds-effortlessly-how-to-turn-them-into-mp4mkvmov-files/"><u>Transcode DVDs Effortlessly - How to Turn Them Into MP4/MKV/MOV Files!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-resolving-youtube-not-responding-on-your-android-device/"><u>Troubleshooting Common Issues: Resolving 'YouTube Not Responding' On Your Android Device</u></a></li>
 </ul></div>
 

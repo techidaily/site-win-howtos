@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your Windows 10 Computer Stops Responding
-date: 2024-09-11T15:39:48.784Z
-updated: 2024-09-12T15:39:48.784Z
+date: 2024-09-16T18:30:44.428Z
+updated: 2024-09-18T00:54:24.381Z
 tags:
   - win11
   - win10
@@ -26,32 +26,12 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2）Click**Turn system icons on or off**.  
   
@@ -62,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
@@ -83,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -100,13 +60,6 @@ Follow these:
  \[Alternatively, you can update your AC adapter driver automatically via **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  \]  
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
@@ -130,13 +83,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -154,19 +100,27 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-accelerated-pathway-through-keying-fundamentals/"><u>[New] 2024 Approved Accelerated Pathway Through Keying Fundamentals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/configuring-picture-in-picture-for-apple-browsers/"><u>Configuring Picture-in-Picture for Apple Browsers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211439583-device-unveiled-revolutionary-speed-boost-achieved/"><u>Device Unveiled: Revolutionary Speed Boost Achieved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-correct-error-0x800f0831-with-a-windows-update-troubleshoot/"><u>Effortlessly Correct Error 0X800f0831 with a Windows Update Troubleshoot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-11-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 11 Pro?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamlining-remote-collaboration-master-skypes-screen-share-tools/"><u>In 2024, Streamlining Remote Collaboration Master Skype’s Screen-Share Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-art-of-looking-back-unveiling-reversed-images-on-social-media/"><u>In 2024, The Art of Looking Back Unveiling Reversed Images on Social Media</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-nubia-red-magic-9-proplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nubia Red Magic 9 Pro+ Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maintain-your-organization-files-stay-fixed-in-windows-11-upon-rebooting/"><u>Maintain Your Organization: Files Stay Fixed in Windows 11 Upon Rebooting</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/multimedia-designers-space-for-2024/"><u>Multimedia Designer's Space for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nubia-z50-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nubia Z50 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-methods-to-boost-image-resolution-a-comprehensive-guide/"><u>Top 5 Methods to Boost Image Resolution : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-10-update-errors-v1803-fixes/"><u>Troubleshooting and Resolving Windows 10 Update Errors - v1803 Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-networking-problem-0x800704cf-expert-tips-for-users/"><u>Troubleshooting and Resolving Windows Networking Problem 0X800704cf: Expert Tips for Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-step-by-written-by-a-lawyer/"><u>[New] A Step-By Written by a Lawyer?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-passion-to-prominence-the-creators-quest/"><u>2024 Approved From Passion to Prominence The Creator's Quest</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-film-editing-final-cut-pro-101/"><u>2024 Approved Perfecting Film Editing Final Cut Pro 101</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aesthetics-and-athleticism-collide-in-our-in-depth-look-at-the-amazfit-gts-smartwatch/"><u>Aesthetics and Athleticism Collide in Our In-Depth Look at the Amazfit GTS Smartwatch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-true-performance-determining-ideal-pc-speed/"><u>Assessing True Performance: Determining Ideal PC Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-downloads-of-premium-ulozto-content-secrets-to-speed-and-full-hd-retrievals-unveiled/"><u>Free Downloads of Premium Ulozto Content - Secrets to Speed and Full HD Retrievals Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 13 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iphoneandroiddvd-seo/"><u>IPhoneやAndroidでライブDVDのコンテンツを簡単に移行する手順 - SEO</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4awav-itunes/"><u>M4AファイルからWAVへの変換ガイド - iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/meet-the-new-sharp-will-revolutionary-naked-eye-3d-features-in-an-android-device/"><u>Meet the New Sharp Will: Revolutionary Naked Eye-3D Features in an Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-not-found-all-is-well-with-wonderfox-access-restored/"><u>Page Not Found? All Is Well with WonderFox - Access Restored!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-and-smartphone-mp3-recording-techniques/"><u>PC & Smartphone MP3 Recording Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook-for-2024/"><u>Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3avi-202cuarto/"><u>これがトップ【MP3へのAVI変換】: 『202Cuarto』で最強リスト・オブ・フリーソフトを発表！</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

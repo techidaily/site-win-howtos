@@ -1,7 +1,7 @@
 ---
 title: Easy Repair Guide for Tackling Equipment Readiness Errors
-date: 2024-09-14T01:46:55.763Z
-updated: 2024-09-17T22:33:21.100Z
+date: 2024-09-21T17:55:49.916Z
+updated: 2024-09-22T22:13:16.227Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Here are the steps to repair Apex Legends in Origin:
 
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Easy Anti-Cheat and Apex Legends through the firewall to make sure that the connection isn’t lost.
@@ -93,24 +100,24 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
-4. Once completed, click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
+4. Once completed, click**OK** .
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
@@ -124,14 +131,22 @@ Here are the steps to repair Apex Legends in Origin:
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
@@ -155,21 +170,20 @@ Here are the steps to repair Apex Legends in Origin:
 3. Double-click **Origin** to uninstall it.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
@@ -195,20 +209,20 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration/"><u>[Updated] 2024 Approved Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-gopros-capabilities-for-capturing-dynamic-time-lapse-videos/"><u>[Updated] Unveiling GoPro's Capabilities for Capturing Dynamic Time-Lapse Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/banish-the-bsod-expert-tips-to-resolve-the-0x000000d1-problem/"><u>Banish the BSOD: Expert Tips to Resolve the 0X000000D1 Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-dvd-to-psp-movie-transfers-your-guide-to-enjoying-dvd-content-on-ps4/"><u>Effortless DVD-to-PSP Movie Transfers: Your Guide to Enjoying DVD Content on PS4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-techniques-to-separate-singing-voices-from-background-music/"><u>Free Techniques to Separate Singing Voices From Background Music</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-parchment-to-paperbacks-the-quintessential-quest-for-classics-for-2024/"><u>From Parchment to Paperbacks The Quintessential Quest for Classics for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-no-cost-dvd-decoding-tool-for-modern-windows-systems/"><u>Get Your No-Cost DVD Decoding Tool for Modern Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-video-playback-problems-on-ipads/"><u>Guide to Troubleshooting Video Playback Problems on iPads.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-post-gifs-across-facebooks-platform-comments-statuses-and-chat/"><u>How to Easily Post GIFs Across Facebook's Platform – Comments, Statuses, & Chat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-free-downgrade-proofly-retrieve-sound-tracks-from-matroska-videos-in-simple-ways/"><u>How to Free Downgrade-Proofly Retrieve Sound Tracks From Matroska Videos in Simple Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-turn-any-video-file-into-an-easy-fun-gif-using-the-free-vlc-software/"><u>How to Turn Any Video File Into an Easy, Fun GIF Using the Free VLC Software!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Ace 2V Phone without Google Account?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-zero-price-virtual-gatherings/"><u>In 2024, The Ultimate Guide to Zero-Price Virtual Gatherings</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-prospect-of-a-social-network-backed-local-shopping-center/"><u>Unveiling the Prospect of a Social Network-Backed Local Shopping Center</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images/"><u>Updated The Ultimate FCPX Cropping Guide Resize and Refine Your Images</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-culinary-quests-tiktoks-best-food-content/"><u>[New] In 2024, Culinary Quests TikTok's Best Food Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-control-enhancing-gameplay-on-steam-using-switch-pro-for-2024/"><u>[Updated] Effortless Control Enhancing Gameplay on Steam Using Switch Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-game-streaming-tool-analysis-choose-obs-or-shadowplay/"><u>[Updated] Game Streaming Tool Analysis Choose OBS or ShadowPlay?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mp4-capture-and-analysis-toolkit/"><u>[Updated] MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-optimizing-image-storage-advanced-techniques-in-image-compression-by-movavi/"><u>1. Optimizing Image Storage: Advanced Techniques in Image Compression by Movavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-visual-capture-specialists-top-10-tools/"><u>2024 Approved Visual Capture Specialists' Top 10 Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-download-the-elite-z270-gaming-pro-carbon-drivers/"><u>Elevate Your Gaming Experience - Download the Elite [Z270 Gaming Pro Carbon Drivers]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-convert-files-to-w64-and-wav-formats-with-ease-movavi/"><u>Free Online Audio Converter: Convert Files to W64 and WAV Formats with Ease - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavimod-diy/"><u>Movaviを使ったコストフリーMOD動画編集 - DIYガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-slow-mo-to-fast-mo-10-best-free-video-speed-editor-apps-for-ios-and-android/"><u>New In 2024, Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-votre-video-au-format-avi-de-gratuit-logiciel-convertisseur-en-lignes-chez-movavi/"><u>Transformer Votre Vidéo Au Format AVI De Gratuit - Logiciel Convertisseur en Lignes Chez Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-video-mka-direttamente-in-formato-mp3-gratuitamente-usando-il-servizio-di-conversione-gratuito-movavi/"><u>Trasforma I Tuoi Video MKA Direttamente in Formato MP3 Gratuitamente Usando Il Servizio Di Conversione Gratuito Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmvmpeg-videoswitcherpro/"><u>ウムレスインターネットで簡単WMV変換ツーMPEG - VideoSwitcherPro</u></a></li>
 </ul></div>
 

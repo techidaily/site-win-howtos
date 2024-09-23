@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions When the Function (Fn) Key Won't Work
-date: 2024-09-16T18:03:32.107Z
-updated: 2024-09-18T02:30:11.224Z
+date: 2024-09-21T18:06:41.836Z
+updated: 2024-09-22T19:14:48.633Z
 tags:
   - win11
   - win10
@@ -132,18 +132,18 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
@@ -152,10 +152,10 @@ If you want to make Origin always run as administrator, take these steps:
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
@@ -176,16 +176,16 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -206,21 +206,21 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] In 2024, Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alternative-ebook-reading-apps-for-ios-devices-that-work-as-great-substitutes-to-adobe-digital-editions/"><u>Alternative eBook Reading Apps for iOS Devices That Work as Great Substitutes to Adobe Digital Editions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-how-ai-transforms-intellectual-property-laws/"><u>Decoding How AI Transforms Intellectual Property Laws</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-value-with-the-2020-apple-iphone-se-where-smart-meets-affordable/"><u>Discovering Value with the 2020 Apple iPhone SE: Where Smart Meets Affordable</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dvd-mp3/"><u>DVDオーディオコンテンツのダウンロード変換 - MP3フォーマット化ガイド</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-updating-fingerprint-drivers-on-windows-machines/"><u>Easy Guide to Downloading and Updating Fingerprint Drivers on Windows Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-methods-for-transforming-dts-tracks-to-common-stereo-codecs-such-as-wav-flac-and-more/"><u>Easy Methods for Transforming DTS Tracks to Common Stereo Codecs Such as WAV, FLAC, and More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-resolve-unidentified-codec-error-in-vlc-media-player/"><u>Easy Solutions to Resolve 'Unidentified Codec' Error in VLC Media Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-restore-your-plex-streaming-experience-on-different-screens/"><u>Easy Troubleshooting Tips to Restore Your Plex Streaming Experience on Different Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-converting-big-files-into-mp4-format/"><u>Effective Techniques for Converting Big Files Into MP4 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficiently-convert-your-dvds-to-high-quality-avi-files-using-the-leading-programs-for-pcs-windows-1011/"><u>Efficiently Convert Your DVDs to High-Quality AVI Files Using the Leading Programs for PCs (Windows 10/11)</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-future-proof-file-storage-essential-cloud-services-revealed/"><u>In 2024, Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2024-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2024) Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-common-crashes-in-world-of-warships-for-windows-discover-our-5-key-remedies/"><u>Navigate Common Crashes in World of Warships for Windows: Discover Our 5 Key Remedies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[New] 2024 Approved How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-final-step-delete-your-youtube-shorts-link/"><u>[New] 2024 Approved The Final Step Delete Your YouTube Shorts Link</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-comparison-game-youtube-against-dailymention/"><u>[Updated] 2024 Approved The Comparison Game YouTube Against DailyMention</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-chromes-pip-feature-across-devices/"><u>2024 Approved Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/clarity-comparison-assessing-qhd-vs-4k-uhd-vs-1080p-for-optimal-visual-experience/"><u>Clarity Comparison: Assessing QHD Vs. 4K UHD Vs. 1080P for Optimal Visual Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-of-2d-animation-programs-compare-free-vs-paid-versions-for-your-project-needs/"><u>Discover the Ultimate List of 2D Animation Programs: Compare Free Vs. Paid Versions for Your Project Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mod-to-avi-conversion-no-cost-use-moveavis-online-tool/"><u>Easy MOD to AVI Conversion - No Cost, Use MoveAVi's Online Tool!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-tool-from-avi-to-m4a-movavi/"><u>Free Online Conversion Tool From AVI to M4A - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-webm-files-to-m4v-format-effortless-video-editing/"><u>Free Online Converter: Change WebM Files to M4V Format - Effortless Video Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-7-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 7 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-places-to-find-high-quality-vectors/"><u>In 2024, Prime Places to Find High-Quality Vectors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-free-conversion-dalla-raw-foto-al-png-senza-costi-convertire-online-con-efficienza/"><u>Movavi Free Conversion: Dalla RAW Foto Al PNG Senza Costi - Convertire Online Con Efficienza</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-listening-experience-on-movavi-mp3-player-advanced-setup-guide/"><u>Optimize Your Listening Experience on Movavi Mp3 Player - Advanced Setup Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-wav-online/"><u>무료 WMA-WAV 변환 서비스 - 컴퓨터를 사용하여 Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Modify Security Protocols for Successful File Retrieval and Download"
-date: 2024-09-11T01:51:38.711Z
-updated: 2024-09-17T18:59:08.111Z
+date: 2024-09-15T20:47:54.418Z
+updated: 2024-09-22T17:59:53.100Z
 tags:
   - win11
   - win10
@@ -129,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -141,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
  2) Click **System** .
@@ -155,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -211,20 +211,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-unleash-your-tiktok-potential-50plus-powerful-quotes-reviewed-for-2024/"><u>[New] Unleash Your TikTok Potential 50+ Powerful Quotes Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tele-loop-triumph-repeat-your-favorite-video-anytime-on-tv/"><u>2024 Approved Tele-Loop Triumph Repeat Your Favorite Video Anytime on TV</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-zte-blade-a73-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On ZTE Blade A73 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-your-own-singing-spectacular-a-guide-to-creating-memorable-karaoke-nights-at-home/"><u>DIY Your Own Singing Spectacular: A Guide to Creating Memorable Karaoke Nights at Home</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/end-wows-annoying-visual-stutter-for-good-heres-your-guide/"><u>End Wow's Annoying Visual Stutter for Good - Here's Your Guide!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211487783-fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-overheating-issue-on-your-hp-spectre-x360-laptop/"><u>How to Resolve the Overheating Issue on Your HP Spectre X360 Laptop</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-silence-to-symphony-adding-audio-elements-to-instareels/"><u>In 2024, From Silence to Symphony Adding Audio Elements to InstaReels</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-infinite-load-screen-problems-in-valorant-a-complete-guide/"><u>Resolving the Infinite Load Screen Problems in VALORANT - A Complete Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streaming-success-recorded-google-chats/"><u>Streaming Success Recorded Google Chats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-laptops-effective-strategies-and-fixes/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Laptops: Effective Strategies and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-full-potential-of-your-file-explorer-in-windows-10/"><u>Unlock the Full Potential of Your File Explorer in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-update-failure-cracking-the-0xc1900208-barrier-a-comprehensive-fix/"><u>Windows 10 Update Failure - Cracking the 0xC1900208 Barrier: A Comprehensive Fix</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities/"><u>[New] 2024 Approved Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-integration-select-the-top-6-editing-apps-post-snow-leopard/"><u>[New] Innovative Integration Select the Top 6 Editing Apps Post-Snow Leopard</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-download-playback-streaming-youtube-videos-on-ios-securely-and-smoothly/"><u>[Updated] 2024 Approved Download Playback Streaming Youtube Videos on iOS Securely and Smoothly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-business-with-azure-speech-services/"><u>[Updated] Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-fixed-shorts-are-now-easily-accessible/"><u>[Updated] YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-copilot-basic-and-premium-versions-to-upgrade-or-not-to-upgrade/"><u>Differences Between Copilot Basic & Premium Versions: To Upgrade or Not to Upgrade?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-no-cost-apps-for-creating-unique-iphone-ringtones-top-picks-and-reviews/"><u>Discover the Best No-Cost Apps for Creating Unique iPhone Ringtones – Top Picks & Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/il-guidone-segreto-alle-8-lame-magiche-per-convertire-videoclip-in-gif-rapidi-e-ottimizzati/"><u>Il Guidone Segreto Alle 8 Lame Magiche per Convertire Videoclip in GIF Rapidi E Ottimizzati</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-movavis-unique-rules-for-reimbursement-policies/"><u>Navigating Movavi's Unique Rules for Reimbursement Policies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-cost-image-exchange-seamlessly-switch-from-pcx-to-jpg-using-online-tools/"><u>No Cost Image Exchange: Seamlessly Switch From PCX to JPG Using Online Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-audio-file-converter-rapidamente-transforme-auvs-em-mp3-wma-e-outros-formatos/"><u>Online Audio File Converter - Rapidamente Transforme AUVs Em MP3, WMA E Outros Formatos</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726029524680-pc/"><u>PCやスマートフォンで動画の回転方法を学ぶ</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-phantom-v-fold-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Phantom V Fold Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

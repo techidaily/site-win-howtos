@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Getting Your Dell's USB Port Up & Running Again
-date: 2024-09-10T23:09:53.041Z
-updated: 2024-09-17T19:11:19.993Z
+date: 2024-09-19T00:48:04.061Z
+updated: 2024-09-22T19:40:36.832Z
 tags:
   - win11
   - win10
@@ -59,27 +59,36 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
@@ -103,13 +112,6 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  If you have any other suggestions or questions, please feel free to leave a comment below.
@@ -131,15 +133,17 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-apps-for-3d-video-intros-on-social-platforms/"><u>2024 Approved Best Apps for 3D Video Intros on Social Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-lol-pvpnet-patcher-kernel-has-stopped-working-easily/"><u>Fix LOL PvP.net Patcher Kernel Has Stopped Working Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a59-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A59 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms/"><u>In 2024, Meme-Ology The Science of Popularizing Video Laughs on Social Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-could-not-perform-the-requested-operation-by-wrp-in-windows/"><u>Solution Guide for 'Could Not Perform the Requested Operation' By WRP in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-fixing-unknown-usb-device-detected-problems-and-port-resets-in-windows-10/"><u>Step-by-Step Solutions: Fixing 'Unknown USB Device Detected' Problems and Port Resets in Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-unboxing-magic-7-ways/"><u>Transforming Unboxing Magic 7 Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-pdf-printing-problems-on-windows-11-operating-system/"><u>Troubleshooting PDF Printing Problems on Windows 11 Operating System</u></a></li>
-<li><a href="https://win-dash.techidaily.com/up-to-date-nvidia-rtx-2080-video-card-driver-downloads-windows-compatibility-guide/"><u>Up-to-Date NVIDIA RTX 2080 Video Card Driver Downloads: Windows Compatibility Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[New] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>2024 Approved Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/die-fuhrenden-youtube-content-creatoren-von-heute-gratis-download-und-monetarisierungseffekte-die-top-13-fuhrenden-youtube-inhalts-ersteller-kostenfreie-dow23/"><u>Die Führenden Youtube-Content Creatoren Von Heute – Gratis Download Und Monetarisierungseffekte (Die Top 13 Führenden YouTube-Inhalts Ersteller - Kostenfreie Downloads Und Effekt Der Monetarisierung)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pc-tune-ups-wins-prime-performance-hacks/"><u>Essential PC Tune-Ups: Win's Prime Performance Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-mov-to-flv-conversion-moovavi/"><u>Free Online MOV to FLV Conversion - Moovavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-completa-para-grabar-pantalla-en-windows-con-movavi-screen-recorder/"><u>Guía Completa Para Grabar Pantalla en Windows Con Movavi Screen Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-huawei-p60-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Huawei P60 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-a78-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A78 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-era-of-ai-artistry-with-dall-e-3s-editable-tools-still-evolving/"><u>The New Era of AI Artistry with DALL-E 3'S Editable Tools - Still Evolving</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-net-neutrality-a-comprehensive-guide/"><u>Understanding Net Neutrality: A Comprehensive Guide</u></a></li>
 </ul></div>
 

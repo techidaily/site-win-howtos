@@ -1,7 +1,7 @@
 ---
 title: Bypassing the 'New World' EAC Error – Effective Strategies for Gamers
-date: 2024-09-12T18:38:44.587Z
-updated: 2024-09-17T19:19:57.354Z
+date: 2024-09-19T19:42:15.640Z
+updated: 2024-09-22T16:23:24.688Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
@@ -73,10 +80,10 @@ Here are the steps to repair Apex Legends in Origin:
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
@@ -99,20 +106,29 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -136,13 +152,6 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Launch the game to see if you can play without error.
 
 **Here’s how to reinstall Origin:**
@@ -151,21 +160,14 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
@@ -194,19 +196,17 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-principles-of-crafting-compelling-youtube-introduction-vids/"><u>[Updated] Principles of Crafting Compelling YouTube Introduction Vids</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-for-identifying-and-fixing-mistakes-in-excel-spreadsheets/"><u>Effective Techniques for Identifying and Fixing Mistakes in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-high-voltage-incidents-at-your-hub-port/"><u>Expert Guide: Overcoming High Voltage Incidents at Your Hub Port</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-easily-enable-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Guide: Easily Enable Bluetooth on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ragnors-rebirth-warriors-alliance/"><u>In 2024, Ragnor's Rebirth Warriors Alliance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics-for-2024/"><u>Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-web-app-construction-through-chatgpt-integration/"><u>Mastering Web App Construction Through ChatGPT Integration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recover-lost-footage-with-diy-skills/"><u>Recover Lost Footage with DIY Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-troublesome-0xc19amo-update-error-in-windows-10-a-step-by-step-solution/"><u>Resolving the Troublesome 0xC19amo Update Error in Windows 10: A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-on-acquiring-authorization-from-trustedinstaller-to-modify-files/"><u>The Ultimate Guide on Acquiring Authorization From TrustedInstaller To Modify Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-affordable-video-editing-tools-for-indie-filmmakers/"><u>Updated Top 10 Affordable Video Editing Tools for Indie Filmmakers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-creativity-6-approaches-for-recording-minecraft-games-for-2024/"><u>[Updated] Capturing Creativity 6 Approaches for Recording Minecraft Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-insights-crafting-youtube-trailers-using-filmora/"><u>[Updated] Professional Insights Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-makeover-easy-avatar-construction/"><u>2024 Approved The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-13-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 13 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bending-words-in-media-landscapes-for-2024/"><u>Bending Words in Media Landscapes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tech-for-instant-time-lapse-videos/"><u>Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-conversion-libre-y-gratuita-de-archivos-rw2-a-formato-jpeg-digitalmente/"><u>Movavi - Conversión Libre Y Gratuita De Archivos RW2 a Formato JPEG Digitalmente</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/prime-spots-for-downloading-authentic-natural-auditory-experiences-for-2024/"><u>Prime Spots for Downloading Authentic Natural Auditory Experiences for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-the-web-the-impact-of-ai-powered-search-engine-upgrades/"><u>Transforming the Web: The Impact of AI-Powered Search Engine Upgrades</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutoriel-complet-creation-de-videos-pour-mac-avec-movavi-guide-facile-a-suivre/"><u>Tutoriel Complet: Création De Vidéos Pour Mac Avec MOVAVI - Guide Facile À Suivre</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-mixed-teaching-methods-with-our-definitive-guide-to-blended-learning-strategies/"><u>Unlock the Potential of Mixed Teaching Methods with Our Definitive Guide to Blended Learning Strategies</u></a></li>
 </ul></div>
 

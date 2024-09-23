@@ -1,7 +1,7 @@
 ---
 title: "Laptop Audio Issues Resolved: Reviving Your Computer's Microphone"
-date: 2024-09-16T19:17:49.260Z
-updated: 2024-09-18T00:43:42.782Z
+date: 2024-09-16T23:38:08.479Z
+updated: 2024-09-22T22:30:19.305Z
 tags:
   - win11
   - win10
@@ -124,6 +124,13 @@ Now check to see your mic is back on track.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -132,29 +139,28 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -179,18 +185,18 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>[Updated] In 2024, Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-up-content-creation-standard-studio-vs-beta-access/"><u>[Updated] Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-clearing-the-path-for-your-facebook-visuals-to-shine/"><u>2024 Approved Clearing the Path for Your Facebook Visuals to Shine</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c12-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C12 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-ios-data-recovery-tools-of-2024-top-picks-with-ios-17-compatibility/"><u>Best iOS Data Recovery Tools of 2024: Top Picks with iOS 17 Compatibility</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamless-speaking-in-google-meet-sessions/"><u>In 2024, Seamless Speaking in Google Meet Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/microsofts-submarine-data-facility-success-of-project-natick-with-reduced-on-land-equipment-breakdown-rates/"><u>Microsoft's Submarine Data Facility: Success of Project Natick with Reduced On-Land Equipment Breakdown Rates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc2024ts/"><u>PC上にて2024年版TSファイルの再生法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-conversion-of-videos-into-mp3-format-a-step-by-step-guide/"><u>Seamless Conversion of Videos Into MP3 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamlessly-change-your-pictures-to-sound-a-step-by-step-guide-for-mp3-creation-from-imgs/"><u>Seamlessly Change Your Pictures to Sound: A Step-by-Step Guide for MP3 Creation From IMGs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-voice-recording-on-windows-11-pcs/"><u>Step-by-Step Guide to Voice Recording on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-acquiring-e-copies-for-movies-in-your-library/"><u>Step-by-Step Tutorial on Acquiring E-Copies for Movies in Your Library</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-capturing-and-saving-twitter-video-clips-everywhere/"><u>Step-by-Step Tutorial: Capturing and Saving Twitter Video Clips Everywhere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-sweet-snack-snapshot-review-deep-insight/"><u>[New] 2024 Approved Sweet Snack Snapshot Review Deep Insight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-analysis-of-the-high-def-sony-fdr-x1000-videographer/"><u>[Updated] Complete Analysis of the High-Def Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-opus-files-to-mp3-for-free-with-movavis-web-based-converter-service/"><u>Convert OPUS Files to MP3 for Free with Movavi's Web-Based Converter Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/drie-griffelijke-strategies-voor-laten-beheer-apparaatstjes-mobilhulpmiddelen-of-computern-inzake-podcast-downloads-naar-personalcomputermobiele-applicaties16/"><u>Drie Griffelijke Strategies Voor Laten Beheer Apparaatstjes, Mobilhulpmiddelen Of Computern Inzake Podcast-Downloads Naar Personalcomputer/Mobiele Applicaties</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-refreshing-your-presentations-in-microsoft-powerpoint/"><u>Easy Steps: Refreshing Your Presentations in Microsoft PowerPoint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-hangouts-ingangstappen-6-kostenloze-methoden-via-movavi/"><u>Google Hangouts Ingangstappen: 6 Kostenloze Methoden via Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-7-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 7 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/innovative-recording-methods-windows-10-guide/"><u>Innovative Recording Methods Windows 10 Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-clicks-big-grins-the-kinemaster-way/"><u>Quick Clicks, Big Grins The KineMaster Way</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-techniques-for-iphone-blackout-crisis/"><u>Step-by-Step Troubleshooting Techniques for iPhone Blackout Crisis</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/summer-discounts-buy-the-fantastic-wonderfox-dvd-video-transformer-from-our-website/"><u>Summer Discounts: Buy the Fantastic WonderFox DVD Video Transformer From Our Website</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-10-apps-for-free-photo-editing-settembre-2024/"><u>Top 10 Apps for Free Photo Editing - Settembre 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223452341-mka-mp3/"><u>무료 MKA MP3 변환 - 컴퓨터, 스마트폰에서 사용하는 최고의 툴</u></a></li>
 </ul></div>
 

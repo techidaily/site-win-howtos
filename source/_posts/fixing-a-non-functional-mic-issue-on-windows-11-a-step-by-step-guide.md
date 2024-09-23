@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Mic Issue on Windows 11: A Step-by-Step Guide"
-date: 2024-09-14T00:01:28.214Z
-updated: 2024-09-17T23:54:45.769Z
+date: 2024-09-19T19:29:57.413Z
+updated: 2024-09-22T21:42:43.199Z
 tags:
   - win11
   - win10
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
@@ -91,16 +91,16 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -111,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -129,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -140,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,15 +175,20 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-easily-through-trending-youtube-comments/"><u>2024 Approved Navigating Easily Through Trending YouTube Comments</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-steps-when-connected-to-a-remote-server-fails/"><u>Easy Troubleshooting Steps When Connected to a Remote Server Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80073cf9-decoded-your-guide-to-fixing-windows-10-store-issues/"><u>Error Code 0X80073CF9 Decoded: Your Guide to Fixing Windows 10 Store Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-itel-p55plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Itel P55+ Location | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-how-to-correct-livekernelevent-error-117/"><u>Mastering the Art of Troubleshooting: How to Correct LiveKernelEvent Error 117</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-pc-issues-with-fifa-19-steps-to-prevent-unnecessary-game-crashes/"><u>Overcome PC Issues with FIFA 19: Steps to Prevent Unnecessary Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-lost-volume-control-addressing-the-no-audio-output-installed-warning-in-modern-windows-os/"><u>Quick Fixes for Lost Volume Control: Addressing the 'No Audio Output Installed' Warning in Modern Windows OS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-portability-a-deep-dive-into-the-lenovo-thinkpad-x1-fold/"><u>Revolutionizing Portability: A Deep Dive Into the Lenovo ThinkPad X1 Fold</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unlock-great-sound-a-comprehensive-guide-to-fcp-audio-editing/"><u>Updated Unlock Great Sound A Comprehensive Guide to FCP Audio Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>[New] 2024 Approved Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-6-unobtrusive-applications-for-android-captures-for-2024/"><u>[New] Top 6 Unobtrusive Applications for Android Captures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asfavimovavi/"><u>移動ASF文件無限制地到AVI格式中，Movavi 上線解決方案</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-v29e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo V29e Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-editors-windows-movie-maker-vs-movavi-video-suite/"><u>Comparing Editors: Windows Movie Maker Vs. Movavi Video Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/create-gif-images-from-ts-videos-at-no-cost-discover-how-movavis-web-based-service-facilitates-quick-conversions/"><u>Create GIF Images From TS Videos at No Cost - Discover How Movavi's Web-Based Service Facilitates Quick Conversions!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-nvme-drivers-on-your-windows-pc-a-step-by-step-guide/"><u>Download & Install NVMe Drivers on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-scannen-van-cr2-biljetten-in-digitale-beeldvorming-omzetten-en-opslaan-via-movavi/"><u>Gratis Scannen Van CR2-Biljetten in Digitale Beeldvorming - Omzetten en Opslaan via Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-the-powerful-microsoft-365-software-on-your-desktop-pc/"><u>Installing the Powerful Microsoft 365 Software on Your Desktop PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-survival-guide-overcoming-common-obstacles-and-challenges/"><u>New 2024 Approved FCPX Survival Guide Overcoming Common Obstacles and Challenges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-for-implementing-filter-features-in-videos/"><u>Simple Methods for Implementing Filter Features in Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-art-of-video-blending-using-modes-mastery-for-2024/"><u>The Art of Video Blending Using Modes Mastery for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-video-editing-software-enhance-your-creative-videos/"><u>Top Video Editing Software: Enhance Your Creative Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-un-fichier-ogg-en-format-avi-sur-internet-sans-cout-avec-convertisseur-movieedit/"><u>Transférer Un Fichier OGG en Format AVI Sur Internet Sans Coût Avec Convertisseur - MovieEdit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-aiff-audio-to-mp4-quickly-and-effortlessly-no-cost/"><u>Transform AIFF Audio to MP4 Quickly and Effortlessly - No Cost!</u></a></li>
 </ul></div>
 

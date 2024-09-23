@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Professional Video Cropping Techniques by Movavi for Flawless Edits
-date: 2024-09-12 22:13:56
-updated: 2024-09-13 12:50:51
+date: 2024-09-21T23:20:36.253Z
+updated: 2024-09-22T19:45:55.617Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e1d979284c574fcec450998c.jpg
@@ -222,11 +222,25 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -235,6 +249,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -344,6 +365,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -423,6 +451,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -536,11 +571,30 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-tiktok-with-mac-key-knowledge-points/"><u>[Updated] 2024 Approved Navigating TikTok with Mac Key Knowledge Points</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-secrets-to-procuring-gratis-picture-frame-media/"><u>[Updated] 2024 Approved Secrets to Procuring Gratis Picture Frame Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/analisis-detallado-y-recomendaciones-para-el-screenrec-de-202n4-por-parte-de-los-expertos-de-movavi/"><u>Análisis Detallado Y Recomendaciones Para El ScreenRec De 202N4 Por Parte De Los Expertos De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-de-ffm-a-formato-wav-sin-coste-haga-clic-para-probarlo-hoy/"><u>Convertidor De FFM a Formato WAV Sin Coste - Haga Clic Para Probarlo Hoy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/facile-conversion-swf-vers-3gp-enligne-sans-frais-movavi/"><u>Facile Conversion SWF Vers 3GP Enligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-ott-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .ott file free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-htc-u23-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast HTC U23 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-converter-mac-oturen-visselperlig-konvertering-fra-mkv-mp4-og-flv-til-formater-som-du-tar-bruk-af/"><u>Movavi Video Converter Mac Oturen: Visselperlig Konvertering Fra MKV, MP4 Og FLV Til Formater Som Du Tar Bruk Af</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-bild-verarbeitung-and-konvertierung-kostenlose-losungen-von-movavi-definiert/"><u>Online Bild Verarbeitung & Konvertierung: Kostenlose Lösungen Von Movavi Definiert</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iming-deleted-youtube-treasures-a-2-step-guide/"><u>Reclaiming Deleted YouTube Treasures A 2-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-of-brains-unveiling-the-distinctions-between-strong-and-weak-ai/"><u>The Battle of Brains: Unveiling the Distinctions Between Strong and Weak AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/verdingvrije-muziekconvertor-mod-naar-mp3-met-movavi-online-gratis-en-gemakkelijk-te-gebruiken/"><u>Verdingvrije Muziekconvertor MOD Naar MP3 Met Movavi - Online Gratis en Gemakkelijk Te Gebruiken</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/your-ultimate-guide-to-binge-watching-anime-on-youtube/"><u>Your Ultimate Guide to Binge-Watching Anime on Youtube</u></a></li>
+</ul></div>
+

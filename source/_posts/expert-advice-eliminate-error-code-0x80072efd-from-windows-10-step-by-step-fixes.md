@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes"
-date: 2024-09-16T22:46:05.975Z
-updated: 2024-09-17T21:59:55.206Z
+date: 2024-09-18T22:23:03.537Z
+updated: 2024-09-23T00:56:07.321Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -92,26 +85,20 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     It may take several minutes for this command operation to be completed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -126,10 +113,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. When this command operation is completed, close **Command Prompt** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
@@ -143,22 +130,37 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -186,21 +188,20 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-why-integrate-hdr-into-your-film-and-video-workflow-for-2024/"><u>[New] Why Integrate HDR Into Your Film and Video Workflow for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-get-winxvideo-ai-now-ultimate-app-for-android-and-ios-mobile-devices/"><u>1. Get WinxVideo AI Now: Ultimate App for Android and iOS Mobile Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-humorhub-easy-login-easy-signup/"><u>2024 Approved HumorHub Easy Login, Easy Signup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-fixes-for-the-frustrating-error-code-0x80072f8f-on-your-pc-windows-10-and-11-edition/"><u>Definitive Fixes for the Frustrating Error Code 0X80072F8F on Your PC: Windows 10 & 11 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-an-unresponsive-integrated-webcam-on-your-pc-running-windows/"><u>Effective Solutions for an Unresponsive Integrated Webcam on Your PC Running Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-correct-and-stop-windows-update-error-code-0x802n4002e-from-affecting-your-pc/"><u>Effective Ways to Correct and Stop Windows Update Error Code 0X802n4002E From Affecting Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-message-demystified-correcting-error-224003-to-enjoy-your-videos-again/"><u>Error Message Demystified: Correcting Error 224003 to Enjoy Your Videos Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-the-hiccup-that-prevented-your-software-from-running-smoothly-fixed/"><u>Guide to Repairing The Hiccup That Prevented Your Software From Running Smoothly [FIXED]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-cloud-costs-in-depth-price-analysis-and-best-options/"><u>In 2024, Mastering Cloud Costs In-Depth Price Analysis & Best Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204826575-pdf-wont-print-discover-effective-tricks-immediately/"><u>PDF Won't Print? Discover Effective Tricks Immediately!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-ensuring-smooth-boot-of-valheim-during-the-231-bit-era/"><u>Troubleshooting Tips: Ensuring Smooth Boot of Valheim During the 2^31-Bit Era</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-keys-in-windows-acers-silent-struggle-ended/"><u>Unlocking Keys in Windows, Acer's Silent Struggle Ended</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-the-basics-of-chinese-social-interactions/"><u>Unveiling the Basics of Chinese Social Interactions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726221444995-mp3-flac/"><u>영구 메모리 갤라 MP3-FLAC 번역 - 무료 서비스</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-game-recording-software-ranked-and-rated/"><u>[New] Top 5 Game Recording Software Ranked and Rated</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wtv-mkv-movavi/"><u>立即無限制地逆向解碼 WTV 成 MKV - 使用 Movavi 免費轉換工具</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Vivo S17e</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-productivity-top-7-tips-for-mastering-windows-11/"><u>Boosting Productivity: Top 7 Tips for Mastering Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-fotos-nef-directamente-a-jpeg-sin-costo-usando-movavi-tutorial-completo/"><u>Convertir Fotos NEF Directamente a JPEG Sin Costo Usando Movavi: Tutorial Completo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dettagli-sui-file-wmv-e-come-sbloccarne-il-contenuto-sul-tuo-computer/"><u>Dettagli Sui File WMV E Come Sbloccarne Il Contenuto Sul Tuo Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-mp3-files-into-3gp-format-with-movavi/"><u>Free Online Converter - Transform MP3 Files Into 3GP Format with Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-10-unique-video-reaction-strategies-for-online-enthusiasts/"><u>In 2024, 10 Unique Video Reaction Strategies for Online Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peek-into-innovation-with-microsofts-hololens-review/"><u>In 2024, Peek Into Innovation with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailor-made-fee-free-epilogue-music-templates/"><u>In 2024, Tailor-Made, Fee-Free Epilogue Music Templates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/istruzioni-sui-modi-di-pagamento-con-movavi-scopri-le-opzioni/"><u>Istruzioni Sui Modi Di Pagamento Con Movavi – Scopri Le Opzioni</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpeg-files-to-mov-format-conversion-quick-easy-and-free-online-tool/"><u>MPEG Files to MOV Format Conversion - Quick, Easy & FREE Online Tool</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ts-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-jp2-photos-to-jpeg-without-costs-using-our-simple-web-tool/"><u>Transform Your JP2 Photos to JPEG Without Costs Using Our Simple Web Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-night-mode-is-unresponsive-in-windows-11/"><u>Troubleshooting Steps When Night Mode Is Unresponsive in Windows 11</u></a></li>
 </ul></div>
 

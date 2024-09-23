@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for When You Can't Connect to Destiny 2 Servers
-date: 2024-09-12T00:17:06.639Z
-updated: 2024-09-18T00:36:09.132Z
+date: 2024-09-15T18:56:11.282Z
+updated: 2024-09-22T20:03:38.570Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 3: Run System File Checker
 
  As Internet Explorer is a built-in browser, corrupted system files could cause IE not responding properly. Then you can use **System File Scanner**  to run a scan.
@@ -75,6 +82,14 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 3. Click **Yes**  at the **User Account Control** prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  There’s a space between **sfc**  and **/scannow**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977592dab5b.jpg)
 5. When the verification reaches 100%, you’ll see something like this if issues were found and corrected:  
@@ -83,13 +98,6 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 6. Check if you can open IE normally.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Disable your security software
 
@@ -103,6 +111,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 5: **Restore your system to a restore point**
 
  If none of the above works, you may try using System Restore to undo system changes and sort out the issue. Following are steps of how to restore your system to a restore point.
@@ -111,27 +126,21 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977ba6da9ba.jpg)
 2. When the **System Restore**  window pops up, select **Choose a different restore point**  and click **Next**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bc3e7e53.jpg)
 3. **Check**  the box beside **Show more restore points**  , and select a point in time when you remember IE was last working properly, then click   **Next.**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977be68701e.jpg)
 4. Save any open files on your PC, then click   **Finish.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hopefully this can help you out.
 
@@ -153,27 +162,14 @@ Hopefully this can help you out.
 3. Click the **Update** button next to your network adapter driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _**all**_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785e720824.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -196,18 +192,15 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-journey-to-visual-impact-with-simple-lenses/"><u>[Updated] Journey to Visual Impact with Simple Lenses</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-guide-10-superior-vimeo-downloader-apps-for-2024/"><u>[Updated] Ultimate Guide 10 Superior Vimeo Downloader Apps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-seamless-social-journey-from-instaplustik-for-2024/"><u>Crafting a Seamless Social Journey From Insta+Tik for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-5-redefined-emerging-features-we-eagerly-watch/"><u>GPT-5 Redefined: Emerging Features We Eagerly Watch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g42-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G42 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-troubleshooting-fixing-error-0x8024401c-in-windows-update-for-users-of-windows-1011/"><u>In-Depth Troubleshooting: Fixing Error 0X8024401c in Windows Update for Users of Windows 10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-buzz-of-the-new-m4-mac-mini-projections-for-specs-costs-and-launch-schedule/"><u>Inside the Buzz of the New M4 Mac Mini - Projections for Specs, Costs & Launch Schedule</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-free-top-10-mp4-video-editing-software/"><u>New 2024 Approved The Best of Free Top 10 MP4 Video Editing Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209048194-no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/selecting-the-top-series-on-discovery-plus-this-july-expert-picks/"><u>Selecting the Top Series on Discovery Plus This July - Expert Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-strategies-for-overcoming-the-0xc0000098-code-on-pc/"><u>Ultimate Troubleshooting Strategies for Overcoming the 0xC0000098 Code on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-y100i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-methods-for-capturing-roblox-games-on-macos/"><u>[Updated] 2024 Approved Top 5 Methods for Capturing Roblox Games on macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-professional-edits-including-sounds-in-premiere-projects/"><u>[Updated] Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-guide-to-eliminate-insta-suggest-feature/"><u>[Updated] In 2024, Guide to Eliminate Insta Suggest Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-setting-up-logitech-g600-drivers-on-your-computer/"><u>Complete Guide to Downloading and Setting Up Logitech G600 Drivers on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-y-convertir-videos-gratis-a-formato-mp4-con-conversor-de-video-online/"><u>Descargar Y Convertir Videos Gratis a Formato MP4 Con Conversor De Video Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-professional-video-production-with-ben-jacklin-at-movavi/"><u>Discover Professional Video Production with Ben Jacklin at Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/edit-your-videos-on-an-iphone-swiftly-with-these-6-simple-steps-explore-movavi-clips/"><u>Edit Your Videos on an iPhone Swiftly with These 6 Simple Steps - Explore Movavi Clips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/guiding-principles-for-modifying-photographic-identities-on-major-social-platforms/"><u>Guiding Principles for Modifying Photographic Identities on Major Social Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-finest-selection-of-emulation-software-for-steam-decks/"><u>The Finest Selection of Emulation Software for Steam Decks</u></a></li>
 </ul></div>
 

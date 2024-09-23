@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System
-date: 2024-09-16T23:47:27.603Z
-updated: 2024-09-17T22:49:37.955Z
+date: 2024-09-16T22:28:44.661Z
+updated: 2024-09-23T00:47:50.754Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### in Windows 11
 
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**control panel** and hit Enter.
@@ -122,37 +115,44 @@ Now your print to PDF should work properly.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
  3) Find and right-click on Microsoft Print to PDF under Printers dialog. Then click **Remove device** . Click **Yes**  when asked to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **The printer that I want isn’t listed** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Tick on **Add a local printer or network printer with manual settings** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Choose**PORTPROMPT: (Local Port)** from the drop-down list under Use an existing port. Then click **Next** .
 
@@ -170,6 +170,13 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) You have restored the Microsoft Print to PDF. Click **Finish**  to complete the process.
  You can use it properly now.
 
@@ -179,16 +186,16 @@ Now your print to PDF should work properly.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and click **Printers & scanners** .
 
@@ -197,13 +204,6 @@ Now your print to PDF should work properly.
  4) Find **Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click on the button**Remove** .
 
@@ -252,19 +252,15 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-images-deciphered-your-source-hunting-companion-for-2024/"><u>[New] Instagram Images Deciphered Your Source Hunting Companion for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-automatic-youtube-video-transition-tips-for-facebook-users/"><u>[Updated] Automatic YouTube Video Transition Tips for Facebook Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-larger-youtube-media/"><u>2024 Approved Mastering the Art of Larger YouTube Media</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-an-iconic-identity-on-instagram-with-these-9-tricks-for-2024/"><u>Crafting an Iconic Identity on Instagram with These 9 Tricks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-troublesome-windows-update-issue-code-0x8007001f/"><u>Effective Solutions for the Troublesome Windows Update Issue: Code 0X8007001f</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-store-not-opening-issue-solved/"><u>How to Fix Microsoft Store Not Opening Issue – Solved</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/modifying-facial-gender-on-snapchatinstagramfacebook-photos/"><u>Modifying Facial Gender on Snapchat/Instagram/Facebook Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rcs-explained-transforming-how-we-send-rich-media-messages/"><u>RCS Explained: Transforming How We Send Rich Media Messages</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-htc-u23-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock HTC U23 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-2024-solutions-to-overcome-pairing-problems-with-bluetooth-on-windows-11/"><u>The Definitive 2024 Solutions to Overcome Pairing Problems with Bluetooth on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixing-error-0x8024401c-on-windows-10-and-11-systems/"><u>Troubleshooting Guide for Fixing Error 0X8024401c on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-overcoming-device-connection-errors-during-casting/"><u>Windows 10: Overcoming Device Connection Errors During Casting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206386076-your-invisible-sd-no-more-anxiety/"><u>Your Invisible SD? No More Anxiety!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-spectral-revelations-drone-cams-overview/"><u>[Updated] 2024 Approved Spectral Revelations Drone Cams Overview</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-are-instagrams-video-selfies-truly-genuine/"><u>[Updated] Are Instagram's Video Selfies Truly Genuine?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-yuva-2-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Yuva 2 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-off-a-solution-for-windows-users/"><u>Bluetooth Off: A Solution for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-guide-dealing-with-the-0x80071ac3-volume-corruption-problem/"><u>Error Message Guide: Dealing with the 0X80071AC3 Volume Corruption Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10s-update-hurdle-solving-error-code-0xc1900208/"><u>How to Overcome Windows 10'S Update Hurdle – Solving Error Code 0Xc1900208</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-c67-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme C67 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-when-the-function-fn-key-wont-work/"><u>Step-by-Step Solutions When the Function (Fn) Key Won't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-your-images-true-self-a-canva-step-by-step/"><u>Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
 </ul></div>
 

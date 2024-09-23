@@ -1,0 +1,125 @@
+---
+title: Understanding and Solving the Infamous Unrecoverable DirectX Error
+date: 2024-09-16T20:58:15.380Z
+updated: 2024-09-22T22:33:37.453Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Understanding and Solving the Infamous Unrecoverable DirectX Error
+excerpt: This Article Describes Understanding and Solving the Infamous Unrecoverable DirectX Error
+thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg
+---
+
+## Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse
+
+**Mouse keeps disconnecting** on your computer? Don’t worry, it’s often quite not hard to fix at all…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 3 fixes for **Mouse keeps disconnecting**
+
+Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
+
+1. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Change power management settings for USB Root Hub**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Fix 1: Check for hardware issues
+
+1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
+2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
+
+---
+
+### Fix 2: Change power management settings for USB Root Hub
+
+Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
+
+1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
+3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
+You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 3: Update your device drivers
+
+This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
+
+**Driver Easy** will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+You can update your drivers automatically with either the [**Free**](https://tools.techidaily.com/drivereasy/download/)or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Restart your computer for the changes to take effect.
+5. Check to see if the mouse keeps disconnecting issue has been solved.
+
+If the issue still remains after using Driver Easy, please send us an email at <support@drivereasy.com>. Our support team will try their best to analyse and solve the issue for you.
+
+---
+
+Hopefully you have successfully resolved the mouse keeps disconnecting problem by now. If you have any ideas, suggestions or questions, please leave us a comment below. Thanks for reading!
+
+* [mouse](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>2024 Approved Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-aspire-c27-the-perfect-blend-of-style-and-functionality-in-an-all-in-one-desktop/"><u>Acer Aspire C27: The Perfect Blend of Style and Functionality in an All-in-One Desktop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-exceptional-results-using-copilots-complimentary-gpt-4-turbo-integration/"><u>Achieve Exceptional Results Using Copilot's Complimentary GPT-4 Turbo Integration</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-online-conversion-transforming-mxf-into-mp4-without-cost-best-practices-for-windows-and-mac/"><u>Easy Online Conversion: Transforming MXF Into MP4 Without Cost - Best Practices for Windows and Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-excessive-processor-load-from-windows-audio-services-isolation-problem/"><u>How to Stop Excessive Processor Load From Windows Audio Services Isolation Problem</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-asus-rog-phone-8-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Asus ROG Phone 8 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y36i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y36i for Parents | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-14-pro-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 14 Pro Max Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-12-proplus-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12 Pro+ 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-issue-when-your-backspace-key-isnt-functioning/"><u>Troubleshooting Tips: Fixing the Issue When Your Backspace Key Isn't Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-print-to-pdf-working-fixes-for-windows-1011-users-of-microsoft-office/"><u>Why Isn’t 'Print to PDF' Working? Fixes for Windows 10/11 Users of Microsoft Office</u></a></li>
+</ul></div>
+

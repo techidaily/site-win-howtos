@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Blue Screen of Death: Fix Your Windows 0xC0000098 Error Today"
-date: 2024-09-13T16:26:08.882Z
-updated: 2024-09-17T17:44:45.337Z
+date: 2024-09-20T21:14:23.277Z
+updated: 2024-09-22T19:09:48.702Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Restart the Windows Update service
 
  You may see this error code if there is something wrong with the Windows Update service. You can try restarting the Windows Update service to resolve this problem. Here’s how to do it:
@@ -88,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
@@ -113,8 +114,23 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![Fix 3 step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-5.jpg)
 6. Delete all the files in the folder **Download** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. In the Services window, right-click **Windows Update**  and select **Start** .  
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
 
@@ -150,24 +166,18 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. On your keyboard, type the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **sfc /scannow**  
 ![sfc sacannow](https://images.drivereasy.com/wp-content/uploads/2018/09/sfc-sacannow.jpg)
 3. When this command operation is completed, close the Command Prompt.
 
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
@@ -190,24 +200,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## This issue persists?
 
@@ -216,13 +212,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  All you need to do is **[buy a 1-year subscription to Driver Easy (just $29.95) and you get free technical support as part of your purchase](https://www.drivereasy.com/buy.php?comeid=de-buy-indirect)**  . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -245,19 +234,17 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-perfecting-profile-playlists-on-facebook-through-mobile/"><u>[New] 2024 Approved Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[New] How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments-for-2024/"><u>[Updated] Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] In 2024, Optimal MP4 Extractor From TikTok Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-apps-for-restoring-deleted-reminders-and-memos-on-ios-devices/"><u>Best Apps for Restoring Deleted Reminders and Memos on iOS Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-shape-study-overview/"><u>FB Video Shape Study Overview</u></a></li>
-<li><a href="https://fox-that.techidaily.com/hot-idevice-woes-identifying-and-fixing-excessive-heating-problems/"><u>Hot iDevice Woes: Identifying and Fixing Excessive Heating Problems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-can-i-share-youtube-videos-on-facebook-in-2024/"><u>How Can I Share YouTube Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-videos-to-the-no-cost-video-editing-tool-factory/"><u>Step-by-Step Guide: Adding Videos to the No-Cost Video Editing Tool - Factory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-dvds-to-playable-on-your-pc/"><u>Step-by-Step Guide: Converting DVDs to Playable on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-transform-your-stereo-into-a-51-channel-audio-system/"><u>Steps to Transform Your Stereo Into a 5.1 Channel Audio System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-converting-audio-files-into-high-quality-wav-format/"><u>The Ultimate Guide to Converting Audio Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-superior-4k-recording-software-for-windows-and-mac/"><u>The Ultimate List of Superior 4K Recording Software for Windows and Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-pc-video-editors-similar-to-gopro-quik-top-picks-for-2024/"><u>Updated PC Video Editors Similar to GoPro Quik Top Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-is-watching-facebook-on-the-television-set-a-future-possibility/"><u>[Updated] 2024 Approved Is Watching Facebook on the Television Set a Future Possibility?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>[Updated] Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-camera-roll-to-twitter-feed-video-posting-guide-for-2024/"><u>[Updated] From Camera Roll to Twitter Feed Video Posting Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-video-popularity-leading-trackers-for-youtube/"><u>[Updated] Unleashing Video Popularity Leading Trackers for YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>2024 Approved Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ipad-guide-creating-time-lapse-videos/"><u>2024 Approved IPad Guide Creating Time-Lapse Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-the-art-of-audio-alteration-in-sony-games/"><u>2024 Approved Master the Art of Audio Alteration in Sony Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gppwmv-movavi/"><u>免費移動電信格式翻譯：3GPP到WMV - 使用Movavi進行無線上的圖像編解碼</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726219728888-ogmmov-movavi/"><u>網路自由下將OGM改成MOV - Movavi 格式轉換工具</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-troubleshooting-failed-startup-issues/"><u>Baldur's Gate 3: Troubleshooting Failed Startup Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-liberation-convert-avi-files-into-free-ogg-format-with-movavi/"><u>Online Liberation: Convert AVI Files Into Free OGG Format with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-9-ultimate-collage-creation-tools-of-2024-for-android-and-iphone-users/"><u>Top 9 Ultimate Collage Creation Tools of 2024 for Android and iPhone Users</u></a></li>
 </ul></div>
 

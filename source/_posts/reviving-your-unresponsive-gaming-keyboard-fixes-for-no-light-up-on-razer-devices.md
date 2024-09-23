@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Unresponsive Gaming Keyboard: Fixes for No Light-Up on Razer Devices"
-date: 2024-09-13T16:07:44.026Z
-updated: 2024-09-17T16:23:20.199Z
+date: 2024-09-16T19:25:10.461Z
+updated: 2024-09-22T21:05:35.106Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,10 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -116,13 +123,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -140,22 +140,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -191,16 +185,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-blueprinting-a-buzz-creating-movie-snippet/"><u>[New] Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[New] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-live-broadcast-solutions/"><u>Cutting-Edge Live Broadcast Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-freezes-and-lag-a-step-by-step-guide-to-a-smooth-file-explorer-on-windows/"><u>Overcoming Freezes and Lag: A Step-by-Step Guide to a Smooth File Explorer on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-why-does-my-logitech-mouse-keep-losing-connection-in-windows/"><u>Solving the Puzzle: Why Does My Logitech Mouse Keep Losing Connection in Windows?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-methods-para-comprimir-un-archivo-de-video-en-formato-mov-y-reduciendo-su-dimension/"><u>Top Methods Para Comprimir Un Archivo De Video en Formato MOV Y Reduciendo Su Dimensión</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201145030-troubleshoot-missing-bluetooth-settings-in-windows-10-quick-and-easy-methods/"><u>Troubleshoot Missing Bluetooth Settings in Windows 10 - Quick & Easy Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208232763-windows-11-file-explorer-guide-enhance-your-organization-and-efficiency-skills/"><u>Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-libre-y-descentralizado-para-cambiar-flac-a-wav-por-movavi-sin-pagos/"><u>Convertidor Libre Y Descentralizado Para Cambiar FLAC a WAV Por Movavi - Sin Pagos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-aiff-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transform AIFF Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/high-definition-film-viewing-with-moviebox-compatible-with-pcs-running-windows-11/"><u>High-Definition Film Viewing with MovieBox - Compatible with PCs Running Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/improve-youtube-viewing-of-fb-videos-on-android-for-2024/"><u>Improve YouTube Viewing of FB Videos on Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-simplified-dynamic-range-photography/"><u>In 2024, In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-innovative-vertical-video-editing-for-instagrams-igtv/"><u>In 2024, Innovative Vertical Video Editing for Instagram's IGTV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-gyors-megujulas-4-a-kepernyo-takaritasanak-eleganten-feltoltenedesere/"><u>Windows 11 Gyors Megújulás 4: A Kepernyő Takarításának Eleganten Feltoltenedésére</u></a></li>
 </ul></div>
 

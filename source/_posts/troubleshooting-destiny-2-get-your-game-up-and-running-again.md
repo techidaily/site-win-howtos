@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Destiny 2: Get Your Game Up and Running Again!"
-date: 2024-09-16T03:30:34.726Z
-updated: 2024-09-18T01:07:54.442Z
+date: 2024-09-21T21:32:56.061Z
+updated: 2024-09-23T01:17:42.196Z
 tags:
   - win11
   - win10
@@ -87,9 +87,24 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -108,15 +123,22 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
-4. Click **3D** to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
+4. Click **3D** to open the 3D settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
@@ -124,19 +146,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -164,6 +173,20 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -175,23 +198,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
 3. Restart your PC to save the change.
 
 If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
@@ -227,19 +243,6 @@ If this fix doesn’t work for you, try the next fix, below.
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
 
 ---
@@ -265,15 +268,18 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-creating-illusionary-settings-with-instagrams-chroma-key/"><u>[New] In 2024, Creating Illusionary Settings with Instagram’s Chroma Key</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[Updated] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-v27-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V27 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-high-quality-dvd-extraction-no-transcoding-needed/"><u>Effortless High-Quality DVD Extraction: No Transcoding Needed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-capture-screen-movements-in-windows-1011-top-3-methods-explained/"><u>How to Capture Screen Movements in Windows 10/11 - Top 3 Methods Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/imgburn/"><u>ImgBurnを始める - セットアップから日本語化:初心者にぬくもりあふれるチュートリアル</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a15-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A15 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-forceful-file-removal-in-windows-10-and-11-with-revo-uninstallers-powerful-strategies/"><u>Master the Art of Forceful File Removal in Windows 10 and 11 with Revo Uninstaller's Powerful Strategies</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-slow-motion-magic-unlocking-the-power-of-windows-live-movie-maker/"><u>Updated In 2024, Slow Motion Magic Unlocking the Power of Windows Live Movie Maker</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726222111541-mov/"><u>いつもより軽やかにMOVファイルを簡単に変更する方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-affordable-techniques-to-enhance-written-content-with-media-for-2024/"><u>[Updated] Affordable Techniques to Enhance Written Content with Media for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-multimedia-mastery-upgrade-your-projects-with-movavi-software/"><u>1. Multimedia Mastery: Upgrade Your Projects with Movavi Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/7-compelling-arguments-showing-the-longevity-of-dvds-in-todays-digital-age/"><u>7 Compelling Arguments Showing the Longevity of DVDs in Today's Digital Age</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flv-a-formato-wma-con-movavi-online-guia-paso-a-paso/"><u>Conversión Gratuita De Archivos FLV a Formato WMA Con Movavi Online - Guía Paso a Paso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-without-hassle-moveavis-free-mpeg-wmv-and-avi-online-conversion-services/"><u>Convert Videos Without Hassle - Moveavi's Free MPEG, WMV and AVI Online Conversion Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kompletny-uvod-bec-na-viraceni-obrazek-pomoci-obs-expertni-priklad-jak-otevirat-lidi-ve-google-chrome/"><u>Kompletný Úvod Béč Na Víracení Obrázek Pomocí OBS: Expertní Příklad Jak Otevírat Lidi Ve Google Chrome</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-telegram-a-step-by-step-walkthrough/"><u>Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-asf-to-mov-file-transformation-a-cost-free-solution-by-movevideo/"><u>Online ASF to MOV File Transformation: A Cost-Free Solution by MoveVIdeo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-swf-to-mpeg-file-conversion-at-no-cost-efficient-and-easy-with-movavi/"><u>Online SWF-to-MPEG File Conversion at No Cost - Efficient & Easy with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-crafting-and-personalizing-your-contact-network-visualization-with-microsoft-excel/"><u>Step-by-Step Guide: Crafting and Personalizing Your Contact Network Visualization with Microsoft Excel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/videoworld-analysis-complete-studio-insights/"><u>Videoworld Analysis Complete Studio Insights</u></a></li>
 </ul></div>
 

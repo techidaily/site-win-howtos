@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing a Non-Responsive Backspace Button on Computers
-date: 2024-09-17T00:13:05.282Z
-updated: 2024-09-17T20:49:02.276Z
+date: 2024-09-15T16:47:36.286Z
+updated: 2024-09-22T16:31:23.653Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
@@ -86,10 +79,10 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
@@ -101,10 +94,10 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **f)** On**Permissions**tab, double click on**Administrators**.
@@ -118,6 +111,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -138,16 +138,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-guide-exploring-every-nook-and-cranny-of-stardew-valley-particularly-ginger-island/"><u>[Updated] Step-by-Step Guide Exploring Every Nook and Cranny of Stardew Valley, Particularly Ginger Island</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-social-media-visual-clarity-for-iphoneandroid-users/"><u>2024 Approved Optimize Social Media Visual Clarity for iPhone/Android Users</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreenhensive-guide-to-windows-graphics-reset-techniques/"><u>A Compreenhensive Guide to Windows Graphics Reset Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/einfach-und-effektiv-kombinieren-sie-mehrere-mp4-dateien-in-einen-einzigen-clip/"><u>Einfach Und Effektiv: Kombinieren Sie Mehrere MP4-Dateien in Einen Einzigen Clip</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-razr-40-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Razr 40 Ultra Easily?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-clearing-trash-on-mac/"><u>Mastering the Art of Clearing Trash on Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-based-dash-cam-footage-enhancement-a-step-by-step-guide/"><u>PC-Based Dash Cam Footage Enhancement: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/premiere-promp3wav/"><u>Premiere ProでMP3、WAV用に音声のみを書き起こす手段</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-dvd-cant-be-loaded-already-open-in-other-app-close-program-and-retry-issue/"><u>Resolved! Fixing 'DVD Can't Be Loaded - Already Open In Other App - Close Program & Retry Issue.'</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphoneipad-cant-connect-to-wi-fi-and-how-to-solve-it/"><u>Troubleshooting Steps: Why Your iPhone/iPad Can't Connect to Wi-Fi & How to Solve It</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-5-best-voice-recorders-for-mac-devices/"><u>[New] In 2024, 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-art-of-building-engaging-facebook-moment-slides/"><u>[Updated] 2024 Approved The Art of Building Engaging Facebook Moment Slides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effettuare-il-compressione-di-file-multimediali-via-email-soluzione-top-di-mercato-inclusa-la-conversione-video-ad-altezza-e-larghezza-variabili/"><u>Effettuare Il Compressione Di File Multimediali via Email: Soluzione Top Di Mercato - Inclusa La Conversione Video Ad Altezza E Larghezza Variabili</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-convert-m4r-to-m4a-using-our-no-cost-web-service/"><u>Effortlessly Convert .M4R to .M4A Using Our No-Cost Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-wedding-video-collage-tutorial-professional-results-using-movavi-editor/"><u>Expert Wedding Video Collage Tutorial: Professional Results Using Movavi Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-webm-para-3gp-online-movavi/"><u>Gratuito Conversor De Webm Para 3GP Online - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-zte-axon-40-lite-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on ZTE Axon 40 Lite Quickly? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-magic-5-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor Magic 5 Face Lock?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>In 2024, Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-online-tool-for-free-audio-file-conversion-from-m4r-to-aac/"><u>Movavi's Online Tool for Free Audio File Conversion From M4R to AAC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-mp3-to-mkv-konvertierung-kostenlos-movavi/"><u>Online MP3-to-MKV Konvertierung Kostenlos - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/snapcutmaster-insights-full-scrutiny/"><u>SnapCutMaster Insights – Full Scrutiny</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-tiff-en-format-bmp-sur-ligne-movavi/"><u>Transformer Gratuitement Un Fichier TIFF en Format BMP Sur Ligne - Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transitioning-gaming-sessions-xbox-live-to-fb-live/"><u>Transitioning Gaming Sessions Xbox Live to FB Live</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-a54-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy A54 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

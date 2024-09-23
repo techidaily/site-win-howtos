@@ -1,7 +1,7 @@
 ---
 title: Unseen SD Card? Illuminate the Issue
-date: 2024-09-10T21:12:13.773Z
-updated: 2024-09-17T17:55:34.256Z
+date: 2024-09-18T00:20:20.206Z
+updated: 2024-09-22T23:41:58.777Z
 tags:
   - win11
   - win10
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Test your SD card in another PC
@@ -105,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  If it_does_ work in the other computer, then it’s not a faulty card, but it may be that your card reader is faulty.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable then enable card reader (from other users)
 
@@ -124,6 +131,13 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
@@ -132,13 +146,6 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) When prompted to disable the device, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
@@ -146,19 +153,6 @@ If you’re not sure how to do that, refer steps below:
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -179,14 +173,15 @@ If you’re not sure how to do that, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-insights-the-best-apps-to-supercharge-your-profile-for-2024/"><u>[New] Instagram Insights The Best Apps to Supercharge Your Profile for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iewerships-value-to-creators-understanding-revenue-per-stream-for-2024/"><u>[New] Viewership's Value to Creators Understanding Revenue per Stream for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-video-playback-on-windows-media-player-expert-solutions-for-common-mpeg-file-problems/"><u>Mastering Video Playback on Windows Media Player: Expert Solutions for Common MPEG File Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/offline-viewing-simple-steps-to-downloading-your-favorite-films-series-tunes/"><u>Offline Viewing: Simple Steps to Downloading Your Favorite Films, Series, Tunes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-windows-11/"><u>PC画面動画キャプチャツールをお勧めする - Windows 11で使う方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-how-to-transform-avchd-videos-into-mp4-with-simple-tools/"><u>Quick Guide: How to Transform AVCHD Videos Into MP4 with Simple Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swiftly-solve-stuck-printer-job-queue/"><u>Swiftly Solve Stuck Printer Job Queue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-google-pixel-7a-by-drfone-android/"><u>Top 10 Password Cracking Tools For Google Pixel 7a</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-your-video-game-broadcast-the-obs-way/"><u>[Updated] 2024 Approved Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-frame-grabbers-companion/"><u>[Updated] In 2024, Frame Grabber's Companion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mts-mp4movavi-mtsmp4/"><u>完美的MTS MP4转换方法：Movavi教程解析 - 如何无丝头地将MTS文件转换为高效MP4格式</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpts-tailored-command-function-work-and-its-potential-applications/"><u>How Does ChatGPT's Tailored Command Function Work, and Its Potential Applications?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-pioneering-online-photo-combination-suite/"><u>In 2024, 8 Pioneering Online Photo Combination Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloze-online-omzetting-voor-gif-bestandjes-met-movavi-asnemen/"><u>Kostenloze Online Omzetting Voor Gif-Bestandjes Met Movavi Asnemen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/risky-gamble-pays-off-big-time-for-whatsapp/"><u>Risky Gamble Pays Off Big Time for WhatsApp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-how-to-fix-a-blank-interface-in-epic-games-launcher-application/"><u>The Solution: How to Fix a Blank Interface in Epic Games Launcher Application</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-websites-for-downloading-high-quality-audio-effects-for-video-editing/"><u>Top Free Websites for Downloading High-Quality Audio Effects for Video Editing</u></a></li>
 </ul></div>
 

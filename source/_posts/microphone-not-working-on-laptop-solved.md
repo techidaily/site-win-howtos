@@ -1,7 +1,7 @@
 ---
 title: Microphone Not Working On Laptop [SOLVED]
-date: 2024-09-15T03:32:13.148Z
-updated: 2024-09-18T00:08:40.079Z
+date: 2024-09-16T17:44:15.868Z
+updated: 2024-09-22T17:03:28.285Z
 tags:
   - win11
   - win10
@@ -63,10 +63,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -80,22 +80,30 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -110,19 +118,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -160,15 +155,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/beat-the-windows-shell-dll-crash-your-ultimate-troubleshooting-manual/"><u>Beat the 'Windows Shell DLL Crash': Your Ultimate Troubleshooting Manual</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-techniques-for-superior-quality-in-zoom-meetings/"><u>Expert Techniques for Superior Quality in Zoom Meetings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-10-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code129/"><u>Fix Windows 10 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor .</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximizing-gaming-power-a-guide-to-faster-windows-11-performance/"><u>Maximizing Gaming Power: A Guide to Faster Windows 11 Performance</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 14? | Stellar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-create-a-playlist-on-youtube/"><u>[New] 2024 Approved How to Create a Playlist on YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-complete-visual-vocabulary-of-tiktok-emojis-and-icons-for-2024/"><u>[New] The Complete Visual Vocabulary of TikTok Emojis & Icons for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-demystifying-youtube-shorts-content-strategy-guide/"><u>[Updated] In 2024, Demystifying YouTube Shorts Content Strategy Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-groundbreaking-action-adventure-masterpieces-top-10/"><u>2024 Approved Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brief-overview-of-hahron-spices-mission-vision-and-strategic-positioning-within-the-chemical-industry/"><u>Brief Overview of HAHRON SPICE's Mission, Vision, and Strategic Positioning Within the Chemical Industry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-i-tuoi-file-mp4-in-formato-m4v-con-leditor-video-movavi-gratuitamente-e-on-line/"><u>Cambia I Tuoi File MP4 in Formato M4V Con L'editor Video Movavi Gratuitamente E On-Line!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/downloads-gratuites-transformez-facilement-un-fichier-mxf-en-mp4-avec-movavi/"><u>Downloads Gratuites : Transformez Facilement Un Fichier MXF en MP4 Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/earn-1000-fast-enter-movavi-scholarship-contest-in-under-two-minutes/"><u>Earn $1,000 Fast - Enter Movavi Scholarship Contest in Under Two Minutes!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/free-fire-techniques-for-shifting-your-characters-voice-effectively-for-2024/"><u>Free Fire Techniques for Shifting Your Character's Voice Effectively for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>In 2024, 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-video-editing-apps-of-2024-free-and-paid-options-for-ultimate-visual-stability/"><u>Top 15 Video Editing Apps of 2024: Free & Paid Options for Ultimate Visual Stability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-arw-images-into-jpgs-swiftly-across-pcs-and-macs-simple-4-step-procedure-revealed/"><u>Transform Your ARW Images Into JPGs Swiftly Across PCs and Macs – Simple 4-Step Procedure Revealed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-role-of-bios-a-guide-using-revouninstaller/"><u>Understanding the Role of BIOS: A Guide Using RevoUninstaller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-iphone-emoji-keyboard-usage/"><u>Unlocking the Secrets of iPhone Emoji Keyboard Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vrijwillige-omzetting-van-ogm-bestandjes-professioneel-kwaliteitloos-and-vrij-movavi/"><u>Vrijwillige Omzetting Van OGM-Bestandjes: Professioneel, Kwaliteitloos & Vrij! - Movavi</u></a></li>
 </ul></div>
 

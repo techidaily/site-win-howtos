@@ -1,7 +1,7 @@
 ---
 title: Error Code 802 40020 on Windows 11 Installation - A Complete Guide to Troubleshooting
-date: 2024-09-14T17:07:47.665Z
-updated: 2024-09-17T21:59:49.715Z
+date: 2024-09-17T01:18:36.748Z
+updated: 2024-09-22T17:33:07.443Z
 tags:
   - win11
   - win10
@@ -80,14 +80,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 5. Click**Restart** .
@@ -98,13 +106,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -114,10 +115,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -145,16 +152,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-path-to-youtube-prominence-effective-tactics-unveiled/"><u>[New] 2024 Approved Your Path to YouTube Prominence Effective Tactics Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-whatsapps-audio-transmission-techniques/"><u>Decoding WhatsApp's Audio Transmission Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-tutorial-capturing-sound-clips-using-windows-10-pc-features/"><u>Easy Tutorial: Capturing Sound Clips Using Windows 10 PC Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-converting-over-two-hour-youtube-videos-into-mp3-format/"><u>Effortless Guide on Converting Over-Two-Hour YouTube Videos Into MP3 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-h264-format-editing-a-guide-to-simplifying-video-trimming/"><u>Effortless H.264 Format Editing: A Guide to Simplifying Video Trimming</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-comprehensive-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 - Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-note-30-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Note 30 Pro Easily?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mart-way-to-extract-specific-segments-from-youtube/"><u>The Smart Way to Extract Specific Segments From YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-5-cheap-drones-under-100/"><u>Top 5 Cheap Drones Under $100</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-kakaotalk-elites-flash-chats-on-snapchat/"><u>[New] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-hd-cameras-under-100-for-extreme-sports/"><u>[Updated] Top Picks HD Cameras Under $100 for Extreme Sports</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>2024 Approved Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024s-leading-selection-of-best-free-subtitle-editors-discover-the-top-14-picks/"><u>2024'S Leading Selection of Best-Free Subtitle Editors - Discover the Top 14 Picks!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-9-top-birthday-video-creators-on-the-web/"><u>Best 9 Top Birthday Video Creators on the Web</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-troubleshooting-guide-to-revive-your-pictures-with-standard-stellar-photo-repair-on-windows/"><u>Comprehensive Troubleshooting Guide to Revive Your Pictures with Standard Stellar Photo Repair on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertis-mp4-a-jpeg-sur-internet-gratuitement-avec-movavi-solution-de-conversion-visuelle-flexible/"><u>Convertis MP4 À JPEG Sur Internet Gratuitement Avec Movavi - Solution De Conversion Visuelle Flexible</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 14 Pro?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4b-vers-line-convertissez-vos-podcasts-facilement-et-gratuitement-a-laide-de-movavi/"><u>M4b Vers Line: Convertissez Vos Podcasts Facilement Et Gratuitement À L'aide De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-geweldige-gratuite-convertor-voor-ppm-naar-jpg-toch-versnellend-online-process/"><u>Movavi's Geweldige Gratuite Convertor Voor PPM Naar JPG: Toch Versnellend Online Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-facilement-votre-fichier-mka-au-format-aac-a-laide-dun-outil-en-ligne-gratuit-movavi/"><u>Transformer Facilement Votre Fichier MKA Au Format AAC À L'aide D'un Outil en Ligne Gratuit - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-rapidement-et-facilement-un-fichier-wmv-en-mp4-gratuitement-sur-linternet-avec-movavi/"><u>Transformer Rapidement Et Facilement Un Fichier WMV en MP4 Gratuitement Sur L'Internet Avec Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-proplus-5g-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi Note 13 Pro+ 5G won’t play MKV movies</u></a></li>
 </ul></div>
 

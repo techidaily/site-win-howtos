@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality for Malfunctioning USB Peripherals in Windows 7
-date: 2024-09-16T01:31:30.433Z
-updated: 2024-09-18T03:34:02.844Z
+date: 2024-09-19T16:32:52.395Z
+updated: 2024-09-22T20:09:53.890Z
 tags:
   - win11
   - win10
@@ -76,38 +76,31 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -119,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -155,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -175,14 +175,20 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[Updated] In 2024, Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030363181-flv/"><u>複数FLVファイルの高品質な自由結合手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029577448-avimov/"><u>AVIビデオ形式をMov形式に適切に変換する手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029226360-dvdand/"><u>DVDディスクから高品質ビデオ&画像を簡単に取り出せる方法</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-notepad-system-breakdowns/"><u>Eliminating Windows Notepad System Breakdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-a-nonfunctional-clownfish-voice-changer-quick-tips-and-tricks/"><u>How to Fix a Nonfunctional Clownfish Voice Changer – Quick Tips & Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>In 2024, Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028799626-iphonemp3/"><u>IPhoneで記録した声メモからMP3ファイルへの変換ガイド</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[New] Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhancing-engagement-through-effective-video-strategies-on-fb/"><u>[New] In 2024, Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024mp4top11/"><u>【最新リクエスト完了!】2024年度使用推奨無料MP4ビデオ編集ツールTOP11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-listing-windowsmac-os-x-users-4k-playback-tools/"><u>2024 Approved Essential Listing Windows/Mac OS X Users - 4K Playback Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-dvddvdmp4/"><u>無料MP4 DVD変換ツールリッチ：優れたソフトウェアにより、容易にDVD用のMP4動画をコピー可能</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/flv-asf/"><u>自由下載的 FLV 到 ASF 無關節流式影片格式切換器 - 移動威瓦</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-f34-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy F34 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargas-gratuitas-de-conversiones-en-linea-convierte-archivos-mpe-a-formatos-m4a-con-facilidad/"><u>Descargas Gratuitas De Conversiones en Línea: Convierte Archivos MPE a Formatos M4A Con Facilidad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvacet-vehlasych-metu-pokusu-konverzovat-dat-na-mp4-kompletni-navod-s-movavi-konvertorem/"><u>Dvacet Věhlasých Métů Pokusu Konverzovat DAT Na MP4 - Kompletní Návod S Movavi Konvertorem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-play-and-convert-mov-videos-on-your-computer-or-device/"><u>How to Play and Convert MOV Videos on Your Computer or Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-broadcast-beats-the-ultimate-showdown-between-vmix-and-wirecast/"><u>In 2024, Pro Broadcast Beats The Ultimate Showdown Between VMix and Wirecast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-ghost-towns-the-intriguing-exploration-of-the-dead-internet-hypothesis/"><u>Navigating Digital Ghost Towns: The Intriguing Exploration of the Dead Internet Hypothesis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gratuita-ottieni-la-tua-conversione-ape-ogg-perfezionata-tramite-movavi/"><u>Online Gratuità! Ottieni La Tua Conversione APE-OGG Perfezionata Tramite Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-audio-recorder-crash-9999-on-windows-platforms/"><u>Solving Audio Recorder Crash 9999 on Windows Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-creating-gifs-the-14-leading-online-editors-and-apps/"><u>Ultimate Guide to Creating GIFs: The 14 Leading Online Editors and Apps</u></a></li>
 </ul></div>
 

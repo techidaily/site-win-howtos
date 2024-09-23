@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues: Troubleshoot Your Game Setup on Origin"
-date: 2024-09-11T17:52:51.600Z
-updated: 2024-09-18T00:35:35.744Z
+date: 2024-09-20T21:05:50.906Z
+updated: 2024-09-22T21:14:42.025Z
 tags:
   - win11
   - win10
@@ -74,10 +74,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -89,23 +89,16 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
@@ -121,6 +114,14 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -147,21 +148,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-air-lift-extraordinaire-top-industrial-drones/"><u>[New] In 2024, Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-overcome-sound-absence-on-tweeted-film-rolls-for-2024/"><u>[New] Overcome Sound Absence on Tweeted Film Rolls for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-mac-gif-saving-best-10-gif-apps-for-2024/"><u>[New] Top Mac GIF Saving Best 10 Gif Apps for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-roku-streaming-experience-in-depth-guide-and-reviews/"><u>Affordable Roku Streaming Experience: In-Depth Guide and Reviews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-creativity-with-free-audio-effects-online-for-2024/"><u>Boost Creativity with Free Audio Effects Online for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/copypaste-error-in-windows-11/"><u>Copy/Paste Error in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrected-error-unresponsive-buttons-on-keyboard/"><u>Corrected Error: Unresponsive Buttons on Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-missing-desktop-icons-on-windows-11-a-comprehensive-guide/"><u>How to Fix Missing Desktop Icons on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-shoot-a-green-screen-video-for-2024/"><u>How to Shoot a Green Screen Video for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-solution-for-battery-not-working-problems/"><u>Immediate Solution for 'Battery Not Working' Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-tecno-spark-go-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Tecno Spark Go (2023) without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-not-starting-on-windows-troubleshooting-steps-resolved/"><u>Minecraft Not Starting on Windows: Troubleshooting Steps [RESOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-stuck-at-getting-windows-ready-issue-step-by-step-guide/"><u>Resolving 'Stuck at Getting Windows Ready' Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-reasons-to-steer-clear-of-mac-app-stores-chatgpt-alternatives/"><u>Top Reasons to Steer Clear of Mac App Store's ChatGPT Alternatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-reactivating-turned-off-wireless-features-on-devices/"><u>Troubleshooting Steps for Reactivating Turned Off Wireless Features on Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-true-age-of-ai-discover-its-longstanding-technological-roots/"><u>Unveiling the True Age of AI: Discover Its Longstanding Technological Roots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-beginning-with-tweets-your-new-twitter-journey/"><u>[New] 2024 Approved Beginning with Tweets Your New Twitter Journey</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>[Updated] 2024 Approved Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-she-shares-we-watch-top-female-content-creators-on-youtube-for-2024/"><u>[Updated] She Shares, We Watch Top Female Content Creators on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-guide-to-iphone-voice-recording-techniques/"><u>2024 Approved Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-craft-an-engaging-solo-auditory-adventure/"><u>2024 Approved How to Craft an Engaging Solo Auditory Adventure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aacmp3-movavi/"><u>AACファイルを無料MP3へ自動変換: Movaviオンラインサービス</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-sans-frais-mp3-a-fichier-wav-en-lignes-directs-avec-movavi/"><u>Conversion Sans Frais : MP3 À Fichier WAV En Lignes Directs Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-da-aac-ad-mpeg-online-tutorial-di-movavi/"><u>Conversione Gratuita Da AAC Ad MPEG Online - Tutorial Di Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-transforming-mkv-videos-into-mp4-format-using-your-mac/"><u>Effortless Guide: Transforming MKV Videos Into MP4 Format Using Your Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/grabacion-de-video-sin-coste-guia-para-convertir-f4v-a-wmv-online/"><u>Grabación De Vídeo Sin Coste: Guía Para Convertir F4V a WMV Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-aif-naar-mp3-konverter-professioneel-onderhoud-van-je-musik-online/"><u>Gratis AIF Naar MP3 Konverter - Professioneel Onderhoud Van Je Musik Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-poco-x5-by-drfone-android/"><u>How to Bypass FRP from Poco X5?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-macos-sierra-installation-procedures/"><u>In 2024, Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flv-3gp-movavi/"><u>권장: 웹 페이지에서 자연스럽고 무료로 FLV, 3GP 형식 전환 - Movavi</u></a></li>
 </ul></div>
 

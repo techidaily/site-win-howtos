@@ -1,0 +1,126 @@
+---
+title: "Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?"
+date: 2024-09-19T18:09:00.902Z
+updated: 2024-09-22T20:36:46.261Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?"
+excerpt: "This Article Describes Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?"
+thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c360208046bfffff6e9458bb6e.jpg
+---
+
+## Persistent Mouse Disconnection Woes? Here's How to Keep Your Cursor Steady
+
+**Mouse keeps disconnecting** on your computer? Don’t worry, it’s often quite not hard to fix at all…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 3 fixes for **Mouse keeps disconnecting**
+
+Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
+
+1. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Change power management settings for USB Root Hub**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Fix 1: Check for hardware issues
+
+1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
+2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
+
+---
+
+### Fix 2: Change power management settings for USB Root Hub
+
+Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
+
+1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
+3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
+You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
+
+---
+
+### Fix 3: Update your device drivers
+
+This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
+
+**Driver Easy** will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+You can update your drivers automatically with either the [**Free**](https://tools.techidaily.com/drivereasy/download/)or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Restart your computer for the changes to take effect.
+5. Check to see if the mouse keeps disconnecting issue has been solved.
+
+If the issue still remains after using Driver Easy, please send us an email at <support@drivereasy.com>. Our support team will try their best to analyse and solve the issue for you.
+
+---
+
+Hopefully you have successfully resolved the mouse keeps disconnecting problem by now. If you have any ideas, suggestions or questions, please leave us a comment below. Thanks for reading!
+
+* [mouse](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-6-figure-success-starts-with-smart-hashtagging/"><u>[New] 2024 Approved 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>[New] 2024 Approved Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage-for-2024/"><u>[New] Digital Dynamics How to Share Videos Effectively on Facebook's Stage for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-left-4-dead-2-game-breaking-closes-with-easy-fixes/"><u>Banish Left 4 Dead 2 Game-Breaking Closes with Easy Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/changer-facilement-un-fichier-m4r-au-format-aiff-en-ligne-et-gratuit-grace-a-movavi/"><u>Changer Facilement Un Fichier M4R Au Format AIFF En Ligne Et Gratuit Grâce À Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-solutions-for-fixing-skipped-titles-in-makemkv-overcoming-errors-linked-to-file-navigation/"><u>Effective Solutions for Fixing Skipped Titles in MakeMKV: Overcoming Errors Linked to File Navigation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-zte-nubia-z60-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from ZTE Nubia Z60 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-kostenloos-movaffect-converter-efficient-konverteer-mpg-naar-mov-met-movavis-gratis-toolen/"><u>Online Kostenloos MOVAFFECT CONVERTER: Efficiënt Konverteer MPG Naar MOV Met Movavi's Gratis Toolen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-aiff-a-flac-sin-gasto-conversion-en-linea-y-totalmente-gratis/"><u>Transformación AIFF a FLAC Sin Gasto - Conversión en Línea Y Totalmente Gratis!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-video-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Video Generator? | Wondershare Virbo Glossary</u></a></li>
+</ul></div>
+

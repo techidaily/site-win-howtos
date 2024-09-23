@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Reconnecting to Functional Steam Content Servers
-date: 2024-09-15T03:23:59.636Z
-updated: 2024-09-17T17:54:56.973Z
+date: 2024-09-21T22:41:25.292Z
+updated: 2024-09-22T16:39:40.033Z
 tags:
   - win11
   - win10
@@ -76,19 +76,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
@@ -97,16 +84,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -120,30 +107,37 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -170,16 +164,12 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[New] 2024 Approved Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[Updated] In 2024, Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/camera-confusion-no-video-display-issue/"><u>Camera Confusion No Video Display Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-reno-8t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo Reno 8T 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy Z Flip 5?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/iphoneandroiddvd-seo/"><u>IPhoneやAndroidでライブDVDのコンテンツを簡単に移行する手順 - SEO</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4awav-itunes/"><u>M4AファイルからWAVへの変換ガイド - iTunes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/meet-the-new-sharp-will-revolutionary-naked-eye-3d-features-in-an-android-device/"><u>Meet the New Sharp Will: Revolutionary Naked Eye-3D Features in an Android Device</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-xr21-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia XR21 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3avi-202cuarto/"><u>これがトップ【MP3へのAVI変換】: 『202Cuarto』で最強リスト・オブ・フリーソフトを発表！</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-escape-houses-challenges-for-intellects/"><u>[Updated] Top 10 Escape Houses Challenges for Intellects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-facile-et-rapide-de-wma-vers-mp3-sans-depenser-une-centime-decouvrez-comment-utiliser-movavi-en-ligne/"><u>Conversion Facile Et Rapide De WMA Vers MP3 Sans Dépenser Une Centime - Découvrez Comment Utiliser Movavi en Ligne</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exclusive-ranking-of-advanced-online-tutorial-providers-excluding-udemy-for-2024/"><u>Exclusive Ranking of Advanced Online Tutorial Providers (Excluding Udemy) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-pratica-alla-creazione-di-presentazioni-convincenti-usando-liphone-e-movavi-istruzioni-semplificate/"><u>Guida Pratica Alla Creazione Di Presentazioni Convincenti Usando L'iPhone E Movavi: Istruzioni Semplificate</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-v30t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme V30T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-de-optimizacion-seo-para-la-exportacion-y-comparticion-de-videos-desde-after-effects/"><u>Técnicas De Optimización SEO Para La Exportación Y Compartición De Videos Desde After Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-connect-your-device-bluetooth-error-in-windows-11/"><u>Troubleshooting Connect Your Device Bluetooth Error in Windows 11</u></a></li>
 </ul></div>
 

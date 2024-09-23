@@ -1,7 +1,7 @@
 ---
 title: Resolving Non-Responsive File Explorer Problems in Windows 10 [Guide]
-date: 2024-09-13T19:57:57.924Z
-updated: 2024-09-17T18:50:19.933Z
+date: 2024-09-19T18:00:51.655Z
+updated: 2024-09-23T00:30:48.025Z
 tags:
   - win11
   - win10
@@ -124,6 +124,13 @@ Now check to see your mic is back on track.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -132,29 +139,22 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -179,20 +179,14 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-discover-novel-webcam-functions-today-for-2024/"><u>[New] Discover Novel Webcam Functions Today for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unlocking-image-potential-the-importance-of-luts/"><u>2024 Approved Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-to-address-and-rectify-a-blinking-cursor-issue/"><u>A Step-By-Step Tutorial to Address and Rectify a Blinking Cursor Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-game-enhancing-pc-fps-in-windows-11/"><u>Boost Your Game: Enhancing PC FPS in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-connecting-your-microsoft-wireless-display-adapter-to-a-windows-10-pc/"><u>Easy Solutions for Connecting Your Microsoft Wireless Display Adapter to a Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-sign-in-error-messages-with-windows-user-profile-services-on-1011-systems/"><u>Effective Solutions for Overcoming Sign-In Error Messages with Windows User Profile Services on 10/11 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuito-conversione-flv-ad-3gp-con-movavi-strategie-seo-per-il-massimo-riconoscimento-su-google/"><u>Gratuito Conversione FLV Ad 3GP Con Movavi - Strategie SEO per Il Massimo Riconoscimento Su Google</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a54-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A54 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-dive-deep-into-the-world-of-creator-studio/"><u>In 2024, Dive Deep Into the World of Creator Studio</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-s17e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo S17e Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices/"><u>In 2024, Precision at Your Fingertips A Guide to Screen Recording on Apple Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-type-errors-corrected-enjoy-smooth-typing-once-again/"><u>Keyboard Type Errors Corrected: Enjoy Smooth Typing Once Again</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-duplicating-your-dvds-with-vlc-or-reliable-alternatives/"><u>Step-by-Step Guide to Duplicating Your DVDs with VLC or Reliable Alternatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-top-issues-for-a-smooth-black-ops-4-experience/"><u>Troubleshooting Top Issues for a Smooth Black Ops 4 Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earnings-escalation-via-youtube-channel-initiatives/"><u>[Updated] Earnings Escalation via YouTube Channel Initiatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-for-addressing-the-missing-vc-runtime-140dll-error-message/"><u>Complete Solution for Addressing The Missing VC Runtime 140.dll Error Message</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-x9b-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor X9b To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-vivo-s18e-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo S18e Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s24-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S24 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-update-obstacle-resolving-error-0xc1900208-successfully/"><u>Overcoming Window's 10 Update Obstacle: Resolving Error 0xC1900208 Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-entrypointnotfound-issue-on-windows-a-comprehensive-guide/"><u>Resolving the 'EntryPointNotFound' Issue on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-action-cameras-a-buyers-guide/"><u>Top-Rated Action Cameras : A Buyer's Guide</u></a></li>
 </ul></div>
 

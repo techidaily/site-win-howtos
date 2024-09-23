@@ -1,0 +1,98 @@
+---
+title: Overcome Your PC/Mac Shift Key Issues - Expert Fixes and Tips Revealed!
+date: 2024-09-15T20:51:19.743Z
+updated: 2024-09-23T01:52:39.385Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Overcome Your PC/Mac Shift Key Issues - Expert Fixes and Tips Revealed!
+excerpt: This Article Describes Overcome Your PC/Mac Shift Key Issues - Expert Fixes and Tips Revealed!
+thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9cd2328362771972e45a8c12a.jpg
+---
+
+## Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice
+
+Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explorer**, and has added tons of new features to it. As an old-time Windows operating system user, you must know what it is for. In this post, we will be introducing some ways for you to get help with**File Explorer**in Windows 10 easily.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
+
+[**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
+
+ You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
+
+ If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
+
+ If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
+
+ **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
+
+2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
+
+You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
+
+4) Then choose**Uninstall updates**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
+
+5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-breaking-down-crossfade-audio-dynamics-in-production/"><u>[New] Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-re-image-twitter-video-portrait/"><u>[Updated] 2024 Approved Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-12-screen-recorder-no-time-limits/"><u>2024 Approved Top 12 Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-logilda-missing-dll-quickly/"><u>Fix LogiLDA Missing DLL Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-creating-an-online-application-using-chatgpt-technology/"><u>Guide: Creating an Online Application Using ChatGPT Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-video-upload-procedures-on-chrome-devices/"><u>Navigating Video Upload Procedures on Chrome Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-usb-device-not-detected-error/"><u>Resolved: How to Fix 'USB Device Not Detected' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-consumption-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry: Excessive Storage Consumption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-problems-with-minecrafts-lan-gaming-mode/"><u>Solving Common Problems with Minecraft's LAN Gaming Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-of-livekernelevent-error-117-and-learn-how-to-correct-it/"><u>Unravel the Mystery of LiveKernelEvent Error 117 and Learn How to Correct It</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

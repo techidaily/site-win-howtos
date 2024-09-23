@@ -1,0 +1,129 @@
+---
+title: Bluetooth Keyboard Won't Pair With Laptop? Here’s What You Can Do!
+date: 2024-09-21T00:19:33.813Z
+updated: 2024-09-23T00:19:44.412Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Bluetooth Keyboard Won't Pair With Laptop? Here’s What You Can Do!
+excerpt: This Article Describes Bluetooth Keyboard Won't Pair With Laptop? Here’s What You Can Do!
+thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3f7f648e31ee7c5865304f02.jpg
+---
+
+## Dell Laptop Keyboard Malfunction? Here's What You Can Do
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5ef3a0758.jpg)
+
+ You sit in front of your Dell laptop and turn it on as usual. When your laptop get access to Windows system, you notice that you cannot type anything. Wired, it works all fine last time.
+
+ Rest assured. You’re not alone. Many Dell users has the same problem with you. More importantly, you can fix this issue easily by yourself. Read on this guide and follow the step-by-step guide to troubleshoot the problem on your laptop.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How do I fix my Dell laptop keyboard not working?
+
+ Your laptop keyboard not working issue could be caused by different reasons. Here we will be telling you 3 easy but helpful solutions:
+
+Try one at a time:
+
+1. [Restart your laptop](#solution1)
+2. [Uninstall your Dell laptop keyboard driver](#solution2)
+3. [Update your Dell laptop keyboard driver](#solution3)
+
+### Solution 1: Restart your laptop
+
+ One of the easy quick solution to solve your keyboard not working problem is to restart your laptop. Some users found that restart really made their keyboard work again at once. Thus try to restart your laptop firstly. If your keyboard still doesn’t work, no panic, try other solutions listed below.
+
+### Solution 2: Uninstall your Dell laptop keyboard driver
+
+ Your laptop keyboard not working error is usually caused by driver issues. In this case, try to reinstall your keyboard driver.
+
+ Since your keyboard doesn’t work, connect your laptop with a mouse either wired or bluetooth one. Then go on with the following steps.
+
+ 1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
+
+ 2) Type or paste**devmgmt.msc** and hit Enter.
+
+![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+
+ 3) Find and expand the **Keyboards** section. Then**right-click** on your keyboard driver software and click**Uninstall device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7abb9f41954.jpg)
+
+ 3) When it completes uninstalling, restart your Dell laptop. Then Windows will reinstall the keyboard driver automatically. Check if your keyboard could work properly.
+
+ If unfortunately, your keyboard still stops working, follow the next solution to completely update your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Solution 3: Update your Dell laptop keyboard driver
+
+ If Windows doesn’t load the keyboard driver for your laptop automatically, you can update the keyboard driver in these alternative ways: manually or automatically.
+
+**Manual driver update —**  You can update your keyboard driver manually by going to the official Dell website and searching for the most recent correct driver for your keyboard. Be sure to choose only drivers that are compatible with your variant of the Windows version.
+
+**Automatic driver update —** If you don’t have the time, patience, or computer skills to update your keyboard driver manually, you can, instead, do it automatically with Driver Easy. Driver Easy will automatically recognize your system and find the correct driver for your exact keyboard, and your variant Windows version, and it will download and install them correctly:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7947e3a5464.jpg)
+
+ 3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+Note: You can do it for free if you like, but it’s partly manual.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ac5f50c04a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 4) Restart your laptop to make the new driver take effect and try to press any key on your keyboard to see if your keyboard works.
+
+* [keyboard](https://bellelily.pxf.io/m5azgm)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-free-pass-to-premium-video-editing-tools/"><u>[New] 2024 Approved The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>2024 Approved How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-simple-steps-to-speed-up-your-unresponsive-keyboard/"><u>5 Simple Steps to Speed Up Your Unresponsive Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-peak-cpu-utilization-from-isolated-audio-graphics-in-windows/"><u>Diagnose and Fix Peak CPU Utilization From Isolated Audio Graphics in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-and-support-overcoming-common-problems-when-pairing-a-bluetooth-keyboard-with-your-desktop-computer/"><u>Fix & Support: Overcoming Common Problems When Pairing a Bluetooth Keyboard with Your Desktop Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>In 2024, Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-it-smart-to-fix-apples-device-batteries/"><u>Is It Smart to Fix Apple's Device Batteries?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-download-difficulties-try-these-10-quick-and-easy-solutions/"><u>Overcoming iPhone Download Difficulties? Try These 10 Quick and Easy Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hats-of-2024-the-ultimate-guide-to-project-expansion-boards/"><u>Top Raspberry Pi HATs of 2024 - The Ultimate Guide to Project Expansion Boards</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-lies-beneath-the-hate-for-digital-community-hubs/"><u>What Lies Beneath the Hate for Digital Community Hubs?</u></a></li>
+</ul></div>
+

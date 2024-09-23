@@ -1,7 +1,7 @@
 ---
 title: "Beat the Window 11 Flicker Problems: Easy Fixes for Smooth, Crisp Images!"
-date: 2024-09-17T02:30:15.969Z
-updated: 2024-09-17T17:40:10.563Z
+date: 2024-09-20T20:04:42.095Z
+updated: 2024-09-22T20:43:07.328Z
 tags:
   - win11
   - win10
@@ -66,18 +66,24 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
@@ -91,10 +97,10 @@ Here are the steps to repair Apex Legends in Origin:
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
@@ -108,21 +114,14 @@ Here are the steps to repair Apex Legends in Origin:
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
@@ -138,15 +137,16 @@ Here are the steps to repair Apex Legends in Origin:
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
-4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
+4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 ### Fix 7: Reinstall Apex Legends and Origin
 
@@ -169,6 +169,14 @@ Here are the steps to repair Apex Legends in Origin:
 3. Double-click **Origin** to uninstall it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
 
@@ -193,20 +201,21 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfect-12-video-capture-tools-never-stop/"><u>[New] In 2024, Perfect 12 Video Capture Tools - Never Stop</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality-for-2024/"><u>[New] Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-essence-of-plot-weaving/"><u>[Updated] 2024 Approved Essence of Plot Weaving</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-magic-in-haul-video-creation/"><u>[Updated] Unveiling the Magic in Haul Video Creation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-high-definition-capture-top-applications/"><u>2024 Approved High-Definition Capture Top Applications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cell-proliferation/"><u>Cell Proliferation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-and-simple-solutions-to-the-battery-not-found-error/"><u>Fast and Simple Solutions to the 'Battery Not Found' Error</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-13-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 13 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-and-lower-high-cpu-usage-by-svchostexe-on-windows-11/"><u>How to Optimize and Lower High CPU Usage by svchost.exe on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-audio-renderer-malfunctions-when-watching-youtube-on-windows-11/"><u>How to Resolve Audio Renderer Malfunctions When Watching YouTube on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-are-function-fn-keys-unresponsive-on-asus-laptops/"><u>Troubleshooting Fixes: Why Are Function (Fn) Keys Unresponsive on Asus Laptops?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-intense-directx-malfunctions-for-smooth-performance/"><u>Troubleshooting Intense DirectX Malfunctions for Smooth Performance</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-effortless-reaction-videos-tips-and-tricks-using-filmora-2023-edition-for-2024/"><u>Updated Effortless Reaction Videos Tips and Tricks Using Filmora 2023 Edition for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-self-booting-phenomenon-causes-and-solutions/"><u>Windows 11 Self-Booting Phenomenon - Causes & Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-multi-channel-mastery-coordinated-content-consumption/"><u>[Updated] 2024 Approved Multi-Channel Mastery Coordinated Content Consumption</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unleash-your-potential-with-these-free-online-channels-for-fine-artists/"><u>[Updated] 2024 Approved Unleash Your Potential with These Free Online Channels for Fine Artists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ace-the-green-screen-scene-with-these-tips/"><u>[Updated] Ace the Green Screen Scene with These Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-moons-a-guide-to-proper-night-photography-techniques-for-2024/"><u>[Updated] Capturing Moons A Guide to Proper Night Photography Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mpegwav/"><u>立即無限制下載Movavi MPEG到WAV格式的自由轉換工具 - 在線上</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-editing-programs-for-your-windows-7-pc/"><u>Best No-Cost Editing Programs for Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-convert-your-mp2-audio-to-flac-using-movavis-no-cost-web-service/"><u>Easily Convert Your MP2 Audio to FLAC Using Movavi's No-Cost Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/een-vriendelijk-quiz-oprichten-de-twee-veilige-wegwijzen/"><u>Een Vriendelijk Quiz Oprichten: De Twee Veilige Wegwijzen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-swf-to-wav-format-by-movavi-start-immediately/"><u>Free Online Converter: SWF to WAV Format by Movavi - Start Immediately!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-converter-online-para-wmv-em-aac-com-o-movavi/"><u>Gratuito: Converter Online Para WMV Em AAC Com O Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-prime-windows-snipper-apps-listed-at-5/"><u>In 2024, Prime Windows Snipper Apps Listed at #5</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-intro-maker-software-for-pc-top-10-reviews-and-comparisons/"><u>New In 2024, Intro Maker Software for PC Top 10 Reviews and Comparisons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/smirk-sculptor-image-maker/"><u>Smirk Sculptor Image Maker</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-walkthrough-for-implementing-hyper-v-technology-in-windows-10/"><u>The Ultimate Walkthrough for Implementing Hyper-V Technology in Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-zero-30-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Zero 30 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-calidad-gratis-streaming-sites-para-ver-television-movavi/"><u>Top 8 Calidad Gratis Streaming Sites Para Ver Televisión - Movavi</u></a></li>
 </ul></div>
 

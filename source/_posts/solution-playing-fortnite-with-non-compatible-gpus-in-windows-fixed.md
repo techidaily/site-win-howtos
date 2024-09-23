@@ -1,7 +1,7 @@
 ---
 title: "Solution: Playing Fortnite with Non-Compatible GPUs in Windows [Fixed]"
-date: 2024-09-12T21:31:10.036Z
-updated: 2024-09-17T17:01:21.558Z
+date: 2024-09-18T18:41:19.094Z
+updated: 2024-09-22T21:22:52.519Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 3: Rebuild icon cache
 
 You can also try these steps to rebuild the icon cache:
@@ -82,40 +89,21 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -124,30 +112,25 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -189,16 +172,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-impact-with-google-based-podcast-uploads/"><u>[New] Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-maccam-easy-webcam-recordings/"><u>[Updated] In 2024, Mastering MacCam Easy Webcam Recordings</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-not-charging-issue-when-device-connected-to-a-windows-7-or-10-computer/"><u>Fixes for 'Not Charging' Issue When Device Connected to a Windows 7 or 10 Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960550833-get-up-and-running-quick-download-of-hp-envy-5660-driver-software/"><u>Get Up & Running: Quick Download of HP Envy 5660 Driver Software!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simplifying-video-production-with-captivate/"><u>In 2024, Simplifying Video Production with Captivate</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-x-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone X Location | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-casting-on-windows-10-tips-and-tricks-for-seamless-device-connectivity/"><u>Master the Art of Casting on Windows 10: Tips and Tricks for Seamless Device Connectivity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-windows-10-handbook-for-efficiency-for-2024/"><u>Pro WINDOWS 10 Handbook for Efficiency for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-what-to-do-when-your-xbox-one-controller-wont-sync/"><u>Step-by-Step Solution: What to Do When Your Xbox One Controller Won't Sync</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-overcome-windows-11s-update-error-0xc19n0208/"><u>Troubleshooting Guide: How to Overcome Windows 11'S Update Error 0Xc19n0208</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-video-performance-with-key-seo-tools/"><u>[New] Boost Video Performance with Key SEO Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-key-practices-for-soundless-media-gathering-for-2024/"><u>[New] Key Practices for Soundless Media Gathering for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-screen-capture-for-gotomeeting-users/"><u>[Updated] In 2024, Professional Screen Capture for GoToMeeting Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-site-building-chatgpts-4-techniques-unveiled/"><u>Boost Your Site Building: ChatGPT's 4 Techniques Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissez-vos-fichiers-swf-vers-mov-gratuitement-sur-internet-via-movavi-methodes-et-conseils-utiles/"><u>Convertissez Vos Fichiers SWF Vers MOV Gratuitement Sur Internet via Movavi: Méthodes Et Conseils Utiles</u></a></li>
+<li><a href="https://discover-best.techidaily.com/diskrepanzige-moglichkeiten-fur-das-ausschneiden-von-urheberrechtsgeschutzten-dvds-aufgeklart/"><u>Diskrepanzige Möglichkeiten Für Das Ausschneiden Von Urheberrechtsgeschützten DVDs Aufgeklärt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-convert-your-m4a-audio-to-high-quality-aac-format-for-free-try-movavi-today/"><u>Effortlessly Convert Your M4A Audio to High-Quality AAC Format for Free - Try Movavi Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-quicktime-qt-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change QuickTime (QT) Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuitous-online-mp4-do-mp3-konverter-bystryj-i-nadezhnyj-reshenie-po-movavi/"><u>Gratuitous Online MP4 До MP3 Конвертер: Быстрый И Надежный Решение По Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-photography-hub-is-pickup-at-the-top-of-its-class/"><u>In 2024, Android's Photography Hub Is PickUp at the Top of Its Class?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/passos-faceis-para-masterizacao-de-mapas-no-minecraft-em-computador/"><u>Passos Fáceis Para Masterização De Mapas No Minecraft Em Computador</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-dev-error-5573-on-ps4-xbox-one-and-pc/"><u>Troubleshooting Steps for Resolving Dev Error 5573 on PS4, Xbox One, and PC</u></a></li>
 </ul></div>
 

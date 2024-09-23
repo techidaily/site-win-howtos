@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Issues - Troubleshooting a Non-Booting Laptop or Desktop
-date: 2024-09-16T23:34:56.199Z
-updated: 2024-09-18T00:17:05.612Z
+date: 2024-09-15T23:54:09.777Z
+updated: 2024-09-22T17:12:26.085Z
 tags:
   - win11
   - win10
@@ -101,6 +101,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -110,16 +123,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -133,22 +146,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -185,16 +197,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-avatar-asymmetry-artistry-sketching-distorted-images-for-2024/"><u>[New] Avatar Asymmetry Artistry Sketching Distorted Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-watch-experience-youtube-list-shuffle-for-2024/"><u>[New] Elevating Your Watch Experience YouTube List Shuffle for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-gross-income-strategies-for-podcasters-for-2024/"><u>[Updated] Gross Income Strategies for Podcasters for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-source-to-download-safe-and-updated-sades-headset-drivers-for-your-windows-pc/"><u>Best Source to Download Safe & Updated Sades Headset Drivers for Your Windows PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-os-independent-media-software/"><u>Essential Guide to OS-Independent Media Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-asus-rog-phone-8-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Asus ROG Phone 8 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-seamlessly-transforming-mp4-files-into-mov-format-online-and-local-methods/"><u>Simple Steps: Seamlessly Transforming MP4 Files Into MOV Format - Online and Local Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-9now-extension-to-your-kodi-matrix-or-nexus-system/"><u>Step-by-Step Guide to Adding the 9Now Extension to Your Kodi Matrix or Nexus System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-and-playing-mkv-files-on-the-xbox-360/"><u>Step-by-Step Guide: Converting & Playing MKV Files on the Xbox 360</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-avi-files-for-optimal-youtubing/"><u>Step-by-Step Guide: Converting AVI Files for Optimal YouTubing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-successfully-setting-up-the-fapzone-plugin-in-kodi-for-accessing-exclusive-adult-entertainment/"><u>Step-by-Step Guide: Successfully Setting Up the FapZone Plugin in Kodi for Accessing Exclusive Adult Entertainment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>[Updated] Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-playlist-conversion-5-preferred-tools-for-youtube-streams/"><u>[Updated] In 2024, Mastering Playlist Conversion 5 Preferred Tools for YouTube Streams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-gt-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hpad-gear-your-youtube-channels-first-steps-for-2024/"><u>Launchpad Gear Your YouTube Channel's First Steps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpg-naar-flv-vervanging-kostenloos-en-direct-moviesaver/"><u>MPG Naar FLV Vervanging Kostenloos en Direct - MovieSaver</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>New 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-mp4-aiff-movavi/"><u>Online MP4과 AIFF 영상 무료 전환 - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-fichier-webm-en-wmv-gratuitement-avec-convertwbm2wmvcom/"><u>Transformez Facilement Votre Fichier Webm en WMV Gratuitement Avec ConvertWbm2WMV.com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/videoya-music-library-integration-download-and-sync-across-android-ios-and-desktop/"><u>Videoya Music Library Integration - Download & Sync Across Android, iOS, and Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Minecraft Multiplayer Woes? Here's How to Get Your LAN Up and Running!
-date: 2024-09-15T01:18:39.085Z
-updated: 2024-09-17T21:24:20.696Z
+date: 2024-09-16T18:21:29.217Z
+updated: 2024-09-22T16:53:56.809Z
 tags:
   - win11
   - win10
@@ -63,10 +63,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -78,13 +78,6 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
@@ -111,15 +104,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -154,19 +154,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-virtual-venue-vetting-picking-obs-or-twitch/"><u>[Updated] In 2024, Virtual Venue Vetting Picking OBS or Twitch</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-visibility-vault-our-compreeher-guide-of-15-proven-methods-to-amass-attention-on-instagram-for-2024/"><u>[Updated] Viral Visibility Vault Our Compreeher Guide of 15 Proven Methods to Amass Attention on Instagram for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-radeon-vega-3-graphics-driver-download-2024/"><u>AMD Radeon Vega 3 Graphics Driver Download 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-high-cpu-load-in-windows-fixing-the-desktop-window-manager-glitch-with-5-simple-tricks/"><u>Beat High CPU Load in Windows: Fixing the Desktop Window Manager Glitch with 5 Simple Tricks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/chatgpt-plus-is-it-a-game-changer-explore-the-top-five-reasons-for-optimizing-with-this-version/"><u>ChatGPT Plus: Is It a Game-Changer? Explore the Top Five Reasons for Optimizing with This Version!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-handling-system-error-code-1000-in-windows-os-from-vista-through-10/"><u>Comprehensive Fixes: Handling System Error Code 1000 in Windows OS From Vista Through 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-finding-and-downloading-asus-laptop-driver-software/"><u>Easy Guide: Finding and Downloading ASUS Laptop Driver Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-frustrating-windows-error-0x800704cf-with-ease/"><u>How to Overcome the Frustrating Windows Error 0X800704CF with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-laptops-reviving-speakers-on-your-lenovo-pc/"><u>No More Quiet Laptops: Reviving Speakers on Your Lenovo PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-a38-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on A38</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-persistent-usb-recognition-issues-on-your-computer-step-by-step-guide/"><u>Resolving Persistent USB Recognition Issues on Your Computer – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-1011-os-files/"><u>Troubleshooting Tips: Restoring Integrity of Windows 10/11 OS Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-liberating-laughter-from-lockdown-20-humorous-fb-incarceration-moments/"><u>[New] In 2024, Liberating Laughter From Lockdown 20 Humorous FB Incarceration Moments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-building-a-profitable-instagram-empire/"><u>[New] Step-by-Step Building a Profitable Instagram Empire</u></a></li>
+<li><a href="https://article-posts.techidaily.com/acquiring-unmarked-visuals-for-your-business-for-2024/"><u>Acquiring Unmarked Visuals for Your Business for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-wmv-a-wav-online-il-guida-completa-di-movie-converter/"><u>Conversione Gratuita WMV a WAV Online: Il Guida Completa Di Movie Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-wav-para-flv-pelo-movavi-faca-a-transformacao-agora/"><u>Gratuito Online Converter De WAV Para FLV Pelo Movavi - Faça a Transformação Agora!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-battlefield-battlefiel2042-gaming-performance-eliminating-fps-dips-and-gameplay-hiccups/"><u>Improve Battlefield ˈbattlefielᵘ2042 Gaming Performance: Eliminating FPS Dips and Gameplay Hiccups</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-timeless-melodies-from-iconic-animes/"><u>In 2024, Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-videos-sequentially-for-free-youtube-guide/"><u>Navigating Videos Sequentially for Free - YouTube Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformar-archivos-mov-en-mkv-con-facilidad-y-sin-costes-mediante-conversor-gratuito-online-movavi/"><u>Transformar Archivos MOV en MKV Con Facilidad Y Sin Costes Mediante Conversor Gratuito Online - MOVavi</u></a></li>
 </ul></div>
 

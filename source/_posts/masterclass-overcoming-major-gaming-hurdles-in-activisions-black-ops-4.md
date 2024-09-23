@@ -1,0 +1,143 @@
+---
+title: "Masterclass: Overcoming Major Gaming Hurdles in Activision's Black Ops 4"
+date: 2024-09-17T16:02:11.993Z
+updated: 2024-09-22T23:29:14.011Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Masterclass: Overcoming Major Gaming Hurdles in Activision's Black Ops 4"
+excerpt: "This Article Describes Masterclass: Overcoming Major Gaming Hurdles in Activision's Black Ops 4"
+thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6da8afae499c025285139f98c.png
+---
+
+## Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved
+
+If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
+
+ And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Fixes for speakers crackling
+
+ All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
+
+ You may not have to try all the fixes; just work your way down the list until the pesky crackling sound problem in your laptop disappears.
+
+1. [**Disable Exclusive Mode and change the sound format**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### **Fix 1: Disable Exclusive Mode and change the sound format**
+
+ Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
+
+1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
+2. Right-click on**speakers** and click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Update your audio driver
+
+ This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**Free**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+4. Restart your computer, play some audio and see if that crackling noise has gone by now.
+
+---
+
+### Fix 3: Adjust **the minimum processor state**
+
+ Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
+
+1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+2. Click the **High performance** option > **Change plan settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
+ Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
+
+---
+
+ There you go – top 3 fixes for the **speaker crackling** problem in your Windows 10/8/7\. Hope this helps and feel free to share your ideas with us in the comment section below. 🙂
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-new-world-wont-launch-easy-anti-cheat-error/"><u>[SOLVED] New World Won't Launch Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-plugged-in-not-charging-in-windows-7-or-10/"><u>[SOLVED] Plugged in, Not Charging in Windows 7 or 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-comprehensive-review-of-googles-ar-stickers/"><u>2024 Approved Comprehensive Review of Google's AR Stickers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/address-ineffective-fb-video-sharing-for-2024/"><u>Address Ineffective FB Video Sharing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practices-snatching-supreme-photos-for-free/"><u>Best Practices Snatching Supreme Photos for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion-for-2024/"><u>Conquering Subreddit Mastering the Art of Public Discussion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-fix-your-steam-disk-write-issues-instantly/"><u>Effortless Ways to Fix Your Steam Disk Write Issues Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-onedrive-icons-in-explorer-on-windows-11/"><u>Eliminate OneDrive Icons in Explorer on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-wireless-screen-mirroring-problems-on-windows-11/"><u>How to Troubleshoot and Resolve Your Microsoft Wireless Screen Mirroring Problems on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prolific-iphone-photography-cutting-edge-app-selection-guide/"><u>In 2024, Prolific iPhone Photography Cutting-Edge App Selection Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a78-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A78 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-a-non-responsive-keyboard-during-system-startup/"><u>Resolved: Fixing a Non-Responsive Keyboard During System Startup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/stealthy-spectator-of-online-tales/"><u>Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-critical-application-startup-error-error-0xc000007b/"><u>Understanding and Repairing the Critical Application Startup Error (Error 0Xc000007B)</u></a></li>
+</ul></div>
+

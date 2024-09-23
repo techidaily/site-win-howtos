@@ -1,7 +1,7 @@
 ---
 title: Solve 'PDF Not Printing' Woes Instantly with These Proven Tips
-date: 2024-09-15T02:56:01.869Z
-updated: 2024-09-17T21:23:21.644Z
+date: 2024-09-17T23:50:31.965Z
+updated: 2024-09-22T21:14:31.236Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -86,21 +93,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -109,13 +102,6 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -128,11 +114,40 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
 8. Restart your computer afterward.
@@ -153,13 +168,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -178,6 +186,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -187,13 +203,6 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -234,20 +243,20 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-capturing-contentment-a-practical-guide-to-daily-vlogging-for-2024/"><u>[New] Capturing Contentment A Practical Guide to Daily Vlogging for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>[New] The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-youtube-video-speed-fast-render-and-upload-techniques-for-2024/"><u>[Updated] Enhance YouTube Video Speed - Fast Render and Upload Techniques for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essential-guide-to-angular-video-compilation-android/"><u>[Updated] In 2024, The Essential Guide to Angular Video Compilation (Android)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-free-movie-format-converter-tools-of-2024-windows-mac-and-online-options/"><u>Best Free Movie Format Converter Tools of 2024: Windows, Mac & Online Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-transforming-hd-footage-for-dvd-format-compatibility/"><u>Comprehensive Tutorial on Transforming HD Footage for DVD Format Compatibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-swift-and-successful-conversion-of-video-codes/"><u>Effective Strategies for Swift and Successful Conversion of Video Codes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-techniques-for-reducing-video-file-size-before-dvd-creation/"><u>Efficient Techniques for Reducing Video File Size Before DVD Creation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-conversion-top-free-tools-for-turning-mp4-files-into-iso-format/"><u>Effortless Conversion: Top Free Tools for Turning MP4 Files Into ISO Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-google-photos-video-uploading-made-simple-discover-the-ultimate-guide/"><u>Effortless Google Photos Video Uploading Made Simple: Discover the Ultimate Guide!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-your-android-experience-with-picture-in-picture-mode/"><u>Enhancing Your Android Experience with Picture-in-Picture Mode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-guide-perfect-steps-to-convert-and-import-mov-files-into-windows-movie-maker/"><u>Free Guide: Perfect Steps to Convert & Import MOV Files Into Windows Movie Maker</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo V27 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/isolating-and-resolving-unilateral-sound-issue-on-win-os/"><u>Isolating and Resolving Unilateral Sound Issue on WIN OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] In 2024, Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-legally-accessing-government-election-coverage-on-demand/"><u>[New] Legally Accessing Government Election Coverage on Demand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-detailed-imagery-in-digital-spaces/"><u>[Updated] Unlocking Detailed Imagery in Digital Spaces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webmmkvmovavi/"><u>免費直接WEBM轉MKV在線上，如何運用Movavi轉換工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp3webm/"><u>如何利用 Movavi 在線免費換算MP3成WEBM格式 - 高效率指南</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-screen-exploring-the-mysteries-of-communication-with-the-dead-internet-theory/"><u>Beyond the Screen: Exploring the Mysteries of Communication with the Dead Internet Theory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-3g2-por-nada-el-procesador-en-linea-de-movavi-para-convertir-facilmente/"><u>Cambia Tus Archivos De Video MP4 a 3G2 Por Nada: El Procesador en Línea De Movavi Para Convertir Fácilmente</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-sound-problems-a-step-by-step-guide/"><u>Mastering Discord Sound Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sync-video-elements-to-captivate-instagram-audiences-for-2024/"><u>Sync Video Elements to Captivate Instagram Audiences for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-ranking-the-top-web-based-photography-software/"><u>Ultimate Guide: Ranking the Top Web-Based Photography Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-want-to-use-wondershare-video-editor-for-an-affordable-price-read-on-to-avail-of-the-filmora-coupon-code-2022-and-enjoy-extra-savings/"><u>Updated In 2024, Want to Use Wondershare Video Editor for an Affordable Price? Read on to Avail of the Filmora Coupon Code 2022 and Enjoy Extra Savings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222202248-wav-mp3-movavi/"><u>무료 인터넷 WAV에서 MP3로의 쉽고 우아한 변환 - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221939362-gsmmp4-movavi/"><u>オンラインで簡単なGSMMP4形式のファイル変換:無料ツール - Movavi</u></a></li>
 </ul></div>
 

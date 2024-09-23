@@ -1,7 +1,7 @@
 ---
 title: "How to Recover Missing Desktop Icons on Windows 10: A Step-by-Step Guide"
-date: 2024-09-13T02:43:39.499Z
-updated: 2024-09-17T16:57:53.463Z
+date: 2024-09-15T16:49:56.306Z
+updated: 2024-09-22T19:31:25.278Z
 tags:
   - win11
   - win10
@@ -71,13 +71,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -87,15 +80,22 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
- If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
+ If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -105,6 +105,13 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -139,18 +146,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-scrutinizing-the-performance-of-dji-solo-vision-goggles/"><u>[Updated] 2024 Approved Scrutinizing the Performance of DJi Solo Vision Goggles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-conversion-with-actionable-steps-from-xml/"><u>2024 Approved Mastering Media Conversion with Actionable Steps From XML</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-your-videos-effortlessly-discover-the-5-best-free-mp4-to-avi-converters/"><u>Convert Your Videos Effortlessly: Discover the 5 Best Free MP4 to AVI Converters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-x3daudio17dll-recovery-techniques/"><u>Efficient X3DAudio1_7.dll Recovery Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-system-error-5-has-occurred-error-on-windows-11-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 11, 7 & 8 [Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-frontier-from-crashing-during-play-on-your-computer-system/"><u>How to Stop Frontier From Crashing During Play on Your Computer System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f04-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy F04 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-and-solving-errors-in-your-windows-software-installers/"><u>Identifying and Solving Errors in Your Windows Software Installers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-glitches-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Glitches with These Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-microphone-problems-on-windows-11-computers/"><u>Troubleshooting Nonfunctional Microphone Problems on Windows 11 Computers</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-quality-computers-at-your-desk/"><u>[New] Premium Quality Computers at Your Desk</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eamless-webm-creation-from-youtube-videos/"><u>[New] Seamless WebM Creation From YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-swift-methodology-to-weed-out-fake-pals-from-insta-network/"><u>[Updated] 2024 Approved Swift Methodology to Weed Out Fake Pals From Insta Network</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-step-by-step-iphone-podcast-audio-enjoyment/"><u>2024 Approved Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkvwmv/"><u>全自動MKV/WMV形式のフリーウェブベース変換サービス - モバヴァイ・コンバート</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-frp-bypass-by-drfone-android/"><u>About Oppo FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-mp4-audio-files-free-online-with-movavis-aac-encoder/"><u>Convert MP4 Audio Files Free Online with Movavi's AAC Encoder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-3gp-en-fichiers-m4a-avec-ezyupload/"><u>En Ligne - Convertissez Gratuitement Des Fichiers 3GP en Fichiers M4A Avec ezyUpload</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-steps-to-fortify-accounts-using-2fa-gmail-and-beyond/"><u>Essential Steps to Fortify Accounts Using 2FA: Gmail & Beyond</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100t-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100t FRP Locks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-narzo-60x-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fight-night-on-nintendo-switch-top-ten-picks/"><u>In 2024, Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kunt-u-een-pef-afbeelding-naar-jpeg-omzetten-dit-is-gratis-en-makkelijk-met-movavi/"><u>Kunt U Een PEF-Afbeelding Naar JPEG Omzetten? Dit Is Gratis en Makkelijk Met Movavi!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221033902-mp4gif-movavi/"><u>MP4への変換：動画ファイル形式をGIFからスムーズに移行するための専門的なガイド - Movavi・モバビ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-cr2-images-into-jpgs-a-comprehensive-guide-with-freebies/"><u>Transform Your CR2 Images Into JPGs: A Comprehensive Guide with Freebies!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-wmv-in-formato-avi-gratuitamente-online-con-convertiwmv/"><u>Trasforma I Tuoi File WMV in Formato AVI Gratuitamente Online Con ConvertiWMV</u></a></li>
 </ul></div>
 

@@ -1,0 +1,175 @@
+---
+title: "Navigating Without XINPUT1_3.dll: Solutions & Alternatives"
+date: 2024-09-16T23:54:10.795Z
+updated: 2024-09-22T19:34:50.838Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Navigating Without XINPUT1_3.dll: Solutions & Alternatives"
+excerpt: "This Article Describes Navigating Without XINPUT1_3.dll: Solutions & Alternatives"
+thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf0815517f86ca0ac7f1e63b79d5ed.jpg
+---
+
+## Troubleshooting Stuck Personalization Features: Solutions Found
+
+If you’re greeted with a dark screen with this **Personalized Settings (Not Responding)** box in the upper left after**Windows Update** , don’t panic. Many users have reported the same. But luckily they’ve solved this woe with the fixes below. So read on and check them out…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 6 Fixes for Personalized Settings (Not Responding)
+
+ The screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** and**7** as well.
+
+ You may not have to try all these fixes; just work your way down the list until the problem is resolved.
+
+1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Switch the network connection](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Re-launch Windows explorer](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Run SFC Command](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Delete a file in regedit](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Want us to fix the problem for you?](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Restart your computer
+
+1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
+2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
+  and choose**Restart** .
+3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
+
+---
+
+### Fix 2: Switch the network connection
+
+1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
+2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
+ (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
+3. In the middle of your computer screen, click**Sign out** .
+4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 3: Re-launch Windows explorer
+
+1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time, then click**Task Manager** .
+2. Right-click on**Windows Explorer** and click**End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
+3. Click**File** \>**Run new task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
+4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
+
+ Now you should have your desktop back.
+5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Run SFC Command
+
+1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Click**Yes** when prompted to confirm.
+2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
+ It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 5: Delete a file in regedit
+
+ Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
+
+1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
+
+ Click**Yes** when prompted to confirm.
+2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
+3. Right-click on**the last file** and click**Export** to back up the file.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
+ If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
+4. Right-click on**the last file** and click**Delete** .
+5. Restart your computer and see if your desktop comes back.
+
+---
+
+### Fix 6: Want us to fix the problem for you?
+
+ If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
+
+---
+
+ How have the fixes above helped you with your troubleshooting? Do you have any ideas or tips to share with us? Drop a comment below and let us know your thoughts.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/"><u>[New] Effortless Capture & Storage Pro Guide to Digital Sound Recording</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors/"><u>[Updated] 2024 Approved Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitch-out-streaming-twitters-hd-visuals-seamlessly/"><u>[Updated] Twitch Out Streaming Twitter's HD Visuals Seamlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44oi44oq44ot5yuv55s744kt44oj44ox44ob44oj5oml6acg44ks44kk44oj77ya44k544og44o844k644gr44oe44or44ob44oh44oh44kj44ki44kz44oz44og44oz44oe5lplusd5a2y44cn/"><u>「モバビ動画キャプチャ手順ガイド：スムーズにマルチメディアコンテンツ保存」</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-v-purse-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor V Purse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-windows-11-setup-how-to-achieve-a-pristine-installation-in-minutes/"><u>Effortless Windows 11 Setup - How to Achieve a Pristine Installation in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-audio-problems-how-to-address-crackling-sounds-from-speakers-in-windows/"><u>Fixing Audio Problems: How to Address Crackling Sounds From Speakers in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-nord-n30-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus Nord N30 5G Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock Verizon iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203220084-overcome-the-challenge-of-frozen-windows-updates-now-fixed/"><u>Overcome the Challenge of Frozen Windows Updates - Now Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-fixing-problematic-windows-graphics-drivers/"><u>Resolving Minecraft Crashes: Fixing Problematic Windows Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-to-using-file-explorer-in-windows-11/"><u>Simplified Guide to Using File Explorer in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-when-your-gpu-doesnt-support-alpha-blending/"><u>Solving the Problem: When Your GPU Doesn't Support Alpha Blending</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-most-massive-lifting-machines-in-the-sky/"><u>The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-a-dark-display-in-windows-11-systems/"><u>Troubleshooting and Solutions for a Dark Display in Windows 11 Systems</u></a></li>
+</ul></div>
+

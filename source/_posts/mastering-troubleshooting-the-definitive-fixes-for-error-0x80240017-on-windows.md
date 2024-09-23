@@ -1,7 +1,7 @@
 ---
 title: "Mastering Troubleshooting: The Definitive Fixes for Error 0X80240017 on Windows"
-date: 2024-09-15T17:15:20.935Z
-updated: 2024-09-17T20:16:29.653Z
+date: 2024-09-17T17:24:32.492Z
+updated: 2024-09-22T20:26:43.779Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -96,13 +89,21 @@ If the Windows Update error persists, move on to the second method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -135,16 +136,16 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -168,17 +169,21 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-steps-for-inspirational-daily-living-visual-stories/"><u>[Updated] 2024 Approved Steps for Inspirational Daily Living Visual Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1011-media-playermp4/"><u>動画再生問題解決: Windows 10/11 Media PlayerでMP4が出せない原因と改善策</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-film-workflow-choosing-between-hdr-and-sdr/"><u>Navigating Through Film Workflow Choosing Between HDR & SDR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-fixes-for-a-malfunctioning-google-hangouts-microphone-issue/"><u>Simple Fixes for a Malfunctioning Google Hangouts Microphone Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-6-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-steps-to-successfully-remove-audio-from-videos/"><u>Ultimate Guide: Steps to Successfully Remove Audio From Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-for-saving-discord-conversations-as-videos-on-pcs-and-smartphones-whats-new/"><u>Ultimate Tutorial for Saving Discord Conversations as Videos on PCs and Smartphones - What's New ?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-enhancing-video-clarity-and-resolution-with-vlc-media-player-the-2024-edition/"><u>Ultimate Tutorial: Enhancing Video Clarity & Resolution with VLC Media Player - The 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-mod-files-a-comprehensive-guide-on-their-functions-and-usage/"><u>Understanding MOD Files: A Comprehensive Guide on Their Functions and Usage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-next-level-gameplay-with-the-ideal-processor-selection/"><u>Unlock Next-Level Gameplay with The Ideal Processor Selection</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-rated-mp4-video-property-editors/"><u>Updated Top-Rated MP4 Video Property Editors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-online-video-preservation/"><u>[New] In 2024, The Ultimate Guide to Online Video Preservation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4aandogv-movavi/"><u>「お客さまの皆様に愛される無料M4A&OGV音楽ファイル変換サービス - Movavi」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 12R without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vob-asf-movavi/"><u>網路直接 VOB 到 ASF 無成本轉化 - 使用 Movavi 視頻工具</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-flac-files-to-webm-format-for-free-on-the-internet-with-movavi-tools/"><u>Convert Your FLAC Files to WebM Format for Free on the Internet with Movavi Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-conversion-techniques-moving-data-seamlessly-from-pdf-files-to-excel-sheets/"><u>Effortless Conversion Techniques: Moving Data Seamlessly From PDF Files to Excel Sheets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expertly-broadcast-your-gopro-adventures-on-top-channels-periscope-facebook/"><u>Expertly Broadcast Your Gopro Adventures on Top Channels (Periscope, Facebook)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-jpegjpg-raw-movavi-imaging-tools/"><u>Google의 인터넷 세계에서 JPEG/JPG를 무료로 RAW 형식으로 바꾸기 - Movavi Imaging Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-smooth-out-the-play-in-battlefield-5-a-complete-lag-free-solution-list/"><u>How to Smooth Out the Play in Battlefield 5 – A Complete Lag-Free Solution List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-huawei-p60-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Huawei P60 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/les-meilleures-sites-de-contenu-video-a-vendre-ou-ecouter-gratuitement-en-2022-un-classement-des-14-premiers/"><u>Les Meilleures Sites De Contenu Vidéo À Vendre Ou Écouter Gratuitement en 2022 - Un Classement Des 14 Premiers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-tool-for-quickly-transforming-m4r-files-into-mp3-format-on-the-web/"><u>Movavi's Free Tool for Quickly Transforming M4R Files Into MP3 Format on the Web</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/topsydenkende-instruktiver-om-at-gennemga-konvertering-fra-mxf-til-mp4-under-macwindows/"><u>Topsydenkende Instruktiver: Om At Gennemgå Konvertering Fra MXF Til MP4 Under Mac/Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-expert-picks-best-voice-isolation-technologies-for-music-creators/"><u>Updated In 2024, Expert Picks Best Voice Isolation Technologies for Music Creators</u></a></li>
 </ul></div>
 

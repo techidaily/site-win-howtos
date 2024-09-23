@@ -1,7 +1,7 @@
 ---
 title: Tackling the Mystery of Your PC's Sudden Off Switches – Effective Solutions Revealed
-date: 2024-09-15T18:59:44.412Z
-updated: 2024-09-17T18:30:47.425Z
+date: 2024-09-16T23:29:31.275Z
+updated: 2024-09-22T20:56:49.706Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -71,19 +71,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -104,11 +91,32 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -121,13 +129,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -144,21 +145,21 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -183,16 +184,19 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-community.techidaily.com/mkv-m4v-movavi/"><u>線上無架限 高效率 MKV 到 M4V 影片轉換工具 - 全功能 Movavi 編輯解碼器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-top-5-no-cost-rmvb-media-players-for-windows-10-users/"><u>Discover the Top 5 No-Cost RMVB Media Players for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-videos-from-sendvid-quickly-top-4-reliable-techniques-revealed/"><u>Download Videos From Sendvid Quickly: Top 4 Reliable Techniques Revealed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-xmovies8-free-save-and-enjoy-your-favorite-films-anytime-even-offline/"><u>Download XMovies8 Free: Save & Enjoy Your Favorite Films Anytime, Even Offline!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-instructions-for-recording-live-broadcasts-on-your-pc-with-windows-11-and-tunein/"><u>Easy Instructions for Recording Live Broadcasts on Your PC with Windows 11 and TuneIn</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-transform-your-mpeg4-videos-into-mpeg2-format-for-windows-users/"><u>Easy Steps: Transform Your MPEG4 Videos Into MPEG2 Format for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-morse-code-typing-with-laptops-shut-lid-strike-rhythm-wisely-to-preserve-hardware-integrity/"><u>Effortless Morse Code Typing with Laptop's Shut Lid – Strike Rhythm Wisely to Preserve Hardware Integrity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-edge-innovations-for-your-daily-life-for-2024/"><u>Leading Edge Innovations for Your Daily Life for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/obs-project-no-more-hiccups-enhanced-compatibility-with-windows-11-and-10-solutions-2024/"><u>Obs Project No More Hiccups: Enhanced Compatibility with Windows 11 & 10 (Solutions, 2024)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-high-wudfhostexe-cpu-consumption-on-windows-10-pcs/"><u>Troubleshooting and Fixing High wudfhost.exe CPU Consumption on Windows 10 PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-f14-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy F14 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-gear-vr-and-mobile-devices-the-2023-compatibility-guide/"><u>[New] Gear VR and Mobile Devices The 2023 Compatibility Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-tiktoks-made-easy/"><u>[New] Tweeting TikToks Made Easy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-watched-youtube-film-channels-ranked-for-2024/"><u>[Updated] Best-Watched YouTube Film Channels Ranked for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breakthrough-beginnings-in-panzoids/"><u>[Updated] Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225772103-bmppng-movavi/"><u>網路直接無成本 BMP到PNG 轉換 - 使用Movavi的方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-technology-for-superior-sleep-unlocking-serene-rest-every-night/"><u>Advanced Technology for Superior Sleep: Unlocking Serene Rest Every Night</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/create-gifs-from-tiff-files-without-cost-discover-the-magic-of-movavis-web-based-tool/"><u>Create GIFs From TIFF Files Without Cost - Discover the Magic of Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-effortlessly-transforming-3gp3g2-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Effortlessly Transforming 3GP/3G2 Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/freesync-freedom-meets-4k-excellence-in-samsung-ue590-for-2024/"><u>FreeSync Freedom Meets 4K Excellence in Samsung UE590 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-offline-editing-of-mxf-videos-to-mpg/"><u>Movavi's No-Cost Tool for Easy Offline Editing of MXF Videos to MPG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavipng-raw/"><u>MovaviでシームレスなオンラインPNG画像を無料変更 - RAWへの即時変換</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-18-best-free-video-compression-tools-of-2e24-windows-and-mac-compatible/"><u>Top 18 Best Free Video Compression Tools of 2E24 - Windows & Mac Compatible</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-how-to-preventing-and-repairing-last-epoch-system-failures-in-modern-computers-tips-updated/"><u>Ultimate How-To: Preventing and Repairing 'Last Epoch' System Failures in Modern Computers (Tips Updated )</u></a></li>
 </ul></div>
 

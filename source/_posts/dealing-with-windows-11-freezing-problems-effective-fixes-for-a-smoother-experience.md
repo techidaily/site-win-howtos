@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Windows 11 Freezing Problems: Effective Fixes for a Smoother Experience"
-date: 2024-09-12T19:22:33.338Z
-updated: 2024-09-17T16:24:06.447Z
+date: 2024-09-17T20:03:58.028Z
+updated: 2024-09-22T18:48:53.921Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -59,33 +66,35 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -117,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -137,15 +139,16 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
-4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
+4. Follow the on-screen instructions to fix the problem.
 
 #### on Windows 11
 
@@ -155,13 +158,6 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -184,18 +180,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-pathway-to-youtube-live-success-stories/"><u>[New] Your Pathway to YouTube Live Success Stories</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pair-phonetablet-and-computer-calendars-for-seamless-zoom-scheduling/"><u>[Updated] Pair Phone/Tablet & Computer Calendars for Seamless Zoom Scheduling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029540639-mov-mp4/"><u>高画質保持で MOV から MP4 に完璧に変換するテクニック</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027323528-xmedia-recode/"><u>効率的にXMedia Recodeを使った動画結合ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3g23g2mp4/"><u>最適な3G2フォーマット変換ツールの選び方：3G2ビデオをMP4へ移行する手引き</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/benq-sw320-review-a-gateway-to-true-high-definition/"><u>BenQ SW320 Review A Gateway to True High Definition</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-z-fold-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy Z Fold 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029345412-mpcmpcmp3/"><u>MPCが何か？免責金のないMPCファイルをMP3へ自由に変更する手順</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/secure-your-free-trial-on-top-of-the-line-audio-transcriber-factory-pro-software-online/"><u>Secure Your Free Trial on Top-of-the-Line Audio Transcriber - Factory Pro Software Online!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solving-the-mystery-why-is-your-tl-wn722n-wireless-card-missing-in-windows/"><u>Solving the Mystery: Why Is Your TL-WN722N Wireless Card Missing in Windows?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027670980-webex/"><u>Webex会議中にメモリーカードで音声記録ができる方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030550739-windowsmac/"><u>Windows・Macで動画からスチールショットを抽出する専門的なガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-pickups-for-novice-gopro-owners-for-2024/"><u>[Updated] Prime Pickups for Novice GoPro Owners for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-dat-mp4-datmp4/"><u>2024 年度推荐：六款最佳 DAT转换为 MP4 视频编解码器 - DAT到MP4转换软件选型指南</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>2024 Approved The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing.m/"><u>2024 Approved The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivos-avi-a-gifs-online-sin-coste-guia-rapida-y-eficaz/"><u>Convertir Archivos Avi a Gifs Online Sin Coste - Guía Rápida Y Eficaz</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/formato-de-archivos-free-online-converted-from-asf-to-avi-by-movavi-guia-paso-a-paso-y-mejores-practicas/"><u>Formato De Archivos FREE Online Converted From ASF to AVI by [Movavi]: Guía Paso a Paso Y Mejores Prácticas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-tool-transforming-mp2-files-into-mp4-format-effortlessly/"><u>Free Online Conversion Tool: Transforming MP2 Files Into MP4 Format Effortlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording-for-2024/"><u>From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/dmedia-studio/"><u>SlicedMedia Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-free-mac-video-transcoding-tools-the-ultimate-guide/"><u>Top 15 Free Mac Video Transcoding Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-to-flac-web-audioshift/"><u>バーチャル・ディジタル・オーディオ移行:無料WMA to FLAC Web変換ツール – AudioShift</u></a></li>
 </ul></div>
 

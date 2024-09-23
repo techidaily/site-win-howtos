@@ -1,7 +1,7 @@
 ---
 title: "Winning Against the 0X80072EFD Error: Effective Fixes for Windows 10 Users"
-date: 2024-09-12T21:17:36.391Z
-updated: 2024-09-18T00:14:26.261Z
+date: 2024-09-20T21:09:53.188Z
+updated: 2024-09-22T18:37:57.748Z
 tags:
   - win11
   - win10
@@ -64,38 +64,12 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  When all the files are deleted, you shall see “This folder is empty”.
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Run the DISM tool**
 
  The error code 0xc1900208 can also be triggered by the corrupted Windows update files. In this case, running **the Deployment Image Servicing and Management (DISM) tool**  may resolve this issue. Just follow the step-by-step instructions below to run the DISM tool:
 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
@@ -105,12 +79,27 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
 
@@ -119,25 +108,19 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
-Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
@@ -153,18 +136,32 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -192,18 +189,16 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-revolutionize-advertising-try-all-50-available-free-youtube-banners/"><u>[New] 2024 Approved Revolutionize Advertising – Try All 50 Available FREE YouTube Banners</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[New] In 2024, Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-trendy-ways-to-save-your-gaming-moments/"><u>[Updated] 2024 Approved Trendy Ways to Save Your Gaming Moments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5y2x6zm644gl44kj5a6i44kk44gq44gm44kj44cb5qsc57si5yplusv6io944gq44k744kv44k344o844ot44oh44kq44ks56k65a6f44gr44oa44km44oz44ot44o844oj44gz44kl5oqa6kgt44cn.55/"><u>「危険から守りながら、検索可能なセクシービデオを確実にダウンロードする技術」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/20247youtube/"><u>【2024年版】信頼性が証明されたトップ7無料YouTube音声記録ソフトウェア一推ブ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gp-mp4-3/"><u>最新無料プログラムリスト: 3GP 画像と MP4に完璧なフォーマット変換 - ベスト3ピックアップ!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-alternatives-to-keepvid-discover-the-top-6-platforms-for-quick-and-easy-video-downloads/"><u>Best Alternatives to KeepVid: Discover the Top 6 Platforms for Quick and Easy Video Downloads</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-smart-8-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix Smart 8 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-14-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 14</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>In 2024, Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-shots-ios-11s-camera-innovations/"><u>In 2024, Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44kw44op44ov44kj44od44kv44k544ky44o844og5yuv55s757ch5y2y6yyy55s744ks44kk44oj/"><u>マルチグラフィックスゲーム動画簡単録画ガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-techniques-in-xbox-gaming-recording-setup-for-2024/"><u>[Updated] Advanced Techniques in Xbox Gaming Recording Setup for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-framing-frontiers-cutting-edge-app-innovations-24/"><u>2024 Approved Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222260753-avi-mp4-movavi/"><u>立即將 AVI 影片轉換成 MP4 的線上免費方法 - 運用 Movavi 技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-mp2-vers-flac-pour-free-online-utilisez-le-service-de-conversion-gratuit-de-movavi/"><u>Conversion De MP2 Vers FLAC Pour Free Online - Utilisez Le Service De Conversion Gratuit De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-14-no-cost-pc-logo-creation-programs-for-effective-brand-identity-development/"><u>Discover the Best 14 No-Cost PC Logo Creation Programs for Effective Brand Identity Development</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gif-webm-gif-to-webm/"><u>GIF 파일을 Webm로 전환: 원활한 영상 제작과 공유를 위해 무료 바이트 사용 GIF to WebM 청크</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-narzo-60-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme Narzo 60 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-fast-lane-best-gif-speed-changer-tools-for-all-devices/"><u>In 2024, The Fast Lane Best GIF Speed Changer Tools for All Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavimpeg3g2/"><u>Movaviアプリを使った無料MPEGから3G2への簡単なオンライン変換方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-expert-advice-for-starting-up-farming-simulator-22/"><u>Overcoming Launch Errors: Expert Advice for Starting Up Farming Simulator 22</u></a></li>
 </ul></div>
 

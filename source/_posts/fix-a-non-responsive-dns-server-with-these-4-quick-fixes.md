@@ -1,7 +1,7 @@
 ---
 title: Fix a Non-Responsive DNS Server with These 4 Quick Fixes
-date: 2024-09-16T17:02:20.481Z
-updated: 2024-09-17T20:34:34.033Z
+date: 2024-09-21T20:31:07.019Z
+updated: 2024-09-22T22:30:02.365Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -64,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -72,19 +73,19 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -107,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -125,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -146,6 +140,13 @@ If this method didn’t work for you, check out the last fix.
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -177,12 +178,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-lenovo-perfecting-screen-capture-techniques/"><u>[New] 2024 Approved Mastering Lenovo Perfecting Screen Capture Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-gif-galore-how-to-seamlessly-share-emojis-and-animations-on-instagram/"><u>[Updated] 2024 Approved GIF Galore How to Seamlessly Share Emojis & Animations on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-tech-headaches-how-sfc-and-dism-can-quickly-fix-your-windows-10-system-errors/"><u>Avoiding Tech Headaches: How SFC & DISM Can Quickly Fix Your Windows 10 System Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/compatibility-achieved-how-to-get-your-miracast-working-with-updated-drivers/"><u>Compatibility Achieved: How to Get Your Miracast Working with Updated Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-making-your-external-device-work-again-on-pcmac-systems/"><u>Diagnosis and Repair: Making Your External Device Work Again on PC/Mac Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-compatible-canon-mx410-drivers-fast-and-easy-setup-for-windows/"><u>Download Compatible Canon MX410 Drivers - Fast & Easy Setup for Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-video-tweaking-apps-for-social-networking/"><u>[New] Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-successful-youtubing-master-end-credits-and-makers-sources/"><u>[Updated] In 2024, Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-expose-and-rectify-vanished-videos-on-fb/"><u>2024 Approved How to Expose and Rectify Vanished Videos on FB</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>2024 Approved Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-gsm-vers-ligne-deverminee-avec-movavi-titre-optimal-pour-le-referencement/"><u>Conversion Gratuite De GSM Vers Ligne Déverminée Avec Movavi - Titre Optimal Pour Le Référencement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-18-premier-freeware-video-compressors-for-pc-and-mac/"><u>Discover the Ultimate List: 18 Premier Freeware Video Compressors for PC and Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-silent-screens-to-captivating-media-instantly-create-captions-on-fb-for-2024/"><u>From Silent Screens to Captivating Media Instantly Create Captions on FB for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-2023s-top-8-video-sensations-a-facebook-deep-dive/"><u>In 2024, 2023'S Top 8 Video Sensations A Facebook Deep Dive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>In 2024, An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-personal-health-tracking-with-garmin-venu-in-depth-product-insights/"><u>Mastering Personal Health Tracking with Garmin Venu: In-Depth Product Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/topo-a-lista-final-dos-melhores-programas-de-reproducao-vocal-selecionados-pelos-especialistas-em-som/"><u>Topo: A Lista Final Dos Melhores Programas De Reprodução Vocal - Selecionados Pelos Especialistas Em Som</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasformare-i-file-f4v-in-mov-online-di-gratuita-con-movavi/"><u>Trasformare I File F4V in MOV Online Di Gratuità Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-avi-files-a-guide-to-opening-and-editing-with-movavi-video-converter/"><u>Understanding AVI Files: A Guide to Opening and Editing with Movavi Video Converter</u></a></li>
 </ul></div>
 

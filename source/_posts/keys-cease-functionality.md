@@ -1,7 +1,7 @@
 ---
 title: Keys Cease Functionality
-date: 2024-09-14T03:23:49.739Z
-updated: 2024-09-18T00:38:03.661Z
+date: 2024-09-16T18:39:09.463Z
+updated: 2024-09-22T23:29:04.444Z
 tags:
   - win11
   - win10
@@ -76,21 +76,29 @@ There are two ways you can get the right driver for your keyboard:
 1. Click the **Windows icon** on the bottom left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-12.jpg)
 2. Paste **device manager** on the search box, then click **Device Manager** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-44.jpg)
-3. Double-click **Keyboards** . Then, right-click your Keyboard’s name and select **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-04-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-44.jpg)
+3. Double-click **Keyboards** . Then, right-click your Keyboard’s name and select **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-04-38.jpg)
 
 4. Click the **Power Management tab** , verify that the box next to **Allow the computer to turn off this device to save power** is unchecked, then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-05-19.jpg)
 5. Restart your computer.
 
  If your keyboard is still not working after the reboot, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for Windows updates
 
@@ -105,10 +113,10 @@ There are two ways you can get the right driver for your keyboard:
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check if your keyboard can work properly now. If it is not, move on to the fix, below.
@@ -121,13 +129,6 @@ There are two ways you can get the right driver for your keyboard:
 
 * **[If you’re using a USB keyboard](#e1)**
 * **[If you’re using a wireless keyboard](#e2)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### If you’re using a USB keyboard
 
@@ -142,10 +143,10 @@ There are two ways you can get the right driver for your keyboard:
  Hope this has fixed your issue. If you have any questions, please leave a comment below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### If you’re using a wireless keyboard
@@ -161,10 +162,10 @@ There are two ways you can get the right driver for your keyboard:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Wait for 3 minutes, then connect the receiver back to the computer.
@@ -193,19 +194,18 @@ There are two ways you can get the right driver for your keyboard:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>[Updated] 2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet-for-2024/"><u>[Updated] Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>2024 Approved Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-window-capture-suite-pro-xp/"><u>2024 Approved Window Capture Suite Pro XP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-guide-installing-and-using-a-dvd-player-on-dell-laptops-running-windows-11/"><u>Easy Guide: Installing and Using a DVD Player on Dell Laptops Running Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-downloading-vh1-shows-and-episodes-seamlessly/"><u>Effortless Guide: Downloading VH1 Shows & Episodes Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-overcoming-challenges-in-viewing-iso-files-on-smart-tvs/"><u>Effortless Guide: Overcoming Challenges in Viewing ISO Files on Smart TVs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-home-cinema-experience-compatible-formats-for-watching-usb-stored-movies-on-an-lg-tv-without-a-glitch/"><u>Enhance Your Home Cinema Experience: Compatible Formats for Watching USB-Stored Movies on an LG TV without a Glitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flv/"><u>FLVビデオカット、回転、クロップを簡単に学ぶ - ステップバイステップガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/four-effective-techniques-for-video-downloading-from-dumpertnl-step-by-step-guide/"><u>Four Effective Techniques for Video Downloading From Dumpert.nl - Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-12-pro-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from 12 Pro 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-14-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 14 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://blog-min.techidaily.com/losung-fur-verarbeitungsverzogerungen-und-latenzen-in-der-wiedergabe-von-mkv-dateien-auf-pcs-und-macs/"><u>Lösung Für Verarbeitungsverzögerungen Und Latenzen in Der Wiedergabe Von MKV-Dateien Auf PCs Und Macs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-negative-comments-a-content-creators-mantra/"><u>[New] Tackling Negative Comments A Content Creator's Mantra</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>2024 Approved A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpegflv-movavi/"><u>立即在線無限MPEG到FLV的自由變更 - Movavi影片轉換器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-pgm-jpeg/"><u>移動畫中心：用 Movavi 自由下載 - PGM到 JPEG 無限制轉換</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activarea-sistemelor-off-line-via-discord-schimbarile-eficiente-pentru-ecranul-pc-ului-sau-perioada-mobile/"><u>Activarea Sistemelor Off-Line via Discord: Schimbările Eficiente Pentru Ecranul PC-Ului Sau Perioadă Mobile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bluetooth-50-asus-usb-bt500-drivers-compatible-with-windows-11108/"><u>Bluetooth 5.0 Asus USB-BT500 Drivers - Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-slack-and-discord-which-is-the-ultimate-team-communication-tool/"><u>Comparing Slack and Discord – Which Is the Ultimate Team Communication Tool?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-wma-vers-webm-pour-une-meilleure-qualite-video-convertissez-sans-frais-a-laide-de-movavi/"><u>Conversion De Fichiers Audio WMA Vers WEBM Pour Une Meilleure Qualité Vidéo - Convertissez Sans Frais À L'aide De Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/imessage-made-easy-learn-how-to-send-texts-with-your-ipad-in-minutes/"><u>IMessage Made Easy: Learn How to Send Texts with Your iPad in Minutes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-live-stream-over-the-network-with-vlc-media-player/"><u>In 2024, How to Live Stream Over the Network with VLC Media Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-z-flip-7-anticipated-costs-launch-timeline-and-exciting-specs-revealed/"><u>Sneak Peek at the Samsung Galaxy Z Flip 7: Anticipated Costs, Launch Timeline and Exciting Specs Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/taking-a-screenshot-in-windows-10/"><u>Taking a Screenshot in Windows 10</u></a></li>
 </ul></div>
 

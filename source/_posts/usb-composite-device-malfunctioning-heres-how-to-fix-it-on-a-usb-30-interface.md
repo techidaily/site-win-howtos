@@ -1,7 +1,7 @@
 ---
 title: USB Composite Device Malfunctioning? Here's How to Fix It on a USB 3.0 Interface
-date: 2024-09-12T01:01:25.909Z
-updated: 2024-09-17T16:22:07.367Z
+date: 2024-09-17T16:31:39.923Z
+updated: 2024-09-22T20:31:37.585Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Update your printer driver
 
  If your USB controller driver is without problem, then go on to check your**printer driver** .
@@ -72,21 +79,7 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a4193324cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Adjust your BIOS setting
 
@@ -101,6 +94,13 @@ Follow to enable Legacy USB Support:
 3. On the USB Configuration pane, press the**down arrow key** to select**Legacy USB Support** . Then press**Enter** to set it to**Enabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3e993e8ad.jpg)
 4. Save your setting and exit BIOS.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer would then boot into the normal system. See if you can use your printer.
 
@@ -126,20 +126,18 @@ Follow to enable Legacy USB Support:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[New] 2024 Approved Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-pursuing-popularity-on-platforms-elevating-your-youtube-profile-for-2024/"><u>[Updated] Pursuing Popularity on Platforms Elevating Your Youtube Profile for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unrestricted-gaming-beats-digital-download/"><u>[Updated] Unrestricted Gaming Beats Digital Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-chatbot-security-in-digital-age/"><u>Assessing Chatbot Security in Digital Age</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-file-management-skills-with-windows-10-explorer/"><u>Enhance Your File Management Skills with Windows 10 Explorer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-your-hp-laserjet-p1102w-driver-on-pc-windows-1087/"><u>How to Get Your HP LaserJet P1102w Driver on PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-fn-key-problems-on-your-device/"><u>How to Resolve Unresponsive Fn Key Problems on Your Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-parable-pioneers-guild-premier-peak/"><u>In 2024, Parable Pioneers Guild – Premier Peak</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island-for-2024/"><u>Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-iphone-glitches-how-to-successfully-execute-a-force-restart-and-access-recovery-options/"><u>Quick Fixes for iPhone Glitches: How to Successfully Execute a Force Restart and Access Recovery Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-overwatch-voice-chat-failures-fast-effective-solutions-at-hand/"><u>Resolving Overwatch Voice Chat Failures Fast – Effective Solutions at Hand!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-there-was-an-issue-error-when-restoring-your-windows-10-system-a-comprehensive-guide/"><u>Resolving the 'There Was an Issue' Error When Restoring Your Windows 10 System: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-missing-taskbar-elements-on-windows-10-essential-guide-to-reappearing-icons-and-tools/"><u>Restore Missing Taskbar Elements on Windows 10 – Essential Guide to Reappearing Icons & Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205730238-touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-audio-issues-in-your-logitech-g930-headphones/"><u>Troubleshooting Tips: Fixing Audio Issues in Your Logitech G930 Headphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-time-keeper-learning-to-rewind-for-2024/"><u>[New] The Instagram Time Keeper Learning to Rewind for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ai-infused-gaming-broadcasts/"><u>[Updated] 2024 Approved The Ultimate Guide to AI-Infused Gaming Broadcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unsealing-the-secret-permanently-ditch-youtube-shorts-for-2024/"><u>[Updated] Unsealing the Secret Permanently Ditch YouTube Shorts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-prime-interactive-face-time-festivals/"><u>2024 Approved Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726220362672-m1vmp4-movavi/"><u>網路直通無限: M1V到MP4自由转换 - 使用 Movavi 转换器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-asf/"><u>無料MP4形式への変換サービス: ASFファイルを簡単に再編集する方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-your-creative-vision-iphones-new-camera-tools/"><u>Enhancing Your Creative Vision IPhone's New Camera Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-easy-tutorial-turning-pictures-into-animated-gifs-on-windows-or-mac/"><u>Quick and Easy Tutorial: Turning Pictures Into Animated GIFs on Windows or Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/should-you-block-yourphoneexe-on-home-editions/"><u>Should You Block YourPhone.exe on Home Editions?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-faciles-pour-convertir-du-contenu-audio-modmidi-en-format-wav-sans-frais-conseils-et-astuces-de-movavi/"><u>Techniques Faciles Pour Convertir Du Contenu Audio MOD/MIDI en Format WAV Sans Frais, Conseils Et Astuces De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-archivos-mp4-al-linea-guia-definitiva-con-movavi/"><u>Transformación Gratuita De Archivos MP4 Al Línea: Guía Definitiva Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/zoom-v-podstate-nacrtani-movavi-pohlceni-s-netecnou-hory-a-nekolika-sekund/"><u>Zoom v Podstatě: Načrtání Movavi Pohlcení S Netečnou Hory a Několika Sekund</u></a></li>
 </ul></div>
 

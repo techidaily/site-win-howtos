@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Malfunctioning Keys: How to Fix Unresponsive Letters on Windows 10/11"
-date: 2024-09-15T19:01:42.700Z
-updated: 2024-09-17T17:25:45.090Z
+date: 2024-09-15T18:45:44.378Z
+updated: 2024-09-23T01:37:16.855Z
 tags:
   - win11
   - win10
@@ -76,44 +76,31 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -128,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -154,12 +134,32 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -181,17 +181,16 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-first-timers-map-to-earning-wealth-with-periscope/"><u>[New] First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-your-youtube-comments-more-interesting-with-emojis/"><u>2024 Approved Make Your Youtube Comments More Interesting with Emojis</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-zoom-chat-how-to-chat-in-zoom-meeting/"><u>2024 Approved Zoom Chat How to Chat in Zoom Meeting?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banish-bootlessness-solutions-for-your-computers-unplanned-shutdowns/"><u>Banish Bootlessness: Solutions for Your Computer's Unplanned Shutdowns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-the-0x80070490-glitch-in-windows-update-expert-tips-and-solutions/"><u>Beating the 0X80070490 Glitch in Windows Update - Expert Tips & Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-photoshop-free-editing-tools-top-6-picks/"><u>Discover the Best Photoshop-Free Editing Tools: Top 6 Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-update-fiasco-a-guide-to-solving-error-0x8024200d/"><u>How To Overcome the Windows Update Fiasco: A Guide to Solving Error 0X8024200d</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incompatibility-with-hdcp-enabled-content-heres-how-to-fix-it/"><u>Incompatibility with HDCP-Enabled Content? Here's How to Fix It</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts-for-2024/"><u>Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-sleep-mode-perfection/"><u>Windows 11 Sleep Mode Perfection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screenplay-foundations-a-guide/"><u>[Updated] Screenplay Foundations A Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-analysis-a-rollercoaster-of-performance-for-gamers/"><u>Asus ROG Zephyrus G16 Analysis: A Rollercoaster of Performance for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0xc00jnz1-comprehensive-solutions-to-correct-this-windows-glitch/"><u>Error 0xC00jnz1: Comprehensive Solutions to Correct This Windows Glitch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>In 2024, Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-guide-turning-insta-vids-to-mp3-tracks/"><u>In 2024, Guide Turning Insta Vids to MP3 Tracks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-warframe-update-errors/"><u>Step-by-Step Solutions for Overcoming Warframe Update Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-x6-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco X6 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-windows-process-termination-issue-error-1067/"><u>Understanding and Solving Windows Process Termination Issue, Error 1067</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-error-reduction-strategies/"><u>Win11 Error Reduction Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204377228-xbox-one-headset-malfunction-heres-your-ultimate-fix-guide/"><u>Xbox One Headset Malfunction? Here's Your Ultimate Fix Guide</u></a></li>
 </ul></div>
 

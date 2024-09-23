@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Non-Functioning Night Light Option in Windows 11
-date: 2024-09-10T22:51:39.075Z
-updated: 2024-09-17T17:26:55.407Z
+date: 2024-09-16T17:33:20.401Z
+updated: 2024-09-22T21:10:15.225Z
 tags:
   - win11
   - win10
@@ -93,10 +93,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -112,6 +112,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -138,16 +145,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
@@ -159,19 +160,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
 
@@ -206,16 +194,15 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-quick-video-recorder-download-and-record-video-for-2024/"><u>[New] Quick Video Recorder Download and Record Video for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[New] The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-10-best-gba-emulators-for-android-you-can-find-for-2024/"><u>[Updated] 10 Best GBA Emulators for Android You Can Find for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/alt-tab-trouble-step-by-step-solutions-for-unresponsive-keyboard-shortcuts/"><u>Alt Tab Trouble? Step-by-Step Solutions for Unresponsive Keyboard Shortcuts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-common-steam-disk-write-error/"><u>Easy Fixes for the Common 'Steam Disk Write Error'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-issue-of-vanishing-desktop-icons-in-windows-10-solutions-for-a-cleaner-workspace/"><u>Fixing the Issue of Vanishing Desktop Icons in Windows 10 - Solutions for a Cleaner Workspace</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor 70 Lite 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-perception-iconic-podcast-design-tips/"><u>In 2024, The Power of Perception Iconic Podcast Design Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211083474-resolve-your-pcs-unwanted-sleeps-simple-fixes-revealed/"><u>Resolve Your PC's Unwanted Sleeps: Simple Fixes Revealed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212221330-solve-your-typing-troubles-in-windows-10-and-11-repair-broken-keyboard-buttons/"><u>Solve Your Typing Troubles in WINDOWS 10 and 11: Repair Broken Keyboard Buttons</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-how-to-fix-continuous-cravings-in-dread-hunger-pc-game/"><u>Solved: How to Fix Continuous Cravings in Dread Hunger PC Game</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-and-document-your-zoom-conferences/"><u>[Updated] In 2024, Secure & Document Your Zoom Conferences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-instagram-to-tik-tok-a-social-pivot-blueprint-for-2024/"><u>[Updated] Instagram to Tik Tok - A Social Pivot Blueprint for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-v30-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo V30 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-spark-10-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Spark 10 Pro Easily?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-journey-beyond-forties-top-4-reasons-to-start-today/"><u>Language Journey Beyond Forties: Top 4 Reasons to Start Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-plugin-load-failures-and-missing-game-files/"><u>Quick Fixes for Windows Plugin Load Failures and Missing Game Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-missing-issue-a-step-by-step-guide/"><u>Resolving the d3dxt9_39.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-to-enhancing-images-using-3d-lut-in-ps/"><u>Ultimate Guide to Enhancing Images Using 3D LUT in PS</u></a></li>
 </ul></div>
 

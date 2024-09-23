@@ -1,7 +1,7 @@
 ---
 title: "FTDI Bus System Alert: Driver Mismatch Causes Memory Protection Disable"
-date: 2024-09-15T20:15:01.981Z
-updated: 2024-09-17T16:55:24.423Z
+date: 2024-09-21T22:42:40.560Z
+updated: 2024-09-22T22:49:34.347Z
 tags:
   - win11
   - win10
@@ -92,20 +92,20 @@ Here’s how to do it:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Close DirectX.
@@ -133,14 +133,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-spice-up-stories-tailored-creative-qandas-for-users/"><u>[New] 2024 Approved Spice Up Stories Tailored Creative Q&As for Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-capture-tweets-as-mp3-audios-via-downloads/"><u>[New] Capture Tweets as MP3 Audios via Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-complexity-with-easy-auto-gpt-setup/"><u>Conquer Complexity with Easy Auto-GPT Setup</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/fast-conversion-techniques-for-changing-avi-files-to-the-efficient-h264-codec/"><u>Fast Conversion Techniques for Changing AVI Files to the Efficient H.264 Codec</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-address-and-correct-delayed-keyboard-input-in-microsofts-windows-10-operating-system/"><u>Guide: Address and Correct Delayed Keyboard Input in Microsoft's Windows 10 Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-execute-a-memory-write-when-encountered-with-an-invalid-0xreferenced-location-error/"><u>How to Correctly Execute a Memory Write When Encountered with an Invalid 0Xreferenced Location Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50i-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X50i Phone without PIN</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-slow-motion-mastery-the-top-10-video-players-you-need/"><u>Updated In 2024, Slow Motion Mastery The Top 10 Video Players You Need</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205936262-why-your-usb-connectors-arent-working-in-windows-11-heres-the-fix/"><u>Why Your USB Connectors Aren’t Working in Windows 11? Here's the Fix!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808136846-solved-windows-10-wont-sleep-issue/"><u>[SOLVED] Windows 10 Won't Sleep Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-women-at-war-yts-top-10-gamers/"><u>2024 Approved Women at War YT's #Top 10 Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-online-movikovar-webovy-konverze-mov-em-vob/"><u>Gratis Online movi.kovář Webový - Konverze MOV Em VOB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handbrake-sans-cuda-des-astuces-pour-une-transcodification-plus-rapide-avec-le-materiel/"><u>HandBrake Sans CUDA : Des Astuces Pour Une Transcodification Plus Rapide Avec Le Matériel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-13c-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi 13C 5G Location | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-se-2022-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone SE (2022) in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win-superb.techidaily.com/kostenloze-veiligheidstitel-toegeven-aan-je-videokampagneen-doen-het-nog-goed/"><u>Kostenloze Veiligheidstitel Toegeven Aan Je Videokampagneën - Doen Het Nog Goed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/merging-multiple-mp4-videos-quickly-an-easy-guide-for-smooth-editing/"><u>Merging Multiple MP4 Videos Quickly: An Easy Guide for Smooth Editing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-forefront-of-networking-best-netgear-routers-reviewed/"><u>The Forefront of Networking: Best Netgear Routers Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-pgm-en-sites-web-gratuits-a-laide-de-movavi-guide-complet-pour-la-conversion-et-le-deploiement-en-ligne/"><u>Transformez Vos PGM en Sites Web Gratuits À L'aide De Movavi - Guide Complet Pour La Conversion Et Le Déploiement en Ligne.</u></a></li>
 </ul></div>
 

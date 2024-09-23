@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Black Screen Issues
-date: 2024-09-16T02:42:22.061Z
-updated: 2024-09-17T23:52:03.126Z
+date: 2024-09-16T21:12:03.975Z
+updated: 2024-09-22T16:37:32.240Z
 tags:
   - win11
   - win10
@@ -102,23 +102,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click your network connection, then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
@@ -150,6 +136,19 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a982ef43d.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right click the**original dial up connection** , and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
@@ -161,13 +160,6 @@ If the problem still persists, you can try the next solution below:
  1) Right click the**Internet icon** at the bottom right corner, and click**Open Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Set up a new connection or network** .
 
@@ -181,20 +173,27 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b7a09937.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select**Broadband (PPPoE)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c351a71b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Reset TCP/IP on your Windows**
 
@@ -222,6 +221,13 @@ netsh int ip reset reset.log
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 Netsh interface tcp set global autotuning=disabled
@@ -229,10 +235,10 @@ Netsh interface tcp set global autotuning=disabled
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309cf60ba01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After the command completed, try your Internet connection again to see if it works.
@@ -256,14 +262,20 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-channel-management-made-simple-step-by-step-tutorial/"><u>[New] 2024 Approved Discord Channel Management Made Simple Step-by-Step Tutorial</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-video-to-song-instagrams-mp3-conversion-process-for-2024/"><u>From Video to Song Instagram's Mp3 Conversion Process for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/how-to-link-youtube-to-tiktok-for-2024/"><u>How to Link YouTube to TikTok for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-rectify-disabled-right-click-windows-11-touchpad/"><u>How To Rectify Disabled Right-Click Windows 11 Touchpad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-error-message/"><u>Resolved: Fixing 'Insufficient System Resources' Error Message</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-why-applicationexe-keeps-crashing-and-how-to-resolve-it/"><u>Solution Guide: Why Application.exe Keeps Crashing and How to Resolve It</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-timeline-microsofts-ui-evolution/"><u>Taskbar Timeline: Microsoft's UI Evolution</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/transform-your-editing-master-the-fade-effect-for-2024/"><u>Transform Your Editing Master the Fade Effect for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-windows-10-error-code-0x800f0922/"><u>Troubleshooting and Repairing the Windows 10 Error Code 0X800F0922</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-picture-guide-to-vsco-app/"><u>[New] Complete Picture Guide to VSCO App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-optimize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>[New] In 2024, Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>[New] In 2024, Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-essential-gear-picking-the-very-best-among-top-9-free-logomakers/"><u>[Updated] Essential Gear Picking the Very Best Among Top 9 Free Logomakers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-reverse-image-retrieval-in-social-media-fb-explained/"><u>2024 Approved Reverse-Image Retrieval in Social Media (FB) Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-picture-editing-dynamic-wallpaper-finder/"><u>Best Picture Editing Dynamic Wallpaper Finder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-entertainment-discover-six-compelling-reasons-to-embrace-snapchats-innovative-my-ai-feature/"><u>Beyond Entertainment: Discover Six Compelling Reasons to Embrace Snapchat's Innovative My AI Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-substitutes-to-windows-movie-maker-a-comprehensive-guide-of-20-applications/"><u>Discover the Ultimate Substitutes to Windows Movie Maker: A Comprehensive Guide of 20 Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-mastering-professional-grade-color-grading-techniques/"><u>Expert Tips: Mastering Professional-Grade Color Grading Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone XR?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-web-based-swf-to-mov-transformation-tool/"><u>Movavi's Free, Web-Based SWF to MOV Transformation Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavionline-oggmp4/"><u>Movaviで簡単にフリーOnline Ogg/MP4コンバートをマスター</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-gopro-editors-handbook-mac-edition/"><u>New 2024 Approved The GoPro Editors Handbook Mac Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/passos-essenciais-para-aplicacao-de-maquiagem-fotografica-tecnicas-do-melhor-visualizador-profissional/"><u>Passos Essenciais Para Aplicação De Maquiagem Fotográfica: Técnicas Do Melhor Visualizador Profissional</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11s-best-screen-capturing-software-selection-top-11-recommendations/"><u>Win11's Best Screen Capturing Software Selection – Top 11 Recommendations!</u></a></li>
 </ul></div>
 

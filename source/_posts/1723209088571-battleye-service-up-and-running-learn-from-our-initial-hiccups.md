@@ -1,7 +1,7 @@
 ---
 title: BattlEye Service Up and Running - Learn From Our Initial Hiccups!
-date: 2024-09-14T22:16:53.482Z
-updated: 2024-09-17T17:00:58.303Z
+date: 2024-09-22T00:58:23.974Z
+updated: 2024-09-23T00:19:10.948Z
 tags:
   - win11
   - win10
@@ -64,48 +64,54 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4) Acquire full permissions on the drive for installation
 
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **f)** On**Permissions**tab, double click on**Administrators**.
 
@@ -138,12 +144,18 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-amuse-others-via-adobe-meme-making/"><u>[New] In 2024, Amuse Others via Adobe Meme-Making</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-effortless-video-downloads-from-crunchyroll-two-no-cost-techniques/"><u>1. Effortless Video Downloads From Crunchyroll: Two No-Cost Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-copyright-law-in-artificial-intelligence-who-is-the-author/"><u>Exploring Copyright Law in Artificial Intelligence: Who Is The Author?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/innovator-of-cinematic-soundscapes-and-imagery/"><u>Innovator of Cinematic Soundscapes & Imagery</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-beyond-virtualdub-exploring-other-video-editing-software-options/"><u>New Beyond VirtualDub Exploring Other Video Editing Software Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmam4a/"><u>WMA音楽ファイルをM4A形式に効果的に変換する方法」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028428055-youtube/"><u>ダウンロード可能なYouTube動画とその字幕:手引き</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-easy-desktop-screen-capture-method-for-2024/"><u>[New] Easy Desktop Screen Capture Method for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-premium-mp4-channel-updater/"><u>[Updated] In 2024, Premium MP4 Channel Updater</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721371588262-everyone-enjoys-gpt-4-for-free-yet-6-advantages-of-premium/"><u>Everyone Enjoys GPT-4 for Free; Yet, 6 Advantages of Premium</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-imagens-para-videos-ao-vivo-formato-mp4-m2v-e-mpeg-movavi/"><u>Gratuito Conversor De Imagens Para Vídeos Ao Vivo: Formato MP4, M2V E MPEG - Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-make-the-most-out-of-your-devices-with-apc-back-ups-be600m1s-usb-charging-comprehensive-review/"><u>How to Make the Most Out of Your Devices with APC Back-UPS BE600M1's USB Charging – Comprehensive Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloze-flv-in-mjpeg-online-converter-movavi/"><u>Kostenloze FLV-In MJPEG Online Converter - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/legal-docs-download-and-install-windows-x64-edition-with-a-licensing-contract-from-digiarty/"><u>Legal Docs: Download and Install Windows X64 Edition with a Licensing Contract From Digiarty</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-transformation-of-ppm-images-into-png-on-the-web/"><u>Movavi's No-Cost Tool for Easy Transformation of PPM Images Into PNG on the Web</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/the-essentials-of-process-mining-how-it-transforms-data-into-actionable-insights-for-organizations/"><u>The Essentials of Process Mining: How It Transforms Data Into Actionable Insights for Organizations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-au-format-mp4-gratuitement-via-le-web-avec-movavi-asiste/"><u>Transformez Votre Fichier Au Format MP4 Gratuitement via Le Web Avec Movavi Asiste</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Reactivating LED on Unlit Corsair Keyboards
-date: 2024-09-17T02:07:04.217Z
-updated: 2024-09-17T18:31:30.136Z
+date: 2024-09-16T18:09:46.807Z
+updated: 2024-09-22T18:53:09.791Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -75,19 +82,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
@@ -95,10 +89,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -123,14 +117,15 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/enable-high-quality-music-the-ultimate-walkthrough-for-integrating-flac-into-your-itunes-library/"><u>Enable High-Quality Music: The Ultimate Walkthrough for Integrating FLAC Into Your iTunes Library</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/epc/"><u>EアニメストアからPCへの動画取り込み手順：一流の戦略</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-video-editing-issues-seamlessly-implementing-hevc-media-into-adobe-after-effects/"><u>Fix Your Video Editing Issues: Seamlessly Implementing HEVC Media Into Adobe After Effects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-downloads-of-premium-ulozto-content-secrets-to-speed-and-full-hd-retrievals-unveiled/"><u>Free Downloads of Premium Ulozto Content - Secrets to Speed and Full HD Retrievals Unveiled</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-backdrop-changer-toolkit-unveiled/"><u>Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-frontiers-unpacking-windows-10-improvements/"><u>New Frontiers Unpacking Windows 10 Improvements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-raw-pictures-into-masterpieces-with-the-costless-darktable-on-maclinux-devices/"><u>Transform Your Raw Pictures Into Masterpieces with the Costless Darktable on Mac/Linux Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fixing-muted-audio-and-video-transmission-errors-on-fb-messengers-mobile-app-for-2024/"><u>[New] Fixing Muted Audio & Video Transmission Errors on FB Messengers Mobile App for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-fb-videos-to-mp4-converter-toolkit-for-2024/"><u>[Updated] Top 10 FB Videos to MP4 Converter Toolkit for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-sonidos-de-videos-sin-coste-una-guia-completa/"><u>Descargar Sonidos De Videos Sin Coste: Una Guía Completa</u></a></li>
+<li><a href="https://common-error.techidaily.com/enable-digital-writing-tools-fix-pen-not-detected-or-touch-unresponsive-screen-problems/"><u>Enable Digital Writing Tools: Fix 'Pen Not Detected' Or 'Touch Unresponsive' Screen Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4r-naar-m4a-omzetten-online-gratis-movavi-audioro/"><u>M4R Naar M4A Omzetten Online Gratis - Movavi Audioro</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mp4wmv/"><u>MP4ビデオをWMVに自由で簡単に変換する方法 - お試しいただけませんか?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-drivers-route-guides-automotive-edition/"><u>Next-Level Drivers' Route Guides: Automotive Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/prime-titles-pro-elevate-your-youtube-game-for-2024/"><u>Prime Titles Pro Elevate Your YouTube Game for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-ppm-a-bmp-online-con-herramientas-de-movavi/"><u>Transformación Gratuita De PPM a BMP Online Con Herramientas De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasformare-video-gsm-in-formato-mp4-senza-costi-movavi/"><u>Trasformare Video GSM in Formato MP4 Senza Costi - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Solution for When Windows Struggles with System Components Setup
-date: 2024-09-15T19:21:52.843Z
-updated: 2024-09-18T01:01:56.042Z
+date: 2024-09-16T23:28:58.507Z
+updated: 2024-09-22T19:46:03.966Z
 tags:
   - win11
   - win10
@@ -124,13 +124,6 @@ Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -139,22 +132,29 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -179,20 +179,17 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-clear-video-soundtracks-free-vs-licensed-software-guide/"><u>[Updated] Clear Video Soundtracks Free Vs. Licensed Software Guide</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726027572664-2024/"><u>「次世代アニソン集、無料ダウンロード満載！2024年に流行るはずの音楽源地」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030670934-3/"><u>連続して3枚のビデオを効果的に一画面表示するテクニック</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cantonese-macanese-and-portuguese-macaus-languages/"><u>Cantonese, Macanese & Portuguese: Macau's Languages</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719160580017-craftsmads-and-fun-try-larger-arcade-cabinet-framing/"><u>Craftsmads and Fun: Try Larger Arcade Cabinet Framing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-problems-with-corsair-headsets-expert-advice-for-effective-solutions/"><u>Diagnosing Problems with Corsair Headsets: Expert Advice for Effective Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028866954-nhk/"><u>NHKオンデマンドコンテンツを効果的に保存するための手引き</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-dell-speaker-problems-on-windows-haendwn-proven-fixes/"><u>Solve Your Dell Speaker Problems on Windows ˈhændwɪn - Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029828019-wavmp3/"><u>WAV形式へのMP3ファイル変換手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030393316-youtube/"><u>YouTube動画のサムネイルアイコンを取得する究極ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030030122-youtubeiphone/"><u>YouTubeからiPhoneへ: 個人用動画保存とダウンロードの手順</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-axon-40-lite-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Axon 40 Lite Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rafting-comedy-the-art-of-parody-videos/"><u>[New] Crafting Comedy The Art of Parody Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ast-paced-artistry-expert-valorant-thumbnails-in-a-blink/"><u>[New] Fast-Paced Artistry Expert Valorant Thumbnails in a Blink</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-simple-iphone-screencasting/"><u>[Updated] The Ultimate Guide to Simple iPhone Screencasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-visual-storytelling-crafting-impressive-imovie-video-intros-for-2024/"><u>[Updated] Visual Storytelling Crafting Impressive iMovie Video Intros for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-navigating-video-capture-software-is-bandicam-superior-to-camtasia/"><u>2024 Approved Navigating Video Capture Software Is Bandicam Superior to Camtasia?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-crossfade-methods-to-elevate-your-audiovisual-projects/"><u>Advanced Crossfade Methods to Elevate Your Audiovisual Projects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-free-of-charge-from-flv-to-mp4-using-movavis-online-tool/"><u>Convert Videos Free of Charge From FLV to MP4 Using Movavi's Online Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-jurassic-world-evolution-crashes-a-comprehensive-guide/"><u>Fixing Jurassic World Evolution Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/is-max-360-superior-to-hero-11-in-video-quality-in-2024/"><u>Is Max 360 Superior to Hero 11 in Video Quality, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpe-to-mp3-transformation-effortlessly-convert-and-download-using-movavis-free-service/"><u>MPE to MP3 Transformation: Effortlessly Convert and Download Using Movavi's Free Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-aiff-online/"><u>무료 동일성 및 AAC, AIFF 전환 - Online 가이드</u></a></li>
 </ul></div>
 

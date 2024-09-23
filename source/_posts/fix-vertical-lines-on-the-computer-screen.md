@@ -1,7 +1,7 @@
 ---
 title: Fix Vertical Lines on the Computer Screen
-date: 2024-09-16T17:01:11.905Z
-updated: 2024-09-17T20:01:08.089Z
+date: 2024-09-17T21:53:33.749Z
+updated: 2024-09-22T19:34:36.159Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/98776572354897cc2b9eb92b9469126b6b1576e9e
 
  If you’re using a wired controller, a broken USB cable can be the cause. Try a cable with no problem and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Update the Xbox One Controller Driver
 
  If the Xbox One Controller driver is missing or corrupted, the controller cannot work properly on your PC. So you can try to update the controller driver. There are two methods to update the driver. This method is update the driver manually via Device Manager. If you don’t time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy (move to[Method 4](#method4) ).
@@ -64,7 +57,22 @@ Follow these steps to update the driver via Device Manager:
 3. Expand**Microsoft Xbox One Controller** . Right-click on it and click **Update Driver Software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/img_591d497d71563.png)
 4. Select**Search automatically for updated driver software** . Then Windows will install the new driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the issue persists, follow steps below to update the driver again:
 
@@ -76,28 +84,15 @@ Follow these steps to update the driver via Device Manager:
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this still doesn’t work for you, please move on.
 
@@ -113,10 +108,16 @@ If this still doesn’t work for you, please move on.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -143,16 +144,14 @@ If this still doesn’t work for you, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-streaming-screenshots-share-without-twitting/"><u>[New] Streaming Screenshots Share Without Twitting</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boost-your-view-count-explore-these-12-effective-youtube-strategies/"><u>[Updated] Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
-<li><a href="https://win-dash.techidaily.com/bypassing-common-compatibility-challenges-logitech-f710-on-windows-810117/"><u>Bypassing Common Compatibility Challenges: Logitech F710 on Windows 8/10/11/7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-p55-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Itel P55 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-play-7twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Play 7Twith/without a PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-vob-files-to-mp3-format-with-no-hassle/"><u>Simple Steps: Converting VOB Files to MP3 Format with No Hassle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-transforming-240p-content-to-stunning-1080p/"><u>Step-by-Step Tutorial for Enhancing Video Quality: Transforming 240P Content to Stunning 1080P</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-finding-hashtags-that-amplify-to-6k-views/"><u>[New] In 2024, Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-record-gameplay-using-fbx-game-recorder/"><u>[New] In 2024, How To Record Gameplay Using FBX Game Recorder</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-convertir-des-videos-mkv-en-flv-sur-internet-sans-frais-avec-le-logiciel-movavi/"><u>Comment Convertir Des Vidéos MKV en FLV Sur Internet Sans Frais Avec Le Logiciel Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/entendendo-o-formato-de-video-wmv-uma-visao-abrangente-para-bem-sucedidos-navegadores-do-meio/"><u>Entendendo O Formato De Vídeo WMV: Uma Visão Abrangente Para Bem-Sucedidos Navegadores Do Meio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-converter-de-fichiers-m4a-en-format-mov-en-ligne-avec-movavi/"><u>Gratuit Converter De Fichiers M4A en Format MOV - En Ligne Avec Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-mxf-to-avi-file-upload-and-conversion-access-premium-quality-for-free/"><u>Seamless MXF to AVI File Upload and Conversion - Access Premium Quality for Free!</u></a></li>
 </ul></div>
 

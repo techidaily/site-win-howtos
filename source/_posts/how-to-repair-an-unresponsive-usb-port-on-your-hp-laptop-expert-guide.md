@@ -1,7 +1,7 @@
 ---
 title: How to Repair an Unresponsive USB Port on Your HP Laptop - Expert Guide
-date: 2024-09-11T19:31:58.489Z
-updated: 2024-09-17T23:44:47.374Z
+date: 2024-09-17T21:01:00.359Z
+updated: 2024-09-23T00:11:56.230Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,10 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -116,13 +123,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -137,10 +137,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -185,13 +185,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-precisionvid-recorder-inspection/"><u>[New] PrecisionVid Recorder Inspection</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nique-stories-crafting-powerful-yt-narratives-for-2024/"><u>[New] Unique Stories Crafting Powerful YT Narratives for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-best-15-cost-free-photo-editors/"><u>2024 Approved Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-straightforward-stories-for-2024/"><u>Crafting Straightforward Stories for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/mejores-herramientas-sin-coste-para-duplicacion-de-disco-blu-ray-los-6-primeros-lugares/"><u>Mejores Herramientas Sin Coste Para Duplicación De Disco Blu-Ray: Los 6 Primeros Lugares</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-compelling-replacements-for-handbrake-find-the-perfect-software/"><u>Top 12 Compelling Replacements for HandBrake - Find the Perfect Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-video-transcoder-apps-seamlessly-convert-videos-for-cross-device-compatibility/"><u>Top Rated Video Transcoder Apps: Seamlessly Convert Videos for Cross-Device Compatibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-sites-for-streaming-lower-resolution-anime-content-144p-240p-360p-and-more/"><u>Top Sites for Streaming Lower-Resolution Anime Content (144P, 240P, 360P, and More)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sleep-inducing-screenplays-video-evaluation/"><u>[New] Sleep-Inducing Screenplays Video Evaluation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ideal-free-app-uncluttered-android-captures/"><u>[Updated] 2024 Approved Ideal Free App Uncluttered Android Captures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-action-the-search-and-synthesis-strategies-of-global-firms/"><u>AI in Action: The Search and Synthesis Strategies of Global Firms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aprenda-a-editar-dvds-com-facilidade-copiando-convertendo-e-compactando-videos/"><u>Aprenda a Editar DVDs Com Facilidade: Copiando, Convertendo E Compactando Vídeos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/commemorating-18-years-digiartys-unique-birthday-tribute-event/"><u>Commemorating 18 Years: Digiarty's Unique Birthday Tribute Event</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-and-enjoy-your-dvd-collections-directly-on-your-iphone-in-just-five-simple-steps/"><u>Convert and Enjoy Your DVD Collections Directly on Your iPhone in Just Five Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-amd-ryzen-driver-upgrade-guide-secure-and-smooth-installation/"><u>Effortless AMD Ryzen Driver Upgrade Guide: Secure & Smooth Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-your-wtv-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transform Your WTV Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-facile-per-convertire-i-file-mp4-in-dvd-con-movavi/"><u>Guida Facile per Convertire I File MP4 in DVD Con Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-your-videos-chance-on-vimeo-staff-list/"><u>In 2024, Boosting Your Video's Chance on Vimeo Staff List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads-for-2024/"><u>Leveraging a 3-Step Writing System for Social Media Success with FB Ads for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/modify-video-annotations-with-ease-masterclass-in-movavis-editing-tools/"><u>Modify Video Annotations with Ease: Masterclass in Movavi's Editing Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-understanding-the-key-distinctions-and-compatibility/"><u>NTSC vs PAL: Understanding the Key Distinctions and Compatibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-quality-screencast-apps-on-the-market-get-yours-today/"><u>Top Quality Screencast Apps on the Market – Get Yours Today!</u></a></li>
 </ul></div>
 

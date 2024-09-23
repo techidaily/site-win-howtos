@@ -1,0 +1,97 @@
+---
+title: "Uncovering the Reasons: Understanding Unplanned Startups in Your Windows 11 PC"
+date: 2024-09-20T23:28:57.637Z
+updated: 2024-09-23T00:02:16.830Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Uncovering the Reasons: Understanding Unplanned Startups in Your Windows 11 PC"
+excerpt: "This Article Describes Uncovering the Reasons: Understanding Unplanned Startups in Your Windows 11 PC"
+thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366c249b53e078e95dee6e414c.jpg
+---
+
+## Mastering the File Explorer in Windows 11 - Tips and Tricks for a Better Experience
+
+Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explorer**, and has added tons of new features to it. As an old-time Windows operating system user, you must know what it is for. In this post, we will be introducing some ways for you to get help with**File Explorer**in Windows 10 easily.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
+
+[**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
+
+ You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
+
+ If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
+
+ If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
+
+ **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
+
+2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
+
+You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
+
+4) Then choose**Uninstall updates**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
+
+5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-unveiling-youtubes-behind-the-scenes-editor-space/"><u>[New] Unveiling YouTube's Behind-the-Scenes Editor Space</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-learn-to-record-mi-11s-display-effortlessly/"><u>[Updated] 2024 Approved Learn to Record Mi 11'S Display Effortlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlock-full-potential-best-trio-for-zoom-conversion/"><u>[Updated] 2024 Approved Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>[Updated] From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jp2jpeg-movavi/"><u>簡単なスクリプトで自由にJP2形式をJPEGに変換 - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ape-flac-onlinetools/"><u>APE FLAC 무료 출시로 바꾸기: 좋은 설정 가이드 - Onlinetools에서</u></a></li>
+<li><a href="https://fox-that.techidaily.com/blurry-iphone-camera-try-these-7-fixes-now/"><u>Blurry iPhone Camera? Try These 7 Fixes Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converti-video-3gp-a-webm-gratuitamente-online-con-movavi-metodi-rapidi-ed-efficaci/"><u>Converti Video 3GP a WebM Gratuitamente Online Con Movavi - Metodi Rapidi Ed Efficaci</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-your-multimedia-projects-using-movavi-secure-your-copyright-free-video-solution/"><u>Enhance Your Multimedia Projects Using Movavi | Secure Your Copyright-Free Video Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>In 2024, Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-to-m4v-file-transformation-cost-free-and-web-based-with-movavi/"><u>MP4 to M4V File Transformation - Cost-Free & Web-Based with Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

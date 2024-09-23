@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Obstacles with Windows Installation Files
-date: 2024-09-14T16:38:44.883Z
-updated: 2024-09-17T21:06:46.467Z
+date: 2024-09-16T01:25:14.508Z
+updated: 2024-09-22T22:25:13.517Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -84,6 +77,13 @@ If this fix didn’t help, try the next fix.
 
 If this fix didn’t help, try the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -93,6 +93,13 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -114,22 +121,15 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -155,20 +155,19 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-supercharge-your-social-media-best-apps-for-post-and-followers-for-2024/"><u>[Updated] Supercharge Your Social Media Best Apps for Post & Followers for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyy-checklist/"><u>「ABBYY Checklist: 金融セクターにおける競争上のアドバンテージを向上させる方法」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-looped-videos-for-maximum-instagram-impact/"><u>2024 Approved Master Looped Videos for Maximum Instagram Impact</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-game-crashes-how-to-correctly-handle-missing-d3dxtoolkit-files/"><u>Avoid Game Crashes: How To Correctly Handle Missing D3dxtoolkit Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-keeps-connecting-but-no-sound-fix-this-problem-today/"><u>Bluetooth Keeps Connecting but No Sound! Fix This Problem Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-your-xbox-one-to-xbox-live-successfully-a-step-by-step-fix-guide/"><u>Connect Your Xbox One to Xbox Live Successfully: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dvdpc3/"><u>DVDデータへの変換とPCでの安全な保管手順トップ3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-when-your-sc2-graphics-device-is-not-accessible-anymore/"><u>Guide to Fix When Your SC2 Graphics Device Is Not Accessible Anymore</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-correcting-insufficient-memory-or-cpu-causes-on-your-device/"><u>Guide: Correcting Insufficient Memory or CPU Causes on Your Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On HTC U23 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-redmi-13c-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Redmi 13C 5G Is Unlocked</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-x9a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor X9a Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-dragon-ball-fighterz-network-initialization-error/"><u>Resolved Issue: 'Dragon Ball FighterZ' Network Initialization Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-getting-destiny-2-servers-back-online/"><u>Step-by-Step Solution: Getting Destiny 2 Servers Back Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-savvy-tips-troubleshooting-steps-for-a-non-freezing-computer-experience/"><u>Tech Savvy Tips: Troubleshooting Steps for a Non-Freezing Computer Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-5-expert-approaches-to-preserve-virtual-reality-adventures/"><u>[New] In 2024, 5 Expert Approaches to Preserve Virtual Reality Adventures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-locate-the-best-bargains-on-gopro-cameras/"><u>2024 Approved Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beste-gratis-bildbearbeitungsprogramme-202n4-last-lista-over-program-och-utvecklingsar/"><u>Beste Gratis Bildbearbeitungsprogramme 202N4: Läst Lista Över Program Och Utvecklingsar</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/explore-manycams-capabilities-in-real-time-broadcasting-and-digital-webcams-for-seamless-livestreaming-experience/"><u>Explore ManyCam's Capabilities in Real-Time Broadcasting and Digital Webcams for Seamless Livestreaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-vob-files-into-wav-format-moveave/"><u>Free Online Converter: Transforming VOB Files Into WAV Format - Moveave</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-basics-to-high-quality-srgb-vs-rgb-for-2024/"><u>From Basics to High-Quality Srgb vs Rgb for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/i-migliori-10-servizi-online-per-la-realizzazione-di-banner-youtube-in-italia-2024/"><u>I Migliori 10 Servizi Online per La Realizzazione Di Banner YouTube in Italia - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-file-integration-with-movavis-free-audio-converter-for-pc-and-mac-start-now/"><u>MP3 File Integration with Movavi's Free Audio Converter for PC & Mac - Start Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289694157-mp3/"><u>MP3革命：最新音楽利用法とコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4ogg-movavi/"><u>MP4免費線上改版為OGG格式- 使用 Movavi 視頻換寫器進階功能。</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-transformation-of-tiff-documents-no-cost-solution-using-movavi-software/"><u>Online Transformation of TIFF Documents: No Cost Solution Using Movavi Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Pro Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

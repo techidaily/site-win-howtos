@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Reconnecting Disrupted Media Devices on Windows Systems
-date: 2024-09-16T00:31:21.879Z
-updated: 2024-09-17T22:41:01.483Z
+date: 2024-09-20T19:55:12.911Z
+updated: 2024-09-22T22:00:24.711Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ To do so, first you need to uninstall the Bluetooth driver:
 
  If the latest driver doesn’t give you luck, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Install all Windows updates
 
  Microsoft rolls out Windows updates on a regular basis, tackling compatibility issues and offering new features. Normally the update happens automatically, but you can also make sure manually that all the updates have been installed.
@@ -98,6 +91,14 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -106,15 +107,16 @@ To do so, first you need to uninstall the Bluetooth driver:
 
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I** ) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
-![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
-3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
+3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
@@ -130,26 +132,33 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
 3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
 5. In the pop-up window, click the input area under**Value data** :, then type or paste**24** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-5.jpg)
@@ -176,16 +185,14 @@ To do so, first you need to uninstall the Bluetooth driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>2024 Approved A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6yyy6zplusz44oh44o844k44ks5yih44kk5yig44gr44kl44gf44kb44gu5paw44gx44ge44ki44ox44ot44o844ob77ys44gk/"><u>録音データを切り分けるための新しいアプローチ２つ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avi-to-h2n64/"><u>AVI to H2n64コンバート - 劣化なしで最適な手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-5-web-based-tools-for-creating-animation-gifs/"><u>Best 5 Web-Based Tools for Creating Animation GIFs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-how-to-edit-gif-images-with-text-on-various-platforms-including-windows-macos-mobile-devices-and-online-tools/"><u>Comprehensive Tutorial: How to Edit GIF Images with Text on Various Platforms Including Windows, macOS, Mobile Devices, and Online Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-fresh-rx-5500xt-software/"><u>Efficiently Fresh RX 5500XT Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing/"><u>In 2024, How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/kernel-calamity-a-step-by-step-guide-to-fixing-your-mac/"><u>Kernel Calamity: A Step-by-Step Guide to Fixing Your Mac</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/prime-platforms-crafting-3d-animation-art-for-2024/"><u>Prime Platforms Crafting 3D Animation Art for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-print-spooler-errors-in-windows-10/"><u>Resolve Print Spooler Errors in Windows 10</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ultimate-ranking-of-online-and-offline-h265-encoders-choose-the-perfect-one-for-your-windows-or-mac-device/"><u>Ultimate Ranking of Online and Offline H.265 Encoders : Choose the Perfect One for Your Windows or Mac Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/6-best-kickstart-videos-on-youtube-for-visibility-boost/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-tips-to-avoid-obs-framing-errors/"><u>[New] In 2024, Essential Tips to Avoid OBS Framing Errors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-leaderboards-best-12-action-recorders-including-satellite-positioning/"><u>[New] In 2024, Leaderboard's Best 12 Action Recorders Including Satellite Positioning</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cost-conscious-aerial-assistants-top-5-drones/"><u>[Updated] Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-archivos-de-video-gratis-desde-3gp-a-avi-con-movavi-online/"><u>Cambia Archivos De Video Gratis Desde 3GP a AVI Con Movavi Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-de-fichier-aiff-vers-dautres-formats-utilisation-facile-avec-movavi/"><u>Conversion Libre De Fichier AIFF Vers D'autres Formats - Utilisation Facile Avec Movavi</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-un-fichier-swf-en-format-avi-gratuitement-sur-la-toile-guide-par-movavi/"><u>Transformer Un Fichier SWF en Format AVI Gratuitement Sur La Toile - Guide Par Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-file-dpx-in-gif-gratuitamente-con-movavi-servizi-di-conversione-online/"><u>Trasforma File DPX in GIF Gratuitamente Con Movavi - Servizi Di Conversione Online</u></a></li>
 </ul></div>
 

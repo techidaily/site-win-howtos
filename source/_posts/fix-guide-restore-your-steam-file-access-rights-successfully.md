@@ -1,7 +1,7 @@
 ---
 title: "Fix Guide: Restore Your Steam File Access Rights Successfully"
-date: 2024-09-11T19:05:00.793Z
-updated: 2024-09-18T02:56:25.594Z
+date: 2024-09-16T01:29:10.846Z
+updated: 2024-09-23T01:09:33.595Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4) Acquire full permissions on the drive for installation
 
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
@@ -78,28 +71,15 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -109,6 +89,19 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
@@ -116,6 +109,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -144,18 +144,17 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boomerang-on-instagram-create-addictive-loop-videos-on-ig/"><u>[New] 2024 Approved Boomerang on Instagram Create Addictive Loop Videos on IG</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-stop-blank-screen-problems-with-obs-applications/"><u>[Updated] 2024 Approved Stop Blank Screen Problems with OBS Applications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-transforming-a-simple-story-into-an-epic-visual-narrative-for-2024/"><u>[Updated] Transforming a Simple Story Into an Epic Visual Narrative for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030443046-mp4wmv-in-windows-10/"><u>画質維持のため、MP4からWMVへの変換手順 in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-x-fold-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo X Fold 2 to Another | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hp-accelerometer-troubleshooting-in-windows-effective-methods-to-restore-full-functionality/"><u>HP Accelerometer Troubleshooting in Windows: Effective Methods to Restore Full Functionality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>In 2024, Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-touchscreen-glitches-on-windows-11-learn-5-strategies/"><u>Mastering the Art of Fixing Touchscreen Glitches on Windows 11 - Learn 5 Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/strategies-to-decrease-resource-consumption-by-ntoskrnlexe/"><u>Strategies to Decrease Resource Consumption by ntoskrnl.exe</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-recovered-from-system-crash-bug-check-resolved/"><u>Successfully Recovered From System Crash: Bug Check Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-battery-why-your-device-wont-charge-in-windows-operating-systems/"><u>Troubleshooting Laptop Battery: Why Your Device Won't Charge in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-windows-unable-to-reach-system-event-alerts-service/"><u>Understanding and Resolving 'Windows Unable to Reach System Event Alerts Service'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-graphics-card-does-not-support-directx-11-features/"><u>[Fixed] Your Graphics Card Does Not Support DirectX 11 Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-current-and-future-drone-use-cases-unveiled/"><u>[Updated] 2024 Approved Current & Future Drone Use Cases Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dji-aerial-vr-headset-quality-assessment/"><u>[Updated] 2024 Approved DJI Aerial VR Headset Quality Assessment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigate-through-iphone-screen-saving-fast/"><u>[Updated] 2024 Approved Navigate Through iPhone Screen Saving Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44k544og44o844k644gr44k144og44oq44ot44oh44kq5pku5b2x77ya5bcc6zaa55qe44gq5pa55rov44ks44kk44oj44cn/"><u>「スムーズにサムバビデオ撮影：専門的な方法ガイド」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-raycon-daily-use-headphones-pro-impressive-longevity-but-limited-features/"><u>Comprehensive Evaluation of Raycon Daily Use Headphones Pro: Impressive Longevity but Limited Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-you-cant-connect-to-destiny-2-servers/"><u>Essential Fixes for When You Can't Connect to Destiny 2 Servers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-chronicles-the-hidden-viewer/"><u>FB Chronicles The Hidden Viewer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-lava-agni-2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Agni 2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-overcoming-the-problem-resetting-your-pc-hurdle-on-windows-11/"><u>Troubleshooting Tips: Successfully Overcoming the 'Problem Resetting Your PC' Hurdle on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-stop-motion-studio-in-your-pocket-best-ios-and-android-apps/"><u>Updated In 2024, Stop Motion Studio in Your Pocket Best iOS and Android Apps</u></a></li>
 </ul></div>
 

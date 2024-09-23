@@ -1,0 +1,214 @@
+---
+title: Ultimate Guide to Playing Fortnite Smoothly Despite Having an Unsupported Graphics Card on a Windows Machine
+date: 2024-09-17T18:06:49.345Z
+updated: 2024-09-23T00:47:04.908Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Ultimate Guide to Playing Fortnite Smoothly Despite Having an Unsupported Graphics Card on a Windows Machine
+excerpt: This Article Describes Ultimate Guide to Playing Fortnite Smoothly Despite Having an Unsupported Graphics Card on a Windows Machine
+thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf15afde0abd2d98dfde1d7e0.jpg
+---
+
+## Harmonizing Display and Timing - Monitor Support Now Restored
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap58-1.jpg)
+
+ Does your monitor screen go black and pop up with an error saying: _**The current input timing is not supported by the monitor display**_  ?
+
+ This error occurs to your computer because your monitor fails to synchronize the input signals from your computer, or there is something wrong with your monitor connections. But don’t worry. We’ll help you fix the error and get your monitor back on track.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+ Here are the solutions that have helped people resolve the same problem. Check it out:
+
+1. [Change your monitor settings](#F1)
+2. [Update graphics card driver](#F2)
+3. [Boot your computer in low-resolution mode](#F3)
+
+ Note: If you can’t log into your system GUI, you should first boot your computer into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/)**  , then perform these instructions.
+
+---
+
+---
+
+---
+
+### Fix 1: Change your monitor settings
+
+ As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
+
+**If you’re using Windows 10 and Windows 8:**
+
+**Note** : if you have more than one displays, choose the displays respectively for the following steps.
+
+1. Right click on any**empty area** on your desktop, then select**Display Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
+2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
+3. Click**Keep changes** if you see the popup verification dialog.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
+4. Then click**Advanced** **display** **settings** on the same screen.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
+5. Click**Display** **adapter** **properties** **for** **Display** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
+6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
+7. Click**Apply** and**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
+
+**If you’re using Windows 7:**
+
+**Note** : if you have more than one displays, choose the displays respectively for the following steps.
+
+1. Right click on any**empty area** on your desktop, then select**Screen** **resolution** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
+2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
+3. Click**Apply** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
+4. Click**Keep changes** if you see the verification message.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
+5. On the same screen, click**Advanced** **settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
+6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
+7. Click**Apply** and**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
+
+Restart your computer in normal mode and see if it works.
+
+### Fix 2: Update graphics card driver
+
+ The video card driver corruption can also cause your input timing not supported error, so you should keep your video card driver up to date.
+
+ There are two ways to update your graphics card driver:**manually** and**automatically** .
+
+**Manually update driver** : You can go to the manufacturer’s website, find the latest correct driver for your graphics card, then install it in your computer. Be sure to install the one that is compatible with the OS running in your computer.
+
+**Automatically update driver** : If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
+3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
+4. Restart your computer to take effect.
+
+ This should fix your problem. Still no luck? Okay, there’s one more thing to try.
+
+### Fix 3: Boot your computer in low-resolution mode
+
+ This method has been said to be working for many people who have the same error. You can try using the low resolution mode in your computer, in order to match the resolution for your monitor.
+
+**If you’re using Windows 10, Windows 8 and Windows 8.1:**
+
+1. Ensure your PC is**off** .
+2. Press the power button to turn on your PC, then hold the power button down until PC shuts down automatically (about 5 seconds) . Repeat this more than 2 times until you see the**Preparing Automatic Repair** (see below screenshot).  
+![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)  
+ Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
+ Then wait for Windows to diagnose your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
+3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
+4. Click**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
+5. Click**Advanced** **options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
+6. Click**Startup** **Settings** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
+7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
+8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
+
+ Then your computer will boot into the low-resolution mode and it should fix your error.
+
+ **If you’re using Windows 7, Windows XP or Windows Vista:**
+
+ You can try the tradition**F8** key to get into the boot options:
+
+1. Power on your computer, then keep pressing**F8** key after your monitor displays its own logo or post screen and before you see the Windows logo.
+2. In the**Advanced** **Boot** **Options** **Menu** screen, press the**arrow up** or**arrow down** key to select**Enable VGA Mode** (or**Enable low-resolution mode** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4111e6908.jpg)
+3. Then press**Enter** on your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Your computer will boot into the selected VGA mode and your error message should disappears.
+
+ That’s it. Hope this post comes in handy and fixes the error “ **The current input timing is not supported by the monitor display** ” in your computer.
+
+* [screen](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-novice-to-pro-the-ultimate-instagram-story-journey/"><u>[New] 2024 Approved From Novice to Pro The Ultimate Instagram Story Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-full-reveal-on-camstudios-recording-capabilities/"><u>[Updated] In 2024, Full Reveal on CamStudio's Recording Capabilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimizing-video-sequences-blend-modes-application/"><u>[Updated] Optimizing Video Sequences Blend Modes Application</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-an-intro-to-digital-realms-vr-simplified/"><u>2024 Approved An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cutting-confinement-with-comedy-best-facebook-incarceration-laughs-of-today-for-2024/"><u>Cutting Confinement with Comedy Best Facebook Incarceration Laughs of Today for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-solving-windows-media-player-connection-errors-effectively/"><u>Guide: Solving Windows Media Player Connection Errors Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-p55plus-by-drfone-android/"><u>How to Bypass FRP from Itel P55+?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ultimate-guide-to-overcome-the-red-screen-error/"><u>Resolved: Ultimate Guide to Overcome the Red Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-minecraft-lan-play-hurdles/"><u>Step-by-Step Guide: Overcoming Minecraft LAN Play Hurdles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-device-control-ingenious-ways-to-teach-your-universal-remote/"><u>Streamline Your Device Control: Ingenious Ways to Teach Your Universal Remote</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgraded-to-professional-the-ultimate-guide-to-revo-uninstaller-pro-5/"><u>Upgraded to Professional: The Ultimate Guide to Revo Uninstaller Pro 5</u></a></li>
+</ul></div>
+

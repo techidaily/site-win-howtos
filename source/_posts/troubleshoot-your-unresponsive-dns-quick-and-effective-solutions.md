@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Unresponsive DNS: Quick & Effective Solutions!"
-date: 2024-09-15T16:52:08.142Z
-updated: 2024-09-18T01:56:09.900Z
+date: 2024-09-18T01:29:06.916Z
+updated: 2024-09-22T22:30:54.070Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -82,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -107,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -144,8 +131,23 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -155,13 +157,6 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -184,20 +179,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] 2024 Approved How to Create a Channel that Dominates the Business World</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-environmentally-safe-recording-tools/"><u>[Updated] In 2024, Exclusive Environmentally Safe Recording Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-brands-reach-with-a-strategic-approach-to-social-media-management/"><u>2024 Approved Elevate Your Brand's Reach with a Strategic Approach to Social Media Management</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-your-youtube-content-basic-premiere-pro-edits/"><u>2024 Approved Enhancing Your YouTube Content Basic Premiere Pro Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-troubleshoot-and-correct-error-0x800f0831-on-pc/"><u>Easy Solutions to Troubleshoot and Correct Error 0X800F0831 on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-unresponsive-touchpad-issues/"><u>Effective Solutions for Resolving Unresponsive Touchpad Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205319181-getting-microsofts-latest-patches-reviving-your-stalled-windows-update-service/"><u>Getting Microsoft's Latest Patches? Reviving Your Stalled Windows Update Service.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-minecraft-crashes-caused-by-faulty-graphics-drivers-in-windows/"><u>How to Fix Minecraft Crashes Caused by Faulty Graphics Drivers in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-uninterrupted-streams-tips-to-combat-buffering-on-kodi/"><u>Mastering Uninterrupted Streams: Tips to Combat Buffering on Kodi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-minecraft-lan-play-hurdles-expert-tips-and-tricks-for-smooth-gaming/"><u>Overcoming Minecraft LAN Play Hurdles: Expert Tips and Tricks for Smooth Gaming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/starting-strong-with-the-best-studio-tech-for-novices-for-2024/"><u>Starting Strong with the Best Studio Tech for Novices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackle-laptop-screen-malfunctions-white-screen-error-fixes/"><u>Tackle Laptop Screen Malfunctions: White Screen Error Fixes</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/the-complete-walkthrough-on-dvd-creation-firing-up-enjoying-and-transforming-content/"><u>The Complete Walkthrough on DVD Creation, Firing Up, Enjoying & Transforming Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-comprehensive-look-at-the-seriously-clever-ring-doorbell-pro/"><u>Unveiling the Features: A Comprehensive Look at the Seriously Clever Ring Doorbell Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-screen-saving-solutions-in-windows-8-edition/"><u>[New] In 2024, Efficient Screen Saving Solutions in Windows 8 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stop-in-app-video-buffering-issues/"><u>[New] Stop In-App Video Buffering Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-compact-obs-setup-for-underpriced-pcs/"><u>[Updated] 2024 Approved Compact OBS Setup for Underpriced PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-convertir-mp3-en-aiogg-gratuitement-en-ligne-chez-movavi/"><u>Conversion De Fichiers Audio: Convertir MP3 en AI/OGG Gratuitement en Ligne Chez Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-dng-files-to-jpeg-for-free-with-movavi-image-editor-online-tool/"><u>Convert DNG Files to JPEG for Free with Movavi Image Editor Online Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-rapida-para-reducir-el-tamano-de-videos-en-youtube-con-facilidad/"><u>Guía Rápida Para Reducir El Tamaño De Vídeos en YouTube Con Facilidad</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-civi-3-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Civi 3</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-8-hd-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 8 HD Lock Screen Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-setting-up-your-gaming-studio-with-obs/"><u>In 2024, Setting Up Your Gaming Studio with OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-crafting-stunning-images-using-chatgpts-ai-capabilities/"><u>Unlocking Creative Potential: Crafting Stunning Images Using ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi on Windows?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-halted-by-error-addressed-with-nvidia-fix/"><u>Win Halted By Error, Addressed With NVIDIA Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726226663032-flvasf-movavi/"><u>オンラインで使いやすく移行: FLVとASFフォーマットの免責コスト自動変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnosis & Repair: Non-Functioning Right Click on Windows 11 Systems"
-date: 2024-09-15T01:44:36.847Z
-updated: 2024-09-17T17:07:16.323Z
+date: 2024-09-16T19:33:28.512Z
+updated: 2024-09-22T16:59:10.208Z
 tags:
   - win11
   - win10
@@ -92,20 +92,20 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
@@ -125,16 +125,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -151,10 +151,10 @@ Restart your computer to see if the error has gone.
 4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -181,20 +181,16 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>[Updated] 2024 Approved Reign in Your Posts The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[Updated] Navigate with Ease Mastering iFunny's Meme App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-the-glitch-essential-strategies-to-fix-e6068-in-modern-warfare-warzone/"><u>Bypass the Glitch: Essential Strategies to Fix E6068 in Modern Warfare Warzone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-mp4mp3-format-conversion-with-windows-media-player-explained/"><u>Effortless MP4/MP3 Format Conversion with Windows Media Player Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-save-godzilla-2014-on-dvd-with-no-data-degradation/"><u>Guide: Save Godzilla 2014 on DVD with No Data Degradation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-streaming-vob-movies-and-shows-from-dvds-to-your-android-lg-or-samsung-tv/"><u>Guide: Successfully Streaming VOB Movies & Shows From DVDs to Your Android, LG or Samsung TV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enjoy-dvd-movie-playback-on-your-nintendo-wii-a-guide-to-the-best-compatible-discs/"><u>How to Enjoy DVD Movie Playback on Your Nintendo Wii: A Guide to the Best Compatible Discs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Bootloader Easily</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-truth-about-magix-video-pro-xs-performance/"><u>In 2024, The Truth About Magix Video Pro X's Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v30-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V30 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-walkthrough-recording-footage-with-chrome-browser/"><u>In-Depth Walkthrough: Recording Footage with Chrome Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/iphoneipadfc2/"><u>IPhone/iPadでのFC2動画の安全なダウンロード・セキュリティ対策つき保存方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-seamless-mov-to-flv-file-changes-for-enhanced-video-playback/"><u>Master the Art of Seamless MOV to FLV File Changes for Enhanced Video Playback</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-tutorial-on-downloading-youtube-audiovisual-media-for-offline-enjoyment-on-an-ipod/"><u>Ultimate Tutorial on Downloading YouTube Audio/Visual Media for Offline Enjoyment on an iPod</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/winxvideo-ai-accelerate-any-videoaudio-with-customized-speeds-using-gpu-power/"><u>Winxvideo AI: Accelerate Any Video/Audio with Customized Speeds Using GPU Power</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-planet-friendly-recording-software/"><u>[New] 2024 Approved Premium, Planet-Friendly Recording Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>[New] In 2024, From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-integrating-twitter-feed-into-your-whatsapp-conversations-for-2024/"><u>[Updated] Integrating Twitter Feed Into Your WhatsApp Conversations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-video-capture-without-extras/"><u>[Updated] Premium Video Capture Without Extras</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-8-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 8 Activation Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprime-tu-video-en-linea-gratuitamente-sin-perder-calidad/"><u>Comprime Tu Vídeo en Línea Gratuitamente Sin Perder Calidad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-bezplatny-prekvapenicni-konverzer-mov-do-mp4-s-dustojnym-vykonem-movavi/"><u>Online Bezplatný Překvapeníční Konverzér MOV Do MP4 S Důstojným Výkonem - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rendrez-vous-maitre-de-vos-fichiers-videos-convertir-des-fichiers-m4v-en-fichiers-mov-sans-depense-avec-notre-service-online-convaincant/"><u>Rendrez-Vous Maître De Vos Fichiers Vidéos : Convertir Des Fichiers M4V en Fichiers MOV Sans Dépense Avec Notre Service Online Convaincant!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-budget-tp-link-wireless-repeater-re200-reviewed-is-it-a-steal/"><u>The Best Budget TP-Link Wireless Repeater (RE200) Reviewed – Is It a Steal?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-sound-effects-download-websites-for-video-editing/"><u>Top Free Sound Effects Download Websites for Video Editing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>Video - 4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
 </ul></div>
 

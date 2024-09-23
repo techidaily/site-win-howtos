@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Microsoft Defender Impacting Performance on Windows 11"
-date: 2024-09-17T03:09:28.447Z
-updated: 2024-09-17T22:56:22.677Z
+date: 2024-09-21T17:02:25.486Z
+updated: 2024-09-22T21:22:13.961Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -80,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
@@ -100,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -118,16 +105,22 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -140,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
  4-2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 minute. Your Bluetooth driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
@@ -155,16 +155,10 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -187,19 +181,17 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-secret-voice-recorder-apps-for-android-and-ios/"><u>[New] Best Secret Voice Recorder Apps For Android and iOS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-step-by-step-guide-to-effortless-telegram-web-use/"><u>[New] In 2024, Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-snipperpro-suite/"><u>[New] SnipperPro Suite</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-demystifying-whatsapp-voice-chat-functionality-for-2024/"><u>[Updated] Demystifying WhatsApp Voice Chat Functionality for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-skills-for-quiet-movie-production/"><u>[Updated] Essential Skills for Quiet Movie Production</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-guide-to-masterful-snapchat-editing/"><u>2024 Approved Step-by-Step Guide to Masterful Snapchat Editing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-free-videographers-toolkit-top-5-softwares-revealed/"><u>Discover the Ultimate Free Videographer's Toolkit - Top 5 Softwares Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-slowdowns-strategies-to-improve-your-world-of-warcraft-experience/"><u>Eliminating Slowdowns: Strategies to Improve Your World of Warcraft Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/excessive-internet-traffic-from-svchostexe-uncover-the-causes-and-remedies-for-netsvcs-slowdowns/"><u>Excessive Internet Traffic From svchost.exe? Uncover the Causes and Remedies for NETsvcs Slowdowns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-flicker-solutions-for-stable-screens-on-windows-10/"><u>Say Goodbye to Flicker: Solutions for Stable Screens on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-excessive-cpu-consumption-while-playing-god-of-war-tips-and-tricks/"><u>Solving Excessive CPU Consumption While Playing God of War: Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-rpc-server-not-found-errors-in-microsoft-windows-systems/"><u>Troubleshooting RPC Server Not Found Errors in Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-issues-with-not-starting-geforce-experience/"><u>Troubleshooting Steps: Fixing Issues with Not Starting GeForce Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-crc-data-integrity-issues/"><u>Understanding and Fixing CRC Data Integrity Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-audience-accessibility-enhancement-adding-subtitles-and-closed-captions-on-youtube/"><u>[New] In 2024, Audience Accessibility Enhancement Adding Subtitles and Closed Captions on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-mastery-guide-choosing-the-right-platform/"><u>[New] Monetization Mastery Guide Choosing the Right Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-screen-savers-guide-to-recording-tech/"><u>[Updated] 2024 Approved The Screen Saver's Guide to Recording Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-cross-social-sharing/"><u>[Updated] 2024 Approved The Ultimate Guide to Cross-Social Sharing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-jackery-powerbar-charger-case-assessment-with-integrated-ac-socket/"><u>Comprehensive Jackery PowerBar Charger Case Assessment with Integrated AC Socket</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-windows-11s-persistent-monitor-issue/"><u>Diagnosing and Fixing Windows 11'S Persistent Monitor Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800700e3-how-to-restore-playable-content-in-windows-gaming-applications-successfully/"><u>Error Code 0X800700E3: How to Restore Playable Content in Windows Gaming Applications Successfully</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi 13 Ultra FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-trackpad-on-windows-10-8-and-7-troubleshooting-guide/"><u>How to Fix a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unresponsive-keys-in-windows-10-a-comprehensive-guide/"><u>How To Overcome Unresponsive Keys in Windows 10 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-now-your-device-can-use-miracast-with-new-graphics-drivers/"><u>Resolved! Now Your Device Can Use Miracast with New Graphics Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Itel A60s? | Dr.fone</u></a></li>
 </ul></div>
 

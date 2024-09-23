@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Fixing Recurring Computer Lockups & Glitches
-date: 2024-09-15T18:19:26.243Z
-updated: 2024-09-18T00:10:35.317Z
+date: 2024-09-16T00:50:55.478Z
+updated: 2024-09-22T20:32:28.381Z
 tags:
   - win11
   - win10
@@ -77,28 +77,21 @@ See how to do it:
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your USB device and motherboard chipset drivers
 
@@ -113,6 +106,14 @@ See how to do it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d645eaf39.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 Restart your computer to see if the error disappears.
@@ -132,26 +133,27 @@ Restart your computer to see if the error disappears.
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
@@ -160,13 +162,6 @@ Check if the error disappears.
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Adjust your system settings
 
@@ -180,6 +175,13 @@ See how to do it:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -214,18 +216,16 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-gamers-capturing-solutions/"><u>[New] In 2024, Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-math-behind-making-money-youtubes-viewer-insights/"><u>[New] In 2024, The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[New] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-text-generator-for-videos/"><u>2024 Approved Digital Text Generator for Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-videography-choosing-the-best-panoramic-cameras-for-2024/"><u>Budget Videography Choosing the Best Panoramic Cameras for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-problems-and-fixes-for-the-windows-10-may-2020-update-version-1903/"><u>Common Problems and Fixes for the Windows 10 May 2020 Update (Version 1903)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-on-windows-how-to-recover-when-no-playback-source-is-available-solution-inside/"><u>Error on Windows: How to Recover When No Playback Source Is Available (Solution Inside)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-for-keyboards-with-non-working-numeric-buttons-repair-tips/"><u>Expert Advice for Keyboards with Non-Working Numeric Buttons – Repair Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/framefusion-media-suite-for-2024/"><u>FrameFusion Media Suite for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-s18-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo S18 for Free? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone XR</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/jumpstart-valorant-fixing-processes-with-startup/"><u>Jumpstart Valorant Fixing Processes With Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-restore-windows-10-brightness-functionality/"><u>Troubleshooting Steps: How to Restore Windows 10 Brightness Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-top-10-tweets-for-a-smile-for-2024/"><u>[New] Laugh Ledger Top 10 Tweets for a Smile for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-becoming-a-pro-in-video-game-broadcasts-for-2024/"><u>[Updated] Becoming a Pro in Video Game Broadcasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-guide-recording-google-meets-securely-for-2024/"><u>[Updated] Essential Guide Recording Google Meets Securely for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726226448977-swf-mp4-movavi/"><u>网上免费SWF MP4格式转换 - 亲身体验Movavi专业转换器杰出效果</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-a-spherical-experience-best-practices-for-panoramic-film-9-essentials/"><u>Creating a Spherical Experience Best Practices for Panoramic Film (9 Essentials)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y200-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y200 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mov-a-gif-convertitore-online-gratuito-usando-il-servizio-di-conversione-vidcoder/"><u>MOV a GIF Convertitore Online Gratuito - Usando Il Servizio Di Conversione VidCoder</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-livestream-videos-on-twitch-for-2024/"><u>Optimizing Livestream Videos on Twitch for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/os-melhores-codificadores-de-video-livres-descobertas-suas-16-maiores-ferramentas-inclui-versao-premium/"><u>Os Melhores Codificadores De Vídeo Livres: Descobertas Suas 16 Maiores Ferramentas [Inclui Versão Premium]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-methods-to-enhance-image-dissolution-techniques/"><u>Top 6 Methods to Enhance Image Dissolution Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-videos-seamlessly-from-flv-to-wmv-at-no-cost-using-movavi-converter-tool/"><u>Transform Videos Seamlessly From FLV to WMV at No Cost Using Movavi Converter Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fix Guide for Windows Update Error Code 0X802e401c on Windows 11"
-date: 2024-09-16T20:21:35.583Z
-updated: 2024-09-17T19:34:07.224Z
+date: 2024-09-16T17:51:36.464Z
+updated: 2024-09-22T17:04:52.949Z
 tags:
   - win11
   - win10
@@ -113,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
@@ -146,22 +146,15 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
@@ -181,16 +174,16 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -204,11 +197,25 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
@@ -217,13 +224,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Restart your computer and try again to see if it works.
 
@@ -276,19 +276,20 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quick-start-combining-mac-obs-and-streamlabs-power/"><u>[New] Quick Start Combining Mac, OBS & Streamlabs Power</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-copyright-freedom-tunes-best-free-melodies-for-zen/"><u>[Updated] 2024 Approved Copyright-Freedom Tunes - Best Free Melodies for Zen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-maximizing-zoom-top-strategies-for-chromebooks/"><u>[Updated] 2024 Approved Maximizing Zoom Top Strategies for Chromebooks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] 2024 Approved PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-instantly-recover-lost-reddit-posts/"><u>[Updated] How to Instantly Recover Lost Reddit Posts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>[Updated] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-to-usb-migration-tutorial-step-by-step-processes-for-windows-and-macos-systems/"><u>DVD to USB Migration Tutorial: Step-by-Step Processes for Windows & macOS Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725616876616-enhance-your-livestreams-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Livestreams Using ManyCam - The Ultimate Virtual Webcam Solution!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-using-file-explorer-in-windows-10-a-beginners-guide/"><u>Master the Art of Using File Explorer in Windows 10 - A Beginner's Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-a-comprehensive-solution-for-the-livekernelevent-117-dilemma/"><u>Mastering TroubleShooting: A Comprehensive Solution for the ‘LiveKernelEvent 117’ Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-inactive-usb-ports-on-your-windows-computer-windows-1011/"><u>Step-by-Step Guide: Repairing Inactive USB Ports on Your Windows Computer (Windows 10/11)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-elusive-d3dxwindowsdll-error-and-how-to-fix-it/"><u>Step-by-Step Solutions for the Elusive D3DXWINDOWS.dll Error and How to Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-overcoming-windows-10s-endless-airplane-mode-problem/"><u>The Ultimate Guide to Overcoming Windows 10'S Endless Airplane Mode Problem</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>[New] 2024 Approved Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[Updated] 2024 Approved Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-download-your-instagram-masterpieces-easily/"><u>[Updated] In 2024, Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-humor-hierarchy-the-20-most-popular-memes/"><u>[Updated] In 2024, Humor Hierarchy The 20 Most Popular Memes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-jp2-files-to-tiff-format-for-free-with-movavis-web-service/"><u>Convert JP2 Files to TIFF Format for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-raf-to-jpeg-converter-movavi-no-cost-easy-upload/"><u>Free Online RAF to JPEG Converter - Movavi: No Cost, Easy Upload</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-passo-a-passo-conectando-o-seu-computador-ao-gravador-de-dvd-usando-movavi/"><u>Guia Passo a Passo: Conectando O Seu Computador Ao Gravador De DVD – Usando Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-find-your-dream-cellphone-case-with-confidence-and-ease/"><u>How to Find Your Dream Cellphone Case with Confidence and Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-6-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 6 in the Best Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/surviving-the-wild-with-help-from-ai-can-chatgpt-assist-you/"><u>Surviving the Wild with Help From AI: Can ChatGPT Assist You?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-expertas-para-invertir-videos-los-10-mas-eficaces-online-y-offline/"><u>Técnicas Expertas Para Invertir Vídeos: Los 10 Más Eficaces Online Y Offline</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-troubleshooting-and-defeating-the-unable-to-join-a-party-issue-error-code-ebt/"><u>The Ultimate Fix: Troubleshooting and Defeating the 'Unable to Join a Party' Issue (Error Code Ebt)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-ogv-en-format-ogg-sur-internet-avec-ease-movavi/"><u>Transformer Gratuitement Un Fichier OGV en Format OGG Sur Internet Avec Ease - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmv-mpg-movavi/"><u>WMV 및 MPG 파일을 원격 내부로 제공 무료 전환기 - Movavi</u></a></li>
 </ul></div>
 

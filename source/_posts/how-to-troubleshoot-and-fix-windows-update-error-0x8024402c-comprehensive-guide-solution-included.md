@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix Windows Update Error 0X8024402c - Comprehensive Guide [Solution Included]
-date: 2024-09-14T00:45:48.915Z
-updated: 2024-09-18T01:19:32.935Z
+date: 2024-09-17T21:16:48.894Z
+updated: 2024-09-23T00:10:24.322Z
 tags:
   - win11
   - win10
@@ -70,29 +70,23 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
     It may take several minutes for this command operation to be completed.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
@@ -102,10 +96,16 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -119,13 +119,6 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
@@ -137,10 +130,26 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
@@ -148,10 +157,16 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
@@ -180,15 +195,17 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-selecting-your-perfect-mp4-device/"><u>[Updated] In 2024, Selecting Your Perfect MP4 Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-leading-5-facebook-updates-to-note-this-year/"><u>[Updated] In 2024, The Leading 5 Facebook Updates to Note This Year</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-in-class-meme-modification-software-for-2024/"><u>Best in Class Meme Modification Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-solutions-for-resolving-unexpected-shutdowns-of-wireless-mice-on-windows-11-and-10-systems/"><u>Common Solutions for Resolving Unexpected Shutdowns of Wireless Mice on Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-f15-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy F15 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/questions-about-intermittent-video-playback-at-photobooth-for-2024/"><u>Questions About Intermittent Video Playback at Photobooth for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repeat-errors-windows-11-copy-issue/"><u>Repeat Errors: Windows 11 Copy Issue</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30i</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-users-relief-ultimate-fixes-for-sticky-keyboard-issues/"><u>Windows Users Relief: Ultimate Fixes for Sticky Keyboard Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtubes-iconic-counter-based-awards-system/"><u>[New] In 2024, YouTube's Iconic Counter-Based Awards System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad-for-2024/"><u>[Updated] The Complete Guide to Crafting Impressive Timelapse Films on iPad for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/browser-engine-boot-failures-solved-with-recent-fixes-update-now/"><u>Browser Engine Boot Failures Solved with Recent Fixes (Update Now!)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/efficient-ways-to-integrate-movies-into-your-youtube-catalog-for-2024/"><u>Efficient Ways to Integrate Movies Into Your YouTube Catalog for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-responsive-dns-server-with-these-4-quick-fixes/"><u>Fix a Non-Responsive DNS Server with These 4 Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-mic-issue-on-windows-11-a-step-by-step-guide/"><u>Fixing a Non-Functional Mic Issue on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-hp-touchpad-on-laptops-a-step-by-step-tutorial/"><u>Fixing the Unresponsive HP Touchpad on Laptops: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-konvertiemkv-naar-wmv-onlinelastige-vrijwilligersomschrijvingen-movavi/"><u>Gratuit Konvertiemkv Naar WMV - Onlinelastige Vrijwilligersomschrijvingen Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-missing-desktop-icons-on-windows-11-easy-fix-guide/"><u>How to Restore Missing Desktop Icons on Windows 11 - Easy Fix Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-giroptic-complete-immersion/"><u>In-Depth Giroptic Complete Immersion</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New 2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966033930-updated-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-step/"><u>Updated Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps for 2024</u></a></li>
 </ul></div>
 

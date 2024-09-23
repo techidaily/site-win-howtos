@@ -1,7 +1,7 @@
 ---
 title: "Fix Guide: How to Troubleshoot and Solve Windows 11 Update Error (0X8) [Tutorial]"
-date: 2024-09-12T23:00:19.177Z
-updated: 2024-09-18T01:11:26.298Z
+date: 2024-09-19T19:52:11.417Z
+updated: 2024-09-22T17:31:33.340Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 ![Fix 3 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-1.jpg)
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
 3. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.  
 
@@ -112,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run the DISM tool
 
  This annoying issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -126,6 +112,19 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 1. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type**cmd**  and then press **Ctrl** , **Shift** , and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 4 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-1.jpg)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Dism /Online /Cleanup-Image /ScanHealth**  
 ![DISM ScanHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-ScanHealth.jpg)  
@@ -138,19 +137,6 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
@@ -170,13 +156,20 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 3. When this command operation is completed, close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
@@ -205,10 +198,10 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This issue persists?
@@ -218,6 +211,13 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  All you need to do is **[buy a 1-year subscription to Driver Easy (just $29.95) and you get free technical support as part of your purchase](https://www.drivereasy.com/buy.php?comeid=de-buy-indirect)**  . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -240,20 +240,15 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-selfies-to-subscribers-jake-pauls-online-odyssey-for-2024/"><u>[New] From Selfies to Subscribers Jake Paul’s Online Odyssey for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[New] In 2024, Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-guide-to-minecraft-live-streaming/"><u>[Updated] Comprehensive Guide to Minecraft Live Streaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-engagement-best-video-optimizers/"><u>[Updated] Maximizing Engagement Best Video Optimizers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-convenient-hp-recording-strategies-for-seamless-productivity/"><u>2024 Approved Convenient HP Recording Strategies for Seamless Productivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-for-the-failed-to-initialize-network-error-in-dragon-ball-fighterz-explained/"><u>Fix for the 'Failed to Initialize Network' Error in Dragon Ball FighterZ Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-recovering-complete-steam-game-data-access-and-permissions/"><u>Fixing Error: Recovering Complete Steam Game Data Access and Permissions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-site-cannot-be-reached-issue-in-chrome-comprehensive-guide/"><u>Fixing the 'Site Cannot Be Reached' Issue in Chrome - Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-n53-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo N53 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-logitech-mouse-scrolling-again-after-it-stopped-working/"><u>How To Get Your Logitech Mouse Scrolling Again After It Stopped Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-why-isnt-my-usb-to-hdmi-adaptor-working/"><u>Solution Guide: Why Isn't My USB to HDMI Adaptor Working?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-rated-android-apps-for-high-quality-lossless-video-compression/"><u>Top Rated Android Apps for High-Quality Lossless Video Compression</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-startup-problems-that-cause-system-to-halt/"><u>Troubleshooting Windows 11 Startup Problems That Cause System to Halt</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-windows-10-battery-status-an-in-depth-guide/"><u>Understanding the Windows 10 Battery Status: An In-Depth Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unleashing-potential-wows-full-spectrum-3d-support/"><u>Unleashing Potential: WoW's Full Spectrum 3D Support</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omprehensive-list-of-high-quality-game-entrance-makers-online-for-2024/"><u>[New] Comprehensive List of High-Quality Game Entrance Makers Online for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-payment-necessary-download-farewell-soundtracks/"><u>2024 Approved No Payment Necessary Download Farewell Soundtracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oggwma-movavi/"><u>無料で使いやすくて高速なOGGフォーマットとWMAファイルの変換ツール - Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-to-improve-skype-broadcasts-using-obs-for-2024/"><u>Expert Tips to Improve Skype Broadcasts Using OBS for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-tech-enhancements-an-in-depth-look-at-the-linksys-ea9500s-intelligent-network-solutions/"><u>Navigating Through Tech Enhancements: An In-Depth Look at the Linksys EA9500's Intelligent Network Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-flac-to-webm-converter-free-and-easy-use-movavi/"><u>Online FLAC to WebM Converter: Free & Easy Use - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-fortnite-communication-hurdles-with-these-microphone-troubleshooting-steps/"><u>Overcome Your Fortnite Communication Hurdles with These Microphone Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-mov-a-laide-dune-conversion-mp4-en-ligne-video-converti/"><u>Trier Gratuitement Un Fichier MOV À L'aide D'une Conversion MP4 en Ligne - Vidéo Converti</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-macbook-airs-full-potential-a-user-friendly-guide-to-split-screen-functionality/"><u>Unlocking Your MacBook Air’s Full Potential: A User-Friendly Guide to Split Screen Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmvmp4/"><u>WMV到MP4轉檔過程：簡明且高效的教學指南</u></a></li>
 </ul></div>
 

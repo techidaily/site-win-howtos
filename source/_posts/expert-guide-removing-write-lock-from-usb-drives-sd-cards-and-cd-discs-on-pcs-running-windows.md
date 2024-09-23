@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Removing Write Lock From USB Drives, SD Cards, and CD Discs on PCs Running Windows"
-date: 2024-09-16T22:58:17.612Z
-updated: 2024-09-17T18:09:33.042Z
+date: 2024-09-16T17:35:20.783Z
+updated: 2024-09-22T22:12:29.272Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2 Check partition size
 
  Windows require a minimum**500 MB** space in the system reserved partition for the system update. So it’s necessary to extend the partition size for a successful update if the partition space is scarce. To check your system reserved partition available size:
@@ -97,23 +104,16 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 2. Check any box related to**.NET Framework** and click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-6.jpg)
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
@@ -130,26 +130,12 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
 4. Try updating now.
 
 **IMPORTANT** : Remember to**turn on** the firewalls after you finish the update. Be extra careful in using the Internet during this period as your security may be endangered.
 
 If the error code is still there, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -171,6 +157,19 @@ To use Fortect to repair your system files:
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your computer for the changes to take effect.
 
 #### Option 2: Deploy SFC & DISM scans
@@ -188,14 +187,22 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
@@ -255,16 +262,13 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximizing-your-videos-impact-with-perfect-post-times/"><u>[Updated] 2024 Approved Maximizing Your Videos' Impact with Perfect Post Times</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>[Updated] In 2024, The Complete Guide to Generating Profits Vimeo Monetization Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-wont-connect-master-the-art-of-pairing-with-our-latest-windows-11-troubleshooting-guide/"><u>Bluetooth Won't Connect? Master the Art of Pairing with Our Latest Windows 11 Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-methods-to-rectify-loading-errors-on-the-steam-platform/"><u>Effective Methods to Rectify Loading Errors on the Steam Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-repair-steps-for-a-malfunctioning-logitech-scroll-wheel/"><u>Expert Advice: Repair Steps for a Malfunctioning Logitech Scroll Wheel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-overcoming-hub-port-electrical-surges/"><u>Expert Solutions for Overcoming Hub Port Electrical Surges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-i-overcame-obss-blackout-display-glitch-solutions-inside/"><u>How I Overcame OBS's Blackout Display Glitch - Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-to-persistent-semaphore-delay-addressing-timed-out-process-error-identifier-0x80070079/"><u>Solution to Persistent Semaphore Delay - Addressing Timed Out Process (Error Identifier 0X80070079)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-windows-11-version-2004-enhancement-using-conexant-drivers/"><u>Successful Windows 11 (Version 2004) Enhancement Using Conexant Drivers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-handbook-for-flawless-snapchat-boomers/"><u>The Ultimate Handbook for Flawless Snapchat Boomers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-immediate-ways-to-leverage-customizable-gpt-models/"><u>Top 8 Immediate Ways to Leverage Customizable GPT Models</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-ways-to-generate-money-on-snapchat-channels/"><u>[New] In 2024, Innovative Ways to Generate Money on Snapchat Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/"><u>10 Free Web Conferencing Software for Online Meeting (with Screen Sharing)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/boost-your-music-experience-the-amazing-spotify-client-hack-that-elevates-usage-to-new-heights/"><u>Boost Your Music Experience: The Amazing Spotify Client Hack That Elevates Usage to New Heights!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detecting-outages-in-microsoft-teams-understanding-connectivity-issues/"><u>Detecting Outages in Microsoft Teams - Understanding Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-guide-restore-your-steam-file-access-rights-successfully/"><u>Fix Guide: Restore Your Steam File Access Rights Successfully</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/strategic-planning-of-podcast-drop-times-for-2024/"><u>Strategic Planning of Podcast Drop Times for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-solutions-resolving-xbox-one-and-xbox-live-connection-problems/"><u>Successful Solutions: Resolving Xbox One and Xbox Live Connection Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-bluetooth-connection-woes-in-windows-11/"><u>Ultimate Guide: Solving Your Bluetooth Connection Woes in Windows 11</u></a></li>
 </ul></div>
 

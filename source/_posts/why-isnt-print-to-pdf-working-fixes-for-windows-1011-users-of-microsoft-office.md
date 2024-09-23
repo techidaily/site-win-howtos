@@ -1,7 +1,7 @@
 ---
 title: Why Isn’t 'Print to PDF' Working? Fixes for Windows 10/11 Users of Microsoft Office
-date: 2024-09-13T00:54:00.632Z
-updated: 2024-09-17T17:26:03.199Z
+date: 2024-09-19T23:48:20.442Z
+updated: 2024-09-22T17:06:53.550Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -85,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
@@ -96,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -116,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -134,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
  4-2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 minute. Your Bluetooth driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
@@ -154,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -175,19 +175,19 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-inshot-editors-handbook-to-smoothness/"><u>2024 Approved The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205957602-dealing-with-touchless-screens-learn-quick-fixes-for-activating-interactive-controls/"><u>Dealing with Touchless Screens? Learn Quick Fixes for Activating Interactive Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-convert-your-asf-media-formats-into-anything-you-need-using-the-movavi-video-converter/"><u>Easily Convert Your ASF Media Formats Into Anything You Need - Using the Movavi Video Converter</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78plus-t1-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78+ (T1) Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209243917-how-to-overcome-unexpected-shutdown-error-1067-on-your-windows-pc-now-solved/"><u>How to Overcome Unexpected Shutdown (Error 1067) on Your Windows PC - Now Solved!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/insider-tips-the-best-5-cameras-for-extended-zoom/"><u>Insider Tips The Best 5 Cameras for Extended Zoom</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lag-problems-an-update-to-the-elder-scrolls-onlines-blackwood-region/"><u>Overcoming Lag Problems: An Update to The Elder Scrolls Online's Blackwood Region</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-shockwave-flash-is-now-compatible-with-google-chrome/"><u>Resolved: Shockwave Flash Is Now Compatible with Google Chrome</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/savor-the-taste-our-picked-list-of-1eby-top-cooking-shows-available-on-netflix/"><u>Savor the Taste: Our Picked List of 1Eby-Top Cooking Shows Available on Netflix</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-updated-guide-to-google-nest-hub-2nd-generation-the-benefits-of-integrating-a-camera/"><u>The Updated Guide to Google Nest Hub, 2Nd Generation - The Benefits of Integrating a Camera</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-to-enumerate-objects-on-windows-11/"><u>Troubleshooting Guide: Resolving 'Failed to Enumerate Objects' On Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-global-top-rated-mp3-editing-applications/"><u>Updated In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-hd-video-capture-tools-the-complete-review/"><u>[Updated] 2024 Approved Free HD Video Capture Tools The Complete Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-srt-conversion-made-simple-3-actionable-solutions/"><u>[Updated] 2024 Approved SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>[Updated] Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-maximizing-revenue-through-youtube-brand-partnerships-for-2024/"><u>[Updated] Maximizing Revenue Through Youtube Brand Partnerships for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-the-acoustic-engineering-in-klipschs-flexus-200-soundbar/"><u>A Closer Look at the Acoustic Engineering in Klipsch's Flexus 200 Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-setting-up-your-own-wireless-cinema-in-the-dorm/"><u>DIY Guide: Setting Up Your Own Wireless Cinema in the Dorm</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-network-connection-with-updated-usb-30-gigabit-ethernet-driver-for-pcs/"><u>Enhance Your Network Connection with Updated USB 3.0 Gigabit Ethernet Driver for PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-your-logitech-g402-driver-and-software-download-guide/"><u>Installing Your Logitech G402: Driver & Software Download Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-resolving-damaged-driver-issues-instantly/"><u>Quick and Simple Guide: Resolving Damaged Driver Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-dealing-with-hanging-screens-in-windows-10-operating-system/"><u>Top Tips for Dealing With Hanging Screens in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-no-bootable-device-found-dilemma/"><u>Ultimate Guide: Solving the 'No Bootable Device Found' Dilemma</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-videos-potential-with-these-7-audio-treasures-for-2024/"><u>Unlock Your Video's Potential with These 7 Audio Treasures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-11s-troublesome-update-issue-code-0x800705b4-explained/"><u>Winning Against Windows 11'S Troublesome Update Issue: Code 0X800705b4 Explained</u></a></li>
 </ul></div>
 

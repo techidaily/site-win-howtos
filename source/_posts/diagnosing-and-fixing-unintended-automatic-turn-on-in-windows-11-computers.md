@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Unintended Automatic Turn On in Windows 11 Computers
-date: 2024-09-12T17:55:58.441Z
-updated: 2024-09-17T21:20:14.426Z
+date: 2024-09-20T21:37:16.546Z
+updated: 2024-09-23T00:54:26.893Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Reset CMOS to the default settings
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -116,6 +109,13 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Check PSU (Power Supply Unit)
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -125,10 +125,10 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Check the fan
@@ -141,18 +141,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
 
@@ -161,10 +161,10 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
@@ -186,20 +186,19 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-into-better-imaging-with-these-gopro-extras/"><u>[New] Step Into Better Imaging with These GoPro Extras</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-vids-deep-dive-a-comprehensive-handbook-for-2024/"><u>[New] Twitter Vids Deep Dive A Comprehensive Handbook for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-angle-adjustments-the-instagram-guide-for-perfecting-photo-flips-for-2024/"><u>[Updated] Angle Adjustments The Instagram Guide for Perfecting Photo Flips for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-blur-apps-that-work-wonders-on-iphonesandroids/"><u>[Updated] Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diy-graphics-tuning-eliminating-fuzziness-and-boosting-clarity-in-call-of-duty-warzone-on-pc/"><u>DIY Graphics Tuning: Eliminating Fuzziness and Boosting Clarity in Call of Duty: Warzone on PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hps-budget-notebook-15-how-well-does-it-work-with-an-amd-cpu/"><u>HP's Budget Notebook 15: How Well Does It Work With an AMD CPU?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-11-pro-max-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 11 Pro Max Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-process-transforming-multiple-wav-recordings-into-aac-on-your-pc/"><u>Step-by-Step Process: Transforming Multiple WAV Recordings Into AAC on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-upgrading-video-resolution-from-360p-to-720p/"><u>Step-by-Step Tutorial for Upgrading Video Resolution: From 360P to 720P</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-13-alternatives-to-gogoanime-if-its-down-or-not-functioning/"><u>Top 13 Alternatives To Gogoanime If It's Down Or Not Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-tools-for-compressing-mov-files-compare-pcmac-solutions-and-online-options/"><u>Top 5 Tools for Compressing MOV Files: Compare PC/Mac Solutions & Online Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-dvd43-substitutes-for-dvd-cloning-on-windows-3264-bit/"><u>Top DVD43 Substitutes for DVD Cloning on Windows (32/64-Bit)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-methods-for-transforming-videos-into-compatible-formats-for-whatsapp-sharing/"><u>Top Methods for Transforming Videos Into Compatible Formats for WhatsApp Sharing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-psp-video-transcoder-apps-perfect-companion-for-reviving-your-vintage-psp/"><u>Top-Rated PSP Video Transcoder Apps: Perfect Companion for Reviving Your Vintage PSP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-17-best-lights-and-lighting-equipment-for-youtube-videos-for-2024/"><u>[New] 17 Best Lights and Lighting Equipment for YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[New] 2024 Approved Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>2024 Approved 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ape-aac-movavi/"><u>APE 파일을 AAC로 구독하기: 원거리 무료 솔루션 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/create-videos-on-mac-with-moveaveer-a-comprehensive-guide/"><u>Create Videos on Mac with Moveaveer - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-passaparola-per-acquisizione-di-schermata-parziale-su-windows-11-tutorial-e-suggerimenti/"><u>Guida Passaparola per Acquisizione Di Schermata Parziale Su Windows 11: Tutorial E Suggerimenti</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-expert-comment-realiser-et-partager-votre-premier-montage-video-en-quelques-etapes-simples/"><u>Guide Expert: Comment Réaliser Et Partager Votre Premier Montage Vidéo en Quelques Étapes Simples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-set-up-focusrite-scarlett-2i4-drivers-on-your-windows-computer/"><u>How to Download and Set Up Focusrite Scarlett 2I4 Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>In 2024, Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebooks-top-additions-for-savvy-users-unveiled/"><u>In 2024, Facebook's Top Additions for Savvy Users Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru/"><u>In 2024, Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/leading-video-editing-tools-for-professionals-optimized-for-windows-11-8-and-7-systems/"><u>Leading Video Editing Tools for Professionals: Optimized for Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily/"><u>Updated Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4vwebm-obs-streamyard/"><u>무료 온라인 M4V/WEBM 이미지를 OBS에서 바인딩하기 - StreamYard</u></a></li>
 </ul></div>
 

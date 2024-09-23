@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Recover Lost Steam Files and Restore Privileges"
-date: 2024-09-12T21:12:04.598Z
-updated: 2024-09-18T00:25:04.090Z
+date: 2024-09-19T18:25:42.938Z
+updated: 2024-09-22T20:45:27.365Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Repair Steam Library Folder**
 
  A corrupted / misconfigured Steam library folder might also be responsible for our **missing file privileges** error. We might have to repair the folder to see if that clears the problem:
@@ -79,26 +86,32 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click inside the Window and click **Repair Library Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5)Re-try the install/update and hopefully this time it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Verify the integrity of game cache**
@@ -121,25 +134,11 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Give administrator privileges to Steam
 
  Sometimes **Steam missing file privileges**  happens because you don’t have full permissions to run Steam. So to**give Steam administrator privileges** :
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
 
@@ -150,9 +149,23 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4453eca629e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run Steam as administrator and check if the mid-download/update problem gets fixed.
 
@@ -161,13 +174,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -193,16 +199,14 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-anime-ideas-dominating-social-media-screens/"><u>[New] Cutting-Edge Anime Ideas Dominating Social Media Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gameo-dvd/"><u>「Gameo DVD処理入門 - 安全かつ簡単なコピー方法を学ぶ」</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>2024 Approved Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-ways-to-transcode-webm-files-into-mp3-audio-format-both-online-and-offline/"><u>Free Ways to Transcode WebM Files Into MP3 Audio Format Both Online and Offline</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y27-4g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/iso-windows-11-3/"><u>ISO イメージをWindows 11で動かすためのユニークなアプローチ: 3方法をご紹介</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-vf-mp4-conversions-tips-using-vegas-movie-studio-and-vegas-pro/"><u>Mastering VF MP4 Conversions: Tips Using Vegas Movie Studio & Vegas Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-windows-10-screen-blink/"><u>Quelling Windows 10 Screen Blink</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-mini-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 mini Suddenly | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-scaling-find-your-perfect-size-with-these-six-tips/"><u>Windows 11 Image Scaling: Find Your Perfect Size With These Six Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-your-4k-videos-with-the-world-via-youtube-for-2024/"><u>[New] How to Share Your 4K Videos with the World via YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-video-call-alternatives-zooms-rivalry-explained-for-2024/"><u>[New] Premier Video Call Alternatives Zoom's Rivalry Explained for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-picture-playback-superior-4k-panels-for-editing/"><u>[Updated] In 2024, Perfect Picture Playback Superior 4K Panels for Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-flac/"><u>使用 MOVAVI 將音樂文件流式更改成 FLAC - 資料顯示無限制下載</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-avid-a-asf-gratuitamente-online-movavi/"><u>Conversion AVID a ASF Gratuitamente Online - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/digital-eyes-how-to-transform-your-look-with-picture-editing-teeth-whitening/"><u>Digital Eyes: How to Transform Your Look with Picture Editing Teeth Whitening</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-online-converte-arw-para-formatos-mais-usados-sem-custo-algum/"><u>Movavi Online - Convertê ARW Para Formatos Mais Usados, Sem Custo Algum!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-sound-design-crafting-and-integrating-whatsapp-ringtone-on-devices/"><u>Step Into Sound Design Crafting and Integrating WhatsApp Ringtone on Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-bokeh-blur-apps-for-mobile-photography/"><u>Updated 2024 Approved Top Bokeh Blur Apps for Mobile Photography</u></a></li>
 </ul></div>
 

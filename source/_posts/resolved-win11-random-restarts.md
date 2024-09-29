@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Win11 Random Restarts"
-date: 2024-09-19T02:12:39.852Z
-updated: 2024-09-22T19:15:03.471Z
+date: 2024-09-24T06:59:07.373Z
+updated: 2024-09-29T00:28:38.702Z
 tags:
   - win11
   - win10
@@ -40,16 +40,16 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 3: Disable USB Root Hubs](#h-solution-3-disable-usb-root-hubs)
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Quick & Easy
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Update your device drivers
 
@@ -60,6 +60,13 @@ The good news is that it can be fixed quickly and easily.
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
 
@@ -73,6 +80,13 @@ The good news is that it can be fixed quickly and easily.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -91,33 +105,33 @@ The good news is that it can be fixed quickly and easily.
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
 
  Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
 
@@ -128,13 +142,6 @@ To check which USB Root Hub is for your keyboard and mouse:
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
 
@@ -149,13 +156,20 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -182,5 +196,18 @@ To check which USB Root Hub is for your keyboard and mouse:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-signs-that-youve-been-muted-by-someone/"><u>[New] In 2024, Signs That You've Been Muted by Someone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-script-mastery-online-academy/"><u>[New] Script Mastery Online Academy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fine-tuning-speed-settings-for-snapchat-vids/"><u>[Updated] Fine-Tuning Speed Settings for Snapchat Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-change-background-on-teams-before-or-after-calling/"><u>How to Change Background on Teams Before or After Calling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-geforce-experience-wont-open-effective-solutions/"><u>How to Fix When Your GeForce Experience Won't Open: Effective Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-creativity-the-10-most-popular-animated-text-creators/"><u>New 2024 Approved Unleash Creativity The 10 Most Popular Animated Text Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-touch-screen-on-windows-11-discovering-5-proven-techniques-for-a-smooth-experience/"><u>Reviving Your Touch Screen on Windows 11: Discovering 5 Proven Techniques for a Smooth Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204143062-step-by-step-solutions-to-resolve-origin-games-configuration-errors/"><u>Step-by-Step Solutions to Resolve Origin Games Configuration Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-resolving-volume-icon-issues-on-windows-11-infographic/"><u>Step-by-Step Tutorial: Resolving Volume Icon Issues on Windows 11 [Infographic]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-huion-drawing-tablet-quick-solutions-for-when-it-stops-responding/"><u>Troubleshoot Your Huion Drawing Tablet: Quick Solutions for When It Stops Responding</u></a></li>
+</ul></div>
 

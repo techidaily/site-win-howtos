@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Keyboard-Only Mode: Display Now Supports Gesture and Touch Controls"
-date: 2024-09-20T00:54:32.337Z
-updated: 2024-09-22T17:38:19.865Z
+date: 2024-09-28T02:53:29.649Z
+updated: 2024-09-29T00:19:07.579Z
 tags:
   - win11
   - win10
@@ -55,14 +55,38 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
 **If you’re using Windows 7:**
@@ -74,6 +98,14 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
@@ -104,6 +136,14 @@ Restart your computer in normal mode and see if it works.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
@@ -120,6 +160,14 @@ Restart your computer in normal mode and see if it works.
 2. Press the power button to turn on your PC, then hold the power button down until PC shuts down automatically (about 5 seconds) . Repeat this more than 2 times until you see the**Preparing Automatic Repair** (see below screenshot).  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)  
  Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
@@ -127,37 +175,31 @@ Restart your computer in normal mode and see if it works.
 4. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
-6. Click**Startup** **Settings** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
+6. Click**Startup** **Settings** to continue.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
@@ -169,19 +211,6 @@ Restart your computer in normal mode and see if it works.
 2. In the**Advanced** **Boot** **Options** **Menu** screen, press the**arrow up** or**arrow down** key to select**Enable VGA Mode** (or**Enable low-resolution mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4111e6908.jpg)
 3. Then press**Enter** on your keyboard.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer will boot into the selected VGA mode and your error message should disappears.
 
@@ -203,5 +232,26 @@ Restart your computer in normal mode and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-minimizing-movement-blur-in-media/"><u>[New] Minimizing Movement Blur in Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ranking-8-real-time-strategies-to-grow-youtube-success/"><u>2024 Approved Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-shadows-solutions-for-startup-screen-troubles-in-monster-hunter-world/"><u>Banishing Shadows: Solutions for Startup Screen Troubles in Monster Hunter: World</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/bestselling-case-options-to-safeguard-your-kindle-voyage-reader/"><u>Bestselling Case Options to Safeguard Your Kindle Voyage Reader</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-tracking-with-cookiebot-technology/"><u>Data Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-media-connection-errors-in-windows-systems-expert-tips-and-tricks/"><u>Fixing Media Connection Errors in Windows Systems – Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-graphics-device-not-supported-issue-in-civ-vi/"><u>Fixing the 'Graphics Device Not Supported' Issue in Civ VI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-crimson-display-issue-on-your-device-a-step-by-step-tutorial/"><u>How to Resolve the Crimson Display Issue on Your Device – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/i2c-hid-device-driver-error-fixes-a-simplified-approach-to-smoother-operation/"><u>I2C HID Device Driver Error Fixes: A Simplified Approach to Smoother Operation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled/"><u>In 2024, Perfecting Pics on PC Our Top 5 Snipping Apps Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-google-chrome-not-responding-restart-tips/"><u>Resolving 'Google Chrome Not Responding' - Restart Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-keyboard-issues-spacebar-malfunction-on-microsofts-latest-operating-system/"><u>Resolving Keyboard Issues - Spacebar Malfunction on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/singing-machine-sml3er-these-are-all-indicative-of-the-machines-ease-of-use-and-vibrant-visual-appeal-making-them-suitable-for-a-target-audience-that-values153/"><u>Singing Machine SML3er. These Are All Indicative of the Machine's Ease of Use and Vibrant Visual Appeal, Making Them Suitable for a Target Audience that Values Simplicity and Entertainment in Their Karaoke Experience.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-error-1053-improving-timely-service-start-up-and-control-acknowledgment/"><u>Solution for Error 1053: Improving Timely Service Start-Up and Control Acknowledgment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211738761-tired-of-that-blinking-cursor-lets-resolve-it-together/"><u>Tired of that Blinking Cursor? Let's Resolve It Together</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-hidden-youtube-trick-we-all-skip/"><u>Unveiling the Hidden YouTube Trick We All Skip!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-essentials-repair-and-restoration-successfully-completed/"><u>Windows Update Essentials: Repair and Restoration Successfully Completed</u></a></li>
+</ul></div>
 

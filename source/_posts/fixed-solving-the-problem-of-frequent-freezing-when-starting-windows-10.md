@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Solving the Problem of Frequent Freezing When Starting Windows 10"
-date: 2024-09-18T20:47:34.915Z
-updated: 2024-09-22T19:53:03.005Z
+date: 2024-09-25T17:38:00.553Z
+updated: 2024-09-28T17:35:46.101Z
 tags:
   - win11
   - win10
@@ -48,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
@@ -63,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
@@ -88,6 +109,19 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
@@ -98,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4829b314bed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
@@ -107,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
@@ -118,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
@@ -147,5 +188,22 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-broadcasting-higher-integrating-dji-drones-for-facebook-live-for-2024/"><u>[New] Broadcasting Higher - Integrating DJI Drones for Facebook Live for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-empathy-on-screen-connecting-with-youtube-subscribers/"><u>[New] Empathy on Screen Connecting With YouTube Subscribers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-present-ppt-on-google-meet-for-2024/"><u>[Updated] How to Present PPT on Google Meet for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-path-to-proficiency-with-streamlabs-obs-mastery-for-2024/"><u>[Updated] The Path to Proficiency with Streamlabs OBS Mastery for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965351150-fast-track-to-installing-elgato-drivers-download-made-easy/"><u>Fast Track to Installing Elgato Drivers - Download Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-rid-of-annoying-usb-recognition-errors-on-windows-or-mac-devices/"><u>Getting Rid of Annoying USB Recognition Errors on Windows or Mac Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-insights-and-customized-content/"><u>Leveraging Cookiebot Technology for Advanced Website Insights and Customized Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-overcoming-the-entry-not-located-challenge-in-windows/"><u>Mastering Fixes: Overcoming the Entry Not Located Challenge in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-addressing-serious-bugs-and-crashes-in-black-ops-4/"><u>Troubleshooting Steps: Addressing Serious Bugs and Crashes in Black Ops 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-11-effective-methods-and-tips/"><u>Troubleshooting Unresponsive File Explorer in Windows 11 – Effective Methods and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-0xc0000005-blue-screen-of-death/"><u>Ultimate Guide: Resolving the Windows 0xC0000005 Blue Screen of Death</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unidentified-issue-missing-api-dll-on-pc/"><u>Unidentified Issue: Missing API DLL on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-graphic-card-driver-to-enable-miracast-functionality-a-fix-guide/"><u>Update Graphic Card Driver to Enable Miracast Functionality: A Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002701010-why-does-my-naraka-bladepoint-session-freeze-find-out-here/"><u>Why Does My Naraka: Bladepoint Session Freeze? Find Out Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-review-the-ultimate-fun-in-yard-work-our-experience-with-a-remote-controlled-lawn-mower/"><u>ZDNet Review: The Ultimate Fun in Yard Work - Our Experience with a Remote-Controlled Lawn Mower</u></a></li>
+</ul></div>
 

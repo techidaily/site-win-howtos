@@ -1,7 +1,7 @@
 ---
 title: Fixing Your Origin Game's Problematic Configuration with Easy Solutions
-date: 2024-09-18T00:39:22.875Z
-updated: 2024-09-22T16:42:52.401Z
+date: 2024-09-23T05:16:14.987Z
+updated: 2024-09-28T22:31:54.919Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c5eed3e6d7.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c44f755e24.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, check the sound from**Logitech G930** again and see if the sound cutting out problem has been resolved. If yes, then great! But if the sound problem still persists, move on to**Fix 2** , below.
@@ -55,6 +63,14 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 1. Right-click on **the sound icon**  on the lower-right of your computer screen, then click **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c732edc602.jpg)
 2. In the**Playback** tab, click on**Speakers** (Logitech G930 Headset) and click**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c742327095.jpg)
 3. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c74bc929c9.jpg)
@@ -63,10 +79,39 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 5. Click**Finish** to complete the configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c753f719c3.png)
 6. Back to the**Playback** tab, click on **Speakers** (Logitech G930 Headset) and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c75be9e5e5.jpg)
 7. Click the**Enhancements** tab, then**TICK the box** before**Disable all enhancements** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c765aad3c2.jpg)
 8. Check if the sound coming through your Logitech G930 is still cutting out. If the problem persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -84,25 +129,19 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
 4. Right-click on the **Device\_Manifest** file and**edit with a text editor** (such as Notepad ++, Notepad, Evernote).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d806766b61.jpg)
 5. On your keyboard, press**Ctrl** and**F** at the same time, then type**turnoffinterval** and click**Find Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d8159a4b7d.jpg)
 6. Modify**900** to**0** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d81b6b7a7d.jpg)
 7. Save the edit.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Check to see if your**Logitech G930 cutting out** problem has been resolved. If yes, then great! But if the issue is still not worked out, then delete the file you’ve just edited and**keep the original Device\_Manifest** file.
 
@@ -114,39 +153,20 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d8316d4a6d.png)
 2. Double-click on**Universal Serial Bus controllers** \>**USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d836de23be.jpg)
 3. Click the**Power Management** tab,_un-tick_ **the box** for**Allow the computer to turn off this device to save power** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d83edc73ad.png)
 4. Check your Logitech G930 gaming headset and see if the sound cutting out issue has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Try another port
 
@@ -178,5 +198,21 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-embracing-the-future-with-vr-mobile-or-tethered-whats-right-for-you/"><u>[New] 2024 Approved Embracing the Future with VR Mobile or Tethered, What's Right For You?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-camstudio-updates-the-2023-guide-for-screen-recording-pros-for-2024/"><u>[New] CamStudio Updates The 2023 Guide for Screen Recording Pros for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astery-in-migrating-youtube-videos-to-igtv-platform-for-2024/"><u>[New] Mastery in Migrating YouTube Videos to IGTV Platform for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>2024 Approved Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-cheating-problem-solved-how-to-fix-the-easy-anti-cheat-error/"><u>Apex Legends Cheating Problem Solved: How to Fix the Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/blueprint-for-a-thriving-portfolio-in-graphics/"><u>Blueprint for a Thriving Portfolio in Graphics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/"><u>Charming Charms: Italian Love Lingo Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210079081-dell-usb-failure-discover-effective-solutions-and-get-it-working-again/"><u>Dell USB Failure? Discover Effective Solutions and Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolving-windows-10-crashes-during-launch-and-booting/"><u>Fixing the Issue: Resolving Windows 10 Crashes During Launch & Booting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-event-notification-service-connection-error-on-your-pc/"><u>How to Overcome 'System Event Notification Service Connection Error' On Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unexpected-termination-of-services-overcoming-error-1067-on-your-pc/"><u>How to Resolve Unexpected Termination of Services: Overcoming Error 1067 on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-comprehensive-guide-to-screencasting-techniques/"><u>In 2024, The Comprehensive Guide to Screencasting Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y100i-power-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y100i Power 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-fix-your-pc-when-it-wont-recognize-a-usb-drive/"><u>Quick Solutions: Fix Your PC When It Won't Recognize a USB Drive</u></a></li>
+</ul></div>
 

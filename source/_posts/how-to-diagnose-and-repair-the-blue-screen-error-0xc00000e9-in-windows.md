@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows
-date: 2024-09-16T01:02:01.125Z
-updated: 2024-09-22T16:27:49.700Z
+date: 2024-09-24T22:33:58.226Z
+updated: 2024-09-28T18:21:31.012Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 4. **[Run System File Checker](#f4)**
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Rebuild BCD manually
 
@@ -66,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 4) Select the **Create installation media (USB flash drive, DVD, or ISO file) for another PC** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
@@ -116,6 +137,13 @@ bootrec /rebuildbcd
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -129,6 +157,13 @@ bootrec /rebuildbcd
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
 
@@ -170,32 +205,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -230,13 +251,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -286,5 +300,26 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-transitioning-vids-from-twitter-to-fb-engagement-zone-for-2024/"><u>[New] Transitioning Vids From Twitter to FB Engagement Zone for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-search-filters-on-instagram-and-get-more-filters-for-free/"><u>[Updated] In 2024, How to Search Filters on Instagram and Get More Filters for Free</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-jumpstart-your-channel-with-these-top-10-video-editing-tips/"><u>2024 Approved Jumpstart Your Channel with These Top 10 Video Editing Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/alives-sound-reduction-secrets-revealed-for-2024/"><u>Alive's Sound Reduction Secrets Revealed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-x6-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco X6 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-solutions-to-repair-windows-update-error-0x8024401c-for-both-windows-10-and-11-users/"><u>Efficient Solutions to Repair Windows Update Error 0X8024401C for Both Windows 10 & 11 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S17e</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-speed-optimization-no-more-slowdowns/"><u>League of Legends Download Speed Optimization - No More Slowdowns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-game-interruptions-mastering-stability-in-total-war-rome-remastered/"><u>No More Game Interruptions: Mastering Stability in Total War: Rome Remastered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-stuck-update-dilemma-today/"><u>Overcome Your Windows 10 Stuck Update Dilemma Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dells-dead-usb-port-step-by-step-fixes/"><u>Revive Your Dell's Dead USB Port: Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-pcs-embedded-camera-expert-advice-for-quick-windows-solutions/"><u>Reviving Your PC's Embedded Camera: Expert Advice for Quick Windows Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shift-your-screenscape-dynamic-windows-11-backgrounds/"><u>Shift Your Screenscape Dynamic Windows 11 Backgrounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-common-media-device-not-recognized-issues-correcting-missing-drivers/"><u>Solution to Common 'Media Device Not Recognized' Issues: Correcting Missing Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212111404-solve-overwatch-voice-chat-not-working-issues-easily/"><u>Solve Overwatch Voice Chat Not Working Issues. Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-cast-to-device-not-working-dilemma-on-your-windows-11-pc/"><u>Solving the 'Cast to Device Not Working' Dilemma on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/virtual-vice-versa-top-10-alternative-crime-games-for-2024/"><u>Virtual Vice Versa Top 10 Alternative Crime Games for 2024</u></a></li>
+</ul></div>
 

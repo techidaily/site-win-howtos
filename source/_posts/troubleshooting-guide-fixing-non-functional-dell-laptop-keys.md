@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Non-Functional Dell Laptop Keys"
-date: 2024-09-21T20:00:09.082Z
-updated: 2024-09-22T16:40:40.084Z
+date: 2024-09-22T06:23:19.151Z
+updated: 2024-09-29T06:57:52.203Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
  Sometimes this**USB ports not working** problem is only a hiccup that can be easily solved by removing all the peripherals and reseating the battery before getting your HP laptop back to where it is.
@@ -59,19 +66,35 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -90,13 +113,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -125,5 +141,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-max-360-vs-hero-11-which-is-the-best-gopro-video-camera/"><u>[New] GoPro Max 360 VS Hero 11 Which Is the Best GoPro Video Camera?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-ultimate-cutting-edge-tools-for-windows-11-videographers/"><u>[Updated] 2024 Approved Ultimate Cutting-Edge Tools for Windows 11 Videographers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>[Updated] Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-premium-designers-stellar-instagram-hlv-page-builders/"><u>[Updated] In 2024, Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-off-switch-for-instagrams-igtv-for-2024/"><u>[Updated] Off Switch for Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/budget-friendly-cinema-experience-your-guide-to-free-movie-access-both-online-and-in-person/"><u>Budget-Friendly Cinema Experience: Your Guide to Free Movie Access Both Online & in Person</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-stop-your-csgo-game-from-crashing-instantly/"><u>Effortless Solutions: Stop Your CSGO Game From Crashing Instantly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-engagement-top-20-best-practices-for-video-ads-on-facebook-for-2024/"><u>Enhancing Engagement Top 20 Best Practices for Video Ads on Facebook for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-g2-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo G2 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-wrp-errors-in-windows-a-comprehensive-troubleshooting-manual/"><u>Overcoming WRP Errors in Windows: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208194874-run-the-latest-engine-successfully-upgrade-to-a-gpu-that-works-with-direct3d-11/"><u>Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-error-code-0xc0000098/"><u>Solutions for Resolving Windows Error Code 0xC0000098</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-nba-2k21-emerald-gaffe-solved-techniques-for-gamers/"><u>The NBA 2K21 Emerald Gaffe: Solved Techniques for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-unresponsive-personal-setting-adjustments/"><u>Troubleshooting Fixes for Unresponsive Personal Setting Adjustments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-your-lenovo-laptops-webcam/"><u>Troubleshooting Tips: Resolving Issues with Your Lenovo Laptop's Webcam</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Desktop Icon Disappearance Issue in Windows 11? Here's the Solution
-date: 2024-09-18T01:33:36.548Z
-updated: 2024-09-22T21:55:51.527Z
+date: 2024-09-26T00:01:35.560Z
+updated: 2024-09-28T16:24:13.009Z
 tags:
   - win11
   - win10
@@ -43,13 +43,35 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -65,13 +87,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -81,13 +96,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -96,14 +104,22 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -111,6 +127,13 @@ If your desktop icons still don’t show up, you can perform a system restore to
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -141,13 +164,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 Hopefully, this can help you out.
@@ -169,5 +185,24 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-bringing-sketches-to-life-foremost-ipados-apps/"><u>[New] Bringing Sketches to Life Foremost iPadOS Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ising-through-rhythm-how-to-submit-music-to-youtube-for-2024/"><u>[New] Rising Through Rhythm How to Submit Music to YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-who-will-be-the-champion-of-dynamic-video-recording-black-gopro-or-x1000v-in-2024/"><u>[New] Who Will Be the Champion of Dynamic Video Recording, Black GoPro or X1000V, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creative-commons-chill-vibes/"><u>[Updated] In 2024, Creative Commons Chill Vibes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-sluggishness-fixes-for-stalled-file-explorer-on-windows-11-systems/"><u>Bypassing the Sluggishness: Fixes for Stalled File Explorer on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-eliminating-latency-in-wow-tips-for-a-lag-free-experience/"><u>Expert Guide: Eliminating Latency in WoW - Tips for a Lag-Free Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exploring-fps-reduction-in-fortnite-following-the-season-8-upgrade/"><u>Exploring FPS Reduction in Fortnite Following the Season 8 Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-get-the-latest-webcam-drivers-on-windows-7/"><u>How to Effortlessly Get the Latest Webcam Drivers on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-policy-diagnostic-service-is-down-error/"><u>How to Fix 'Policy Diagnostic Service Is Down' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-high-processor-consumption-caused-by-wudfhostexe-on-windows-11/"><u>How to Reduce High Processor Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-computer-doesnt-detect-devices-in-icue-software/"><u>How to Resolve When Your Computer Doesn't Detect Devices in ICUE Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208829296-overcoming-windows-10-touchpad-issues-get-your-scroll-working-again/"><u>Overcoming Windows 10 Touchpad Issues - Get Your Scroll Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-to-do-when-your-usb-isnt-detected/"><u>Troubleshooting Guide: What to Do When Your USB Isn't Detected</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-speed-vs-style-a-comprehensive-guide-to-tp-link-av200n-powerline-adapter/"><u>Unveiling Speed Vs. Style: A Comprehensive Guide to TP-Link AV200n Powerline Adapter</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-and-10-troubleshooting-fix-plugged-in-but-non-charging-problems/"><u>Windows 7 & 10 Troubleshooting: Fix 'Plugged In' But Non-Charging Problems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/1720600307432-windows-stellar-data-recovery/"><u>Windows版フリーデータリカバリプログラム: Stellar Data Recovery(ステラデータリカバリ) - 失われた情報が見つかります</u></a></li>
+</ul></div>
 

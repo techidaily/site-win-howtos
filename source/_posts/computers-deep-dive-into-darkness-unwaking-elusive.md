@@ -1,7 +1,7 @@
 ---
 title: Computer's Deep Dive Into Darkness - Unwaking Elusive
-date: 2024-09-22T00:11:42.158Z
-updated: 2024-09-22T18:09:52.301Z
+date: 2024-09-22T03:50:27.863Z
+updated: 2024-09-28T20:28:23.208Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,6 +65,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Set default devices
 
  Ideally Windows can automatically detect your device and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices (both output device and input device) manually to see if it fixes your**Overwatch voice chat not working** issue.  
@@ -62,6 +82,14 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
@@ -85,24 +113,24 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,5 +166,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/crackdown-n-3-a-comprehensive-guide-to-address-and-rectify-pc-crashing-scenarios/"><u>'Crackdown N 3': A Comprehensive Guide to Address and Rectify PC Crashing Scenarios</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>[New] Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/achieve-ultimate-pc-performance-for-gamers-in-windows-11/"><u>Achieve Ultimate PC Performance for Gamers in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-xiaomi-redmi-k70-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cut-the-frustration-fix-your-camera-zooms-2024-fix-guide/"><u>Cut the Frustration, Fix Your Camera! ZOOM's 2024 Fix Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-7-simple-steps/"><u>Download Lenovo X1 Carbon Drivers: Compatible with Windows 11 and 7 - Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-service-failed-to-start-during-login-on-windows-11-pcs/"><u>Easy Fixes for 'Service Failed to Start' During Login on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-user-profile-service-failure-when-logging-into-windows-11/"><u>Effective Solutions for the 'User Profile Service Failure' When Logging Into Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-scrolling-function-on-a-non-responsive-touchpad-for-windows-10-users/"><u>How to Restore Scrolling Function on a Non-Responsive Touchpad for Windows 10 Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-excessive-cpu-consumption-caused-by-wucltexe-on-windows-11-systems/"><u>Resolved: Excessive CPU Consumption Caused by wuclt.exe on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-the-truth-the-top-nine-myths-surrounding-artificial-intelligence-conversational-systems/"><u>Revealing the Truth: The Top Nine Myths Surrounding Artificial Intelligence Conversational Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-app-downloads-on-ios-devices-try-these-10-proven-fixes/"><u>Struggling with App Downloads on iOS Devices? Try These 10 Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-overcome-quick-install-issues-with-your-windows-device/"><u>Troubleshoot & Overcome Quick Install Issues with Your Windows Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-restoring-xinput13dll-in-hardware-interactions/"><u>Understanding and Restoring XINPUT1_3.dll in Hardware Interactions</u></a></li>
+</ul></div>
 

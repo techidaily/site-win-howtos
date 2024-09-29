@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Upgrading RAM Allocation for Smooth Playthroughs in Red Dead Redemption 2
-date: 2024-09-20T02:07:04.881Z
-updated: 2024-09-22T20:05:56.114Z
+date: 2024-09-26T16:48:27.756Z
+updated: 2024-09-28T22:58:58.849Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 If your issue persists after the reboot, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your video cable
 
  If your video cable has become loose, the image signal won’t be transmitted and it can cause the No video input message on your monitor. So, you want to make sure that your video cable is functioning correctly, then reconnect your monitor to your computer. Follow the instructions below:
@@ -56,6 +63,13 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Check to see if your **video cable** is damaged.
 
  If the video cable is fine, reconnect your computer to your monitor. Or, if you have **another video cable**  available, try connecting the two devices using the new cable.
@@ -64,24 +78,18 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  If you run into the No Video Input error again, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Plug the cable into the right video port
 
  If you’re using a desktop PC, check if your display cable is connected to your motherboard instead of your graphics card port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-29_14-18-28.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disconnect your peripherals
 
@@ -100,10 +108,10 @@ If your issue persists after the reboot, then go ahead with the next fix.
 If your monitor still won’t work, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset your BIOS settings
@@ -126,6 +134,13 @@ The CMOS battery looks like this
 
 If your problem still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall your RAM and graphics card
 
  In some cases, the No Video Input error might occur if your hardware isn’t properly installed. If you’re comfortable opening your computer case, try reinstalling your RAM and graphics card to see if that fixes your issue. Follow the instructions below:
@@ -143,13 +158,6 @@ If your problem still exists, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Put **your RAM** back into the slot.
 
@@ -172,13 +180,6 @@ RAM looks like this:
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the driver you need to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -210,5 +211,21 @@ RAM looks like this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-critical-review-of-best-screen-capture-tools-in-linux/"><u>[New] Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-basics-to-brilliance-the-fb-cover-video-journey/"><u>[New] In 2024, From Basics to Brilliance The FB Cover Video Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[New] Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>[New] Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/answered-troubleshooting-directx-device-instantiation-mishap/"><u>Answered: Troubleshooting DirectX Device Instantiation Mishap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-to-correct-file-path-not-found-in-windows/"><u>Comprehensive Walkthrough to Correct 'File Path Not Found' In Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/explore-the-new-features-of-movavi-screen-recorder/"><u>Explore the New Features of Movavi Screen Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-frozen-prepare-to-configure-phase-on-your-windows-device-now-resolved/"><u>Fixing the Frozen Prepare-to-Configure Phase on Your Windows Device - Now Resolved</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-6-pro-tactical-editionwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 6 Pro Tactical Editionwith/without a PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-enhancing-discord-status-with-bespoke-emojis-on-pc-and-mobile/"><u>In 2024, Enhancing Discord Status with Bespoke Emojis on PC & Mobile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-mouse-pointer-visibility-issues-on-windows-11-expert-fixes/"><u>Restoring Mouse Pointer Visibility Issues on Windows 11: Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-right-click-issues-on-a-mouse-with-windows-11/"><u>Troubleshooting Guide: Fixing Right-Click Issues on a Mouse with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-teredo-did-not-make-the-cut-a-comprehensive-breakdown/"><u>Why Teredo Did Not Make the Cut: A Comprehensive Breakdown</u></a></li>
+</ul></div>
 

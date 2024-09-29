@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Repairing the Issue of Application.exe Malfunction
-date: 2024-09-20T00:53:20.841Z
-updated: 2024-09-23T00:13:55.394Z
+date: 2024-09-21T16:46:53.759Z
+updated: 2024-09-28T17:09:53.825Z
 tags:
   - win11
   - win10
@@ -75,11 +75,32 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -103,6 +124,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -120,12 +148,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-ace-the-green-screen-scene-with-these-tips/"><u>[Updated] Ace the Green Screen Scene with These Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today/"><u>[Updated] The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlock-full-participant-grid-display-in-meet/"><u>2024 Approved Unlock Full Participant Grid Display in Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-for-wacom-tablet-connectivity-and-functionality-issues/"><u>Essential Solutions for Wacom Tablet Connectivity and Functionality Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/handsonguide-to-yourwebcamrecord-for-2024/"><u>HandsOnGuide to YourWebcamRecord for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-problem-with-my-diagnostic-tools-currently-inactive/"><u>How I Fixed the Problem with My Diagnostic Tools Currently Inactive</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-improve-network-stability-in-windows-11-systems/"><u>How to Improve Network Stability in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211734324-how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/"><u>In 2024, Harnessing the Power of Imagery for Engaging FB Slideshows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207956611-laptop-microphone-not-working-heres-how-to-fix-it-right-now/"><u>Laptop Microphone Not Working? Here's How to Fix It Right Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-insights-enhancing-digital-videos-and-photos-online-for-2024/"><u>Professional Insights Enhancing Digital Videos & Photos Online for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-casting-issues-in-windows-10/"><u>Troubleshooting and Fixing Casting Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-connection-issues-resolving-the-persistent-device-not-recognized/"><u>Troubleshooting USB Connection Issues: Resolving the Persistent 'Device Not Recognized'</u></a></li>
+</ul></div>
 

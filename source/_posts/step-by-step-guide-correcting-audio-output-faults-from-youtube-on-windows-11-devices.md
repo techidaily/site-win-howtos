@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting Audio Output Faults From Youtube on Windows 11 Devices"
-date: 2024-09-16T23:02:38.186Z
-updated: 2024-09-23T01:44:13.858Z
+date: 2024-09-23T00:54:23.050Z
+updated: 2024-09-28T18:59:43.992Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -82,10 +89,10 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
@@ -95,17 +102,32 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -136,5 +158,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-creating-perfect-instagram-grids-top-10-vendors-ranked/"><u>[New] 2024 Approved Creating Perfect Instagram Grids Top 10 Vendors Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-happiness-advanced-mounting-solutions/"><u>[New] Handheld Happiness Advanced Mounting Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionary-recording-aids-for-a-healthy-earth/"><u>[New] Revolutionary Recording Aids for a Healthy Earth</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-list-8-best-hidden-video-downloader-apps-2023-for-2024/"><u>[Updated] The Ultimate List 8 Best Hidden-Video Downloader Apps, 2023 for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-90-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor 90</u></a></li>
+<li><a href="https://article-posts.techidaily.com/craft-images-with-orbital-soft-edge-psx-tech/"><u>Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-v30-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme V30 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-missing-file-issue-easy-guide/"><u>How to Fix VCRUNTIME140.dll Missing File Issue - Easy Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204839201-how-to-overcome-the-cannot-install-updates-message-error-0x8007001f-explained/"><u>How To Overcome The 'Cannot Install Updates' Message - Error 0X8007001F Explained</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-navigate-through-prime-virtual-bike-selections/"><u>In 2024, Navigate Through Prime Virtual Bike Selections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-laptops-touchpad-in-windows-1087-a-step-by-step-troubleshooting-guide-to-success/"><u>Reviving Your Laptop's Touchpad in Windows 10/8/7: A Step-by-Step Troubleshooting Guide to Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-added-tap-response-to-htc-display/"><u>SOLVED: Added Tap Response to HTC Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-the-classic-shortcut-key-combo-work-troubleshooting-steps-inside/"><u>Why Isn't the Classic Shortcut Key Combo Work? Troubleshooting Steps Inside!</u></a></li>
+</ul></div>
 

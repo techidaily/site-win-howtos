@@ -1,7 +1,7 @@
 ---
 title: Solutions for Overcoming 'Aw, Snap!' Problems on Google Chrome
-date: 2024-09-21T18:02:25.369Z
-updated: 2024-09-22T16:58:53.778Z
+date: 2024-09-25T02:37:04.920Z
+updated: 2024-09-29T00:39:42.354Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
@@ -108,9 +115,23 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click your mic and select**Disable device** .
 
@@ -125,16 +146,10 @@ Now check to see your mic is back on track.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
@@ -146,10 +161,10 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
@@ -157,6 +172,13 @@ Now check to see your mic is back on track.
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
@@ -183,5 +205,20 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-maximize-productivity-on-mac-top-free-tts-app-picks-you-need/"><u>[New] Maximize Productivity on Mac TOP Free TTS App Picks You Need</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>[Updated] In 2024, Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-multiformat-manual-effortless-conversion-of-srt-files/"><u>2024 Approved Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-honor-90-lite-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Honor 90 Lite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-device-not-identified-on-your-intelligent-cultra-e-reader-device-icue/"><u>Effective Fixes for 'Device Not Identified' On Your Intelligent CUltra E-Reader Device (ICUE)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/htcs-masterpiece-in-vr-the-immersive-experience-for-2024/"><u>HTC's Masterpiece in VR The Immersive Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80072f8f-comprehensive-guide-for-windows-11-and-10-users/"><u>Resolving Error Code 0X80072F8F: Comprehensive Guide for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-neterrcertweaksignaturealgorithm-issues-a-comprehensive-guide/"><u>Resolving NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-bluetooth-absent-on-your-pcs-device-manager/"><u>Resolving the Issue: Bluetooth Absent on Your PC's Device Manager</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-fixing-non-functional-keyboard-during-system-startup/"><u>Solving the Issue: Fixing Non-Functional Keyboard During System Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-malfunctioning-keyboard-on-boot/"><u>Troubleshooting Steps: How to Repair Malfunctioning Keyboard on Boot</u></a></li>
+</ul></div>
 

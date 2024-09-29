@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Computer Power-Offs When Playing Games in Win11, Win10, Win7, Win8.1 & Win8
-date: 2024-09-17T23:34:23.713Z
-updated: 2024-09-22T20:39:47.698Z
+date: 2024-09-26T20:28:00.249Z
+updated: 2024-09-29T04:07:09.502Z
 tags:
   - win11
   - win10
@@ -41,6 +41,14 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba365dec828d.png)
 3. Click**Taskbar and Navigation** when**View by Large icons** selected. (If you’re using Windows 7, select T**askbar and Start Menu** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3661b238a4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Toggle off**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** . (If you’re using Windows 7 or 8.1, toggle off**Auto-hide the taskbar** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba36668f33fb.jpg)
 
  On your keyboard, press the Windows logo key and D together to display your desktop and check if you can see the taskbar.
@@ -60,6 +68,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
  Once it completes, close the Command Prompt window. On your keyboard, press the Windows logo key and D together to display your desktop and check if you can see the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Restart Windows Explorer in Task Manager
 
 **Windows Explorer** is responsible for controlling your desktop and taskbar. When your taskbar or taskbar icons is missing, you can restart Windows Explorer in Task Manager.
@@ -70,15 +85,28 @@ See how to do it:
 2. Under the**Processes** tab, right-click on**Windows Explorer** to select**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3688cd8033.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you’re using Windows 7, right-click explorer.exe to select End process, then click File > New task(Run…). Type explorer.exe and press Enter.
 
  On your keyboard, press the Windows logo key and D together to display your desktop and check if you can see the taskbar.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Update your available drivers
 
@@ -89,13 +117,6 @@ See how to do it:
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click Update. The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba369602e8a1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully this article helps. Feel free to comment below with your own experiences.
 
@@ -114,5 +135,21 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers/"><u>[New] In 2024, Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-iphone-lens-mastery-essential-photography-hacks-for-2024/"><u>[New] IPhone Lens Mastery Essential Photography Hacks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-in-depth-analysis-screenflow-performance-on-macbooks/"><u>2024 Approved In-Depth Analysis ScreenFlow Performance on MacBooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-users-how-to-free-up-space-by-cleaning-the-cache/"><u>Android Users: How to Free Up Space by Cleaning the Cache</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>Beatboxing Basics Add Audio to Windows 11 Projects with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-bluetooth-connectivity-on-your-windows/"><u>Enable Bluetooth Connectivity on Your Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-reinstate-webcam-usage-on-your-hp-device-with-windows-11/"><u>Expert Advice: Reinstate Webcam Usage on Your HP Device with Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fostering-long-lasting-communication-with-gpt/"><u>Fostering Long-Lasting Communication with GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-shockwave-flash-issues-are-fixed-on-google-chrome-for-a-smoother-experience/"><u>How Shockwave Flash Issues Are Fixed on Google Chrome for a Smoother Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-right-click-capabilities-on-your-windows-10-system/"><u>How to Restore Right-Click Capabilities on Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/qualification-issues-persist-for-teredo-projects/"><u>Qualification Issues Persist for Teredo Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reboot-and-reset-file-explorer-ui/"><u>Strategies to Reboot and Reset File Explorer UI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-non-functioning-print-screen-on-windows-operating-systems/"><u>The Ultimate Fix for a Non-Functioning Print Screen on Windows Operating Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-the-/"><u>Updated In 2024, Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+</ul></div>
 

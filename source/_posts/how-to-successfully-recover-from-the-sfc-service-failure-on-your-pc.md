@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Recover From the Sfc Service Failure on Your PC
-date: 2024-09-19T21:17:51.886Z
-updated: 2024-09-23T02:08:27.628Z
+date: 2024-09-24T01:24:51.452Z
+updated: 2024-09-28T17:41:09.744Z
 tags:
   - win11
   - win10
@@ -54,24 +54,49 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -81,16 +106,10 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
@@ -100,13 +119,6 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 Still no luck? Ok, there’s one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -140,5 +152,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-laughmaker-quick-meme-and-image-crafter/"><u>[Updated] 2024 Approved LaughMaker Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-art-of-video-transmission-from-fb-to-whatsapp/"><u>[Updated] 2024 Approved The Art of Video Transmission From FB to WhatsApp</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>[Updated] Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curbing-unnecessary-cpu-drain-from-microsofts-protection-engine-the-winning-tips-for-windows-11/"><u>Curbing Unnecessary CPU Drain From Microsoft's Protection Engine: The Winning Tips for Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-pcs-display-quality-with-a-graphics-card-update/"><u>Elevate Your PC's Display Quality with a Graphics Card Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-103003-in-tarkov-troubleshooting-guide-for-gamers/"><u>Error Code 103003 in Tarkov - Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-slow-or-non-existent-data-transmission-in-epson-devices/"><u>Fixing Slow or Non-Existent Data Transmission in Epson Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a59-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A59 5G?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-se-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone SE Activity | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/installation-error-windows-10-v1607-feature-upgrade-failure/"><u>Installation Error: Windows 10 v1607 Feature Upgrade Failure</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-photo-techniques-mastering-leading-lines-for-2024/"><u>IPhone Photo Techniques Mastering Leading Lines for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-media-playback-issues-in-windows-easy-fix-guide/"><u>Overcome 'Media Playback Issues' In Windows - Easy Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-windows-audio-device-graphs-overuse-of-processor-resources/"><u>Step-by-Step Guide: Fixing Windows Audio Device Graph's Overuse of Processor Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/supreme-choices-for-inexpensive-film-assets-for-2024/"><u>Supreme Choices for Inexpensive Film Assets for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-complete-guide-to-correcting-the-unspecified-error-0x80004005-in-exchange-mail-systems/"><u>The Complete Guide to Correcting the Unspecified Error (0X8^_^0004005) in Exchange Mail Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-device-security-with-windows-hello-solutions-for-devices-not-initially-supported-by-windows-11/"><u>Unlocking Device Security with Windows Hello: Solutions for Devices Not Initially Supported by Windows 11</u></a></li>
+</ul></div>
 

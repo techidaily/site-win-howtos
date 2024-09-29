@@ -1,7 +1,7 @@
 ---
 title: The File or Directory Is Corrupted and Unreadable [Fixed]
-date: 2024-09-16T16:15:59.633Z
-updated: 2024-09-23T01:36:27.873Z
+date: 2024-09-23T22:55:19.188Z
+updated: 2024-09-28T18:57:11.327Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Select**Privacy** and then**clear your recent history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5d86b7592.png)
@@ -79,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 **c)** Select**Everything** for Time range to clear and then click **Clear Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5e6e3334a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the browser data are cleared, you can try logging in the website and see if the error is gone.
 
@@ -91,6 +112,13 @@ Here are the examples of checking extensions in Chrome and Firefox.
 **a)**  For**Chrome** , type “_**chrome://extensions**_ ” in the address bar and press **Enter** . Then you can see all the extensions listed below, and you can try enabling or disabling any of them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f642024598.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)**  For **Firefox** ,type “ _**about:addons**_ ” in the address bar, press **Enter** , and then select**Extensions** . You will see all the extensions for Firefox is listed here.
 
@@ -106,31 +134,37 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** In Control Panel, select**Date and Time** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f82d4f3a5d.png)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Select**Internet Time** tab, and then click on**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The date and time on your system is now updated.
 
@@ -154,5 +188,26 @@ The date and time on your system is now updated.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-the-power-of-stories-free-online-and-mobile-solutions-for-2024/"><u>[New] Unleash the Power of Stories – Free, Online & Mobile Solutions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-chromecast-not-connecting-easily/"><u>[Solved] Chromecast Not Connecting. Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-youtube-to-facebook-sharing-pathways/"><u>[Updated] In 2024, Navigating YouTube to Facebook Sharing Pathways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ban-unwanted-youtube-recommended-titles/"><u>2024 Approved Ban Unwanted YouTube Recommended Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mememorph-machine-20/"><u>2024 Approved MemeMorph Machine 2.0</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-ps4-network-issues-ultimate-step-by-step-resolution/"><u>Bypassing PS4 Network Issues: Ultimate Step-by-Step Resolution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/corrective-phoenix-software-saves-pdfs/"><u>Corrective Phoenix Software Saves PDFs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-huawei-nova-y91-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Huawei Nova Y91 Face Lock?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-connected-yet-disconnected-bluetooth-issues-on-your-windows-10-pc/"><u>How to Fix 'Connected' Yet Disconnected Bluetooth Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-compatibility-avoidance-of-windows-10-pairing-failures/"><u>Mastering Bluetooth Compatibility: Avoidance of Windows 10 Pairing Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-windows-connectivity-issue-fixing-error-code-0x800704cf/"><u>Resolve the Windows Connectivity Issue: Fixing Error Code 0X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-old-school-gaming-adventures-integrate-trophies-through-retroarch/"><u>Revitalize Your Old-School Gaming Adventures - Integrate Trophies Through Retroarch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlining-your-setup-ensuring-microsoft-wireless-display-adapter-works-perfectly-with-windows-11/"><u>Streamlining Your Setup: Ensuring Microsoft Wireless Display Adapter Works Perfectly with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-strategy-to-stop-usb-disconnect-annoyances-once-and-for-all/"><u>The Definitive Strategy to Stop USB Disconnect Annoyances Once and For All</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-server-connection-failures-for-gamers/"><u>Troubleshooting Destiny 2 Server Connection Failures for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-energy-spike-issues-in-network-switches/"><u>Troubleshooting Guide: Resolving Energy Spike Issues in Network Switches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-when-your-kotion-g2000-microphone-fails/"><u>Troubleshooting Steps for When Your Kotion G2000 Microphone Fails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-distinction-a-comprehensive-guide-to-mp3-versus-mp4-formats/"><u>Understanding the Distinction: A Comprehensive Guide to MP3 versus MP4 Formats</u></a></li>
+</ul></div>
 

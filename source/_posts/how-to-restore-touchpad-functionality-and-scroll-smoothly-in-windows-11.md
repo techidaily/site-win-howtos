@@ -1,7 +1,7 @@
 ---
 title: How to Restore Touchpad Functionality and Scroll Smoothly in Windows 11
-date: 2024-09-20T18:51:18.914Z
-updated: 2024-09-22T21:38:09.762Z
+date: 2024-09-25T20:50:33.400Z
+updated: 2024-09-28T17:54:49.652Z
 tags:
   - win11
   - win10
@@ -60,11 +60,25 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
@@ -81,6 +95,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
@@ -116,6 +137,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
@@ -133,16 +161,10 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
@@ -151,16 +173,16 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -183,5 +205,19 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-livetv-prowess-elevating-facebook-live-broadcasts-for-2024/"><u>[Updated] LiveTV Prowess Elevating Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamlined-language-translation-best-online-subtitle-manipulators-for-2024/"><u>[Updated] Streamlined Language Translation – Best Online Subtitle Manipulators for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-essential-mac-tech-tips-5-snapshot-strategies/"><u>2024 Approved Essential Mac Tech Tips 5 Snapshot Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204746170-bluetooth-troubles-in-windows-11-quick-tips-to-get-it-working-again/"><u>Bluetooth Troubles in Windows 11? Quick Tips to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-revive-your-laptops-touchpad-in-windows-10-8-and-7-no-more-frustration/"><u>Effective Solutions to Revive Your Laptop's Touchpad in Windows 10, 8 and 7 – No More Frustration!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-tech-modular-board-review-mod007b/"><u>Exploring Gaming Tech: Modular Board Review - MOD007B</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-windows-error-0x8024401c-on-windows-11-systems/"><u>Guide to Overcome Window's Error 0X8024401C on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-youtube-profitability-anywhere-anytime/"><u>In 2024, Elevate Your Youtube Profitability Anywhere, Anytime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>In 2024, LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://facebook.techidaily.com/reactivating-your-account-without-mobile-after-facebook-theft/"><u>Reactivating Your Account Without Mobile After Facebook Theft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-corrupted-or-faulty-installer-package-on-windows/"><u>Step-by-Step Solution for Corrupted or Faulty Installer Package on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-compatibility-how-to-resolve-unregistered-classes-error/"><u>Windows 11 Compatibility: How to Resolve Unregistered Classes Error</u></a></li>
+</ul></div>
 

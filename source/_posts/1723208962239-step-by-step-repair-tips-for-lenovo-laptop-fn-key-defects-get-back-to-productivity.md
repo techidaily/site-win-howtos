@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for Lenovo Laptop FN Key Defects - Get Back to Productivity!
-date: 2024-09-17T00:44:36.268Z
-updated: 2024-09-22T19:49:38.798Z
+date: 2024-09-24T07:51:06.941Z
+updated: 2024-09-28T20:22:35.820Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -80,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 ` ``
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
 
@@ -111,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -124,22 +145,29 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -148,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -209,5 +230,23 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimize-your-macs-screen-record-functionality-with-keystrokes-for-2024/"><u>[New] Optimize Your Mac's Screen Record Functionality with Keystrokes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-panopticam-review-breakdown-for-2024/"><u>[New] PanoptiCam Review Breakdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>2024 Approved The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-repairing-game-set-up-mistakes-in-origin-titles-a-guide/"><u>Addressing and Repairing Game Set-Up Mistakes in Origin Titles - A Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202724713-dell-laptop-keyboard-issues-here-are-effective-fixes/"><u>Dell Laptop Keyboard Issues? Here Are Effective Fixes</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/efficient-conversion-techniques-turning-wmv-files-into-high-quality-wav/"><u>Efficient Conversion Techniques: Turning WMV Files Into High-Quality WAV</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/expert-tips-on-creating-seamless-sound-diminution/"><u>Expert Tips on Creating Seamless Sound Diminution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-playable-sources-detected-error-when-launching-apps-in-windows/"><u>How to Fix 'No Playable Sources Detected' Error When Launching Apps in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-live-stream-to-facebook-from-dji-drone-in-2024/"><u>How to Live Stream to Facebook From DJI Drone, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>In 2024, Advanced Setup Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-pause-on-progress-clearing-up-windows-update-error-code-0x80070002/"><u>No More Pause on Progress: Clearing Up Windows Update Error Code 0X80070002</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-gameplay-cured-dxgidll-in-pubg/"><u>Reviving Gameplay: Cured Dxgi.dll in PUBG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-eradicating-fatal-glitches-from-call-of-duty-black-ops-4/"><u>Step-by-Step Troubleshooting: Eradicating Fatal Glitches From Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-utilizing-googles-magic-eraser-feature-across-mobile-devices-androidiphone/"><u>Step-by-Step Tutorial: Utilizing Google's Magic Eraser Feature Across Mobile Devices (Android/iPhone)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transitioning-photos-from-physical-to-digital-storage-for-2024/"><u>Transitioning Photos From Physical to Digital Storage for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsupported-monitor-incompatibility-with-latest-video-signal-standard/"><u>Unsupported Monitor: Incompatibility with Latest Video Signal Standard</u></a></li>
+</ul></div>
 

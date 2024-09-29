@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Audio Problems in Windows 10 for Better Volume Control"
-date: 2024-09-19T17:08:11.832Z
-updated: 2024-09-23T02:09:24.077Z
+date: 2024-09-25T07:09:17.307Z
+updated: 2024-09-28T18:53:53.044Z
 tags:
   - win11
   - win10
@@ -50,6 +50,14 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
@@ -64,11 +72,27 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -83,31 +107,26 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
@@ -123,10 +142,10 @@ Here’s how:
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -151,5 +170,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-free-final-cut-pro-mastery-secrets-revealed/"><u>[New] Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-accelerate-engagement-the-best-12-ways-to-increase-video-popularity/"><u>[Updated] 2024 Approved Accelerate Engagement - The Best 12 Ways to Increase Video Popularity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-android-experience-with-3d-videos/"><u>2024 Approved Premium Android Experience with 3D Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-blackness-solutions-for-a-netflix-visual-glitch/"><u>Banishing Blackness: Solutions for a Netflix Visual Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-facing-microsoft-exchange-unreachable-in-outlook/"><u>Effective Solutions When Facing 'Microsoft Exchange Unreachable' In Outlook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-call-of-duty-wwii-error-code-4220-troubleshooting-guide/"><u>How to Resolve Call of Duty: WWII Error Code 4220 - Troubleshooting Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y100i-power-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y100i Power 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kodaks-zoom-lens-for-affordable-quality-photos/"><u>Kodak's Zoom Lens for Affordable, Quality Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-sudden-shutdown-understanding-error-code-1067-in-windows/"><u>Resolved: Fixing the Sudden Shutdown - Understanding Error Code 1067 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-inside-how-to-repair-your-unresponsive-dell-wireless-keyboard/"><u>Solutions Inside: How to Repair Your Unresponsive Dell Wireless Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-unresponsive-ps4-mic-a-gamers-guide/"><u>Step-by-Step Fix for Unresponsive PS4 Mic: A Gamer's Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/swift-solution-tweeting-videos-not-functioning-chrome-for-2024/"><u>Swift Solution Tweeting Videos Not Functioning Chrome for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-cutting-edge-technology-showcase-by-toms-digital-realm/"><u>The Cutting-Edge Technology Showcase by Tom's Digital Realm</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tudio-sessions-best-practices-15-youtube-production-guides-for-musicians-for-2024/"><u>The Studio Sessions Best Practices - 15 YouTube Production Guides for Musicians for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-mp4-converters-top-picks-and-reviews/"><u>Ultimate Guide to MP4 Converters: Top Picks & Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
+</ul></div>
 

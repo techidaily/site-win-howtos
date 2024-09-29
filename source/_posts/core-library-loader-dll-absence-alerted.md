@@ -1,7 +1,7 @@
 ---
 title: Core Library Loader DLL Absence Alerted
-date: 2024-09-21T18:57:49.757Z
-updated: 2024-09-23T02:19:43.273Z
+date: 2024-09-22T01:11:44.421Z
+updated: 2024-09-28T21:45:56.001Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust the display resolution and refresh rate
 
  If screen tearing keeps occurring, it’s possible that your display resolution is configured to a higher point than what your monitor can handle. Adjusting it might help you fix the issue.
@@ -57,20 +64,35 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 1. On your keyboard, press**Win** +**S** (the Windows logo key and the S key) and type**resolution** . Then click**Change the resolution of the display** in the search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/list-all-modes.jpg)
 
  Restart your PC after each time you change the settings and see if screen tearing still appears.
@@ -86,6 +108,14 @@ If the problem persists, move on to the next fix.
 2. On the**Game Mode** tab, move the slider to turn off**Game Mode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
 
  **If the problem persists, you can also disable fullscreen optimizations:**
@@ -124,13 +154,6 @@ If nothing changes, you might need to check your graphic drivers.
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro** **version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  If you don’t want to pay for it, you can also download all the drivers with the[**free version**](https://tools.techidaily.com/drivereasy/download/) . You just have to download one at a time, and install them manually.
@@ -138,13 +161,6 @@ If nothing changes, you might need to check your graphic drivers.
  After updating your drivers, restart your PC and check if the problem is solved.
 
 If it doesn’t do the trick, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Turn on VSync**
 
@@ -157,6 +173,13 @@ If it doesn’t do the trick, simply move on to the next fix.
 2. In the left pane, select**Manage 3D Settings** and choose the**Global Settings** tab. Then scroll down to find**Vertical sync** and click the small arrow on its right. Select**On** in the drop-down list and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
 
  **For AMD users, the feature is called Wait for Vertical Refresh:**
@@ -166,6 +189,14 @@ If it doesn’t do the trick, simply move on to the next fix.
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
@@ -177,6 +208,19 @@ If it doesn’t do the trick, simply move on to the next fix.
 
  To turn off Limit FPS Always in Valorant, go to**Settings** \>**VIDEO** \>**GENERAL** , then set it to**Off** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-limit-fps-always.png)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 No luck with that? Keep reading.
 
@@ -201,23 +245,9 @@ If it doesn’t help, move on to the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/desktop-right-click-display.jpg)
 2. In the left column, click**Display** . Then scroll down to select**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Now you can set the maximum frame rate.**
 
@@ -228,6 +258,13 @@ For NVIDIA users:
 2. In the left pane, select**Manage 3D Settings** and navigate to the**Global Settings** tab. Then scroll down to find**Max Frame Rate** and click the small arrow on its right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings-max-frame-rate.png)
 3. Select**On** and move the slider to your monitor’s refresh rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For AMD users:
 
@@ -253,5 +290,18 @@ For AMD users:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-iphone-silhouette-captures-101/"><u>[New] Perfect iPhone Silhouette Captures 101</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-the-art-of-deleting-discord-servers/"><u>[Updated] In 2024, Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/acclaimed-constructors-top-notch-instagram-hlv-artisans/"><u>Acclaimed Constructors Top-Notch Instagram HLV Artisans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correctly-identify-and-fix-an-unknown-usb-connection-error-descriptors/"><u>Expert Tips to Correctly Identify and Fix an Unknown USB Connection Error [Descriptors]</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-htc-u23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset HTC U23 phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-8-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 8? How to Fix it?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-unresponsive-google-chrome-issue-immediate-reload-recommended/"><u>Resolve Unresponsive Google Chrome Issue: Immediate Reload Recommended</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Resolved: Fixing the Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wwe-2k-battlegrounds-directx-11-fixing-feature-level-100-issues/"><u>Resolving WWE 2K Battlegrounds DirectX 11 - Fixing Feature Level 10.0 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-dxgi-errors-without-hassle-learn-here/"><u>Step-by-Step Guide to Fixing DXGI Errors Without Hassle - Learn Here</u></a></li>
+</ul></div>
 

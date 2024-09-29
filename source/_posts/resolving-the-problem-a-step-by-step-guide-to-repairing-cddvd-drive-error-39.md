@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Problem: A Step-by-Step Guide to Repairing CD/DVD Drive Error 39"
-date: 2024-09-21T20:37:16.357Z
-updated: 2024-09-22T18:11:48.153Z
+date: 2024-09-24T21:58:43.701Z
+updated: 2024-09-28T21:57:53.812Z
 tags:
   - win11
   - win10
@@ -68,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 4) Try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try another USB port
@@ -89,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 4) Try to install Windows again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
@@ -120,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  4) Save the settings and try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change the ISO file format
@@ -154,6 +160,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
  Here are the solutions to fix**A media driver your computer needs is missing** . If you have any questions, please feel free to comment below, and we’ll see what more we can do to help.
@@ -174,5 +187,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-fast-approach-downloading-tweets-video-content-for-mobile-use/"><u>[New] Fast Approach Downloading Tweets’ Video Content for Mobile Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-favorites-top-8-androidiphone-apps-for-social-popularity/"><u>[Updated] 2024 Approved Facebook Favorites Top 8 Android/iPhone Apps for Social Popularity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-webclipper-facebook-videos-for-2024/"><u>[Updated] WebClipper - Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-nerves-in-10-must-do-vlogs/"><u>2024 Approved Navigating Nerves in 10 Must-Do Vlogs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unraveling-video-platform-distinctions-a-youtube-vs-dailymention-analysis/"><u>2024 Approved Unraveling Video Platform Distinctions A YouTube Vs. DailyMention Analysis</u></a></li>
+<li><a href="https://techidaily.com/abbyy-welcomes-paul-nizov-to-head-its-digital-defense-as-chief-information-security-officer/"><u>ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-bunk-in-the-long-run-despite-recent-gains2/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Bunk in the Long Run, Despite Recent Gains.[^2]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-print-fixes-for-common-windows-11-printer-hiccups/"><u>Easy Print Fixes for Common Windows 11 Printer Hiccups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-smooth-controls-xbox-one-on-pc/"><u>Experience Smooth Controls: Xbox One on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-diagnostics-policy-service-not-running-problems/"><u>Guide to Fixing 'Diagnostics Policy Service Not Running' Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-a-fatal-instruction-push-error-fix-0xc0000005-on-windows-systems/"><u>How to Overcome a Fatal Instruction Push Error - Fix 0xC0000005 on Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-external-light-for-cozy-interior-spaces/"><u>In 2024, Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-trouble-fixes-for-input-device-problems-at-startup/"><u>Keyboard Trouble? Fixes for Input Device Problems at Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-battery-charging-functionality-on-your-laptop/"><u>Quick Fixes to Restore Battery Charging Functionality on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210018626-troubleshooting-apex-legends-simple-fixes-for-the-anti-cheat-error-solved/"><u>Troubleshooting Apex Legends: Simple Fixes for the Anti-Cheat Error - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nier-automata-pc-issues-for-smooth-gaming-experience/"><u>Troubleshooting Nier: Automata PC Issues for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-windows-11-on-startup-efficient-troubleshooting-tips/"><u>Unstick Your Windows 11 on Startup: Efficient Troubleshooting Tips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/windows-11-desktop/"><u>Windows 11 Desktop 録画テクニック集:最新４選のガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hardware Checklist: Confirming D3D11 Supported GPU Presence to Run Your Favorite Software Efficiently"
-date: 2024-09-22T01:06:20.381Z
-updated: 2024-09-22T17:20:31.937Z
+date: 2024-09-27T03:46:53.374Z
+updated: 2024-09-28T17:19:52.772Z
 tags:
   - win11
   - win10
@@ -47,11 +47,25 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
 
@@ -75,26 +89,26 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -116,5 +130,24 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-skyrim-wont-launch-2024-tips/"><u>[FIXED] Skyrim Won’t Launch | 2024 Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-music-copyright-rules-in-the-world-of-instagram-for-2024/"><u>[New] Decoding Music Copyright Rules in the World of Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-creating-professional-level-xbox-screen-recordings/"><u>[Updated] 2024 Approved Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-tips-for-ipad-users-easily-convert-photos-to-pdf/"><u>[Updated] 2024 Approved Expert Tips for iPad Users Easily Convert Photos to PDF</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-premieres-role-in-your-youtube-creation-process-for-2024/"><u>[Updated] Premiere's Role in Your YouTube Creation Process for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-dialogues-that-drive-diversity-discussing-with-a-multicultural-audience/"><u>2024 Approved Dialogues That Drive Diversity Discussing with a Multicultural Audience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-solution-faster-downloads-for-league-of-legends/"><u>Fast-Track Solution: Faster Downloads for League of Legends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sudden-shuts-while-gaming-solutions-for-various-windows-editions/"><u>Fixing Sudden Shuts While Gaming - Solutions for Various Windows Editions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-make-your-wi-fi-visible-again-in-windows-11/"><u>How to Make Your Wi-Fi Visible Again in Windows 11?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unstoppable-blinking-of-your-computers-pointer/"><u>How to Resolve Unstoppable Blinking of Your Computer's Pointer?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-sony-xperia-10-v-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Sony Xperia 10 V.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nokia-c12-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nokia C12 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-common-causes-and-fixes-for-nonfunctional-steelseries-arctis-5-microphone/"><u>Resolved: Common Causes and Fixes for Nonfunctional SteelSeries Arctis 5 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-audio-coming-from-external-speakers-instead-of-plugged-in-earphones/"><u>Resolving the Issue: Audio Coming From External Speakers Instead of Plugged-In Earphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-windows-11-restart-problem/"><u>Simple Fixes for the Persistent Windows 11 Restart Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-code-0x80004005-expert-strategies-for-resolving-unspecified-system-errors/"><u>Tackling Code 0X80004005: Expert Strategies for Resolving Unspecified System Errors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Google Pixel 7a | Dr.fone</u></a></li>
+</ul></div>
 

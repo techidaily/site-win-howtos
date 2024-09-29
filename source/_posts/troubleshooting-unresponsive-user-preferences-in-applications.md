@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive User Preferences in Applications
-date: 2024-09-17T01:21:48.152Z
-updated: 2024-09-22T16:07:01.724Z
+date: 2024-09-22T04:15:19.952Z
+updated: 2024-09-28T17:11:35.039Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +53,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -66,13 +80,36 @@ Here’s how to do it:
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -84,24 +121,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -137,5 +160,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-webcams-for-peak-twitch-performance/"><u>[New] 2024 Approved Essential Webcams for Peak Twitch Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-universal-youtube-guidelines-and-expectations/"><u>[New] 2024 Approved Universal YouTube Guidelines and Expectations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming/"><u>[Updated] 2024 Approved Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-incorporating-songs-into-social-media-video-content/"><u>[Updated] 2024 Approved Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-your-custom-tiktok-identifier-key-for-2024/"><u>[Updated] Unlocking Your Custom TikTok Identifier Key for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-of-sea-techs-external-usb-blu-ray-writer-a-user-experience-with-mixed-results/"><u>Detailed Assessment of Sea Tech's External USB Blu-Ray Writer - A User Experience with Mixed Results</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/editorelite-roundup-full-overview-of-androvid-for-2024/"><u>EditorElite Roundup – Full Overview of AndroVid for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-glitched-start-menu-in-windows-11-a-comprehensive-guide/"><u>Fixing the Glitched Start Menu in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hand-tracking-deciphered-a-users-guide-for-2024/"><u>Hand Tracking Deciphered A User's Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-type-without-typing-wrong-characters-solutions-explored/"><u>How to Correctly Type Without Typing Wrong Characters: Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-windows-device-manager-error-code-28-explained/"><u>Step-by-Step Guide to Resolve Windows Device Manager Error: Code 28 Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-address-invalid-entry-names-in-directories/"><u>Steps to Correctly Address Invalid Entry Names in Directories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-eliminating-flicker-problems-in-windows-11-system/"><u>Troubleshooting and Eliminating Flicker Problems in Windows 11 System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-transferring-and-editing-your-videos-on-an-ipod-using-the-winx-video-converter-for-mac/"><u>Ultimate Guide: Transferring and Editing Your Videos on an iPod Using the WinX Video Converter for Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-pc-stops-working-unexpectedly-and-how-to-fix-it/"><u>Why Your PC Stops Working Unexpectedly & How To Fix It</u></a></li>
+</ul></div>
 

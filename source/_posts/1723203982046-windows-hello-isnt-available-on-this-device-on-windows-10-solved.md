@@ -1,7 +1,7 @@
 ---
 title: Windows Hello Isn't Available on This Device on Windows 10 [Solved]
-date: 2024-09-16T22:57:02.858Z
-updated: 2024-09-22T17:15:13.025Z
+date: 2024-09-24T04:59:13.883Z
+updated: 2024-09-29T07:45:46.539Z
 tags:
   - win11
   - win10
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 6. **[Disable ESS (Enhanced Sign-in Security)](#ess)**
 7. **[Try the Get Help app](#fix-6)**
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Ensure the feature is installed
 
  Windows Hello Face is an optional feature available in Windows 10 and 11\. To utilize it properly, You need to ensure first that it has been active and installed under the optional features. Here’s how it’s done:
@@ -44,13 +57,36 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 1. Press**Windows + I** keys to open the settings and then select**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Click**Optional features** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/optional-features.jpg)
 3. Check if Windows Hello Face is in the list under**Installed features** . If it isn’t, click**Add a feature** .  
  (If it’s already installed, then you don’t do anything)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/add-a-feature.jpg)
 4. Scroll down the list and find Windows Hello Face. Tick the box near it and then click**Install** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/install-hello-faca-app.jpg)
 5. Reboot your computer and check to see if Windows Hello Face can work successfully now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this method doesn’t work, go on and try the next fix below.
 
@@ -79,6 +115,19 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 [**The Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support** **team** at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) **.**
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3 – Install the FaceDriver file
 
  This is also a solution that has worked for some people who have received the same Windows Hello Face error message. To try this solution:
@@ -90,14 +139,14 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/face-dirver2.jpg)
 3. After the file is successfully installed, restart your device and check if you can use the Windows Hello Face now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this trick doesn’t give you luck, try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 – Restart Windows Biometric Service
 
@@ -110,6 +159,14 @@ If this trick doesn’t give you luck, try the next one.
 3. Right-click on the Press**Windows + I** keys to open the settings and then select**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/setting-accounts-1.jpg)
 4. Click the**Sign-in options** in the left panel, select**Windows Hello Face** and then register the Hello Face data again.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/signin-option-hello-face.jpg)
 5. Restart your PC and check if you can use the Windows Hello Face now.
 
@@ -127,21 +184,7 @@ Move on to the next fix if this one doesn’t work for you.
 3. After the scan is completed, click **Start Repair** if Fortect detects any missing or broken system files or other issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact **[Fortect support](https://www.fortect.com/company/contacts/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Disable ESS (Enhanced Sign-in Security)
 
@@ -150,13 +193,6 @@ Move on to the next fix if this one doesn’t work for you.
 1. On your keyboard, press the**Windows** key and the**I** key at the same time. Select**Accounts > Sign-in options** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-54.png)
 2. Toggle off the option for**Sign in with an external camera or fingerprint reader** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-55.png)
 
@@ -170,20 +206,14 @@ Restart your computer and see if the Windows Hello error message is gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/get-help-1.jpg)
 2. Enter the problem you need to solve, then you’ll have a chat with a virtual agent who will run a troubleshooter to help you fix the Hello Face problems  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/get-help-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,5 +235,21 @@ Restart your computer and see if the Windows Hello error message is gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-instagram-captioning-hack-for-reels-and-stories/"><u>[New] 2024 Approved The Ultimate Instagram Captioning Hack for Reels and Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-disrupted-cut-copy-and-paste-in-windows-10/"><u>Correcting Disrupted Cut, Copy, and Paste in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-techniques-for-windows-10-repair-with-sfc-and-dism-utilities/"><u>Essential Techniques for Windows 10 Repair with SFC & DISM Utilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-motorola-edgeplus-a-shortfall-in-high-end-competition/"><u>Evaluating Motorola Edge+ - A Shortfall in High-End Competition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fixing-the-issue-how-to-successfully-rip-a-dvd-using-handbrake/"><u>Fixing the Issue: How to Successfully Rip a DVD Using HandBrake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-of-absent-or-outdated-widevine-cdm-in-windows/"><u>How to Fix the Error of Absent or Outdated Widevine CDM in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-galaxy-s24plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy S24+?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-obs-recording-black-screen-error-and-solutions/"><u>How To Resolve OBS Recording: Black Screen Error & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-the-wwe-2k-100-feature-error-on-battlegrounds-expert-tips-for-dx11/"><u>How to Troubleshoot and Repair the WWE 2K 10.0 Feature Error on Battlegrounds - Expert Tips for DX11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Bootloader Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/multiply-the-average-length-of-a-vehicle-by-the-total-number-of-vehicles-to-get-the-total-distance-traveled-in-kilometers/"><u>Multiply the Average Length of a Vehicle by the Total Number of Vehicles to Get the Total Distance Traveled in Kilometers.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/owc-mercury-pro-evaluation-premier-performance-in-solid-state-drives/"><u>OWC Mercury Pro Evaluation: Premier Performance in Solid-State Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-firefoxs-secure-connections-troubleshooting-tips/"><u>Resolving Firefox's Secure Connections: Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
+</ul></div>
 

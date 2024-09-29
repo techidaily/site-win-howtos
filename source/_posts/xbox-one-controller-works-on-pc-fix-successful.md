@@ -1,7 +1,7 @@
 ---
 title: Xbox One Controller Works on PC - Fix Successful
-date: 2024-09-20T22:24:51.320Z
-updated: 2024-09-22T23:22:52.537Z
+date: 2024-09-23T17:17:42.078Z
+updated: 2024-09-29T05:35:15.664Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -60,6 +67,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)** Press and hold the Xbox button on the controller to sync them.
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Power cycle your console
 
@@ -85,13 +99,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
@@ -99,6 +106,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Select**Update** .
 
@@ -109,10 +123,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
@@ -134,5 +148,20 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-editors-handbook-utilizing-strikethrough-and-callout-tools-for-2024/"><u>[New] The Editor's Handbook Utilizing Strikethrough and Callout Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-mobile-tech-how-to-record-your-snapchat-content-for-2024/"><u>[Updated] Unlocking Mobile Tech How to Record Your Snapchat Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-symphony-of-well-being-learn-from-asmr/"><u>2024 Approved The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-fixing-webcam-issues-in-windows-operating-system/"><u>Expert Advice for Fixing Webcam Issues in Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208596402-how-to-fix-surface-tablet-wont-charge-solved/"><u>How to Fix: Surface Tablet Won't Charge – Solved</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-engagement-for-higher-facebook-profile-visibility/"><u>Leveraging Engagement for Higher Facebook Profile Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lightning-mode-what-is-it-and-how-can-you-utilize-its-features/"><u>Lightning Mode: What Is It and How Can You Utilize Its Features?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-11-initialization-error-successful-fixes-and-tips/"><u>Resolve Windows 11 Initialization Error: Successful Fixes & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-of-missing-desktop-icons-in-windows-11-a-step-by-step-guide/"><u>Resolving the Mystery of Missing Desktop Icons in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-whatsapp-audio-chat/"><u>The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-cant-detect-updates-on-windows-issue/"><u>Troubleshooting Guide: Fixing 'Can't Detect Updates on Windows' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-miracast-issues-with-non-compatible-graphics-drivers/"><u>Troubleshooting Miracast Issues with Non-Compatible Graphics Drivers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-novices-blueprint-for-efficient-audio-track-mixing-in-adobe-premiere-pro/"><u>Updated 2024 Approved The Novices Blueprint for Efficient Audio Track Mixing in Adobe Premiere Pro</u></a></li>
+</ul></div>
 

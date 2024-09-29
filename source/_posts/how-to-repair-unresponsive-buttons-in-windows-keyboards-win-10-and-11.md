@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Buttons in Windows Keyboards (Win 10 & 11)
-date: 2024-09-15T19:21:00.850Z
-updated: 2024-09-23T01:49:39.655Z
+date: 2024-09-21T19:13:48.339Z
+updated: 2024-09-29T03:53:20.072Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -75,10 +82,10 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -114,15 +121,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -134,25 +141,20 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -179,5 +181,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-identifying-common-fb-video-shapes/"><u>[Updated] 2024 Approved Identifying Common FB Video Shapes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-maximize-visual-potential-the-finest-overlays-on-androidiphone/"><u>[Updated] In 2024, Maximize Visual Potential – The Finest Overlays on Android/iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-potential-glitches-a-guide-to-when-netflix-is-down-or-malfunctioning/"><u>Addressing Potential Glitches: A Guide to When Netflix Is Down or Malfunctioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-system-gap-msvcr71-acquired/"><u>Addressing System Gap: MSVCR71 Acquired</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-when-your-windows-update-gets-stuck-at-zero/"><u>Effective Remedies for When Your Windows Update Gets Stuck at Zero</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-viral-video-success-on-tiktok-10-key-techniques/"><u>Mastering the Art of Viral Video Success on TikTok - 10 Key Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-functioning-issue-resolved/"><u>Mic Functioning: Issue Resolved</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-looking-beyond-premiere-elements-top-10-video-editing-software-for-2024/"><u>New Looking Beyond Premiere Elements Top 10 Video Editing Software for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/redefining-productivity-on-the-move-in-depth-review-of-the-2021-ipad-pro-m1-and-its-exceptional-performance-for-mobile-users/"><u>Redefining Productivity on the Move: In-Depth Review of the 2021 iPad Pro (M1) and Its Exceptional Performance for Mobile Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-effective-measures-for-unsuccessful-torrent-downloads/"><u>Solving the Problem: Effective Measures for Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unleashing-the-full-capabilities-of-macoss-screen-recording-feature-for-2024/"><u>Unleashing the Full Capabilities of macOS's Screen Recording Feature for 2024</u></a></li>
+</ul></div>
 

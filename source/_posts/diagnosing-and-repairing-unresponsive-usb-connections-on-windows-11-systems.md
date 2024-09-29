@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Unresponsive USB Connections on Windows 11 Systems
-date: 2024-09-21T20:36:38.878Z
-updated: 2024-09-22T21:29:22.594Z
+date: 2024-09-25T18:20:12.432Z
+updated: 2024-09-29T00:52:28.373Z
 tags:
   - win11
   - win10
@@ -52,16 +52,37 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -73,10 +94,10 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -100,20 +121,20 @@ If your desktop icons still don’t show up, you can perform a system restore to
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -170,5 +191,22 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktoks-money-making-path-in-8-key-steps/"><u>[New] Navigating TikTok's Money-Making Path in 8 Key Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhance-customer-engagement-with-strategic-language/"><u>[Updated] 2024 Approved Enhance Customer Engagement with Strategic Language</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>[Updated] Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-iphone-photography-mastering-image-cropping/"><u>2024 Approved The Art of iPhone Photography Mastering Image Cropping</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-the-art-of-pairing-your-devices-with-windows-nk/"><u>Bluetooth Woes? Master the Art of Pairing Your Devices with Windows Nk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-recovery-with-system-file-checker-sfc-and-deployment-image-servicing-dism-tools/"><u>Mastering Windows 10 Recovery with System File Checker (SFC) and Deployment Image Servicing (DISM) Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-restart-loop-on-windows-11-or-10-a-step-by-step-guide/"><u>Overcome the Endless Restart Loop on Windows 11 or 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-and-repairing-crackling-audio-on-your-pcs-built-in-speakers-windows-107/"><u>Resolved: Troubleshooting and Repairing Crackling Audio on Your PC's Built-In Speakers (Windows 10/7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-serenity-eradicate-flickering-mishaps/"><u>Screen Serenity: Eradicate Flickering Mishaps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-windows-cannot-find-entry-point-errors/"><u>The Ultimate Solution for 'Windows Cannot Find Entry Point' Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android/"><u>Top-Rated Mobile Video Editors for iOS & Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-cheat-protection-glitches-in-apex-legends/"><u>Troubleshooting and Fixing Cheat Protection Glitches in Apex Legends</u></a></li>
+</ul></div>
 

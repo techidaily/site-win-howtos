@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Bluetooth Connectivity on a Windows 11 Computer
-date: 2024-09-19T19:32:16.638Z
-updated: 2024-09-23T00:57:11.295Z
+date: 2024-09-22T16:10:41.162Z
+updated: 2024-09-28T21:11:25.422Z
 tags:
   - win11
   - win10
@@ -34,15 +34,36 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -64,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
@@ -80,27 +108,27 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -111,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -173,5 +194,26 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-landscape-of-ps3-capture-software/"><u>[New] 2024 Approved Navigating the Landscape of PS3 Capture Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-alternative-recreation-in-the-firstrow-rankings/"><u>[New] Alternative Recreation in the Firstrow Rankings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-transformative-talk-20-phrases-that-drive-business-growth/"><u>[New] Transformative Talk 20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-peek-at-all-shared-images-and-videos-in-chats/"><u>[Updated] 2024 Approved Peek at All Shared Images & Videos in Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premium-online-meeting-applications-no-zoom/"><u>[Updated] Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-best-7-ai-powered-devices-to-tackle-complex-math-puzzles/"><u>Explore the Best 7 AI-Powered Devices to Tackle Complex Math Puzzles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-game-freezes-in-popular-battle-royale-titles/"><u>How to Fix Game Freezes in Popular Battle Royale Titles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Razr 40</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-tech-basics-essential-equipment-guide/"><u>In 2024, YouTube Tech Basics Essential Equipment Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-hdcp-compatibility-issues-for-optimal-display-functionality/"><u>Resolving HDCP Compatibility Issues for Optimal Display Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-black-screen-issues-on-your-dell-computer/"><u>Step-by-Step Guide: Overcoming Black Screen Issues on Your Dell Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-steelseries-x70-pen-failure-full-repair-instructions-and-tips/"><u>Step-by-Step Solution for SteelSeries X70 Pen Failure - Full Repair Instructions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-restoring-msvcr110dll-on-your-pc/"><u>Step-by-Step Solutions for Restoring MSVCR110.dll on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-configuring-auto-gpt-on-your-ubuntu-server/"><u>Step-by-Step Tutorial: Configuring Auto-GPT on Your Ubuntu Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubled-rollout-issues-with-the-latest-windows-10-version-1607-upgrade/"><u>Troubled Rollout: Issues with the Latest Windows 10 Version 1607 Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-bootmgr-is-missing-errors-with-easy-diagrams/"><u>Troubleshooting and Repairing 'BOOTMGR Is Missing' Errors with Easy Diagrams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-solving-drag-and-drop-issues-in-windows/"><u>Troubleshooting Guide: Solving 'Drag & Drop' Issues in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Ultimate Troubleshooting Steps: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211229315-windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
+</ul></div>
 

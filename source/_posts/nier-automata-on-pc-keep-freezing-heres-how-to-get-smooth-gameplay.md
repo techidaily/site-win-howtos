@@ -1,7 +1,7 @@
 ---
 title: Nier Automata on PC Keep Freezing? Here's How to Get Smooth Gameplay
-date: 2024-09-21T22:56:28.265Z
-updated: 2024-09-22T22:46:04.989Z
+date: 2024-09-22T22:41:49.880Z
+updated: 2024-09-29T06:56:42.307Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -94,14 +101,27 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -129,13 +149,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
  Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
@@ -144,13 +157,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -158,16 +164,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -189,5 +203,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ree-frameworks-amplify-your-youtube-vision-for-2024/"><u>[New] Free Frameworks Amplify Your YouTube Vision for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ryans-revenue-revolution-from-childhood-to-youtube-riches/"><u>[Updated] In 2024, Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-for-players-resolving-the-dota-2-changerenderingapi-mistake-code-2024/"><u>Easy Fix for Players: Resolving the Dota 2 ChangeRenderingApi Mistake (Code 2024)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/encompassing-activity-survey/"><u>Encompassing Activity Survey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging/"><u>Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11-setup-hurdle-expert-solutions-for-error-code-80240020/"><u>Overcome Windows 11 Setup Hurdle: Expert Solutions for Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80071ac3-how-to-fix-a-corrupted-disk/"><u>Resolving Error Code 0X80071AC3: How to Fix a Corrupted Disk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-pubg-missing-architecture-glitches-effectively/"><u>Resolving PUBG Missing Architecture Glitches Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-non-compliant-tactile-response-now-meets-hit-requirements/"><u>SOLVED: Non-Compliant Tactile Response, Now Meets HIT Requirements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackle-x3daudio17dll-missing-errors-with-ease/"><u>Tackle X3DAudio1_7.dll Missing Errors with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-hack-for-launching-the-witcher-3-wild-hunt-without-a-hitch/"><u>The Ultimate Hack for Launching The Witcher 3: Wild Hunt without a Hitch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-pictorial-playbook-collages-complete/"><u>The Ultimate Pictorial Playbook Collages Complete</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Y27 5G.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-hosted-network-not-starting-issue-in-windows-10/"><u>Troubleshooting: How to Fix 'Hosted Network Not Starting' Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10-disk-read-errors-easy-solutions-inside/"><u>Winning Against Windows 10 Disk Read Errors: Easy Solutions Inside</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Installing Device Drivers on Windows 7 Made Easy"
-date: 2024-09-17T17:30:46.000Z
-updated: 2024-09-22T23:53:00.692Z
+date: 2024-09-24T02:13:24.528Z
+updated: 2024-09-28T20:32:53.607Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -84,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -99,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 4) Go to**Troubleshoot** \>**Advanced Options** \>**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
@@ -117,10 +138,10 @@ bootrec /rebuildbcd
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Startup Repair
@@ -167,6 +188,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -180,13 +214,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
@@ -218,13 +245,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
@@ -232,10 +252,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
@@ -286,5 +306,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-guide-to-free-youtube-downloads-without-apps/"><u>[New] 2024 Approved Step-by-Step Guide to Free YouTube Downloads Without Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-moto-g-5g-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Moto G 5G (2023) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/create-logos-via-free-logo-template-customize-and-download-for-free/"><u>Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-event-141-hardware-mishaps-effectively/"><u>Fixing Event 141 Hardware Mishaps Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-right-click-functionality-on-a-windows-11-system/"><u>Guide: Restoring Right-Click Functionality on a Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-initializing-error-in-destiny-2-a-complete-guide/"><u>How to Resolve the Persistent 'Initializing' Error in Destiny 2 - A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pc-editors-a-compilation-without-inshot-for-2024/"><u>PC Editors A Compilation Without Inshot for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-digital-applications-for-visual-storytelling-for-2024/"><u>Premier Digital Applications for Visual Storytelling for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-guide-to-overcoming-instagram-video-hiccups/"><u>Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solve-the-print-to-pdf-not-working-in-windows-11-by-microsoft/"><u>Step-by-Step Guide: Solve the 'Print to PDF Not Working' In Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-the-stopped-audio-service-in-windows-7/"><u>Troubleshooting & Solutions for the Stopped Audio Service in Windows 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-microsoft-excels-power-tips-and-tricks-for-applying-sophisticated-filters-effectively/"><u>Unlocking Microsoft Excel's Power: Tips and Tricks for Applying Sophisticated Filters Effectively</u></a></li>
+</ul></div>
 

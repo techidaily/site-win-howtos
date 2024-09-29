@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Eradicate LiveKernelEvent 117 Glitches"
-date: 2024-09-20T00:02:08.071Z
-updated: 2024-09-23T00:44:05.447Z
+date: 2024-09-21T17:11:11.167Z
+updated: 2024-09-28T20:35:26.338Z
 tags:
   - win11
   - win10
@@ -41,6 +41,20 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
@@ -60,12 +74,36 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
@@ -86,13 +124,6 @@ OR
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update touchpad drivers
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,15 +141,22 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Configure the BIOS settings
@@ -152,10 +190,10 @@ Assigned BIOS hotkey
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupt files
@@ -167,15 +205,16 @@ Assigned BIOS hotkey
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
-3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
-![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
+![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact[Fortect support](https://www.fortect.com/company/contacts/) **.**
 
@@ -213,5 +252,24 @@ Hot Accessories
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-full-exploration-of-the-sj7s-high-definition-star-cameras-for-action/"><u>[Updated] 2024 Approved Full Exploration of the SJ7's High-Definition Star Cameras for Action</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photographys-best-haven-seamlessly-merge-free-and-charged-digital-space/"><u>[Updated] Photography's Best Haven Seamlessly Merge Free and Charged Digital Space</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-vc-runtime-140-dll-file-expert-solutions-revealed/"><u>Fixing the Missing VC Runtime 140 DLL File - Expert Solutions Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-combat-excessive-gpu-utilization-by-windows-dwm-a-guide-for-win10win11-users/"><u>How to Combat Excessive GPU Utilization by Windows' DWM: A Guide for Win10/Win11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-5-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Realme GT 5 Pro Phone Without Password?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-bizarre-battles-unconventional-gaming-challenges-on-tiktok/"><u>In 2024, Bizarre Battles Unconventional Gaming Challenges on TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-resolution-for-unwritable-0x-referenced-memory-instances/"><u>Mastering Error Resolution for Unwritable 0X Referenced Memory Instances</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/social-media-shines-in-hd-fb-video-mastery-guide/"><u>Social Media Shines in HD FB Video Mastery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-troubleshooting-display-driver-not-launching-in-windows-11/"><u>Solutions for Troubleshooting Display Driver Not Launching in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-an-issue-occurred-while-rebooting-message-in-windows-11-a-complete-guide/"><u>Solving the 'An Issue Occurred While Rebooting' Message in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-windows-1n0-continuous-auto-repair-issue/"><u>Step-by-Step Guide: Solving Windows 1N0 Continuous Auto Repair Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-pubg-non-loading-buildings-fix/"><u>Step-by-Step Solution for PUBG Non-Loading Buildings Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-zero-price-virtual-gatherings/"><u>The Ultimate Guide to Zero-Price Virtual Gatherings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-your-youtube-presence-effortlessly-for-2024/"><u>Transform Your YouTube Presence Effortlessly for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sign-in-issues-with-windows-1011-user-profiles/"><u>Troubleshooting Sign-In Issues with Windows 10/11 User Profiles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-your-ps4s-excessive-sound-diagnosis-and-resolution-steps/"><u>Understanding Your PS4’s Excessive Sound: Diagnosis and Resolution Steps</u></a></li>
+</ul></div>
 

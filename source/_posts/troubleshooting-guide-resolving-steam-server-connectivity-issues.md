@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Steam Server Connectivity Issues"
-date: 2024-09-18T01:30:55.801Z
-updated: 2024-09-22T18:36:39.807Z
+date: 2024-09-24T05:43:15.191Z
+updated: 2024-09-28T18:29:12.782Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -76,6 +83,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -106,13 +120,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -123,11 +130,34 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -145,32 +175,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -191,5 +200,26 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-key-steps-to-screen-record-on-your-phone/"><u>[Updated] In 2024, Key Steps to Screen Record on Your Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Google Pixel 8</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-docs-made-simple-integrating-chatgpt-for-smart-document-creation-in-ms-word/"><u>Efficient Docs Made Simple: Integrating ChatGPT for Smart Document Creation in MS Word</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-to-overcome-issues-with-downloads-in-steam-update-processes/"><u>Expert Guide to Overcome Issues with Downloads in Steam Update Processes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-suitable-cameras-for-windows-hello/"><u>Identifying Suitable Cameras for Windows Hello</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-igtv-mastery-best-video-editors-for-social-media/"><u>In 2024, IGTV Mastery Best Video Editors for Social Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-unboxing-expert-tips-and-tricks/"><u>In 2024, Mastering Unboxing Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-audio-control-in-windows-11-a-comprehensive-guide-to-address-and-correct-volume-issues/"><u>Mastering Audio Control in Windows 11: A Comprehensive Guide to Address and Correct Volume Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-empowers-learning-for-everyone-reaching-70-million-globally/"><u>Mondly Empowers Learning for Everyone, Reaching 70 Million Globally</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-quick-windows-setup-failures-successfully/"><u>Overcome Quick Windows Setup Failures Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-when-setting-up-the-directx-11-device-expert-solutions/"><u>Overcoming Challenges When Setting Up the DirectX 11 Device - Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-problems-making-your-usb-mouse-work-again-on-pclaptop/"><u>Overcoming Connection Problems: Making Your USB Mouse Work Again on PC/Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-trending-hashtags-on-instagram-to-boost-your-visibility/"><u>Top Trending Hashtags on Instagram to Boost Your Visibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-mic-on-your-steelseries-arctis-5-headset-issue-resolved/"><u>Troubleshooting a Non-Functional Mic on Your SteelSeries Arctis 5 Headset (ISSUE RESOLVED)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-historical-web-pages-step-by-step-instructions-on-leveraging-the-wayback-machine/"><u>Unlocking Historical Web Pages: Step-by-Step Instructions on Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-c-drive-issue-on-windows-11/"><u>Unlocking the C: Drive Issue on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions for When Your Wacom Tablet Fails to Operate Properly
-date: 2024-09-16T21:09:53.761Z
-updated: 2024-09-22T21:28:24.797Z
+date: 2024-09-27T22:17:00.516Z
+updated: 2024-09-28T20:00:10.121Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -52,6 +59,13 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -81,37 +95,40 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
-5. Click **OK**   to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+5. Click **OK**   to apply the changes in the windows.
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -142,5 +159,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ree-youtube-thumbnails-saving-guide/"><u>[New] Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-insiders-guide-recording-high-octane-play/"><u>[Updated] 2024 Approved Insider's Guide Recording High-Octane Play</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhance-stories-interaction-with-custom-queries-design-for-2024/"><u>[Updated] Enhance Stories Interaction with Custom Queries Design for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-petite-plot-puzzle-piece/"><u>2024 Approved Petite Plot Puzzle Piece</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-hs50-headset-mic-repair-guide-troubleshooting-tips-for-improved-audio-output/"><u>Corsair HS50 Headset Mic Repair Guide - Troubleshooting Tips for Improved Audio Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-fixed-overcoming-the-parameter-is-incorrect-issue-in-loadlibrary/"><u>Error 87 Fixed: Overcoming 'The Parameter Is Incorrect' Issue in LoadLibrary</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-smoothness-restored-how-to-stop-lag-and-increase-fps-in-black-ops-4/"><u>Game Smoothness Restored: How to Stop Lag & Increase FPS in Black Ops 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameplay-glitches-be-gone-now-easily/"><u>Gameplay Glitches Be Gone, Now Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/gigglegallery-craft-and-share-your-own-funny-faces/"><u>GiggleGallery Craft and Share Your Own Funny Faces</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-your-reading-experience-how-to-import-bookmarks-into-ebooks-using-flipbuilder/"><u>Mastering Your Reading Experience: How to Import Bookmarks Into eBooks Using FlipBuilder</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-remove-tiktok-watermarks-online-top-methods-and-tools-for-2024/"><u>New How to Remove TikTok Watermarks Online Top Methods and Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pro-tips-for-power-users-expert-whatsapp-techniques/"><u>Pro Tips for Power Users Expert WhatsApp Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ps4-network-type-trouble-follow-this-comprehensive-fix-tutorial/"><u>PS4 Network Type Trouble? Follow This Comprehensive Fix Tutorial!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-sluggish-computer-boot-up-a-step-by-step-guide/"><u>Solving the Problem of a Sluggish Computer Boot-Up: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-damaged-windows-system-files/"><u>Step-by-Step Guide: Repairing Damaged Windows System Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-missing-startup-file-on-your-pc/"><u>Troubleshooting and Fixing the Missing Startup File on Your PC</u></a></li>
+</ul></div>
 

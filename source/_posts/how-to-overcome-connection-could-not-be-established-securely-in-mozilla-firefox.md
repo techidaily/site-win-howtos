@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Connection Could Not Be Established Securely' In Mozilla Firefox
-date: 2024-09-20T16:37:49.565Z
-updated: 2024-09-23T00:42:02.926Z
+date: 2024-09-22T16:45:21.143Z
+updated: 2024-09-29T01:13:59.298Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -76,6 +83,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -103,6 +117,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -116,25 +137,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -143,6 +150,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  If you have already enabled FAR mod, you can disable it and restore the game settings to default to solve the problem. Then restart your computer to check whether it solves the problem or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change processor affinity
 
@@ -154,21 +168,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -190,5 +197,26 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-simple-approach-to-youtube-statistics-review/"><u>[New] In 2024, A Simple Approach to YouTube Statistics Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-financial-forecast-shooting-a-music-video/"><u>[New] In 2024, Financial Forecast Shooting a Music Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-teamwork-made-simple-the-ultimate-guide-to-8-schedulers/"><u>[New] In 2024, Teamwork Made Simple The Ultimate Guide to 8 Schedulers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restarts-computer-responds-to-games/"><u>[RESTARTS] Computer Responds to Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[Updated] 2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-error-code-24-device-missing-in-windows-1187-environments/"><u>Comprehensive Fixes for Error Code 24 - Device Missing in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-restore-airpods-pairing-on-your-windows-pc-a-step-by-step-tutorial/"><u>Easy Steps to Restore AirPods Pairing on Your Windows PC : A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-online.techidaily.com/free-transformation-how-to-change-a-gif-into-a-jpeg-using-the-movavi-image-tool/"><u>Free Transformation: How to Change a GIF Into a JPEG Using the Movavi Image Tool</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination-for-2024/"><u>From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-gionee-f3-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Gionee F3 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-on-bluetooth-on-windows-7-solved/"><u>How to Turn on Bluetooth on Windows 7 [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>In 2024, Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-p55plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel P55+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-non-compatible-device-drivers-on-windows-os-for-optimal-performance/"><u>Resolved: How To Correct Non-Compatible Device Drivers On Windows OS For Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-silent-issues-effective-solutions-for-your-acer-laptops-audio-problem/"><u>Resolving Silent Issues: Effective Solutions for Your Acer Laptop's Audio Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-update-issues-fixing-windows-10-freezing-during-installation/"><u>Resolving Update Issues: Fixing Windows 10 Freezing During Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-bluetooth-connectivity-issues-repair-windows-mouse-connection/"><u>Solve Your Bluetooth Connectivity Issues - Repair Windows Mouse Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
+</ul></div>
 

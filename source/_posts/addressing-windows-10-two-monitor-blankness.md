@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 10 Two-Monitor Blankness
-date: 2024-09-19T01:48:25.897Z
-updated: 2024-09-22T19:26:37.771Z
+date: 2024-09-25T07:08:39.421Z
+updated: 2024-09-28T17:26:30.539Z
 tags:
   - win11
   - win10
@@ -53,14 +53,21 @@ The good news is that it can be fixed quickly and easily.
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
 
@@ -83,6 +90,13 @@ The good news is that it can be fixed quickly and easily.
 
  If updating the driver didn’t help you, go on to follow other solutions:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Disable USB Root Hubs
 
  USB hardware can also cause System interrupts and high CPU issues. You can disable USB Root Hubs in Device Manager to fix it.
@@ -90,8 +104,29 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
 
@@ -100,10 +135,10 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
@@ -115,10 +150,10 @@ To check which USB Root Hub is for your keyboard and mouse:
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
@@ -135,23 +170,9 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -178,5 +199,18 @@ To check which USB Root Hub is for your keyboard and mouse:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-secrets-of-effective-hp-screen-capture-for-2024/"><u>[New] Unveiling the Secrets of Effective HP Screen Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-wmvcoredll-is-nowhere-found-an-in-depth-tutorial/"><u>Effective Fixes for When Wmvcore.dll Is Nowhere Found: An In-Depth Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-league-of-legends-demystifying-fastest-per-second-fps-gear-drop-frequency/"><u>Expert Guide to League of Legends - Demystifying Fastest Per Second (FPS) Gear Drop Frequency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-mic-on-windows-10-a-step-by-step-guide/"><u>Fixing a Non-Functional Mic on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x8024401c-when-updating-windows-tips-for-windows-11-users/"><u>How to Fix Error Code 0X8024401c When Updating Windows: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-x6-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco X6 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-tricks-to-restore-your-skype-video-connection-on-windows-11/"><u>Simple Tricks to Restore Your Skype Video Connection on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-seven-video-to-audio-tools-for-music-lovers-in-202-cuyos-mejoradores-de-youtube-a-mp3-son-el-mejor-en-2024/"><u>Top Seven Video to Audio Tools for Music Lovers in 202 Cuyos Mejoradores De Youtube a MP3 Son El Mejor en 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-error-5-has-occurred-on-windows-systems-solutions-for-vista-to-windows-11-users/"><u>Troubleshooting the 'Error 5 Has Occurred' On Windows Systems: Solutions for Vista to Windows 11 Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-online-video-reversal-services/"><u>Updated Top-Rated Online Video Reversal Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vr-vexation-computer-crashing-while-gaming/"><u>VR Vexation: Computer Crashing While Gaming</u></a></li>
+</ul></div>
 

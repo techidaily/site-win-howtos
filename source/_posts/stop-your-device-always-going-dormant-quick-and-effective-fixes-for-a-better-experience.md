@@ -1,7 +1,7 @@
 ---
 title: Stop Your Device Always Going Dormant - Quick and Effective Fixes for a Better Experience
-date: 2024-09-15T23:29:11.853Z
-updated: 2024-09-22T20:01:06.675Z
+date: 2024-09-24T18:29:41.071Z
+updated: 2024-09-29T02:16:34.035Z
 tags:
   - win11
   - win10
@@ -62,14 +62,45 @@ Here’s how to do it:
 3. In Battle.net, click **Options** and select **Show in Explorer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-4.png)
 4. Exit **Blizzard.net** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
 
@@ -91,22 +122,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Close DirectX.
 
@@ -131,5 +148,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-begin-with-no-cost-video-intro-tools/"><u>[New] Begin with No-Cost Video Intro Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-behind-the-scenes-of-gamers-elite-setup/"><u>[New] Behind the Scenes of Gamers' Elite Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-scanning-and-repairing-drive-stuck-issue-in-windows-10/"><u>[Solved] Scanning and Repairing Drive Stuck Issue in Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>[Updated] Step-by-Step Guide Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discover-unmissable-adventures-in-sandbox-gaming/"><u>2024 Approved Discover Unmissable Adventures in Sandbox Gaming</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ic-cinema-revisited-step-by-step-video-guide/"><u>Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-with-ease/"><u>Disabling Windows 11 Firewall with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-11-bluetooth-missing-issue-quickly-and-easily/"><u>Fix Windows 11 Bluetooth Missing Issue. Quickly & Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-touchpad-scrolling-issues-a-comprehensive-guide/"><u>Fixing Unresponsive Touchpad Scrolling Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-identifying-and-resolving-non-detecting-bluetooth-issues-on-windows-10-computers/"><u>Guide: Identifying & Resolving Non-Detecting Bluetooth Issues on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-hdcp-errors-on-incompatible-monitors/"><u>How To Resolve HDCP Errors on Incompatible Monitors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-v30-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo V30 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>In 2024, Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-reaction-to-valorant-freezes-reboot-call/"><u>Quick Reaction to Valorant Freezes: Reboot Call</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x800705b4-glitch-a-complete-guide-to-fixing-windows-10-updates/"><u>Resolving the 0X800705b4 Glitch: A Complete Guide to Fixing Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-11-update-conundrum-navigating-through-error-code-0x80240034/"><u>Resolving the Windows 11 Update Conundrum: Navigating Through Error Code 0X80240034</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-wrap-errors-in-windows-causes-solutions-and-prevention-tips/"><u>Understanding WRAP Errors in Windows: Causes, Solutions & Prevention Tips</u></a></li>
+</ul></div>
 

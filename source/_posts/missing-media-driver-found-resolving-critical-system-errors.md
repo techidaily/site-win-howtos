@@ -1,7 +1,7 @@
 ---
 title: "Missing Media Driver Found: Resolving Critical System Errors"
-date: 2024-09-16T16:38:28.305Z
-updated: 2024-09-23T02:01:56.860Z
+date: 2024-09-27T06:43:13.040Z
+updated: 2024-09-28T17:22:46.280Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,10 +63,10 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
@@ -81,22 +88,15 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -108,17 +108,25 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -131,13 +139,6 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
@@ -177,5 +178,22 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-iphone-selfies-with-water-surface-highlights/"><u>[New] 2024 Approved Enhancing iPhone Selfies with Water Surface Highlights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iscovering-whos-watching-your-videos/"><u>[New] Discovering Who's Watching Your Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>[New] In 2024, A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-premium-data-recorder-compatible-with-sony-a7s/"><u>2024 Approved Premium Data Recorder Compatible with Sony A7S</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-examination-of-barnes-and-nobles-nook-glowlight-plus-the-ultimate-large-screen-tablet-for-bookworms/"><u>Comprehensive Examination of Barnes & Noble's Nook GlowLight Plus: The Ultimate Large Screen Tablet for Bookworms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-customer-experience-personalized-banking-services-via-automated-technology/"><u>Enhancing Customer Experience: Personalized Banking Services via Automated Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-intel-hd-graphics-4400-drivers-free-download/"><u>Get the Latest Intel HD Graphics 4400 Drivers - Free Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effectively-fix-the-d3derr-not-available-problem-in-minutes/"><u>How To Effectively Fix The D3DERR Not Available Problem In Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-oddworld-soulstorm-from-crashing-on-your-computer-fixed/"><u>How to Stop Oddworld: Soulstorm From Crashing on Your Computer [FIXED]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-g42-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia G42 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-amoled-screen-problems-a-guide-with-5-key-methods/"><u>Solving Windows Amoled Screen Problems: A Guide with 5 Key Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-error-0x800705b4-during-windows-10-updates-complete-walkthrough/"><u>Troubleshooting and Repairing Error 0X800705b4 During Windows 10 Updates – Complete Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-sound-issues-in-windows-7/"><u>Troubleshooting Steps: How to Fix Sound Issues in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-needed-monitor-cannot-sync-with-present-input-delay-settings/"><u>Update Needed: Monitor Cannot Sync with Present Input Delay Settings</u></a></li>
+</ul></div>
 

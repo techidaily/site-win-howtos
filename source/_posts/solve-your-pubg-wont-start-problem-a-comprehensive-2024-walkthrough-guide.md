@@ -1,7 +1,7 @@
 ---
 title: "Solve Your 'PUBG Won't Start' Problem: A Comprehensive 2024 Walkthrough Guide"
-date: 2024-09-20T20:22:37.778Z
-updated: 2024-09-22T19:49:34.518Z
+date: 2024-09-28T00:20:59.215Z
+updated: 2024-09-28T18:21:58.999Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5489d31cef4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to manually configure PS4 network settings?**
 
  1) On a Windows PC/laptop that connects to the same network as your PS4 does, press the**Windows logo key** **\+ R**  at the same time on your keyboard.
@@ -75,13 +82,6 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548aaf1616f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Copy and paste the following**command** in the Command Prompt, and press**Enter** .
 
 ipconfig/all
@@ -89,10 +89,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
@@ -100,13 +100,6 @@ ipconfig/all
  5) Go to PS4**Settings** \>**Network** \>**Set Up Internet Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select**Use WiFi** if you are connecting to WiFi, or select**Use a LAN Cable** if you are connecting to the Ethernet.
 
@@ -117,10 +110,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Select**Do Not Use** as for**Proxy Server** .
@@ -130,6 +123,13 @@ ipconfig/all
  9) Wait for it to update. When you see**Internet settings updated** , select**Test Internet Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
 
@@ -152,6 +152,13 @@ ipconfig/all
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to**Advanced** \>**Forwarding** , and you will see**UPnP** . (Or you can find the UPnP section in other tab according to the different routers.)
 
@@ -203,7 +210,21 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Forward Port for your PS4 network**
 
@@ -236,10 +257,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These are the 4 easy methods to solve PS4 NAT type failed. Feel free to comment below to share your ideas. If you have any further questions, please let us know and we’ll see what more we can do to help.
@@ -260,5 +281,24 @@ ipconfig/all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-2023s-cinematic-hidden-gems/"><u>[New] In 2024, Discovering 2023'S Cinematic Hidden Gems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/brace-yourselves-apple-faces-new-challenge-as-meta-and-lg-forge-ahead-with-revolutionary-quest-pro-tech-zdnet-reports/"><u>Brace Yourselves: Apple Faces New Challenge as Meta and LG Forge Ahead with Revolutionary Quest Pro Tech | ZDNet Reports</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/chromium-os-built-in-video-capturer-for-2024/"><u>Chromium OS Built-In Video Capturer for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-windows-camera-issue-error-0xa00f4292-explained/"><u>Comprehensive Solution for Windows Camera Issue - Error 0xA00F4292 Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/creating-compelling-thumbnails-that-stand-out-for-2024/"><u>Creating Compelling Thumbnails that Stand Out for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-new-worlds-startup-challenge-solutions-to-bypass-easy-anti-cheat-troubles/"><u>Defeating New World's Startup Challenge: Solutions to Bypass Easy Anti-Cheat Troubles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artificial-intelligence-black-boxes-explained/"><u>Demystifying Artificial Intelligence: Black Boxes Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-12plus-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 12+ 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-disabled-local-authentication-layers-securely/"><u>How To Reactivate Disabled Local Authentication Layers Securely</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-spin-perfecting-instagram-posts/"><u>Mastering Video Spin Perfecting Instagram Posts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-issues-discord-fixed/"><u>Mic Issues: Discord Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-performance-addressing-the-high-cpu-usage-impact-of-wudfhostexe-in-windows-11/"><u>Optimizing Performance: Addressing the High CPU Usage Impact of wudfhost.exe in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-missing-d3dcompiler43dll-file-error-on-your-pc/"><u>Resolve 'Missing' D3DCompiler_43.dll File Error on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-non-functional-mic-on-steelseries-arctis-5-headset/"><u>Troubleshooting and Resolving Non-Functional Mic on SteelSeries Arctis 5 Headset</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-handbrake-issues-on-windows-1011-solutions-and-workarounds/"><u>Troubleshooting Handbrake Issues on Windows 10/11: Solutions & Workarounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-color-defects-and-image-distortions-in-monitors/"><u>Troubleshooting Techniques for Color Defects and Image Distortions in Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-secrets-eradicating-ue4s-deadly-grips-from-your-halo-4-experience/"><u>Unlock the Secrets: Eradicating UE4's Deadly Grips From Your Halo 4 Experience</u></a></li>
+</ul></div>
 

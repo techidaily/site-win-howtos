@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 10: How to Exit Perpetual Airplane Mode"
-date: 2024-09-21T19:54:59.059Z
-updated: 2024-09-22T17:34:01.263Z
+date: 2024-09-22T00:01:44.836Z
+updated: 2024-09-28T17:23:06.465Z
 tags:
   - win11
   - win10
@@ -58,8 +58,32 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 1. Press the**Windows logo key** +**R** to open the Run box. Type “ms-settings: troubleshoot” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/01.jpg)
 2. Click**Playing Audio** . Then click**Run the troubleshooter** . Wait for the investigation complete.![](https://images.drivereasy.com/wp-content/uploads/2019/05/02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose the device that relates to the audio renderer error. Click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If there’s an issue, you’ll see a repair strategy. Click “Yes” to fix it. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and check whether the issue is fixed or not.
 
 ---
@@ -72,20 +96,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/05.jpg)
 2. In the Device Manager, click**Sound, video and game controllers** . Right-click and choose**Disable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and check whether the issue is fixed or not.
@@ -108,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap853.jpg)
 4. Restart your computer and check the audio renderer error is fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 6: Roll back your audio driver
@@ -118,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “devmgmt.msc” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/05-1.jpg)
 3. In the Device Manager, click**Sound, video and game controllers** , then right-click on your audio adapter device and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Under the**Driver** tab, click **Roll Back Driver** , then follow the on-screen instructions to finish the process.  
 **Note** : If the Roll Back Driver option grayed out, you can download a previous driver from the manufacturer’s website and install it on your PC.  
@@ -140,31 +157,39 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “mmsys.cpl” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/03-2.jpg)
 3. Under the**Playback** tab, select the audio device that meets the issue (if you have more than one audio device) and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/04-1.jpg)
 4. Click the**Advanced** tab, select the sample rate that you wish to use. Then click**OK** . Back to the Sound window, click**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/12.jpg)
 5. Open your ASIO driver settings and choose the**Audio** tab. Select the same Sample rate as the previous step.![](https://images.drivereasy.com/wp-content/uploads/2019/05/13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer and see if the error has been resolved.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -185,5 +210,16 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-5-book-tt-showcases-for-readers-for-2024/"><u>[Updated] The Ultimate 5 Book TT Showcases for Readers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-envelop-your-senses-in-virtual-realms-the-best-vr-playback-systems-for-pc/"><u>2024 Approved Envelop Your Senses in Virtual Realms The Best VR Playback Systems for PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/atencion-virtual-especializada-del-software-winx-herramientas-de-rip-y-conversion-de-video/"><u>Atención Virtual Especializada Del Software WinX: Herramientas De Rip Y Conversión De Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-swift-solutions-to-windows-install-failures/"><u>Expert Tips for Swift Solutions to Windows Install Failures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-google-pixel-8-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Google Pixel 8 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/local-safety-procedures-reinstated-activating-key-layers-of-digital-armor-on-your-device/"><u>Local Safety Procedures Reinstated - Activating Key Layers of Digital Armor on Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-quick-fix-guide-to-correct-the-change-rendering-api-error-in-dota-2-error-2024/"><u>Ultimate Quick-Fix Guide to Correct the Change Rendering API Error in Dota 2 [Error 2024]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-crc-cyclic-redundancy-check-data-corruption-issues/"><u>Understanding and Resolving CRC (Cyclic Redundancy Check) Data Corruption Issues</u></a></li>
+</ul></div>
 

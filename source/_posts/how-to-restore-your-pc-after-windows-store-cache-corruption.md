@@ -1,7 +1,7 @@
 ---
 title: How to Restore Your PC After Windows Store Cache Corruption
-date: 2024-09-18T17:15:38.226Z
-updated: 2024-09-22T21:50:35.386Z
+date: 2024-09-27T03:47:11.488Z
+updated: 2024-09-28T23:43:07.575Z
 tags:
   - win11
   - win10
@@ -64,6 +64,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -74,10 +82,16 @@ start explorer.exe
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
@@ -94,22 +108,15 @@ If your desktop icons still don’t show up, you can perform a system restore to
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -118,16 +125,31 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -168,5 +190,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11-for-2024/"><u>[New] Achieve High Rankings on YouTube with Top SEO Tips (1-11) for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-master-list-the-finest-10-pixel-archives-at-zero-cost/"><u>[Updated] Master List The Finest 10 Pixel Archives at Zero Cost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-use-twitter-archive/"><u>2024 Approved How to Use Twitter Archive?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-excessive-network-traffic-caused-by-svchostexe-netsvcs/"><u>Comprehensive Solutions for Excessive Network Traffic Caused by svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download Updated NVIDIA RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-se-2022-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone SE (2022)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-display-connection-issues-on-windows-11-a-step-by-step-guide/"><u>Fixing Microsoft Wi-Fi Display Connection Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-common-errors-in-windows-installation-packages/"><u>How to Fix Common Errors in Windows Installation Packages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-missing-desktop-icons-on-your-pc-running-windows/"><u>How to Restore Missing Desktop Icons on Your PC Running Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y100a-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y100A?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-eyeball-enticer-author/"><u>In 2024, Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nvidia-setup-success-overcoming-issues-solved/"><u>NVIDIA Setup Success - Overcoming Issues (Solved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-fixing-audio-hardware-problems-for-windows-10-and-11-users/"><u>Overcoming the Challenge: Fixing Audio Hardware Problems for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premier-low-carbon-screen-recording-solutions-for-2024/"><u>Premier Low-Carbon Screen Recording Solutions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/real-time-sharing-iphone-video-and-image-crafting-for-2024/"><u>Real-Time Sharing IPhone Video & Image Crafting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-non-responsive-windows-update-service-a-complete-fix-guide/"><u>Solution for Non-Responsive Windows Update Service - A Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-repairing-your-windows-10-crimson-display-problem/"><u>The Ultimate Guide to Repairing Your Windows 10 Crimson Display Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-monster-hunter-worlds-startup-void-how-to-overcome-total-black-screen-problems/"><u>Troubleshooting Monster Hunter: World's Startup Void - How to Overcome Total Black Screen Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Freezes Randomly [Solved]
-date: 2024-09-21T16:54:38.450Z
-updated: 2024-09-22T21:08:43.099Z
+date: 2024-09-22T19:17:30.741Z
+updated: 2024-09-28T21:56:46.161Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Update your drivers**
 
  The Windows 10 freezing problem can be caused by outdated drivers. So to fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,6 +59,19 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
@@ -68,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Select all the files in the Temp folder and delete them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
@@ -76,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Adjust your virtual memory**
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -83,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
  1) On your keyboard, press Windows key and Pause/ Break key at the same time. Then choose **Advanced System Settings** on the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
 
@@ -151,13 +178,6 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted to provide administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
@@ -176,6 +196,19 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 5: Run a memory check**
 
  A faulty memory card is one of the most common causes of computer freezes. So before you invest in a new computer, check to see if your memory card is at fault. Microsoft has a built-in tool to help you do this.
@@ -183,13 +216,6 @@ sfc /scannow
  1) On your keyboard, hold**the Windows logo** key and press**R** at the same time to invoke a Run command. Type**mdsched.exe** in the run box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58623a9965e70.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) If you want to check for problems immediately, click **Restart now and check for problems(recommended)** . If you want to check later, click **Check for problems the next time I start my computer** .
 
@@ -213,6 +239,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
@@ -220,6 +253,13 @@ sfc /scannow
  4) Go to the **Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) If your hard disk drive is problem-free, you’ll see this:
 
@@ -240,10 +280,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-into-bios-mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re not fast enough, and the logo screen disappears before you hit the Setup key, just wait for Windows to finish starting up, then restart your computer and try again.
@@ -259,13 +299,6 @@ sfc /scannow
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 8: Switch to ChromeOS
 
@@ -310,5 +343,24 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sky-high-insights-comprehensive-phantom-4-breakdown/"><u>[New] 2024 Approved Sky-High Insights Comprehensive Phantom 4 Breakdown</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[New] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-0x8007001f/"><u>[SOLVED] Windows Update Error 0X8007001f</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>[Updated] Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/8-fixes-for-windows-10-update-error-code-0x800f0922/"><u>8 Fixes for Windows 10 Update Error Code 0X800f0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-win10-file-explorer-lag-proven-fixes-for-improved-performance/"><u>Beat Win10 File Explorer Lag: Proven Fixes for Improved Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-troubleshooting-guide-resolving-initialization-stuck-problems/"><u>Destiny # Troubleshooting Guide: Resolving Initialization Stuck Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212043808-how-to-fix-access-denied-file-and-folder-errors-on-windows/"><u>How to Fix “Access Denied” File and Folder Errors on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-c67-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme C67 4G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-beginners-guide-to-recording-video-calls-with-google-meets/"><u>In 2024, A Beginner's Guide to Recording Video Calls with Google Meets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>In 2024, Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-solved-restoring-functionality-to-broken-number-keys/"><u>Keyboard Malfunction Solved: Restoring Functionality to Broken Number Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-quick-guide-to-refreshing-your-windows-10-system/"><u>Simple Steps: Quick Guide to Refreshing Your Windows 10 System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011501493-steam-sign-in-failures-heres-how-you-can-get-back-in-easily/"><u>Steam Sign In Failures? Here's How You Can Get Back in Easily!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-pushing-photographic-limits-for-2024/"><u>The Art of Pushing Photographic Limits for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-endgame-resolving-nvidia-installation-issues/"><u>The Endgame: Resolving NVIDIA Installation Issues</u></a></li>
+</ul></div>
 

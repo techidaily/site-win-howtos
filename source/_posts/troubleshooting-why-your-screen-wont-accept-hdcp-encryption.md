@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Your Screen Won't Accept HDCP Encryption"
-date: 2024-09-21T19:24:09.951Z
-updated: 2024-09-22T20:58:57.784Z
+date: 2024-10-02T05:25:58.573Z
+updated: 2024-10-04T11:30:52.207Z
 tags:
   - win11
   - win10
@@ -45,9 +45,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -67,6 +81,14 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -85,31 +107,32 @@ To do so:
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
-5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
+5. Click **OK**  to apply the changes in the windows.
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -143,5 +166,20 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-how-to-add-filters-and-music-on-windows-10-photos-app/"><u>[New] How to Add Filters and Music on Windows 10 Photos App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-subtitle-savant-strategies-for-unparalleled-srt-file-creation-for-2024/"><u>[New] Subtitle Savant Strategies for Unparalleled SRT File Creation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-revolutionizing-communication-free-top-8-srt-tools-revealed/"><u>[Updated] Revolutionizing Communication Free Top 8 SRT Tools Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secrets-to-standout-final-scenes-on-yt-platforms/"><u>[Updated] Secrets to Standout Final Scenes on YT Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-cutting-edge-of-cinematography-kinemasters-zoom-excellence/"><u>2024 Approved The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-persistent-stuck-screen-problem-on-desktop-computers/"><u>Expert Tips for Fixing Persistent Stuck Screen Problem on Desktop Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-alert-dealing-with-displays-that-dont-recognize-hdcp-protocols/"><u>Incompatibility Alert: Dealing with Displays That Don't Recognize HDCP Protocols</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/melodies-for-memories-music-tips-for-reels-on-instagram/"><u>Melodies for Memories Music Tips for Reels on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-network-stability-hacks-fix-your-games-lags-and-errors-with-these-proven-methods/"><u>PUBG Network Stability Hacks: Fix Your Game's Lags and Errors with These Proven Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-stuck-fn-buttons-on-dell-computers-with-easy-troubleshooting-steps/"><u>Reactivate Stuck Fn Buttons on Dell Computers with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-update-errors-a-comprehensive-guide/"><u>Solving Windows Update Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-strategies-in-drone-filmmaking/"><u>Top Strategies in Drone Filmmaking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-issues-with-the-win-plus-shift-plus-s-command-on-windows-operating-systems/"><u>Troubleshooting Guide: Resolving Issues with the Win + Shift + S Command on Windows Operating Systems</u></a></li>
+</ul></div>
 

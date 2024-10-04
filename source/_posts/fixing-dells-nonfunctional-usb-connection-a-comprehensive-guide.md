@@ -1,7 +1,7 @@
 ---
 title: "Fixing Dell's Nonfunctional USB Connection: A Comprehensive Guide"
-date: 2024-09-25T02:54:20.139Z
-updated: 2024-09-28T16:33:44.607Z
+date: 2024-09-26T22:29:09.707Z
+updated: 2024-10-04T14:57:22.214Z
 tags:
   - win11
   - win10
@@ -57,16 +57,10 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -79,13 +73,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -97,30 +84,37 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -142,16 +136,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -177,19 +171,21 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/levate-your-content-selecting-top-thumbnail-fonts/"><u>[New] Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elite-recording-software-to-handle-ultra-hd-screenshots-for-2024/"><u>[New] Elite Recording Software to Handle Ultra HD Screenshots for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>[New] Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagrams-secure-livestream-your-silent-journey/"><u>[Updated] Instagram's Secure Livestream Your Silent Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-resolving-srt-export-woes-in-adobe-premiere/"><u>2024 Approved Resolving SRT Export Woes in Adobe Premiere</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-windows-11s-non-responsive-touchpad-scroll-barrier/"><u>Effective Solutions for Windows 11'S Non-Responsive Touchpad Scroll Barrier</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-12r-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 12R to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-no-cost-audio-archives-for-professional-youtube-makers/"><u>In 2024, No-Cost Audio Archives for Professional YouTube Makers</u></a></li>
-<li><a href="https://games-able.techidaily.com/industry-titans-or-tycoons-of-games-industry-insight-report/"><u>Industry Titans or Tycoons of Games? [Industry Insight Report]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-missing-dll-from-steam-games/"><u>Overcoming Missing Dll From Steam Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-werfuelexe-malfunction-top-6-strategies-for-windows-users/"><u>Resolving the 'werfuel.exe' Malfunction: Top 6 Strategies for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-non-working-voice-chat-in-overwatch-effortlessly/"><u>Troubleshoot and Resolve Non-Working Voice Chat in Overwatch Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-update-issue-0x800f0831-with-ease/"><u>Troubleshooting and Resolving Windows Update Issue 0X80#0F0831 with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-core-api-dll-is-affecting-system-functions/"><u>Windows Core API DLL Is Affecting System Functions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[New] 2024 Approved Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comparing-the-leading-no-cost-video-communication-apps-iosandroid-for-2024/"><u>[New] Comparing the Leading No-Cost Video Communication Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-expert-techniques-for-acquiring-pristine-images/"><u>[New] In 2024, Expert Techniques for Acquiring Pristine Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-your-journey-begins-here-vlogging-essentials/"><u>[Updated] Your Journey Begins Here Vlogging Essentials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chat-with-ai-transforming-your-vehicle-using-chatgpt-tips-and-tricks/"><u>Chat with AI: Transforming Your Vehicle Using ChatGPT Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-correct-windows-update-error-0x8007001f-issue/"><u>How to Successfully Correct Windows Update Error 0X8007001f Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-file-sync-solutions-top-ways-to-bring-data-home/"><u>In 2024, File Sync Solutions Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-launch-identifiers-for-applications/"><u>Interpreting Launch Identifiers for Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-why-does-my-computer-power-down-when-gaming-solutions-for-win-11-10-7-81-and-8/"><u>Solved! Why Does My Computer Power Down When Gaming? - Solutions for Win 11, 10, 7, 8.1 & 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-tips-for-resolving-high-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Tips for Resolving High GPU Consumption by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters/"><u>Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-user-profile-service-failed-errors-for-seamless-login-in-windows-1011/"><u>Troubleshooting 'User Profile Service Failed' Errors for Seamless Login in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-update-your-device-after-a-driver-setting-error/"><u>Troubleshooting: Successfully Update Your Device After a Driver Setting Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-your-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot Your PS4 Microphone Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-repair-manual-how-to-restore-functionality-to-your-lagging-gamepad/"><u>Ultimate Repair Manual: How to Restore Functionality to Your Lagging Gamepad</u></a></li>
 </ul></div>
 

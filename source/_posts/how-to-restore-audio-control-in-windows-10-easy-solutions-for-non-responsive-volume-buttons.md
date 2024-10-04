@@ -1,7 +1,7 @@
 ---
 title: How To Restore Audio Control in Windows 10 - Easy Solutions for Non-Responsive Volume Buttons
-date: 2024-09-23T07:10:02.464Z
-updated: 2024-09-29T00:58:12.680Z
+date: 2024-09-27T23:36:44.879Z
+updated: 2024-10-04T04:42:30.806Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -46,40 +53,26 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -89,32 +82,34 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
@@ -158,20 +153,18 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[New] 2024 Approved Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-dazzle-with-directors-lighting-tips-for-captivating-clips/"><u>2024 Approved Dazzle with Directors' Lighting Tips for Captivating Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranking-the-leading-free-srt-translation-tools/"><u>2024 Approved Ranking the Leading Free SRT Translation Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-repairing-print-to-pdf-feature-issues-in-windows-11-by-microsoft/"><u>A Comprehensive Guide to Repairing 'Print to PDF' Feature Issues in Windows 11 by Microsoft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/backspace-not-responding-heres-how-you-can-solve-this-problem/"><u>Backspace Not Responding? Here’s How You Can Solve This Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-slowdown-effective-fixes-for-fallout-4-stutter/"><u>Beat the Slowdown: Effective Fixes for Fallout 4 Stutter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-for-successfully-uninstalling-software-from-your-windows-11-pc/"><u>Easy Steps for Successfully Uninstalling Software From Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-battleye-service-launch-problems-seamless-operation-restored/"><u>Fix Implemented for BattlEye Service Launch Problems - Seamless Operation Restored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212052937-fixing-volume-control-icons-in-windows-11-with-helpful-illustrations/"><u>Fixing Volume Control Icons in Windows 11 with Helpful Illustrations.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/high-ranking-nintendo-switch-brawlers-index-max-156/"><u>High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cost-efficient-filmmaking-action-cams-under-100-guide/"><u>In 2024, Cost-Efficient Filmmaking ACTION Cams Under $100 Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-connection-hurdles-a-users-guide-to-fixing-microsoft-dp-adapter-issues-on-windows-11/"><u>Overcoming Connection Hurdles: A User's Guide to Fixing Microsoft DP Adapter Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-instruction-at-0xreferenced-memory-at-0x-the-memory-could-not-be-written/"><u>SOLVED: The Instruction at 0Xreferenced Memory at 0X. The Memory Could Not Be Written</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-top-video-animation-apps-for-android-ios-and-ipados/"><u>Updated In 2024, Unleash Your Creativity Top Video Animation Apps for Android, iOS, and iPadOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-revenue-pathways-and-payments-for-2024/"><u>YouTube Revenue Pathways and Payments for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensible-guide-to-authoritative-testimonial-films/"><u>[New] A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/communicative-capability-giving-prompts-meaningful-responses/"><u>Communicative Capability: Giving Prompts Meaningful Responses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-logitech-c920-software-for-optimal-functionality-in-windows-11-10-and-8-systems/"><u>Download Updated Logitech C920 Software for Optimal Functionality in Windows 11, 10 & 8 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-frustration-of-spontaneous-hibernation-on-your-computer-smart-fixes-inside/"><u>End the Frustration of Spontaneous Hibernation on Your Computer - Smart Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focused-frames-eliminating-jitterbugs-for-2024/"><u>Focused Frames Eliminating Jitterbugs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-an-edge-hidden-desktop-window/"><u>Guide: Restoring an Edge-Hidden Desktop Window</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-13-pro-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 13 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-motorola-razr-40-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Motorola Razr 40 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-screen-record-on-windows-10-devices-for-2024/"><u>Mastering Screen Record on Windows 10 Devices for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-rated-motion-graphics-software-for-text-tracking-for-2024/"><u>New Top-Rated Motion Graphics Software for Text Tracking for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-24-device-not-present-error-in-windows-1087/"><u>Resolving Code 24: 'Device Not Present' Error in Windows 10/8/7</u></a></li>
 </ul></div>
 

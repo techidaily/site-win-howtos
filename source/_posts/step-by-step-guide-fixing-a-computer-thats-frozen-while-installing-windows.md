@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing a Computer That's Frozen While Installing Windows"
-date: 2024-09-25T06:31:32.028Z
-updated: 2024-09-29T06:40:34.305Z
+date: 2024-09-27T02:19:30.783Z
+updated: 2024-10-03T20:48:17.220Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -65,10 +58,16 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
@@ -78,13 +77,6 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -100,7 +92,21 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -125,10 +131,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -150,18 +156,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-economical-action-recording-next-level-performance-under-200/"><u>[New] 2024 Approved Economical Action Recording - Next Level Performance Under $200</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unlocking-the-potential-of-media-imports-in-windows-10/"><u>[New] Unlocking the Potential of Media Imports in Windows 10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-presentation-recording-with-a-webcam-on-handy-guide-for-2024/"><u>[Updated] Efficient Presentation Recording with a Webcam on Handy Guide for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-luminous-leverage-5-key-videography-aids-for-2024/"><u>[Updated] Luminous Leverage 5 Key Videography Aids for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-restoring-device-recognition-capabilities-on-windows-nt/"><u>Bluetooth Troubleshooting: Restoring Device Recognition Capabilities on Windows nT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-get-the-right-realtek-network-interface-controller-software-for-your-windows-710-pc/"><u>Find & Get the Right Realtek Network Interface Controller Software for Your Windows 7/10 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-reno-8t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Reno 8T to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-10-computers/"><u>How to Fix High Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 10 Computers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-c51-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco C51</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-solution-overcoming-initializing-delays-in-destiny-2-gaming-experience/"><u>Master the Solution: Overcoming 'Initializing' Delays in Destiny 2 Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-ms-teams-hurdle-error-80080300-in-win11/"><u>Overcoming MS Teams Hurdle Error 80080300 in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-quick-fixes-for-critical-cxfreeze-software-crashes/"><u>Resolved: Quick Fixes for Critical Cx_Freeze Software Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-effective-solutions-for-persistent-mouse-disconnection-issues/"><u>Solving the Dilemma: Effective Solutions for Persistent Mouse Disconnection Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-interactive-av-media-collective/"><u>[New] In 2024, Interactive AV Media Collective</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-setting-up-and-managing-discord-channels-step-by-step-guide-for-2024/"><u>[New] Setting Up and Managing Discord Channels Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-fresh-take-on-viewing-the-new-lg-bp550-review/"><u>[Updated] In 2024, A Fresh Take on Viewing The New LG BP550 Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>2024 Approved Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/can-paid-access-to-linkedin-plus-supercharge-your-professional-life/"><u>Can Paid Access to LinkedIn Plus Supercharge Your Professional Life?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-pros-and-cons-of-clearstreamlete-eclipse-antenna-excellent-power-in-minimalist-style/"><u>Discovering the Pros and Cons of ClearStream'lete Eclipse Antenna: Excellent Power in Minimalist Style</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-binkw32dll-not-found-quick-troubleshooting-steps-to-resolve-missing-errors/"><u>Fix Binkw32.DLL Not Found - Quick Troubleshooting Steps to Resolve Missing Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206876364-fixing-the-slow-download-problem-in-league-of-legends-once-and-for-all/"><u>Fixing the Slow Download Problem in League of Legends Once and For All!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-spark-20-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-editing-software-for-newcomers/"><u>In 2024, The Ultimate List of Free Video Editing Software for Newcomers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-silent-laptop-speaker-a-step-by-step-guide-to-fix-the-mic/"><u>Revive Your Silent Laptop Speaker: A Step-by-Step Guide to Fix the Mic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-ethernet-connectivity-problems-in-windows-11-and-7/"><u>Troubleshooting Steps for Resolving Ethernet Connectivity Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-internet-explorer-not-responding-issues/"><u>Troubleshooting Tips: Resolving 'Internet Explorer Not Responding' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-blue-screen-error-on-your-device/"><u>Ultimate Guide: Resolving the Blue Screen Error on Your Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo X Flip? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting the Diagnostics Policy Service Running: A Comprehensive Guide"
-date: 2024-09-23T21:23:42.899Z
-updated: 2024-09-29T01:24:54.148Z
+date: 2024-09-28T06:09:24.654Z
+updated: 2024-10-04T10:37:23.238Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: End  igfxEm Module in Task Manager
 
  Killing **igfxEm Module** , as reported by most users, is one of the most effective methods in solving this **Steam missing file privileges** problem. To do so:
@@ -45,22 +52,15 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/igfxem-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Re-launch Steam, download/update the game again, and see if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Change the download region**
@@ -71,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Re-download/update the game and see if it works now.
 
@@ -101,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click inside the Window and click **Repair Library Folder** .
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5)Re-try the install/update and hopefully this time it succeeds.
@@ -142,6 +142,13 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Give administrator privileges to Steam
 
  Sometimes **Steam missing file privileges**  happens because you don’t have full permissions to run Steam. So to**give Steam administrator privileges** :
@@ -157,16 +164,16 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4453eca629e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run Steam as administrator and check if the mid-download/update problem gets fixed.
 
@@ -175,13 +182,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -207,18 +207,22 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-time-secrets-in-depth-recorder-guide/"><u>[New] In 2024, Screen Time Secrets In-Depth Recorder Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-capturing-trust-the-significance-of-client-reviews/"><u>[Updated] 2024 Approved Capturing Trust The Significance of Client Reviews</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-filmmaking-the-art-of-virtual-backdrop-integration/"><u>[Updated] Instagram Filmmaking The Art of Virtual Backdrop Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-windows-error-0x80070643-tips-for-successful-updates-and-installs/"><u>Bypassing the Windows Error 0X80070643: Tips for Successful Updates and Installs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-a2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi A2?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-when-microsofts-default-browser-crashes-or-freezes/"><u>Easy Fixes for When Microsoft's Default Browser Crashes or Freezes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fbx-studio-guide-for-gamers/"><u>FBX Studio Guide for Gamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A14 5G</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/rise-above-reach-heights-5-tips-to-skyrocket-your-visibility/"><u>Rise Above, Reach Heights 5 Tips to Skyrocket Your Visibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-visibility-of-bluetooth-on-pcs-device-manager/"><u>Solution Guide: Restoring Visibility of Bluetooth on PC's Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-miracast-issues-upgrading-graphics-drivers-for-seamless-connection/"><u>Solving Miracast Issues: Upgrading Graphics Drivers for Seamless Connection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-windows-reboot-and-choose-boot-device-problem/"><u>Step-by-Step Solution for Windows Reboot and Choose Boot Device Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-overcoming-repeated-rebooting-issues-in-windows-11/"><u>The Ultimate Fixes for Overcoming Repeated Rebooting Issues in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-streaming-athletic-games-real-time/"><u>[New] 2024 Approved Best Practices for Streaming Athletic Games Real-Time</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>[New] 2024 Approved Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[New] 2024 Approved Precision in Speech Synthesis Converting Text Formats to SRT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-incorporating-facebook-live-into-websites-for-2024/"><u>[New] The Ultimate Guide Incorporating Facebook LIVE Into Websites for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5y2x6zm644gl44kj5a6i44kk44gq44gm44kj44cb5qsc57si5yplusv6io944gq44k744kv44k344o844ot44oh44kq44ks56k65a6f44gr44oa44km44oz44ot44o844oj44gz44kl5oqa6kgt44cn.55/"><u>「危険から守りながら、検索可能なセクシービデオを確実にダウンロードする技術」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-alternatives-to-keepvid-discover-the-top-6-platforms-for-quick-and-easy-video-downloads/"><u>Best Alternatives to KeepVid: Discover the Top 6 Platforms for Quick and Easy Video Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-top-5-no-cost-rmvb-media-players-for-windows-10-users/"><u>Discover the Top 5 No-Cost RMVB Media Players for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-videos-from-sendvid-quickly-top-4-reliable-techniques-revealed/"><u>Download Videos From Sendvid Quickly: Top 4 Reliable Techniques Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-xmovies8-free-save-and-enjoy-your-favorite-films-anytime-even-offline/"><u>Download XMovies8 Free: Save & Enjoy Your Favorite Films Anytime, Even Offline!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-instructions-for-recording-live-broadcasts-on-your-pc-with-windows-11-and-tunein/"><u>Easy Instructions for Recording Live Broadcasts on Your PC with Windows 11 and TuneIn</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-transform-your-mpeg4-videos-into-mpeg2-format-for-windows-users/"><u>Easy Steps: Transform Your MPEG4 Videos Into MPEG2 Format for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y27s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y27s Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme Narzo 60 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-x50iplus-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor X50i+? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-the-art-of-closing-applications-a-comprehensive-guide-for-your-kindle-fire-device/"><u>Mastering the Art of Closing Applications: A Comprehensive Guide for Your Kindle Fire Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-vos-fichiers-videos-mp4-en-mp3-gratuitement-sur-internet-solutions-de-movavi/"><u>Transformez Vos Fichiers Vidéos MP4 en MP3 Gratuitement Sur Internet - Solutions De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44kw44op44ov44kj44od44kv44k544ky44o844og5yuv55s757ch5y2y6yyy55s744ks44kk44oj/"><u>マルチグラフィックスゲーム動画簡単録画ガイド</u></a></li>
 </ul></div>
 

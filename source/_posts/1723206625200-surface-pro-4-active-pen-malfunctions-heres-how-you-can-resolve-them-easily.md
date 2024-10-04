@@ -1,7 +1,7 @@
 ---
 title: Surface Pro 4 Active Pen Malfunctions? Here's How You Can Resolve Them Easily!
-date: 2024-09-24T05:28:13.027Z
-updated: 2024-09-28T22:28:29.874Z
+date: 2024-09-28T10:30:55.375Z
+updated: 2024-10-03T17:59:02.381Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -57,28 +64,15 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
@@ -86,10 +80,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -105,13 +99,6 @@ Follow these:
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -137,6 +124,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -156,15 +150,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-explore-laughter-tears-fusion-the-best-ig-accounts-ever/"><u>[Updated] In 2024, Explore Laughter-Tears Fusion The Best IG Accounts Ever</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-win-11-two-approaches-to-reactivate-photo-viewer-functionality/"><u>[Updated] In 2024, Win 11 Two Approaches to Reactivate Photo Viewer Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/forge-partnerships-from-initial-contact-to-final-deal-on-youtube-for-2024/"><u>Forge Partnerships From Initial Contact to Final Deal on Youtube for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-the-basic-anti-cheat-glitch-in-apex-legends/"><u>Quick Fixes for the Basic Anti-Cheat Glitch in Apex Legends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-pc-using-built-in-tools-a-deep-dive-into-windows-10s-sfc-and-dism-features/"><u>Revive Your PC Using Built-In Tools: A Deep Dive Into Windows 10'S SFC and DISM Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/securely-and-swiftly-acquiring-your-youtube-watch-lists-for-2024/"><u>Securely and Swiftly Acquiring Your YouTube Watch Lists for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-airpods-and-windows-11-connectivity-woes-expert-advice-from-2024/"><u>Solve Your AirPods and Windows 11 Connectivity Woes: Expert Advice From 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-repair-failed-ethernet-connections-in-windows-10-and-7-systems/"><u>Step-by-Step Solution to Repair Failed Ethernet Connections in Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-best-text-animation-software-with-motion-tracking/"><u>The Best Text Animation Software with Motion Tracking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlighted-14-examples-of-motion-texts/"><u>[New] Highlighted 14 Examples of Motion Texts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>[Updated] In 2024, Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premium-opening-scenes-top-16-youtube-intros-for-popularity-for-2024/"><u>[Updated] Premium Opening Scenes Top 16 YouTube Intros for Popularity for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-proactive-measures-for-validating-tiktok-copyright-status/"><u>[Updated] Proactive Measures for Validating TikTok Copyright Status</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>[Updated] Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-what-if-the-reason-behind-apples-decision-against-intelligent-features-in-classic-iphones/"><u>Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-upgrade-or-install-the-macos-sierra/"><u>In 2024, How to Upgrade or Install the macOs Sierra</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-walkthrough-recording-footage-with-chrome-browser/"><u>In-Depth Walkthrough: Recording Footage with Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iphoneipadfc2/"><u>IPhone/iPadでのFC2動画の安全なダウンロード・セキュリティ対策つき保存方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-seamless-mov-to-flv-file-changes-for-enhanced-video-playback/"><u>Master the Art of Seamless MOV to FLV File Changes for Enhanced Video Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-conversion-and-resizing-techniques-using-handbrake-detailed-how-to-guide/"><u>Mastering Video Conversion & Resizing Techniques Using HandBrake – Detailed How-To Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-oma-windowsmac202/"><u>MP3ファイル変換ソフトウェア 「OMA」の推奨版 『Windows/Mac用』に最適化しました202</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3wma-windows-media-player/"><u>MP3ファイルからWMAへの効率的な変換方法 - Windows Media Playerで使えるテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpeg-ts-to-mp4-conversion-premium-quality-techniques-for-windows-11-users-top-11-recommended-methods/"><u>MPEG-TS to MP4 Conversion: Premium Quality Techniques for Windows 11 Users - Top 11 Recommended Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-mov-file-formats-for-windows-and-mac-users-top-5-techniques-explained/"><u>Rotating Mov File Formats for Windows & Mac Users: Top 5 Techniques Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-non-playable-tweets-a-comprehensive-guide/"><u>Solving the Issue of Non-Playable Tweets: A Comprehensive Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-for-flawless-transfer-of-mmc-productions-to-vimeo/"><u>Strategies for Flawless Transfer of MMC Productions to Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-6-best-disney-and-sony-dvd-decryption-tools-reviewed-unlock-your-collectibles/"><u>Top 6 Best Disney & Sony DVD Decryption Tools Reviewed - Unlock Your Collectibles</u></a></li>
 </ul></div>
 

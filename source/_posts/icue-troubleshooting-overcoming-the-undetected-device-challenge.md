@@ -1,7 +1,7 @@
 ---
 title: ICUE Troubleshooting - Overcoming the Undetected Device Challenge
-date: 2024-09-27T03:09:01.662Z
-updated: 2024-09-28T16:15:58.666Z
+date: 2024-09-27T04:33:44.453Z
+updated: 2024-10-04T04:40:22.791Z
 tags:
   - win11
   - win10
@@ -58,40 +58,13 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -115,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -126,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -151,14 +125,22 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -167,14 +149,22 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -198,24 +188,21 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-achieve-visual-dominance-with-facebooks-full-screen-capability/"><u>[New] 2024 Approved Achieve Visual Dominance with Facebook's Full-Screen Capability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-bad-image-error-on-windows-1110/"><u>[Solved] Bad Image Error on Windows 11/10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-ps1-game-emulation-software-on-your-pc/"><u>[Updated] 2024 Approved Best PS1 Game Emulation Software on Your PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-tip-unveiling-the-best-10-free-image-vaults/"><u>[Updated] Pro Tip Unveiling the Best 10 Free Image Vaults</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ideal-4k-recorder-software-selections/"><u>2024 Approved Ideal 4K Recorder Software Selections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-heat-issues-on-the-hp-spectre-x360-expert-advice-and-fixes/"><u>Dealing with Heat Issues on the HP Spectre X360: Expert Advice & Fixes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/digital-content-dissection-audiovisual-media-battleground-for-2024/"><u>Digital Content Dissection Audiovisual Media Battleground for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-tools-for-fixing-windows-11-understanding-sfcdism-utilities/"><u>Effective Tools for Fixing Windows 11: Understanding SFC/DISM Utilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highest-quality-images-in-4k-with-these-cameras/"><u>Highest Quality Images in 4K with These Cameras</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-gionee-f3-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Gionee F3 Pro PIN</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/latest-techniques-to-eliminate-latency-problems-in-fallout-4/"><u>Latest Techniques to Eliminate Latency Problems in Fallout 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-guide-how-to-enable-microsoft-pdf-printing-in-windows-11/"><u>Resolved Guide: How to Enable Microsoft PDF Printing in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-game-performance-with-x3daudio17dll-fixes/"><u>Restore Game Performance with X3DAudio1_7.dll Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionized-gaming-pubg-plus-dxgidll-aligned/"><u>Revolutionized Gaming: PUBG + Dxgi.dll Aligned</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-and-intuitive-epubor-ebook-authoring-tool-quick-guide-to-creating-digital-books/"><u>Simple & Intuitive EPUBOR eBook Authoring Tool - Quick Guide to Creating Digital Books</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-overcoming-non-responsive-file-explorer-problems-on-windows-11-systems/"><u>Solved: Overcoming Non-Responsive File Explorer Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-video-files-into-idvd-quality-mp4s-using-free-macx-tool/"><u>Transform Your Video Files Into iDVD Quality MP4s Using Free MacX Tool!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-what-to-do-when-you-see-errcachemiss-on-google-chrome/"><u>Troubleshooting: What To Do When You See 'ERR_CACHE_MISS' On Google Chrome</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] 2024 Approved Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-xbox-game-recording-techniques-for-gamers/"><u>[New] In 2024, Xbox Game Recording Techniques for Gamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-creature-companions-best-animal-titles-on-android/"><u>[Updated] 2024 Approved Creature Companions Best Animal Titles on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-repair-hp-laptops-camera-in-windows-11/"><u>A Step-by-Step Guide to Repair HP Laptop's Camera in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/free-guide-to-capturing-windows-3-quick-steps/"><u>Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdi-bus-system-error-driver-compatibility-issue-leads-to-loss-of-memory-integrity/"><u>FTDI Bus System Error: Driver Compatibility Issue Leads to Loss of Memory Integrity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-system-running-again-expert-tips-for-fixing-windows-10-boot-issues-after-updates/"><u>Get Your System Running Again: Expert Tips for Fixing Windows 10 Boot Issues After Updates</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hora-y-segundo-un-curso-inicial-en-espanol/"><u>Hora Y Segundo: Un Curso Inicial en Español</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-pdf-solutions-chatgpts-fastest-plugin-choices/"><u>Innovative PDF Solutions: ChatGPT's Fastest Plugin Choices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-corporate-governance-on-your-windows-pc-a-guide-to-controlled-settings/"><u>Navigating Corporate Governance on Your Windows PC: A Guide to Controlled Settings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-internet-explorer-failed-to-connect-errors-easily-and-quickly/"><u>Overcoming Microsoft Internet Explorer Failed to Connect Errors Easily and Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-28-a-step-by-step-guide-for-device-manager-in-windows/"><u>Troubleshooting Code 28 – A Step-by-Step Guide for Device Manager in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opaque-initialization-screens-on-monster-hunter-world-starts/"><u>Troubleshooting Opaque Initialization Screens on Monster Hunter: World Starts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-win-11-gaming-top-seven-strategies-for-gamers/"><u>Unlock the Secrets of Win 11 Gaming: Top Seven Strategies for Gamers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-5-windows-10-sound-engineers-optimal-audio-blending-experience/"><u>Updated 2024 Approved Top 5 Windows 10 Sound Engineers Optimal Audio Blending Experience</u></a></li>
 </ul></div>
 

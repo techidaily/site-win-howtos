@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Quick Solutions for a Nonfunctional Lenovo Fingerprint Sensor"
-date: 2024-09-21T18:23:51.762Z
-updated: 2024-09-22T19:26:20.379Z
+date: 2024-10-03T11:40:11.674Z
+updated: 2024-10-04T11:11:02.521Z
 tags:
   - win11
   - win10
@@ -50,19 +50,6 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -73,16 +60,10 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
@@ -90,14 +71,28 @@ If all your USB ports aren’t working, try Step 2, below.
 5. Click the**Power Management** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
@@ -120,6 +115,14 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
@@ -142,5 +145,23 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-10-must-have-strategies-for-podcast-visuals-excellence-for-2024/"><u>[New] 10 Must-Have Strategies for Podcast Visuals Excellence for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-capture-and-organize-essential-steps-for-recording-fb-video-calls/"><u>[New] In 2024, Capture & Organize Essential Steps for Recording FB Video Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mobile-moba-elite-androids-top-picks/"><u>[New] Mobile MOBA Elite Android's Top Picks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-elite-voice-recorders-for-apple-devices-unveiled/"><u>[Updated] 5 Elite Voice Recorders for Apple Devices Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audacity-guide-creating-fluid-audio-crossfade/"><u>Audacity Guide Creating Fluid Audio Crossfade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205592094-constraint-b-each-historical-event-chosen-for-the-footnotes-should-not-have-been-commonly-referenced-in-mainstream-media/"><u>Constraint B: Each Historical Event Chosen for the Footnotes Should Not Have Been Commonly Referenced in Mainstream Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-data-management-gpt-meets-google-apps/"><u>Empowering Data Management: GPT Meets Google Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-device-descriptor-request-failed-successful-usb-fixes-unveiled/"><u>Fix Your 'Device Descriptor Request Failed' - Successful USB Fixes Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-windows-11-machine-from-spontaneously-booting-up/"><u>How to Stop Your Windows 11 Machine From Spontaneously Booting Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-update-and-solve-device-driver-mismatch-issues/"><u>How to Update and Solve Device Driver Mismatch Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/next-level-screenrecord-a-critical-evaluation-for-2024/"><u>Next-Level ScreenRecord A Critical Evaluation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hurdles-with-microsoft-store-a-fix-it-approach/"><u>Overcoming Hurdles with Microsoft Store: A Fix-It Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-device-drivers-detected-error-during-windows-groove-installation/"><u>Resolving 'No Device Drivers Detected' Error During Windows Groove Installation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-deleting-your-whatsapp-conversations-and-messages/"><u>Step-by-Step Guide: Deleting Your WhatsApp Conversations & Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-overcoming-the-windows-update-issue-error-0x8024002e/"><u>Step-by-Step Solutions for Overcoming the Windows Update Issue (Error 0X8024002E)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mystery-of-aether-defining-its-identity-and-pathways-to-participation/"><u>Unlocking the Mystery of Aether - Defining Its Identity and Pathways to Participation</u></a></li>
+</ul></div>
 

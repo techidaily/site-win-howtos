@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Diagnostics Policy Service Is Offline – Here’s What To Do
-date: 2024-09-24T21:18:28.046Z
-updated: 2024-09-28T22:22:09.826Z
+date: 2024-10-03T03:40:01.962Z
+updated: 2024-10-04T03:18:03.885Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
@@ -69,10 +76,10 @@ Follow these steps：
 6) Run the Network Diagnostics and see if it goes well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
@@ -98,20 +105,19 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Reinstall your network adapters
 
@@ -128,22 +134,15 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -158,6 +157,13 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -184,17 +190,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-today-changes-and-what-they-mean-for-you/"><u>[New] 2024 Approved Facebook Today Changes and What They Mean for You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-best-text-effects-for-your-video/"><u>[Updated] Top 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-changed-network-environment-warning-in-windows-10-easy-guide/"><u>Fix Changed Network Environment Warning in Windows 10 Easy Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-z50-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Z50 Ultra FRP Locks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-rectify-silent-streams-with-obs/"><u>How to Rectify Silent Streams with OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-intriguing-book-trailers-on-display/"><u>In 2024, Intriguing Book Trailers on Display</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-track-lost-friends-on-instagram/"><u>In 2024, Track Lost Friends on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-an-unresponsive-microphone-on-your-pc-or-macbook/"><u>Solve the Problem of an Unresponsive Microphone on Your PC or MacBook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/surviving-power-cuts-with-innovative-portable-energy-storage-a-real-life-testimony/"><u>Surviving Power Cuts with Innovative Portable Energy Storage - A Real-Life Testimony</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unblocked-horizons-wows-breakthrough-in-full-spectrum-3d-graphics/"><u>Unblocked Horizons: WoW's Breakthrough in Full-Spectrum 3D Graphics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-a-winning-sponsorship-proposal-for-youtube-creators/"><u>[Updated] Crafting a Winning Sponsorship Proposal for Youtube Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-techniques-for-gopro-users/"><u>[Updated] Cutting-Edge Techniques for GoPro Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-the-best-steadicams-for-top-notch-dslr-filming/"><u>[Updated] Expert Picks The Best Steadicams for Top-Notch DSLR Filming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[Updated] In 2024, How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprendre-le-transfert-dappareil-ios-comment-deplacer-vos-fichiers-de-liphone-a-un-autre-modele-ou-vers-votre-pcandroide/"><u>Comprendre Le Transfert D'appareil iOS - Comment Déplacer Vos Fichiers De L’iPhone À Un Autre Modèle Ou Vers Votre PC/Androïde</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-methods-for-converting-ebook-formats-from-kf8-to-high-quality-pdf-documents/"><u>Easy Methods for Converting eBook Formats From KF8 to High-Quality PDF Documents</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display/"><u>In 2024, Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock ZTE Nubia Z60 Ultra Phone Without Password?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-insomnia-for-your-windows-pc/"><u>No More Insomnia for Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11s-bluetooth-connectivity-glitches-expert-advice/"><u>Overcome Windows 11'S Bluetooth Connectivity Glitches: Expert Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professioneel-tiff-naar-jpeg-konvertor-meest-gewone-convertisseur-voor-windows-and-mac/"><u>Professioneel TIFF Naar JPEG Konvertor: Meest Gewone Convertisseur Voor Windows & Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-right-click-malfunctions-in-windows-11-a-step-by-step-guide/"><u>Resolving Mouse Right-Click Malfunctions in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/script-rejects-command/"><u>Script Rejects Command</u></a></li>
 </ul></div>
 

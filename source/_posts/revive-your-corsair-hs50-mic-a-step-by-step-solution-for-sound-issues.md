@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Corsair HS50 Mic: A Step-by-Step Solution for Sound Issues"
-date: 2024-09-26T05:31:03.104Z
-updated: 2024-09-29T04:52:38.541Z
+date: 2024-09-27T04:28:54.078Z
+updated: 2024-10-04T04:45:29.285Z
 tags:
   - win11
   - win10
@@ -42,11 +42,31 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Why does the error code CE-34878-0 occur?**
 
  This is one of the most common error codes you may get when you’re playing the PS4 games, and sometimes it may also display as **CE-36329-3** . This error occurs because the games or applications crash. Generally speaking, **it is caused by the PS4 corrupted data or the system software issues** . You can try the solutions below to solve this problem step by step!
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 1: Restart the PS4 firmware to fix the error CE-34878-0**
 
@@ -63,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
@@ -102,15 +122,22 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57149ea1bbd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select**Saved Data in System Storage** if you want to save it in your PS4 system, or you can select**Saved Data on USB Storage Device** in you have inserted the USB drive into your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57150967e5e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Follow the instructions on your screen to finish.
 
@@ -123,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
  3) Press the**Options** **button** and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570f4a2c0e8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) **Restart** your PS4.
 
@@ -163,13 +183,6 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select**Update** if there is available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
 
  4) Wait for the update to download. After downloading, you’ll see the popup notification to remind you.
@@ -182,13 +195,6 @@ This method works if you are playing games on the disc.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Put the original HDD to fix the error CE-34878-0**
 
  If you have upgraded your Hard Disc Drive (HDD) recently, it may also impact the game performance. So you can try to install the original HDD back in your PS4 to solve this problem. Before you reinstall the original HDD, you may need to back the data currently saved in your PS4 first.
@@ -200,13 +206,6 @@ This method works if you are playing games on the disc.
  2) Go to**Settings** \>**System** \>**Back Up and Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f302df44.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Confirm which data you’d like to back up. If you choose not to back up applications, you’ll need to download or reinstall them when/if you eventually restore with the back up you’re creating.
 
@@ -232,6 +231,13 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
@@ -243,13 +249,6 @@ This method works if you are playing games on the disc.
 5) Try the games to see if it works now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Disconnect the PS camera to fix the error CE-34878-0**
 
@@ -264,6 +263,13 @@ This method works if you are playing games on the disc.
  3) Go to PS4**Settings** \>**User** \>**Login** **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57227821911.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Uncheck**Enable Face Recognition** .
 
@@ -301,20 +307,24 @@ This method works if you are playing games on the disc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[New] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-select-websites-propelling-youtube-media/"><u>[New] Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlining-your-gaming-diary-overwatch-video-documentation/"><u>[Updated] In 2024, Streamlining Your Gaming Diary Overwatch Video Documentation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-veiled-realities-an-insight-into-story-viewers-world/"><u>2024 Approved Veiled Realities An Insight Into Story Viewers' World</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-7-streaming-tools-for-mac-users/"><u>Best 7 Streaming Tools for Mac Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dota-2-fix-overcome-change-rendering-api-error-2024-in-a-flash/"><u>Dota 2 Fix: Overcome 'Change Rendering API' Error 2024 in a Flash!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-t2-pro-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo T2 Pro 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-fix-windows-crashing-issue-error-0xc00000e9-explained-and-resolved/"><u>Expert Advice: How to Fix Windows Crashing Issue - Error 0Xc00#000e9 Explained and Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210759329-how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-8-ultimate-online-photo-mosaic-compiler/"><u>In 2024, 8 Ultimate Online Photo Mosaic Compiler</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-google-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Google FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-crashes-in-oddworld-soulstorm-on-windows-computers/"><u>Resolving Crashes in Oddworld: Soulstorm on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-touchpad-problems-effective-solutions-for-scroll-functionality/"><u>Resolving Windows 11 Touchpad Problems - Effective Solutions for Scroll Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-logitech-scroll-wheel/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Logitech Scroll Wheel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212125458-warframe-update-problems-heres-how-you-can-successfully-resolve-them/"><u>Warframe Update Problems? Here's How You Can Successfully Resolve Them</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>[New] In 2024, The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-brilliance-with-the-q500-drone/"><u>2024 Approved Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-phones-listing-numbers-not-names-tips-for-fixing-your-devices-messaging-glitch/"><u>Dealing with Phones Listing Numbers, Not Names - Tips for Fixing Your Device's Messaging Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-methods-for-repairing-broken-connections-to-remote-servers/"><u>Effective Methods for Repairing Broken Connections to Remote Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-the-cache-miss-errcachemiss-error-in-chrome-browser/"><u>Effective Solutions for Overcoming the Cache Miss (ERR_CACHE_MISS) Error in Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-224003-solved-troubleshooting-non-playable-video-files/"><u>Error 224003 Solved: Troubleshooting Non-Playable Video Files</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ideal-iphone-picks-to-level-up-your-gaming-sessions/"><u>Ideal iPhone Picks to Level Up Your Gaming Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fixes-restoring-functionality-to-your-lenovos-fingerprint-identification-system/"><u>Mastering the Fixes: Restoring Functionality to Your Lenovo’s Fingerprint Identification System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-installation-process-of-kodi-software-on-windows-nk-11-systems/"><u>Mastering the Installation Process of Kodi Software on Windows Nk 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-solutions-for-renderer-setup-failures-in-2eighty-one-technology-fixes/"><u>New Solutions for Renderer Setup Failures in 2Eighty-One Technology Fixes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ack-in-reverse-the-ultimate-youtube-playlist-technique-for-2024/"><u>Playback in Reverse The Ultimate YouTube Playlist Technique for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-errssl-protocol-issue-in-chrome/"><u>Resolving the 'ERR_SSL' Protocol Issue in Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-corsair-hs50-headset-mic-expert-guides-to-restore-audio-output/"><u>Reviving Your Corsair HS50 Headset Mic: Expert Guides to Restore Audio Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-when-your-device-gets-stuck-at-the-boot-screen/"><u>Step-by-Step Fixes When Your Device Gets Stuck at the Boot Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/synching-youtube-songs-to-video-frameworks/"><u>Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easy-way-to-detach-and-delete-epic-games-launcher-installer-on-windows-and-mac/"><u>The Easy Way to Detach and Delete Epic Games Launcher Installer on Windows and Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a56s-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A56s 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-windows-711-sound-glitches-with-proven-fixes/"><u>Troubleshoot & Repair Windows 7/11 Sound Glitches with Proven Fixes!</u></a></li>
 </ul></div>
 

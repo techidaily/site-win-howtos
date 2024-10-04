@@ -1,7 +1,7 @@
 ---
 title: Noisy PlayStation 4? Here's How You Can Silence the Racket
-date: 2024-09-17T22:01:49.187Z
-updated: 2024-09-22T18:31:19.706Z
+date: 2024-09-27T01:57:02.268Z
+updated: 2024-10-04T15:01:48.959Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Place your PS4 fan in a ventilated area**
 
  When your PS4 console is getting hot, the fan kicks in. If your PS4 is too hot, the fan spins and very likely gets much louder than normal. If there’re something on or around your PS4 console,**move them away** . Then wait for a while to see if your console cools down and gets quiet.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/ps4-2326616_960_720.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Turn your PS4 console to vertical
@@ -55,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c6bb526bc3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If unfortunately, after the two quick fixes above, your PS4 still keeps loud, let’s move on to the clean-out solution. As we mentioned above, your loud PS4 fan is probably caused by the full-of dust itself. So you need to clean out your PS4 fan in order to quiet it.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a can of compressed air
 
@@ -87,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 2. Remove the four screws on the back of your PS4 console.  
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should then see its fan, then remove the dust covering on the fan. Just clean out as much of the dust as you can.
@@ -122,5 +130,24 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-comprehensive-guide-to-idevices-recording-tools/"><u>[New] Comprehensive Guide to iDevices Recording Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-potential-with-top-igtv-creators/"><u>[New] In 2024, Unleash Your Potential with Top IGTV Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-microsoft-display-adapter-to-windows-10-successfully-a-comprehensive-fix/"><u>Connect Microsoft Display Adapter to Windows 10 Successfully – A Comprehensive Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nubia-red-magic-8s-proplus-device-sim-by-drfone-android/"><u>Easily Unlock Your Nubia Red Magic 8S Pro+ Device SIM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-visuals-on-windows-10-a-guide-to-resolving-pixelated-characters-and-text/"><u>Enhance Visuals on Windows 10: A Guide to Resolving Pixelated Characters & Text</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-software-on-your-pc/"><u>How to Install the Latest Epson XP-640 Printer Software on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-walkthrough-for-resolving-hard-drive-issues-using-chkdsk-in-windows/"><u>In-Depth Walkthrough for Resolving Hard Drive Issues Using Chkdsk in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-connectivity-problems-with-these-simple-fixes/"><u>Resolve Your Windows 11 Bluetooth Connectivity Problems with These Simple Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-troubleshooting-unresponsive-google-chrome-expert-advice-and-solutions/"><u>Successfully Troubleshooting Unresponsive Google Chrome: Expert Advice & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackle-common-dll-errors-proven-fixes-for-windows-users-expert-guide/"><u>Tackle Common Dll Errors: Proven Fixes for Windows Users [Expert Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixed-video-file-cannot-be-displayed-error-code-224003/"><u>Troubleshooting Guide for Fixed 'Video File Cannot Be Displayed' Error (Code #224003)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-device-detection-issues-in-windows-10s-bluetooth/"><u>Troubleshooting Guide: Fixing Device Detection Issues in Windows 10'S Bluetooth</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-12r-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus 12R to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-frozen-steam-software-enhancement-with-these-simple-tips/"><u>Unstick Your Frozen Steam Software Enhancement with These Simple Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/zoom-in-to-speed-boosting-video-playback-mobileonline-for-2024/"><u>Zoom in to Speed Boosting Video Playback (Mobile/Online) for 2024</u></a></li>
+</ul></div>
 

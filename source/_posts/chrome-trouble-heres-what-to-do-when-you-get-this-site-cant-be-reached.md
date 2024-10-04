@@ -1,7 +1,7 @@
 ---
 title: Chrome Trouble? Here's What to Do When You Get 'This Site Can't Be Reached'
-date: 2024-09-23T03:10:37.436Z
-updated: 2024-09-28T17:39:52.091Z
+date: 2024-10-03T09:42:06.316Z
+updated: 2024-10-04T11:20:03.481Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  You don’t have to try them all; just work down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Possible causes for error code 0x800f0922
 
  There are plenty of potential causes leading to this error code. Here’s a list that might be responsible for triggering 0x800f0922:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  We provide corresponding solutions below aiming to solve this issue. Read on and have a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 Run Windows Update troubleshooter
 
  Windows troubleshooter is a built-in feature to find and fix things not working on your PC. If you get an error code while downloading and installing Windows update, you can always turn to the Update Troubleshooter for help. Here’s how:
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 2. Click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
@@ -84,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-4.jpg)
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
 
@@ -99,6 +99,14 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 2. **Plug** the router back into the power supply. Wait for the network machine to fully boot up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 3. Test your internet connection by browsing any website. If the browsing speed is slow, try to use a wired connection instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
@@ -114,14 +122,22 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
@@ -163,10 +179,16 @@ To use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer for the changes to take effect.
@@ -181,13 +203,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you fail to run an SFC scan or it doesn’t help the issue, run a**DISM** (Deployment Image Servicing and Management) tool prior to running SFC. DISM is a command-line tool that can be used to fix system problems.
 
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
@@ -198,14 +213,14 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
 
- If your problem hasn’t been solved yet, continue to the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your problem hasn’t been solved yet, continue to the next solution.
 
 ## Fix 7 Run anti-virus
 
@@ -218,13 +233,6 @@ Restart your computer for the changes to take effect.
 2. Select**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
@@ -243,10 +251,10 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  JustAnswer provides 24/7 live support where you can get personalized instructions in minutes. Simply specify your computer issue and **[ask an expert](https://tools.techidaily.com/drivereasy/download/)**  for help.
@@ -274,24 +282,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[New] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>[Updated] In 2024, Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-solutions-for-disordering-your-youtube-queue/"><u>[Updated] Speedy Solutions for Disordering Your YouTube Queue</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/all-about-fitbit-inspire-hr-review-a-wristband-for-persistent-workout-companionship-and-vital-statistics-tracking/"><u>All About Fitbit Inspire HR Review: A Wristband for Persistent Workout Companionship and Vital Statistics Tracking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/apex-legends-bug-fix-overcoming-basic-cheat-protection-errors/"><u>Apex Legends Bug Fix: Overcoming Basic Cheat Protection Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connectivity-solutions-how-to-address-and-fix-remote-server-connection-failures/"><u>Connectivity Solutions: How to Address and Fix Remote Server Connection Failures</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-8-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 8 Pro FRP Locks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-capturando-sonido-perfecto-en-tu-mac-con-software-de-audio-pro-gratis/"><u>Guía Paso a Paso: Capturando Sonido Perfecto en Tu Mac Con Software De Audio Pro Gratis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-microsoft-visual-cplusplus-2010-redistributable-error-vcruntime140dll-not-found-fixed/"><u>Guide to Correcting Microsoft Visual C++ 2010 Redistributable Error: VCRUNTIME140.dll Not Found [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-disabling-your-laptops-touchpad-whenever-you-connect-a-mouse-on-windows-10/"><u>Guide to Disabling Your Laptop's Touchpad Whenever You Connect a Mouse on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-7-startup-and-fix-boot-lag/"><u>How to Speed Up Your Windows 7 Startup and Fix Boot Lag</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-tearing-in-valorant-expert-advice-for-crystal-clear-visuals/"><u>No More Tearing in Valorant: Expert Advice for Crystal Clear Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-obs-screen-issue-solutions-for-a-crisp-clear-video-output/"><u>Overcoming OBS Screen Issue - Solutions for a Crisp, Clear Video Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-to-resolve-the-troublesome-windows-update-error-0x80070002/"><u>Simple Steps To Resolve The Troublesome Windows Update Error 0X80070002</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/starting-from-just-1099-acer-dell-hp-and-lenovo-launch-snapdragon-x-windows-copilot-pcs-with-extended-multi-day-battery/"><u>Starting From Just $1,099: Acer, Dell, HP & Lenovo Launch Snapdragon X Windows Copilot PCs With Extended Multi-Day Battery!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-11-tips-and-fixes/"><u>Troubleshooting Unresponsive File Explorer in Windows 11: Tips and Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-by-drfone-android/"><u>Universal Unlock Pattern for Infinix</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-team-productivity-with-snap-camera-integration/"><u>[New] 2024 Approved Maximizing Team Productivity with Snap Camera Integration</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>[Updated] 2024 Approved Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-funnyface-creator/"><u>[Updated] FunnyFace Creator</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exceptional-hd-video-documentation-gear/"><u>2024 Approved Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-n55-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo N55 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/edit-like-a-pro-explore-the-best-10-photo-enhancement-applications-for-desktops-and-laptops/"><u>Edit Like a Pro: Explore The Best 10 Photo Enhancement Applications for Desktops & Laptops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elden-ring-still-unavailable-heres-what-you-need-to-know/"><u>Elden Ring Still Unavailable? Here's What You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-how-to-fix-the-destiny-eby-game-initialization-glitch/"><u>Fixed: How to Fix the Destiny Eby Game Initialization Glitch?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flawless-viewing-master-the-techniques-to-eliminate-kodis-buffering-delays/"><u>Flawless Viewing - Master the Techniques to Eliminate Kodi's Buffering Delays</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-instruction-saving-your-photos-as-youtube-channel-thumbnails-for-2024/"><u>Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-hp-accelerometer-issue-in-windows/"><u>How to Fix HP Accelerometer Issue in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-error-on-your-ps4-a-complete-guide/"><u>How to Fix the CE-34878-0 Error on Your PS4: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-valorant-glitches-startup-remedy/"><u>Quick Fix for Valorant Glitches: Startup Remedy</u></a></li>
 </ul></div>
 

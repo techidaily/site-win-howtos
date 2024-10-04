@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failures in USB Devices When Descriptors Can’t Be Read [Problem Solved]
-date: 2024-09-22T21:55:35.665Z
-updated: 2024-09-28T21:30:58.786Z
+date: 2024-09-27T05:43:19.912Z
+updated: 2024-10-03T16:25:47.451Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ the picture was taken by: Article\_86
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
@@ -63,10 +63,10 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
@@ -88,27 +88,7 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -118,15 +98,16 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
-4. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
+4. Click **Clear data** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -141,9 +122,25 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
@@ -184,24 +181,19 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat-for-2024/"><u>[New] Guide to Overcoming Mobile Video Sending Problems in FB Chat for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-say-no-to-unsolicited-content-on-insta/"><u>[New] In 2024, Say No to Unsolicited Content on Insta</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>[New] Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unveiling-lgs-cutting-edge-monitor-technology-in-detail/"><u>[Updated] 2024 Approved Unveiling LG’s Cutting-Edge Monitor Technology in Detail</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banishing-deceptive-messages-the-ultimate-solution-for-removing-the-notorious-google-chrome-error/"><u>Banishing Deceptive Messages: The Ultimate Solution for Removing the Notorious Google Chrome Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-and-solve-understanding-and-rectifying-error-87-while-loading-libraries/"><u>Decode and Solve: Understanding and Rectifying Error 87 While Loading Libraries</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-failure-in-creating-a-directx-graphics-processing-unit-gpu/"><u>Fixing the Issue of Failure in Creating a DirectX Graphics Processing Unit (GPU)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-silent-issue-ultimate-guide-to-restoring-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Ultimate Guide to Restoring Audio in Forza Horizon 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-apply-the-feature-update-on-windows-11-v1607/"><u>How to Successfully Apply the Feature Update on Windows 11 V1607</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-reno-8t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo Reno 8T Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-complete-guide-to-youtubes-movie-maker-features/"><u>In 2024, The Complete Guide to YouTube's Movie Maker Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-in-writing-with-innovative-ai-tools-the-top-8-picks/"><u>Maximizing Productivity in Writing with Innovative AI Tools - The Top 8 Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-data-integrity-issues-with-cyclic-redundancy-check-solutions/"><u>Overcoming Data Integrity Issues with Cyclic Redundancy Check Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-buttons-on-hp-laptops-expert-advice/"><u>Quick Fixes for Non-Responsive Buttons on HP Laptops: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-stuck-taskbars-on-windows-11-a-comprehensive-guide-to-effective-solutions/"><u>Resolving Stuck Taskbars on Windows 11: A Comprehensive Guide to Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-automatic-startup-issues-with-your-windows-11-computer/"><u>Understanding Automatic Startup Issues with Your Windows 11 Computer</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-most-popular-text-motion-tracking-software-2023-update/"><u>Updated 2024 Approved The Most Popular Text Motion Tracking Software 2023 Update</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/windows-11-the-ultimate-screen-grabber-collection/"><u>Windows 11 The Ultimate Screen Grabber Collection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-initial-cinematic-recording-dissection-for-2024/"><u>[Updated] Initial Cinematic Recording Dissection for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[Updated] Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-site-interactions-with-cookiebot-technology-integration/"><u>Boosting Site Interactions with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-your-epson-wf-2750-setup-free-driver-downloads-for-seamless-printing/"><u>Complete Your Epson WF-2750 Setup: Free Driver Downloads for Seamless Printing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028924657-dvdwindows-11/"><u>DVDコピーに最適:Windows 11で簡単無料取り込み方法</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-note-30-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Note 30 Pro.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ringtune-guide-downloading-and-cutting-tamil-melodies/"><u>In 2024, RingTune Guide Downloading and Cutting Tamil Melodies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026892367-mp3/"><u>MP3への変換ガイド：グルーヴミュージックの曲を保存する</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027928878-windows-1011/"><u>Windows 10/11 ユーザ向けの効果的な動画コンテンツ圧縮戦略: 低容量化方法と苦境を切り開く代替手段</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wise-owls-ultimate-general-knowledge-hubs/"><u>Wise Owls' Ultimate General Knowledge Hubs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wonderfoxs-wayward-pages-recovered-no-more-not-found-errors-here/"><u>WonderFox's Wayward Pages Recovered - No More 'Not Found' Errors Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026901890-youtube/"><u>YouTubeビデオのブラウザからダウンロード手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029025353-youtube/"><u>YouTubeを表示せずに視聴するための代替手段</u></a></li>
 </ul></div>
 

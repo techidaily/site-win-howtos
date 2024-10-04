@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Surface Pro 4 Stylus Issues"
-date: 2024-09-15T22:05:16.389Z
-updated: 2024-09-22T22:05:28.810Z
+date: 2024-10-03T09:22:12.955Z
+updated: 2024-10-04T01:49:39.547Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -104,10 +111,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
@@ -124,6 +131,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
@@ -136,13 +151,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -154,20 +162,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -189,5 +197,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-panning-top-techniques-for-cricket-live-views/"><u>[Updated] Perfect Panning Top Techniques for Cricket Live Views</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-snatching-solution-for-2024/"><u>[Updated] Screen Snatching Solution for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>2024 Approved Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206076732-fix-hp-keyboard-issues-fast-solutions-for-unresponsive-laptop-buttons/"><u>Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-faulty-usb-connection-unknown-device-port-reset-failure-in-windows-10/"><u>How to Repair a Faulty USB Connection (Unknown Device - Port Reset Failure) in Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Phones with/without a PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/popular-photographs-their-narratives-unveiled-for-2024/"><u>Popular Photographs Their Narratives Unveiled for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-10-setup-issues-overcoming-initialization-problems-with-ease/"><u>Solving Windows 10 Setup Issues: Overcoming Initialization Problems with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-take-if-your-pc-runs-into-issues-with-windows-11/"><u>Steps to Take if Your PC Runs Into Issues with Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-wacom-stylus-on-windows-11-or-windows-10/"><u>Troubleshooting Tips: Fixing a Non-Functional Wacom Stylus on Windows 11 or Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208077072-ultimate-strategy-eradicate-your-livekernelevent-144-issues-today/"><u>Ultimate Strategy: Eradicate Your LiveKernelEvent 144 Issues Today!</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windowss-0x80070490-update-error-comprehensive-fix-strategies/"><u>Winning Against Windows's 0X80070490 Update Error: Comprehensive Fix Strategies</u></a></li>
+</ul></div>
 

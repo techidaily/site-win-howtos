@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Oddworld: Soulstorm PC Game Crashes - Solved"
-date: 2024-09-16T01:34:49.358Z
-updated: 2024-09-22T18:35:33.539Z
+date: 2024-10-03T04:32:27.882Z
+updated: 2024-10-04T14:21:26.149Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ Quick Fix:**Install & update drivers automatically**
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust video cache size with One nation
@@ -90,16 +90,24 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
-5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
+
 6. Restart Kodi and check the buffering problem is still there or not.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Clear Kodi cache with One nation
 
@@ -108,23 +116,24 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
@@ -145,5 +154,20 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[New] 2024 Approved Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[Updated] How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehve-guide-to-download-and-install-dell-mouse-compatible-driver-successfully/"><u>Comprehve Guide to Download & Install Dell Mouse Compatible Driver Successfully</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/explore-the-leading-audio-editors-a-windows-and-mac-comparison-guide/"><u>Explore the Leading Audio Editors A Windows & Mac Comparison Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-file-access-denied-problem/"><u>How to Fix Steam File Access Denied Problem</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-vehicular-vitality-ranking-10-top-turbo-mods-for-os-x-and-windows/"><u>In 2024, Vehicular Vitality Ranking 10 Top Turbo Mods for OS X and Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-steps-to-overcome-the-windows-update-error-0x80070002/"><u>Quick Troubleshooting Steps to Overcome the Windows Update Error 0X80070002</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-game-crashes-ultimate-troubleshoot-for-ghost-recon-breakpoint/"><u>Say Goodbye to Game Crashes: Ultimate Troubleshoot for Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-non-functional-fn-keys-a-step-by-step-approach-for-asus-laptop-users/"><u>Solution Guide for Non-Functional Fn Keys: A Step-by-Step Approach for ASUS Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-troubleshooting-unknown-usb-device-detected-and-port-reset-failures-on-windows-11/"><u>Solving the Mystery: Troubleshooting 'Unknown USB Device Detected' And Port Reset Failures on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correct-the-error-in-com-surrogate-service-and-prevent-crashes/"><u>Steps to Correct the 'Error in COM Surrogate Service' And Prevent Crashes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+</ul></div>
 

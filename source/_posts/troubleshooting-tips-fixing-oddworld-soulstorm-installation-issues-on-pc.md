@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing Oddworld: Soulstorm Installation Issues on PC"
-date: 2024-09-22T00:46:49.124Z
-updated: 2024-09-28T22:24:35.369Z
+date: 2024-09-30T10:31:42.970Z
+updated: 2024-10-04T04:32:58.826Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,21 +48,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -87,28 +81,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -120,17 +94,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -146,6 +129,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -171,18 +162,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[Updated] Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-put-a-stay-to-unsolicited-youtube-trails/"><u>[Updated] Put a Stay to Unsolicited YouTube Trails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-tips-for-archiving-your-discovery-of-live-discord-broadcasts/"><u>[Updated] Top Tips for Archiving Your Discovery of Live Discord Broadcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-tips-for-blending-modes-in-vfx/"><u>2024 Approved Advanced Tips for Blending Modes in VFX</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-of-manipulation-the-photographers-way/"><u>2024 Approved Mastery of Manipulation The Photographer's Way</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-8s-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 8S Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/freely-accessing-pinterest-vids-top-5-free-downloader-rankings/"><u>Freely Accessing Pinterest Vids Top 5 Free Downloader Rankings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-asus-rog-phone-8-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Asus ROG Phone 8 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-and-correct-unresponsive-keys-on-dell-notebooks/"><u>How to Address and Correct Unresponsive Keys on Dell Notebooks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-comprehensive-guide-to-skype-meeting-recording/"><u>In 2024, Comprehensive Guide to Skype Meeting Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-cannot-connect-to-remote-server-errors-a-step-by-step-guide/"><u>Resolving 'Cannot Connect to Remote Server' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-unable-to-connect-to-remote-server-issues/"><u>Troubleshooting Steps: Resolving 'Unable to Connect to Remote Server' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-guide-turn-off-touchpad-automatically-when-using-an-external-mouse/"><u>Windows 11 Guide: Turn Off Touchpad Automatically when Using an External Mouse</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fficient-hashtag-use-for-skyrocketing-youtube-audience-for-2024/"><u>[New] Efficient Hashtag Use for Skyrocketing YouTube Audience for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-reviewing-window-recording-the-sprout-experience-for-2024/"><u>[New] Reviewing Window Recording - The Sprout Experience for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expert-endorsed-tools-for-improving-your-windows-video-edits/"><u>[Updated] In 2024, Expert-Endorsed Tools for Improving Your Windows Video Edits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-craft-engaging-tiktok-response-videos/"><u>2024 Approved How to Craft Engaging TikTok Response Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-game-strategy-experience-the-best-free-voice-transformer-today/"><u>Boost Your Game Strategy Experience the Best Free Voice Transformer Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-how-youtube-picks-most-engaging-comments/"><u>Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-c51-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme C51 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-transforming-divx-files-into-mp4-format/"><u>Quick and Simple Guide: Transforming DivX Files Into MP4 Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-post-windows-11-upgrade-troubleshooting-made-simple/"><u>Restoring Audio Post-Windows 11 Upgrade: Troubleshooting Made Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-capturing-flv-videos-with-our-ultimate-recording-tool/"><u>Simple Guide: Capturing FLV Videos with Our Ultimate Recording Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-videos-to-the-no-cost-video-editing-tool-factory/"><u>Step-by-Step Guide: Adding Videos to the No-Cost Video Editing Tool - Factory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-dvds-to-playable-on-your-pc/"><u>Step-by-Step Guide: Converting DVDs to Playable on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-transform-your-stereo-into-a-51-channel-audio-system/"><u>Steps to Transform Your Stereo Into a 5.1 Channel Audio System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-converting-audio-files-into-high-quality-wav-format/"><u>The Ultimate Guide to Converting Audio Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-superior-4k-recording-software-for-windows-and-mac/"><u>The Ultimate List of Superior 4K Recording Software for Windows and Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-compelling-replacements-for-handbrake-find-the-perfect-software/"><u>Top 12 Compelling Replacements for HandBrake - Find the Perfect Software</u></a></li>
 </ul></div>
 

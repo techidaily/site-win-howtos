@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Failed Disk Read Operation on Your Windows nX Device Successfully
-date: 2024-09-18T00:10:04.274Z
-updated: 2024-09-22T16:30:45.240Z
+date: 2024-09-27T18:23:08.532Z
+updated: 2024-10-04T10:22:48.099Z
 tags:
   - win11
   - win10
@@ -57,9 +57,23 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -79,6 +93,13 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 ### Solution 2: Update your keyboard driver
@@ -96,6 +117,19 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -120,12 +154,17 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[New] 2024 Approved Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-sound-dimming-guide-in-premiere-pro/"><u>[New] Seamless Sound Dimming Guide in Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ideas-on-improving-gopros-energy-management/"><u>[Updated] In 2024, Ideas on Improving GoPro's Energy Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>2024 Approved Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-dealing-with-igfx-module-failure-problems-effectively/"><u>Comprehensive Solution: Dealing with iGFX Module Failure Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212343458-expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203738701-fix-system-error-5-has-occurred-error-on-windows-10-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 10, 7 & 8 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-reducing-microsoft-compatibility-telemetrys-excessive-memory-consumption-in-windows-11/"><u>Fixing the Issue: Reducing Microsoft Compatibility Telemetry's Excessive Memory Consumption in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11-with-an-older-windows-7-product-key/"><u>Launching Windows 11 with an Older Windows 7 Product Key</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/plant-and-play-best-friends-games-in-the-agricultural-world-for-2024/"><u>Plant & Play Best Friends Games in the Agricultural World for 2024</u></a></li>
+</ul></div>
 

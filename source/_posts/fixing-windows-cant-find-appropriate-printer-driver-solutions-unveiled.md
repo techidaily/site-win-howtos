@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Windows Can't Find Appropriate Printer Driver': Solutions Unveiled"
-date: 2024-09-28T01:44:35.569Z
-updated: 2024-09-28T17:00:08.152Z
+date: 2024-09-30T15:09:50.116Z
+updated: 2024-10-04T07:47:35.103Z
 tags:
   - win11
   - win10
@@ -138,31 +138,17 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -172,16 +158,16 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
@@ -191,8 +177,23 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8249a9c44d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Recover your data
 
  It is also possible that you get the access denied error because the file or folder you are accessing is corrupted. You can’t open it or make any changes. Honestly, in most cases, the corrupted files and folders cannot be repaired. You can only either delete it or recover it from a backup copy. But still you can utilize some data recovery tools or services to recover data from a corrupted folder. So if the data in the problem folder is important for you, you can try using find some programs or services to perform data recovery in order to save them.
@@ -214,19 +215,18 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display-for-2024/"><u>[New] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>[Updated] How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-complete-guide-to-toolwiz-photography-software/"><u>[Updated] In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-getting-copy-and-paste-back-to-work-on-windows-11/"><u>Easy Fixes: Getting Copy & Paste Back to Work on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/elevating-state-compute-capacity-china-targets-a-30-increase-to-achieve-300-exaflops-by-2025/"><u>Elevating State Compute Capacity: China Targets a 30% Increase to Achieve 300 Exaflops by 2025</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-12plus-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme 12+ 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-hang-ups-on-windows-10-with-these-simple-steps/"><u>Resolve Hang-Ups on Windows 10 With These Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/system-update-resolves-local-privilege-issues/"><u>System Update Resolves Local Privilege Issues</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tiny-tech-with-titanic-features-exploring-every-aspect-of-the-iphone-12-mini-review/"><u>Tiny Tech with Titanic Features: Exploring Every Aspect of the iPhone 12 Mini Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-dealing-with-a-frozen-windows-10-system/"><u>Top Solutions for Dealing with a Frozen Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-system-cannot-locate-the-file/"><u>Troubleshooting and Solving 'The System Cannot Locate the File'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-how-to-repair-a-non-functional-keyboard-at-system-boot/"><u>Update: How to Repair a Non-Functional Keyboard at System Boot</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-4k-video-editors-expert-reviews-and-comparisons-for-2024/"><u>Updated Best 4K Video Editors Expert Reviews and Comparisons for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ideal-set-of-8-backdrops-to-personalize-mbp-design/"><u>[New] 2024 Approved Ideal Set of 8 Backdrops to Personalize MBP Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-and-store-every-sound-on-pc-download-x-recorder/"><u>[Updated] In 2024, Capture & Store Every Sound on PC - Download X-Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-high-impact-short-waterway-previews/"><u>[Updated] In 2024, Creating High-Impact Short Waterway Previews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laugh-out-loud-free-memetic-creators/"><u>2024 Approved Laugh Out Loud FREE Memetic Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/selecting-the-ultimate-steadicams-for-flawless-dslr-shoots-for-2024/"><u>Selecting the Ultimate Steadicams for Flawless DSLR Shoots for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-setting-up-global-color-selection-tools-in-windows-11-environments/"><u>Step-by-Step Tutorial: Setting Up Global Color Selection Tools in Windows 11 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-videos-for-free-this-halloween-compete-in-the-wonderfox-giveaway-of-deluxe-and-pro-converters-from-youtube-to-nokia/"><u>Transform Your Videos for Free This Halloween - Compete in the WonderFox Giveaway of Deluxe & Pro Converters From YouTube to Nokia!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforming-flv-files-into-mp4-format-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Transforming FLV Files Into MP4 Format: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triad-of-fixes-overcoming-mkv-streaming-hurdles-on-apple-tv/"><u>Triad of Fixes: Overcoming MKV Streaming Hurdles on Apple TV</u></a></li>
 </ul></div>
 

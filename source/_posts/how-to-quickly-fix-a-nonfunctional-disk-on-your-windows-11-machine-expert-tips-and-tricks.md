@@ -1,7 +1,7 @@
 ---
 title: How To Quickly Fix a Nonfunctional Disk on Your Windows 11 Machine – Expert Tips & Tricks
-date: 2024-09-25T05:37:24.801Z
-updated: 2024-09-29T03:53:59.537Z
+date: 2024-09-27T22:24:15.404Z
+updated: 2024-10-04T02:39:40.845Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 4) Plug the power supply back in
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
@@ -76,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -93,10 +93,23 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -122,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -150,16 +156,18 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-effortless-extraction-of-twitter-jokes-3-ways/"><u>[New] In 2024, Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-video-sharing-between-twitter-and-tumblr/"><u>[Updated] Streamlining Video Sharing Between Twitter and Tumblr</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-11-unavailable-troubleshooting-steps-for-graphics-card-compatibility/"><u>DirectX 11 Unavailable? Troubleshooting Steps for Graphics Card Compatibility</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a18-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A18 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/improved-safety-configuration-activate-secure-file-transfer-with-newly-configured-restrictions/"><u>Improved Safety Configuration: Activate Secure File Transfer with Newly Configured Restrictions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>In 2024, Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-no-device-drivers-detected-a-comprehensive-guide-to-troubleshoot-and-fix-during-windows-7-setup/"><u>Resolving 'No Device Drivers Detected': A Comprehensive Guide to Troubleshoot and Fix During Windows 7 Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-how-you-find-information-perplexity-ai-takes-google-search-to-new-heights/"><u>Revolutionize How You Find Information: Perplexity AI Takes Google Search to New Heights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Steps: Reactivating Your Device's Bluetooth Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212524940-windows-explorer-down-fix-now/"><u>Windows Explorer Down – Fix Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premium-platforms-for-hearing-westeros-tones-for-2024/"><u>[New] Premium Platforms for Hearing Westeros Tones for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-strategies-to-secure-lasting-gaming-memories-for-2024/"><u>[New] Windows 11 Strategies to Secure Lasting Gaming Memories for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-cost-effective-pc-screenshot-wizards-listed/"><u>[Updated] 2024 Approved Cost-Effective PC Screenshot Wizards Listed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>[Updated] 2024 Approved Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-ai-for-high-fidelity-image-editing/"><u>[Updated] In 2024, Elite AI for High-Fidelity Image Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-ps3-gaming-capture-step-by-step-guide-for-2024/"><u>[Updated] Mastering PS3 Gaming Capture Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-wmv-en-formatos-asf-gratis-online-usando-el-servicio-de-movavi-video-editor/"><u>Cómo Convertir Archivos WMV en Formatos ASF Gratis Online Usando El Servicio De Movavi Video Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-bluetooth-to-appear-in-your-computers-device-manager-solutions-and-tips/"><u>Getting Bluetooth to Appear in Your Computer's Device Manager: Solutions & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-screen-behavior-in-your-windows-11-machine/"><u>How to Stop Erratic Screen Behavior in Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-broken-hp-laptop-buttons-with-easy-troubleshooting-steps/"><u>Revive Broken HP Laptop Buttons with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-when-your-igfxem-module-stops-responding/"><u>Solution Steps for When Your Igfxem Module Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-for-when-right-click-stops-working-on-windows-10-computers/"><u>The Definitive Solution for When Right Click Stops Working on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-performance-issues-what-steps-to-take/"><u>Troubleshooting Windows 11 Performance Issues: What Steps to Take</u></a></li>
 </ul></div>
 

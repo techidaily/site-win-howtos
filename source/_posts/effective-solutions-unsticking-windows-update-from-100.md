@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions: Unsticking Windows Update From 100%%"
-date: 2024-09-27T07:20:51.264Z
-updated: 2024-09-29T00:26:18.739Z
+date: 2024-10-01T01:12:15.206Z
+updated: 2024-10-04T14:33:10.243Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -49,13 +42,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -63,6 +49,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -85,10 +79,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -108,14 +102,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -146,24 +148,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-analysis-zdsoft-for-screen-recording/"><u>[New] Expert Analysis ZDSoft for Screen Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-art-of-timelapses-recording-techniques-for-ipads/"><u>[Updated] 2024 Approved The Art of Timelapses Recording Techniques for iPads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] In 2024, Resolving Disabled State of OBS Fullscreen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-stepwise-strategies-for-enhancing-yt-game-coverage-through-effective-hashing/"><u>[Updated] In 2024, Stepwise Strategies for Enhancing YT Game Coverage Through Effective Hashing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inspire-yourself-a-list-of-10-empowering-movie-experiences/"><u>2024 Approved Inspire Yourself A List of 10 Empowering Movie Experiences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/browser-blues-resolve-the-initializer-did-not-load-problem-with-ease-latest-fixes-2021/"><u>Browser Blues? Resolve the 'Initializer Did Not Load' Problem with Ease (Latest Fixes 2)021</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-device-not-showing-up-via-bluetooth-in-windows-10/"><u>Diagnose & Repair: Device Not Showing Up via Bluetooth in Windows 10</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/driven-by-cookiebot-enhanced-user-experience-and-data-management/"><u>Driven by Cookiebot: Enhanced User Experience and Data Management</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-contents-visibility-with-these-gadgets/"><u>Elevate Your Content's Visibility with These Gadgets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-binkw32dll-file-not-present-mistake-in-windows/"><u>Expert Tips for Correcting the binkw32.dll File Not Present Mistake in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-use-winx-youtube-downloader-a-step-by-step-guide-for-new-users/"><u>How to Use WinX YouTube Downloader: A Step-by-Step Guide for New Users!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-gaming-gains-total-earnings-for-pewdiepie/"><u>In 2024, Gaming Gains Total Earnings for PewDiePie</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-livekernelevent-141-hardware-glitches-2024-edition/"><u>Overcoming LiveKernelEvent 141 Hardware Glitches, 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-issues-successful-steps-for-troubleshooting-steam-download-failures/"><u>Resolving Your Issues: Successful Steps for Troubleshooting Steam Download Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/settling-cldll-non-existence-in-devices/"><u>Settling ClDLL Non-Existence in Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-your-driverpowerstatefailure-issue/"><u>Troubleshooting Tips to Fix Your DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/typing-triumph-over-tablet-trouble/"><u>Typing Triumph Over Tablet Trouble</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-intermittent-system-power-failures-on-pcs/"><u>Understanding & Correcting Intermittent System Power Failures on PCs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-get-your-editing-mojo-back-with-this-final-cut-pro-overview/"><u>[New] Get Your Editing Mojo Back with This Final Cut Pro Overview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-facebook-connection-essentials/"><u>[New] In 2024, Insta-Facebook Connection Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[Updated] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-movies-clean-shots-the-10-best-for-superior-image-stabilization/"><u>2024 Approved Smooth Movies, Clean Shots The 10 Best for Superior Image Stabilization</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capture-the-best-on-fb-top-8-movie-downloaders/"><u>Capture the Best on FB Top 8 Movie Downloaders</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030346576-gif/"><u>GIFへ変換：初心者がわかりやすいイラストアニメーション作成ガイド</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-wipe-your-youtube-watch-later-playlist-cleanly/"><u>In 2024, How-To Wipe Your YouTube Watch Later Playlist Cleanly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-syncing-sound-with-video-for-mov-and-mp4-formats/"><u>Step-by-Step Tutorial on Syncing Sound with Video for MOV and MP4 Formats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-setup-guide-for-releasebb-addon-in-kodi-on-nexus-and-matrix-tv-platforms/"><u>Successful Setup Guide for ReleaseBB Addon in Kodi on Nexus and Matrix TV Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-21-must-watch-chinese-animations-mastering-the-art-of-donghua/"><u>Top 21 Must-Watch Chinese Animations: Mastering the Art of Donghua</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-kindle-fire-video-transformer-apps-effortless-video-format-adaptation-for-your-device/"><u>Top Rated Kindle Fire Video Transformer Apps - Effortless Video Format Adaptation for Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-burning-a-dvd-as-wmv-file-with-excellent-quality-on-windows-pc/"><u>Ultimate Guide to Burning a DVD as WMV File with Excellent Quality on Windows PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-sd-compatibility-with-sony-a7s-ii/"><u>Ultimate SD Compatibility with Sony A7S II</u></a></li>
 </ul></div>
 

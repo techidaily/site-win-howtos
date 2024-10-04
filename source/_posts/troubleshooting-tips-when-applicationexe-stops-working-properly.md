@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips When 'Application.exe' Stops Working Properly
-date: 2024-09-26T06:24:28.257Z
-updated: 2024-09-29T05:02:50.765Z
+date: 2024-09-28T06:07:30.597Z
+updated: 2024-10-04T01:10:01.514Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -39,10 +46,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
@@ -60,13 +67,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -79,6 +79,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -89,21 +96,14 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
@@ -132,24 +132,19 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069877829-new-in-2024-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[New] In 2024, Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-ultimate-online-destinations-for-enigmatic-boxes-for-2024/"><u>10 Ultimate Online Destinations for Enigmatic Boxes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficient-methods-for-renaming-users-in-google-meet/"><u>2024 Approved Efficient Methods for Renaming Users in Google Meet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-and-wi-fi-authentication-hiccups-strategies-to-restore-your-internet-access/"><u>Android and Wi-Fi Authentication Hiccups: Strategies to Restore Your Internet Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrected-key-media-transfer-components-lacking-on-your-pcs-hardware-list/"><u>Corrected: Key Media Transfer Components Lacking on Your PC's Hardware List</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included-for-2024/"><u>Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208065872-fix-my-surface-wont-charge-problem-expert-tips-for-a-full-battery/"><u>Fix My Surface Won't Charge Problem – Expert Tips for a Full Battery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-update-failure-in-warframe-solutions-and-tips/"><u>How to Resolve 'Update Failure' In Warframe - Solutions & Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-dead-by-daylight-e-code-8014-a-step-by-step-guide/"><u>How to Resolve Dead by Daylight E-Code 8014 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-update-glitches-now/"><u>How To Successfully Repair Windows Update Glitches, Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-google-pixel-8-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Google Pixel 8? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-f23-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo F23 5G Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-pubg-top-solutions-for-eliminating-game-lags/"><u>Optimizing PUBG: Top Solutions for Eliminating Game Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-lenovo-mouse-pad-problems-in-windows-systems-a-step-by-step-fix/"><u>Resolve Your Lenovo Mouse Pad Problems in Windows Systems: A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scrolling-gain-windows-mouse-mastery/"><u>Scrolling Gain: Windows Mouse Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-usb-connection-issues-on-your-pc-running-windows-10-or-11/"><u>Solving USB Connection Issues on Your PC Running Windows 10 or 11</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oppo-k11x-by-fonelab-android-recover-data/"><u>The way to get back lost data from Oppo K11x</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-msvcoredll-is-absent-from-your-system/"><u>Troubleshooting: What to Do When Msvcore.dll Is Absent From Your System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-compatible-solutions-for-a-malfunctioning-laptop-touchpad-fixes-for-1187/"><u>Windows-Compatible Solutions for a Malfunctioning Laptop Touchpad: Fixes for 11/8/7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[New] In 2024, Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>[Updated] 2024 Approved Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>[Updated] Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-sharing-techniques-from-youtube-to-insta/"><u>[Updated] Video Sharing Techniques From YouTube to Insta</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-usb-functionality-in-windows-10-and-11-systems/"><u>Effective Solutions to Restore USB Functionality in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-windows-10-upstart-hiccups-and-fatal-system-errors-a-comprehensive-guide/"><u>Eliminating Windows 10 Upstart Hiccups and Fatal System Errors - A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-performance-testing-from-toms-equipment-review/"><u>In-Depth Performance Testing From Tom's Equipment Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fps-controls-proven-strategies-to-enhance-your-experience-in-valorant-2024-edition/"><u>Mastering FPS Controls: Proven Strategies to Enhance Your Experience in VALORANT - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-disconnection-woes-expert-advice-for-unreliable-computer-mice/"><u>Overcoming Persistent Disconnection Woes: Expert Advice for Unreliable Computer Mice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silence-the-crackle-a-guide-to-fixing-audio-issues-on-your-pc-for-windows-users-versions-107/"><u>Silence the Crackle: A Guide to Fixing Audio Issues on Your PC - For Windows Users (Versions 10/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-device-not-recognized-by-icue-expert-solutions-to-common-issues/"><u>Troubleshoot 'Device Not Recognized by ICUE': Expert Solutions to Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-stop-missing-cursors-now/"><u>Troubleshooting Windows 11: Stop Missing Cursors Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
 

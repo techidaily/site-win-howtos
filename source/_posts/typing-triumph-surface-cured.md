@@ -1,7 +1,7 @@
 ---
 title: "Typing Triumph: Surface Cured"
-date: 2024-09-17T17:56:54.246Z
-updated: 2024-09-23T01:12:38.058Z
+date: 2024-10-01T12:19:51.139Z
+updated: 2024-10-03T20:00:47.828Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Quick Fix:**Install & update drivers automatically**
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for Kodi Buffering Issue
 
 1. [Stop Kodi buffering issue with a VPN](https://tools.techidaily.com/drivereasy/download/)
@@ -73,6 +80,13 @@ Quick Fix:**Install & update drivers automatically**
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 ### Fix 2: Adjust video cache size with One nation
@@ -83,31 +97,31 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
-6. Restart Kodi and check the buffering problem is still there or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Restart Kodi and check the buffering problem is still there or not.
 
 ### Fix 3: Clear Kodi cache with One nation
 
@@ -116,15 +130,16 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Follow the on-screen instructions to finish the process.
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
@@ -145,5 +160,22 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-snapchats-star-highlight-utilization-guide/"><u>[New] 2024 Approved Snapchat's Star Highlight Utilization Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-fast-track-your-periscope-broadcasting/"><u>[Updated] 2024 Approved Fast-Track Your Periscope Broadcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-team-discussions-combining-slack-and-filmora-for-professionals/"><u>2024 Approved Streamlining Team Discussions Combining Slack and Filmora for Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breaking-through-the-blockage-a-guide-to-resolving-destiny-2s-start-up-stuck-point/"><u>Breaking Through the Blockage: A Guide to Resolving Destiny 2'S Start-Up Stuck Point</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-facile-et-gratuite-convertissez-votre-mp3-en-aac-sur-internet-sans-effort-grace-a-movavi/"><u>Conversion Facile Et Gratuite : Convertissez Votre MP3 en AAC Sur Internet Sans Effort Grâce À Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defrosting-tips-for-an-icy-iphone-easy-fixes-revealed/"><u>Defrosting Tips for an Icy iPhone - Easy Fixes Revealed</u></a></li>
+<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-feature-in-windows-7-a-step-by-step-guide/"><u>Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos/"><u>In 2024, Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kidneys/"><u>Kidneys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-initial-dark-screen-error-in-monster-hunter-world-gameplay/"><u>Overcoming the Initial Dark Screen Error in Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-opengl-issues-in-minecraft-a-step-by-step-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-excessive-cpu-consumption-by-msmpengine-in-windows-10-systems/"><u>Solving the Issue: Excessive CPU Consumption by MsMpEngine in Windows 10 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tips-and-key-aspects-for-selecting-the-ideal-video-capture-unit/"><u>Top Tips and Key Aspects for Selecting the Ideal Video Capture Unit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-for-the-persistent-0x80072efd-error-in-your-windows-10-system/"><u>Ultimate Solutions for the Persistent 0X80072EFD Error in Your Windows 10 System</u></a></li>
+</ul></div>
 

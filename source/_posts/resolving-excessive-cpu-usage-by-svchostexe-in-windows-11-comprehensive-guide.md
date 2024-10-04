@@ -1,7 +1,7 @@
 ---
 title: Resolving Excessive Cpu Usage by svchost.exe in Windows 11 - Comprehensive Guide
-date: 2024-09-26T00:30:53.492Z
-updated: 2024-09-29T07:22:45.452Z
+date: 2024-10-02T19:43:04.909Z
+updated: 2024-10-04T03:59:23.360Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You may not need to try them all; just work your way down until you find the one that works for you.
@@ -51,18 +44,18 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
 
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
 
@@ -72,26 +65,26 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click one of the processes and click **Stop**  to stop it.
@@ -103,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
@@ -122,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
@@ -147,27 +140,27 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -191,6 +184,19 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -206,22 +212,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates-for-2024/"><u>[New] Amplifying Your Brand The FameBit Approach to YouTube Affiliates for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-hero-vs-hero-a-technological-comparison-for-2024/"><u>[New] Hero Vs Hero A Technological Comparison for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-open-access-mindful-harmonies-for-2024/"><u>[Updated] Open Access Mindful Harmonies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connectivity-solutions-how-to-address-and-fix-a-broken-server-link/"><u>Connectivity Solutions: How to Address and Fix a Broken Server Link</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-bringing-back-your-shut-down-diagnostic-policy-service/"><u>Expert Tips on Bringing Back Your Shut Down Diagnostic Policy Service</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/hashtag-hacks-for-amplifying-gamer-content/"><u>Hashtag Hacks for Amplifying Gamer Content</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-e13-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola Moto E13 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-audio-enhancement-for-online-video-creators/"><u>In 2024, Audio Enhancement for Online Video Creators</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-troubleshooting-fixing-problems-on-windows-10-8-and-7/"><u>Laptop Trackpad Troubleshooting: Fixing Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-print-to-pdf-not-working-in-windows-1011-heres-the-solution/"><u>Microsoft Print-to-PDF Not Working in Windows 10/11? Here's the Solution!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-hardware-driver-restored-computer-functionality-enhanced/"><u>Missing Media Hardware Driver Restored, Computer Functionality Enhanced</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionary-methods-to-stop-your-screens-blinding-blink-a-comprehensive-guide/"><u>Revolutionary Methods to Stop Your Screen's Blinding Blink: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tutoriel-facile-pour-utiliser-le-kitkat-amazon-et-explorer-les-titres-librigoogle-au-format-ebook/"><u>Tutoriel Facile Pour Utiliser Le KitKat Amazon Et Explorer Les Titres LibriGoogle Au Format Ebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-overcoming-the-0x80072efd-glitch-in-windows-11-systems/"><u>Ultimate Fixes for Overcoming the 0X80072EFD Glitch in Windows 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unpacking-the-influential-four-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Influential Four: A Deep Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-peripheral-troubles-restoring-mouse-and-keyboard-functionality-on-windows-7-computers/"><u>USB Peripheral Troubles: Restoring Mouse and Keyboard Functionality on Windows 7 Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-prime-propeller-picks-unveiling-top-5-motors-for-drones/"><u>[New] 2024 Approved Prime Propeller Picks Unveiling Top 5 Motors for Drones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-effortless-fusion-of-youtube-videos-with-flv-format/"><u>[New] In 2024, Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tiny-turbines-car-shindig-for-2024/"><u>[Updated] Tiny Turbines' Car Shindig for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y100 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-picture-for-youtube-upload/"><u>Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55plus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel P55+ Phone without Any Data Loss</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-your-asus-trackpads-inactivity-on-microsoft-windows-a-step-by-step-guide/"><u>Resolving Your ASUS Trackpad's Inactivity on Microsoft Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-maximize-savings-get-80-discount-on-elegoo-neptone-3plus-perfect-for-large-scale-printing/"><u>Slash Prices, Maximize Savings: Get $80 Discount on Elegoo Neptone 3+ - Perfect for Large-Scale Printing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-transcoder-apps-seamlessly-convert-videos-for-cross-device-compatibility/"><u>Top Rated Video Transcoder Apps: Seamlessly Convert Videos for Cross-Device Compatibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-sites-for-streaming-lower-resolution-anime-content-144p-240p-360p-and-more/"><u>Top Sites for Streaming Lower-Resolution Anime Content (144P, 240P, 360P, and More)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-mp3-tracks-into-videos-for-free-top-3-audio-to-video-converter-tools/"><u>Transform MP3 Tracks Into Videos for Free: Top 3 Audio-to-Video Converter Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transition-from-free-to-professional-enhancing-your-experience-with-the-premium-video-converter/"><u>Transition From Free to Professional: Enhancing Your Experience with the Premium Video Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-media-player-unable-to-load-files/"><u>Troubleshooting Guide: Resolving 'Windows Media Player' Unable To Load Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-international-access-a-guide-to-watching-bilibili-abroad/"><u>Unlocking International Access: A Guide to Watching Bilibili Abroad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wav-to-flac-conversion-ultimate-guide-high-quality-audio-preservation/"><u>WAV to FLAC Conversion Ultimate Guide – High-Quality Audio Preservation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1/"><u>フリーかつ簡単な方法 - Windows 1</u></a></li>
 </ul></div>
 

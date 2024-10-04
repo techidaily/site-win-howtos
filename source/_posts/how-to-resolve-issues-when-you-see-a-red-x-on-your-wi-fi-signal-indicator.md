@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues When You See a Red 'X' On Your Wi-Fi Signal Indicator
-date: 2024-09-25T02:15:58.580Z
-updated: 2024-09-29T07:22:51.424Z
+date: 2024-10-02T23:29:36.011Z
+updated: 2024-10-04T03:51:09.416Z
 tags:
   - win11
   - win10
@@ -45,38 +45,33 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -103,32 +98,18 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -145,13 +126,20 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -169,6 +157,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,18 +188,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-understanding-and-implementing-audio-ebb-in-premiere-pro/"><u>[New] 2024 Approved Understanding and Implementing Audio Ebb in Premiere Pro</u></a></li>
-<li><a href="https://video-capture.techidaily.com/e/"><u>無料で簡単なE学習ビデオの録画手段</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-fix-and-prevent-power-surges-in-your-computers-usb-connections-on-windows-10/"><u>Effective Techniques to Fix and Prevent Power Surges in Your Computer's USB Connections on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-fixing-windows-10-computer-wont-power-off-problem/"><u>Expert Guide: Fixing Windows 10 Computer Won't Power Off Problem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973834184-get-your-hands-on-updated-windows-drivers-for-msi-gs65-free-downloads-available/"><u>Get Your Hands on Updated Windows Drivers for MSi GS65 - Free Downloads Available</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-windows-11s-network-settings-learn-how-to-toggle-network-discovery-onoff-effortlessly/"><u>Mastering Windows 11'S Network Settings: Learn How to Toggle Network Discovery On/Off Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/nocturnal-notions-for-iphone-photographers/"><u>Nocturnal Notions for iPhone Photographers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-silent-companion-the-touchpad/"><u>Revive Your Silent Companion - The Touchpad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-on-eliminating-fatal-errors-from-call-of-duty-black-ops-iv/"><u>Step-by-Step Tips on Eliminating Fatal Errors From Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-physxloaderdll-missing-on-launch-issues/"><u>Troubleshooting Guide: Resolving 'PhysXloader.dll' Missing on Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-wont-connect-to-xbox-live-solved/"><u>Xbox One Won’t Connect to Xbox Live [SOLVED]</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-all-content-jointly-shared-photos-and-vids-for-2024/"><u>[New] Explore All Content Jointly Shared Photos & Vids for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigate-improved-output-with-mobile-lut-adjustments/"><u>[New] Navigate Improved Output with Mobile LUT Adjustments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-design-your-closure-the-best-free-youtube-tutorials-for-2024/"><u>[Updated] Design Your Closure The Best Free YouTube Tutorials for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes-for-2024/"><u>Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-directory-of-public-domain-gaming-melodies/"><u>Essential Directory of Public Domain Gaming Melodies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-assessing-before-acquiring-refurbished-computers/"><u>Essential Tips for Assessing Before Acquiring Refurbished Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-hp-spectre-x360-heat-issue-comprehensive-solutions/"><u>Fixing the HP Spectre X360 Heat Issue: Comprehensive Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-better-seo-results/"><u>Harness the Power of Cookiebot for Better SEO Results</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-invalid-registry-setting-making-photos-not-open-in-windows-continue-(httpt4speccxresolve-invalid-registry-errors-on-windows-10)/"><u>How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] <http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/></u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-uncooperative-usb-mouse-back-on-track-with-these-fixes/"><u>How to Get Your Uncooperative USB Mouse Back on Track with These Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-techniques-for-common-windows-update-issue-error-80070103/"><u>Mastering Troubleshooting Techniques for Common Windows Update Issue (Error 80070103)</u></a></li>
 </ul></div>
 

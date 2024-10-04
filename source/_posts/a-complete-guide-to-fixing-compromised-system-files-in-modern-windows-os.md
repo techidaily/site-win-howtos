@@ -1,7 +1,7 @@
 ---
 title: A Complete Guide to Fixing Compromised System Files in Modern Windows OS
-date: 2024-09-25T17:23:15.584Z
-updated: 2024-09-28T16:23:54.414Z
+date: 2024-09-27T02:13:45.998Z
+updated: 2024-10-03T22:54:05.353Z
 tags:
   - win11
   - win10
@@ -45,24 +45,32 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -73,10 +81,10 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -88,6 +96,19 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -96,14 +117,28 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -119,13 +154,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
@@ -147,28 +175,8 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -193,22 +201,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-webinar-creation-kit/"><u>[Updated] Premier Webinar Creation Kit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepping-down-sounds-audacity-fading-techniques/"><u>2024 Approved Stepping Down Sounds Audacity Fading Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/app-analysis-vll-perspective-for-2024/"><u>App Analysis VLL Perspective for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dota-e-2-error-e2024-a-comprehensive-guide-to-restoring-graphics-functionality/"><u>Dota E 2 Error E2024: A Comprehensive Guide to Restoring Graphics Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-why-your-usb-composite-device-wont-function-with-usb-echnology/"><u>Fixing Issues: Why Your USB Composite Device Won't Function With USB Echnology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-a-non-functional-microphone-on-windows-11-pcs/"><u>How to Repair and Restore a Non-Functional Microphone on Windows 11 PCs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-15-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 15 Plus Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-zte-blade-a73-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your ZTE Blade A73 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hearthsongs-the-quintessential-playlist-for-engagement/"><u>In 2024, Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c55frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C55FRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/razer-keyboard-issues-why-isnt-it-lights-up-solutions-inside/"><u>Razer Keyboard Issues - Why Isn't It Lights Up? Solutions Inside!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/say-goodbye-to-your-car-the-comprehensive-review-of-the-rad-power-radwagon-4-electric-bike/"><u>Say Goodbye to Your Car - The Comprehensive Review of the Rad Power RadWagon 4 Electric Bike</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-on-windows-10-a-step-by-step-guide/"><u>Speeding Up the Shutdown Process on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-the-0x80072efd-error-on-your-windows-11-machine/"><u>Step-by-Step Guide: Overcoming the 0X80072EFD Error on Your Windows 11 Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210506511-stop-waiting-start-typing-smoothly-solve-keyboard-lag-in-windows-10/"><u>Stop Waiting, Start Typing Smoothly - Solve Keyboard Lag in Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tp-link-travel-router-tl-wr902ac-compact-powerhouse-of-wifi-connectivity-for-nomads/"><u>TP-Link Travel Router (TL-WR902AC) - Compact Powerhouse of WiFi Connectivity for Nomads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-nonfunctional-mic-on-your-arctis-er-series-headset/"><u>Troubleshooting a Nonfunctional Mic on Your Arctis Er Series Headset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twitter-vids-to-mp3-easy-extraction-techniques/"><u>[New] Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fundamentals-of-creating-persuasive-social-media-messages/"><u>[Updated] 2024 Approved Fundamentals of Creating Persuasive Social Media Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/coding-canceled-no-further-execution/"><u>Coding Canceled: No Further Execution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-cross-platform-fun-accessing-android-applications-in-windows-11-environment/"><u>How to Enable Cross-Platform Fun: Accessing Android Applications in Windows 11 Environment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/hybridmix-pro-for-dual-os/"><u>HybridMix Pro for Dual OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/improve-gameplay-fluidity-with-ai-temporal-synthesis-elevate-fps-and-ensure-smooth-frame-transitions/"><u>Improve Gameplay Fluidity with AI Temporal Synthesis: Elevate FPS & Ensure Smooth Frame Transitions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971869299-install-epson-wf-7710-printing-software-on-windows-get-your-latest-driver-here/"><u>Install Epson WF-7710 Printing Software on Windows - Get Your Latest Driver Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-smartscreen-outage-why-the-security-feature-is-down/"><u>Microsoft SmartScreen Outage - Why the Security Feature Is Down</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/msvcr71-integration-achieved-successfully/"><u>MSVCR71 Integration Achieved Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-touchpad-scrolling-hurdles-in-the-latest-windows-10-update/"><u>Overcoming Touchpad Scrolling Hurdles in the Latest Windows 10 Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gamers-guide-to-xbox-s-controller-dismantling/"><u>Pro Gamers' Guide to Xbox S Controller Dismantling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-during-login-on-windows-10-and-11/"><u>Resolving User Profile Service Failure During Login on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-restoring-your-wacom-tablets-functionality/"><u>Step-by-Step Guide to Restoring Your Wacom Tablet's Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-error-1067-why-does-my-windows-task-terminate-suddenly/"><u>Understanding Error 1067: Why Does My Windows Task Terminate Suddenly?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/utilizing-sfcdism-tools-for-effective-windows-11-troubleshooting/"><u>Utilizing SFC/DISM Tools for Effective Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-missing-program-cant-start-on-windows-10-solved/"><u>VCRUNTIME140.dll Missing, Program Can’t Start on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

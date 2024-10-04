@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Secure Connection Could Not Be Established' When Using Mozilla Firefox
-date: 2024-09-27T03:24:43.308Z
-updated: 2024-09-29T06:09:37.700Z
+date: 2024-09-28T12:05:48.174Z
+updated: 2024-10-03T23:22:39.551Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 So don’t give up hope. There is something you can do to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,13 +46,6 @@ So don’t give up hope. There is something you can do to fix it.
 1. [Run a virus scan](https://tools.techidaily.com/drivereasy/download/)
 2. [Create a new user profile](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable SSL scanning in your antivirus software](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run a virus scan
 
@@ -74,6 +67,14 @@ To do so, follow the steps below:
  If Firefox in your computer is already closed, head to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
@@ -83,10 +84,10 @@ To do so, follow the steps below:
 7. Open the website again to see if your problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable SSL scanning in your antivirus software
@@ -102,15 +103,16 @@ To do so, follow the steps below:
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
-5. Re-open Firefox, and open the website again to see if it works now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
+5. Re-open Firefox, and open the website again to see if it works now.
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
 
@@ -134,16 +136,21 @@ To do so, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-ai-an-innovators-toolkit-for-youtube-titles/"><u>[New] 2024 Approved Harnessing AI An Innovator's Toolkit for YouTube Titles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-with-irecorder/"><u>[Updated] 2024 Approved Mastering Screen Capture with iRecorder</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>[Updated] Exploring the Infinite A Look at LG's VR Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-reverse-video-playback-on-android-phones/"><u>2024 Approved How to Reverse Video Playback on Android Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-network-configuration-fixed-now-running-smoothly/"><u>Dragon Ball FighterZ Network Configuration Fixed - Now Running Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-scroll-functionality-of-your-touchpad-in-windows-11-solved/"><u>Enhance Scroll Functionality of Your Touchpad in Windows 11 (Solved)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 3 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quickframe-editor-for-2024/"><u>QuickFrame Editor for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-behind-emotional-artificial-intelligence-can-it-truly-grasp-our-emotions/"><u>The Science Behind Emotional Artificial Intelligence – Can It Truly Grasp Our Emotions?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-troubleshooting-tips-for-resolving-binkw32dll-errors/"><u>The Ultimate Troubleshooting Tips for Resolving binkw32.dll Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-crashes-due-to-faulty-video-card-drivers-in-windows-a-comprehhemed-solution/"><u>Troubleshooting Minecraft Crashes Due to Faulty Video Card Drivers in Windows: A Comprehhemed Solution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earnings-explosion-how-to-maximize-income-on-youtube-shorts/"><u>[New] 2024 Approved Earnings Explosion How to Maximize Income on YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-mass-download-tiktok-videos/"><u>[New] How To Mass Download TikTok Videos?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-win10-ultimate-screenshot-and-video-capture-kit/"><u>[New] In 2024, Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-hdr-photography-how-to-shoot-hdr-photos-with-an-iphone/"><u>[Updated] HDR Photography How to Shoot HDR Photos with an iPhone?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726227779678-mp4-mov-avi/"><u>「ファイル形式を自由に変換！オンラインビデオコンバーターMP4, MOV, AVI」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/close-up-cinematic-magic-with-kinemaster-software-for-2024/"><u>Close-Up Cinematic Magic with Kinemaster Software for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-fixing-windows-1nupdate-error-code-0x800f0922-for-seamless-operations/"><u>Guide: Successfully Fixing Windows 1nUpdate Error Code 0X800f0922 for Seamless Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-cpu-usage-by-msmpengexe-in-windows-11/"><u>How to Fix High CPU Usage by MsMpEng.exe in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-digital-classrooms-alternatives-to-udemys-model-for-2024/"><u>Premier Digital Classrooms Alternatives to Udemy's Model for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-get-your-diagnostic-policy-service-running-again/"><u>Resolved: How to Get Your Diagnostic Policy Service Running Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamlessly-update-and-download-synaptics-drivers-for-windows-devices-here/"><u>Seamlessly Update & Download Synaptics Drivers for Windows Devices Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-10-continuous-restart-woes-with-simple-solutions/"><u>Solving Windows 10 Continuous Restart Woes with Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-dock-on-a-windows-10-system-solutions-and-tips/"><u>Successfully Pairing Microsoft Wireless Dock on a Windows 10 System: Solutions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-how-to-fix-windows-11-store-error-code-0x80073cf9/"><u>Troubleshooting Step-by-Step: How to Fix Windows 11 Store Error Code 0X80073CF9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-gaming-fixes-eliminate-screen-distortion-and-enjoy-seamless-play/"><u>Valorant Gaming Fixes: Eliminate Screen Distortion & Enjoy Seamless Play</u></a></li>
 </ul></div>
 

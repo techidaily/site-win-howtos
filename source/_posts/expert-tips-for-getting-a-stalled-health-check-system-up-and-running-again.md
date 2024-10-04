@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Getting a Stalled Health Check System Up and Running Again
-date: 2024-09-25T21:07:59.112Z
-updated: 2024-09-28T20:04:07.581Z
+date: 2024-10-01T03:11:42.499Z
+updated: 2024-10-04T13:08:57.718Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -40,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
@@ -53,6 +60,14 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
@@ -66,13 +81,6 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
@@ -81,13 +89,6 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -109,10 +110,10 @@ or
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
@@ -139,20 +140,18 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media/"><u>[New] In 2024, Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-best-unfollow-tools-and-apps-for-twitter/"><u>[Updated] Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>[Updated] How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-5-best-photo-editing-app-for-android-phone/"><u>2024 Approved 5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-list-of-live-streaming-camera-models/"><u>2024 Approved The Ultimate List of Live-Streaming Camera Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-right-click-problem-on-your-win-10-device/"><u>Diagnosing and Repairing the Right-Click Problem on Your Win 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-tips-for-unable-to-execute-file-temporary-directory-issues-and-setup-abortion/"><u>Error Resolution Tips for 'Unable to Execute File' - Temporary Directory Issues and Setup Abortion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-fix-a-sluggish-or-non-responsive-file-explorer-experience-on-your-windows-10-device/"><u>Expert Tips: Fix a Sluggish or Non-Responsive File Explorer Experience on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-reducing-high-cpu-usage-from-windows-sounds-card-driver-issue/"><u>Guide: Reducing High CPU Usage From Windows Sounds Card Driver Issue</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-enhancing-visuals-with-paradox-creation/"><u>In 2024, Enhancing Visuals with Paradox Creation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-stuck-file-explorer-window-problems-in-windows-11/"><u>Mastering Fixes for Stuck File Explorer Window Problems in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-non-functional-numeric-keys-on-laptops-and-desktops/"><u>Quick Solutions for Non-Functional Numeric Keys on Laptops and Desktops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-tackling-the-memory-write-denial-in-0x-designated-address/"><u>Successfully Tackling the Memory Write Denial in 0X Designated Address</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction-for-2024/"><u>Unlocking the Potential of Bulk TikTok Media Extraction for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-innovative-filters-to-make-your-tiktok-stand-out/"><u>[New] 2024 Approved Innovative Filters to Make Your TikTok Stand Out</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-techniques-perfecting-live-sports-broadcast-recording/"><u>[Updated] 2024 Approved Prime Techniques Perfecting Live Sports Broadcast Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-direct-transition-from-youtube-to-instagram-reels-for-2024/"><u>[Updated] Direct Transition From YouTube to Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capturing-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid/"><u>[Updated] In 2024, Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-transform-your-strategy-with-these-20-marketing-terms/"><u>2024 Approved Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-an-unadulterated-newsfeed-experience-on-facebook/"><u>Creating an Unadulterated Newsfeed Experience on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-uncover-11-free-effective-youtube-naming-solutions/"><u>In 2024, Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-windows-11/"><u>PC画面動画キャプチャツールをお勧めする - Windows 11で使う方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-how-to-transform-avchd-videos-into-mp4-with-simple-tools/"><u>Quick Guide: How to Transform AVCHD Videos Into MP4 with Simple Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rapid-and-simple-mts-file-consolidation-made-easy-discover-leading-merger-solutions-today/"><u>Rapid & Simple MTS File Consolidation Made Easy: Discover Leading Merger Solutions Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotate-your-videos-like-a-pro-with-these-easy-tips-for-adobe-premiere-pro-users/"><u>Rotate Your Videos Like a Pro with These Easy Tips for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-audio-addition-for-impactful-instagram-visuals-for-2024/"><u>Step-by-Step Audio Addition for Impactful Instagram Visuals for 2024</u></a></li>
 </ul></div>
 

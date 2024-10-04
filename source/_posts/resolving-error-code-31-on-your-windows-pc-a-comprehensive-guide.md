@@ -1,7 +1,7 @@
 ---
 title: "Resolving Error Code 31 on Your Windows PC: A Comprehensive Guide"
-date: 2024-09-21T21:43:38.511Z
-updated: 2024-09-22T18:40:00.790Z
+date: 2024-10-03T04:02:30.496Z
+updated: 2024-10-04T03:38:59.856Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,6 +58,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -66,10 +80,38 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -90,13 +132,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -105,22 +140,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -143,5 +164,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-experience-beyond-reality-with-these-immersive-titles/"><u>[New] 2024 Approved Experience Beyond Reality with These Immersive Titles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-fast-forward-on-vimeo/"><u>[New] Mastering Fast-Forward on Vimeo</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extensive-analysis-samsungs-immersive-sphere-technology/"><u>[Updated] Extensive Analysis Samsung's Immersive Sphere Technology</u></a></li>
+<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
+<li><a href="https://games-able.techidaily.com/budgetgamingedge-sleek-led-screen-27m2v/"><u>BudgetGamingEdge - Sleek LED Screen 27M2V</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-movavi-video-editor-free-ultimate-software-suite/"><u>Download Movavi Video Editor - Free Ultimate Software Suite [無料下載]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-enhancing-synchronization-between-cameras-and-obs/"><u>In 2024, Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-woes-solved-ensuring-seamless-bluetooth-integration-with-your-desktop/"><u>Keyboard Woes Solved: Ensuring Seamless Bluetooth Integration with Your Desktop</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-as-the-users-intention-is-to-explore-the-best-for-this-purpose-a-list-of-top-5-free-mpeg-video-splitters-are-under-discussion/"><u>New As the Users Intention Is to Explore the Best; for This Purpose, a List of Top 5 Free MPEG Video Splitters Are Under Discussion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-errors-expert-strategies-to-tackle-the-0x80072efd-problem-in-windows-11/"><u>Say Goodbye to Errors: Expert Strategies to Tackle the 0X80072EFD Problem in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-handling-unexpected-setbacks-in-steam-game-download-and-update-operations/"><u>Solutions for Handling Unexpected Setbacks in Steam Game Download & Update Operations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-troubleshooting-and-eliminating-overwatch-black-screen-error/"><u>Step-by-Step Guide: Troubleshooting and Eliminating Overwatch Black Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-solving-lag-problems-in-fallout-4/"><u>Top Strategies: Solving Lag Problems in Fallout 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-overuse-of-storage-by-compatibility-telemetry-in-windows-10/"><u>Troubleshooting the Overuse of Storage By Compatibility Telemetry in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-audio-service-malfunctions-on-windows-11-devices/"><u>Ultimate Fixes for Audio Service Malfunctions on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unleashing-full-potential-the-ultimate-guide-to-upgrading-gameplay-on-your-windows-11-system/"><u>Unleashing Full Potential: The Ultimate Guide to Upgrading Gameplay on Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-secrets-to-combat-the-2024-fatal-error-crash-mastering-ue4-for-seamless-halo-4-gameplay/"><u>Unveiling Secrets to Combat the 2024 Fatal Error Crash: Mastering UE4 for Seamless Halo 4 Gameplay</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix RDR2 Memory Crash Error by Boosting Your PC's Page File Capacity
-date: 2024-09-27T04:22:17.871Z
-updated: 2024-09-29T03:54:19.752Z
+date: 2024-09-27T18:12:47.829Z
+updated: 2024-10-04T05:00:06.991Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ To increase the page file size, take these steps:
 ![how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/settings-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**Advanced** tab and then click**Change…** .  
@@ -56,16 +56,10 @@ To increase the page file size, take these steps:
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-settings.png)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Uncheck**Automatically manage paging file size for all drives** .  
@@ -76,6 +70,13 @@ To increase the page file size, take these steps:
   
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/custom-size.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Type in the values for**Initial size** and**Maximum size** . Then click**OK** to save the changes.  
  (Tips: Microsoft recommends that the virtual memory you set is**no less than 1.5 times and no more than 3 times** the size of your RAM. To check RAM on Windows, follow the instructions below. )
 
@@ -84,9 +85,23 @@ To increase the page file size, take these steps:
 
 ![check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/msinfor.exe_.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Scroll down and look for the**Installed Physical Memory (RAM)** entry.  
 
 ![how to check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/Total-virtual-memory.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1 GB (Gigabyte) = 1000 MB (Megabyte)
 
@@ -103,13 +118,6 @@ To increase the page file size, take these steps:
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/Go-to-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **GRAPHICS** .
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/click-on-graphics.png)
@@ -119,33 +127,19 @@ To increase the page file size, take these steps:
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/unlock-advanced-settings-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the **Graphics API**  section, change it to **DirectX 12**  by clicking on the arrow button.
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/select-DirectX-12-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Press **Enter**  to apply the changes.
 
  If it didn’t work, attempt to update your device drivers, especially your graphics driver.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your device drivers
 
@@ -189,18 +183,21 @@ To increase the page file size, take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-8-criteria-when-expanding-your-4k-setup/"><u>[New] 2024 Approved Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-snapshotsculptor-ultimate-photo-mosaic-builder-for-2024/"><u>[New] SnapshotSculptor Ultimate Photo Mosaic Builder for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/"><u>[Updated] 2024 Approved Dual Dimensions in Display The Instagram Guide to Effortless Image Turns</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-jest-in-layout-and-edit-suite-for-2024/"><u>[Updated] Best Jest in Layout & Edit Suite for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-share-igtv-video-on-instagram-story-with-ease/"><u>2024 Approved How to Share IGTV Video on Instagram Story with Ease</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-legends-unite-battle-for-midgard/"><u>2024 Approved Legends Unite Battle for Midgard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/copy-errors-on-the-latest-win-11-version/"><u>Copy Errors on the Latest Win 11 Version</u></a></li>
-<li><a href="https://win-blog.techidaily.com/descubre-las-mejores-opciones-gratuitas-alternativas-al-pinnacle-studio-en-sistemas-operativos-windows-y-mac-clasificacion-completa/"><u>Descubre Las Mejores Opciones Gratuitas Alternativas Al Pinnacle Studio en Sistemas Operativos Windows Y Mac: Clasificación Completa</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-touchpad-issues-get-your-scroll-working-again/"><u>Overcoming Windows 10 Touchpad Issues - Get Your Scroll Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-mic-not-working-errors-on-windows-10-pcs/"><u>Resolving 'Mic Not Working' Errors on Windows 10 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-preventing-self-activating-boot-sequences-on-windows-10-devices/"><u>Solutions for Preventing Self-Activating Boot Sequences on Windows 10 Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-solutions-top-bdr-softwares-for-windows-macos/"><u>Superior Solutions Top BDR Softwares for Windows, macOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-win32-app-crashes-error-code-0xc0000098/"><u>Ultimate Guide: Resolving Win32 App Crashes (Error Code 0xC0000098)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-twilight-to-night-iphone-photography-tips/"><u>[Updated] Twilight to Night IPhone Photography Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024asf/"><u>「2024年に開発された最新ASF形式ファイルのプレイバックガイド」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iuoajomhloockuimiplusobioobquobjplusobmeociplusodhuocrplusodiplusodgplusocrzog5yuv55s75pku5b2x44gn44k544k44oz44ox44gm6y2144cnig/"><u>「顔を見えなくするテクニック: 動画撮影でスタンプが鍵」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3-top-rated-gif-to-jpgjpeg-converter-software-reviews/"><u>3 Top-Rated GIF to JPG/JPEG Converter Software Reviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-14-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 14 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5pya5paw44gu44ot44oh44kq57eo6zug44k944ov44oi44km44kn44kiic0g6kal44gf55uu44go5yaf5a655lih5pa544gn5asj5pu05yplusv6io9/"><u>最新のビデオ編集ソフトウェア - 見た目と内容両方で変更可能</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-7-free-mkv-players-enjoy-watching-mkv-files-on-any-device/"><u>Best 7 Free MKV Players: Enjoy Watching MKV Files on Any Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-video-format-transcoder-convert-dvds-to-avi-on-windows-1011-as-of-2024/"><u>Best Video Format Transcoder: Convert DVDs to AVI on Windows 10/11 as of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/choosing-the-best-media-converter-handbrake-vs-makemkv-for-optimal-blu-ray-and-dvd-backups/"><u>Choosing the Best Media Converter: Handbrake Vs. MakeMKV for Optimal Blu-Ray & DVD Backups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-mov-and-mp4-file-formats-understanding-key-distinctions/"><u>Comparing MOV and MP4 File Formats: Understanding Key Distinctions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-go-live-on-facebook/"><u>How to Go Live on Facebook?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-asus-rog-phone-8-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Asus ROG Phone 8 Phone Screen?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/major-glitches-in-apples-iphone-12-line-up-identifying-and-resolving-key-issues/"><u>Major Glitches in Apple's iPhone 12 Line-Up: Identifying and Resolving Key Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/momentum-in-motion-our-choice-of-top-10-film-titles-for-2024/"><u>Momentum in Motion Our Choice of Top 10 Film Titles for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-marketing-campaigns-with-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Campaigns with Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-gpt-3-with-this-expert-openai-playground-walkthrough/"><u>Unlock the Potential of GPT-3 with This Expert OpenAI Playground Walkthrough</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving the Puzzle: How Microsoft Security Essentials (msseces.exe) Affect Your Computer's Disk Space"
-date: 2024-09-22T05:20:37.932Z
-updated: 2024-09-29T00:24:56.828Z
+date: 2024-09-27T05:28:10.118Z
+updated: 2024-10-04T04:02:33.833Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -52,16 +65,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
@@ -77,37 +84,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
@@ -125,10 +119,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -173,24 +167,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-secrets-for-adding-online-vids-seamlessly-in-ppt-for-2024/"><u>[New] 4 Secrets for Adding Online Vids Seamlessly in PPT for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-intrinsic-insights-for-instant-identification-in-fb/"><u>[New] Intrinsic Insights for Instant Identification in FB</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-epic-moments-in-gameplay-with-casters-for-2024/"><u>[Updated] Epic Moments in Gameplay with Casters for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-comprehensive-list-of-excellent-fb-cover-photo-creators/"><u>2024 Approved A Comprehensive List of Excellent FB Cover Photo Creators</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-top-rated-free-tools-for-high-res-youtube-cover-extraction/"><u>2024 Approved Top-Rated Free Tools for High-Res YouTube Cover Extraction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208528342-elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-key-words-to-command-the-future-of-conversational-ai/"><u>Five Key Words to Command the Future of Conversational AI</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/fix-video-playback-problems-on-your-mac-with-os-x-catalina-easy-solutions-inside/"><u>Fix Video Playback Problems on Your Mac with OS X Catalina – Easy Solutions Inside!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-vaults-to-viewers-streaming-video-archives-onto-facebook/"><u>From Vaults to Viewers Streaming Video Archives Onto Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209902838-hamachi-trouble-heres-how-you-can-fix-a-stopped-service-error/"><u>Hamachi Trouble? Here's How You Can Fix a Stopped Service Error!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-audio-discontinuity-problems-with-logitech-g930-headset/"><u>How to Fix Audio Discontinuity Problems with Logitech G930 Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-handle-organizational-management-of-windows-configuration-settings/"><u>How to Handle Organizational Management of Windows Configuration Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212007066-laptop-and-mouse-woes-revitalize-a-broken-usb-mouse-with-these-proven-fix-techniques/"><u>Laptop and Mouse Woes? Revitalize a Broken USB Mouse with These Proven Fix Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-writing-issue-with-addressed-0xmemory-location/"><u>Resolved: Writing Issue with Addressed 0xMemory Location</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-nonfunctioning-hp-laptop-cameras-on-windows-11-systems/"><u>Step-by-Step Fixes for Nonfunctioning HP Laptop Cameras on Windows 11 Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-video-mp4-a-formato-3gp-online-e-gratuito-con-movavi/"><u>Trasforma Video MP4 a Formato 3GP Online E Gratuito Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-stuck-file-explorer-on-windows-11/"><u>Troubleshooting Guide: Fixing Stuck File Explorer on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-fixed-monitor-cannot-support-present-input-timing/"><u>Troubleshooting Guide: Resolving '[FIXED] Monitor Cannot Support Present Input Timing'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-active-windows-sound-services/"><u>Winning Back Active Windows Sound Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ensuring-seamless-capture-of-online-teams-gatherings/"><u>[New] 2024 Approved Ensuring Seamless Capture of Online Teams' Gatherings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boosting-graphics-and-speed-ultimate-guide-to-better-games-in-windows-11/"><u>Boosting Graphics and Speed: Ultimate Guide to Better Games in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-photo-editing-with-lunapic-pro-tips/"><u>Elevate Your Photo Editing with Lunapic Pro Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/explosive-engagement-on-twitter-the-hottest-content-now-for-2024/"><u>Explosive Engagement on Twitter The Hottest Content Now for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-your-screen-cant-play-hdcp-enabled-content/"><u>Fixing the Issue: Why Your Screen Can't Play HDCP-Enabled Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-x50-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor X50 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-seamless-integration-with-windows-1110/"><u>Mastering Bluetooth Setup: Seamless Integration with Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11-a-complete-guide/"><u>Resolving svchost.exe's Excessive CPU Consumption in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-error-0x8024401c-during-windows-updates-in-win10win11-systems/"><u>Step-by-Step Guide to Overcome Error 0X8024401c During Windows Updates in Win10/Win11 Systems</u></a></li>
 </ul></div>
 

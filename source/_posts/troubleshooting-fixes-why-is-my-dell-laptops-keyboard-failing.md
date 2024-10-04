@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: Why Is My Dell Laptop's Keyboard Failing?"
-date: 2024-09-21T00:39:26.098Z
-updated: 2024-09-23T00:13:25.893Z
+date: 2024-10-02T08:59:39.935Z
+updated: 2024-10-04T09:00:08.040Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -58,27 +65,36 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -111,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -126,21 +149,14 @@ If this method didn’t work for you, check out the last fix.
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -148,13 +164,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
@@ -178,5 +187,26 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-hidden-potential-with-instagrams-inquiry-emoji-for-2024/"><u>[New] Unlocking Hidden Potential with Instagram’s Inquiry Emoji for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-seamlessly-add-snap-camera-to-microsoft-chats/"><u>[Updated] 2024 Approved How To Seamlessly Add Snap Camera to Microsoft Chats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-catalog-of-livestreaming-cameras-review/"><u>[Updated] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-shots-the-ultimate-hdr-cameras-list/"><u>2024 Approved Elevate Your Shots The Ultimate HDR Cameras List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-making-sounds-count-windows-10-audio-guide/"><u>2024 Approved Making Sounds Count Windows 10 Audio Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-overcoming-bluetooth-pairing-challenges-in-windows-10/"><u>Comprehensive Tutorial: Overcoming Bluetooth Pairing Challenges in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detailed-instructions-for-adding-external-hdd-to-your-xbox-one-console/"><u>Detailed Instructions for Adding External HDD to Your Xbox One Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-unresponsive-lenovo-mouse-pads-on-various-versions-of-windows-os/"><u>Diagnosing and Fixing Unresponsive Lenovo Mouse Pads on Various Versions of Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975556880-enhance-your-print-quality-with-new-epson-wf-3620-drivers-for-windows-1087-download-here/"><u>Enhance Your Print Quality with New Epson WF-3620 Drivers for Windows 10/8/7 - Download Here</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-pratique-comment-construire-un-spectacle-en-livres-tournants-sur-flipbuildercom/"><u>Guide Pratique : Comment Construire Un Spectacle en Livres Tournants Sur FlipBuilder.com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-winupdate-issue-error-code-0x80070002-solution-steps/"><u>How to Overcome WinUpdate Issue: Error Code 0X80070002 Solution Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-change-rendering-api-error-2024-in-dota-2-tips-and-tricks/"><u>How to Resolve the 'Change Rendering API' Error 2024 in Dota 2 - Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208954635-lost-sd-card-discovery-reveal-and-repair-paths/"><u>Lost SD Card Discovery? Reveal and Repair Paths</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-application-stalls-with-easy-fixes-for-error-1053/"><u>Overcoming Application Stalls with Easy Fixes for Error 1053</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-to-reactivate-your-file-explorer-when-it-wont-respond-on-windows/"><u>Quick Remedies to Reactivate Your File Explorer When It Won't Respond on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-exit-strategies-for-windows-11-users-experiencing-delayed-shutdowns/"><u>Smooth Exit Strategies for Windows 11 Users Experiencing Delayed Shutdowns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cellular-data-issues-with-10-proven-fixes/"><u>Troubleshooting iPhone Cellular Data Issues with 10 Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-non-responsive-spacebar-issue-in-windows-11/"><u>Troubleshooting the Non-Responsive Spacebar Issue in Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
+</ul></div>
 

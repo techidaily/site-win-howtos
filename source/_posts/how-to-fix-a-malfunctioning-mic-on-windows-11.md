@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Malfunctioning Mic on Windows 11
-date: 2024-09-23T01:04:26.962Z
-updated: 2024-09-28T20:16:07.663Z
+date: 2024-10-01T01:12:08.894Z
+updated: 2024-10-03T21:05:55.394Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 **USB 3.0** is a much more dependable and way faster USB (Universal Serial Bus) standard. Today most new computers and other devices support USB 3.0.  
  However, most USb 3.0 ports are**backward compatible** . That is to say, your USB 2.0 printer should work with USB 3.0 without problems.  
  When you receive the USB Composite Device can’t work with USB 3.0 or something similar, usually it’s a**driver problem** . Follow the solutions here to try to solve your problem.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,31 +72,24 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: You can do it**for free** if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2f7906b8e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve update your USB controller driver to the latest version, restart your computer to see if your printer is connected successfully.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your printer driver
@@ -93,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  Similar to update your printer driver, you can get the latest printer driver from your**printer manufacturer’s website** or, you can also get it automatically through **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a4193324cf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -114,6 +113,14 @@ Follow to enable Legacy USB Support:
 2. Once your system boots into BIOS, press the**right arrow key** on your keyboard, to select**Peripherals** . Proceed to press the**down arrow key** to select**USB Configuration** , then**press Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a40067e328.jpg)
 3. On the USB Configuration pane, press the**down arrow key** to select**Legacy USB Support** . Then press**Enter** to set it to**Enabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3e993e8ad.jpg)
 4. Save your setting and exit BIOS.
 
@@ -141,20 +148,14 @@ Follow to enable Legacy USB Support:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair-for-2024/"><u>[Updated] Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>[Updated] HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buzzing-silence-addressing-laptop-and-headset-issues/"><u>Buzzing Silence: Addressing Laptop & Headset Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fix-unresponsive-audio-jack-on-pc-and-laptop/"><u>Comprehensive Guide To Fix: Unresponsive Audio Jack on PC & Laptop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/excel-essentials-the-process-of-fusing-two-distinct-column-values/"><u>Excel Essentials: The Process of Fusing Two Distinct Column Values</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-strategies-for-troubleshooting-bluetooth-pairing-problems-on-windows-10/"><u>Expert Strategies for Troubleshooting Bluetooth Pairing Problems on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-update-error-code-802e4019-step-by-step-solution-guide/"><u>Fixing Windows Update Error Code 802E4019: Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>In 2024, A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-wtv-mp4/"><u>Online WTV 프리미우스 MP4 교체 - 무비 데모회사</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/refining-your-digital-footprint-editing-the-look-back-feature-for-2024/"><u>Refining Your Digital Footprint Editing the Look Back Feature for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-bluetooth-dilemma-reviving-windows-compatibility-with-a-malfunctioning-wireless-mouse/"><u>Solve Your Bluetooth Dilemma: Reviving Windows Compatibility with a Malfunctioning Wireless Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-is-my-screen-not-recognizing-the-input-signal-timing/"><u>Troubleshooting Guide: Why Is My Screen Not Recognizing the Input Signal Timing?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-openais-decision-not-to-distribute-tools-for-identifying-imitation-of-chatgpt-conversations/"><u>Understanding OpenAI's Decision Not to Distribute Tools for Identifying Imitation of ChatGPT Conversations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-adventure-showdown-analyzing-gopros-hero5b-and-session-for-2024/"><u>[New] Adventure Showdown Analyzing GoPro's Hero5B & Session for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-story-syndicate-visionary-voyages-best/"><u>[New] Story Syndicate – Visionary Voyage's Best</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-extract-sound-from-video-captures-a-quick-3-step-guide/"><u>How to Effortlessly Extract Sound From Video Captures: A Quick 3-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-safely-rip-a-dvd-of-were-the-millers-an-ultimate-guide/"><u>How to Safely Rip a DVD of 'We're The Millers': An Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-transform-your-videos-into-xbox-360-format-a-step-by-step-guide/"><u>How to Transform Your Videos Into Xbox 360 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722072963654-join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-screen-management-via-driver-rollbacks-in-win1011/"><u>Mastering Screen Management via Driver Rollbacks in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-context-selection-by-omitting-show-more/"><u>Optimize Context Selection by Omitting Show More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jpeg-mp4avimov2024/"><u>フリーで高品質なJPEGへ: MP4・AVI・MOV動画変換ツール集2024年モデルのおすすめ</u></a></li>
 </ul></div>
 

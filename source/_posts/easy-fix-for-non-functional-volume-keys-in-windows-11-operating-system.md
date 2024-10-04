@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Non-Functional Volume Keys in Windows 11 Operating System
-date: 2024-09-18T00:45:24.217Z
-updated: 2024-09-22T23:39:06.892Z
+date: 2024-09-26T21:07:53.946Z
+updated: 2024-10-04T05:40:43.407Z
 tags:
   - win11
   - win10
@@ -47,9 +47,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -78,24 +93,38 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -122,5 +151,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-action-screen-recorder-review/"><u>[New] 2024 Approved Action Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-eye-catcher-gaming-creating-striking-template-designs/"><u>[Updated] 2024 Approved Eye Catcher Gaming Creating Striking Template Designs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection/"><u>[Updated] In 2024, IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-guide-to-youtube-community-expectations/"><u>2024 Approved Master Guide to YouTube Community Expectations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-wont-stop-blinking-heres-how-to-fix-it-now/"><u>Cursor Won't Stop Blinking? Here’s How to Fix It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-streaming-snags-determining-if-your-netflix-service-is-down/"><u>Fixing Streaming Snags: Determining if Your Netflix Service Is Down</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-copy-paste-functionality-isnt-working-on-windows-11/"><u>Fixing the Issue: Why Copy-Paste Functionality Isn't Working on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-dell-wireless-keyboard-troubleshooting-tips-and-solutions/"><u>Fixing Your Dell Wireless Keyboard: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x800f081f-when-installing-net-framework-35/"><u>How to Fix Error Code 0X800F081F When Installing .NET Framework 3.5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-and-save-your-workscreen-on-windows-8/"><u>How to Record and Save Your Workscreen on Windows 8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-magic5-ultimate-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor Magic5 Ultimate Device SIM</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-applicationexe-has-stopped-working-issue-on-your-computer/"><u>Solution Steps for 'Application.exe Has Stopped Working' Issue on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-solutions-for-recovering-deleted-or-lost-steam-game-files/"><u>Successful Solutions for Recovering Deleted or Lost Steam Game Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210760530-undetected-hard-drives-find-out-why-and-how-you-can-fix-it/"><u>Undetected Hard Drives? Find Out Why and How You Can Fix It!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-voice-activated-data-collection-on-ios-ranking-the-top-10-apps/"><u>Updated In 2024, Voice-Activated Data Collection on iOS Ranking the Top 10 Apps</u></a></li>
+</ul></div>
 

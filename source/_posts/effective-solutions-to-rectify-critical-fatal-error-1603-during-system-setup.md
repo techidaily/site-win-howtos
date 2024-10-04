@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions to Rectify Critical Fatal Error: 1603 During System Setup"
-date: 2024-09-22T01:14:45.452Z
-updated: 2024-09-29T01:47:07.362Z
+date: 2024-09-27T11:26:05.922Z
+updated: 2024-10-03T20:52:05.823Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 2. **[Reset WoW User Interface](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Make sure your PC meets the minimum specifications](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device drivers
 
  It is very likely that the drivers you’ve installed on your computer are corrupt, outdated or in other ways incompatible. So you should update your drivers to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -61,6 +48,14 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Remember to restart your computer for the changes to take effect.
 5. Launch WoW to see if the error is fixed. If yes, then congrats! If it still pops up, please try**Fix 2** , below.
 
@@ -79,30 +74,32 @@ Here’s how to do it:
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
@@ -124,13 +121,6 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -159,24 +149,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-free-photo-upscaler-for-modern-devices/"><u>[Updated] Exclusive Free Photo Upscaler for Modern Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-best-online-ringtone-stores-for-pixels/"><u>[Updated] In 2024, Discover the Best Online Ringtone Stores for Pixels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-maximizing-chances-to-engage-premier-filmmakers-for-2024/"><u>[Updated] Maximizing Chances to Engage Premier Filmmakers for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-fix-distorted-aspect-ratio-convert-dvd-vob-files-to-mp4-with-handbrake/"><u>1. Fix Distorted Aspect Ratio: Convert DVD VOB Files to MP4 with Handbrake</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-windows-nines-notorious-0x80073712-problem/"><u>Comprehensive Solutions to Fix Windows Nine's Notorious '0X80073712' Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-11-users-struggling-with-broken-hp-laptop-cameras-your-ultimate-resource/"><u>Effective Fixes for Windows 11 Users Struggling with Broken HP Laptop Cameras: Your Ultimate Resource</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-drivers-compatible-with-win7-8-and-10-download-now/"><u>Free Logitech RX250 Drivers: Compatible with Win7, 8 & 10 – Download Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-7-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 7 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-at-its-peak-platform-9-insights/"><u>In 2024, Gaming at Its Peak Platform #9 Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-minecrafts-opengl-errors-essential-techniques/"><u>Mastering the Fix for Minecraft's OpenGL Errors: Essential Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-wireless-connections-turn-on-bluetooth-on-windows-11-or-10-easily/"><u>Mastering Wireless Connections: Turn On Bluetooth on Windows 11 or 10 Easily</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-fcpx-on-a-budget-top-10-free-plugins-for-video-creators-for-2024/"><u>New FCPX on a Budget Top 10 Free Plugins for Video Creators for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-techniques-for-flawless-conversion-from-m2ts-to-mkv/"><u>Top 5 Techniques for Flawless Conversion From M2TS to MKV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-free-again-successfully-restoring-your-igfxem-module-performance/"><u>Trouble-Free Again: Successfully Restoring Your IgfxEM Module Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repair-for-malfunctioning-intel-graphics-memory-modules/"><u>Troubleshooting Guide: Repair for Malfunctioning Intel Graphics Memory Modules</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-runtime-brokers-overuse-of-resources-on-windows-10-solved/"><u>Troubleshooting Runtime Broker's Overuse of Resources on Windows 10 - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unsupported-screen-input-issue-resolved-monitor-fix-guide/"><u>Unsupported Screen Input Issue Resolved: Monitor Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-users-rejoice-solve-your-bluetooth-mouse-malfunction-dilemma-today/"><u>Windows Users Rejoice: Solve Your Bluetooth Mouse Malfunction Dilemma Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-delving-into-hidden-discussions-among-viewers/"><u>2024 Approved Delving Into Hidden Discussions Among Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x800705b4-the-ultimate-solutions-for-windows-1n-update-issues/"><u>Error 0X800705B4: The Ultimate Solutions for Windows 1N Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-failed-updates-in-your-favorite-game-warframe/"><u>Expert Advice on Resolving Failed Updates in Your Favorite Game, Warframe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210808722-fast-track-solutions-get-your-overwatch-voice-communication-back-on-track-today/"><u>Fast-Track Solutions: Get Your Overwatch Voice Communication Back on Track Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-watch-instagram-live-anonymously-for-2024/"><u>How to Watch Instagram Live Anonymously for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-setup-issues-overcoming-initialization-errors-guide/"><u>Mastering Windows 11 Setup Issues: Overcoming Initialization Errors [Guide]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-a-new-gmail-account-on-your-android-smartphone/"><u>Step-by-Step Guide: Setting Up a New Gmail Account on Your Android Smartphone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-p55-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel P55 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290212236-winx-dvd-digiarty/"><u>WinX DVD用 Digiartyソフトウェアの操作ガイドとセッティング手順</u></a></li>
 </ul></div>
 

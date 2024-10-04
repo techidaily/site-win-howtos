@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for USB Power Outage Errors on Windows 11
-date: 2024-09-15T22:41:10.844Z
-updated: 2024-09-22T19:29:16.537Z
+date: 2024-09-29T19:55:01.372Z
+updated: 2024-10-03T19:30:26.566Z
 tags:
   - win11
   - win10
@@ -59,11 +59,32 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -95,18 +116,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -124,13 +145,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 6: Check the fan
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -142,10 +156,10 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 7: Clean dust
@@ -153,13 +167,6 @@ For example, many Dell PCs show this key like below at the first screen:
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
 
@@ -184,5 +191,26 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[New] In 2024, Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ios-gamers-top-5-ps2-emulators-unveiled-for-2024/"><u>[New] IOS Gamers' Top 5 PS2 Emulators Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-file-to-mp3-converter-tool/"><u>[Updated] Facebook File to MP3 Converter Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-solutions-to-record-video-without-sound/"><u>[Updated] In 2024, Best Solutions to Record Video Without Sound</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-saving-your-desktop-display-with-free-tech-tools/"><u>2024 Approved Saving Your Desktop Display with Free Tech Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectral-control-enhancing-image-aesthetics/"><u>2024 Approved Spectral Control Enhancing Image Aesthetics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-solve-windows-network-problem-0x80e704cf-fixed/"><u>Complete Guide: Solve Windows Network Problem - 0X80e704CF Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-flicker-frustration-solutions-for-stabilizing-windows-11-screens/"><u>End the Flicker Frustration: Solutions for Stabilizing Windows 11 Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unprecedented-performance-and-compact-design-with-the-worlds-first-laptop-featuring-lpcmam2-ram-lenovo-thinkpad-p1-gen-7/"><u>Experience Unprecedented Performance and Compact Design with the World’s First Laptop Featuring Lpcmam2 RAM – Lenovo ThinkPad P1 Gen 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-issue-quickly-for-your-ps4-console/"><u>How to Fix the CE-34878-0 Issue Quickly for Your PS4 Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-missing-or-invisible-cursor-problem-on-your-windows-10-pc/"><u>How to Resolve a Missing or Invisible Cursor Problem on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205397157-how-to-resolve-common-issues-apex-legends-cheating-protection-bugs-fixed/"><u>How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-ps4-ce-34878-0-error-code-successfully/"><u>How to Resolve the PS4 CE-34878-0 Error Code Successfully</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y28 5G?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-making-a-non-working-external-component-work-with-your-pc-again/"><u>Resolved Issue: Making A Non-Working External Component Work With Your PC Again</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-timeless-melodies-from-iconic-animes-for-2024/"><u>Top Picks Timeless Melodies From Iconic Animes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-your-windows-10-hosted-network-when-initialization-fails/"><u>Troubleshooting Guide: Enabling Your Windows 10 Hosted Network When Initialization Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-6-leading-chatgpt-addons-for-your-vs-code-workflow/"><u>Ultimate List: 6 Leading ChatGPT Addons for Your VS Code Workflow</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error [FIXED]"
-date: 2024-09-17T16:51:34.864Z
-updated: 2024-09-22T21:57:29.884Z
+date: 2024-09-30T16:17:44.476Z
+updated: 2024-10-03T22:03:17.398Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ If you encounter a blue screen error with the message**DRIVER\_POWER\_STATE\_FAI
 
 3) Turn on the computer again.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair Problematic System Files
 
  The error would occur if some system files are damaged or corrupted. Follow the methods below to try repairing problematic system files.
@@ -110,10 +117,10 @@ If you encounter a blue screen error with the message**DRIVER\_POWER\_STATE\_FAI
 [sfc scannow](https://images.drivereasy.com/wp-content/uploads/2016/02/sfc-scannow-500x252.png) ](https://images.drivereasy.com/wp-content/uploads/2016/02/sfc-scannow.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Windows
@@ -128,10 +135,10 @@ If you encounter a blue screen error with the message**DRIVER\_POWER\_STATE\_FAI
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -139,10 +146,10 @@ If you encounter a blue screen error with the message**DRIVER\_POWER\_STATE\_FAI
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -165,5 +172,19 @@ If you encounter a blue screen error with the message**DRIVER\_POWER\_STATE\_FAI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-definitive-guide-to-captivating-podcast-covers/"><u>[New] In 2024, The Definitive Guide to Captivating Podcast Covers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unraveling-drone-use-in-the-now-and-next-frontier/"><u>[New] Unraveling Drone Use in the Now & Next Frontier</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-music-matters-imovie-editing-tips/"><u>[Updated] Music Matters IMovie Editing Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-blues-effective-strategies-to-resolve-windows-update-error-configuration/"><u>Beating the Blues: Effective Strategies to Resolve Windows Update Error Configuration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-produce-playful-photoshopped-gifs-via-giphy/"><u>In 2024, Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/opening-markets-masterful-strategy-plots/"><u>Opening Markets Masterful Strategy Plots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-when-your-pc-wont-boot/"><u>Resolved: Troubleshooting Steps for When Your PC Won't Boot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-overcome-stuck-windows-updates-at-zero-percentage/"><u>Simple Steps to Overcome Stuck Windows Updates at Zero Percentage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-shutdown-process-on-windows-10-troubleshooting-steps-provided/"><u>Speeding Up Shutdown Process on Windows 10 - Troubleshooting Steps Provided</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic-v2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ymu719-used-in-yamahas-own-surround-master-av-receiver-models-it-differs-from-the-yac513-by-adding-dolby-digital-live-encoding-hardware-and-an-extra-digital29/"><u>YMU719 - Used in Yamaha's Own Surround Master AV Receiver Models. It Differs From the YAC513 by Adding Dolby Digital Live Encoding Hardware and an Extra Digital Audio Input Connector (S/PDIF)</u></a></li>
+</ul></div>
 

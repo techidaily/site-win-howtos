@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Thawing Your PC - Solutions to Unfreeze Your Computer"
-date: 2024-09-19T00:54:20.445Z
-updated: 2024-09-22T16:17:59.299Z
+date: 2024-09-28T04:06:58.611Z
+updated: 2024-10-03T21:06:04.394Z
 tags:
   - win11
   - win10
@@ -57,9 +57,23 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -80,6 +94,13 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -103,6 +124,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -120,18 +148,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-transforming-photos-and-videos-from-instagram-to-iphones/"><u>[New] Transforming Photos and Videos From Instagram to iPhones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204036664-resolved-highly-accelerate-your-systems-performance-overcoming-excess-cpu-usage-caused-by-shell-infrastructures/"><u>[Resolved] Highly Accelerate Your System's Performance – Overcoming Excess CPU Usage Caused by Shell Infrastructures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-together-top-metaverse-multiplayer-joints/"><u>[Updated] Exploring Together Top Metaverse Multiplayer Joints</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-forge-corporate-icons-without-spending-a-dime/"><u>[Updated] Forge Corporate Icons Without Spending a Dime</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>2024 Approved Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc/"><u>2024 Approved Streamlining Your Media Mastering MP4 & Other Formats in VLC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-error-0x80224200d-successfully-update-your-windows-system-now/"><u>Definitive Solutions to Error 0X802^24200D – Successfully Update Your Windows System Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-xp-245-printer-software-compatible-with-windows-7-8-and-10/"><u>Download Epson XP-245 Printer Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722707492600-experience-high-definition-with-the-affordable-sony-xbr65x850f-our-in-depth-65-inch-tv-review/"><u>Experience High Definition with the Affordable Sony XBR65X850F - Our In-Depth 65-Inch TV Review!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-white-screen-of-death-on-your-laptop-a-comprehensive-guide/"><u>Fixing the White Screen of Death on Your Laptop – A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-video-konvertiering-avi-vs-voc-mobavivi-speedy-converter-online/"><u>Gratis Video Konvertiering - AVI V/S VOC: Mobavivi Speedy Converter Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-start-menu-issues-quickly-and-easily/"><u>How to Fix Windows 11 Start Menu Issues Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-incompatible-with-miracast-error-comprehensive-guide/"><u>How to Resolve Device Incompatible with Miracast Error : Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-is-it-possible-to-watch-fb-videos-on-tv/"><u>In 2024, Is It Possible to Watch FB Videos on TV ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functional-huion-drawing-tablet-top-5-solutions/"><u>Quick Fixes for a Non-Functional Huion Drawing Tablet: Top 5 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-windows-10-restart-loop/"><u>Simple Fixes for the Persistent Windows 10 Restart Loop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cwindowssystem32configsystemprofiledesktop-error-explained/"><u>Troubleshooting: C: Windows System32 Config SystemProfile Desktop Error Explained</u></a></li>
+</ul></div>
 

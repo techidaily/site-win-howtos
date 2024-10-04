@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Rectifying Game Installation Faults on Origin Games
-date: 2024-09-17T17:06:38.206Z
-updated: 2024-09-22T23:44:50.451Z
+date: 2024-10-02T13:11:31.430Z
+updated: 2024-10-03T22:21:30.959Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -61,6 +68,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
@@ -69,6 +84,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4a64ced8.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ## **Method 4: Check your device drivers**
@@ -91,6 +114,13 @@ Here take Intel USB 3.0 driverf for example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -104,12 +134,20 @@ Here take Intel USB 3.0 driverf for example:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[New] Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-peepsnap-evaluation-review-screen-recorders/"><u>[Updated] 2024 Approved Peepsnap Evaluation Review - Screen Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-your-own-high-definition-pc-for-immersive-video-creation/"><u>[Updated] Constructing Your Own High-Definition PC for Immersive Video Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-busting-the-top-10-vloggers-fears-strategies-for-success/"><u>[Updated] In 2024, Busting the Top 10 Vloggers' Fears Strategies for Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-path-to-youtube-studio-the-editors-command-center/"><u>2024 Approved Your Path to YouTube Studio The Editor's Command Center</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-5-digital-recorder-selects-for-2024/"><u>Best 5 Digital Recorder Selects for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-touchpad-from-activating-with-a-mouse-in-windows-11/"><u>How to Prevent Your Touchpad From Activating with a Mouse in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-dns-response-issue-top-4-fixes/"><u>Solving the 'No DNS Response' Issue: Top 4 Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Phones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-honor-magic-vs-2-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor Magic Vs 2 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-lighting-on-faulty-corsair-keyboards/"><u>Troubleshooting Guide: Restoring Lighting on Faulty Corsair Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-malfunction-heres-how-to-repair-your-graphics-tablet/"><u>Wacom Malfunction? Here's How to Repair Your Graphics Tablet</u></a></li>
+</ul></div>
 

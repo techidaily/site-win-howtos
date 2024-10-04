@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Keys on Your Dell Computer
-date: 2024-09-28T03:44:43.900Z
-updated: 2024-09-29T00:58:20.745Z
+date: 2024-10-02T01:40:29.158Z
+updated: 2024-10-04T03:31:07.865Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -84,13 +77,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -110,10 +96,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -121,6 +107,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -132,15 +125,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -159,10 +159,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,20 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>[New] 2024 Approved Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-protect-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>[New] 2024 Approved Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-discover-these-6-must-have-instagram-reel-tools-for-2024/"><u>[New] Discover These 6 Must-Have Instagram Reel Tools for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-diverse-designs-at-your-fingertips-from-these-6-websites/"><u>[New] In 2024, Diverse Designs at Your Fingertips From These 6 Websites</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rising-tides-of-streamers-a-guide-to-building-a-successful-chatter/"><u>[Updated] Rising Tides of Streamers A Guide to Building a Successful Chatter</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-xcover-6-pro-tactical-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy XCover 6 Pro Tactical Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-how-to-troubleshoot-and-fix-a-non-functional-ps4-mic/"><u>Expert Guide: How to Troubleshoot and Fix a Non-Functional PS4 Mic</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-usb-mouse-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Solutions for Your Laptop Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-pre-hunt-darkness-a-guide-to-resolving-startup-blackouts-in-monster-hunter-world/"><u>Fixing Pre-Hunt Darkness: A Guide to Resolving Startup Blackouts in Monster Hunter: World</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-k11x-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo K11x phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-non-functioning-fn-buttons-on-your-lenovo-laptop-or-desktop/"><u>Quick Fixes to Restore Non-Functioning FN Buttons on Your Lenovo Laptop or Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mingwm10dll-file-not-found-a-comprehensive-guide/"><u>Solving the 'mingwm10.dll' File Not Found - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-methods-to-resolve-high-gpu-demand-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Methods to Resolve High GPU Demand by the Desktop Window Manager on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-razer-mechanical-keyboard/"><u>Troubleshooting Guide: Fixing a Non-Responsive Razer Mechanical Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-get-your-corsair-illuminated-keyboard-working-again/"><u>Troubleshooting Guide: How to Get Your Corsair Illuminated Keyboard Working Again</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhancing-visual-appeal-the-ultimate-guide-to-editing-instagram-videos/"><u>[New] In 2024, Enhancing Visual Appeal The Ultimate Guide to Editing Instagram Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-microsoft-screen-recorder/"><u>[New] Microsoft Screen Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-your-guide-to-conquering-video-meetings-with-zoom-and-win10/"><u>[Updated] Your Guide to Conquering Video Meetings with Zoom & WIN10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/10-best-camcorder-you-should-try-2024-ultimate-review/"><u>10 Best Camcorder You Should Try 2024 [Ultimate Review]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-list-of-best-videocall-services-without-cost/"><u>Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-an-unavailable-wi-fi-signal-indicated-by-a-red-x-icon/"><u>How to Address an Unavailable Wi-Fi Signal Indicated by a Red 'X' Icon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-11-systems-shutdown-process-a-comprehensive-guide/"><u>How to Speed Up Your Windows 11 System's Shutdown Process - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-apex-legends-hiccup-straightforward-solutions-for-anti-cheat-errors/"><u>Overcoming the Apex Legends Hiccup: Straightforward Solutions for Anti-Cheat Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-the-parameter-is-incorrect-error-error-code-groovy-when-loading-libraries/"><u>Resolved: Overcoming 'The Parameter Is Incorrect' Error (Error Code Groovy) When Loading Libraries</u></a></li>
+<li><a href="https://video-capture.techidaily.com/sprightly-spirits-top-kid-approved-games-for-2024/"><u>Sprightly Spirits Top Kid-Approved Games for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-how-to-tackle-and-correct-0x80070652-errors-in-windows-update/"><u>Troubleshooting Made Simple: How to Tackle and Correct 0X80070652 Errors in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211151291-windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Restore Pasting Functionality on Windows 11"
-date: 2024-09-27T16:00:21.097Z
-updated: 2024-10-04T16:00:43.215Z
+date: 2024-10-03T19:36:06.445Z
+updated: 2024-10-09T17:32:04.257Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
  If you find any viruses or malware, remove them completely from your computer. If you don’t have a third-party anti-virus program, we recommend **[Malwarebytes](https://tools.techidaily.com/drivereasy/download/)**  – a power tool that can protect your device from threats like worms, trojans, rootkits, spyware, bots, and more.
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
 
@@ -85,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -96,10 +89,17 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -129,22 +129,21 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audio-flow-streamlining-sound-segments/"><u>[New] Audio Flow Streamlining Sound Segments</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>[Updated] 2024 Approved Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-comprehensive-list-of-premier-streaming-services/"><u>[Updated] Comprehensive List of Premier Streaming Services</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-invisible-audiences-viewing-instagram-stories-privately-from-pcandroidios-screens-for-2024/"><u>[Updated] Invisible Audiences Viewing Instagram Stories Privately From PC/Android/iOS Screens for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-connectivity-woes-ultimate-guide-to-pairing-airpods-with-windows-computers/"><u>Beat Connectivity Woes: Ultimate Guide to Pairing AirPods with Windows Computers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversing-with-confidence-mastering-japanese-salutations/"><u>Conversing with Confidence: Mastering Japanese Salutations</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fallout-4-lag-dilemma-expert-tips-and-tricks-to-boost-your-gaming-experience/"><u>Fallout 4 Lag Dilemma: Expert Tips and Tricks to Boost Your Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cant-open-geforce-experience-problems-step-by-step-solutions/"><u>Fixing 'Can't Open GeForce Experience' Problems - Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-no-device-found-error-on-your-computer-step-by-step-guide/"><u>Fixing the 'No Device Found' Error on Your Computer - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instantaneous-methods-for-video-to-mp3-on-instagram-for-2024/"><u>Instantaneous Methods for Video-to-MP3 on Instagram for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-malfunctions-on-windows-10-a-comprehensive-fix-guide/"><u>Overcoming HP Laptop Webcam Malfunctions on Windows 10: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-windows-10-keyboard-responsiveness-issues/"><u>Solution Guide: Overcoming Windows 10 Keyboard Responsiveness Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-video-editing-software-for-newcomers/"><u>Updated The Ultimate List of Video Editing Software for Newcomers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leading-techniques-for-youtube-mpeg-migration/"><u>[New] Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-virtual-meeting-platforms-zooming-onto-your-android/"><u>[New] Navigating Virtual Meeting Platforms Zooming Onto Your Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pivotal-8-image-packs-for-elevated-mac-aesthetics/"><u>[New] Pivotal 8 Image Packs for Elevated Mac Aesthetics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-youtube-full-length-view-control-for-2024/"><u>[Updated] Mastering YouTube Full-Length View Control for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-computing-choices-the-finest-selection/"><u>[Updated] Premier Computing Choices The Finest Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-the-0xc00amage-expert-fixes-to-your-windows-error-code-problems/"><u>Decoding the 0xC00amage: Expert Fixes to Your Windows Error Code Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-8-alternative-messaging-platforms/"><u>Discover the Best 8 Alternative Messaging Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-ethernet-network-errors-for-windows-10-and-7-users/"><u>Guide to Repairing Ethernet Network Errors for Windows 10 and 7 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-mousepad-on-windows-8-and-7-step-by-step-guide/"><u>How to Fix a Non-Responsive Laptop Mousepad on Windows 8 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-non-functional-dell-usb-ports/"><u>How to Troubleshoot and Repair Non-Functional Dell USB Ports</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/professional-and-effective-zero-cost-bootstrapped-landing-designs-by-creative-tim/"><u>Professional & Effective Zero-Cost Bootstrapped Landing Designs by Creative Tim</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-unsupported-platforms-during-intel-serial-io-driver-setup/"><u>Resolving Issues with Unsupported Platforms During Intel Serial IO Driver Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-usb-connection-woes/"><u>Ultimate Guide: Solving Your USB Connection Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-malfunctioning-problem-solved-guides-for-windows-10-and-11/"><u>USB Malfunctioning Problem Solved: Guides for Windows 10 and 11</u></a></li>
 </ul></div>
 

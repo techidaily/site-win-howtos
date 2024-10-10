@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Surface Pen"
-date: 2024-09-27T16:00:06.910Z
-updated: 2024-10-04T16:00:11.088Z
+date: 2024-10-04T19:43:42.509Z
+updated: 2024-10-09T19:08:06.285Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 3) Connect your USB device to the laptop again
 
 4) Plug the power supply back in
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
 
@@ -62,16 +76,16 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -86,17 +100,10 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -150,24 +150,19 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid/"><u>[New] In 2024, Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-airplay-to-download-effortless-apods-access/"><u>[New] In 2024, From AirPlay to Download Effortless APods Access</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tips-for-enabling-grid-on-google-meet-for-2024/"><u>[Updated] Tips for Enabling Grid on Google Meet for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-chortlecraft-funny-visuals-for-social-engagement/"><u>2024 Approved ChortleCraft Funny Visuals for Social Engagement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unsupported-hardware-with-the-right-device-driver-for-windows/"><u>How to Fix Unsupported Hardware with the Right Device Driver for Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-s24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy S24 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-iphone-image-transfer-methods-explained/"><u>In 2024, IPhone Image Transfer Methods Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>In 2024, Unveiling the LG BP350 A Detailed Performance & Design Study</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-tips-accelerate-your-keyboards-reaction-speed-easily/"><u>Master Tips: Accelerate Your Keyboard’s Reaction Speed Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210987321-pubg-construction-glitch-resolved-ensure-smooth-gameplay-with-these-tips/"><u>PUBG Construction Glitch Resolved – Ensure Smooth Gameplay with These Tips!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-p55plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel P55+ Screen | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206353380-solving-your-pcs-unintended-nap-problem-quick-and-simple-fixes/"><u>Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-unavailable-audiovideo-device-drivers-in-your-computer-setup/"><u>The Ultimate Fix for Unavailable Audio/Video Device Drivers in Your Computer Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-fix-and-stop-automatic-repairs-in-windows-11-once-and-for-all/"><u>The Ultimate Solution to Fix and Stop Automatic Repairs in Windows 11 Once and For All</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-the-common-0x80004005-unspecified-error-on-windows/"><u>Troubleshooting Guide for the Common 0X80004005 Unspecified Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-pasting-issues-on-windows-10-pc/"><u>Troubleshooting Pasting Issues on Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-issues-with-your-non-responsive-corsair-keyboard/"><u>Troubleshooting: Fixing Issues with Your Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-visual-stories-with-engaging-voices/"><u>[New] Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-madness-twitters-funniest-video-threads-for-2024/"><u>[Updated] Meme Madness Twitter's Funniest Video Threads for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-techs-leading-edge-in-video-capturing-software/"><u>2024 Approved Tech's Leading Edge in Video Capturing Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209144841-biomarker-testing-is-essential-for-identifying-patients-who-will-benefit-from-targeted-therapy/"><u>Biomarker Testing Is Essential for Identifying Patients Who Will Benefit From Targeted Therapy.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-applied-custom-setup-features-now-fully-functional-again/"><u>Fixes Applied: Custom Setup Features Now Fully Functional Again</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-efficiently-capturing-footage-for-ideal-snaps-via-mac/"><u>In 2024, Efficiently Capturing Footage for Ideal Snaps via Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/network-initialization-issue-resolved-in-dragon-ball-fighterz/"><u>Network Initialization Issue Resolved in Dragon Ball FighterZ</u></a></li>
+<li><a href="https://os-tips.techidaily.com/personalize-your-iphone-experience-a-step-by-step-guide-to-changing-siris-voice/"><u>Personalize Your iPhone Experience: A Step-by-Step Guide to Changing Siri's Voice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-pointer-vanishing-issues-in-windows-1e/"><u>Resolving Mouse Pointer Vanishing Issues in Windows 1E</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixing-the-critical-setup-failure-error-1603/"><u>Successfully Resolved: Fixing the Critical Setup Failure - Error 1603</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-most-effective-getflv-substitute-for-macos-and-windows-systems-the-allavsoft-solution/"><u>Top Most Effective GetFLV Substitute for macOS & Windows Systems: The Allavsoft Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-kodi-buffering-woes-easy-steps-for-seamless-viewing/"><u>Troubleshoot Kodi Buffering Woes – Easy Steps for Seamless Viewing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/why-apple-discontinued-final-cut-express-for-2024-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>Why Apple Discontinued Final Cut Express for 2024 What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
 </ul></div>
 

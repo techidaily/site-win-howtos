@@ -1,7 +1,7 @@
 ---
 title: How to Fix DVD/CD Drive Not Working In Windows
-date: 2024-09-28T16:02:14.410Z
-updated: 2024-10-04T16:01:53.273Z
+date: 2024-10-07T22:18:09.491Z
+updated: 2024-10-09T20:44:49.613Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -44,21 +37,28 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
@@ -121,15 +121,15 @@ Now Microsoft will detect the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -158,21 +158,17 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-gratis-emulation-software-for-nintendo-switch/"><u>[New] 2024 Approved Gratis Emulation Software for Nintendo Switch</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-flawless-tint-enhancer-for-2024/"><u>[New] Flawless Tint Enhancer for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-breaking-down-zoom-session-division-for-2024/"><u>[Updated] Breaking Down Zoom Session Division for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>[Updated] In 2024, Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>[Updated] In 2024, Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/comment-minimiser-la-taille-des-videos-pour-une-partage-aise-sur-facebook/"><u>Comment Minimiser La Taille Des Vidéos Pour Une Partage Aisé Sur Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-network-setup-problem-solved-successfully/"><u>Dragon Ball FighterZ Network Setup Problem Solved Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-a-stuck-or-dead-spacebar-when-using-windows-11/"><u>Effective Remedies for a Stuck or Dead Spacebar When Using Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-solving-windows-10-bluetooth-connection-issues/"><u>Expert Guide: Solving Windows 10 Bluetooth Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-pubg-running-smoothly-with-our-step-by-step-launch-fixes/"><u>Get PUBG Running Smoothly with Our Step-by-Step Launch Fixes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207520771-no-more-errors-the-stop-working-problem-with-32bit-application-print-drivers-is-fixed/"><u>No More Errors - The 'Stop Working' Problem with 32Bit Application Print Drivers Is Fixed!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-x9a-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor X9a Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-error-1053-when-services-fail-to-start-promptly/"><u>Quick Fix Guide for 'Error 1053': When Services Fail to Start Promptly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-comctl32dll-file-a-step-by-step-guide/"><u>Resolving the Missing Comctl32.dll File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-solutions-for-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues: Solutions for Your ASUS Laptop</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[New] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-stuck-on-welcome-screen-quickly-and-easily/"><u>[Solved] | Windows 10 Stuck on Welcome Screen | Quickly & Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>2024 Approved Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-comprehensive-guide-to-laptop-screen-recording-techniques-for-2024/"><u>A Comprehensive Guide to Laptop Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-purchasing-guide-a-list-of-nine-insightful-questions-every-potential-buyer-should-ask/"><u>Electric Vehicle Purchasing Guide: A List of Nine Insightful Questions Every Potential Buyer Should Ask</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-overcoming-the-persistent-error-code-0x80072f8f-in-windows-11-and-10/"><u>Guide: Overcoming the Persistent Error Code 0X80072F8F in Windows 11 and 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highlighted-10-facial-edits-for-iosandroid-phones/"><u>Highlighted 10 Facial Edits for iOS/Android Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-windows-10s-troublesome-0xc1900208-update-issue/"><u>Mastering the Fix for Windows 10'S Troublesome 0XC1900208 Update Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-p40plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel P40+ Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-cannot-reach-windows-installer-service-problem-efficiently/"><u>Resolving the 'Cannot Reach Windows Installer Service' Problem Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-airpod-dilemma-how-to-revive-your-earbud-when-only-one-is-faulty/"><u>Single AirPod Dilemma: How to Revive Your Earbud When Only One Is Faulty</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-scroll-on-my-touchpad-master-the-fixes-for-smooth-operation/"><u>Why Can't I Scroll on My Touchpad? Master the Fixes for Smooth Operation</u></a></li>
 </ul></div>
 

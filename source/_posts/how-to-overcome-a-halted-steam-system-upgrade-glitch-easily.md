@@ -1,7 +1,7 @@
 ---
 title: How to Overcome a Halted Steam System Upgrade Glitch Easily
-date: 2024-10-01T16:00:14.444Z
-updated: 2024-10-04T16:00:11.594Z
+date: 2024-10-05T17:33:38.973Z
+updated: 2024-10-09T23:24:28.845Z
 tags:
   - win11
   - win10
@@ -36,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -63,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -80,19 +66,27 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -105,8 +99,22 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -126,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -147,13 +148,6 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -162,6 +156,13 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -184,17 +185,17 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-image-uploads-on-instagram-for-2024/"><u>[New] Mastering Image Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/androidioswindows/"><u>最佳無限語音到文字翻譯器：釋放Android、iOS及Windows上的潛力！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-dal-formato-mka-a-ogg-con-moveave-tecniche-e-guide-online/"><u>Conversione Gratuita Dal Formato MKA a OGG Con Moveave - Tecniche E Guide Online</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-audio-editing-toolkit-learn-how-to-seamlessly-segment-mp3s-on-windowsmac/"><u>Free Audio Editing Toolkit: Learn How To Seamlessly Segment MP3s on Windows/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-webm-to-swf-converter-fast-and-reliable-by-movavi/"><u>Free Webm to Swf Converter - Fast & Reliable by Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-flv-to-ogg-konverteren-online-efficient-en-beslist/"><u>Gratis Flv-To-Ogg Konverteren Online - Efficiënt en Beslist</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-from-videographer-to-income-generator-on-youtube/"><u>In 2024, From Videographer to Income Generator on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yogi-essentials-top-ten-web-channels-for-exercise/"><u>In 2024, Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ingenious-ways-to-change-song-duration-in-spotify-for-2024/"><u>Ingenious Ways to Change Song Duration in Spotify for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-profit-strategies-for-vimeo-content-creators-for-2024/"><u>Mastering Profit Strategies for Vimeo Content Creators for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rmvb-movavi/"><u>RMVBファイルを手軽なオンラインツールで無料変換: 動画編集マスター – Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-deleting-programs-on-a-mac-computer/"><u>Step-by-Step Instructions for Deleting Programs on a Mac Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-peerless-dialogue-creator-zone-for-2024/"><u>[Updated] Peerless Dialogue Creator Zone for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quietude-in-a-click-the-ultimate-calm-list/"><u>2024 Approved Quietude in a Click The Ultimate Calm List</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bypassing-common-compatibility-challenges-logitech-f710-on-windows-810117/"><u>Bypassing Common Compatibility Challenges: Logitech F710 on Windows 8/10/11/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-fatal-dxgkrnl-errors-during-video-streaming-in-windows/"><u>Effective Fixes for Handling Fatal Dxgkrnl Errors During Video Streaming in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-and-tricks-for-correcting-device-driver-missing-mishaps-during-windows-7-install/"><u>Essential Tips & Tricks for Correcting 'Device Driver Missing' Mishaps During Windows 7 Install</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g73-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G73 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-best-practice-manual-for-text-on-picture-edits/"><u>In 2024, The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-overcoming-latency-problems-on-windows-tenth-version/"><u>Keyboard Responsiveness Improved - Overcoming Latency Problems on Windows Tenth Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-assistance-correcting-game-configuration-problems-for-optimal-performance/"><u>Origin Assistance: Correcting Game Configuration Problems for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-avatars-vibrant-world-fixing-the-game-on-desktop-computers/"><u>Revive Avatar's Vibrant World: Fixing the Game on Desktop Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-windows-10-error-code-0x800f0922-during-updates/"><u>Top 8 Solutions to Overcome Windows 10 Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/qt-gif-movavi/"><u>オンラインで簡単に QT GIFを無料変換: Movaviの使い方</u></a></li>
 </ul></div>
 

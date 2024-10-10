@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Adobe Shockwave Flash Disruptions in Google Chrome: Expert Solutions"
-date: 2024-09-29T16:00:06.844Z
-updated: 2024-10-04T16:00:57.763Z
+date: 2024-10-04T16:39:30.830Z
+updated: 2024-10-09T22:13:05.443Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,21 +53,7 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -81,14 +74,22 @@ Here’s how to do it:
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
@@ -108,23 +109,16 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -137,6 +131,14 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -162,24 +164,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>[New] 2024 Approved From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[Updated] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diminish-win1011s-high-cpu-load/"><u>Diminish Win10/11's High CPU Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-tackle-your-pcs-battery-charging-issues-on-windows-7-and-10/"><u>Effective Solutions to Tackle Your PC's Battery Charging Issues on Windows 7 and 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-overcoming-code-31-issues-in-windows-operating-systems/"><u>Error Resolved: Overcoming Code 31 Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-error-message-there-was-a-problem-when-performing-a-reset-on-your-pc-running-windows-amoled-49275680c3b2/"><u>How to Correctly Address the Error Message 'There Was a Problem' When Performing a Reset on Your PC Running Windows Amoled-49275680c3b2</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-configure-streamlabs-on-your-mac-using-obs/"><u>In 2024, Configure Streamlabs on Your Mac Using OBS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A54 5G FRP</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ios-16-depth-effect-not-functioning-discover-these-7-fixes-to-restore-your-lock-screen-experience/"><u>IOS 16 Depth Effect Not Functioning? Discover These 7 Fixes to Restore Your Lock Screen Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-nvidia-quadro-rtx-ns-drivers-for-win-11107-free-download-available/"><u>Latest Version of Nvidia Quadro RTX N's Drivers for Win 11/10/7 - Free Download Available!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-top-reaction-video-editing-apps/"><u>New 2024 Approved The Best of the Best Top Reaction Video Editing Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-construction-fails-resolved-now-all-structures-load-properly/"><u>PUBG Construction Fails Resolved: Now All Structures Load Properly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-graphics-driver-woes-of-r9-on-windows-10/"><u>Solving Graphics Driver Woes of R9 on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-rpc-service-failures-in-windows-environments/"><u>Step-by-Step Guide: Repairing RPC Service Failures in Windows Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-win-11-update-error-code-0xc190n0028-troubleshooting-guide/"><u>The Ultimate Fix for Win 11 Update Error Code 0Xc190n0028 - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-correcting-livekernel-event-144-issue/"><u>Troubleshooting Guide: Correcting LiveKernel Event 144 Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-auto-start-issues-how-to-stop-your-windows-10-pc-from-turning-on-unattended/"><u>Understanding Auto-Start Issues: How to Stop Your Windows 10 PC From Turning On Unattended</u></a></li>
-<li><a href="https://win11.techidaily.com/your-quick-guide-to-fixing-camera-errors-in-windows/"><u>Your Quick Guide to Fixing Camera Errors in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-guide-broadcast-360-videos-on-facebook-for-2024/"><u>[New] Essential Guide Broadcast 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-to-elevate-your-fullscreen-experience-in-premiere/"><u>[Updated] Expert Techniques to Elevate Your Fullscreen Experience in Premiere</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-dailymotion-videos-online-for-free-no-cost-for-2024/"><u>Convert Dailymotion Videos Online for Free - No Cost for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-steps-when-facing-a-blocked-windows-install/"><u>Easy Troubleshooting Steps When Facing a Blocked Windows Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-a-recent-fix-now-allows-for-seamless-miracast-casting-after-driver-update/"><u>How a Recent Fix Now Allows for Seamless Miracast Casting After Driver Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-errcachemiss-error-in-google-chrome/"><u>How to Fix ERR_CACHE_MISS Error in Google Chrome</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y27 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-g2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo G2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-tips-bringing-back-keyboard-glow-on-your-laptop-or-desktop-computer/"><u>Repair Tips: Bringing Back Keyboard Glow on Your Laptop or Desktop Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strengthening-your-thesis-with-ai-how-to-integrate-chatgpt-into-research-and-academic-writing/"><u>Strengthening Your Thesis with AI: How to Integrate ChatGPT Into Research & Academic Writing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210758529-troubleshooting-keyboard-delay-issues-in-windows-10-effective-solutions-applied/"><u>Troubleshooting Keyboard Delay Issues in Windows 10: Effective Solutions Applied.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-persistent-99-barrier-during-windows-11-upgrades-a-step-by-step-fix/"><u>Troubleshooting the Persistent 99% Barrier During Windows 11 Upgrades: A Step-by-Step Fix</u></a></li>
 </ul></div>
 

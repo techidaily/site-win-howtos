@@ -1,0 +1,173 @@
+---
+title: "Solved: Why Your Surface Pro Eb Tablet's Pen Isn't Responding"
+date: 2024-10-06T18:35:07.060Z
+updated: 2024-10-09T20:27:37.680Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Solved: Why Your Surface Pro Eb Tablet's Pen Isn't Responding"
+excerpt: "This Article Describes Solved: Why Your Surface Pro Eb Tablet's Pen Isn't Responding"
+thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652a5ccde76155c26629dae8fb.png
+---
+
+## Why Isn’t My Microsoft Surface Pro 4 Touch Screen Responding? Solve the Problem Here
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad4f7002d7.jpg)
+
+ If you are a Surface Pro 4 user, and the touch screen of your tablet can’t work, you are not alone. Many Surface Pro 4 users are reporting this. The good news is you can fix it. The article shows you four methods. You may not have to try them all; just work from the top down until you find the one that works.
+
+ **Method 1: [Perform a two button shutdown](https://tools.techidaily.com/drivereasy/download/)**
+ **Method 2: [Install system updates](https://tools.techidaily.com/drivereasy/download/)**
+ **Method 3: [Update the driver of your touch screen](https://tools.techidaily.com/drivereasy/download/)**
+ **Method 4: [Reset your Surface Pro 4](https://tools.techidaily.com/drivereasy/download/)**
+
+**NOTE:** Since your touch screen cannot work, you need other**input devices** such as a mouse, a keyboard, a Type Cover, etc, to perform some of these methods.  
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+  
+## Method 1: Perform a two button shutdown
+
+ Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
+
+**1)** Press and hold the**power button** of your device for some**30 seconds** and then release it.
+
+**2)**  Press the**volume up (+) button** and the**power button** together and**hold** them for around**15** **seconds** . (Do**NOT** release them when you see the logo pops up.)
+
+**3)**  Leave your Surface Pro 4 for over**10** **seconds** .
+
+**4) Start** your device. Then try your touch screen and see if it can work.  
+  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Method 2: Install system updates
+
+ Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
+
+**1)** Open **Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**2)**  Select **Update & Security.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+**3)**  Select **Check for updates** , and wait for the system updates to be installed.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
+
+**4)**  Restart your computer and check to see if this fixes your touch screen.  
+  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Method 3: Update the driver of your touch screen
+
+ You may not be able to use your touch screen if you are using a wrong or outdated touch screen driver. You should verify that your touch screen has the right driver, and update it if it doesn’t.
+
+ If you’re not comfortable playing around with drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+**Diver Easy** can automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the**Pro** version of Driver Easy. But with the Pro version it takes just**2** clicks (and you get**full support** and a**30-day money back** guarantee):
+
+ **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install**Driver Easy** .
+
+**2)** **Run** **Driver Easy** and click the **Scan Now** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
+
+**3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
+  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Method 4: Reset your Surface Pro 4
+
+ Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
+
+**1)** Open **Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
+
+**2)**  Select **Update & Security.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+**3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
+
+**4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
+**4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
+
+* [Surface](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-making-photographs-larger-without-losing-quality/"><u>[New] Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-beginners-guide-to-simple-yet-effective-filming-gear/"><u>[Updated] Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[Updated] Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-runtime-broker-causing-high-cpu-spikes-in-windows-11/"><u>Diagnosing and Repairing the Runtime Broker Causing High CPU Spikes in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restarting-your-windows-update-service-problems-solved/"><u>Guide to Restarting Your Windows Update Service – Problems Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-11-says-audio-output-not-detected/"><u>How to Restore Audio Functionality When Windows 11 Says 'Audio Output Not Detected'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-computer/"><u>How to Restore Brightness Control Functionality on Your Windows 지대 11 Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-image-excellence-zero-price-tag/"><u>In 2024, Maximizing Image Excellence, Zero Price Tag</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>New 2024 Approved Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>New In 2024, Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-detecting-peripherals-on-a-windows-lnkskrns-pc-via-bluetooth/"><u>Resolving Non-Detecting Peripherals on a Windows ˈlɪnkskrɪn's PC via Bluetooth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-error-in-directx-a-complete-guide/"><u>Resolving the 'Unrecoverable Error' In DirectX: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-windows-update-problem-0x80n007001f/"><u>Step-by-Step Solution for Overcoming Windows Update Problem 0X80n007001f</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-a56s-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A56s 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-ai-tools-elevating-cyber-search-capabilities/"><u>Unmatched AI Tools Elevating Cyber Search Capabilities</u></a></li>
+</ul></div>
+

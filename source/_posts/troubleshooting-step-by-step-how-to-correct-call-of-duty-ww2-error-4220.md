@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Step-by-Step: How to Correct Call of Duty WW2 Error 4220"
-date: 2024-09-28T16:00:00.622Z
-updated: 2024-10-04T16:00:02.945Z
+date: 2024-10-03T17:30:16.752Z
+updated: 2024-10-09T23:29:12.735Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -47,16 +54,10 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -69,10 +70,10 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -88,21 +89,14 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -131,24 +125,19 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-your-fb-messages-go-global-solve-video-send-issues-iosandroid/"><u>[Updated] How to Make Your FB Messages Go Global Solve Video Send Issues iOS/Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets of Video Editing on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-snapchat-ecosystem-for-biz-growth/"><u>[Updated] Navigating the Snapchat Ecosystem for Biz Growth</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-windows-10-kepernyok-vegrehajtasban-a-4-mod-palyara-szelesebeli-megoldas/"><u>A Windows 10 Képernyők Végrehajtásban: A 4-Mód Pályára Szélesebeli Megoldás</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asfmpeg-asf-movavi/"><u>ASF格式自由下載與無障礙MPEG-ASF傳輸 - Movavi 影像編解碼器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-formato-m2ts-sin-costo-alguno-con-nuestra-herramienta-online/"><u>Cambia Tus Archivos De Video MP4 a Formato M2TS Sin Costo Alguno Con Nuestra Herramienta Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/charting-new-realms-with-ultra-hd-resolution-4k-explored/"><u>Charting New Realms with Ultra HD Resolution - 4K Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-da-wav-a-mp3-online-con-movavi-il-modo-piu-semplice/"><u>Conversione Gratuita Da WAV a MP3 Online Con Movavi: Il Modo Più Semplice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-video-online-sin-costo-como-cambiar-contenido-3gpp-a-mpeg-facilmente-con-movavi/"><u>Convertidor Video Online Sin Costo: Cómo Cambiar Contenido 3GPP a MPEG Fácilmente Con Movavi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-printer-on-windows-instantly/"><u>Disabling Printer on Windows Instantly</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dvdfab-minidvd/"><u>DVDFab Miniの使い方詳しく見せる：シンプル且つ効果的なDVDクローニング法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-of-nef-images-with-movavi-no-download-needed/"><u>Free Online Conversion of NEF Images with Movavi: No Download Needed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-convert-mov-files-to-mp4-format-moveave/"><u>Free Online Converter: Convert MOV Files to MP4 Format - Moveave</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-online-converteer-m4r-naar-mp4-met-movavi/"><u>Gratis Online Converteer: M4R Naar MP4 Met Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-for-novices-a-primer-on-av1-technology/"><u>In 2024, For Novices A Primer on AV1 Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/partial-screen-capture-techniques-in-windows-11-a-step-by-step-guide/"><u>Partial Screen Capture Techniques in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screencast-strategies-unleashed-powerful-ideas-inside-for-2024/"><u>Screencast Strategies Unleashed Powerful Ideas Inside for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unclog-your-windows-11-mailcalendar-access/"><u>Unclog Your Windows 11 Mail/Calendar Access</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>[New] In 2024, Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-ultimate-list-of-twitter-sensations/"><u>[New] In 2024, The Ultimate List of Twitter Sensations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transform-your-photos-removing-backdrops-with-ease-for-2024/"><u>[Updated] Transform Your Photos Removing Backdrops with Ease for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/briskly-revamp-rx-5500xt-drivers/"><u>Briskly Revamp RX 5500XT Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-updates-asus-vg248qe-graphics-card-driver-for-pc/"><u>Download & Install Updates: Asus VG248QE Graphics Card Driver for PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-lenovo-ideapad-100-drivers-step-by-step-guide-for-windows-10-users/"><u>Download and Install Lenovo IdeaPad 100 Drivers: Step-by-Step Guide for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208514553-end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-ready-to-ride-mastering-the-convenient-features-of-mods-latest-e-bike-sidecar/"><u>Get Ready To Ride: Mastering The Convenient Features Of Mod's Latest E-Bike Sidecar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-broken-number-pad-buttons-on-keyboards/"><u>How to Restore Functionality of Broken Number Pad Buttons on Keyboards</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-wise-to-choose-auto-gpt-when-gpt-4-is-on-horizon/"><u>Is It Wise to Choose Auto-GPT When GPT-4 Is on Horizon?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/madden-nfl-19-assessment-engaging-features-overshadowed-by-familiarity/"><u>Madden NFL 19 Assessment: Engaging Features Overshadowed by Familiarity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-overwatch-challenge-fixes-for-lost-rendering-device-problems/"><u>Overcoming the Overwatch Challenge - Fixes for Lost Rendering Device Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-side-by-side-config-error-on-windows-11/"><u>Resolved: How to Fix the 'Side-by-Side Config' Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-failure-overcoming-v1607-installation-problems/"><u>Windows 11 Update Failure: Overcoming v1607 Installation Problems</u></a></li>
 </ul></div>
 

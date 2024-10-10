@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Successfully: Addressing Invalid Directory Names"
-date: 2024-09-28T16:03:19.557Z
-updated: 2024-10-04T16:02:40.803Z
+date: 2024-10-02T23:14:45.291Z
+updated: 2024-10-09T21:24:59.465Z
 tags:
   - win11
   - win10
@@ -45,16 +45,37 @@ Here’s how:
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
@@ -64,24 +85,25 @@ Here’s how:
 1. In Skype, Click**the three-dot button** and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -95,13 +117,6 @@ Here’s how:
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
@@ -121,25 +136,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
-5. Click **OK**   to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
+5. Click **OK**   to apply the changes in the windows.
 
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
@@ -171,18 +180,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[New] 2024 Approved 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-pixart-video-editor/"><u>[Updated] 2024 Approved Pixart Video Editor</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cutest-drone-companions-for-little-ones/"><u>[Updated] Cutest Drone Companions for Little Ones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/a-beginners-handbook-to-professional-music-video-editing-for-2024/"><u>A Beginners Handbook to Professional Music Video Editing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-the-marvel-of-apples-m1-max-attachments-for-2024/"><u>Exploring the Marvel of Apple’s M1 Max Attachments for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-you-through-windows-update-mishap-0xca000a009/"><u>Guiding You Through Windows Update Mishap: 0XCA0_00A009</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-a-missing-binkw32dll-error-message/"><u>How to Correctly Address a Missing binkw32.dll Error Message</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-technique-getting-permission-from-trustedinstaller-for-file-changes/"><u>Master the Technique: Getting Permission From TrustedInstaller for File Changes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-non-working-keys-simple-steps-to-restore-hp-laptop-functionality/"><u>Reviving Non-Working Keys: Simple Steps to Restore HP Laptop Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stream-disneys-content-seamlessly-connect-your-account-to-chromecast-today/"><u>Stream Disney's Content Seamlessly: Connect Your Account to Chromecast Today!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/supreme-artistry-studios-feedback-studio-review-2023-for-2024/"><u>Supreme Artistry Studios Feedback Studio Review 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triumphant-wow-full-spectrum-of-3d-visuals-achieved/"><u>Triumphant WoW: Full Spectrum of 3D Visuals Achieved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-google-chrome-reboot-for-swift-resolution/"><u>Troubleshooting Stuck Google Chrome: Reboot for Swift Resolution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-getting-to-grips-with-bandicam-your-guide-through-2023s-updates/"><u>[New] In 2024, Getting to Grips with Bandicam – Your Guide Through 2023'S Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-for-increasing-the-usefulness-of-gopros-battery/"><u>[Updated] 2024 Approved Tips for Increasing the Usefulness of GoPro's Battery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-yogic-vistas-top-10-inspirational-yoga-videos/"><u>[Updated] 2024 Approved Yogic Vistas Top 10 Inspirational Yoga Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-capture-it-right-essential-camera-lenses-for-video-blogging/"><u>[Updated] In 2024, Capture It Right Essential Camera Lenses for Video Blogging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-put-a-halt-on-surprise-youtube-videos-for-2024/"><u>[Updated] Put a Halt on Surprise YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-full-review-and-tutorial-s-video-show-app/"><u>2024 Approved Full Review & Tutorial 'S Video Show App</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-edge-40-neo-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Edge 40 Neo PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-hard-drive-utilization-caused-by-microsofts-compatibility-feedback-on-windows-10/"><u>How to Fix Elevated Hard Drive Utilization Caused by Microsoft's Compatibility Feedback on Windows 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-grayscale-to-graded-grandeur-color-artistry/"><u>In 2024, From Grayscale to Graded Grandeur Color Artistry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210015030-no-more-windows-update-issues-solve-error-8007000e-in-minutes/"><u>No More Windows Update Issues - Solve Error 80#07000E in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-there-was-an-issue-restoring-your-pc-error-in-windows-11-step-by-step-fix/"><u>Resolve the 'There Was an Issue Restoring Your PC' Error in Windows 11 - Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-keyboard-expert-methods-for-a-fresh-start/"><u>Reviving Your Keyboard: Expert Methods for a Fresh Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-viewing-overcoming-freezing-problems-with-netflix-online-movie-service/"><u>Smooth Viewing: Overcoming Freezing Problems with Netflix Online Movie Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-troubleshooting-solving-game-freezes-in-windows/"><u>Tech Troubleshooting: Solving Game Freezes in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-and-tricks-fixing-a-broken-character-input-in-email-addresses/"><u>Tips and Tricks: Fixing a Broken @ Character Input in Email Addresses</u></a></li>
 </ul></div>
 

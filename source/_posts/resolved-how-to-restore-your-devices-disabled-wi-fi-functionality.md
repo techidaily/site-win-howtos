@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Restore Your Device's Disabled Wi-Fi Functionality"
-date: 2024-09-30T16:01:42.141Z
-updated: 2024-10-04T16:01:49.197Z
+date: 2024-10-07T19:18:03.153Z
+updated: 2024-10-09T23:23:29.614Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/c2951ebe31144829205fb98a431e80a75ca2ddbe5
 
 If all your USB ports aren’t working, try Step 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -48,22 +55,15 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Restart** your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -74,13 +74,6 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
@@ -89,14 +82,14 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check if your USB port works properly now. If not, try Step 4, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -116,6 +109,14 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
@@ -140,22 +141,22 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-boost-virtual-engagement-select-top-10-recorder-software/"><u>[New] 2024 Approved Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-live-stream-on-youtube-gaming/"><u>[New] 2024 Approved How to Live Stream on YouTube Gaming?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>[New] Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] In 2024, Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-fun-kinemaster-reviewed-for-android-devices-for-2024/"><u>[Updated] Unleashing Fun KineMaster Reviewed for Android Devices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-effective-solutions-when-your-usb-mouse-wont-work-with-the-laptop/"><u>5 Effective Solutions When Your USB Mouse Won't Work with the Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-cache-miss-problem-on-chrome-errcachemiss/"><u>Effective Fixes for the 'Cache Miss' Problem on Chrome (ERR_CACHE_MISS)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-installation-and-update-complications-on-steam-gaming-services/"><u>Expert Tips for Resolving Installation and Update Complications on Steam Gaming Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimized-wdf-implementation-reducing-excessive-cpu-usage/"><u>Optimized WDF Implementation: Reducing Excessive CPU Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repair-broken-usb-connectivity-in-windows-operating-systems/"><u>Step-by-Step Guide: Repair Broken USB Connectivity in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-your-tasks-essential-tips-for-using-file-explorer-in-windows-1ntegrated-applications-sync-with-google-photos-or-icloud-you-can-access-your-photos72/"><u>Streamline Your Tasks: Essential Tips for Using File Explorer in Windows 1Ntegrated Applications | Sync with Google Photos or iCloud, You Can Access Your Photos From Anywhere and on Any Device.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209999377-troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-kernel-event-141-errors-2024/"><u>Understanding and Resolving Kernel Event 141 Errors, 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-clear-views-6-fixes-for-windows-resolution-confusion/"><u>Unlock Clear Views: 6 Fixes for Windows Resolution Confusion</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-a-pristine-steam-account-how-to-delete-games-effectively/"><u>Unveiling a Pristine Steam Account: How to Delete Games Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-fix-unresponsive-bluetooth-connections-on-windows-11-2024-tips/"><u>Winning Strategies to Fix Unresponsive Bluetooth Connections on Windows 11 (2024 Tips)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-brilliant-setups-top-17-gear-for-online-videographers/"><u>[New] In 2024, Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unboxing-ubiquity-the-profitable-vloggers-playbook/"><u>[Updated] 2024 Approved Unboxing Ubiquity The Profitable Vlogger's Playbook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-virtual-classroom-creation-tool/"><u>2024 Approved Prime Virtual Classroom Creation Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-ace-2v-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Ace 2V Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-resolving-display-connections-and-no-video-errors/"><u>Comprehensive Tutorial: Resolving Display Connections and No Video Errors</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-y78-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo Y78 5G FRP?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-rid-of-the-unsettling-red-screen-problems-in-windows-11/"><u>How to Get Rid of the Unsettling Red Screen Problems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-smooth-out-your-gaming-experience-in-pubg-best-tips-and-tricks/"><u>How to Smooth Out Your Gaming Experience in PUBG - Best Tips & Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C12 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-gameplay-boosting-your-pcs-power-in-windows-11/"><u>Maximizing Gameplay: Boosting Your PC's Power in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-lingua-norvegica-grasp-10-mins-a-day/"><u>Quick Lingua Norvegica Grasp, 10-Mins A Day!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recovering-an-off-screen-window-a-step-by-step-guide/"><u>Recovering an Off-Screen Window: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-0x8024a105-issue-with-windows-updates/"><u>Ultimate Guide: Resolving the 0X8024A105 Issue with Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solutions-to-stop-your-pc-from-continuously-crashing/"><u>Ultimate Guide: Solutions to Stop Your PC From Continuously Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209521615-unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-podcast-recording-software-free-options-included/"><u>Updated 10 Best Podcast Recording Software Free Options Included</u></a></li>
 </ul></div>
 

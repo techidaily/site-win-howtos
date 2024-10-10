@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Mystery: Why Your PC Shuts Down Unexpectedly - Troubleshooting Guide"
-date: 2024-09-29T16:01:31.232Z
-updated: 2024-10-04T16:00:00.573Z
+date: 2024-10-02T18:40:48.931Z
+updated: 2024-10-09T22:43:18.869Z
 tags:
   - win11
   - win10
@@ -43,22 +43,15 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a812a6c131.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Display** when choose to View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a817eeda01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
@@ -83,26 +76,26 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a85011b67d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click**Display adapters** . Then**right-click** on your video driver to select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a863c479f5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Roll Back Driver** under the**Driver pane** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8782b427a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the Roll Back Driver icon grayed out, move onto **[Method 3](https://tools.techidaily.com/drivereasy/download/)** [t](https://tools.techidaily.com/drivereasy/download/) hen.
@@ -135,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9bc0d1470.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 Restart your computer to see if your second monitor is displaying.
@@ -148,10 +148,10 @@ Restart your computer to see if your second monitor is displaying.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8cceab7ac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Make sure you have the right cable connected with your computer and monitors.**
@@ -178,24 +178,22 @@ Restart your computer to see if your second monitor is displaying.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-step-by-step-webcam-recording-on-hp-systems/"><u>[New] 2024 Approved Step-by-Step Webcam Recording on HP Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-pubg-tones-in-minutes/"><u>[New] Mastering PUBG Tones in Minutes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-snapping-success-the-best-4-methods-for-chrome-os-screenshots-for-2024/"><u>[New] Snapping Success The Best 4 Methods for Chrome OS Screenshots for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-hamachi-service-stopped-working-issue/"><u>Effective Fixes for 'Hamachi Service Stopped Working' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-wd-my-passport-ultra-not-showing-up-on-your-windows-device/"><u>Effective Fixes for WD My Passport Ultra Not Showing Up on Your Windows Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-fixed-unable-to-write-data-to-0x-referenced-location-in-memory/"><u>Error Fixed: Unable to Write Data to 0X Referenced Location in Memory</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-geforce-mx150-driver-updates-for-optimal-windows-performance/"><u>Get the Latest GeForce MX150 Driver Updates for Optimal Windows Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-windows-11-touch-screen-working-again-a-guide-to-5-reliable-fixes/"><u>Get Your Windows 11 Touch Screen Working Again: A Guide to 5 Reliable Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-and-solving-disk-read-error-on-windows-10/"><u>Guide to Troubleshooting and Solving 'Disk Read Error' On Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-connections-in-windows-1011/"><u>How to Fix Unresponsive USB Connections in Windows 10/11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-stream-local-video-to-chromecast-on-windowsmacandroidios/"><u>In 2024, How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/kid-friendly-amazon-fire-hd-10-review-exploring-top-tier-parental-control-features/"><u>Kid-Friendly Amazon Fire HD 10 Review: Exploring Top-Tier Parental Control Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-high-risk-problem-in-google-chrome-with-these-effective-steps/"><u>Overcome the High-Risk Problem in Google Chrome with These Effective Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-using-ripit-to-fast-track-dvd-conversion-on-your-windows-pc/"><u>Quick & Easy Guide: Using Ripit to Fast-Track DVD Conversion on Your Windows PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/screen-capture-savvy-top-four-techniques-for-recording-games/"><u>Screen Capture Savvy Top Four Techniques for Recording Games</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723005333483-troubleshoot-apex-legends-loading-problems-in-minutes/"><u>Troubleshoot Apex Legends Loading Problems in Minutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[New] In 2024, How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smartphone-security-systems-apples-x-vs-samsungs-facial-tech/"><u>[New] Smartphone Security Systems Apple’s X Vs. Samsung's Facial Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-subscription-wins-unlock-monetization-benefits/"><u>[Updated] Subscription Wins Unlock Monetization Benefits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-z370-e-motherboard-drivers-fast-setup-guide/"><u>Download ASUS Z370-E Motherboard Drivers - Fast Setup Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-windows-10-recovery-solutions-sfc-and-dism-explained/"><u>Exploring Windows 10 Recovery Solutions: SFC & DISM Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-narzo-60-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme Narzo 60 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-incompatible-drivers-lead-to-memory-problems-in-the-ftdi-bus-system/"><u>How Incompatible Drivers Lead to Memory Problems in the FTDI Bus System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jokejuxtaposer-quickly-craft-memes-for-all-occasions-for-2024/"><u>JokeJuxtaposer Quickly Craft Memes for All Occasions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fixes-top-tips-for-resolving-oculus-equipment-malfunctions/"><u>Master the Fixes: Top Tips for Resolving Oculus Equipment Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001367628-no-more-freezing-controllers-easy-fixes-inside/"><u>No More Freezing Controllers - Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-lag-with-these-simple-tweaks-to-your-bluetooth-audio-setup/"><u>No More Lag with These Simple Tweaks to Your Bluetooth Audio Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-wireless-woes-a-beginners-guide-to-repairing-wifi-issues/"><u>Overcoming Wireless Woes: A Beginner’s Guide to Repairing WiFi Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-faulty-keyboard-during-system-startup/"><u>Resolved: Faulty Keyboard During System Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-on-windows-10-a-complete-guide/"><u>Resolving svchost.exe's Excessive CPU Drain on Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-710-devices-that-wont-charge/"><u>Troubleshooting Guide for Windows 7/10 Devices That Won't Charge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212525383-unveiling-remedies-overcoming-the-chrome-screen-turned-pitch-black/"><u>Unveiling Remedies: Overcoming the Chrome Screen Turned Pitch Black!</u></a></li>
 </ul></div>
 

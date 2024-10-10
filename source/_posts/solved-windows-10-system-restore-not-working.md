@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 10 System Restore Not Working"
-date: 2024-10-03T16:00:14.853Z
-updated: 2024-10-04T16:00:22.902Z
+date: 2024-10-08T18:15:08.808Z
+updated: 2024-10-09T21:03:56.352Z
 tags:
   - win11
   - win10
@@ -53,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 
@@ -87,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
@@ -145,15 +165,22 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted to provide administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) In the black Command Prompt window, type:
 
@@ -169,13 +196,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 5: Run a memory check**
 
  A faulty memory card is one of the most common causes of computer freezes. So before you invest in a new computer, check to see if your memory card is at fault. Microsoft has a built-in tool to help you do this.
@@ -189,10 +209,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb6930a9d3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Windows will then restart, and you’ll see this page showing the progress of the check and the number of passes it will run on memory.
@@ -204,10 +224,10 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 6: Run Disk Check**
@@ -229,35 +249,21 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
 
  If you DO see errors, it’s possible they’re causing Windows to freeze, and you should consider upgrading your disk.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 7: Disable C-States in BIOS**
 
@@ -273,16 +279,22 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
@@ -333,21 +345,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-hasty-methods-for-mixed-up-youtube-playback-sequence-for-2024/"><u>[New] Hasty Methods for Mixed-Up YouTube Playback Sequence for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>[New] In 2024, Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-video-anonymization-strategies/"><u>[New] Video Anonymization Strategies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-no-cost-digital-revenue-prognosticator/"><u>[Updated] No-Cost Digital Revenue Prognosticator</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/achieving-admin-access-for-critical-operations-in-windows-11-1n-and-7-a-comprehensive-guide/"><u>Achieving Admin Access for Critical Operations in Windows 11, 1N & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-a-plan-evaluating-your-igtv-engagement-levels/"><u>Crafting a Plan Evaluating Your IGTV Engagement Levels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-pc-issues-how-outdated-graphics-drivers-cause-minecraft-crashes/"><u>Fixing Windows PC Issues: How Outdated Graphics Drivers Cause Minecraft Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-and-troubleshoot-microsofts-error-0x80004005/"><u>How to Correctly Address & Troubleshoot Microsoft's Error 0X80004005</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-non-downloading-torrent-file-tips-and-solutions/"><u>How to Troubleshoot a Non-Downloading Torrent File: Tips and Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>In 2024, Quick Launch Lines A Practical Roadmap for Product Review Channel Founders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/precision-in-capturing-an-expert-obs-skype-guide-for-2024/"><u>Precision in Capturing An Expert OBS Skype Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-operational-night-light-in-windows-1011-pcs/"><u>Step-by-Step Solution for Non-Operational Night Light in Windows 10/11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207650315-the-secret-behind-nba-asterisk-2k21-green-funds-hack-explained-and-resolved/"><u>The Secret Behind NBA Asterisk 2K21 Green Funds Hack Explained & Resolved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-text-duplication-mishap/"><u>Windows 11 Text Duplication Mishap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-absence-of-win-api-load-dll/"><u>[Fixed]: Absence of Win API Load Dll</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transforming-raw-audio-into-high-quality-youtube-videos/"><u>[Updated] In 2024, Transforming Raw Audio Into High-Quality YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209036577-clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crc-data-error-resolution-ensuring-accurate-information-exchange/"><u>CRC Data Error Resolution - Ensuring Accurate Information Exchange</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-shop-failure-x800704cf/"><u>Deciphering Windows Shop Failure X800704CF</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-hp-designjet-t520-or-t620-printer/"><u>Download the Latest Drivers for Your HP DesignJet T520 or T620 Printer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dynamic-capture-premium-choices-in-4k-technology-for-2024/"><u>Dynamic Capture Premium Choices in 4K Technology for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elevate-your-esports-skills-with-these-windows-11-tweaks-for-peak-performance/"><u>Elevate Your Esports Skills with These Windows 11 Tweaks for Peak Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-halo-4s-ue4-fatal-glitch-causing-collapses-gaming-experience/"><u>Guide to Fix Halo 4'S UE4 Fatal Glitch Causing Collapses Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/invisible-sd-be-seen-fixes-abound/"><u>Invisible SD, Be Seen! Fixes Abound</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsoft-considers-curtailing-third-party-tweaks-in-windows-11-build-24h2-insights-by-tech-journalist-zdnet/"><u>Microsoft Considers Curtailing Third-Party Tweaks in Windows 11 Build 24H2 – Insights by Tech Journalist [ZDNET]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-a-smooth-win11-performance/"><u>Securing a Smooth Win11 Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-potential-of-emotion-recognition-technology-by-ai-fact-or-fiction/"><u>The Potential of Emotion Recognition Technology by AI: Fact or Fiction?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-must-watch-lgbt-films-streaming-on-netflix-in-july-2024/"><u>Top Picks: Must-Watch LGBT Films Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-non-charging-laptop-battery-with-these-simple-fixes/"><u>Troubleshoot Your Non-Charging Laptop Battery with These Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-hamachi-service-stopped-hiccup/"><u>Troubleshooting Guide: Fixing the 'Hamachi Service Stopped' Hiccup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-deleting-resistant-folders-in-windows-10-and-11-with-ease/"><u>Ultimate Guide: Deleting Resistant Folders in Windows 10 & 11 with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>Updated 2024 Approved The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
 </ul></div>
 

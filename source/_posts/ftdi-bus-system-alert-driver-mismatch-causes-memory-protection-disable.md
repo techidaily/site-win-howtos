@@ -1,7 +1,7 @@
 ---
 title: "FTDI Bus System Alert: Driver Mismatch Causes Memory Protection Disable"
-date: 2024-09-21T22:42:40.560Z
-updated: 2024-09-22T22:49:34.347Z
+date: 2024-10-07T16:44:35.243Z
+updated: 2024-10-09T18:02:02.520Z
 tags:
   - win11
   - win10
@@ -64,12 +64,27 @@ Here’s how to do it:
 4. Exit **Blizzard.net** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
 
@@ -92,20 +107,20 @@ Here’s how to do it:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Close DirectX.
@@ -131,5 +146,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-mobile-gif-apps-roundup-for-latest-phones/"><u>[New] Best Mobile GIF Apps Roundup for Latest Phones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-potential-ps5-writable-and-readable-extras/"><u>[Updated] In 2024, Unleash Potential PS5' Writable & Readable Extras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-social-media-symphony-composing-jake-pauls-youtube-success-for-2024/"><u>[Updated] The Social Media Symphony Composing Jake Paul's YouTube Success for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/dissecting-high-quality-visuals-with-benqs-27-inch-ultra-hd-display-for-2024/"><u>Dissecting High-Quality Visuals with BenQ's 27 Inch Ultra HD Display for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-solve-the-persistent-microsoft-error-651-on-your-computer/"><u>Effortless Ways to Solve the Persistent Microsoft Error 651 on Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-next-level-of-immersion-top-10-vr-gear/"><u>In 2024, The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-unintentional-boot-solutions-for-auto-turning-on-your-windows-10-pc/"><u>Managing Unintentional Boot: Solutions for Auto-Turning On Your Windows 10 PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/navigating-the-hurdles-of-starting-robocop-rogue-city-insider-advice-to-ensure-a-smooth-launch-on-your-computer/"><u>Navigating the Hurdles of Starting RoboCop: Rogue City - Insider Advice to Ensure a Smooth Launch on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207306476-navigating-windows-10s-file-explorer-with-ease-helpful-hints-inside/"><u>Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram/"><u>Smooth Streams Combining a Multitude of Images & Videos for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/stealthy-recording-of-zoom-sessions-a-guide-to-capturing-without-consent-using-movavi/"><u>Stealthy Recording of Zoom Sessions: A Guide to Capturing Without Consent - Using Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-how-anime-can-accelerate-your-japanese-language-skills-the-top-12-picks/"><u>Ultimate Guide: How Anime Can Accelerate Your Japanese Language Skills – The Top 12 Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-the-hosted-wi-fi-connection-problem-on-your-windows-11-device-a-comprehensive-guide/"><u>Winning Over the Hosted Wi-Fi Connection Problem on Your Windows 11 Device: A Comprehensive Guide</u></a></li>
+</ul></div>
 

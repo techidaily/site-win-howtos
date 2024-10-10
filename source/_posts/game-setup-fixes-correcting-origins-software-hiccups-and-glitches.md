@@ -1,7 +1,7 @@
 ---
 title: "Game Setup Fixes: Correcting Origins Software Hiccups and Glitches"
-date: 2024-10-02T16:01:10.054Z
-updated: 2024-10-04T16:00:14.622Z
+date: 2024-10-05T18:54:52.643Z
+updated: 2024-10-09T16:13:36.535Z
 tags:
   - win11
   - win10
@@ -57,9 +57,32 @@ If the headset is still not recognized, check out the next solution.
 3. Double-click**Universal Serial Bus controllers** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-2.jpg)
 4. Right-click the USB device and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-3.jpg)
 5. Select the**Power** **Management** tab. **Untick Allow the computer to turn off this device to save power** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Repeat the steps to disable power management for each USB port and then test the issue. If the problem persists, check out below to turn off USB selective suspend as well.
 
@@ -75,20 +98,13 @@ If the headset is still not recognized, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now see if your Oculus Rift or Quest launches as normal. If not, continue to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
 
@@ -107,23 +123,16 @@ If the headset is still not recognized, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-rift-sensor-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Wait for the process to complete and reboot your computer. Then connect your rig and test. If the Oculus hardware error still pops up, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Repair corrupted system files
 
@@ -137,23 +146,17 @@ If the headset is still not recognized, check out the next solution.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Does the issue get fixed? If not, there’s one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Factory reset your Oculus Quest or Quest 2
 
@@ -186,22 +189,16 @@ There is no factory reset option for Oculus Rift and Rift S.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723206083173-solution-quickly-solve-your-windowslinux-high-cpu-issues-direct-actions-against-the-root-cause-shell-infrastructures/"><u>(Solution) Quickly Solve Your Windows/Linux High CPU Issues – Direct Actions Against the Root Cause, Shell Infrastructures.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-seamless-instagram-story-layering-techniques/"><u>[Updated] In 2024, Seamless Instagram Story Layering Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2020-apple-iphone-se-analysis-the-smart-and-practical-choice/"><u>2020 Apple iPhone SE Analysis: The Smart and Practical Choice</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6s/iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics-for-2024/"><u>Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-corrupt-and-unreadable-documentsdirectories/"><u>Diagnosing & Resolving Issues with Corrupt & Unreadable Documents/Directories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-e13-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto E13 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-problems-with-unplayable-dvds-on-your-pc/"><u>How to Resolve Problems with Unplayable DVDs on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-key-plus-shift-plus-s-shortcut-problems-in-windows-operating-systems/"><u>How to Resolve Windows Key + Shift + S Shortcut Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-real-time-to-leisurely-iphone-methods-for-slow-motion-video/"><u>In 2024, From Real Time to Leisurely IPhone Methods for Slow Motion Video</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximizing-speed-with-wheel-motion/"><u>Maximizing Speed with Wheel Motion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-and-simple-guide-mastering-the-ultimate-fresh-start-with-windows-11/"><u>Swift & Simple Guide: Mastering the Ultimate Fresh Start with Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win11-proven-reducing-wmi-provider-host-cpu-load/"><u>Win11 Proven: Reducing WMI Provider Host CPU Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-and-bluetooth-issues-how-to-fix-unseen-or-undetected-peripherals/"><u>Windows 11 and Bluetooth Issues: How to Fix Unseen or Undetected Peripherals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-windows-video-calls-the-top-8-list/"><u>[New] 2024 Approved Best Windows Video Calls The Top 8 List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-recording-techniques-for-your-logitech-webcam-installation/"><u>[New] Master Recording Techniques for Your Logitech Webcam Installation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-hilarious-and-emotional-instagram-memes-journey/"><u>[Updated] 2024 Approved Top 10 Hilarious & Emotional Instagram Memes Journey</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-trending-topics-tally-10-tweets-triumphing/"><u>2024 Approved Trending Topics Tally 10 Tweets Triumphing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mxfweb-movavi/"><u>完全無償でMXFを変換してくれるWebベースツール – Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209292613-app-cant-open-using-built-in-administrator-account-solved/"><u>App Can't Open Using Built-In Administrator Account [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exploring-apowersofts-pc-screen-snap-recorder-for-2024/"><u>Exploring Apowersoft's PC Screen Snap Recorder for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-waiting-just-gameplay-in-fortnite/"><u>No More Waiting, Just Gameplay in Fortnite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-get-the-sound-working-again-on-your-windows-7-pc/"><u>Quick Solutions to Get the Sound Working Again on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cut-outs-on-logitech-wireless-headphones-g930-model/"><u>Troubleshooting Cut Outs on Logitech Wireless Headphones (G930 Model)</u></a></li>
 </ul></div>
 

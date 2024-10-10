@@ -1,7 +1,7 @@
 ---
 title: How to Recover Vanished Desktop Symbols in Windows 11 [FIXED]
-date: 2024-09-30T16:05:02.352Z
-updated: 2024-10-04T16:00:41.400Z
+date: 2024-10-06T21:10:48.059Z
+updated: 2024-10-09T23:12:25.128Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -45,13 +52,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
@@ -59,15 +59,16 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
-4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
+4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
 
@@ -99,25 +100,25 @@ If your desktop icons still don’t show up, you can perform a system restore to
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -128,27 +129,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,6 +156,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,21 +187,24 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-google-pixel-8-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Google Pixel 8 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/best-practices-in-updating-your-social-network-backdrop-for-2024/"><u>Best Practices in Updating Your Social Network Backdrop for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/curating-your-ringtone-with-holy-hymns-step-by-point/"><u>Curating Your Ringtone with Holy Hymns Step-By Point</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-v30t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme V30T To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-eliminate-the-windows-11-red-screen-error-effectively/"><u>How to Repair and Eliminate the Windows 11 Red Screen Error Effectively</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-smart-8-hd-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Smart 8 HD FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-when-print-driver-host-stops-functioning-in-older-systems/"><u>Resolving the Issue When 'Print Driver Host' Stops Functioning in Older Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-resolving-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Resolving Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamlinedwebcamtechniqueinstruction-for-2024/"><u>StreamlinedWebCamTechniqueInstruction for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-visible-wi-fi-options-on-windows-11-systems/"><u>The Ultimate Fix for Non-Visible Wi-Fi Options on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tired-of-the-blink-a-step-by-step-guide-to-halting-your-cursors-rapid-movement/"><u>Tired of the Blink: A Step-by-Step Guide to Halting Your Cursor's Rapid Movement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-fallout-4-performance-problems/"><u>Ultimate Guide: Solving Fallout 4 Performance Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-device-manager-your-touchpad-returns/"><u>Unlock Device Manager - Your Touchpad Returns</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-quick-creation-of-fortnite-visuals/"><u>[New] 2024 Approved Quick Creation of Fortnite Visuals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailoring-youtube-experience-on-the-worlds-largest-social-network-for-2024/"><u>[New] Tailoring YouTube Experience on the World's Largest Social Network for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-5-best-apps-blending-visual-storytelling-and-music/"><u>[Updated] 2024 Approved 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-turn-your-memories-into-moments-share-pics-instantly-for-2024/"><u>[Updated] Turn Your Memories Into Moments Share Pics Instantly for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-hp-officejet-pro-8610-drivers-compatible-with-windows-111087xpvista/"><u>Download & Update HP Officejet Pro 8610 Drivers: Compatible with Windows 11/10/8/7/XP/Vista</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-correct-the-persistent-error-0x802e401c-on-your-windows-updates-in-win10win11/"><u>Effective Solutions to Correct the Persistent Error 0X802e401C on Your Windows Updates in Win10/Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-why-windows-10-wont-install-and-how-you-can-successfully-resolve-it/"><u>Error 80240020: Why Windows 10 Won't Install & How You Can Successfully Resolve It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-non-functional-right-click-on-your-windows-11-pc-solutions-unveiled/"><u>Fixing the Non-Functional Right-Click on Your Windows 11 PC – Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-major-glitches-in-black-ops-iv/"><u>Guide to Troubleshooting Major Glitches in Black Ops IV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-errors-when-vac-fails-to-authenticate-the-gaming-session/"><u>Handling Errors: When VAC Fails to Authenticate the Gaming Session</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-alert-ftddi-device-failure-linked-to-unmatched-drivers-compromising-memory-safety/"><u>Incompatibility Alert: FTDDI Device Failure Linked To Unmatched Drivers Compromising Memory Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-generative-design-top-5-no-cost-open-source-ai-imaging-software-choices/"><u>Mastering Generative Design: Top 5 No-Cost, Open Source AI Imaging Software Choices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-of-forced-restart-in-windows-11-expert-troubleshooting-guide/"><u>Overcome the Challenge of Forced Restart in Windows 11 - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-update-failure-fixing-error-code-0x8024401c-with-ease/"><u>Overcoming Windows 11 Update Failure: Fixing Error Code 0X8024401c with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-your-oculus-devices-hardware-issues/"><u>Troubleshooting Tips: Resolving Your Oculus Device's Hardware Issues</u></a></li>
 </ul></div>
 

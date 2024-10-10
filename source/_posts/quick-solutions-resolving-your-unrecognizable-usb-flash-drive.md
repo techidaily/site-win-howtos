@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolving Your Unrecognizable USB Flash Drive"
-date: 2024-09-30T16:01:13.408Z
-updated: 2024-10-04T16:03:07.663Z
+date: 2024-10-05T23:44:40.748Z
+updated: 2024-10-09T22:35:06.021Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Correct your DNS server address
 
 The DNS server not responding error could be probably caused by an **incorrect DNS server address**. So you can follow these to correct your DNS server address:
@@ -63,27 +56,20 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128e6af137d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Click **Internet Protocol Version 4(TCP/IPv4)**, then **Properties**.  
 
@@ -93,24 +79,38 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8) Click **Internet Protocol Version 6(TCP/IPv6)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Clear your DNS cache and reset your IP
 
@@ -134,9 +134,23 @@ There may be problems with your DNS server if its cache is getting full. To see 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Update your network adapter driver
 
@@ -150,13 +164,6 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
@@ -177,13 +184,6 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why can’t I access websites when the DNS server not responding?
 
@@ -214,20 +214,17 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-tips-for-finding-hidden-exclusive-photos-on-snapchat-for-2024/"><u>[New] Tips for Finding Hidden, Exclusive Photos on Snapchat for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-game-on-everywhere-selecting-top-5-emulators-for-playing-gb-classics-on-windows-pcs/"><u>[Updated] 2024 Approved Game On Everywhere! - Selecting Top 5 Emulators for Playing GB Classics on Windows PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-amplifying-audio-and-visual-quality-in-your-youtube-videos-for-2024/"><u>[Updated] Amplifying Audio and Visual Quality in Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-evaluating-freenocam-for-professional-webcam-use/"><u>[Updated] Evaluating FreenoCam for Professional Webcam Use</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>2024 Approved The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beyond-pronunciation-succeeding-in-difficult-language-learning/"><u>Beyond Pronunciation: Succeeding in Difficult Language Learning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-unresponsive-keyboard-buttons-in-windows-pcs/"><u>Fixing the Issue of Unresponsive Keyboard Buttons in Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/insight-on-overcoming-steams-recent-connectivity-problems-for-gamers/"><u>Insight on Overcoming Steam's Recent Connectivity Problems for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-vanishing-point-restoring-your-windows-11-touchpad-cursor/"><u>Solving the Vanishing Point: Restoring Your Windows 11 Touchpad Cursor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209605407-solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-quick-solutions-for-unresponsive-lenovo-fingerprint-scanner/"><u>Troubleshooting Guide: Quick Solutions for Unresponsive Lenovo Fingerprint Scanner</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-user-profile-service-has-stopped-error-on-windows/"><u>Troubleshooting Steps for 'User Profile Service Has Stopped' Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-resolve-common-netflix-connectivity-issues/"><u>Troubleshooting: How To Resolve Common Netflix Connectivity Issues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-getting-the-sound-blaster-z-driver-to-work-seamlessly-with-windows-11/"><u>Ultimate Guide: Getting the Sound Blaster Z Driver to Work Seamlessly with Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-top-reviews-for-the-garmin-forerunner-265/"><u>Unveiling the Features: Top Reviews for the Garmin Forerunner 265</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pinnacle-choices-superior-mac-apps-for-grabbing-videos/"><u>[New] 2024 Approved Pinnacle Choices Superior Mac Apps for Grabbing Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-guide-to-flawless-game-recordings/"><u>[New] Gamers' Guide to Flawless Game Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craftsmanship-in-podcast-visuals-the-essentials/"><u>[Updated] Craftsmanship in Podcast Visuals The Essentials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restart-one-or-more-nonfunctional-audio-channels-successfully/"><u>How to Restart One or More Nonfunctional Audio Channels Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-through-complete-circles-on-screen/"><u>In 2024, Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-not-responding-in-windows-heres-how-to-make-it-work-again-solved/"><u>Laptop Keyboard Not Responding in Windows? Here's How to Make It Work Again [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-nier-automata-from-freezing-or-crashing-on-your-computer-solutions-here/"><u>Stop Nier: Automata From Freezing or Crashing on Your Computer - Solutions Here!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-blend-of-strength-and-clarity-unveiling-the-55-sunbrite-4k-tv-for-harsh-environments/"><u>The Ultimate Blend of Strength & Clarity: Unveiling the 55 SunBrite 4K TV for Harsh Environments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-technique-for-merging-gopro-videography-with-encompassing-immersive-content/"><u>Top Technique for Merging GoPro Videography with Encompassing Immersive Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-ethernet-connection-problems-in-windows-10-and-windows-7/"><u>Troubleshooting Steps to Resolve Ethernet Connection Problems in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-dolby-home-theater-hurdles-in-windows-10-a-step-by-step-fix/"><u>Winning Against the Dolby Home Theater Hurdles in Windows 10 – A Step-by-Step Fix</u></a></li>
 </ul></div>
 

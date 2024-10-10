@@ -1,7 +1,7 @@
 ---
 title: "Solving the Function Keys Glitch on Your Dell PC: A Step-by-Step Guide"
-date: 2024-09-30T16:00:00.331Z
-updated: 2024-10-04T16:00:00.038Z
+date: 2024-10-04T16:55:57.978Z
+updated: 2024-10-09T20:21:58.928Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -71,13 +64,6 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -89,11 +75,44 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -112,10 +131,16 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -123,13 +148,6 @@ Follow these:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,22 +168,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-drone-picks-best-bargains-for-less-than-500/"><u>[New] Budget-Friendly Drone Picks Best Bargains for Less than $500</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-insta-video-sharing-from-youtube-for-2024/"><u>[New] Mastering Insta-Video Sharing From YouTube for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>[Updated] Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/add-images-and-text-with-movavi-professional-photoshop-program/"><u>Add Images and Text with Movavi - Professional Photoshop Program</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambiar-archivos-de-audio-m4r-a-formato-aac-gratuito-en-linea-con-movavi/"><u>Cambiar Archivos De Audio M4R a Formato AAC Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-z-flip-5-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy Z Flip 5 is off? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-online-libre-y-rapido-transforma-tus-audios-flac-directamente-en-videos-avi-con-movavi/"><u>Convertidor Online Libre Y Rápido: Transforma Tus Audios FLAC Directamente en Videos AVI Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facilita-di-invio-di-grandi-videoclip-per-posta-elettronica-con-linnovativa-tecnologia-di-compressione-del-software-movavi/"><u>Facilità Di Invio Di Grandi Videoclip per Posta Elettronica Con L'Innovativa Tecnologia Di Compressione Del Software Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/formato-ape-a-aiff-gratuitamente-online-por-movavi-una-guia-sencilla-para-la-conversion-de-audio-digital/"><u>Formato APE a AIFF Gratuitamente Online Por Movavi: Una Guía Sencilla Para La Conversión De Audio Digital</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-assemble-an-impactful-visual-saga-with-montage-skills/"><u>In 2024, Assemble an Impactful Visual Saga with Montage Skills</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-windows-battery-driver-updates-tips-and-tricks-for-smooth-operation/"><u>Mastering the Art of Windows Battery Driver Updates – Tips & Tricks for Smooth Operation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-m6-pro-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco M6 Pro 4G Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/streamlined-qanda-guide-for-attractive-podcasts-for-2024/"><u>Streamlined Q&A Guide for Attractive Podcasts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swf-gif-ip-movavi/"><u>SWF 파일을 자유성 GIF로 바꾸기: 원-IP 속도대에서 가장 나은 Movavi 해상도</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-smartphones-with-superior-video-capture-capabilities/"><u>Top 10 Smartphones with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-tu-musica-gratuita-conversion-rapida-y-facil-en-linea-de-flac-a-m4a-con-movavi/"><u>Transforma Tu Música Gratuita: Conversión Rápida Y Fácil en Línea De FLAC a M4A Con Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-unbeatable-savings-on-new-apple-watch-series-10-only-99-when-you-preorder-now-from-best-buy-exclusive-insights-inside/"><u>Unlock Unbeatable Savings on New Apple Watch Series 10 - Only $99 When You Preorder Now From Best Buy | Exclusive Insights Inside!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-instagrams-story-segmenting-system/"><u>[New] In 2024, Leveraging Instagram's Story Segmenting System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-secrets-to-flawless-ppt-video-production/"><u>[New] Unlocking the Secrets to Flawless PPT Video Production</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-mystic-art-of-invisible-storytelling-on-snapchat/"><u>2024 Approved The Mystic Art of Invisible Storytelling on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-restoring-connected-audiovideo-settings-in-windows/"><u>Comprehensive Tutorial on Restoring Connected Audio/Video Settings in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/te-your-short-form-content-top-10-edits-for-iosandroid-for-2024/"><u>Elevate Your Short-Form Content Top 10 Edits for iOS/Android for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/firefox-error-solved-understanding-and-fixing-secerrorunknownissuer/"><u>Firefox Error Solved: Understanding and Fixing SEC_ERROR_UNKNOWN_ISSUER</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-correct-cyclic-redundancy-check-discrepancies-successfully/"><u>How to Address and Correct Cyclic Redundancy Check Discrepancies Successfully</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/secure-survival-housing-in-minecraft-for-2024/"><u>Secure Survival Housing in Minecraft for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-correct-your-game-configuration-errors-on-origin-platform/"><u>Troubleshoot & Correct Your Game Configuration Errors on Origin Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-windows-hello-for-windows-10-hardware-not-supported-by-default/"><u>Unlocking the Potential of Windows Hello for Windows 10 Hardware Not Supported by Default</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-if-windows-10-is-not-responding-or-has-frozen/"><u>What to Do if Windows 10 Is Not Responding or Has Frozen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204299790-why-is-my-razer-keyboard-not-lights-fix-and-prevent-this-common-problem/"><u>Why Is My Razer Keyboard Not Lights? Fix and Prevent This Common Problem</u></a></li>
 </ul></div>
 

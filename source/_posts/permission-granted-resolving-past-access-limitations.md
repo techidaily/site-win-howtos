@@ -1,7 +1,7 @@
 ---
 title: "Permission Granted: Resolving Past Access Limitations"
-date: 2024-09-15T19:44:08.123Z
-updated: 2024-09-22T23:34:20.692Z
+date: 2024-10-05T18:58:14.377Z
+updated: 2024-10-09T20:58:18.337Z
 tags:
   - win11
   - win10
@@ -57,9 +57,23 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -75,11 +89,25 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -120,18 +148,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>[Updated] 2024 Approved Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unleash-creativity-premier-vimeo-editors-deliver/"><u>[Updated] Unleash Creativity Premier Vimeo Editors Deliver</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-editors-dream-machine-top-portable-video-edits-tools/"><u>2024 Approved Editor's Dream Machine Top Portable Video Edits Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-notes-and-alerts-implementation/"><u>2024 Approved Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-power-ranking-top-10-youtube-channels-by-views-and-subs/"><u>2024 Approved The Ultimate Power Ranking Top 10 YouTube Channels by Views & Subs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boost-your-pcs-audio-a-step-by-step-guide-to-enhancing-sound-on-windows-1/"><u>Boost Your PC's Audio: A Step-by-Step Guide to Enhancing Sound on Windows 1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-headache-of-werfaultexe-errors-with-these-effortless-repair-strategies/"><u>Bypass the Headache of werFault.exe Errors With These Effortless Repair Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-2024-on-dota-2-change-rendering-api-swift-tips-for-an-immediate-fix/"><u>Error 2024 on Dota 2 [Change Rendering API] - Swift Tips for an Immediate Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-non-responsive-laptop-touchpad-on-pcs-with-windows-1187-guide/"><u>Fixing Your Non-Responsive Laptop Touchpad on PCs with Windows 11/8/7 (Guide)</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-explained-the-culprit-behind-windows-memory-defects/"><u>Ftdibus.sys Explained: The Culprit Behind Windows Memory Defects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-7-updates-not-downloading-issue/"><u>How to Fix Windows 7 Updates Not Downloading Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Malfunctioning Spacebar Key in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-transform-your-snap-game-with-these-top-tips/"><u>In 2024, Transform Your Snap Game with These Top Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-pro-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 Pro 4G FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-gameplay-disruptions-fixing-unsupported-graphic-card-errors-in-fortnite-on-pc/"><u>Resolving Gameplay Disruptions: Fixing Unsupported Graphic Card Errors in Fortnite on PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolving-issues-with-media-player-classic-in-mkv-format-on-windows-10-and-macos/"><u>Resolving Issues with Media Player Classic in MKV Format on Windows 10 and macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-issue-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption Issue in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-disappeared-desktop-icon-clutter-in-windows-11-systems/"><u>Resolving the Issue of Disappeared Desktop Icon Clutter in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unplugged-how-to-keep-your-usb-devices-stable-and-connected/"><u>Unplugged? How to Keep Your USB Devices Stable and Connected</u></a></li>
+</ul></div>
 

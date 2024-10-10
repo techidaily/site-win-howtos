@@ -1,7 +1,7 @@
 ---
 title: Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now
-date: 2024-10-01T16:00:01.798Z
-updated: 2024-10-04T16:00:08.802Z
+date: 2024-10-07T16:41:41.631Z
+updated: 2024-10-09T19:33:37.698Z
 tags:
   - win11
   - win10
@@ -37,24 +37,18 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 2: Disconnect the power cable for a while**
 
@@ -72,16 +66,16 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8de9b459b5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Press the **Enter** key on your keyboard then Windows will restart.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 4: Update the USB driver**
 
@@ -97,6 +91,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
@@ -106,6 +107,13 @@ Follow the steps below:
  5) Check the box next to**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click the **OK** button to confirm the uninstall.
 
@@ -122,13 +130,6 @@ Follow the steps below:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -155,10 +156,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **OK** button.
@@ -172,10 +173,10 @@ Follow the steps below:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 6: Enable Legacy USB Support in BIOS**
@@ -191,13 +192,6 @@ Follow the steps below:
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -220,18 +214,22 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>2024 Approved Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726228091913-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/au-cddvd/"><u>無限量自由發佈 - AU CD/DVD移動流傳</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-cycwagen-e-cargo-bike-a-firsthand-look-at-its-capabilities-and-design/"><u>Exploring the CycWagen E-Cargo Bike: A Firsthand Look at Its Capabilities and Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-mp4-to-aac-by-movavi/"><u>Free Online Audio Converter: MP4 to AAC by Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-fix-one-airpod-not-working-for-2024/"><u>How to Fix One Airpod Not Working for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-stardew-key-highlights-from-ginger-isle/"><u>In 2024, Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/misez-une-conversion-gratuite-flv-a-mpg-en-ligne-utilisation-simple-de-movavi/"><u>Misez Une Conversion Gratuite Flv À Mpg en Ligne - Utilisation Simple De Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/recording-live-videos-on-periscope-with-maximum-quality-for-2024/"><u>Recording Live Videos on Periscope with Maximum Quality for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimal-offerings-best-devices-for-hd-video-processing/"><u>[New] In 2024, Optimal Offerings Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-best-7-live-streaming-apps-to-amplify-your-youtube-presence-on-iphone-and-android/"><u>[Updated] 2024 Approved Best 7 LIVE Streaming Apps to Amplify Your YouTube Presence on iPhone and Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-list-of-twitter-video-convertors-for-2024/"><u>[Updated] The Ultimate List of Twitter Video Convertors for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-zoom-video-clarity-user-guide/"><u>2024 Approved Enhancing Zoom Video Clarity User Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adjusting-windows-11-settings-for-adaptive-hdr-for-2024/"><u>Adjusting Windows 11 Settings for Adaptive HDR for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-app-for-remote-control-of-fire-stick-how-it-works/"><u>Android App for Remote Control of Fire Stick - How It Works</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-unsupported-input-type-detected-by-display-device/"><u>Error: Unsupported Input Type Detected by Display Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/master-the-art-of-video-editing-with-elite-avchd-converters-for-crystal-clear-mtsm2ts-resolution/"><u>Master the Art of Video Editing with Elite AVCHD Converters for Crystal Clear MTS/M2TS Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repairs-effective-solutions-for-common-hardware-errors-2n-24/"><u>Mastering Oculus Repairs: Effective Solutions for Common Hardware Errors (2N 24)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-visual-output-fix-unsupported-time-codes-in-your-current-monitor-setup/"><u>Optimizing Visual Output - Fix Unsupported Time Codes in Your Current Monitor Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-stanley-j5c09-a-powerful-workhorse-for-heavy-duty-tasks/"><u>Review of the Stanley J5C09 - A Powerful Workhorse for Heavy Duty Tasks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredo-connections-unraveling-issues-that-prevent-qualification/"><u>Teredo Connections: Unraveling Issues That Prevent Qualification</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-cod-wwii-fixing-error-4220/"><u>Troubleshooting Guide for COD WWII - Fixing Error 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooter-for-computers-unable-to-shutdown-windows-10-fixed/"><u>Ultimate Troubleshooter for Computers Unable to Shutdown Windows 10 - FIXED</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uniform-velocity-implies-consistent-flow-rate-across-the-cross-sectional-area-of-the-entry-point-into-the-tank/"><u>Uniform Velocity Implies Consistent Flow Rate Across the Cross-Sectional Area of the Entry Point Into the Tank.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-are-my-keyboard-arrow-keys-failing-discover-the-fixes-you-need/"><u>Why Are My Keyboard Arrow Keys Failing? Discover the Fixes You Need</u></a></li>
 </ul></div>
 

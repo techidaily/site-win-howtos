@@ -1,7 +1,7 @@
 ---
 title: Resolving Non-Responsive File Explorer Problems in Windows 10 [Guide]
-date: 2024-09-19T18:00:51.655Z
-updated: 2024-09-23T00:30:48.025Z
+date: 2024-10-08T17:13:44.361Z
+updated: 2024-10-09T16:38:43.369Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
@@ -96,6 +103,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
 ---
@@ -108,13 +122,34 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
@@ -123,13 +158,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -150,10 +178,10 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
@@ -177,5 +205,22 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-evaluating-the-user-interface-aesthetics-of-huawei-p10/"><u>2024 Approved Evaluating the User Interface Aesthetics of Huawei P10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>2024 Approved LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breakdown-of-youtubes-monetization-update-for-2024/"><u>Breakdown of YouTube's Monetization Update for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/chill-out-guide-to-selecting-the-best-devices/"><u>Chill Out Guide to Selecting the Best Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-issues-with-corsair-keyboards-and-proven-techniques-for-resolution/"><u>Common Issues with Corsair Keyboards and Proven Techniques for Resolution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-13t-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi 13T lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>In 2024, Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-huawei-nova-y91-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Huawei Nova Y91 Android SIM Unlock APK</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-start-up-failures-the-application-couldnt-launch-correctly-0xc000007b-explained/"><u>Resolving Start-Up Failures: The Application Couldn't Launch Correctly (0xC000007B Explained)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-touchpad-scroll-malfunctions-step-by-step-guide/"><u>Resolving Windows 10 Touchpad Scroll Malfunctions - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-repairing-youtube-audio-renderer-problem-on-windows-10-machines/"><u>The Ultimate Guide to Repairing YouTube Audio Renderer Problem on Windows 10 Machines</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-funktionsreicher-kostenloser-mkv-player-auf-windows-nahtlose-wiedergabe-mit-einfachster-bedienung/"><u>Top Funktionsreicher Kostenloser MKV-Player Auf Windows - Nahtlose Wiedergabe Mit Einfachster Bedienung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-cujosso-11-steps-to-repair-bluetooth-connection-and-detect-peripherals/"><u>Windows Cujosso 11: Steps to Repair Bluetooth Connection and Detect Peripherals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-fixing-your-hosted-network-start-up-issues-in-windows-11/"><u>Winning the Battle: Fixing Your Hosted Network Start-Up Issues in Windows 11</u></a></li>
+</ul></div>
 

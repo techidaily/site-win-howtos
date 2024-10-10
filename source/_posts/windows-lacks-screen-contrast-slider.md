@@ -1,7 +1,7 @@
 ---
 title: Windows Lacks Screen Contrast Slider
-date: 2024-10-01T16:05:09.169Z
-updated: 2024-10-04T16:03:14.058Z
+date: 2024-10-07T22:34:02.434Z
+updated: 2024-10-09T17:40:00.205Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
@@ -54,15 +54,22 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
@@ -88,13 +95,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable auto-restart
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste**sysdm.cpl** into the box and press**Enter** .
@@ -104,6 +104,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
@@ -128,10 +135,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -139,10 +146,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
@@ -152,16 +159,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change the power option
@@ -170,16 +171,16 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**High performance** option >**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -188,13 +189,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
@@ -235,22 +229,19 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-actionable-techniques-for-efficient-media-conversion-chains/"><u>[New] Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-begin-installing-xps-key-visual-storytelling-app-for-2024/"><u>[New] Begin Installing XP’s Key Visual Storytelling App for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-win11-random-restarts/"><u>[RESOLVED] Win11 Random Restarts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevating-video-popularity-on-youtube/"><u>2024 Approved Elevating Video Popularity on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/a-closer-look-at-luminance-and-its-hdr-achievements/"><u>A Closer Look at Luminance and Its HDR Achievements</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-nonfunctional-function-fn-keys-on-computers/"><u>Effective Remedies for Nonfunctional Function (Fn) Keys on Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enable-windows-10-to-recognize-dual-screens/"><u>Enable Windows 10 to Recognize Dual Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-laptop-typing-back-to-normal-on-windows-fixes-for-10-8-7/"><u>Get Your Laptop Typing Back to Normal on Windows: Fixes for 10, 8, 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-unchangeable-screen-settings-issue-step-by-step/"><u>How I Fixed the Unchangeable Screen Settings Issue - Step by Step</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/live-stream-perfection-an-experts-take-on-webcams-for-2024/"><u>Live Stream Perfection An Expert's Take on WebCams for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-power-spike-issues-with-your-usb-ports-in-windows-11/"><u>Resolving 'Power Spike' Issues with Your USB Ports in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/save-your-videos-expert-picks-for-windowsmac-repair-solutions-top-10/"><u>Save Your Videos: Expert Picks for Windows/Mac Repair Solutions (Top 10)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-solving-the-lack-of-audio-devices-error-on-windows-11-pcs/"><u>Step-by-Step Guide: Solving the Lack of Audio Devices Error on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-techniques-for-resolving-non-pairing-bluetooth-problems-in-windows-10-2024-edition/"><u>Top Techniques for Resolving Non-Pairing Bluetooth Problems in Windows 10 - 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-dealing-with-typos-and-miskeyed-characters/"><u>Troubleshooting: Dealing with Typos and Miskeyed Characters</u></a></li>
-<li><a href="https://techidaily.com/1723808332581-what-are-random-password-generators-discover-their-purpose-and-usage-tips-for-enhanced-online-security/"><u>What Are Random Password Generators? Discover Their Purpose & Usage Tips for Enhanced Online Security</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-sales-how-does-microsoft-earn/"><u>Windows 11 Sales - How Does Microsoft Earn?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-start-your-editing-right-with-free-intros/"><u>[New] Start Your Editing Right With Free Intros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-mirage-identifying-false-friends-at-no-price/"><u>[Updated] In 2024, Instagram's Mirage Identifying False Friends at No Price</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-through-tech-barriers-record-any-youtube-live-with-ease-for-2024/"><u>[Updated] Navigating Through Tech Barriers Record Any YouTube Live with Ease for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-resolving-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips on Resolving a Malfunctioning USB-HDMI Adapter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-freeze-expert-advice-for-iphones-stuck-on-startup-icon/"><u>Fixing the Freeze: Expert Advice for iPhones Stuck on Startup Icon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/future-of-fb-ads-predictions-for-2024/"><u>Future of FB Ads Predictions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-laptops-touch-pad-up-and-running-again-tips-for-windows-1187-users/"><u>Get Your Laptop's Touch Pad Up & Running Again! Tips for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-devices-in-windows-11-a-comprehensive-guide/"><u>How to Enable Windows Hello Authentication on Incompatible Devices in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-phone-filters-and-camera-cases/"><u>In 2024, Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-issues-at-login-how-to-restore-functionality/"><u>Keyboard Issues at Login – How to Restore Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4-mac-mini-breaking-down-rumors-on-price-release-window-and-technical-specifications/"><u>M4 Mac Mini: Breaking Down Rumors on Price, Release Window & Technical Specifications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboard-backspace-issue/"><u>Troubleshooting Guide: Fixing the Keyboard Backspace Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repairing-your-mouse-when-the-left-click-fails/"><u>Troubleshooting Guide: Repairing Your Mouse When the Left-Click Fails</u></a></li>
 </ul></div>
 

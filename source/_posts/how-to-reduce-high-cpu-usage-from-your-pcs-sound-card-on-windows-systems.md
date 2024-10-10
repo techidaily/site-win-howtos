@@ -1,7 +1,7 @@
 ---
 title: How to Reduce High CPU Usage From Your PC's Sound Card on Windows Systems
-date: 2024-09-29T16:03:00.421Z
-updated: 2024-10-04T16:03:13.359Z
+date: 2024-10-08T16:28:29.838Z
+updated: 2024-10-09T18:27:09.305Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -63,25 +70,38 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
@@ -89,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
@@ -125,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
  4) Restart your computer after this.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -139,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
  1) On your keyboard, press the **Windows logo key** and**R**  at the same time to open a**Run** command window. Type**services.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Right-click**Windows Update** and click **Stop** .
 
@@ -149,10 +162,17 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -171,25 +191,11 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,24 +212,18 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-behind-the-scenes-crafting-your-next-big-fb-reel/"><u>[New] Behind-the-Scenes Crafting Your Next Big FB Reel</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-instructional-series-adding-time-tracks-to-live-shows-for-2024/"><u>[New] Comprehensive Instructional Series Adding Time Tracks to Live Shows for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-freely-capture-perfection-the-leading-10-high-quality-recorders/"><u>[New] Freely Capture Perfection The Leading 10 High-Quality Recorders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-warframe-update-failed-error/"><u>[Solved] Warframe Update Failed! Error</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-integrating-unique-emojis-to-your-discord-profile-for-2024/"><u>[Updated] Integrating Unique Emojis to Your Discord Profile for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-end-to-start-on-instagram-vids-guide/"><u>2024 Approved From End to Start on Instagram Vids [Guide]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>2024 Approved Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breaking-through-tips-to-thaw-a-stalled-windows-update-process/"><u>Breaking Through: Tips to Thaw a Stalled Windows Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-instructions-setting-up-bluetooth-in-windows-operating-systems-11-and-10/"><u>Easy Instructions: Setting Up Bluetooth in Windows Operating Systems (11 and 10)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-malfunctioning-keyboards-number-pad-tips-and-solutions/"><u>How to Fix a Malfunctioning Keyboard's Number Pad - Tips and Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-gt-10-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix GT 10 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-14-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi 14 Ultra to iPod | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leverage-your-smartphones-capability-to-store-social-snaps-for-2024/"><u>Leverage Your Smartphone's Capability to Store Social Snaps for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-gaming-performance-a-comprehensive-guide-to-fine-tuning-your-windows-11-system/"><u>Maximizing Gaming Performance: A Comprehensive Guide to Fine-Tuning Your Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-tips-overcoming-the-change-rendering-api-error-in-dota-2-error-202c/"><u>Quick Tips: Overcoming the 'Change Rendering API' Error in Dota 2 (Error 202C)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-keyboard-only-mode-display-now-supports-gesture-and-touch-controls/"><u>Say Goodbye to Keyboard-Only Mode: Display Now Supports Gesture and Touch Controls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-firewall-issues-with-firefox/"><u>Troubleshooting Steps for Resolving Firewall Issues with Firefox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-installing-device-drivers-on-windows-7-made-easy/"><u>Troubleshooting Tips: Installing Device Drivers on Windows 7 Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-freezes-randomly-solved/"><u>Windows 11 Freezes Randomly [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-most-reliable-skype-recorders-ranked/"><u>[New] In 2024, The Most Reliable Skype Recorders Ranked</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-turn-a-blank-slate-on-fb-videos/"><u>[Updated] 2024 Approved Turn a Blank Slate on FB Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>[Updated] Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-podcast-streaming-trick-quick-play-upgrade/"><u>2024 Approved Top Podcast Streaming Trick - Quick Play Upgrade</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-8-youtube-platforms-with-stellar-rapid-rise/"><u>2024 Approved Unearthing 8 YouTube Platforms with Stellar Rapid Rise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-error-0x800f081f-expert-strategies-for-a-smooth-net-framework-35-installation-process/"><u>Bypass Error 0X800F081F – Expert Strategies for a Smooth .NET Framework 3.5 Installation Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-smooth-controls-xbox-one-on-pc/"><u>Experience Smooth Controls: Xbox One on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-issues-with-windows-boot-process-delays/"><u>Expert Tips to Overcome Issues with Windows Boot Process Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-0x80070490-issue-a-step-by-step-guide/"><u>Fixing the Windows Update 0X80070490 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-google-pixel-fold-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Google Pixel Fold?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-efficiency-fixing-the-problem-of-overworked-wudfhostexe-in-windows-11/"><u>Mastering PC Efficiency: Fixing the Problem of Overworked WUDFHost.exe in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nier-automata-pc-issues-for-smooth-gaming-experience/"><u>Troubleshooting Nier: Automata PC Issues for Smooth Gaming Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone XR Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

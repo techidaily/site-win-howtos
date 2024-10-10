@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tips: Correcting Your Mouse's Erratic Behavior"
-date: 2024-09-15T18:39:08.673Z
-updated: 2024-09-22T23:51:15.165Z
+date: 2024-10-06T22:14:46.723Z
+updated: 2024-10-09T21:55:13.764Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -45,6 +52,14 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
@@ -68,20 +83,20 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -108,5 +123,20 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-transformation-techniques-for-free-gifs/"><u>[New] 2024 Approved Tweet Transformation Techniques for Free GIFs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[New] In 2024, Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleash-hd-vision-utilizing-youtube-for-clear-videos-for-2024/"><u>[New] Unleash HD Vision Utilizing YouTube for Clear Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/affordable-soundpeats-noise-canceling-earbuds-with-extended-playtime-in-depth-review/"><u>Affordable Soundpeats Noise-Canceling Earbuds with Extended Playtime - In-Depth Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/chrome-trouble-heres-what-to-do-when-you-get-this-site-cant-be-reached/"><u>Chrome Trouble? Here's What to Do When You Get 'This Site Can't Be Reached'</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-bird-winners-youtubes-quick-favorites/"><u>Early Bird Winners Youtube's Quick Favorites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-15-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 15 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-help-hub-how-to-restore-windows-that-have-gone-astray/"><u>PC Help Hub: How to Restore Window(s) That Have Gone Astray</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remedy-for-oversight-in-extra-window-detection/"><u>Remedy for Oversight in Extra Window Detection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bluetooth-missing-on-your-windows-11-pc-with-these-simple-fixes/"><u>Resolve 'Bluetooth Missing' On Your Windows 11 PC with These Simple Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-how-microsoft-security-essentials-mssecesexe-affect-your-computers-disk-space/"><u>Solving the Puzzle: How Microsoft Security Essentials (msseces.exe) Affect Your Computer's Disk Space</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-wi-fi-sharing-the-ultimate-trick-for-windows-10-usb-tethering/"><u>Unlocking Wi-Fi Sharing: The Ultimate Trick for Windows 10 USB Tethering</u></a></li>
+</ul></div>
 

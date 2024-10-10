@@ -1,7 +1,7 @@
 ---
 title: UWB Uses Very Short Pulses over a Broad Frequency Range for Precise Timing and Localization with Minimal Detectability.
-date: 2024-09-30T16:00:06.043Z
-updated: 2024-10-04T16:00:03.498Z
+date: 2024-10-06T19:09:31.626Z
+updated: 2024-10-09T16:06:02.104Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -46,13 +46,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -61,33 +54,28 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -103,6 +91,14 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -129,22 +125,18 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>2024 Approved A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>2024 Approved The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726224354240-wmvswf-movavi/"><u>免費網路WMV到SWF轉換 - 使用Movavi解決方案</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726227063380-202410/"><u>为你的大日子量身打造：我们推荐2024年10种最高效婚礼影片创建软件列表！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-en-ligne-sans-frais-convertir-votre-video-mpeg-au-format-3gp-avec-movavi/"><u>Conversion en Ligne Sans Frais: Convertir Votre Vidéo MPEG Au Format 3GP Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-webm-vers-mp4-sans-frais-guide-complet-avec-movavi/"><u>Conversion WebM Vers MP4 Sans Frais : Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-dei-video-da-mpg-a-mpeg-senza-problemi-usando-leditor-di-movavi/"><u>Conversione Gratuita Dei Video: Da MPG a MPEG Senza Problemi Usando L'editor Di Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desde-wav-hasta-webm-por-ti-mismo-convertir-archivos-en-linea-gratuito-usando-movavi/"><u>Desde WAV Hasta WEBM Por Ti Mismo: Convertir Archivos en Línea Gratuito Usando Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-what-to-do-when-your-logitech-g230-microphone-stops-responding/"><u>DIY Repair: What to Do When Your Logitech G230 Microphone Stops Responding</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-smart-8-plus-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Smart 8 Plus Device SIM</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s24-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S24 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>In 2024, Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/les-meilleurs-outils-de-montage-video-libres-pour-le-rendu-video-en-2024-top-10/"><u>Les Meilleurs Outils De Montage Video Libres Pour Le Rendu Vidéo en 2024: Top 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-idea-generation-utilizing-mindmaps-and-chatgpt/"><u>Mastering Idea Generation: Utilizing Mindmaps & ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-flv-en-version-m4v-avec-movavi-online/"><u>Transformer Gratuitement Un Fichier FLV en Version M4V Avec Movavi Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-stylishly-resizing-videos-without-a-watermark-for-your-perfect-instagram-post/"><u>Ultimate Guide: Stylishly Resizing Videos Without a Watermark for Your Perfect Instagram Post</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collaborate-for-success-video-strategies/"><u>[Updated] In 2024, Collaborate for Success Video Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ai-powered-best-titles-makers-online/"><u>AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-fixing-lag-issues-in-fallout-4-this-year/"><u>Boost Your Gameplay: Fixing Lag Issues in Fallout ^4 This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directdraw-problems-unraveled-find-quick-fixes-here/"><u>DirectDraw Problems Unraveled – Find Quick Fixes Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-proceed-with-admin-rights-for-software-installations-on-windows-11107/"><u>How to Proceed with Admin Rights for Software Installations on Windows 11/10/7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-which-generative-ai-leads-chatgpt-or-microsofts-bing-conversational-agent/"><u>In-Depth Analysis: Which Generative AI Leads - ChatGPT or Microsoft's Bing Conversational Agent?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-white-screen-on-microsoft-appstore/"><u>Overcoming White Screen on Microsoft Appstore</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rebooting-quality-in-operating-systems-how-microsoft-can-improve-windows-today/"><u>Rebooting Quality in Operating Systems: How Microsoft Can Improve Windows Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-missing-sound-device-issues-in-windows-1011/"><u>Step-by-Step Guide: Correcting Missing Sound Device Issues in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-hiccup-overcome-a-stalled-dns-server-using-easy-strategies/"><u>Stop the Hiccup! Overcome a Stalled DNS Server Using Easy Strategies</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-computer-start-up-issues-solutions-included/"><u>Troubleshooting Your Computer Start-Up Issues – Solutions Included</u></a></li>
 </ul></div>
 

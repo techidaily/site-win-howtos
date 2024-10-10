@@ -1,7 +1,7 @@
 ---
 title: "How to Recover Missing Desktop Icons on Windows 10: A Step-by-Step Guide"
-date: 2024-09-15T16:49:56.306Z
-updated: 2024-09-22T19:31:25.278Z
+date: 2024-10-07T17:44:06.045Z
+updated: 2024-10-09T22:05:43.971Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -44,6 +51,13 @@ Here’s how to do it:
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -65,11 +79,26 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -81,21 +110,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -105,13 +128,6 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -144,5 +160,26 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-insiders-tale-to-tripling-instagram-traffic/"><u>[Updated] 2024 Approved The Insider’s Tale to Tripling Instagram Traffic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-prosight-review-the-next-big-step-beyond-manycam-for-2024/"><u>[Updated] ProSight Review The Next Big Step Beyond ManyCam for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-events-with-obs-crafting-a-time-based-feature-for-2024/"><u>[Updated] Streamline Events with OBS Crafting a Time-Based Feature for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-invalid-registry-error-on-windows-11-for-easy-image-file-access/"><u>Bypass 'Invalid Registry' Error on Windows 11 for Easy Image File Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-the-cannot-find-source-file-0x80070solved-windows-update-error/"><u>Comprehensive Guide: Resolving the 'Cannot Find Source File' - 0X80070^[SOLVED] Windows Update Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-tricks-overcoming-doom-eternal-initial-launch-issues/"><u>DIY Tricks: Overcoming DOOM Eternal Initial Launch Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-lower-dwms-heavy-gpu-load-in-windows-10-and-windows-11-environments/"><u>Effective Strategies to Lower DWM's Heavy GPU Load in Windows 10 and Windows 11 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensure-crystal-clear-communication-on-ps4-solving-built-in-mic-malfunctions-effortlessly/"><u>Ensure Crystal Clear Communication on PS4: Solving Built-In Mic Malfunctions Effortlessly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-designers-delight-incorporating-fonts-into-ae-projects/"><u>In 2024, Designer's Delight Incorporating Fonts Into AE Projects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-social-media-momentum-linking-igtv-and-fb/"><u>In 2024, Social Media Momentum Linking IGTV and FB</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-c33-2023-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme C33 2023 Phone Hassle-Free</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-complete-printer-drivers-installed/"><u>Installation Complete: Printer Drivers Installed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lightning-fast-windowed-photo-reader-for-win11-for-2024/"><u>Lightning-Fast Windowed Photo Reader for Win11 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-persistent-oddworld-soulstorm-pc-malfunctions-now-playable/"><u>Master the Fix for Persistent Oddworld: Soulstorm PC Malfunctions – Now Playable!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-nonfunctional-ethernet-ports-tips-and-tricks-for-windows-117-operating-systems/"><u>Mastering the Fix for Nonfunctional Ethernet Ports: Tips and Tricks for Windows 11/7 Operating Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-transforming-videos-into-format-compatible-with-your-samsung-galaxy-s5/"><u>Simple Methods for Transforming Videos Into Format Compatible with Your Samsung Galaxy S5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-tips-for-overcoming-a-lagging-keyboard-issue/"><u>Speedy Tips for Overcoming a Lagging Keyboard Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-resolving-a-stalled-torrent-download-problem/"><u>Top Tips for Resolving a Stalled Torrent Download Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-mouse-cursor-keeps-vanishing-in-windows-10-and-how-to-fix-it/"><u>Why Your Mouse Cursor Keeps Vanishing in Windows 10 & How to Fix It</u></a></li>
+</ul></div>
 

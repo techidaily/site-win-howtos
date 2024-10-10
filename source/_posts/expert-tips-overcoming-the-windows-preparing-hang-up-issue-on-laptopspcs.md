@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Overcoming the 'Windows Preparing' Hang-Up Issue on Laptops/PCs"
-date: 2024-10-03T16:00:29.378Z
-updated: 2024-10-04T16:01:29.928Z
+date: 2024-10-02T21:03:38.056Z
+updated: 2024-10-09T20:07:05.849Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -43,20 +50,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Check your desktop icon settings
 
@@ -65,13 +66,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
@@ -94,6 +88,13 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -103,32 +104,11 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -141,16 +121,31 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -193,17 +188,19 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>[New] 2024 Approved A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-decoding-instagrams-reels-and-stories-evolution/"><u>[New] In 2024, Decoding Instagram's Reels and Stories Evolution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-classic-comedy-compilation-a-goofy-movie-review/"><u>2024 Approved Classic Comedy Compilation A 'Goofy Movie' Review</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-stellar-channels-best-10-apps-for-artistic-banner-design-for-2024/"><u>Craft Stellar Channels Best 10 Apps for Artistic Banner Design for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x8024200d-deciphered-comprehensive-solutions-for-resolving-windows-update-issues/"><u>Error 0X8024200D Deciphered: Comprehensive Solutions for Resolving Windows Update Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-toshiba-laptop-keys-not-working/"><u>Fixed: Toshiba Laptop Keys Not Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-non-responsive-keyboard-directions-essential-tips-and-tricks/"><u>Fixing Non-Responsive Keyboard Directions: Essential Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-astro-a40-microphone-issue-a-comprehensive-guide/"><u>Fixing the Astro A40 Microphone Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-event-id-1000-error-on-windows-7-8-and-10/"><u>How to Fix the 'Event ID 1000' Error on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-pova-5-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Pova 5 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-updated-brother-hl-l2300d-printer-software-click-here-now/"><u>Install Updated Brother HL-L2300D Printer Software – Click Here Now!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-downloaders-your-guide-to-superior-4k-content-for-2024/"><u>Optimal Downloaders Your Guide to Superior 4K Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-conquering-low-light-shots-on-iphone/"><u>[New] 2024 Approved Conquering Low-Light Shots on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-premium-banners-no-cost-just-click/"><u>[New] 2024 Approved Get Premium Banners - No Cost, Just Click</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-locate-the-best-bargains-on-gopro-cameras/"><u>[New] In 2024, Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>[Updated] Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grid-layout-geniuses-for-photo-perfection/"><u>[Updated] Grid Layout Geniuses for Photo Perfection</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-becoming-a-star-spectator-on-the-social-stage/"><u>2024 Approved Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-into-whatsapps-call-ecosystem/"><u>2024 Approved Journey Into WhatsApp's Call Ecosystem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-driver-troubles-ensuring-proper-compatibility-with-your-windows-os/"><u>Device Driver Troubles: Ensuring Proper Compatibility with Your Windows OS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>In 2024, Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-1110-issue-a-step-by-step-guide-to-fixing-error-code-0x80072f8f/"><u>Resolving Windows 11/10 Issue: A Step-by-Step Guide to Fixing Error Code 0X80072F8F</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-unresponsive-keys-on-dell-laptops-practical-solutions/"><u>Solving the Issue of Unresponsive Keys on Dell Laptops: Practical Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-remedies-for-out-of-memory-crashes-in-red-dead-redemption-2-adjust-and-overcome/"><u>Speedy Remedies for Out of Memory Crashes in Red Dead Redemption 2 – Adjust and Overcome!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-to-correctly-address-windows-10s-troubling-error-code-0x80n0541-for-seamless-updates/"><u>Step-by-Step Tutorial to Correctly Address Windows 10'S Troubling Error Code 0X80n0541 for Seamless Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-mend-nonfunctional-skype-video-calls-on-windows-10-systems/"><u>Step-by-Step Tutorial: Mend Nonfunctional Skype Video Calls on Windows 10 Systems</u></a></li>
 </ul></div>
 

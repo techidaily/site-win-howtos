@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting High CPU Consumption From Audio Device Graph in Windows Systems
-date: 2024-09-28T16:01:04.369Z
-updated: 2024-10-04T16:01:10.697Z
+date: 2024-10-06T18:29:40.538Z
+updated: 2024-10-09T21:34:59.785Z
 tags:
   - win11
   - win10
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
 
@@ -69,15 +69,28 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
@@ -88,28 +101,15 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
@@ -135,18 +135,21 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-bridging-the-gap-between-tiktok-and-facebook-sharing/"><u>[New] 2024 Approved Bridging the Gap Between TikTok & Facebook Sharing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-and-engage-ifunny-meme-downloads/"><u>[New] Explore & Engage IFunny Meme Downloads</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>[Updated] Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-slide-to-video-software/"><u>[Updated] Premier Slide-to-Video Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-save-time-money-on-passport-photos-with-our-free-generator-apps/"><u>[Updated] Save Time, Money on Passport Photos with Our Free Generator Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-must-know-tips-for-selecting-an-ideal-smartwatch-fit-your-lifestyle/"><u>5 Must-Know Tips for Selecting an Ideal Smartwatch Fit Your Lifestyle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-non-functional-system-restore-on-windows-11-devices/"><u>Fixing the Issue: Non-Functional System Restore on Windows 11 Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-ace-2-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Ace 2 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-bluetooth-on-windows-11-proven-fixes-and-tips-to-resolve-non-pairing-issues/"><u>Master Bluetooth on Windows 11: Proven Fixes and Tips to Resolve Non-Pairing Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-the-unknown-usb-device-error-and-port-reset-issues-in-windows-10/"><u>Troubleshooting Tips: Overcoming the 'Unknown USB Device' Error and Port Reset Issues in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-new-features-how-to-sign-up-for-chatgpt-plugins-effortlessly/"><u>Unlocking New Features: How to Sign Up for ChatGPT Plugins Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-your-touchpad-scrolling-expert-guides-to-resolve-the-issue-on-windows-11/"><u>Why Isn't Your Touchpad Scrolling? Expert Guides to Resolve the Issue on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-fixing-non-functional-clipboard-operations/"><u>Windows 10: Fixing Non-Functional Clipboard Operations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo/"><u>[New] Effortless Integration Uploading and Showcasing iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-media-player-vlc-versus-mx-player/"><u>[New] Finding the Ideal Media Player VLC versus MX Player</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-down-the-three-stages-of-snapchat-calls-and-chats/"><u>[Updated] 2024 Approved Breaking Down the Three Stages of Snapchat Calls and Chats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-manage-followers-with-top-twitter-cleanup-apps-for-2024/"><u>[Updated] Effortlessly Manage Followers with Top Twitter Cleanup Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetization-mastery-how-ajay-achieves-wealth-online/"><u>[Updated] Monetization Mastery How AJay Achieves Wealth Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlock-your-videos-potential-with-these-youtube-seo-insights/"><u>2024 Approved Unlock Your Videos' Potential with These YouTube SEO Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-sims-4-does-not-launch-top-solutions-explored/"><u>Beating 'Sims 4 Does Not Launch': Top Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-user-profile-service-failed-to-sign-in-error-on-windows-pcs/"><u>Fixing the 'User Profile Service Failed to Sign In' Error on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-frustrating-frozen-windows-update-showing-zero-progress-made-simple/"><u>Fixing the Frustrating Frozen Windows Update Showing Zero Progress Made Simple</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-amd-radeon-r9-360-drivers-free-download-and-upgrade-instructions-for-windows-11/"><u>Latest AMD Radeon R9 360 Drivers: Free Download and Upgrade Instructions for Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210757311-netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dilemma-step-by-step-guide-to-overcoming-glexttexturecompression-level-compression-format-opengl-error-1281/"><u>Resolving the Dilemma: Step-by-Step Guide to Overcoming GL_EXT_texture_compression Level Compression Format OpenGL Error #1281</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-premium-17-inch-laptop-picks/"><u>Top 10 Premium 17-Inch Laptop Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-continuous-shutdown-restart-cycles-for-windows-10-computers/"><u>Troubleshoot Continuous Shutdown-Restart Cycles for Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-mouse-fixing-right-click-issues-on-windows-11/"><u>Troubleshooting the Mouse: Fixing Right-Click Issues on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: USB Composite Device Malfunctioning? Here's How to Fix It on a USB 3.0 Interface
-date: 2024-09-17T16:31:39.923Z
-updated: 2024-09-22T20:31:37.585Z
+date: 2024-10-04T16:25:53.113Z
+updated: 2024-10-09T16:18:13.328Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 **USB 3.0** is a much more dependable and way faster USB (Universal Serial Bus) standard. Today most new computers and other devices support USB 3.0.  
  However, most USb 3.0 ports are**backward compatible** . That is to say, your USB 2.0 printer should work with USB 3.0 without problems.  
  When you receive the USB Composite Device can’t work with USB 3.0 or something similar, usually it’s a**driver problem** . Follow the solutions here to try to solve your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
  Note: You can do it**for free** if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2f7906b8e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve update your USB controller driver to the latest version, restart your computer to see if your printer is connected successfully.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your printer driver
@@ -92,15 +106,16 @@ Follow to enable Legacy USB Support:
 2. Once your system boots into BIOS, press the**right arrow key** on your keyboard, to select**Peripherals** . Proceed to press the**down arrow key** to select**USB Configuration** , then**press Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a40067e328.jpg)
 3. On the USB Configuration pane, press the**down arrow key** to select**Legacy USB Support** . Then press**Enter** to set it to**Enabled** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3e993e8ad.jpg)
-4. Save your setting and exit BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3e993e8ad.jpg)
+4. Save your setting and exit BIOS.
 
  Your computer would then boot into the normal system. See if you can use your printer.
 
@@ -124,5 +139,20 @@ Follow to enable Legacy USB Support:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven/"><u>[New] 2024 Approved Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-smooth-volume-reduction-a-system-friendly-approach/"><u>[Updated] Smooth Volume Reduction A System-Friendly Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/freeze-fixation-finished-in-seconds-for-gamers/"><u>Freeze Fixation Finished in Seconds for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-cannot-reach-dhcp-server-problem/"><u>How to Overcome 'Cannot Reach DHCP Server' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-a-non-responsive-task-manager-problem-easily/"><u>How to Recover From a Non-Responsive Task Manager Problem Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-when-your-dns-server-isnt-answering-back/"><u>Quick Remedies for When Your DNS Server Isn't Answering Back</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/semaphore-timeout-exceeded-correcting-the-problem-for-error-code-0x80070079/"><u>Semaphore Timeout Exceeded - Correcting the Problem for Error Code 0X80070079</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustworthiness-from-trustedinstaller-before-altering-files/"><u>Steps to Obtain Trustworthiness From TrustedInstaller Before Altering Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-highlights-from-ces-2024-expert-insights-and-editor-favorites-zdnet-review/"><u>Top Highlights From CES 2024: Expert Insights and Editor Favorites - ZDNet Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-in-depth-articles-on-gadgets-from-toms-computer-digest/"><u>Unveiling Tech Secrets: In-Depth Articles on Gadgets From Tom's Computer Digest</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo N55 | Dr.fone</u></a></li>
+</ul></div>
 

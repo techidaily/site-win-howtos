@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11: Fixing Unresponsive Keys on Your PC"
-date: 2024-09-30T16:02:15.116Z
-updated: 2024-10-04T16:01:04.875Z
+date: 2024-10-06T18:52:57.801Z
+updated: 2024-10-09T22:58:11.701Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
@@ -64,20 +64,44 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -100,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -117,14 +134,14 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -136,24 +153,10 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -185,20 +188,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-pricing-your-way-to-higher-youtube-traffic/"><u>[Updated] Pricing Your Way to Higher YouTube Traffic</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-canine-howl-amalgam-sounds-and-effects-compilation/"><u>2024 Approved Canine Howl Amalgam Sounds & Effects Compilation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-chronicles-expert-tips-for-story-downloads/"><u>2024 Approved Instagram Chronicles Expert Tips for Story Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-broken-or-unresponsive-fn-key-issues-in-asus-laptops/"><u>Effective Solutions for Broken or Unresponsive 'FN' Key Issues in ASUS Laptops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-microsoft-sculpt-ergo-keyboard-drivers/"><u>Effortless Installation of Microsoft Sculpt Ergo Keyboard Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-solutions-resolving-opengl-issues-in-minecraft/"><u>Essential Solutions: Resolving OpenGL Issues in Minecraft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-driver-functionality-across-generations-windows/"><u>Harmonizing USBasp Driver Functionality Across Generations (Windows)</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-and-undo-gaming-expenses/"><u>How to Unsubscribe and Undo Gaming Expenses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>In 2024, Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reestablished-turn-on-nearby-network-defense-options/"><u>Reestablished: Turn On Nearby Network Defense Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-call-of-duty-world-war-ii-issue-with-error-4220/"><u>Resolved: 'Call of Duty World War II' Issue with Error 4220</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-video-file-unplayable-error-224003-fix-guide/"><u>Solving the 'Video File Unplayable: Error 224003' - Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-missing-file-privileges-solved/"><u>Steam Missing File Privileges [SOLVED]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-complete-blueprint-iphone-ringtone-customization-method/"><u>Your Complete Blueprint IPhone Ringtone Customization Method</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz-for-2024/"><u>[New] The Gateway Guide Entering the World of Photo-Video with Pixiz for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-youtubes-end-screens-easy-template-ideas-and-tutorials-for-2024/"><u>[New] Unlock YouTube's End Screens Easy Template Ideas & Tutorials for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-making-memories-sing-picture-plus-music-videography-for-2024/"><u>[Updated] Making Memories Sing Picture + Music Videography for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80072f8f-explained-how-to-repair-this-issue-on-windows-1110-computers/"><u>Error Code 0X80072F8F Explained: How to Repair This Issue on Windows 11/10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-netflix-proxy-error-you-seem-to-be-using-an-unblocker-or-proxy/"><u>Fix Netflix Proxy Error: You Seem to Be Using an Unblocker or Proxy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-v30-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo V30 Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiant-recording-two-simple-steps-for-enhanced-iphone-video-lighting/"><u>In 2024, Radiant Recording Two Simple Steps for Enhanced iPhone Video Lighting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfect-video-demos-in-adobe-captivate/"><u>Perfect Video Demos in Adobe Captivate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-cant-finish-setup-error/"><u>Quick Fixes for Windows Can't Finish Setup Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-fix-the-astro-a40-microphone-not-working-problem/"><u>Troubleshoot & Repair: Fix the Astro A40 Microphone Not Working Problem</u></a></li>
 </ul></div>
 

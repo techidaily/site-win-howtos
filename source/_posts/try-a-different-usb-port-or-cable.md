@@ -1,7 +1,7 @@
 ---
 title: Try a Different USB Port or Cable
-date: 2024-09-30T16:02:42.255Z
-updated: 2024-10-04T16:01:18.692Z
+date: 2024-10-02T16:08:57.830Z
+updated: 2024-10-09T21:32:51.459Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 2. [**Update your battery driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Force a shutdown and restart your Surface
@@ -45,10 +45,10 @@ To do so:
 2. Press the power button to turn on your Surface.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Charge Surface again to see if the**plugged in, not charging** problem has been resolved. If yes, then great! But if the message still pops up, you should try **Fix 2** , below.
@@ -56,10 +56,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your battery driver
@@ -75,14 +75,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c43c6e52e.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c4632e244.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully the**Surface plugged in, not charging** problem has been resolved.
@@ -109,22 +109,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>[New] A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-restore-pristine-photos-easily-discover-top-10-online-enhancers/"><u>[New] Restore Pristine Photos Easily Discover Top 10 Online Enhancers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-11-text-replication-hiccup/"><u>[SOLVED] Windows 11: Text Replication Hiccup</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics/"><u>2024 Approved Mastery Guide to YouTube SEO Title, Tagging & Description Tactics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-effective-fixes-for-reducing-desktop-window-managers-graphic-card-strain-on-windows-11/"><u>5 Effective Fixes for Reducing Desktop Window Manager's Graphic Card Strain on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/discovering-the-type-and-architecture-of-your-installed-microsoft-office-suite/"><u>Discovering the Type and Architecture of Your Installed Microsoft Office Suite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-aoc-monitor-up-and-running-on-windows-11-step-by-step-guide/"><u>Get Your AOC Monitor Up and Running on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-undetected-peripherals-via-bluetooth-on-your-pc-with-windows-10/"><u>How to Resolve Undetected Peripherals via Bluetooth on Your PC with Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-silence-to-symphony-transforming-facebook-videos-with-melodies/"><u>In 2024, From Silence to Symphony Transforming Facebook Videos with Melodies</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-g310-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia G310 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/instant-repair-lidadll-issue-fixed/"><u>Instant Repair: Lida.dll Issue Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-error-0x80070490-for-smooth-windows-system-update-process/"><u>Overcoming Error 0X80070490 for Smooth Windows System Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-bluetooth-not-detected-problem-fast-solutions/"><u>Resolve Windows 10 Bluetooth Not Detected Problem - Fast Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-network-showdown-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Network Showdown: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-magic5-ultimate-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-update-nightmare-conquering-error-code-0x800f0922-in-8-easy-steps/"><u>Windows 10 Update Nightmare: Conquering Error Code 0X800f0922 in 8 Easy Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-next-gen-screen-in-depth-look-at-the-hp-envy-27/"><u>[New] Next Gen Screen In-Depth Look at the HP Envy 27</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ideo-prowess-comparison-the-battle-between-cameras/"><u>[New] Video Prowess Comparison The Battle Between Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-facebook-livestreaming-on-roku/"><u>[Updated] Unveiling Facebook Livestreaming on Roku</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a6400-absent-actors-where-are-the-videos/"><u>A6400 Absent Actors Where Are the Videos?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-system-gap-msvcr71-acquired/"><u>Addressing System Gap: MSVCR71 Acquired</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-wont-shut-down-windows-11-solved/"><u>Computer Won't Shut Down Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators-for-2024/"><u>Craft and Share 360 Videos to YouTube An Essential Guide for Creators for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-language-of-asmr-videos-for-2024/"><u>Decoding the Language of ASMR Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/demystifying-ps4s-capture-features-a-comprehensive-walkthrough-for-2024/"><u>Demystifying PS4's Capture Features A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-when-your-windows-update-gets-stuck-at-zero/"><u>Effective Remedies for When Your Windows Update Gets Stuck at Zero</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-epson-scan-cannot-communicate-with-the-scanner-easily/"><u>How To Fix EPSON Scan Cannot Communicate with the Scanner Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-save-time-save-stress-a-quick-guide-to-fcp-project-management/"><u>New 2024 Approved Save Time, Save Stress A Quick Guide to FCP Project Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-methods-to-resolve-frozen-taskbar-in-windows-10/"><u>Top Methods to Resolve Frozen Taskbar in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-instantly-solving-windows-installation-errors/"><u>Troubleshooting Guide: Instantly Solving Windows Installation Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dell-laptops-black-screen-issue/"><u>Ultimate Troubleshooting Guide: Resolving the Dell Laptop's Black Screen Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved! Why Won’t My HP Laptop Recognize USB Devices? A Step-by-Step Guide to Repairing USB Connectivity Issues
-date: 2024-10-02T16:04:31.402Z
-updated: 2024-10-04T16:05:05.790Z
+date: 2024-10-06T23:21:26.508Z
+updated: 2024-10-09T21:36:06.122Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2:  Change power management settings for USB Root Hubs
@@ -68,24 +68,32 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
@@ -105,13 +113,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -142,16 +143,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-calculating-youtubes-income-potential-with-cpm-rates-for-2024/"><u>[Updated] Calculating YouTube's Income Potential with CPM Rates for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-crafting-an-impactful-waterway-teaser/"><u>[Updated] Crafting an Impactful Waterway Teaser</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-techniques-to-boost-periscope-live-video-speed-for-2024/"><u>[Updated] Techniques to Boost Periscope Live Video Speed for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-imagery-capturing-drones-in-10-selection/"><u>Best Imagery-Capturing Drones in #10 Selection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-the-problem-of-malfunctioning-usb-devices-mousekeyboard-on-windows-7-pc/"><u>Fix the Problem of Malfunctioning USB Devices (Mouse/Keyboard) on Windows 7 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-drivers-for-your-canon-mg2900-printer-online/"><u>Get the Most Recent Drivers for Your Canon MG2900 Printer Online</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-driver-found-resolving-critical-system-errors/"><u>Missing Media Driver Found: Resolving Critical System Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-error-message-14-on-iphones-with-easy-fixes/"><u>Overcoming Error Message 14 on iPhones with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-missing-directx-9-file-expert-advice/"><u>Overcoming the Challenge of a Missing DirectX 9 File: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-user-profile-service-failures-resolve-your-windows-11-sign-in-issues/"><u>Solving User Profile Service Failures: Resolve Your Windows 11 Sign-In Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-instagram-connection-posting-video-content/"><u>[New] In 2024, YouTube-Instagram Connection Posting Video Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pivotal-ideas-in-tech-driven-story-weaving/"><u>[New] Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pro-gamers-preferred-video-capture-for-2024/"><u>[Updated] Pro Gamers' Preferred Video Capture for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-guide-to-metaverse-promotion/"><u>[Updated] The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-drone-transformed-with-yuneecs-typhoon-q500/"><u>A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209511095-boot-loop-blues-quick-tips-to-unstick-your-pc-from-boot-screen-deadlock/"><u>Boot Loop Blues? Quick Tips to Unstick Your PC From Boot Screen Deadlock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoded-troubleshooting-failed-writes-to-0x-pointed-out-memory-slot-0x/"><u>Decoded: Troubleshooting Failed Writes to 0X Pointed-Out Memory Slot (0X)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y56-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y56 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-rectifying-audio-device-not-found-in-microsoft-operating-systems/"><u>Guide to Rectifying 'Audio Device Not Found' In Microsoft Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-with-no-audio-output-a-step-by-step-guide/"><u>How to Fix Bluetooth Headphones with No Audio Output: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-hp-laptop-camera-in-windows-10-quickly-and-easily/"><u>How to Repair an Unresponsive HP Laptop Camera in Windows 10 Quickly and Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-trace-someone-explore-these-8-effective-people-search-services/"><u>How to Trace Someone? Explore These 8 Effective People Search Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalized-configuration-options-not-loading-correctly-solutions/"><u>Personalized Configuration Options Not Loading Correctly - Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-photography-dampening-disarray/"><u>Precision Photography Dampening Disarray</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-guide-accessing-advanced-startup-settings-on-windows-11/"><u>Quick Guide: Accessing Advanced Startup Settings on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-usb-mouse-wont-connect-to-your-pc-fix-guide/"><u>Solutions for When Your USB Mouse Won't Connect to Your PC – Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-opengl-errors-in-minecraft/"><u>Step-by-Step Solutions for Correcting OpenGL Errors in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cod-addressing-and-correcting-the-wwii-game-bug-error-4220/"><u>Troubleshooting Cod: Addressing and Correcting the WWII Game Bug (Error 4220)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-1n-11s-0x800f0922-update-error-step-by-step-guide/"><u>Troubleshooting Windows 1N 11'S 0X800f0922 Update Error: Step-by-Step Guide</u></a></li>
 </ul></div>
 

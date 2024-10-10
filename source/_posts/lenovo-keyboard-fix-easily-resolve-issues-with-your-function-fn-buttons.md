@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Keyboard Fix: Easily Resolve Issues with Your Function (Fn) Buttons"
-date: 2024-09-28T16:01:37.871Z
-updated: 2024-10-04T16:02:28.848Z
+date: 2024-10-06T21:08:27.474Z
+updated: 2024-10-09T21:01:37.024Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -42,31 +49,34 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Windows 11
@@ -77,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
@@ -138,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Check hardware issues
 
  If you’ve tried all of the steps above and the number keys on your keyboard are still not working, it’s likely that the keyboard is defective. You can connect your keyboard to a different PC to check hardware issues.
@@ -170,24 +166,19 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-fastest-growing-youtube-channel/"><u>[New] 2024 Approved 8 Fastest-Growing YouTube Channel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-snipping-edits-imovies-size-changing-secrets/"><u>[New] In 2024, Snipping Edits IMovie’s Size-Changing Secrets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209816370-resolved-unbearable-high-cpu-consumption-by-shell-infrastructures-in-modern-oses-like-windows-10-and-linux/"><u>[Resolved] Unbearable High CPU Consumption by Shell Infrastructures in Modern OSes Like Windows 10 & Linux</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-50-best-free-photography-tools-for-the-web/"><u>2024 Approved 50 Best Free Photography Tools for the Web</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>2024 Approved Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-step-breakdown-of-vivacuts-new-tools-and-features/"><u>2024 Approved Step-by-Step Breakdown of VivaCut's New Tools and Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-online-presence/"><u>Automated Marketing with Cookiebot: Enhance Your Online Presence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207317419-diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-for-red-screen-difficulties-in-windows-11-systems/"><u>Diagnosis and Repair for Red Screen Difficulties in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-device-manager-code-28-glitch-in-windows-operating-system/"><u>Effective Solutions for the Device Manager 'Code 28' Glitch in Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-system-crashes-at-start-up-a-comprehensive-guide/"><u>Fixing Windows 10 System Crashes at Start-Up: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-glitch-to-action-fortnite-is-ready-now/"><u>From Glitch to Action: Fortnite Is Ready Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-i-enjoy-my-favorite-shows-by-using-the-nintendo-switch-with-netflix/"><u>How Can I Enjoy My Favorite Shows By Using The Nintendo Switch With Netflix?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/proposal-anthems-top-10-love-ballads-and-their-meanings/"><u>Proposal Anthems Top 10 Love Ballads and Their Meanings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-a2plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi A2+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-sims-4-wont-load-tips-and-tricks-to-get-your-game-running-smoothly-again/"><u>Solving 'Sims 4 Won't Load': Tips and Tricks to Get Your Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-of-a-non-responsive-shutdown-in-windows-10-systems/"><u>Solving the Dilemma of a Non-Responsive Shutdown in Windows 10 Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-have-your-iphone-assessed-through-apples-online-tech-support/"><u>Steps To Have Your iPhone Assessed Through Apple's Online Tech Support</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-glitches-how-to-stop-windows-pcs-speakers-from-crackling/"><u>Troubleshooting Audio Glitches: How to Stop Windows PC's Speakers From Crackling</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-your-time-best-ways-to-follow-facebook-live-for-2024/"><u>[New] Maximizing Your Time Best Ways to Follow Facebook Live for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>[New] ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-heart-of-video-editing-filmoras-favorites-for-2024/"><u>[New] The Heart of Video Editing Filmora's Favorites for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-windows-8-podcast-apps-reviewed/"><u>2024 Approved Leading Windows 8 Podcast Apps Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80071ac3-explained-how-to-clean-up-corrupt-volume-data/"><u>Error 0X80071AC3 Explained: How to Clean Up Corrupt Volume Data</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-fbx-for-the-aspiring-gamer-filmmaker/"><u>In 2024, FBX for the Aspiring Gamer Filmmaker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-steps-for-choosing-an-effective-4k-camera-lens/"><u>Proven Steps for Choosing an Effective 4K Camera Lens</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-rendering-engine-initialization-error-the-2021-edition/"><u>Solving the 'Rendering Engine Initialization Error - The 2021 Edition'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-incompatible-drivers-on-your-pc-effective-strategies-and-tips/"><u>Troubleshooting Incompatible Drivers on Your PC – Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-ps4-nat-issues-with-easy-effective-steps/"><u>Troubleshooting PS4 NAT Issues with Easy, Effective Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-frustrating-twitch-error-4000/"><u>Understanding and Fixing the Frustrating Twitch Error 4000</u></a></li>
+<li><a href="https://win11.techidaily.com/vintage-visuals-redefined-employing-retroarchs-modern-shaders/"><u>Vintage Visuals Redefined: Employing RetroArch’s Modern Shaders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-screen-flashing-issue-how-to-fix-it/"><u>Windows 11 Screen Flashing Issue - How To Fix It</u></a></li>
 </ul></div>
 

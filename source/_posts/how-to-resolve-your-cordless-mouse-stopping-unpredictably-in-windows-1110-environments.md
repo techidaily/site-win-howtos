@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your Cordless Mouse Stopping Unpredictably in Windows 11/10 Environments
-date: 2024-09-27T16:01:01.277Z
-updated: 2024-10-04T16:00:06.486Z
+date: 2024-10-08T17:38:34.704Z
+updated: 2024-10-09T22:20:07.974Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
@@ -67,6 +74,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select**System Sounds** .
 
@@ -88,23 +102,9 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
@@ -114,6 +114,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Re-enable microphone in Device Manager
 
  This is a quick yet useful solution when your internal microphone ran into glitches. Just follow the steps below to disable and then re-enable the mic device from Windows Device Manager:
@@ -121,19 +128,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
@@ -143,20 +137,27 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -173,22 +174,15 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -213,16 +207,19 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-indoor-brightness-boosted-by-external-radiance/"><u>[New] 2024 Approved Indoor Brightness Boosted by External Radiance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-melody-matters-device-reviews/"><u>2024 Approved Melody Matters Device Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-need-for-elevated-permissions-on-your-windows-machine-windows-11107/"><u>Bypassing the Need for Elevated Permissions on Your Windows Machine (Windows 11/10/7)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-flash-plugin-breakdowns-for-a-smooth-experience-in-google-chrome/"><u>Fixing Flash Plugin Breakdowns for a Smooth Experience in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-device-not-found-error-codes-24-on-windows-1087/"><u>How to Repair 'Device Not Found' Error Codes 24 on Windows 10/8/7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206973198-logildadll-missing-no-more/"><u>LogiLDA.dll Missing, No More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-system-maintenance-unlocking-the-potential-of-sfc-and-dism-for-troubleshooting-windows-10-issues/"><u>Mastering Windows System Maintenance: Unlocking the Potential of SFC & DISM for Troubleshooting Windows 10 Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revealed-top-10-powerful-fcp-plugin-tools-for-2024/"><u>Revealed Top 10 Powerful FCP Plugin Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-soundbite-strategies-transform-your-voice-records/"><u>[New] 2024 Approved Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>[New] In 2024, Multiplying Joy Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nubia-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nubia?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/combat-ai-illusions-master-6-key-prompting-methods-for-accurate-results/"><u>Combat AI Illusions: Master 6 Key Prompting Methods for Accurate Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confirmed-alert-authentic-chatgpt-windows-client-doesnt-exist-steer-clear-of-imitations/"><u>Confirmed Alert: Authentic ChatGPT Windows Client Doesn't Exist, Steer Clear of Imitations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-for-fixing-the-perplexing-unknown-usb-and-failed-port-reset-challenges-on-windows-11-devices/"><u>Definitive Solutions for Fixing the Perplexing Unknown USB and Failed Port Reset Challenges on Windows 11 Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-spelling-accuracy-on-iphones-6-strategies-to-overcome-autocorrect-errors/"><u>Mastering Spelling Accuracy on iPhones: 6 Strategies to Overcome Autocorrect Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80072f8f-a-step-by-step-guide-for-windows-11-and-10-users/"><u>Resolving Error Code 0X80072F8F: A Step-by-Step Guide for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-correcting-steams-unavailable-file-rights-issue/"><u>Solution Guide for Correcting Steam's Unavailable File Rights Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-huion-tablet-issues-top-5-quick-solutions/"><u>Troubleshoot Huion Tablet Issues: Top 5 Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-prtscn-shortcut-in-microsofts-latest-operating-systems/"><u>Troubleshooting Non-Responsive PrtScn Shortcut in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-monitor-has-no-video-output-error/"><u>Troubleshooting Tips: Correcting the 'Monitor Has No Video Output' Error</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-elitebook-x360-1030-g2-driver-download-and-support/"><u>Update Your HP EliteBook X360 1030 G2 - Driver Download & Support</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unable to Install New Features in Windows 10 1607 - Common Problems and Solutions
-date: 2024-10-01T16:04:10.152Z
-updated: 2024-10-04T16:02:43.845Z
+date: 2024-10-04T20:11:21.207Z
+updated: 2024-10-09T22:29:46.077Z
 tags:
   - win11
   - win10
@@ -43,24 +43,45 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Right-click your Bluetooth device and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your problem persists, then move on and try the fix below.
 
@@ -71,13 +92,6 @@ If your problem persists, then move on and try the fix below.
 **1)** On your keyboard, press the**Windows logo key** and type**troubleshoot** . Then hit the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
@@ -99,26 +113,26 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
@@ -145,25 +159,11 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -187,17 +187,19 @@ If your issue continues to occur, then try the next solution, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[Updated] In 2024, Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advanced-photo-enhancement-applications-for-flawless-image-restoration/"><u>Advanced Photo Enhancement Applications for Flawless Image Restoration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/api-integration-fails-missing-cruntimel1-1-0/"><u>API Integration Fails - Missing cRuntimeL1-1-0</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/as-mais-eficientes-ferramentas-de-edicao-imagem-retirando-pessoas-das-cenas/"><u>As Mais Eficientes Ferramentas De Edição Imagem: Retirando Pessoas Das Cenas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212190456-google-chrome-stalling-heres-why-and-how-to-quickly-resolve/"><u>Google Chrome Stalling? Here's Why and How to Quickly Resolve!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-the-functionality-of-your-lenovos-fn-key-with-ease-and-speed/"><u>Step-by-Step: Restoring the Functionality of Your Lenovo's Fn Key with Ease and Speed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-svchostexes-excessive-bandwidth-usage-a-comprehensive-guide/"><u>Tackling Svchost.exe's Excessive Bandwidth Usage: A Comprehensive Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-pova-6-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Pova 6 Pro 5G FRP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-fixes-for-when-your-pc-struggles-to-connect-to-cod-warzone-games/"><u>Tips & Fixes for When Your PC Struggles to Connect to COD Warzone Games</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 7 Making It Possible</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-easy-fixes-for-world-of-warcraft-system-crashes/"><u>Troubleshooting Easy Fixes for World of Warcraft System Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212204648-windows-10-volume-adjustment-woes-heres-how-you-can-get-the-sound-back-on-track/"><u>Windows 10 Volume Adjustment Woes? Here's How You Can Get the Sound Back On Track</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pro-video-tips-add-borders-and-raise-quality-on-ig/"><u>[New] In 2024, Pro Video Tips Add Borders and Raise Quality on IG</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-quick-tempo-adjustment-application-selection/"><u>[New] In 2024, Quick Tempo Adjustment Application Selection</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-discover-7-best-free-macos-compatible-tiktok-tools/"><u>[Updated] 2024 Approved Discover 7 Best Free, MacOS Compatible TikTok Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-quick-and-easy-twitter-to-snapchat-video-sharing-tips/"><u>[Updated] 2024 Approved Quick & Easy Twitter to Snapchat Video Sharing Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-echovid-save-facebook-calls/"><u>[Updated] EchoVid - Save Facebook Calls</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-win-customer-trust-incorporating-these-20-marketing-expressions-for-2024/"><u>[Updated] Win Customer Trust Incorporating These 20 Marketing Expressions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-error-code-0x800705b4-complete-guide/"><u>Fixing the Windows 10 Update Error Code 0X800705b4 - Complete Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-ai-assistant-to-poetry-author-building-an-anthology-with-chatgpt-guidance/"><u>From AI Assistant to Poetry Author: Building an Anthology with ChatGPT Guidance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202845987-how-to-fix-the-windows-update-error-code-0x80070002-simple-solutions/"><u>How to Fix the Windows Update Error Code 0X80070002: Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-your-pc-did-not-come-back-online-error-in-windows-11-solution/"><u>How to Overcome 'Your PC Did Not Come Back Online' Error in Windows 11 [Solution]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-x-flip-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo X Flip Device SIM</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-heres-how-to-fix-safari-image-load-failures-9-methods/"><u>IPhone Users! Here's How to Fix Safari Image Load Failures (9 Methods)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203925153-is-my-netflix-service-disrupted-find-out-why-and-how-to-fix-it-now/"><u>Is My Netflix Service Disrupted? Find Out Why & How To Fix It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-missing-directx-11-functionality-in-your-graphics-card/"><u>Resolving the Issue of Missing DirectX 11 Functionality in Your Graphics Card</u></a></li>
 </ul></div>
 

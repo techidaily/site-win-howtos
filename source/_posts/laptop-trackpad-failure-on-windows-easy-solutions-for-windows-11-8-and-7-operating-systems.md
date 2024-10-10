@@ -1,7 +1,7 @@
 ---
 title: "Laptop Trackpad Failure on Windows: Easy Solutions for Windows 11, 8 & 7 Operating Systems"
-date: 2024-09-28T16:02:17.727Z
-updated: 2024-10-04T16:03:29.064Z
+date: 2024-10-07T21:39:53.204Z
+updated: 2024-10-09T19:34:14.509Z
 tags:
   - win11
   - win10
@@ -37,32 +37,40 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -85,26 +93,13 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -131,16 +126,21 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-xsplit-index-direct-split-and-reviews/"><u>[New] 2024 Approved XSplit Index Direct Split and Reviews</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-construct-powerpoint-into-digital-film/"><u>[New] Construct PowerPoint Into Digital Film</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-screen-capture-contenders-a-comprehensive-review/"><u>[Updated] In 2024, Top Screen Capture Contenders A Comprehensive Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-a-professional-editor-mastering-final-cut-pro/"><u>2024 Approved Becoming a Professional Editor Mastering Final Cut Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/edit-raw-photos-effortlessly-master-photography-editing-with-darktables-complimentary-software-on-macos-and-linux-systems/"><u>Edit RAW Photos Effortlessly: Master Photography Editing with Darktable's Complimentary Software on macOS & Linux Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-windows-11-endless-repair-cycle-step-by-step-guide/"><u>How to Break Free From Windows 11 Endless Repair Cycle - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-pc/"><u>How to Restore Brightness Control Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic-6-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reboot-your-browser-solutions-for-a-frozen-google-chrome-window/"><u>Reboot Your Browser: Solutions for a Frozen Google Chrome Window</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-backspace-key-not-functioning-problems-effectively/"><u>Resolving 'Backspace Key Not Functioning' Problems Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-get-your-corsair-keyboard-back-in-action/"><u>Solved! How to Get Your Corsair Keyboard Back in Action</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>[New] In 2024, Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-year-ahead-social-media-infographic-insights-for-2024/"><u>[New] The Year Ahead Social Media Infographic Insights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2023s-definitive-tricks-to-optimize-performance-and-reduce-lags-in-fallout-4-adventures/"><u>2023'S Definitive Tricks to Optimize Performance & Reduce Lags in Fallout 4 Adventures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-skies-with-top-10-beginner-drones/"><u>2024 Approved Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-vids-unpacked-whats-the-score/"><u>2024 Approved Micro Vids Unpacked What's the Score?</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-expert-windows-programs-for-video-editors/"><u>6 Expert Windows Programs for Video Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209865722-battleye-service-install-errors-now-corrected/"><u>BattlEye Service Install Errors - Now Corrected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-windows-10-not-shutting-down-now-resolved/"><u>Expert Fixes for Windows 10 Not Shutting Down - Now Resolved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-how-to-install-new-toshiba-drivers-on-your-windows-pc/"><u>Get Updated - How to Install New Toshiba Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-d3derr-notavailable-mistake-in-windows-systems/"><u>How To Overcome the 'D3DERR NOTAVAILABLE' Mistake in Windows Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-s17-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo S17 Pro FRP?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-connection-issues-how-to-get-airpods-working-with-windows-11/"><u>Solving Your Connection Issues: How To Get AirPods Working with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-making-your-usb-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Drive Detectable Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-ftdi-bus-system-errors-driver-incompatibility-causes-loss-of-memory-protection/"><u>Understanding FTDI Bus System Errors: Driver Incompatibility Causes Loss of Memory Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-windows-11-notebook-using-ai-expert/"><u>Upgrade Windows 11 Notebook Using AI Expert</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/shorts-are-here-no-more-waiting-game-for-2024/"><u>Your Shorts Are Here – No More Waiting Game for 2024</u></a></li>
 </ul></div>
 

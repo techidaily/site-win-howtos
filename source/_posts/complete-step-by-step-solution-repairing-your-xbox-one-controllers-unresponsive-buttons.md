@@ -1,7 +1,7 @@
 ---
 title: "Complete Step-by-Step Solution: Repairing Your Xbox One Controller's Unresponsive Buttons"
-date: 2024-09-16T20:58:42.900Z
-updated: 2024-09-22T19:29:49.988Z
+date: 2024-10-04T20:29:18.856Z
+updated: 2024-10-09T17:09:09.059Z
 tags:
   - win11
   - win10
@@ -73,10 +73,10 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
@@ -84,14 +84,22 @@ To do so:
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
@@ -112,16 +120,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -153,5 +161,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-engaging-audiences-via-vo-enhanced-slideshows-for-2024/"><u>[New] Engaging Audiences via VO-Enhanced Slideshows for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>[New] Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-remote-recording-techniques-for-podcasts/"><u>[New] Remote Recording Techniques for Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[Updated] 2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-android-guide-for-backward-video-display/"><u>2024 Approved Android Guide for Backward Video Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-webcam-problems-solved-a-guide-for-windows-pc-owners/"><u>Dell Webcam Problems Solved - A Guide for Windows PC Owners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-resolved-rust-game-bug-a-step-by-step-guide/"><u>Fixing the [Resolved] Rust Game Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-better-seo-results/"><u>Harness the Power of Cookiebot for Better SEO Results</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-tech-gps-devices-for-cars-2024-edition/"><u>High-Tech GPS Devices for Cars: 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mouse-gesture-and-scrolling-difficulties-on-your-synaptic-touchpad-in-windows-10/"><u>Solving the Mouse Gesture and Scrolling Difficulties on Your Synaptic Touchpad in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-troublesome-green-issue-in-nba-2k21-now-resolved/"><u>Tackling the Troublesome Green Issue in NBA 2K21 - Now Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/taskbar-missing-4-tips-for-icons-missing-from-taskbar-on-windows-10/"><u>Taskbar Missing? 4 Tips for Icons Missing From Taskbar on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-connecting-unresponsive-controllers-for-xbox-one-gamers/"><u>The Ultimate Fix: Connecting Unresponsive Controllers for Xbox One Gamers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Troubleshooting Tips for Non-Detectable USB Drives
-date: 2024-09-29T16:03:26.761Z
-updated: 2024-10-04T16:01:32.538Z
+date: 2024-10-03T20:22:05.195Z
+updated: 2024-10-09T21:23:09.532Z
 tags:
   - win11
   - win10
@@ -44,28 +44,28 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,6 +81,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,13 +97,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,6 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -130,6 +137,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -143,23 +157,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,20 +199,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unleashing-creativity-mastering-camera-snaps-on-zoom/"><u>[New] 2024 Approved Unleashing Creativity Mastering Camera Snaps on Zoom</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-affordable-high-performance-game-mice-and-keyboards-for-gamers/"><u>[New] In 2024, Affordable High-Performance Game Mice and Keyboards for Gamers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings-for-2024/"><u>[New] Master Mac Audio An In-Depth Look at Using Audacity for Recordings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tips-for-fixing-a-non-functional-ps4-headset-mic/"><u>Comprehensive Tips for Fixing a Non-Functional PS4 Headset Mic</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-package-for-u-are-u-fingerreader-v45/"><u>Driver Package for U-Are-U FingerReader V4.5</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-analysis-where-is-french-spoken-by-the-majority/"><u>Global Analysis: Where Is French Spoken by the Majority?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-corrupted-fixservice-error-in-windows-10-systems/"><u>How to Repair the Corrupted FixService Error in Windows 10 Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6s</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/requirements-update-game-engine-now-needs-a-d3d11-compatible-graphics-card/"><u>Requirements Update: Game Engine Now Needs a D3D11-Compatible Graphics Card</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-when-the-steam-store-wont-load-a-step-by-step-guide/"><u>Resolving Issues When The Steam Store Won't Load: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-11/"><u>Resolving the Issue: Elevated CPU Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y27-4g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y27 4G Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-platforms-for-free-movie-subtitle-downloads-srt-format/"><u>Top Platforms for FREE Movie Subtitle Downloads (SRT Format)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-swiftly-solve-error-code-0x80070652-on-your-pc/"><u>Troubleshooting Guide: Swiftly Solve Error Code 0X80070652 on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-social-media-top-10-ingenious-igtv-methods-for-brands-for-2024/"><u>[New] Mastering Social Media Top 10 Ingenious IGTV Methods for Brands for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-compelling-iphone-photo-and-video-applications-87x-for-2024/"><u>[Updated] Compelling iPhone Photo & Video Applications (8/7/X) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-tools-for-perfect-linux-screenshots-for-2024/"><u>[Updated] Essential Tools for Perfect Linux Screenshots for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-building-dreams-in-mc-ideal-village-housing-plans/"><u>2024 Approved Building Dreams in MC Ideal Village Housing Plans</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-blaze-curve-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Blaze Curve 5G Device SIM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-display-repair-how-to-solve-the-persistent-white-screen-problem/"><u>Laptop Display Repair: How to Solve the Persistent White Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-system-addressing-the-audio-device-graphs-impact-on-cpu-load-in-windows/"><u>Optimizing Your System: Addressing the Audio Device Graph's Impact on CPU Load in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-fixes-and-tips-for-overcoming-error-1603-fatal-installation-issue/"><u>Successful Fixes & Tips for Overcoming Error 1603 - Fatal Installation Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-strategies-resolve-unknown-usb-device-and-port-reset-errors-on-windows-10/"><u>Troubleshooting Strategies: Resolve 'Unknown USB Device' And Port Reset Errors on Windows 10</u></a></li>
 </ul></div>
 

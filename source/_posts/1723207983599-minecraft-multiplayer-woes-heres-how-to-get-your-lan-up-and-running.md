@@ -1,7 +1,7 @@
 ---
 title: Minecraft Multiplayer Woes? Here's How to Get Your LAN Up and Running!
-date: 2024-09-16T18:21:29.217Z
-updated: 2024-09-22T16:53:56.809Z
+date: 2024-10-04T18:44:17.193Z
+updated: 2024-10-09T17:34:20.374Z
 tags:
   - win11
   - win10
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -57,17 +70,17 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -86,9 +99,30 @@ To do so:
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -104,23 +138,9 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -152,5 +172,23 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-step-up-your-game-expert-tips-for-tiktok-editing/"><u>[New] In 2024, Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-profiling-success-a-step-by-step-guide/"><u>[New] Profiling Success A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-minirecord-screen-snapshot-evaluation-for-2024/"><u>[Updated] MiniRecord Screen Snapshot Evaluation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-vr-companies-for-the-next-decade/"><u>2024 Approved Essential VR Companies for the Next Decade</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>2024 Approved Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-pair-and-detect-your-bluetooth-devices-with-windows-10-system/"><u>How to Correctly Pair and Detect Your Bluetooth Devices with Windows 10 System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-f54-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy F54 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-failure-on-windows-easy-solutions-for-windows-11-8-and-7-operating-systems/"><u>Laptop Trackpad Failure on Windows: Easy Solutions for Windows 11, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>Obsudio Screen Recorder Analysis Your Best Choices Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-audio-issues-essential-tips-for-restoring-volume-on-your-windows-10-machine/"><u>Overcoming Audio Issues: Essential Tips for Restoring Volume on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-freezes-fixing-warframe-gameplay-issues-completely/"><u>Say Goodbye to Freezes - Fixing Warframe Gameplay Issues Completely</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-it-manual-what-to-do-when-your-xbox-pen-stops-working/"><u>The Ultimate Fix It Manual: What to Do When Your Xbox Pen Stops Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-24-solutions-for-missing-devices-in-windows-operating-systems/"><u>Troubleshooting Code 24: Solutions for Missing Devices in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-determine-if-netflix-is-currently-offline-and-solutions/"><u>Troubleshooting: How to Determine if Netflix Is Currently Offline & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-persistent-usb-connection-issues/"><u>Ultimate Guide: Solving Persistent USB Connection Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/"><u>Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos</u></a></li>
+</ul></div>
 

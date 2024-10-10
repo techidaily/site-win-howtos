@@ -1,7 +1,7 @@
 ---
 title: White Screen Woes? A Comprehensive Guide to Restoring Your Laptop Display
-date: 2024-10-01T04:11:28.421Z
-updated: 2024-10-04T04:38:21.299Z
+date: 2024-10-05T17:18:07.590Z
+updated: 2024-10-09T21:11:35.756Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,6 +58,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -63,27 +83,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -96,21 +109,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -129,15 +135,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
-3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
+3. Follow the on-screen instructions to fix any lurking problems.
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -162,22 +169,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-secrets-for-effortless-instagram-grouping/"><u>[New] 10 Secrets for Effortless Instagram Grouping</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-art-of-video-blending-using-modes-mastery/"><u>[New] 2024 Approved The Art of Video Blending Using Modes Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximal-brightness-for-android-videos-explained/"><u>2024 Approved Maximal Brightness for Android Videos Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-flac/"><u>使用 MOVAVI 將音樂文件流式更改成 FLAC - 資料顯示無限制下載</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mpem4r/"><u>線上自由改變MPE到M4R的方法 – 摩瓦市音符轉換器</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/complete-companion-to-standaard-fotomaten-the-ultimate-guide-by-movavi/"><u>Complete Companion to Standaard Fotomaten: The Ultimate Guide by Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-avid-a-asf-gratuitamente-online-movavi/"><u>Conversion AVID a ASF Gratuitamente Online - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-rumors-on-apples-latest-innovation-home-robot-unveiling-date-value-and-capabilities/"><u>Deciphering Rumors on Apple’s Latest Innovation – Home Robot Unveiling Date, Value, & Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/digital-eyes-how-to-transform-your-look-with-picture-editing-teeth-whitening/"><u>Digital Eyes: How to Transform Your Look with Picture Editing Teeth Whitening</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellent-unrestricted-pubg-visual-sequences/"><u>Excellent Unrestricted PUBG Visual Sequences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laughter-laborer-spooky-cyborgs/"><u>In 2024, Laughter Laborer Spooky Cyborgs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-uncluttered-desktop-recorder-w10/"><u>In 2024, Uncluttered Desktop Recorder W10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-online-converte-arw-para-formatos-mais-usados-sem-custo-algum/"><u>Movavi Online - Convertê ARW Para Formatos Mais Usados, Sem Custo Algum!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-video-transcoder-streamlined-downloading-of-movies-and-videos/"><u>Movavi Video Transcoder - Streamlined Downloading of Movies & Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-online-audio-converter-convertendo-midi-para-flac-aqui-sem-custo-algum/"><u>Movavi's Online Audio Converter - Convertendo Midi Para Flac Aqui Sem Custo Algum!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/russian-communication-basics-phrases-and-vocabulary-guide/"><u>Russian Communication Basics: Phrases & Vocabulary Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-facilement-un-fichier-jp2-en-format-jpeg-gratuitement-conversion-video-online/"><u>Transformer Facilement Un Fichier JP2 en Format JPEG Gratuitement - Conversion Vidéo Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>2024 Approved The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-financial-independence-on-youtube-via-views-for-2024/"><u>Achieving Financial Independence on YouTube via Views for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cost-free-chromebook-video-capturing-leaders/"><u>Cost-Free Chromebook Video Capturing Leaders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/filmmaking-fundamentals-for-engaging-facebook-groups-for-2024/"><u>Filmmaking Fundamentals for Engaging Facebook Groups for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-elex-ii-from-continuously-freezing-on-your-computer/"><u>Fixes & Solutions: How to Stop Elex II From Continuously Freezing on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-v2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic V2 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lenovo-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lenovo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11s-0x80072efd-issue-a-step-by-step-guide/"><u>Resolving Windows 11'S 0X80072EFD Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-application-could-not-launch-correctly-with-error-0xc000007b-updated-solution/"><u>Step-by-Step Guide to Fix 'Application Could Not Launch Correctly' With Error (0XC000007B) - Updated Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncover-solutions-to-the-icue-not-detecting-devices-problem/"><u>Uncover Solutions to the ICUE Not Detecting Devices Problem</u></a></li>
 </ul></div>
 

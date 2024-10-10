@@ -1,7 +1,7 @@
 ---
 title: "Fix Typewriter Keys That Aren't Working: Solutions for Windows 10 and 11 Users"
-date: 2024-09-15T23:05:06.532Z
-updated: 2024-09-22T17:00:15.795Z
+date: 2024-10-04T20:41:45.408Z
+updated: 2024-10-09T20:56:38.666Z
 tags:
   - win11
   - win10
@@ -46,14 +46,36 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click the Update button next to a flagged keyboard driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 4. Restart your computer and try to press the print screen key to see if it works.
 
 ```` ```` ```` ``
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check if the print screen key is enabled
 
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ```` ````
 
@@ -67,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
 ```` ```` ````
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your operating system
 
 `` Check if your operating system is up-to-date.
@@ -89,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus Tip
@@ -118,5 +127,20 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-free-ai-hearing-and-handling-software/"><u>[New] Free AI Hearing and Handling Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sleek-screenscape-top-wallpapers-for-your-device/"><u>[New] Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[Updated] Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>[Updated] Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>2024 Approved Pearl-Like Pixels Tips for Perfect Underwater Footage with GoPro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-correct-the-troublesome-0x80072efd-glitch-on-windows-10/"><u>Expert Advice: How to Correct the Troublesome 0X80072EFD Glitch on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-and-tricks-eliminating-valorants-persistent-tearing-problem/"><u>Expert Tips & Tricks: Eliminating VALORANT's Persistent Tearing Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-screen-now-accepts-direct-interaction-via-pen-or-touch/"><u>Fix Implemented - Screen Now Accepts Direct Interaction via Pen or Touch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-detect-and-rectify-crc-cyclic-redundancy-check-errors-in-your-system/"><u>How to Detect and Rectify CRC (Cyclic Redundancy Check) Errors in Your System</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-get-notified-when-someone-screenshots-disappearing-messages-on-messenger/"><u>How to Get Notified When Someone Screenshots Disappearing Messages on Messenger</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-recover-d3dx943dll-file-on-your-pc/"><u>Quick Solutions: How to Recover d3dx9_43.dll File on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-lawn-mower-reviews-and-picks-2024-edition-techradar/"><u>Top-Rated Lawn Mower Reviews & Picks: 2024 Edition | TechRadar</u></a></li>
+</ul></div>
 

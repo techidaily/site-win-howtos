@@ -1,7 +1,7 @@
 ---
 title: Fix It Now! Solutions for Malfunctioning Function Buttons
-date: 2024-10-01T16:00:21.123Z
-updated: 2024-10-04T16:01:44.730Z
+date: 2024-10-08T23:03:28.895Z
+updated: 2024-10-09T16:08:11.985Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 3. **[Update your keyboard driver](#f3)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check if the function keys are locked
@@ -40,17 +40,17 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
  Sometimes the function keys on your keyboard could be locked by the F lock key. As a result, you can’t use function keys. Check if there was any key like**F Lock** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) or **F Mode** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.png) key on your keyboard. If there is one key like that, press that key and then check if the Fn keys could work.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try to press these keys
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
  As many users reported, they make their function keys work again by pressing the**F11** or**F12** key. You can give it a shot and see if it also helps you solve the problem.
 
 ### ```` ```` ``
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -70,19 +83,6 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 To update your drivers with Driver Easy, just click the **Scan Now**  button, then when it lists the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you update your keyboard driver, restart your computer and check if Fn keys work now.  
 ``
@@ -110,20 +110,21 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-engage-audiences-skywards-drone-filming-and-facebook-live/"><u>[New] 2024 Approved Engage Audiences Skywards Drone Filming and Facebook Live</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigate-new-horizons-discovering-the-top-10-pc-virtual-playback-devices/"><u>[New] 2024 Approved Navigate New Horizons Discovering the Top 10 PC Virtual Playback Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-to-the-shadows-of-youtube-videos/"><u>[New] 2024 Approved Navigating to the Shadows of YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-critically-acclaimed-video-cards-for-clear-youtube-broadcasts-for-2024/"><u>[New] Critically Acclaimed Video Cards for Clear YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-superior-websites-for-a-modern-social-experience-for-2024/"><u>[New] Superior Websites for a Modern Social Experience for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-calculating-earnings-ad-revenues-in-the-world-of-youtube-for-2024/"><u>[Updated] Calculating Earnings Ad Revenues in the World of YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-enchantment-setting-tips-for-streams/"><u>2024 Approved Audience Enchantment Setting Tips for Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-repairing-a-failing-huion-art-pen-in-minutes/"><u>Expert Tips: Repairing a Failing Huion Art Pen in Minutes!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-six-impactful-ways-to-harness-chatgpts-language-parsing-abilities/"><u>Exploring Six Impactful Ways to Harness ChatGPT's Language Parsing Abilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-message-0x887a0006-in-no-time-easy-solutions-inside/"><u>Fixing Error Message 0X887A0006 in No Time - Easy Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-microsoft-dp-adapter-to-work-on-windows-11-step-by-step-solutions-for-connection-problems/"><u>Getting Your Microsoft DP Adapter to Work on Windows 11: Step-by-Step Solutions for Connection Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-steam-updates-unlocking-the-secrets-to-overcoming-update-delays/"><u>Mastering Steam Updates: Unlocking the Secrets to Overcoming Update Delays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208649201-resolving-windows-10-installation-issue-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 10 Installation Issue: Fixing Error Code 80240020 Once and for All!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-pop-8-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Pop 8 Phone Pattern Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-eradicating-the-infinite-load-challenge-in-the-elder-scrolls-v-skyrim/"><u>Ultimate Guide: Eradicating the Infinite Load Challenge in The Elder Scrolls V: Skyrim</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-decoding-subtitles-from-srt-to-xml-ssa-and-more-for-2024/"><u>[New] Decoding Subtitles From SRT to XML, SSA & More for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>[Updated] Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>2024 Approved Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-immersive-storytelling-journey-our-top-8-selections/"><u>2024 Approved Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-tiktok-engagement-in-unboxing-videos/"><u>2024 Approved Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-the-problem-why-isnt-my-computers-night-light-working/"><u>Diagnosing the Problem: Why Isn't My Computer's Night Light Working?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-to-overcome-problem-0x800f0831-using-windows-update-feature/"><u>Effortless Solution to Overcome Problem 0X800F0831 Using Windows Update Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209587395-fast-solutions-for-windows-installation-problems-now-fixed/"><u>Fast Solutions for Windows Installation Problems - Now Fixed!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/integrating-xbox-one-joystick-into-your-pc-gameplay/"><u>Integrating Xbox One Joystick Into Your PC Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203401482-nier-automata-on-pc-keep-freezing-heres-how-to-get-smooth-gameplay/"><u>Nier Automata on PC Keep Freezing? Here's How to Get Smooth Gameplay!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-pc-bypassing-quick-fixes-for-windows-cannot-install/"><u>Streamline Your PC: Bypassing Quick Fixes for 'Windows Cannot Install'</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-becoming-a-tiktok-live-companion-for-2024/"><u>The Ultimate Guide to Becoming a TikTok Live Companion for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-critiques-and-praises-a-breakdown-of-recent-viber-out-testimonials/"><u>Top Critiques & Praises: A Breakdown of Recent Viber Out Testimonials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-11-overcoming-access-denied-in-container-setup-guide/"><u>Ultimate Solution for Windows 11 - Overcoming Access Denied in Container Setup [Guide]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-105-classic-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 105 Classic Phone Network-Ready</u></a></li>
 </ul></div>
 

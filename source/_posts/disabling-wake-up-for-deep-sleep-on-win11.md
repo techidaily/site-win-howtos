@@ -1,7 +1,7 @@
 ---
 title: Disabling Wake-Up for Deep Sleep on Win11
-date: 2024-09-28T16:00:18.563Z
-updated: 2024-10-04T16:00:59.401Z
+date: 2024-10-02T22:30:51.060Z
+updated: 2024-10-09T21:53:31.677Z
 tags:
   - win11
   - win10
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -73,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
@@ -96,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For Windows 7:**
 
 1. Open**Control Panel** .
@@ -110,26 +116,26 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -148,17 +154,32 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
-4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
-5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
+4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
+5. Click the**OK** button.
 
 6. Exit the Registry Editor.
 
@@ -168,13 +189,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
@@ -206,20 +220,16 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[New] 2024 Approved Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-removing-obscured-display-issues-in-recording/"><u>[New] 2024 Approved Removing Obscured Display Issues in Recording</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-right-virtual-helper-alexa-vs-google-assistant/"><u>Choosing the Right Virtual Helper: Alexa Vs. Google Assistant</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-top-chatbots-is-it-gpt-plus-or-perplexity-that-reigns-supreme/"><u>Comparing Top Chatbots: Is It GPT-Plus or Perplexity That Reigns Supreme?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-tearing-issues-in-valorant-for-a-smooth-gaming-experience/"><u>Fixing Tearing Issues in Valorant for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unsecure-connection-alert-on-firefox-browsers-effectively/"><u>Fixing the Unsecure Connection Alert on Firefox Browsers Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/freie-hevc-kodierungstools-zum-betrachten-von-4k8k-videos-ohne-kosten/"><u>Freie HEVC Kodierungstools Zum Betrachten Von 4K/8K-Videos Ohne Kosten</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-v27-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo V27 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-trends-and-techniques-for-skyrocketing-youtube-views/"><u>In 2024, Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-fixes-successfully-loading-a-plugin-in-google-chrome-for-windows-10/"><u>Mastering Error Fixes: Successfully Loading a Plugin in Google Chrome for Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-freezes-solved-correcting-the-impact-of-incompatible-video-card-drivers-on-windows/"><u>Minecraft Freezes Solved? Correcting the Impact of Incompatible Video Card Drivers on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-red-screen-troubleshooting-for-a-smooth-windows-11-experience/"><u>Overcoming Red Screen Troubleshooting for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-with-non-functional-igfxem-module-now-fixed/"><u>Resolved: Issue with Non-Functional Igfxem Module Now Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-rpc-server-not-available-issue-on-your-pc-step-by-step-solutions/"><u>Resolving the 'RPC Server Not Available' Issue on Your PC: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok/"><u>[Updated] 2024 Approved Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements-for-2024/"><u>Behind the Curtain Exclusive Review of Apeaksoft's Tech Advancements for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-overcoming-the-challenge-of-error-0xc0000098-on-windows-systems/"><u>Expert Advice for Overcoming the Challenge of Error 0xC0000098 on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-instant-driver-updates-on-windows-11/"><u>Expert Tips for Instant Driver Updates on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-do-a-clean-install-of-windows-11-quickly-and-easily/"><u>How to Do a Clean Install of Windows 11, Quickly and Easily!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-directory-name-is-invalid-error-on-your-computer/"><u>Resolved: How to Fix 'Directory Name Is Invalid' Error on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-fn-key-malfunction-on-your-dell-pc-a-comprehensive-guide/"><u>Resolving the Fn-Key Malfunction on Your Dell PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-a70-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel A70</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-code-0x80240034-explained-and-how-to-fix-it-successfully/"><u>Windows 11 Update Error Code 0X80240034 Explained and How to Fix It Successfully</u></a></li>
 </ul></div>
 

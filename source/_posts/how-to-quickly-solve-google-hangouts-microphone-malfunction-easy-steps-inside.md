@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Solve Google Hangouts Microphone Malfunction - Easy Steps Inside
-date: 2024-09-28T20:08:01.452Z
-updated: 2024-10-04T00:21:17.680Z
+date: 2024-10-08T18:23:11.336Z
+updated: 2024-10-09T19:28:56.297Z
 tags:
   - win11
   - win10
@@ -32,15 +32,22 @@ Before you try the solutions below, please check these several things as it can 
 
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your microphone and other related driver
@@ -48,20 +55,13 @@ Sometimes, a simple restart can solve a lot computer woes. When you find your mi
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
@@ -70,10 +70,10 @@ Your microphone not working issue can be probably caused by an old, corrupted or
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
@@ -97,22 +97,19 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-beat-is-in-your-hands-for-free-for-2024/"><u>[New] The Beat Is in Your Hands for Free for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/orf-png-movavi/"><u>「手軽に無料で高品位ORF PNG変換 - Movavi」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4b-wav-movavi/"><u>無限制網路下載改變 M4B到 WAV - 使用 Movavi 音頻轉換器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-veloce-di-mkv-a-mp4-su-internet-gratuito-via-movavi-scambio-formati-senza-costo/"><u>Conversione Veloce Di MKV a MP4 Su Internet Gratuito via Movavi - Scambio Formati Senza Costo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-online-free-raw-file-converter-movavi/"><u>Download Online Free Raw File Converter - Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-google-pixel-8-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Google Pixel 8 Safely | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-n30-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord N30 5G Through Google Earth?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/improve-your-work-efficiency-leveraging-snap-photography-techniques/"><u>Improve Your Work Efficiency Leveraging Snap Photography Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 12 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x7-ultra-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X7 Ultra Phone FRP Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-13-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 13 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-by-tom-the-ultimate-guide-to-modern-hardware/"><u>Innovative Tech Analysis by Tom: The Ultimate Guide to Modern Hardware</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-checklist-for-starting-a-live-feed/"><u>The Ultimate Checklist for Starting a Live Feed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-transcodificadores-mp4-mais-populares-e-livres-em-2024-ampla-compatibilidade-com-computador-e-dispositivo-movel/"><u>Top 12 Transcodificadores MP4 Mais Populares E Livres Em 2024: Ampla Compatibilidade Com Computador E Dispositivo Móvel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-webm-au-format-avi-convertisseur-video-en-ligne-facile/"><u>Trier Gratuitement Un Fichier WebM Au Format AVI - Convertisseur Vidéo en Ligne Facile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221656347-ai-10/"><u>가장 우수하고 유용한 AI 합성도어 소프트와 프로그램: 10대 권장 목록</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-3g3gp/"><u>웹 제공 Wi-Fi를 통해 자이저스 라이터와 사용자 친화적인 3G/3GP 파일 전환 - 무료</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-digging-into-the-data-top-10-twitvideos/"><u>[Updated] 2024 Approved Digging Into the Data Top 10 TwitVideos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photovideo-letter-artistry/"><u>[Updated] 2024 Approved Photo/Video Letter Artistry</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-web-experience-with-these-leading-screen-capturers/"><u>[Updated] Streamline Your Web Experience with These Leading Screen Capturers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-zooms-video-enhancements-filter-techniques/"><u>2024 Approved Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/discovering-one-platform-play-in-apex-legends-without-cross-play-complications/"><u>Discovering One-Platform Play in Apex Legends Without Cross-Play Complications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ting-youtube-creativity-ideal-concepts-and-themes-for-channels-for-2024/"><u>Elevating YouTube Creativity Ideal Concepts and Themes for Channels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-a-frozen-pointing-device-on-your-computer-system/"><u>Expert Advice: Dealing with a Frozen Pointing Device on Your Computer System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-techniques-to-repair-a-malfunctioning-screen-on-windows-11/"><u>Five Effective Techniques to Repair a Malfunctioning Screen on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-frozen-fun-with-simple-tricks/"><u>Fix Your Frozen Fun with Simple Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-notorious-code-28-error-in-windows-device-manager-a-step-by-step-guide/"><u>How to Fix the Notorious 'Code 28' Error in Windows Device Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-play-8t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Play 8T Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153057153-impending-ruling-trumps-ban-under-scrutiny-at-fb-oversight-panel/"><u>Impending Ruling: Trump's Ban Under Scrutiny at FB Oversight Panel</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/polarr-photo-editor-demystified-in-depth-analysis/"><u>Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-riddle-of-the-green-glitch-in-nba-2k21-a-comprehensive-guide/"><u>Solving the Riddle of the Green Glitch in NBA 2K21 - A Comprehensive Guide</u></a></li>
 </ul></div>
 

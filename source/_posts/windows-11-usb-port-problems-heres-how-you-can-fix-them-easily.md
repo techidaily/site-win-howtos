@@ -1,7 +1,7 @@
 ---
 title: Windows 11 USB Port Problems? Here's How You Can Fix Them Easily
-date: 2024-10-03T16:01:28.807Z
-updated: 2024-10-04T16:01:17.430Z
+date: 2024-10-07T18:02:38.357Z
+updated: 2024-10-09T23:34:47.467Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -65,26 +65,26 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
@@ -150,19 +150,22 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-dissecting-your-profit-share-in-youtube-short-creation/"><u>[New] 2024 Approved Dissecting Your Profit Share in YouTube Short Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quicknetflix-screenshots-a-mac-users-guide/"><u>[New] 2024 Approved QuickNetflix Screenshots A Mac User's Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-resource-protection-could-not-perform-the-requested-operation/"><u>[Solved] Windows Resource Protection Could Not Perform the Requested Operation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-minecraft-recordings-on-apple-devices/"><u>[Updated] In 2024, Streamlining Minecraft Recordings on Apple Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-seo-the-essentials-of-keyword-analysis-on-youtube/"><u>[Updated] In 2024, Unlocking SEO The Essentials of Keyword Analysis on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207747644-fix-your-stuck-arrow-keys-on-the-keyboard-with-easy-tips/"><u>Fix Your Stuck Arrow Keys on the Keyboard with Easy Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-driver-not-found-error-on-windows-solutions-and-guides/"><u>Fixing the 'Driver Not Found' Error on Windows: Solutions and Guides</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212487019-mestizo/"><u>Mestizo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-requested-operation-unsuccessful-by-wrp-troubleshooting-guide/"><u>Overcome 'Requested Operation Unsuccessful by WRP': Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptop-wont-charge-solve-it-now/"><u>Quick Fixes for When Your Laptop Won't Charge – Solve It Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-determining-if-your-windows-pc-is-compatible-with-a-ram-upgrade/"><u>Step-by-Step Guide: Determining if Your Windows PC Is Compatible with a RAM Upgrade</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ins-and-outs-of-firefox-picture-in-picture-for-2024/"><u>The Ins and Outs of Firefox Picture-in-Picture for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/windows-11-no-more-new-microsoft-mobile-app-support/"><u>Windows 11: No More New Microsoft Mobile App Support</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-tutorial-for-3d-lut-creators/"><u>[New] Ultimate Tutorial for 3D LUT Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instant-video-posting-to-twitter-from-phone-avoid-the-retweet/"><u>[Updated] 2024 Approved Instant Video Posting to Twitter From Phone – Avoid the Retweet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expert-techniques-for-flipping-and-tilting-iphone-images-for-2024/"><u>[Updated] Expert Techniques for Flipping & Tilting iPhone Images for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-become-a-communication-connoisseur-with-google-meet/"><u>[Updated] In 2024, Become a Communication Connoisseur with Google Meet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-seamless-multitasking-via-firefoxs-pip-mode-for-2024/"><u>[Updated] Seamless Multitasking via Firefox's PIP Mode for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-soundquality-synopsis-for-2024/"><u>[Updated] SoundQuality Synopsis for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steelseries-x50x70-keyboard-solutions-when-the-pen-stops-responding/"><u>Complete Troubleshooting SteelSeries X50/X70 Keyboard: Solutions When The Pen Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-audio-issues-troubleshooting-non-responsive-volume-control/"><u>Fix Your Windows 11 Audio Issues: Troubleshooting Non-Responsive Volume Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-night-light-when-it-wont-start-on-your-pc-windows-1011/"><u>How to Enable Night Light When It Won't Start on Your PC (Windows 10/11)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-failed-pc-installation-problems-fixed/"><u>How to Fix 'Days Gone' Failed PC Installation Problems (FIXED)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-rdr2-out-of-memory-mistake-by-boosting-your-pagefile-a-swift-solution/"><u>Resolve 'RDR2 - Out Of Memory' Mistake by Boosting Your Pagefile: A Swift Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sensible-spend-superior-sound-with-activbuds/"><u>Sensible Spend, Superior Sound with ActivBuds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-frozen-windows-updates-at-100-progress/"><u>Solving the Issue of Frozen Windows Updates at 100% Progress</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206814151-total-war-rome-remastered-game-crash-troubles-discover-these-fixes/"><u>Total War: Rome Remastered Game Crash Troubles? Discover These Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-out-of-memory-errors-for-a-smoother-gaming-experience-in-rdr2/"><u>Troubleshoot Out-Of-Memory Errors for a Smoother Gaming Experience in RDR2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-get-your-dell-camera-back-to-work-on-a-windows-pc/"><u>Troubleshooting: How to Get Your Dell Camera Back to Work on a Windows PC</u></a></li>
 </ul></div>
 

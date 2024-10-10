@@ -1,7 +1,7 @@
 ---
 title: How to Restore Integrity of System Files on Windows 10/11 - Expert Advice
-date: 2024-09-14T18:22:21.973Z
-updated: 2024-09-18T01:29:13.435Z
+date: 2024-10-06T18:44:50.224Z
+updated: 2024-10-09T22:07:53.966Z
 tags:
   - win11
   - win10
@@ -52,17 +52,25 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 3: Rebuild icon cache
 
@@ -71,6 +79,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -79,13 +95,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -99,10 +108,10 @@ If your desktop icons still don’t show up, you can perform a system restore to
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -110,6 +119,13 @@ If your desktop icons still don’t show up, you can perform a system restore to
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -119,17 +135,17 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -169,5 +185,23 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>[New] IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-urban-and-rural-carry-capabilities-top-10-drones/"><u>[Updated] In 2024, Urban and Rural Carry Capabilities Top 10 Drones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-social-media-traffic-into-revenue/"><u>[Updated] Transforming Social Media Traffic Into Revenue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 2 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-disruptions-ensuring-presence-of-xinput13dll/"><u>Avoid Disruptions: Ensuring Presence of XINPUT1_3.dll</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-windows-update-troubles-with-a-proven-cure-for-error-code-0x80240017/"><u>Beating Windows Update Troubles with a Proven Cure for Error Code 0X80240017</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/delving-into-digital-devices-expert-advice-from-toms-hardware-team/"><u>Delving Into Digital Devices: Expert Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-12-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 12 Pro Max in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wwe-2k-battlegrounds-error-for-dx11-feature-level-100-support/"><u>How to Fix WWE 2K Battlegrounds Error for DX11 Feature Level 10.0 Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-make-your-cursor-stand-still-once-and-for-all/"><u>How To Make Your Cursor Stand Still Once And For All</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>In 2024, A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-enhancing-quicktime-videos-with-surround-sound-a-step-by-step-guide/"><u>In 2024, Enhancing QuickTime Videos with Surround Sound A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-privilege-errors-in-steam-games-a-complete-solution/"><u>Overcoming Privilege Errors in Steam Games - A Complete Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-adventure-restored-in-dragon-quest-xi-fix-for-previous-game-freezes/"><u>Seamless Adventure Restored in Dragon Quest XI: Fix for Previous Game Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-strategies-for-fixing-aoc-usb-display-malfunctions-on-windows-10-systems/"><u>Solution Strategies for Fixing AOC USB Display Malfunctions on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-inputs-how-to-fix-input-not-recognized-on-your-screen/"><u>Troubleshooting Unsupported Inputs: How to Fix 'Input Not Recognized' On Your Screen</u></a></li>
+</ul></div>
 

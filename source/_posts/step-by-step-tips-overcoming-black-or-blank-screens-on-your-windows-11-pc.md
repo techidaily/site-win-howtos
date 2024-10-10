@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tips: Overcoming Black or Blank Screens on Your Windows 11 PC"
-date: 2024-09-15T22:41:25.416Z
-updated: 2024-09-22T22:52:45.027Z
+date: 2024-10-08T16:02:05.236Z
+updated: 2024-10-09T16:28:41.138Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ````   **2: Check screen saver settings**
 
 ```` Faulty screen saver settings could render it unusable. To fix it:
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584933b0e0509.jpg)
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 1) On your keyboard, press the  **Windows logo key**  and  **I**  at the same time. Click  **Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -88,16 +109,10 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **Other options**
@@ -122,5 +137,21 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-crystaleye-high-res-captures-wx/"><u>[New] CrystalEye High-Res Captures WX</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-speedy-instagram-video-views-desktop-methods/"><u>[Updated] 2024 Approved Speedy Instagram Video Views Desktop Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-luminalabs-exploring-affordable-video-editors/"><u>2024 Approved LuminaLabs Exploring Affordable Video Editors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-level-8-screen-snip-contenders/"><u>2024 Approved Pro-Level 8 Screen Snip Contenders</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c12-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C12 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-steps-to-solve-your-monitors-video-signal-failure/"><u>Comprehensive Steps to Solve Your Monitor's Video Signal Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-troubleshooting-and-solving-power-state-driver-mistakes-on-pc/"><u>Expert Advice: Troubleshooting and Solving Power State Driver Mistakes on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-virtual-realms-with-these-videos/"><u>Explore Virtual Realms with These Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-airpod-connectivity-with-windows-11-advanced-solutions-for-a-seamless-experience/"><u>Mastering AirPod Connectivity with Windows 11: Advanced Solutions for a Seamless Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/restore-your-viewing-experience-reclaim-the-icon/"><u>Restore Your Viewing Experience - Reclaim the Icon</u></a></li>
+<li><a href="https://article-posts.techidaily.com/swift-navigation-for-iphone-zooming-features/"><u>Swift Navigation for iPhone Zooming Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-mouse-issues-solutions-when-it-wont-connect-to-your-laptop/"><u>Troubleshooting USB Mouse Issues: Solutions When It Won't Connect to Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-reason-behind-teredos-inability-to-connect-successfully/"><u>Understanding the Reason Behind Teredo's Inability to Connect Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wired-back-to-life-logitech-mouse-restsore/"><u>Wired Back to Life: Logitech Mouse Restsore</u></a></li>
+</ul></div>
 

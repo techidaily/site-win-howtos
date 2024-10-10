@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Print to PDF' Feature Issues on Windows 10 & 11
-date: 2024-10-03T16:00:03.877Z
-updated: 2024-10-04T16:00:20.563Z
+date: 2024-10-03T18:15:13.953Z
+updated: 2024-10-09T23:23:33.491Z
 tags:
   - win11
   - win10
@@ -48,26 +48,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -76,17 +76,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
@@ -102,10 +103,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
@@ -127,15 +134,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
-3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
+3. Follow the on-screen instructions to fix any lurking problems.
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -160,22 +174,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-cartooncraft-master-guide-24-report/"><u>[New] 2024 Approved CartoonCraft Master Guide '24 Report</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-expert-guide-downloading-and-converting-vimeo-video-mp4-for-2024/"><u>[New] Expert Guide Downloading and Converting Vimeo Video (MP4) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-srt-file-engagement-for-os-users/"><u>[Updated] In 2024, Seamless SRT File Engagement for OS Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-invisible-intensity-covert-volume-reduction-in-garageband/"><u>[Updated] Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/averting-game-interruptions-in-valorant-restart/"><u>Averting Game Interruptions in Valorant: Restart</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-print-screen-problems-in-windows-11-and-10-step-by-step-solutions/"><u>Bypassing Print Screen Problems in Windows 11 & 10: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-silent-issues-troubleshooting-sound-problems-on-your-acer-laptop/"><u>Fixing Silent Issues: Troubleshooting Sound Problems on Your Acer Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-repair-windows-shortcut-winplusshiftpluss-malfunction-in-windows-11-and-10/"><u>Fixing the Issue: How to Repair Windows Shortcut Win+Shift+S Malfunction in Windows 11 & 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-printer-drivers-for-optimal-performance-on-windows-nk-version-11/"><u>Get the Newest HP Printer Drivers for Optimal Performance on Windows Nk Version 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-and-reduce-svchostexe-cpu-consumption-in-windows-10-systems/"><u>How to Optimize and Reduce svchost.exe CPU Consumption in Windows 10 Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-building-a-broadcast-brand-with-youtube-twitch-and-obs/"><u>In 2024, Building a Broadcast Brand with YouTube, Twitch and OBS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-with-tom-a-deep-dive-into-electronics-and-hardware/"><u>Mastering Tech with Tom - A Deep Dive Into Electronics and Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200868072-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the 'binkw32.dll' File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-av1-format-issues-enable-support-on-your-windows-11mac/"><u>Troubleshooting AV1 Format Issues: Enable Support on Your Windows 11/Mac</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-msi-afterburners-failure-to-recognize-gpu-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing MSI Afterburner's Failure to Recognize GPU in Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-internet-explorer-has-crashed/"><u>Troubleshooting Tips: Resolving 'Internet Explorer Has Crashed'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-not-working-on-pc-solved/"><u>Xbox One Controller Not Working on PC [Solved]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pixelpeek-presenters-paper-for-2024/"><u>[New] PixelPeek Presenter's Paper for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-gopro-filming-tips-for-flawless-results/"><u>[New] Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-streamlining-slide-decks-audio-integration-techniques-for-2024/"><u>[New] Streamlining Slide Decks Audio Integration Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-androids-finest-moba-battles-compilation-10-edition/"><u>[Updated] Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-the-disappearing-cursor-problem-on-your-windows-11-touchpad-today/"><u>Combat the Disappearing Cursor Problem on Your Windows 11 Touchpad Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-patched-up-and-solved-windows-update-malfunctions/"><u>How I Patched Up and Solved Windows Update Malfunctions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-delving-into-the-realm-of-yis-action-video-potential/"><u>In 2024, Delving Into the Realm of Yi's Action Video Potential</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-why-are-your-video-shorts-thumbnails-not-showing/"><u>In 2024, Why Are Your Video Shorts' Thumbnails Not Showing?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/navigating-through-essential-zoom-recording-equipment/"><u>Navigating Through Essential Zoom Recording Equipment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-nvidia-share-application-failures-quickly-and-easily/"><u>Overcoming NVIDIA Share Application Failures Quickly & Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-wont-open-here-are-five-proven-fixes/"><u>Sea of Thieves Won't Open? Here Are Five Proven Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spacebar-malfunction-in-windows-11-causes-and-solutions/"><u>Spacebar Malfunction in Windows 11: Causes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-windows-11-version-0x80240034-issue-efficiently/"><u>Step-by-Step Guide to Resolve Windows 11 Version 0X80240034 Issue Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204535976-ultimate-guide-quick-and-effective-ways-to-fix-lagging-in-pubg/"><u>Ultimate Guide: Quick and Effective Ways to Fix Lagging in PUBG</u></a></li>
 </ul></div>
 

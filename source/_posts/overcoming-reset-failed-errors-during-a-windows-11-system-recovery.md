@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Reset Failed' Errors During a Windows 11 System Recovery
-date: 2024-09-30T16:00:27.322Z
-updated: 2024-10-04T16:00:14.000Z
+date: 2024-10-07T17:52:06.836Z
+updated: 2024-10-09T18:53:48.446Z
 tags:
   - win11
   - win10
@@ -54,16 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -71,10 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -90,10 +84,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -105,10 +99,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -133,17 +127,22 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-complete-kinetic-review-2023/"><u>[New] 2024 Approved Complete Kinetic Review 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-punchline-studio-sign-up-and-share-your-humor/"><u>[New] PunchLine Studio Sign Up & Share Your Humor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-the-frustration-of-error-code-0x800f0831-leveraging-windows-update-for-quick-repairs/"><u>Avoiding the Frustration of Error Code 0X800f0831: Leveraging Windows Update for Quick Repairs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-addressing-the-parameter-is-incorrect-loadlibrary-error-code-87-solutions/"><u>Effective Strategies for Addressing 'The Parameter Is Incorrect' LoadLibrary Error Code 87 Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 8 With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-firefoxs-secerrorunknownissuer-a-simple-guide/"><u>How to Fix Firefox's SEC_ERROR_UNKNOWN_ISSUER: A Simple Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-microsoft-defender-antivirus-msmpengexe-from-overloading-your-cpu-on-windows-11-fixed/"><u>How to Stop Microsoft Defender Antivirus (MsMpEng.exe) From Overloading Your CPU on Windows 11 [FIXED]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-texts-with-iphone-xs-animoji-the-ultimate-guide-to-creating-expressive-emojis/"><u>Transform Texts with iPhone X's Animoji - The Ultimate Guide to Creating Expressive Emojis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-reducing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Troubleshooting Guide: Reducing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultra-simple-latest-driver-for-gtx-750-ti/"><u>Ultra Simple: Latest Driver for GTX 750 Ti</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x7-ultra-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-update-how-to-address-and-resolve-wudfhostexe-causing-high-cpu-usage/"><u>Windows 10 Update: How to Address and Resolve wudfhost.exe Causing High CPU Usage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eading-audio-visual-artists-collaborating-photos/"><u>[New] Leading Audio-Visual Artists Collaborating Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>[New] Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastery-over-moments-jake-pauls-youtube-saga/"><u>[Updated] Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-10-professional-pc-camera-options-on-windows-10/"><u>2024 Approved Top 10 Professional PC Camera Options on Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-ways-to-record-gameplay-and-webcam-for-2024/"><u>5 Ways to Record Gameplay and Webcam for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-the-problem-of-keyboards-where-backspace-fails-to-work/"><u>Expert Tips: Overcoming the Problem of Keyboards Where Backspace Fails to Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-driver-in-windows-7/"><u>Fixing the Unresponsive Sound Driver in Windows 7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ost-directors-of-cinematic-harmony-for-2024/"><u>Foremost Directors of Cinematic Harmony for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>In 2024, The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-overwatch-voice-chat-not-working-a-step-by-step-guide/"><u>Solving 'Overwatch Voice Chat Not Working': A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-fixing-the-0x80073712-error-on-your-windows-11-system-free/"><u>Step-by-Step Tutorial: Fixing the '0X80073712' Error on Your Windows 11 System [FREE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-on-repairing-deadly-fatal-error-1603-for-seamless-software-deployment/"><u>The Definitive Guide on Repairing Deadly Fatal Error (1603) for Seamless Software Deployment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x8024401c-on-windows-10-and-windows-11-systems/"><u>Troubleshooting Update Error 0X8024401c on Windows 10 and Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-tp-link-ac1200-wi-fi-booster-a-comprehensive-re305-evaluation/"><u>Unpacking the TP-Link AC1200 Wi-Fi Booster: A Comprehensive RE305 Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-update-to-windows-10-1607-understanding-install-issues/"><u>Why Can't I Update to Windows 10 1607? Understanding Install Issues</u></a></li>
 </ul></div>
 

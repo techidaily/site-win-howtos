@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Resolve 'Application.exe Has Stopped Working'"
-date: 2024-09-27T16:02:36.182Z
-updated: 2024-10-04T16:00:33.415Z
+date: 2024-10-05T19:36:15.458Z
+updated: 2024-10-09T19:22:00.286Z
 tags:
   - win11
   - win10
@@ -47,9 +47,30 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 3. In the pop-up window, click **Advanced**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap5-8.jpg)
 4. **Check** the box next to**Apply repairs automatically** and then click **Run as administrator**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-5.jpg)
 5. Click**Next** .  Windows will detect and fix the problems automatically. The process may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the process is done, see if the Windows 7 update stuck issue is resolved. If not, try the next fix.
 
@@ -63,42 +84,23 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-7.jpg)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.`C:\Windows\SoftwareDistribution\DataStore`  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-8.jpg)
 4. Delete all the files in the folder **DataStore**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-6.jpg)
 5. On your File Explorer, c opy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.`C:\Windows\SoftwareDistribution\Download`  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-3.jpg)
 6. Delete all the files in the folder   **Download**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-6.jpg)
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-6.jpg)
 
@@ -113,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 2. **View**  the Control Panel **by Category** . Click **View network status and tasks**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap22-4.jpg)
@@ -126,19 +128,27 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-4.jpg)
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-6.jpg)
 6. Select **Obtain an IP address automatically**  and   **Use the following DNS server addresses** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **For the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ;  
    * **For the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4**  . Then click **OK** to save the changes.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-2.jpg)
 7. Restart your PC and try performing a Windows update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the Windows 7 update stuck issue reappears. If not, you’ve fixed this annoying issue.
 
@@ -152,6 +162,14 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29-1.jpg)  
  It may take several minutes for this command operation to be completed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Close the Command Prompt when this command operation completed.
 
  See if you can perform a Windows update or not. If not, you may need to download updates from **Microsoft Update Catalog**  manually to resolve this annoying problem.
@@ -166,17 +184,18 @@ sfc /scannow
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap32-3.jpg)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **View your update history:**  
    1. On your keyboard, press**the Windows logo key** and type **windows update** . In the list of search results, select**Windows Update** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap33-1.jpg)  
    2. On the left panel, click**View update history**  to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download the update and install it manually.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-4.jpg)
 3. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
@@ -184,23 +203,9 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap40-1.jpg)
 5. In the list of search results, select right update for your operating system and click **Download**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Windows OS is **64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37-1.jpg)
 6. In the pop-up window, click the link to start downloading the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38-1.jpg)
 7. Double-click the downloaded file and follow the on-screen instructions to install the updates.  
@@ -229,22 +234,21 @@ After installing these updates, this issue should be resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-loyal-following-with-respectful-requests/"><u>[New] 2024 Approved Building a Loyal Following with Respectful Requests</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-beginner-friendly-approach-to-videography-using-adobe-connect-platform/"><u>[New] Beginner-Friendly Approach to Videography Using Adobe Connect Platform</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-online-gif-to-video-conversion-top-5/"><u>[New] Seamless Online GIF to Video Conversion (Top 5)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211431951-battleye-service-issues-resolved-heres-how-we-fixed-it/"><u>BattlEye Service Issues Resolved? Here's How We Fixed It</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-the-perfect-end-screen-youtube-template-guidebook-for-2024/"><u>Crafting the Perfect End Screen - YouTube Template Guidebook for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/d3derr-not-available-error-fixes-best-practices-for-stable-system-performance/"><u>D3DERR NOT AVAILABLE Error Fixes: Best Practices for Stable System Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-corsair-h80i-v2-graphics-card-cooler-drivers/"><u>Download the Newly Updated Corsair H80i V2 Graphics Card Cooler Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-the-constant-restart-challenge-in-your-windows-10-system/"><u>Easy Solutions for the Constant Restart Challenge in Your Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-to-resolve-windows-11-container-enumeration-errors-and-access-issues-your-ultimate-solution-guide/"><u>Essential Tips to Resolve Windows 11 Container Enumeration Errors and Access Issues – Your Ultimate Solution Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-steam-digital-assets-and-servers/"><u>Expert Tips on Restoring Access to Steam Digital Assets and Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-dns-server-with-these-4-simple-strategies/"><u>How to Fix a Non-Responsive DNS Server with These 4 Simple Strategies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P40 Phone without PIN</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-your-ideas-with-humor-easy-to-use-genrator/"><u>In 2024, Infuse Your Ideas with Humor Easy-to-Use Gen'rator</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-csgo-lag-problems-top-tips-and-tricks/"><u>Solving Your CS:GO Lag Problems - Top Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212277945-the-expert-solution-when-your-tablet-is-plugged-in-but-not-charging-now-fixed/"><u>The Expert Solution: When Your Tablet Is Plugged In But Not Charging - Now Fixed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-finest-5k-monitors-our-choice-8-edition/"><u>The Finest 5K Monitors Our Choice, #8 Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g34-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto G34 5G Phone Network-Ready</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-picks-best-webcams-for-seamless-zoom-participation/"><u>[New] First Picks Best Webcams for Seamless Zoom Participation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-content-that-captivates-youtube-keyword-mastery/"><u>Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/every-bit-of-ai-apple-revealed-at-wwdc-24/"><u>Every Bit of AI Apple Revealed at WWDC 24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-preparing-to-configure-glitch-step-by-step-solution/"><u>Fixing 'Windows Preparing to Configure' Glitch - Step-by-Step Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synopsis-of-crowd-opinions-on-vllo/"><u>In 2024, Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-problem-with-discord-server-wide-or-am-i-just-stuck/"><u>Is the Problem with Discord Server-Wide, or Am I Just Stuck?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigate-international-networks-easily/"><u>Navigate International Networks Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-recycle-issues-in-windows-11-and-windows-10/"><u>Overcoming Persistent Recycle Issues in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-class-not-registering-on-windows-11/"><u>Resolved: How to Fix Class Not Registering on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dead-laptop-battery-a-step-by-step-guide-to-quick-charging/"><u>Revive Your Dead Laptop Battery – A Step-by-Step Guide to Quick Charging</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/see-event-june-19-1940-the-dow-jones-industrial-average-reaches-a-record-high-before-plummeting-due-to-the-onset-of-world-war-ii-relating-to-stocks-as-it-sh104/"><u>See Event [June 19, 1940]: The Dow Jones Industrial Average Reaches a Record High Before Plummeting Due to the Onset of World War II, Relating to 'Stocks' As It Showcases How External Events Can Rapidly Change Market Valuations.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-help-windows-search-and-find-available-system-updates/"><u>Step-by-Step Guide to Help Windows Search and Find Available System Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-guards-the-machine-learners-ai-regulation/"><u>Who Guards the Machine Learners? AI Regulation</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-razr-40-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Razr 40 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208011914-windows-11-touchpad-woes-heres-how-to-keep-your-cursor-visible/"><u>Windows 11 Touchpad Woes? Here's How to Keep Your Cursor Visible!</u></a></li>
 </ul></div>
 

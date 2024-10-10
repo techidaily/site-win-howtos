@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Resolve Frequent Reboots on Your Windows 10 PC
-date: 2024-10-02T03:06:22.805Z
-updated: 2024-10-04T12:19:18.627Z
+date: 2024-10-08T18:53:48.018Z
+updated: 2024-10-09T22:36:51.747Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,13 +51,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -76,26 +62,34 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -112,13 +106,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -134,8 +121,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -159,21 +162,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-conversations-via-curated-creativity-in-stories-lives/"><u>[Updated] 2024 Approved Elevate Conversations via Curated Creativity in Stories Lives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-tech-triumph-best-of-the-best-oculus-devices/"><u>2024 Approved Immersive Tech Triumph Best of the Best Oculus Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks/"><u>2024 Approved Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/202410/"><u>動画編集ソフトの最先端技術：2024新春リリース、初学者推奨10選アワードリスト！【詳細レビュー】</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/approach-identify-the-intrinsic-hand-muscles-innervated-by-the-ulnar-nerve/"><u>Approach: Identify the Intrinsic Hand Muscles Innervated by the Ulnar Nerve.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-on-how-to-activate-and-utilize-revo-app-manager/"><u>Complete Guide on How to Activate and Utilize Revo App Manager</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dynamic-presentations-made-easy-integrating-youtube-videos-into-powerpoint-slides/"><u>Dynamic Presentations Made Easy: Integrating YouTube Videos Into PowerPoint Slides</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/envisioning-the-future-learn-from-these-6-metaverse-scenarios/"><u>Envisioning the Future Learn From These 6 Metaverse Scenarios</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/exploring-new-frontiers-with-vr-game-engines/"><u>Exploring New Frontiers with VR Game Engines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-gifs-into-avi-format-with-ease/"><u>Free Online Converter: Transforming GIFs Into AVI Format with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-a58-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo A58 4G Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-blueprint-for-effective-lut-usage-in-editing-for-2024/"><u>The Complete Blueprint for Effective LUT Usage in Editing for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tiff-en-png-verander-gratis-met-de-hele-kracht-van-movavi-konvertor/"><u>Tiff en PNG: Verander Gratis Met De Hele Kracht Van Movavi Konvertor!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webm-to-mkv-transformation-swift-and-simple-free-service-by-movavi/"><u>WebM to MKV Transformation - Swift and Simple Free Service by Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/zarizeni-nejlepsich-tecn-8-uskalistnych-pramenu-konvergence-mxf-do-mp4-na-operacni-systemy-mac-i-windows/"><u>Zařízení Nejlepších Técn - 8 Úskalištných Pramenů Konvergence MXF Do MP4 Na Operační Systémy Mac I Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-keep-your-virtual-talks-on-record/"><u>[Updated] 2024 Approved How to Keep Your Virtual Talks on Record</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-should-you-pay-for-unlimited-youtube/"><u>[Updated] In 2024, Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-podcasters-guide-to-high-quality-home-recordings/"><u>2024 Approved The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-hp-notebook-pcs-broken-usb-interface-comprehensive-guide/"><u>DIY Fixes for HP Notebook PC's Broken USB Interface [COMPREHENSIVE GUIDE]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016878952-fixing-sound-problems-on-the-g435-headset-effective-solutions-inside/"><u>Fixing Sound Problems on the G435 Headset – Effective Solutions Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-reno-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Reno 10 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-killer-dxgkrnl-bug-in-windows-video-playback/"><u>Overcoming the Killer 'Dxgkrnl' Bug in Windows Video Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208646992-resolve-error-8007000e-in-windows-updates-quick-fixes-inside/"><u>Resolve Error 8007000E in Windows Updates: Quick Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invalid-directory-name-errors-step-by-step-guide/"><u>Resolving 'Invalid Directory Name' Errors: Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-beyond-big-platforms/"><u>Social Media Beyond Big Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-windows-error-651-no-hassle/"><u>Step-by-Step Fixes for Windows Error 651 - No Hassle!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-missing-device-drivers-when-installing-windows-7/"><u>Step-by-Step Guide to Overcoming 'Missing Device Drivers' When Installing Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restore-lost-geforce-preferences/"><u>Troubleshooting Guide: How to Restore Lost GeForce Preferences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-full-potential-of-media-player-through-subtitles/"><u>Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
 </ul></div>
 

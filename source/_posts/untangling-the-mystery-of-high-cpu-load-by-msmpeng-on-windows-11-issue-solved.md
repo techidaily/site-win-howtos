@@ -1,7 +1,7 @@
 ---
 title: Untangling the Mystery of High CPU Load by MsMpEng on Windows 11 [ISSUE SOLVED]
-date: 2024-09-12T20:36:53.703Z
-updated: 2024-09-17T19:24:57.020Z
+date: 2024-10-12T05:04:07.594Z
+updated: 2024-10-16T02:12:07.077Z
 tags:
   - win11
   - win10
@@ -34,11 +34,31 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
 
@@ -58,11 +78,31 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
@@ -84,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
@@ -91,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
@@ -113,16 +160,16 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
@@ -147,5 +194,21 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-definitive-iphone-hdr-technique/"><u>[New] In 2024, The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-edible-imagery-stepwise-food-film-making-for-2024/"><u>[Updated] Edible Imagery Stepwise Food Film Making for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-sites-convert-your-favorite-youtube-moments-into-ringtones/"><u>2024 Approved Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipated-launch-of-oneplus-10-insights-on-cost-schedule-characteristics-and-hype/"><u>Anticipated Launch of OnePlus 10: Insights on Cost, Schedule, Characteristics & Hype</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-svchostexe-netsvcs-how-to-fix-excessive-bandwidth-usage-and-improve-your-pcs-efficiency/"><u>Decoding svchost.exe (NETsvcs) - How to Fix Excessive Bandwidth Usage & Improve Your PC's Efficiency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-effective-ways-to-fix-a-malfunctioning-corsair-headset/"><u>DIY Repairs: Effective Ways to Fix a Malfunctioning Corsair Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-guide-to-fixing-errors-in-directx-setup-processes-effortlessly/"><u>Fast Track Guide to Fixing Errors in DirectX Setup Processes Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/file-explorer-tricks-for-windows-11-users-quick-help-and-easy-fixes/"><u>File Explorer Tricks for Windows 11 Users - Quick Help & Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-applicationexe-has-stopped-error-a-complete-guide/"><u>Fixing 'Application.exe Has Stopped' Error – A Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nubia-z50s-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nubia Z50S Pro?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-rtx-2070-super-gpu-drivers-for-optimal-windows-11-experience/"><u>How to Update Your RTX 2070 Super GPU Drivers for Optimal Windows 11 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-game-dev-challenges-fixing-pixel-format-not-accelerated-in-lwjgl-environment/"><u>Mastering Game Dev Challenges: Fixing 'Pixel Format Not Accelerated' In LWjGL Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-trackpad-effective-fixes-for-windows-11-8-and-7-not-working-scenarios/"><u>Revive Your Trackpad: Effective Fixes for Windows 11, 8 & 7 Not Working Scenarios</u></a></li>
+</ul></div>
 

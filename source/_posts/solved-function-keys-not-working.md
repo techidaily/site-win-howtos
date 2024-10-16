@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Function Keys Not Working"
-date: 2024-10-08T17:50:42.653Z
-updated: 2024-10-09T22:48:35.929Z
+date: 2024-10-11T00:22:10.105Z
+updated: 2024-10-16T05:14:33.950Z
 tags:
   - win11
   - win10
@@ -33,11 +33,15 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
  Sometimes the function keys on your keyboard could be locked by the F lock key. As a result, you can’t use function keys. Check if there was any key like**F Lock** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) or **F Mode** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.png) key on your keyboard. If there is one key like that, press that key and then check if the Fn keys could work.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Fix 2: Try to press these keys
+
+ As many users reported, they make their function keys work again by pressing the**F11** or**F12** key. You can give it a shot and see if it also helps you solve the problem.
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
@@ -46,18 +50,14 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### Fix 2: Try to press these keys
-
- As many users reported, they make their function keys work again by pressing the**F11** or**F12** key. You can give it a shot and see if it also helps you solve the problem.
+### ```` ```` ``
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### ```` ```` ``
 
 ### Fix 3: Update your keyboard driver
 
@@ -72,10 +72,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you update your keyboard driver, restart your computer and check if Fn keys work now.  
@@ -104,20 +104,24 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-hdr-photography-how-to-shoot-hdr-photos-with-an-iphone/"><u>[New] HDR Photography How to Shoot HDR Photos with an iPhone?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repaird-handling-a-frozen-windows-10-setup-process-smoothly/"><u>[REPAIRD] Handling a Frozen Windows 10 Setup Process Smoothly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-compilation-of-html5s-best-video-tools/"><u>2024 Approved The Ultimate Compilation of HTML5's Best Video Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-utorrent-media-player-seamless-streaming/"><u>2024 Approved UTorrent Media Player Seamless Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-and-update-guide-windows-11-mobile-as-a-microsoft-insider-user/"><u>Download & Update Guide: Windows 11 Mobile as a Microsoft Insider User</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-hp-officejet-pro-8610-drivers-on-various-windows-versions/"><u>Easy Guide to Updating and Downloading HP Officejet Pro 8610 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-unresponsive-keyboard-shortcuts-fn-on-an-asus-laptop/"><u>Effective Solutions for Fixing Unresponsive Keyboard Shortcuts (Fn) on an ASUS Laptop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-differences-between-ipads-and-regular-tablets/"><u>Exploring the Differences Between iPads and Regular Tablets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-touchscreen-working-in-windows-11-a-5-step-guide/"><u>Getting Your Touchscreen Working in Windows 11: A 5-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-latest-optimize-win11-with-rtx210-driver-enhancements/"><u>NVIDIA's Latest: Optimize Win11 with RTX210 Driver Enhancements</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-audio-expert-tips-for-fixing-an-acer-laptop-without-sound-output/"><u>Reviving Audio: Expert Tips for Fixing an Acer Laptop Without Sound Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210154898-steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-addressing-wow-slow-down-and-hiccups/"><u>Step-by-Step Solutions for Addressing WoW Slow Down & Hiccups</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-for-error-0xc1900208-in-your-windows-11-updates/"><u>Ultimate Troubleshooting for Error 0Xc1900208 in Your Windows 11 Updates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-leading-tech-the-top-10-4k-camera-phones-reviewed/"><u>[New] 2024 Approved Leading Tech The Top 10 4K Camera Phones Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-dell-laptop-keyboard-not-working/"><u>[Solved] Dell Laptop Keyboard Not Working</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-digital-presence-a-compreranautical-guide-to-instagram-stardom-with-9-steps-for-2024/"><u>Amplify Your Digital Presence A Compreranautical Guide to Instagram Stardom with 9 Steps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-windows-update-trouble-clearing-code-8007000e-with-ease/"><u>Bypass Windows Update Trouble: Clearing Code 8007000E with Ease!</u></a></li>
+<li><a href="https://win-news.techidaily.com/como-sincronizar-carpetas-usando-la-linea-de-comandos-robocopy-en-windows-una-guia-completa/"><u>Cómo Sincronizar Carpetas Usando La Línea De Comandos Robocopy en Windows: Una Guía Completa</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-demise-system-error-out-of-control/"><u>Device Demise: System Error Out of Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-issue-reinstate-protection-for-localized-credential-handling-processes/"><u>Fixed Issue: Reinstate Protection for Localized Credential Handling Processes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flawless-avi-video-viewing-on-your-iphone-xsxr-a-comprehensive-guide/"><u>Flawless AVI Video Viewing on Your iPhone XS/XR: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208456509-how-to-do-a-clean-install-of-windows-11-quickly-and-easily/"><u>How to Do a Clean Install of Windows 11, Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-directx-graphic-device-initialization-issues/"><u>How to Successfully Overcome DirectX Graphic Device Initialization Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kodak-pixpro-fz53-zoom-lens-for-the-frugal-shooter/"><u>Kodak PIXPRO FZ53 Zoom Lens for the Frugal Shooter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-choices-elite-android-call-alerts-for-2024/"><u>Leading Choices Elite Android Call Alerts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-how-to-resolve-continuous-restarting-on-windows-11/"><u>Quick Remedies: How to Resolve Continuous Restarting on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-fixing-the-driver-failed-mistake-by-adjusting-user-preferences/"><u>Resolved Issue: Fixing the 'Driver Failed' Mistake by Adjusting User Preferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-how-to-resolve-your-computer-stuck-during-windows-setup/"><u>Solutions: How to Resolve Your Computer Stuck During Windows Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-and-gamers-unite-strategies-to-amplify-game-performance/"><u>Windows 11 and Gamers Unite! Strategies to Amplify Game Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/write-with-impact-crafting-engaging-podcast-blurbs/"><u>Write with Impact Crafting Engaging Podcast Blurbs</u></a></li>
 </ul></div>
 

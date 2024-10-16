@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Solutions: How to Fix Unresponsive Touchpad Scrolling Issues"
-date: 2024-10-07T23:38:56.122Z
-updated: 2024-10-09T21:38:06.221Z
+date: 2024-10-08T21:52:48.557Z
+updated: 2024-10-15T22:48:40.844Z
 tags:
   - win11
   - win10
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -48,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -65,23 +71,16 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -92,18 +91,19 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -128,6 +128,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -161,18 +168,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-direct-approaches-to-storing-google-voice-communications/"><u>[New] In 2024, Direct Approaches to Storing Google Voice Communications</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-chorus-chronicles-music-gadgets/"><u>[Updated] 2024 Approved Chorus Chronicles Music Gadgets</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-essential-guide-leading-6-fb-lite-downloads-for-2024/"><u>[Updated] Essential Guide Leading 6 FB Lite Downloads for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-understanding-the-essence-of-digital-chronicles/"><u>[Updated] Understanding the Essence of Digital Chronicles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-newcomers-primer-to-av1-codecs/"><u>2024 Approved A Newcomer’s Primer to AV1 Codecs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>2024 Approved Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-rectifying-how-to-overcome-google-chromes-persistent-blackscreen-glitches/"><u>Decoding & Rectifying: How To Overcome Google Chrome's Persistent Blackscreen Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-fn-key-issues-on-your-computer/"><u>How to Fix Non-Responsive Fn Key Issues on Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professionals-guide-discovering-the-6-most-critical-benefits-of-chatgpt/"><u>Professionals' Guide: Discovering the 6 Most Critical Benefits of ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-non-working-hp-laptop-keys-quick-solutions-at-hand/"><u>Reviving Non-Working HP Laptop Keys: Quick Solutions at Hand</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202776326-shift-key-issues-heres-how-you-can-get-it-working-again/"><u>Shift Key Issues? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-a79-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo A79 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-refresh-and-reset-easily/"><u>Windows 10 Refresh & Reset Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-visual-snippet-retriever/"><u>[New] Visual Snippet Retriever</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tips-for-documenting-virtual-meetings/"><u>[Updated] Tips for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-cannot-be-played-hurdle-in-videos-resolve-error-224003/"><u>Conquer The 'Cannot Be Played' Hurdle in Videos - Resolve Error 224003</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209419836-crackling-audio-issue-fix-your-sound-on-windows-11-and-windows-7/"><u>Crackling Audio Issue? Fix Your Sound on Windows 11 and Windows 7!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-classrooms-prime-ed-tutorials-online/"><u>Digital Classrooms Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-restore-your-overwatch-voice-chat/"><u>Effortless Solutions to Restore Your Overwatch Voice Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-detailed-solutions-for-non-working-fn-buttons/"><u>Fix It! Detailed Solutions for Non-Working Fn Buttons</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-free-your-system-from-being-stuck-in-the-boot-process/"><u>How To Free Your System From Being Stuck in the Boot Process</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-leverage-vimeo-for-wider-viewership/"><u>In 2024, Leverage Vimeo for Wider Viewership</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unassociated-file-program-conflicts-in-win11/"><u>Resolving Unassociated File-Program Conflicts in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-directx-hardware-setup-failure/"><u>Solution Found: Fixing DirectX Hardware Setup Failure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-action-recorder-the-thievery-t5-edition/"><u>The Ultimate Action Recorder – The Thievery T5 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-keyboard-issues-master-the-reset-technique/"><u>The Ultimate Solution for Keyboard Issues: Master the Reset Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-symbol-issues-on-your-device/"><u>Ultimate Guide: Solving '@' Symbol Issues on Your Device</u></a></li>
 </ul></div>
 

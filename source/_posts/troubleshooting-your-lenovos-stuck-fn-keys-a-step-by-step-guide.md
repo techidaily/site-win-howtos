@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Lenovo's Stuck Fn Keys - A Step-by-Step Guide
-date: 2024-10-05T17:58:19.006Z
-updated: 2024-10-09T23:13:55.981Z
+date: 2024-10-10T18:04:31.795Z
+updated: 2024-10-16T06:19:07.996Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -59,14 +52,22 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -97,6 +98,14 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
@@ -118,30 +127,22 @@ If this doesn’t solve your problem, move on to the next fix.
 4. Click**Uninstall** again in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
 
@@ -151,6 +152,13 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Right-click the**Manifest\_DebugFiles\_Win64** and**Manifest\_NonUFSFiles\_Win64** and select**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-manifest1-3.jpg)
 3. Open Valorant to see if this fix helps you load in the game successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -174,22 +182,21 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-revolutionize-your-shooting-essential-camera-gear-guide/"><u>[New] In 2024, Revolutionize Your Shooting Essential Camera Gear Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pixel-perfection-radeon-redux-review/"><u>[New] Pixel Perfection Radeon Redux Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/"><u>[New] Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cultivating-commitment-gentle-subscription-strategies-for-2024/"><u>[Updated] Cultivating Commitment Gentle Subscription Strategies for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-perfecting-the-art-of-mi-11-screen-recording/"><u>[Updated] In 2024, Step-by-Step Perfecting the Art of Mi 11 Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-perfecting-your-video-content-for-instagram-feed/"><u>2024 Approved Perfecting Your Video Content for Instagram Feed</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-key-facebook-strategies-for-efficient-project-management/"><u>8 Key Facebook Strategies for Efficient Project Management</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-hassle-repairing-code-0x800f0831-by-leveraging-windows-update-features/"><u>Avoid Hassle: Repairing Code 0X800F0831 by Leveraging Windows Update Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-quick-fix-guide/"><u>BattlEye Service Installation Issues Resolved - Quick Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209350112-effective-fixes-when-your-laptops-keyboard-stops-working-on-windows-versions-11-8-and-ve-been-there-before-let-me-help-you/"><u>Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-runtimebrokers-excessive-resource-consumption-problem-on-your-windows-10-pc/"><u>Fixing the RunTimeBroker's Excessive Resource Consumption Problem on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-troubling-error-code-0xc0000098-a-comprehensive-tutorial/"><u>Fixing Windows' Troubling Error Code 0Xc0000098 – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guiding-the-gaze-leading-line-techniques-for-iphones/"><u>Guiding the Gaze Leading Line Techniques for iPhones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/luts-application-in-movie-post-production-coloring-for-2024/"><u>Luts Application in Movie Post-Production Coloring for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/msda80dll-file-essentials-to-retain-or-not-to-retain/"><u>MSDA80DLL File Essentials: To Retain or Not to Retain?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-making-your-unrecognized-usb-flash-drive-work-again/"><u>Quick Solutions: Making Your Unrecognized USB Flash Drive Work Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-renderer-initialization-error-fix-of-2021/"><u>Solutions for 'Renderer Initialization Error [Fix of 2021]'</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pocket-playlist-portraits-actors-and-audio-art/"><u>[New] Pocket Playlist Portraits Actors & Audio Art</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unique-themes-redesign-your-youtube-presence/"><u>[New] Unique Themes Redesign Your YouTube Presence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-optimizing-privacy-for-your-online-videography/"><u>2024 Approved Optimizing Privacy for Your Online Videography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failures-master-the-art-of-quick-fixes-with-16-proven-solutions/"><u>AirDrop Failures? Master the Art of Quick Fixes with 16 Proven Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-http-403-errors-and-effective-solutions-for-unauthorized-access-issues/"><u>Deciphering HTTP 403 Errors & Effective Solutions for Unauthorized Access Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enabling-speech-to-text-on-powerpoint-essential-steps/"><u>Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-windows-11-0x80aturne5b4-error-when-updating-your-system-solution-steps/"><u>How to Resolve the Windows 11 0X80aturne5b4 Error When Updating Your System [Solution Steps]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-poco-f5-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco F5 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-to-convert-youtube-videos-into-text-no-cost/"><u>Learn to Convert YouTube Videos Into Text – No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-hub/"><u>Mastering Electronics: Wisdom From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-deployment-tips-secure-and-fast-download-of-usb-rs232-serial-communication-driver/"><u>Rapid Deployment Tips: Secure and Fast Download of USB-RS232 Serial Communication Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-deep-sleep-on-your-win11-pc/"><u>Securing Deep Sleep on Your Win11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-overcoming-error-0x800f020b-during-a-xerox-printer-update-on-windows-machines/"><u>Troubleshooting Guide for Overcoming Error 0X800f020b During a Xerox Printer Update on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-reinstalling-battleye-security-suite/"><u>Troubleshooting Guide: Successfully Reinstalling BattlEye Security Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-cant-cast-to-this-device-issues-on-windows-10/"><u>Troubleshooting: Fixing 'Can't Cast to This Device' Issues on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-fixing-a-livekernelevent-117-glitch/"><u>Unraveling the Mystery Behind Fixing a LiveKernelEvent 117 Glitch</u></a></li>
 </ul></div>
 

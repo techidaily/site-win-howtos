@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Get the Scroll Wheel Working Again on Your Logitech Mouse
-date: 2024-10-03T21:24:38.496Z
-updated: 2024-10-09T21:49:41.000Z
+date: 2024-10-11T04:49:41.701Z
+updated: 2024-10-16T03:08:15.798Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 6. [**Run System File Checker**](#m6)
 7. [**Check for viruses and malware**](#m7)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower in-game settings
 
  Some games have specific minimum system requirements for your system to be able to play them seamlessly. If your computer has met the minimum system requirements of the game, you can try lowering in-game settings and see if this helps unfreeze your computer. If not, try Method 2, below.
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your drivers
@@ -83,10 +90,10 @@ OR
 4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -100,10 +107,10 @@ OR
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
@@ -111,21 +118,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Adjust the size of your virtual memory
 
@@ -143,17 +136,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa72695eb05.jpg)
 6. Restart your game and check if your problem is resolved. If not, try Method 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,14 +157,22 @@ OR
 1. **Run** Command Prompt **as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7486e289d.jpg)
 2. Type **sfc /scannow** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7493ccb0a.jpg)
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -205,18 +206,16 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pixel-perfect-resizer-for-windows-and-mac/"><u>[Updated] 2024 Approved Pixel Perfect Resizer for Windows & Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>[Updated] Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] In 2024, Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-movement-on-face-images-with-picsart/"><u>2024 Approved Crafting Movement on Face Images with Picsart</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>2024 Approved DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-when-your-windows-10-mouse-ignores-the-right-click/"><u>Comprehensive Fixes for When Your Windows 10 Mouse Ignores the Right Click</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correct-scrollbar-glitch-in-windows-10-file-explorer-that-hits-top-when-moving-up/"><u>Guide to Correct Scrollbar Glitch in Windows 10 File Explorer That Hits Top When Moving Up</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-11-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 11 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-m34-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy M34? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-network-hurdles-corrective-measures-for-error-0x800704cf-in-windows/"><u>Overcoming Network Hurdles: Corrective Measures for Error 0X800704CF in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reappearance-magic-for-your-missing-airpods-the-ultimate-guide-to-fixes-on-find-my-iphone/"><u>Reappearance Magic for Your Missing AirPods: The Ultimate Guide to Fixes on Find My iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surface-laptop-stuck-at-0-is-it-truly-plugged-in-and-why/"><u>Surface Laptop Stuck at 0% - Is It Truly Plugged in and Why?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveled-addressing-the-write-failure-in-referenced-memory-location-x/"><u>Unraveled: Addressing the Write Failure in Referenced Memory Location X</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>[New] IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restoring-ethernet-functionality-on-your-windows-10-and-7-device/"><u>Comprehensive Guide to Restoring Ethernet Functionality on Your Windows 10 & 7 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-the-constant-reboot-problem-in-windows-10/"><u>Effortlessly Fix the Constant Reboot Problem in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/high-speed-capture-device-with-preloaded-narrations-for-2024/"><u>High-Speed Capture Device with Preloaded Narrations for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-6-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic 6.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-capturing-every-angle-in-one-device-samsung/"><u>In 2024, Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-key-pages-to-acquire-text-styling-assets/"><u>In 2024, Key Pages to Acquire Text Styling Assets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1187-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 11/8/7 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-your-disappeared-desktop-icons-with-these-simple-tips-for-windows-11-users/"><u>Restore Your Disappeared Desktop Icons with These Simple Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-issue-of-svchostexes-elevated-cpu-usage-in-windows-10-systems-steps-to-resolve/"><u>Tackling the Issue of Svchost.exe's Elevated CPU Usage in Windows 10 Systems: Steps to Resolve</u></a></li>
 </ul></div>
 

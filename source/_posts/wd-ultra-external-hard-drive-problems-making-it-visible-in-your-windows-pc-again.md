@@ -1,7 +1,7 @@
 ---
 title: "WD Ultra External Hard Drive Problems: Making It Visible in Your Windows PC Again"
-date: 2024-10-02T20:14:07.126Z
-updated: 2024-10-09T22:53:22.364Z
+date: 2024-10-10T20:38:12.098Z
+updated: 2024-10-15T17:24:30.390Z
 tags:
   - win11
   - win10
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 4. [**Clear the SoftwareDistribution folder**](#d)
 5. [**Update your device drivers**](#e)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Run Windows Update troubleshooter
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### on Windows 10
 
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 **2)** Select**Update & Security** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
@@ -73,9 +80,23 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Windows Update** .
 
@@ -105,6 +126,19 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
@@ -114,22 +148,15 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
@@ -138,13 +165,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
@@ -159,46 +179,32 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**Windows Update** and then click**Stop** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
-**6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
 ## Method 5: Update your device drivers
 
@@ -239,24 +245,24 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>[New] 2024 Approved Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-skills-for-youtube-success-8-free-online-courses/"><u>[Updated] In 2024, Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/arrow-key-dilemma-discover-how-to-restore-their-functionality-on-your-keyboard/"><u>Arrow Key Dilemma? Discover How to Restore Their Functionality on Your Keyboard</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-solutions-for-enhanced-site-engagement/"><u>Cookiebot-Driven Solutions for Enhanced Site Engagement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-a-broken-corsair-hs50-headsets-audio-input/"><u>Effective Fixes for a Broken Corsair HS50 Headset's Audio Input</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-message-4220-in-call-of-duty-wwii-game-diagnosis-and-repair-tactics/"><u>Error Message 4220 in Call of Duty WWII Game - Diagnosis and Repair Tactics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-this-device-is-missing-fix-error-24-in-windows-os/"><u>Expert Guide: Overcoming 'This Device Is Missing' - Fix Error 24 in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-code-0x80240017-a-step-by-step-guide/"><u>How to Fix Windows Update Error Code 0X80240017: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-sell-your-brand-through-innovative-youtuber-collaborations-for-2024/"><u>How To Sell Your Brand Through Innovative YouTuber Collaborations for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-race-track-without-interruptions-fixing-crash-issues-in-forza-horizon-5-on-desktops/"><u>Master the Race Track without Interruptions: Fixing Crash Issues in Forza Horizon 5 on Desktops</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-color-correction-mastery-blending-video-clips-seamlessly-in-powerdirector-for-2024/"><u>New Color Correction Mastery Blending Video Clips Seamlessly in PowerDirector for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-dolby-digital-problems-in-windows-1/"><u>Solve Dolby Digital Problems in Windows 1</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-aw-snap-errors-in-chrome-browser/"><u>Step-by-Step Guide: Resolving 'Aw, Snap' Errors in Chrome Browser</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/televising-digital-media-integrating-fb-video-in-2024/"><u>Televising Digital Media Integrating FB Video , In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-isnt-my-laptop-charging-on-windows-11/"><u>Troubleshooting Guide: Why Isn't My Laptop Charging on Windows 11?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-troubleshooting-correcting-the-unidentified-entry-point-error/"><u>Windows Troubleshooting - Correcting the Unidentified Entry Point Error</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>[New] 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-basic-blueprint-for-choosing-gamer-friendly-recordings-and-edits/"><u>[Updated] In 2024, The Basic Blueprint for Choosing Gamer-Friendly Recordings & Edits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-rescuing-a-stuck-laptop-mouse-from-malfunction/"><u>Comprehensive Fixes: Rescuing a Stuck Laptop Mouse From Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-led-issue-resolved-steps-for-brightening-up-your-board/"><u>Corsair Keyboard LED Issue Resolved – Steps for Brightening Up Your Board</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-the-issue-of-a-malfunctioning-integrated-webcam-in-windows/"><u>Diagnosing and Solving the Issue of a Malfunctioning Integrated Webcam in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-drivers-for-your-lenovo-camera-on-windows-7/"><u>Download the Most Recent Drivers for Your Lenovo Camera on Windows 7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-site-with-cookiebot-technology/"><u>Enhance Your Site with Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-loading-player-no-playable-sources-found-on-windows-solved/"><u>Error Loading Player: No Playable Sources Found on Windows [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-and-preventing-werfaultexe-errors-in-microsoft-windows/"><u>Expert Tips for Correcting and Preventing werfault.exe Errors in Microsoft Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-defy-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Defy 2 is off? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigating-the-maze-to-find-your-ideal-4k-screen/"><u>Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-graphics-hiccups-boosting-fps-in-your-game-of-the-division-2/"><u>Overcoming Graphics Hiccups: Boosting FPS in Your Game of 'The Division 2'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/phones-to-cameras-enhancing-your-live-stream-setup/"><u>Phones to Cameras Enhancing Your Live Stream Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for a Non-Functioning Mac Webcam: Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-rectify-a-non-responsive-dns-server-with-these-4-methods/"><u>Quickly Rectify a Non-Responsive DNS Server with These 4 Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-microsoft-error-0x800f0831-with-windows-patches/"><u>Step-by-Step Solution for Microsoft Error 0X800F0831 with Windows Patches</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transform-your-wmv-videos-to-ogg-at-no-cost-quick-and-simple-guide/"><u>Transform Your WMV Videos to OGG at No Cost - Quick and Simple Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-your-corsair-hs50-mic-heres-how-to-restore-its-voice-recognition-functionality/"><u>Trouble with Your Corsair HS_50 Mic? Here's How to Restore Its Voice Recognition Functionality</u></a></li>
 </ul></div>
 

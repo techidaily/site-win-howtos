@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving 'DNS Server Unreachable' Issues in 5 Steps"
-date: 2024-10-02T17:30:39.127Z
-updated: 2024-10-09T18:15:17.661Z
+date: 2024-10-14T03:06:25.039Z
+updated: 2024-10-16T05:47:24.754Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
@@ -72,6 +72,13 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
@@ -79,10 +86,10 @@ RAM looks like this:
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
@@ -105,6 +112,13 @@ The CMOS battery looks like this
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 4: Restore your System to the Previous State
 
  If the issue happened because of a bad piece of software, say an app your installed or a driver that went wrong, you can use the windows build-in System Recovery feature to fix it. System Recovery allows you to roll your Windows installation back to its last working state.
@@ -120,6 +134,13 @@ The CMOS battery looks like this
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
@@ -154,13 +175,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -170,33 +184,19 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -220,22 +220,17 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-amp-up-your-tiktok-profile-with-distinctive-pfp-concepts/"><u>[New] 2024 Approved Amp up Your TikTok Profile with Distinctive PFP Concepts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-review-mastering-the-art-of-picsart/"><u>[New] 2024 Approved Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>[New] In 2024, Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-outsmart-automated-views-to-propel-your-channel/"><u>[New] Outsmart Automated Views to Propel Your Channel</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>[Updated] 2024 Approved The Tech Whiz's Playbook How to Nail Screen Recording on macOS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[Updated] 2024 Approved The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209969663-dell-keyboard-woes-heres-how-to-get-it-working-again/"><u>Dell Keyboard Woes? Here’s How to Get It Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-random-auto-shutdown-on-your-pc-a-step-by-step-solution/"><u>Diagnosing & Repairing Random Auto-Shutdown on Your PC: A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-meme-game-with-proven-9gag-methods/"><u>Elevate Your Meme Game with Proven 9GAG Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-disconnection-problems-between-your-airpods-and-iphone-discover-11-quick-fixes/"><u>Experiencing Disconnection Problems Between Your AirPods and iPhone? Discover 11 Quick Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-laptop-mic-a-step-by-step-solution/"><u>How to Repair an Unresponsive Laptop Mic: A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-control-of-svchostexes-high-cpu-drainage-on-windows-10-machines-proven-fixes/"><u>Mastering the Control of svchost.exe's High CPU Drainage on Windows 10 Machines - Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/shockwave-flash-malfunction-solutions-for-google-chrome-users/"><u>Shockwave Flash Malfunction Solutions for Google Chrome Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-fixes-for-error-code-224003-unblock-your-video-files-now/"><u>Troubleshoot Fixes for 'Error Code 224003' - Unblock Your Video Files Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/two-finger-scroll-not-working-solved/"><u>Two Finger Scroll Not Working [Solved]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-over-sleep-mode-glitch-user-friendly-methods-to-keep-your-pc-awake-all-night-long/"><u>Win Over Sleep Mode Glitch: User-Friendly Methods to Keep Your PC Awake All Night Long!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-7-packet-opening-experience-hacks-for-2024/"><u>[Updated] Top 7 Packet Opening Experience Hacks for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>2024 Approved Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/critique-on-luminances-approach-to-hdr-creation/"><u>Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-techniques-for-erasing-the-timestamp-from-images/"><u>Effective Techniques for Erasing the Timestamp From Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-bluetooth-keyboard-to-recognize-fixing-connection-problems-with-your-pc/"><u>Getting Your Bluetooth Keyboard to Recognize: Fixing Connection Problems With Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/redeem-space-increase-your-games-performance-on-pc-with-larger-pagefile-settings/"><u>Redeem Space: Increase Your Game's Performance on PC with Larger Pagefile Settings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-mp3juices-substitutes-unbeatable-options-for-both-pc-and-mac-users-by-allavsoft/"><u>Top MP3Juices Substitutes: Unbeatable Options for Both PC & Mac Users by Allavsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-brightness-settings-on-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Brightness Settings on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-window-10-touchpad-scrolling-problems/"><u>Ultimate Guide: Fixing Window 10 Touchpad Scrolling Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-and-fantastic-top-mpeg-video-splitter-tools/"><u>Updated 2024 Approved Free and Fantastic Top MPEG Video Splitter Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-vobmp4/"><u>Windows 11で効率的なビデオ変換: VOBをMP4へ</u></a></li>
 </ul></div>
 

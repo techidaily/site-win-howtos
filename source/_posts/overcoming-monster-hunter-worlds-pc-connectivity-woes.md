@@ -1,7 +1,7 @@
 ---
 title: Overcoming Monster Hunter World's PC Connectivity Woes
-date: 2024-10-03T17:46:37.744Z
-updated: 2024-10-09T23:01:42.313Z
+date: 2024-10-12T17:23:25.664Z
+updated: 2024-10-15T23:29:03.230Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10
 
 1. Click the Start menu (the Windows logo) at the bottom left of your screen. Then click **Settings** .  
@@ -53,25 +60,18 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -80,21 +80,14 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 3. Toggle**Off** Filter keys.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -107,20 +100,27 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If your keyboard still refuses to work properly, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Troubleshoot the hardware issues
 
@@ -147,15 +147,21 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-freshflicks-app-overview-and-score-for-2024/"><u>[New] FreshFlicks App Overview & Score for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-on-screen-capture-aid/"><u>[Updated] In 2024, On-Screen Capture Aid</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-tricks-for-quick-webp-to-jpg-conversion/"><u>Advanced Tricks for Quick WebP to JPG Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-6-innovative-applications-to-talk-and-inspect-your-pdf-files-using-ai/"><u>Explore 6 Innovative Applications to Talk and Inspect Your PDF Files Using AI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-a-step-by-step-guide/"><u>How To Fix Speaker Distortion on Windows 11 & 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g24-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G24 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 7 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-sudden-end-of-a-program-understanding-error-1067-in-windows/"><u>Resolving the Sudden End of a Program - Understanding Error 1067 in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedy-fixes-to-tackle-the-low-battery-detected-error-with-ease/"><u>Speedy Fixes to Tackle the 'Low Battery Detected' Error with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-tips-for-common-black-ops/"><u>Step-by-Step Troubleshooting Tips for Common Black Ops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveiling-channels-to-zero-cost-image-frames/"><u>[New] 2024 Approved Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-omnipresent-iptv-broadcasting/"><u>[New] In 2024, Omnipresent IPTV Broadcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-live-conversations-google-meet-on-phones/"><u>[Updated] Capture Live Conversations Google Meet on Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pocket-sized-top-6-fb-lite-downloaders/"><u>2024 Approved Pocket-Sized Top 6 FB Lite Downloaders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/amd-high-definition-audio-fix-unplugged-device-resolved/"><u>AMD High Definition Audio Fix: Unplugged Device Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-errors-demystified-overcoming-anti-cheat-challenges-with-ease/"><u>Apex Legends Errors Demystified: Overcoming Anti-Cheat Challenges with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disable-touchpad-when-connected-to-mouse-on-windows-10/"><u>Disable Touchpad When Connected to Mouse on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-and-its-impact-on-search-technology-an-overview-with-industry-examples/"><u>Generative AI and Its Impact on Search Technology: An Overview with Industry Examples</u></a></li>
+<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-failed-renderer-initialization-update-2021-a-step-by-step-solution/"><u>How to Fix 'Failed Renderer Initialization [Update 2021]' – A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-malfunctioning-spacebar-key-under-windows-11/"><u>How to Fix a Malfunctioning Spacebar Key Under Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/recovery-of-deleted-files-using-easywinrm-on-various-versions-of-windows-os/"><u>Recovery of Deleted Files Using EasyWinRM on Various Versions of Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-unreadable-directories-and-corrupted-data-errors-restoration-steps/"><u>Solving Unreadable Directories & Corrupted Data Errors - Restoration Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208784815-windows-11-laptop-woes-restore-the-battery-icon-with-our-simple-solutions/"><u>Windows 11 Laptop Woes? Restore the Battery Icon with Our Simple Solutions!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality of Your Broken Dell USB Ports - Expert Fixes Unveiled
-date: 2024-10-02T22:23:34.649Z
-updated: 2024-10-09T19:59:30.125Z
+date: 2024-10-14T01:51:29.309Z
+updated: 2024-10-16T06:35:51.663Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -63,15 +50,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -87,10 +81,10 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
@@ -98,6 +92,13 @@ Here’s how to do it:
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -108,31 +109,25 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -165,18 +160,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>[Updated] Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mac-users-adding-the-social-app-snapchat/"><u>2024 Approved Mac Users Adding the Social App Snapchat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battle-common-battery-blunders-ensuring-your-windows-11-laptop-charges-correctly-with-easy-fixes/"><u>Battle Common Battery Blunders: Ensuring Your Windows 11 Laptop Charges Correctly with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-steps-for-resolving-problems-with-directx-device-creation-processes/"><u>Comprehensive Steps for Resolving Problems with DirectX Device Creation Processes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cost-effective-recording-devices-the-ultimate-list-for-2024/"><u>Cost-Effective Recording Devices The Ultimate List for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-images-with-intelligence-unlocking-chatgpts-potential-in-ai-based-image-production/"><u>Crafting Images with Intelligence: Unlocking ChatGPT's Potential in AI-Based Image Production</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722901251348-determining-the-duration-of-a-mailcom-account-key-factors-and-lifespan/"><u>Determining the Duration of a Mail.com Account – Key Factors and Lifespan</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-techniques-to-correct-microsofts-0x800f0831-issue-using-windows-update-features/"><u>Easy Troubleshooting Techniques to Correct Microsoft's 0X800F0831 Issue Using Windows Update Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-functionality-in-a-malfunctioning-corsair-keyboard/"><u>Expert Tips for Restoring Functionality in a Malfunctioning Corsair Keyboard</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-nine-must-have-technologies-for-online-privacy-protection/"><u>In 2024, Nine Must-Have Technologies for Online Privacy Protection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-stuck-audio-service-on-win-1110/"><u>Reviving Stuck Audio Service on WIN 11/10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-popularity-youtube-visibility-techniques-for-2024/"><u>Skyrocketing Popularity YouTube Visibility Techniques for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-subtitles-from-srt-proven-techniques-revealed-for-2024/"><u>Unlocking Subtitles From SRT Proven Techniques Revealed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-windows-video-calls-the-top-8-list/"><u>[New] In 2024, Best Windows Video Calls The Top 8 List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-layered-comfort-selecting-snug-winter-themes-for-filming/"><u>[Updated] In 2024, Layered Comfort Selecting Snug Winter Themes for Filming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-solutions-for-windows-install-problems/"><u>Efficient Solutions for Windows Install Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-organization-with-windows-11s-file-explorer-get-started-today/"><u>Effortless Organization with Windows 11'S File Explorer - Get Started Today!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-inoperative-system-webcams-on-microsoft-windows-platforms/"><u>How to Repair Inoperative System Webcams on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-effortless-snaptweet-videos-from-twitter/"><u>In 2024, Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-dealing-with-svchostexes-intense-cpu-load-on-windows-10/"><u>Optimizing System Performance: Dealing with svchost.exe's Intense CPU Load on Windows 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-sync-saving-your-camera-memories-seamlessly-on-snapchat/"><u>Perfect Sync Saving Your Camera Memories Seamlessly on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-restore-functionality-of-the-print-screen-button-in-win-11-win-10/"><u>Resolved! How To Restore Functionality Of The Print Screen Button In Win 11 / Win 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-witcher-3-stability-issues-on-your-computer/"><u>Troubleshooting Guide: Resolving 'The Witcher 3' Stability Issues on Your Computer</u></a></li>
 </ul></div>
 

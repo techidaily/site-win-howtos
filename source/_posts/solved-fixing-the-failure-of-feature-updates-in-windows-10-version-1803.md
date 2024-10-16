@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing the Failure of Feature Updates in Windows 10 (Version 1803)"
-date: 2024-10-08T16:56:50.988Z
-updated: 2024-10-09T17:01:48.619Z
+date: 2024-10-11T17:24:43.355Z
+updated: 2024-10-16T05:40:19.961Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -71,18 +71,34 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -95,15 +111,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -112,13 +129,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -126,19 +136,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -165,22 +162,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-freedom-in-meditation-tracks/"><u>[New] 2024 Approved Freedom in Meditation Tracks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-precision-protests-unveiling-the-difference-between-hero5-black-and-session/"><u>[New] Precision Protests Unveiling the Difference Between Hero5 Black and Session</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-hosted-network-couldnt-be-started-on-windows-10/"><u>[SOLVED] The Hosted Network Couldn't Be Started on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-cinema-best-filming-cameras-from-35mm-to-point-and-shoot/"><u>[Updated] 2024 Approved Exploring Cinema Best Filming Cameras From 35Mm to Point-and-Shoot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/civilization-vi-no-compatible-graphics-device-found-solved/"><u>Civilization VI No Compatible Graphics Device Found [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-second-monitor-not-detected-on-windows-1110-solved/"><u>Fix Second Monitor Not Detected on Windows 11/10 [Solved]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-6-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-solve-minecraft-error-code-5-issues/"><u>How to Troubleshoot and Solve Minecraft Error ^Code 5 Issues</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a59-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A59 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-selecting-podcasts-for-iphone-devices/"><u>In 2024, The Art of Selecting Podcasts for iPhone Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-perpetual-launch-error-on-valorant-a-step-by-step-guide/"><u>Overcoming the Perpetual Launch Error on Valorant: A Step-by-Step Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-fix-unfreeze-vlc-media-player/"><u>Quick Fix: Unfreeze VLC Media Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickly-resolve-your-windows-11s-bluetooth-connectivity-issues/"><u>Quickly Resolve Your Windows 11'S Bluetooth Connectivity Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-broken-arrow-buttons-expert-fixes-for-a-smooth-typing-experience/"><u>Reviving Broken Arrow Buttons - Expert Fixes for a Smooth Typing Experience.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-fbx-filming-in-games/"><u>[New] Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-choice-vr-game-engines-update-march-2023/"><u>[Updated] In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-crafting-professional-captions-with-top-online-aids-and-platforms/"><u>2024 Approved Crafting Professional Captions with Top Online Aids and Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-glitch-expert-tips-on-overcoming-twitch-error-4000-for-uninterrupted-broadcasts/"><u>Beat the Glitch: Expert Tips on Overcoming Twitch Error 4000 for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-fixes-for-windows-11-users-struggling-with-device-detection/"><u>Bluetooth Connectivity Fixes for Windows 11 Users Struggling with Device Detection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-to-resolve-gta-vs-endless-freezing-and-crashing-problems/"><u>Comprehensive Fixes to Resolve GTA V's Endless Freezing & Crashing Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/find-the-start-button-on-windows-11/"><u>Find The Start Button on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/hot-hands-on-10-must-have-vr-peripherals/"><u>Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>In 2024, Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-download-of-asus-aura-customization-suite-for-windows-1110-users/"><u>Step-by-Step Download of ASUS AURA Customization Suite for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-failed-teredo-network-connections/"><u>Understanding and Fixing Failed Teredo Network Connections</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unlock-free-power-learn-to-edit-videos-on-vimeo-for-2024/"><u>Unlock FREE Power Learn to Edit Videos on Vimeo for 2024</u></a></li>
 </ul></div>
 

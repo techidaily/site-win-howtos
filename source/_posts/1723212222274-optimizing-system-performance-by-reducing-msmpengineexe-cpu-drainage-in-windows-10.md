@@ -1,7 +1,7 @@
 ---
 title: Optimizing System Performance by Reducing MsMpEngine.exe CPU Drainage in Windows 10.
-date: 2024-09-14T18:01:26.151Z
-updated: 2024-09-17T19:36:13.603Z
+date: 2024-10-12T19:05:29.716Z
+updated: 2024-10-16T04:09:08.545Z
 tags:
   - win11
   - win10
@@ -51,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
@@ -71,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
@@ -86,28 +73,29 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
@@ -119,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 9) See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Empty event viewer log**
 
  Large log files in Windows event viewer could cause excessively high usage of CPU or memory. To fix that, you can clear Event Viewer’s log:
@@ -126,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  1) On your keyboard, press the **Windows** **logo key** and**R** key at the same time, then type**eventvwr** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
@@ -135,14 +137,14 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
- 4) Restart your computer after this.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -176,18 +178,18 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,5 +204,23 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-create-stunning-tiktok-videos-with-templates-for-2024/"><u>[New] How To Create Stunning TikTok Videos With Templates for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-incorporating-instagrams-cutting-edge-filters/"><u>[New] In 2024, Incorporating Instagram's Cutting Edge Filters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-photo-skills-speed-and-simplicity-with-windows-10-paint-app/"><u>2024 Approved Boosting Photo Skills Speed & Simplicity with Windows 10 Paint App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027630968-windows-1011/"><u>効果的な画面録画とストレージ容量の軽減には? Windows 10/11パソコンでどうすればいい?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206971633-effortless-ways-to-prevent-your-pc-from-snoozing-unexpectedly/"><u>Effortless Ways to Prevent Your PC From Snoozing Unexpectedly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-techniques-to-restore-typing-functionality-on-keyboards/"><u>Essential Techniques to Restore Typing Functionality on Keyboards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-best-no-cost-polyglot-platforms-for-mastering-languages/"><u>Expert Picks: Best No-Cost Polyglot Platforms for Mastering Languages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-professional-content-creators-guide-studio-vs-beta-platform/"><u>In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210705131-laptop-sound-issues-solve-unresponsive-microphone-problems-now/"><u>Laptop Sound Issues? Solve Unresponsive Microphone Problems Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-prerequisite-driver-restored-for-optimal-computer-performance/"><u>Missing Prerequisite Driver Restored for Optimal Computer Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-solution-convert-snd-formats-to-mp3wav-online-at-no-cost/"><u>Movavi's Solution: Convert .SND Formats to MP3/WAV Online at No Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-errcachemiss-issues-on-google-chrome/"><u>Solving ERR_CACHE_MISS Issues on Google Chrome</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smart-led-bulbs-on-the-market/"><u>Top-Rated Smart LED Bulbs on the Market</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-resolving-ue4-fatal-errors-for-stable-halo/"><u>Ultimate Troubleshooting: Resolving UE4 Fatal Errors for Stable Halo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncovering-the-hidden-tricks-fixing-windows-11-taskbar-display-problems/"><u>Uncovering the Hidden Tricks: Fixing Windows 11 Taskbar Display Problems</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728474761129-windows-11hddssd/"><u>Windows 11用のHDDからSSDへのデータコピー方法完全ガイド</u></a></li>
+</ul></div>
 

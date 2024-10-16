@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Steam Store Not Loading' Problem: Tips & Solutions for Gamers"
-date: 2024-10-07T20:18:42.142Z
-updated: 2024-10-09T21:37:52.328Z
+date: 2024-10-09T20:45:25.012Z
+updated: 2024-10-15T17:48:53.163Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 4. **[Re-enroll your fingerprints](#F4)**
 5. **[Restore system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the fingerprint scanner
 
  Before addressing the fingerprint reader not working problem, you might want to check the fingerprint scanner for possible hardware issues.
@@ -58,22 +65,15 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -96,14 +96,22 @@ Here’s how:
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
 5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
 6. Click **Uninstall**   to confirm.
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
@@ -111,10 +119,10 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Re-enroll your fingerprints
@@ -124,6 +132,14 @@ Here’s how:
 2. Scroll down to**Windows Hello** , and click**Set up** under the**Fingerprint** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5039662fee.jpg)
 3. Follow the on-screen instructions to set up the fingerprint login.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Don’t forget to test if the fingerprint reader works normally this time.
 
 ## Fix 5: Repair system files
@@ -132,13 +148,6 @@ Here’s how:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -154,13 +163,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -168,16 +170,10 @@ Here’s how to use Fortect to repair system files on your PC:
 Check your computer to see if the issue is fixed.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run SFC scan
@@ -223,19 +219,22 @@ Check your computer to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleashing-creativity-with-audacity-sound-capture-on-your-mac/"><u>[New] Unleashing Creativity with Audacity Sound Capture on Your Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-lights-for-youtube-vlogging/"><u>2024 Approved The Art of Lights for YouTube Vlogging</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-gt-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme GT 5 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-7-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 7 Pattern Lock Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-gt-neo-5-se-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme GT Neo 5 SE.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-perfect-combo-dji-action-gopro-max-instax360/"><u>In 2024, Finding the Perfect Combo DJi Action, GoPro Max, InstaX360</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-huaweifrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HuaweiFRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-why-does-wudfhostexe-consume-high-cpu-on-windows-10/"><u>Resolved: Why Does wudfhost.exe Consume High CPU on Windows 10?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-hardware-malfunctions-fixing-a-frozen-hddssd-on-windows-11/"><u>Resolving Hardware Malfunctions: Fixing a Frozen HDD/SSD on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-techniques-for-recovering-accidentally-erased-pictures-on-iphone/"><u>Secure Techniques for Recovering Accidentally Erased Pictures on iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-stalled-windows-updates-at-100-mark/"><u>Step-by-Step Guide: Resolving Stalled Windows Updates at 100% Mark</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-continuous-system-reboots-ultimate-solutions-for-windows-1110-users/"><u>Troubleshooting Continuous System Reboots - Ultimate Solutions for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-plowing-pathways-selecting-superb-simulation-titles/"><u>[New] 2024 Approved Plowing Pathways Selecting Superb Simulation Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pursuing-dynamic-visuals-the-ultimate-guide-for-converting-sdr-to-hdri/"><u>[New] Pursuing Dynamic Visuals The Ultimate Guide for Converting SDR to HDRI</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-9gag-memes-tips-for-creativity-and-impact/"><u>2024 Approved Master the Art of 9GAG Memes Tips for Creativity and Impact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-nvidia-install-complications/"><u>Clearing Up NVIDIA Install Complications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-black-screen-blues-a-step-by-step-fix-for-windows-11-users/"><u>Conquering the Black Screen Blues: A Step-by-Step Fix for Windows 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-pdf-splitting-techniques-3-simple-ways-to-divide-your-pdf-document/"><u>Effortless PDF Splitting Techniques: 3 Simple Ways to Divide Your PDF Document</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x8024200d-explained-winning-strategies-for-updating-your-windows-smoothly-solved/"><u>Error 0X8024200D Explained: Winning Strategies for Updating Your Windows Smoothly [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212069876-fixing-a-nonfunctional-camera-on-your-hp-laptop-running-windows-aturate-with-an-active-and-dynamic-atmosphere/"><u>Fixing a Nonfunctional Camera on Your HP Laptop Running Windows Aturate with an Active and Dynamic Atmosphere.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-the-persistent-windows-error-0x800704cf-solved/"><u>How to Recover From the Persistent Windows Error: 0X800704CF [Solved]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-pinnacle-of-engagement-custom-youtube-shorts-thumbnails-guide/"><u>In 2024, The Pinnacle of Engagement Custom YouTube Shorts Thumbnails Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-destiny-2-startup-glitch-initialization-error-solutions/"><u>Overcoming Destiny 2 Startup Glitch: Initialization Error Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210066041-resolving-adobe-flash-player-crashes-on-google-chrome-solved/"><u>Resolving Adobe Flash Player Crashes on Google Chrome - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-client-bootstrapper-has-stopped-working-solved/"><u>Steam Client Bootstrapper Has Stopped Working [SOLVED]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-vsdc-and-its-rivals-for-2024/"><u>The Ultimate Guide to VSDC and Its Rivals for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-leading-cordless-phones/"><u>Ultimate Selection: Leading Cordless Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-sony-afeela-insights-into-release-schedule-costs-and-features/"><u>Unveiling the Sony Afeela: Insights Into Release Schedule, Costs, and Features</u></a></li>
 </ul></div>
 

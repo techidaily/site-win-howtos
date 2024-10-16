@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Dragging Shutdown Experience on Windows 10 Machines
-date: 2024-09-17T03:17:01.797Z
-updated: 2024-09-17T23:23:42.098Z
+date: 2024-10-09T17:05:21.216Z
+updated: 2024-10-15T19:19:29.069Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,9 +58,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -71,13 +92,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -89,13 +103,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -114,14 +121,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -143,5 +158,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-splitcam-review-is-it-the-best-video-recorder/"><u>[New] In 2024, SplitCam Review Is It The Best Video Recorder?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-prime-enterprise-sky-space-hoarder/"><u>[New] Prime Enterprise Sky Space Hoarder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>[Updated] In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-flip-the-script-accelerating-tiktok-video-creation/"><u>[Updated] In 2024, Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-build-youtube-backlinks-for-your-channel/"><u>2024 Approved How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2300d-update-or-install-new-printer-driver-today/"><u>Brother HL-L2300D: Update or Install New Printer Driver Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-malfunction-steps-for-resolution-and-restoration/"><u>Corsair Keyboard Malfunction - Steps for Resolution and Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-discords-push-to-talk-not-working/"><u>Diagnosing and Repairing Problems with Discord's Push-To-Talk Not Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-user-profile-service-failed-on-windows-11/"><u>Effective Solutions for Overcoming 'User Profile Service Failed' On Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-function-keys-when-they-arent-responding/"><u>How To Restore Your Function Keys When They Aren't Responding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-picks-10-premium-action-cameras-with-image-stabilization/"><u>In 2024, Pro's Picks 10 Premium Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-digital-ink-repair-a-complete-tutorial-for-fixing-steelseries-x70-pen-issues/"><u>Mastering the Art of Digital Ink Repair: A Complete Tutorial for Fixing SteelSeries X70 Pen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-wait-successful-troubleshooting-for-windows-10s-99-update-issue/"><u>Overcome the Endless Wait: Successful Troubleshooting for Windows 10'S 99% Update Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209178918-overcome-window-11s-touchscreen-woes-here-are-5-tips-for-quick-repairs/"><u>Overcome Window 11'S Touchscreen Woes? Here Are 5 Tips for Quick Repairs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-a-dead-microsoft-mouse-fixing-bluetooth-connectivity-problems-in-windows/"><u>Reviving a Dead Microsoft Mouse: Fixing Bluetooth Connectivity Problems in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-guide-keep-your-macbook-awake-even-with-closed-lid-step-by-step/"><u>Tech Guide: Keep Your MacBook Awake Even with Closed Lid – Step-by-Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205247765-troubleshooting-and-solving-windows-11s-0x800705b4-update-issue-successfully/"><u>Troubleshooting and Solving Windows 11'S 0X800705b4 Update Issue Successfully!</u></a></li>
+</ul></div>
 

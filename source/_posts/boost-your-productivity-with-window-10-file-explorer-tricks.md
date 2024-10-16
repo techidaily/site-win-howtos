@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity with Window 10 File Explorer Tricks
-date: 2024-10-07T22:39:36.818Z
-updated: 2024-10-09T17:58:59.578Z
+date: 2024-10-12T03:22:32.096Z
+updated: 2024-10-16T00:50:18.996Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 4. **[Flush DNS cache](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off airplane mode
 
  Before going about troubleshooting the Windows 10 stuck in airplane mode problem, let’s get one simple question out of the way: is your computer really STUCK in the airplane mode?
@@ -57,10 +64,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click on**Airplane mode** (when it is on, it’s colored) to turn it off (when it is off, it’s greyed out) .
@@ -77,13 +84,6 @@ To do so:
 Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**airplane mode** . Then click on**Airplane mode** as it pops up as a match.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-108.png)
 
@@ -105,13 +105,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-86.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on the**Network adapters** category and then**your wireless adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-88.png)
@@ -121,10 +114,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-89.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your laptop.
@@ -132,6 +131,13 @@ Here is how to do it:
 5) Check to see if you can get back online on your computer. If yes, then great! If it’s not working, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Enable Radio Management Service
 
@@ -144,22 +150,15 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate**Radio Management Service** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-91.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In**Startup type** , select Disabled. Then click**OK** .
 
@@ -230,6 +229,13 @@ Here is a step-by-step walk-through:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
@@ -242,27 +248,27 @@ Here is a step-by-step walk-through:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-178.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  12) Click the **Download** button next to your WiFi driver.
 
@@ -298,17 +304,24 @@ Here is a step-by-step walk-through:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-premium-sporting-cameras-for-adventure/"><u>[New] Premium Sporting Cameras for Adventure</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-the-art-of-video-production-for-facebooks-youtube/"><u>[Updated] In 2024, Unveiling the Art of Video Production for Facebook's YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>2024 Approved Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-unresponsive-space-bar-keys-in-your-new-windows-11-pc/"><u>Dealing with Unresponsive Space Bar Keys in Your New Windows 11 PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instas-secrets-unveiled-the-art-of-selfie-confirmation-for-2024/"><u>Insta's Secrets Unveiled The Art of Selfie Confirmation for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-tips-for-a-standout-instagram-groups-project-for-2024/"><u>Quick Tips for a Standout Instagram Groups Project for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resurrect-lost-gaming-dlls-like-x3d/"><u>Quick-Fix Guide: Resurrect Lost Gaming Dlls Like X3D</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reining-in-the-reflexive-responses-of-acer-displays/"><u>Reining in the Reflexive Responses of Acer Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-correctly-fix-setup-errors-in-your-origin-game/"><u>Resolving Issues: How to Correctly Fix Setup Errors in Your Origin Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-non-responsive-fn-keys-expert-tips-for-dell-laptop-users/"><u>Resolving Non-Responsive Fn Keys: Expert Tips for Dell Laptop Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-the-mystery-behind-dxgidll-in-pubg/"><u>Unveiling the Mystery Behind Dxgi.dll in PUBG</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-clear-the-clutter-a-comprehensive-guide-to-freeing-up-space-on-your-fcpx-mac/"><u>Updated Clear the Clutter A Comprehensive Guide to Freeing Up Space on Your FCPX Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfecting-your-ringtone-choices-on-an-iphone/"><u>[Updated] Perfecting Your Ringtone Choices on an iPhone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-3-strategies-for-tiktok-livestreaming-from-desktop/"><u>2024 Approved 3 Strategies for TikTok Livestreaming From Desktop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>2024 Approved How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-10-final-cut-pro-enhancers/"><u>2024 Approved The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/compliance-with-copyright-law-when-sharing-media-through-fb-for-2024/"><u>Compliance with Copyright Law when Sharing Media Through FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-to-eliminate-delayed-boot-times-in-windows-7/"><u>Essential Fixes to Eliminate Delayed Boot Times in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-and-repair-the-stalled-diagnostics-monitoring-service/"><u>How to Reactivate and Repair the Stalled Diagnostics Monitoring Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 2023 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-spectre-x360-troubleshooting-and-fixing-your-overheat-issues/"><u>HP Spectre X360: Troubleshooting & Fixing Your Overheat Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-14-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 14 Pro/iPad/iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-swf-mp4/"><u>Movavi의 안전하고 쉬운 SWF-MP4 변환: 비용 없이 인터넷 사용자에게 접근하기</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-trimming-made-easy-a-step-by-step-guide-to-cropping-videos-in-avidemux/"><u>New Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-issues-with-your-lenovo-fingerprint-sensor/"><u>Quick Fixes: Resolving Issues with Your Lenovo Fingerprint Sensor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-common-dll-stop-error-in-windows-a-complete-solution-guide/"><u>Resolve the 'Common DLL Stop' Error in Windows: A Complete Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-this-site-cant-be-reached-chrome-error/"><u>Solved: “This Site Can’t Be Reached” Chrome Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-the-d3d9-graphics-device-failure-problem/"><u>Step-by-Step Solution for the D3D9 Graphics Device Failure Problem</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-hang-ups-in-windows-11-systems-a-comprehensive-guide/"><u>Troubleshooting and Solving Hang-Ups in Windows 11 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-window-woes-tackling-dead-screens-effectively/"><u>Winning Strategies Against Window Woes: Tackling Dead Screens Effectively</u></a></li>
 </ul></div>
 

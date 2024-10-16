@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: Corsair HS5ˈʙɪt 𝘌𝗿𝗮𝗺𝗯𝗶𝗻 Microphone Issues and How to Solve Them"
-date: 2024-09-13T16:29:43.491Z
-updated: 2024-09-18T01:44:40.738Z
+date: 2024-10-08T22:49:03.171Z
+updated: 2024-10-16T05:14:47.731Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -53,6 +60,19 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,6 +87,14 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -81,21 +109,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
@@ -106,6 +127,13 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -138,5 +166,22 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-setting-the-standard-for-online-video-presentations-yt-thumbnail-sizing/"><u>[New] In 2024, Setting the Standard for Online Video Presentations – YT Thumbnail Sizing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[New] The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-strategies-for-spotify-advertising-success/"><u>[Updated] 2024 Approved Essential Strategies for Spotify Advertising Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-anonymity-in-action-insta-stories-guide/"><u>[Updated] In 2024, Anonymity in Action Insta Stories Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>2024 Approved Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-your-razer-synapse-device-wont-pair/"><u>Effective Solutions for When Your Razer Synapse Device Won't Pair</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-seamless-sleep-in-windows-11/"><u>Ensuring Seamless Sleep in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/erstelle-professionelles-iso-abbild-und-sichere-backup-fur-ihre-dvds-mithilfe-von-winx-dvd-duplicator/"><u>Erstelle Professionelles ISO-Abbild Und Sichere Backup Für Ihre DVDs Mithilfe Von WinX DVD Duplicator</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-gaming-experience-preventing-hell-let-loose-pc-crashes/"><u>Expert Tips for a Smooth Gaming Experience - Preventing 'Hell Let Loose' PC Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-p40-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel P40</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-driver-failure-message-due-to-incorrect-user-settings/"><u>Resolving the 'Driver Failure' Message Due to Incorrect User Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-login-issues-fixing-user-profile-service-failures/"><u>Resolving Windows 11 Login Issues: Fixing User Profile Service Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unresponsive-file-explorer-in-windows-10-environments/"><u>Step-by-Step Solutions for Unresponsive File Explorer in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-media-source-errors-for-games/"><u>Troubleshooting and Resolving Windows Media Source Errors for Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-bluetooth-mouse-on-a-pc/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Bluetooth Mouse on a PC</u></a></li>
+</ul></div>
 

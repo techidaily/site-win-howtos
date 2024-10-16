@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Microphone on Your Laptop: Solutions Explored"
-date: 2024-10-08T19:30:46.841Z
-updated: 2024-10-09T21:00:19.198Z
+date: 2024-10-10T19:11:06.634Z
+updated: 2024-10-15T17:46:28.112Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
@@ -74,10 +67,10 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
@@ -85,6 +78,13 @@ Here’s how to do it:
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -95,14 +95,22 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
@@ -112,22 +120,21 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -162,22 +169,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>[New] APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-constructing-mc-neighborhoods/"><u>[Updated] In 2024, The Ultimate Guide to Constructing MC Neighborhoods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>2024 Approved Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-repair-solutions-for-windows-11-the-power-of-sfc-and-dism/"><u>Comprehensive Guide to Repair Solutions for Windows 11: The Power of SFC & DISM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-the-code-on-missing-permissions-in-steam-gaming-software/"><u>Cracking the Code on Missing Permissions in Steam Gaming Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/destiny-2-launch-issue-how-to-fix-the-initializing-hang-up/"><u>Destiny 2 Launch Issue: How to Fix the 'Initializing' Hang-Up</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/expert-approved-4k-video-editing-software-the-top-choices/"><u>Expert-Approved 4K Video Editing Software The Top Choices</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-access-to-whatsapp-users-reined-in-by-germany-legislation/"><u>Facebook's Access to WhatsApp Users Reined in by Germany Legislation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-implemented-previously-unsuccessful-attempts-to-reach-dhcp-server-now-successful/"><u>Fix Implemented: Previously Unsuccessful Attempts to Reach DHCP Server Now Successful</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-reno-9a-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo Reno 9A Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-photo-and-video-collage-makers-you-can-find-on-the-internet-for-2024/"><u>New In This Article We Are Going to Take You Through some of the Best Online Photo and Video Collage Makers You Can Find on the Internet for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-repair-google-hangouts-microphone-issues/"><u>Quick Solutions: How to Repair Google Hangouts Microphone Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-windows-11-microphone-problems-effectively/"><u>Troubleshoot and Resolve Windows 11 Microphone Problems Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-windows-10-solve-the-mystery-of-missing-icons-on-your-taskbar-here/"><u>Troubleshoot Your Windows 10: Solve the Mystery of Missing Icons On Your Taskbar Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unearth-the-missing-touchpad-icon-fix-now/"><u>Unearth the Missing Touchpad Icon, Fix Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1080p/"><u>ビデオを1080pに輝き返せる!ソフトとウェブサイトで使える方法二つ</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rapid-rhythmic-revision-software-roundup-mobiledesktop/"><u>[New] Rapid Rhythmic Revision Software Roundup (Mobile/Desktop)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10plus-online-photo-background-changers-to-remove-background-easily/"><u>[New] Top 10+ Online Photo Background Changers to Remove Background Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[Updated] 2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-problem-occurred-during-pc-reset-in-windows-10-proven-solution/"><u>Bypass the 'Problem Occurred During PC Reset' In Windows 10 [Proven Solution]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-disabled-to-enabled-status/"><u>From Disabled to Enabled Status</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gptzero-explained-separating-real-from-synthetic-texts/"><u>GPTZero Explained: Separating Real From Synthetic Texts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-8-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 8 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-plus-shift-plus-s-functionality-problems-in-windows-1110-operating-systems/"><u>Resolved: How to Fix 'Windows + Shift + S' Functionality Problems in Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209495330-simplify-your-experience-with-windows-10s-file-explorer-expert-advice/"><u>Simplify Your Experience with Windows 10'S File Explorer - Expert Advice!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-dell-webcam-expert-tips-for-windows-users-experiencing-issues/"><u>Troubleshoot Your Dell Webcam: Expert Tips for Windows Users Experiencing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-1011-exe-crisis-solved/"><u>Win 10/11 Exe Crisis Solved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your 'VCRUNTIME140.dll' Absence Error on Windows PCs Effortlessly
-date: 2024-10-07T17:43:13.446Z
-updated: 2024-10-09T18:59:02.608Z
+date: 2024-10-10T18:52:47.878Z
+updated: 2024-10-16T02:25:28.235Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -66,22 +59,15 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
@@ -110,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
@@ -121,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ---
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -144,26 +123,26 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
 
@@ -203,6 +182,13 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
@@ -231,16 +217,16 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
@@ -268,11 +254,25 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -297,22 +297,19 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/asting-eradication-strategy-for-youtube-shorts-feature/"><u>[New] Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-optimized-recording-software-seamless-every-time/"><u>[New] Optimized Recording Software - Seamless Every Time</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-luminous-brilliance-for-your-android-videos/"><u>Discover Luminous Brilliance for Your Android Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-list-of-websites-ease-up-on-youtube-videos-and-templates-for-2024/"><u>Expert List of Websites Ease Up on Youtube Videos and Templates for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/expert-step-by-step-strategy-to-effective-video-shortening-on-vimeo-platforms/"><u>Expert Step-by-Step Strategy to Effective Video Shortening on Vimeo Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-update-failed-error-code-0x800f0922-on-windows-10/"><u>Expert Tips for Overcoming the 'Update Failed' Error (Code 0X800f0922) on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-xs-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone XS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-experts-guide-to-xbox-one-screen-captures/"><u>In 2024, The Expert's Guide to Xbox One Screen Captures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207863980-pdf-printing-problems-quick-fixes-to-get-your-document-out/"><u>PDF Printing Problems? Quick Fixes to Get Your Document Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0x802eb3f6-a-step-by-step-guide/"><u>Resolving Windows 11 Update Error Code 0X802eb3f6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-common-dll-has-stopped-working-in-windows-bid-error-goodbye/"><u>Step-by-Step Fix for 'Common DLL Has Stopped Working' In Windows: Bid Error Goodbye</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-the-infamous-red-screen-problem-a-complete-fix-guide/"><u>Tackling the Infamous 'Red Screen' Problem: A Complete Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-epson-scan-communication-issues/"><u>Unlocking Epson Scan Communication Issues</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211838378-your-sds-silence-uncover-solutions/"><u>Your SD's Silence? Uncover Solutions!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncovering-the-best-apps-to-transform-your-speech/"><u>[New] 2024 Approved Uncovering the Best Apps to Transform Your Speech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[Updated] In 2024, Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027955099-fc2/"><u>無料で安全に保存! FC2動画のダウンロードテクニックを学ぶ</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s24-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-troubles-stop-lunar-client-from-crashing-on-windows-systems/"><u>Fix Your Troubles: Stop Lunar Client From Crashing on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-v-purse-by-fonelab-android-recover-music/"><u>How to restore wiped music on V Purse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-sounds-nahimics-latest-drivers-installed-in-a-flash/"><u>Streamline Your Sounds: Nahimic's Latest Drivers Installed in a Flash</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-downloading-high-quality-flac-songs/"><u>Top Strategies for Downloading High-Quality FLAC Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-eliminate-lag-in-vlc-subtitles-seamlessly/"><u>Troubleshooting Steps to Eliminate Lag in VLC Subtitles Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-hd-video-conversion-with-factory-pros-exclusive-one-week-promo-now-closed/"><u>Unlock HD Video Conversion with Factory Pro's Exclusive One-Week Promo – Now Closed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-version-of-rtx-2080-graphics-card-drivers-on-your-windows-computer-windows-1011/"><u>Upgrade to the Newest Version of RTX 2080 Graphics Card Drivers on Your Windows Computer (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
 </ul></div>
 

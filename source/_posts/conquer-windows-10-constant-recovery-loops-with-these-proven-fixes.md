@@ -1,7 +1,7 @@
 ---
 title: Conquer Windows 10 Constant Recovery Loops with These Proven Fixes
-date: 2024-10-02T22:29:36.767Z
-updated: 2024-10-09T23:43:37.735Z
+date: 2024-10-15T07:36:32.076Z
+updated: 2024-10-16T05:11:52.430Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -66,23 +66,23 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
@@ -90,10 +90,16 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
@@ -102,10 +108,10 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -135,16 +141,17 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723209063772-fixed-windows-cannot-access-the-specified-device-path-or-file-error/"><u>[Fixed] ‘Windows Cannot Access the Specified Device Path or File’ Error</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-fade-out-in-audacity/"><u>[Updated] How to Fade Out in Audacity</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-youtube-live-recording-on-every-gadget/"><u>[Updated] In 2024, Mastering YouTube Live Recording on Every Gadget</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-real-time-webcam-and-screen-melding-tips/"><u>[Updated] In 2024, Real-Time Webcam & Screen Melding Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-startup-crashes-in-hogwarts-legacy-using-our-proven-8-fix-methods/"><u>Conquer Startup Crashes in Hogwarts Legacy Using Our Proven 8 Fix Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/create-your-own-tailored-gpt-style-ai-with-chatgpts-new-update/"><u>Create Your Own Tailored GPT-Style AI with ChatGPT's New Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-for-windows-11-dvdcd-rom-error-incomplete-or-corrupted-device-configuration-data-error-code-19/"><u>Fix for Windows 11 DVD/CD-ROM Error: Incomplete or Corrupted Device Configuration Data (Error Code 19)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-bad-module-info-issue-and-prevent-your-game-from-crashing/"><u>Resolve 'Bad Module Info' Issue & Prevent Your Game From Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-keyboard-delay-on-windows-11/"><u>Resolved: How to Fix Persistent Keyboard Delay on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/six-methods-to-enhance-your-creative-writing-with-chatgpt/"><u>Six Methods to Enhance Your Creative Writing with ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-fatal-installation-error-16-and-ensuring-a-smooth-start/"><u>Step-by-Step Guide to Overcoming 'Fatal Installation Error 16#' And Ensuring a Smooth Start</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>[New] Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-solving-vlcs-trouble-with-mkv-a-comprehensive-guide/"><u>1. Solving VLC's Trouble with MKV: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-superior-wmv-merger-ultimate-guide-to-fusing-various-wmv-videos-into-a-single-file/"><u>1. Superior WMV Merger: Ultimate Guide to Fusing Various WMV Videos Into a Single File</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme 12 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-vanguard-stuttering-problems-learn-how-to-fix-them-for-a-smooth-gaming-experience/"><u>Call of Duty: Vanguard Stuttering Problems? Learn How to Fix Them for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-troubleshooting-tips-getting-snapchat-video-streams-back-on-track/"><u>Essential Troubleshooting Tips: Getting Snapchat Video Streams Back On Track!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unlock-cross-platform-video-editing-a-chromebook-guide/"><u>New Unlock Cross-Platform Video Editing A Chromebook Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-silent-rebellion-fixing-audio-issues-in-cyberpunk-2077-on-windows-11-pcs/"><u>Overcoming the Silent Rebellion: Fixing Audio Issues in Cyberpunk 2077 on Windows 11 PCs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-complete-guide-to-generating-profits-vimeo-monetization-mastery-for-2024/"><u>The Complete Guide to Generating Profits Vimeo Monetization Mastery for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watch-your-avi-videos-effortlessly-on-roku-the-ultimate-no-cost-tutorial/"><u>Watch Your AVI Videos Effortlessly on Roku: The Ultimate No-Cost Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webm-aviwmv/"><u>WebM ファイルの AVI/WMV への変換手順ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windowsimgiso/"><u>Windows環境でIMGファイルをISO形式に変換する手順</u></a></li>
 </ul></div>
 

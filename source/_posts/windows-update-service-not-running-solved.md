@@ -1,7 +1,7 @@
 ---
 title: Windows Update Service Not Running [SOLVED]
-date: 2024-10-06T20:06:29.843Z
-updated: 2024-10-09T19:06:27.800Z
+date: 2024-10-13T18:27:42.303Z
+updated: 2024-10-15T22:19:16.272Z
 tags:
   - win11
   - win10
@@ -47,27 +47,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -80,10 +80,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -93,13 +99,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -107,6 +106,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -119,6 +126,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -128,13 +142,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -159,20 +166,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-alluring-vlog-narratives/"><u>[New] Unlocking the Secrets of Alluring Vlog Narratives</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>[Updated] In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-wmp-cd-extraction-and-bursting-techniques/"><u>[Updated] Mastering WMP CD Extraction & Bursting Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assessing-the-value-of-digital-image-anchor-points-for-2024/"><u>Assessing the Value of Digital Image Anchor Points for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-image-safekeepers-online-for-2024/"><u>Best Image Safekeepers Online for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-for-fixing-windows-11-bluetooth-connectivity-problems/"><u>Effortless Solutions for Fixing Windows 11 Bluetooth Connectivity Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-stuck-spacebar-on-windows-pressure-systems/"><u>Expert Advice: Restoring Functionality to a Stuck Spacebar on Windows Pressure Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-common-issue-understanding-and-solving-error-0xa00f4292-in-windows-cameras/"><u>Fixing the Common Issue: Understanding & Solving Error 0xA00F4292 in Windows Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-exquisite-stardew-valley-enhancements-revealed-top-7/"><u>In 2024, Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-htc-u23-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On HTC U23</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-languages-faster-the-advantages-of-chatgptplus-edition/"><u>Mastering Languages Faster: The Advantages of ChatGPT+ Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-update-troubles-with-easy-fixes-for-unfound-patches/"><u>Solve Your Windows Update Troubles with Easy Fixes for Unfound Patches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210340340-stop-your-pc-from-falling-asleep-simple-fixes/"><u>Stop Your PC From Falling Asleep: Simple Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-runtimebroker-service-resolving-high-cpu-usage-issues-in-windows-10/"><u>Understanding the RuntimeBroker Service: Resolving High CPU Usage Issues in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-optimal-printing-fixed-hp-laserjet-1-points/"><u>Unleash Optimal Printing: Fixed HP LaserJet 1 Points</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comment-construire-un-support-de-demarrage-avec-windows-11-pe-buildr-pour-mac/"><u>Comment Construire Un Support De Démarrage Avec Windows 11 PE Buildr Pour Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-cannot-reach-specified-device-on-windows-systems/"><u>Effective Solutions for Overcoming 'Cannot Reach Specified Device' On Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-generic-bluetooth-adapter-software-today-optimized-for-windows-pcs/"><u>Get Your New Generic Bluetooth Adapter Software Today: Optimized for Windows PCs!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-addressing-wd-my-passport-ultra-missing-in-system-devices-list/"><u>How to Restore Connectivity: Addressing WD My Passport Ultra Missing in System Devices List</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-lifespan-with-8-essential-battery-saving-tweaks/"><u>Maximize Your Apple Watch's Lifespan with 8 Essential Battery-Saving Tweaks!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-incorrect-side-by-side-assemblies-on-your-windows-11-system-guide/"><u>Troubleshooting Incorrect Side By Side Assemblies on Your Windows 11 System [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolving-issues-during-steam-game-update-process/"><u>Troubleshooting: Resolving Issues During Steam Game Update Process</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
 

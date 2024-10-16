@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Compatibility Between Shockwave Flash and Google Chrome
-date: 2024-10-08T19:46:43.773Z
-updated: 2024-10-09T18:07:48.958Z
+date: 2024-10-14T03:32:41.475Z
+updated: 2024-10-15T22:04:20.171Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -63,10 +70,10 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
@@ -83,13 +90,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Clear Google Chrome cache
 
  When the**Google Chrome Critical ERROR** was loaded by Chrome it created a small cache file. Although it would be detected by antivirus software, it’s recommended to clear your cache to prevent it appears again.
@@ -101,24 +101,23 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -129,20 +128,27 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -179,17 +185,20 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-laughter-logic-kapwings-humor-engine/"><u>[Updated] 2024 Approved Laughter Logic Kapwing's Humor Engine</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-pexelscom-uncovered-an-exploration-of-high-quality-copyright-friendly-images/"><u>2024 Approved Pexels.com Uncovered An Exploration of High-Quality, Copyright-Friendly Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-engagement-with-essential-marketing-terms-for-2024/"><u>Boost Engagement with Essential Marketing Terms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-the-error-expert-advice-on-handling-motherboards-faulty-checksum-code/"><u>Clearing the Error: Expert Advice on Handling Motherboard's Faulty Checksum Code</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-step-by-step-instructions-downloading-the-latest-drivers-for-your-hp-laserjet-pro-p1606dn-printer-windows/"><u>Easy Step-by-Step Instructions: Downloading the Latest Drivers for Your HP LaserJet Pro P1606dn Printer (Windows)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-g24-power-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola G24 Power for Parents | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsungs-trailblazing-gadget-the-galaxy-z-flip-6-insights-on-price-release-timeline-and-feature-breakdown/"><u>Samsung's Trailblazing Gadget - The Galaxy Z Flip 6: Insights on Price, Release Timeline & Feature Breakdown</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-email-signature-woes-fixing-a-broken-at-key-on-your-device/"><u>Solve Your Email Signature Woes: Fixing a Broken 'At' (@) Key on Your Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-tackling-the-something-went-wrong-error-during-windows-11-fresh-start/"><u>Successfully Tackling the 'Something Went Wrong' Error During Windows 11 Fresh Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-fixing-a-stuck-windows-10-taskbar/"><u>Top Solutions for Fixing a Stuck Windows 10 Taskbar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-network-interference-with-party-chatting-solutions/"><u>Troubleshooting Network Interference with Party Chatting Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-unresponsive-laptop-touchpad/"><u>Ultimate Guide: Troubleshooting & Repairing Your Unresponsive Laptop Touchpad</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-detailed-procedures-for-elevating-youtube-clips-through-wm-maker/"><u>[Updated] 2024 Approved Detailed Procedures for Elevating YouTube Clips Through WM Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-peak-tv-service-providers-comparative-insights/"><u>[Updated] Explore the Peak TV Service Providers Comparative Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>2024 Approved The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-nonfunctioning-usb-mouse-and-keyboard-on-windows-7-systems/"><u>How to Fix a Nonfunctioning USB Mouse and Keyboard on Windows 7 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-patches-selecting-shots-for-social-media/"><u>In 2024, Premium Patches Selecting Shots for Social Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-mirroring-with-miracast-despite-device-limitations-effective-strategies-and-tips/"><u>Mastering Screen Mirroring with Miracast Despite Device Limitations: Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-update-troubles-with-error-8007000e-a-swift-guide/"><u>Resolve Your Windows Update Troubles with Error 8007000E - A Swift Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-touchpad-and-pen-input-issues-for-better-display-interaction/"><u>Resolving Touchpad and Pen Input Issues for Better Display Interaction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-keys-effective-solutions-for-malfunctioning-keyboard-lighting-in-windowsmac-systems/"><u>Revive Your Keys: Effective Solutions for Malfunctioning Keyboard Lighting in Windows/Mac Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-your-pcs-graphics-power-use-combat-dwm-overload-with-these-simple-steps-on-windows-11/"><u>Slash Your PC's Graphics Power Use: Combat DWM Overload with These Simple Steps on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-delight-of-drollery-does-ai-spark-mirthful-moments/"><u>The Digital Delight of Drollery: Does AI Spark Mirthful Moments?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-codegpts-potential-inside-your-vs-code-workspace/"><u>Unlocking CodeGPT's Potential Inside Your VS Code Workspace</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-your-function-buttons-a-step-by-step-repair-process/"><u>Unstuck Your Function Buttons! A Step-by-Step Repair Process</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eradicating the Persistent LiveKernelEvent 117 Problem"
-date: 2024-10-05T16:38:45.340Z
-updated: 2024-10-09T16:52:56.993Z
+date: 2024-10-14T19:15:08.314Z
+updated: 2024-10-15T20:32:24.273Z
 tags:
   - win11
   - win10
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -58,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -79,9 +78,23 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
@@ -109,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
@@ -137,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -164,6 +170,13 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -177,13 +190,6 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -205,21 +211,20 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-downloads-for-mac-easy-steps-included-for-2024/"><u>[New] Snapchat Downloads for Mac - Easy Steps Included for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-soundwaves-unleashed-essential-hits-of-viral-tiktok-rappers/"><u>[Updated] In 2024, Soundwaves Unleashed Essential Hits of Viral TikTok Rappers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-deep-dive-into-the-best-ways-to-speed-up-facebook-videos/"><u>2024 Approved Deep Dive Into The Best Ways to Speed Up Facebook Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-review-of-advanced-parrot-ar-drone/"><u>2024 Approved Expert Review of Advanced Parrot AR Drone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bridge-the-communication-gap-tips-for-epson-users/"><u>Bridge the Communication Gap: Tips for Epson Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bright-ideas-in-film-setup-secrets-to-perfect-lighting-for-2024/"><u>Bright Ideas in Film Setup Secrets to Perfect Lighting for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-for-overcoming-a-halted-vpn-hamachi-service-error/"><u>Expert Advice for Overcoming a Halted VPN Hamachi Service Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-printer-driver-not-found-error-on-windows-a-comprehve-solution/"><u>Fixing 'Printer Driver Not Found' Error on Windows - A Comprehve Solution</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-targus-displaylink-drivers-for-your-windows-pc-quick-and-easy-guide/"><u>Get the Newest Targus DisplayLink Drivers for Your Windows PC - Quick and Easy Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y02t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y02T?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-displays-without-touchscreen-or-physical-keyboard-support/"><u>Troubleshooting Displays Without Touchscreen or Physical Keyboard Support</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-consumption-by-msmpengexe-on-windows-10-completed/"><u>Troubleshooting High CPU Consumption by MsMpEng.exe on Windows 10 [COMPLETED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-the-deadlock-victim-windows-blue-screen-of-death-error-0xc00000e9/"><u>Troubleshooting Tips to Fix the Deadlock Victim Windows Blue Screen of Death (Error 0xC00000E9)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-codegpt-ais-role-in-software-creation/"><u>Understanding CodeGPT: AI’s Role in Software Creation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/upgrading-effortlessly-with-a-focus-on-key-lens-features-for-2024/"><u>Upgrading Effortlessly with a Focus on Key Lens Features for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-version-1607-issues-with-feature-update-installation-process/"><u>Windows 10 Version 1607: Issues with Feature Update Installation Process</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-garmins-innovative-ultra-30-review-full-capabilities-examined-for-2024/"><u>[New] Garmin's Innovative Ultra 30 Review Full Capabilities Examined for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-steps-to-transform-iphone-7-into-a-recorder-for-2024/"><u>[Updated] Easy Steps to Transform iPhone 7 Into a Recorder for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-the-financial-framework-of-youtubes-burgeoning-shorts-fund-for-2024/"><u>[Updated] Exploring the Financial Framework of YouTube's Burgeoning Shorts Fund for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>[Updated] Youtube to Animated GIFs Conversion Guide Online Tutorial for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trpmp4trp/"><u>【TRPファイル圧縮】MP4及び他の形式に対応したTRP動画変換ソリューション</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-8-dvd/"><u>詳しく学ぶ： Windows 8 における DVD 再生テクニック、代替ルートを発見！</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-for-extracting-dual-and-multi-archive-files/"><u>Comprehensive Tutorial for Extracting Dual and Multi-Archive Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nubia-red-magic-8s-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nubia Red Magic 8S Pro Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 7 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sony-bdp-s6500-review-updated-for-2024/"><u>Sony BDP-S6500 Review - Updated for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforming-flv-files-into-mp4-format-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Transforming FLV Files Into MP4 Format: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triad-of-fixes-overcoming-mkv-streaming-hurdles-on-apple-tv/"><u>Triad of Fixes: Overcoming MKV Streaming Hurdles on Apple TV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-for-installing-fen-video-addon-in-kodi-optimized-for-nexus-and-matrix-systems/"><u>Ultimate Tutorial for Installing Fen Video Addon in Kodi – Optimized for Nexus & Matrix Systems</u></a></li>
 </ul></div>
 

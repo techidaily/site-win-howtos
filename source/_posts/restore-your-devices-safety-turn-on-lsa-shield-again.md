@@ -1,7 +1,7 @@
 ---
 title: Restore Your Device's Safety - Turn On LSA Shield Again!
-date: 2024-09-15T20:52:53.518Z
-updated: 2024-09-17T21:01:31.777Z
+date: 2024-10-12T02:02:00.327Z
+updated: 2024-10-16T03:39:18.358Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update your drivers
 
  A missing or outdated device driver may also stop your game from running. You should update your device drivers, especially your graphics card and chipset drivers, and see if this is causing your game to freeze.
@@ -73,23 +80,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66889b860.png)
 3. **Select** all files in the Temp folder and**delete** them.  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66cf0cc78.jpg)
 4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Run a memory check
 
@@ -99,19 +100,25 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67ec5aba2.png)
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Adjust the size of your virtual memory
 
@@ -125,22 +132,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6db7a7b90.jpg)
 3. From the**Advanced** tab, click**Change…**  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
@@ -151,6 +144,19 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 6: Run System File Checker
 
  Your “computer freezes during gameplay” issue may also be caused by system file corruption. You can run System File Checker and see if there are any system files missing or corrupted. If there are any, the**sfc /scannow** command (System File Checker) will repair them.
@@ -160,16 +166,36 @@ OR
 2. Type **sfc /scannow** and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7493ccb0a.jpg)
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 7: Check for viruses and malware
 
@@ -198,5 +224,18 @@ Enjoy your game!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-viral-potential-in-digital-content-creation/"><u>[New] In 2024, Unlocking Viral Potential in Digital Content Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>[Updated] Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-efficient-chroma-removal-in-kinemaster/"><u>2024 Approved Efficient Chroma Removal in KineMaster</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-keyboard-shortcuts-why-winplusshiftpluss-is-unresponsive-in-windows-11-and-10/"><u>Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-the-component-object-model-surrogate-stopped/"><u>How to Resolve When the 'Component Object Model Surrogate Stopped'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-storage-a-guide-to-overcoming-insufficient-resources-for-command-execution/"><u>Optimizing System Storage: A Guide to Overcoming 'Insufficient Resources for Command Execution'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-your-echo-dots-pairing-mode/"><u>Step-by-Step Guide: Activating Your Echo Dot's Pairing Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-truth-about-deleting-stock-applications-installed-with-iphones/"><u>The Truth About Deleting Stock Applications Installed with iPhones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-learn-croatian-unveil-the-top-7-compelling-benefits/"><u>Why Learn Croatian? Unveil the Top 7 Compelling Benefits!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205764869-windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time</u></a></li>
+</ul></div>
 

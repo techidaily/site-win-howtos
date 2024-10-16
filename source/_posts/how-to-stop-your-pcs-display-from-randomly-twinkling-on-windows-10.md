@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your PC's Display From Randomly Twinkling on Windows 10
-date: 2024-10-05T18:48:16.002Z
-updated: 2024-10-09T21:08:49.525Z
+date: 2024-10-14T04:12:37.150Z
+updated: 2024-10-15T21:44:19.776Z
 tags:
   - win11
   - win10
@@ -43,21 +43,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -65,15 +51,16 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
@@ -86,6 +73,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -103,8 +98,24 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -119,21 +130,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -156,10 +160,16 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -185,24 +195,24 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[New] In 2024, The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-investigating-the-prowess-of-splitcam-cameras-for-2024/"><u>[New] Investigating the Prowess of SplitCam Cameras for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-craft-professional-scenes-access-these-top-8-free-green-screen-backdrops-sites/"><u>[Updated] 2024 Approved Craft Professional Scenes - Access These Top 8 Free Green Screen Backdrops Sites</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-shortcuts-for-efficient-mac-screen-recording-for-2024/"><u>[Updated] Essential Shortcuts for Efficient Mac Screen Recording for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>[Updated] Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-your-airpods-to-windows-11-successfully-latest-tips-and-tricks/"><u>Connect Your AirPods to Windows 11 Successfully - Latest Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-usb-trouble-overcome-unknown-usb-device-descr-request-failed-quickly/"><u>Decode USB Trouble: Overcome 'Unknown USB Device (Descr.) Request Failed' Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-d3d-driver-setup-and-activation-a-comprehensive-guide/"><u>Fixing Issues with D3D Driver Setup and Activation: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-popularity-on-youtube-jake-pauls-story-unfolded-for-2024/"><u>Insta-Popularity on Youtube Jake Paul’s Story Unfolded for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-youtube-audio-rendering-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the YouTube Audio Rendering Issue in Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209552427-solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-sound-speeds-in-spotify-without-compromise-for-2024/"><u>Streamlining Sound Speeds in Spotify Without Compromise for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ier-mics-for-online-presenters/"><u>Top-Tier Mics for Online Presenters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-unknown-usb-device-descriptor-request-failure-issues-easily/"><u>Troubleshooting Guide: Resolve 'Unknown USB Device - Descriptor Request Failure' Issues Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-opengl-glitches-in-minecraft-expert-tips-and-tricks/"><u>Troubleshooting OpenGL Glitches in Minecraft: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-parameter-is-incorrect-mistake-overcoming-loadlibrary-error-87/"><u>Troubleshooting the 'Parameter Is Incorrect' Mistake - Overcoming LoadLibrary Error 87</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-vidsnapper-live-and-group-videos-fb/"><u>[New] 2024 Approved VidSnapper Live and Group Videos, FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-link-it-up-sharing-youtube-on-ig-snapshots/"><u>[Updated] In 2024, Link It Up! Sharing YouTube on IG Snapshots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-livestream-tactics-best-practices-for-cricket-viewers/"><u>[Updated] Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5pig5yop44o76zplusz5qw944gu5bcc6zaa55so6kqe6l6e5yw444cn/"><u>「映像・音楽の専門用語辞典」</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728467750136-onedrive/"><u>「マイドキュメントのバックアップを簡単にOneDrive上へ」</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-is-it-possible-to-watch-fb-videos-on-tv/"><u>2024 Approved Is It Possible to Watch FB Videos on TV ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030045799-isovob/"><u>高画質なままISOからVOB変換：最適な方法とコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026703106-720p1080p/"><u>高解像度への移行 - 720Pビデオを1080pにアップコンバートする手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026518358-wonderfox/"><u>現在ある限り、WonderFoxで受けられるオンライン上の専門知識と最新ニュース</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028255517-android/"><u>Androidでの音楽再生がうまくいかない時、その理由と解決策を詳しく見てみよう</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-traffic-with-effective-tools-for-youtube-videos-for-2024/"><u>Boost Traffic with Effective Tools for YouTube Videos for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-the-lenovo-yoga-a940-in-depth-product-assessment-and-recommendation/"><u>Expert Insights on the Lenovo Yoga A940 – In-Depth Product Assessment and Recommendation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/getting-the-most-out-of-budget-cameras-an-insightful-review-on-rexing-v1-dash-cam/"><u>Getting the Most Out of Budget Cameras: An Insightful Review on Rexing V1 Dash Cam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>In 2024, The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transform-your-love-game-top-tips-for-irresistible-tinder-profiles-for-2024/"><u>Transform Your Love Game Top Tips for Irresistible Tinder Profiles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028571800-5/"><u>ビデオ撮影者が選ぶ5つのおすすめ動画文字化シーンアプリ - 見やすく、使い勝手良し！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
 </ul></div>
 

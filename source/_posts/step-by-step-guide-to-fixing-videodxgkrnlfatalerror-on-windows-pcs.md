@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fixing Video_Dxgkrnl_Fatal_Error on Windows PCs
-date: 2024-10-07T18:34:40.372Z
-updated: 2024-10-09T17:23:14.076Z
+date: 2024-10-10T05:15:20.740Z
+updated: 2024-10-15T20:38:55.739Z
 tags:
   - win11
   - win10
@@ -42,22 +42,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -68,10 +61,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -92,13 +85,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -109,20 +95,43 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -160,19 +169,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-your-first-venture-into-hosting-effective-zoom-webinars/"><u>[Updated] In 2024, Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-broadcast-your-music-mp3-conversion-and-upload-on-youtube/"><u>2024 Approved Broadcast Your Music MP3 Conversion and Upload on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-increase-your-instagram-audience/"><u>Effective Techniques to Increase Your Instagram Audience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-how-to-troubleshoot-and-fix-a-non-functional-ps4-mic/"><u>Expert Guide: How to Troubleshoot and Fix a Non-Functional PS4 Mic</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-usb-mouse-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Solutions for Your Laptop Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-display-driver-has-recovered-message-on-your-screen/"><u>Fixing the 'Display Driver Has Recovered' Message on Your Screen</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-hp-scanjet-drivers-on-your-windows-computer-windows-10-87/"><u>How to Successfully Update HP Scanjet Drivers on Your Windows Computer (Windows 10, 8/7)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-adapt-images-to-any-size-on-your-iphone-instantly/"><u>In 2024, Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-poco-x5-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Poco X5 Pro Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-solution-trouble-free-dvd-viewing-for-your-windows-system/"><u>Master the Solution: Trouble-Free DVD Viewing for Your Windows System</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/revolutionize-your-online-presence-with-manycam-the-ultimate-virtual-webcam-software-for-live-broadcasting/"><u>Revolutionize Your Online Presence with ManyCam - The Ultimate Virtual Webcam Software for Live Broadcasting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-a-warframe-game-patch-installation-error/"><u>Troubleshooting Tips: Resolving a Warframe Game Patch Installation Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chart-topping-video-content-on-youtube/"><u>[New] 2024 Approved Chart-Topping Video Content on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-craft-the-perfect-twitch-livestream-experience-5-must-try-methods-for-2024/"><u>[New] Craft the Perfect Twitch Livestream Experience 5 Must-Try Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ideal-web-microphone-solutions-for-2024/"><u>[Updated] Ideal Web Microphone Solutions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>[Updated] Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-blocked-pages-expert-tips-for-overcoming-http-403-barriers/"><u>Bypassing Blocked Pages: Expert Tips for Overcoming HTTP 403 Barriers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-your-professional-space-setting-up-an-account-on-ig/"><u>Crafting Your Professional Space Setting Up an Account on IG</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-uninterrupted-mlb-the-show-21-with-server-issues-sorted-out/"><u>Enjoy Uninterrupted MLB The Show 21 with Server Issues Sorted Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-simple-methods-to-correct-steam-cannot-write-to-disk/"><u>Guide: Simple Methods to Correct 'Steam Cannot Write to Disk'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-lenovo-mouse-pad-malfunctioning-across-windows-11-8-and-7-platforms-guide/"><u>How to Fix Lenovo Mouse Pad Malfunctioning Across Windows 11, 8, and 7 Platforms [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-in-windows-10/"><u>How to Fix svchost.exe Consuming Too Much CPU in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-surface-tablet-wont-charge-solved/"><u>How to Fix: Surface Tablet Won't Charge – Solved!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-14-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Plus Without a Home Button</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolution-guide-fixing-the-nvidia-geforce-experience-e0x0003-error/"><u>Resolution Guide: Fixing the NVIDIA GeForce Experience E_0x0003 Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-print-to-pdf-problems-for-windows-11-users/"><u>Resolving Microsoft Print to PDF Problems for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-interruptions-in-your-logitech-g930-a-comprehensive-guide/"><u>Resolving Sound Interruptions in Your Logitech G930 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-fix-windows-1011-malfunctioning-acer-inputs/"><u>Tech Fix: Windows 10/11, Malfunctioning Acer Inputs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-k11x-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo K11x without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser-for-2024/"><u>Unveiling Clearer Photos A Guide to Picsart's Bg Eraser for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device</u></a></li>
 </ul></div>
 

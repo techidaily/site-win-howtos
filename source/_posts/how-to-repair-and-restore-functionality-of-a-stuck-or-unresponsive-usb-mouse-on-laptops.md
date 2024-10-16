@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Restore Functionality of a Stuck or Unresponsive USB Mouse on Laptops
-date: 2024-10-03T22:34:12.593Z
-updated: 2024-10-09T20:42:59.996Z
+date: 2024-10-11T00:31:13.347Z
+updated: 2024-10-16T04:26:08.791Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for physical issues
 
 Depending on which mouse isn’t working:
@@ -51,10 +44,10 @@ Depending on which mouse isn’t working:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try the function keys
@@ -78,13 +71,6 @@ Depending on which mouse isn’t working:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: **Update your device drivers**
 
  This mouse frozen on laptop problem may also occur if you’re using the wrong or outdated mouse drivers. So you should update your mouse driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -103,9 +89,23 @@ Depending on which mouse isn’t working:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b569e2129fd3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **mouse frozen on laptop** issue is resolved. If yes, then congrats! But if the issue remains, you should try**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -130,13 +130,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -158,6 +151,13 @@ Here’s how to use Fortect to repair system files on your PC:
  2) In the command prompt window, type **sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -184,22 +184,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-balancing-act-tripod-use-for-stable-vlogging-for-2024/"><u>[New] Balancing Act Tripod Use for Stable Vlogging for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlocking-youtubes-potential-a-detailed-guide-on-tracking-earnings-and-audiences-for-2024/"><u>[New] Unlocking YouTube's Potential A Detailed Guide on Tracking Earnings and Audiences for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-evaluating-the-financial-returns-for-makers-on-youtube-shorts-for-2024/"><u>[Updated] Evaluating the Financial Returns for Maker's on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-clockdate-shows-in-window-11/"><u>Customizing How Clock/Date Shows in Window 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-network-configuration-fixed-now-running-smoothly/"><u>Dragon Ball FighterZ Network Configuration Fixed - Now Running Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-scroll-functionality-of-your-touchpad-in-windows-11-solved/"><u>Enhance Scroll Functionality of Your Touchpad in Windows 11 (Solved)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-fix-resetting-your-computer-failed-error-messages-on-windows-11/"><u>Guide: Fix 'Resetting Your Computer Failed' Error Messages on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-no-cash-only-computers-recording-youtube-video-playback-for-screenshots/"><u>In 2024, No Cash, Only Computers Recording YouTube Video Playback for Screenshots</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 9 Pro Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/move-magic-mp3-transcoder-facili-trasformatori-multimediale-per-i-tuoi-file-audio/"><u>Move Magic MP3 Transcoder - Facili Trasformatori Multimediale per I Tuoi File Audio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-wmvflv-movavi/"><u>ONLINE에서 WMV/FLV 형식으로 편집하기: 무료 구성 및 스타일 변경 - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-out-of-memory-challenges-in-red-dead-redemption-2-tips-for-tweaking-the-page-file/"><u>Overcoming 'Out of Memory' Challenges in Red Dead Redemption 2 - Tips for Tweaking the Page File</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/0-funniest-youtube-shorts-video-ideas/"><u>The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-troubleshooting-tips-for-resolving-binkw32dll-errors/"><u>The Ultimate Troubleshooting Tips for Resolving binkw32.dll Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-xbox-elite-wireless-controller-problems-full-tutorial/"><u>Troubleshooting and Repairing Xbox Elite Wireless Controller Problems - Full Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-windows-resource-protection-wrp-operations/"><u>Troubleshooting Common Issues with Windows Resource Protection (WRP) Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-crashes-due-to-faulty-video-card-drivers-in-windows-a-comprehhemed-solution/"><u>Troubleshooting Minecraft Crashes Due to Faulty Video Card Drivers in Windows: A Comprehhemed Solution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>[New] 2024 Approved A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[Updated] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-instantly-recover-lost-reddit-posts/"><u>2024 Approved How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/better-mouse-control-solving-random-disconnections-for-windows-11-and-10-users/"><u>Better Mouse Control: Solving Random Disconnections for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/comparing-the-latest-iphones-key-distinctions-between-iphone-14-pro-and-iphone-15-pro/"><u>Comparing the Latest iPhones: Key Distinctions Between iPhone 14 Pro and iPhone 15 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-a-step-by-step-guide/"><u>Fixing Unresponsive Touchpad Scroll Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-past-the-stuck-windows-update-phenomenon-at-100-with-proven-solutions/"><u>Get Past the Stuck Windows Update Phenomenon at 100% with Proven Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-inadequate-system-resources-a-comprehensive-guide-to-resolution/"><u>Handling 'Inadequate System Resources' - A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-freezing-at-98-or-100-solution-now/"><u>How to Fix Windows Update Freezing at 98% or 100% - SOLUTION NOW!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-11-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus 11 5G FRP Without Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cut-costs-not-quality-get-final-cut-pro-with-education-discounts/"><u>New Cut Costs, Not Quality Get Final Cut Pro with Education Discounts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-skyrims-perpetual-loading-hurdle-with-these-steps/"><u>Overcome Skyrim's Perpetual Loading Hurdle with These Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-12-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme 12 Pro+ 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-sticky-windows-keyboard-buttons/"><u>Troubleshooting & Fixes for Sticky Windows Keyboard Buttons</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-vibes-the-best-bgm-to-complement-your-yt-short-creations-for-2024/"><u>Viral Vibes The Best BGM to Complement Your YT Short Creations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winkernel-critical-error-41-resolved-in-minutes/"><u>WinKernel Critical Error 41 - Resolved in Minutes</u></a></li>
 </ul></div>
 

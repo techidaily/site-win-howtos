@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 11/10 Wireless Mouse Disconnection Problems Quickly
-date: 2024-10-02T19:14:15.800Z
-updated: 2024-10-09T19:35:43.326Z
+date: 2024-10-13T20:04:44.029Z
+updated: 2024-10-15T23:45:38.712Z
 tags:
   - win11
   - win10
@@ -60,13 +60,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
@@ -80,10 +73,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
@@ -91,10 +84,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
@@ -102,13 +95,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
@@ -124,16 +110,16 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Re-enable microphone in Device Manager
 
@@ -147,20 +133,33 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
@@ -183,6 +182,13 @@ Now check to see your mic is back on track.
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -207,19 +213,20 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-extracting-visuals-in-windows-11-photos/"><u>[New] Extracting Visuals in Windows 11 Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-essential-knowledge-for-youtubes-minute-melodies-for-2024/"><u>[Updated] Essential Knowledge for YouTube's Minute Melodies for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tips-to-transform-your-videos-into-social-media-stars/"><u>[Updated] Tips to Transform Your Videos Into Social Media Stars</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-the-time-before-next-login-attempt-on-failure/"><u>Changing the Time Before Next Login Attempt on Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehending-xinput13dll-purpose-and-fixes-for-missing-file/"><u>Comprehending XINPUT1_3.dll: Purpose and Fixes for Missing File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-photo-management-on-windows-11-correcting-invalid-registry-settings/"><u>Error-Free Photo Management on Windows 11: Correcting Invalid Registry Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-a-non-detectable-hard-drive-problem-a-comprehensive-solution/"><u>How to Address a Non-Detectable Hard Drive Problem - A Comprehensive Solution</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-14-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 14 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-macs-premier-video-to-mp4-converters-guide/"><u>In 2024, Mac's Premier Video to MP4 Converters Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>Instagram Cinematic Influence Building a Powerful Video Marketing Strategy</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamlessly-change-caf-audio-tracks-to-mp3-guides-for-mac-users-windows-operating-system-and-web-services/"><u>Seamlessly Change CAF Audio Tracks to MP3: Guides for Mac Users, Windows Operating System, and Web Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-11/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211961468-the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enhanced-collaboration-through-top-tier-backgrounds/"><u>[New] Enhanced Collaboration Through Top-Tier Backgrounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-brightness-control-not-working/"><u>[Solved] Windows 10 Brightness Control Not Working</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-master-social-media-youtube-to-facebook-links/"><u>[Updated] 2024 Approved Master Social Media YouTube to Facebook Links</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>2024 Approved Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 12 mini? How to Fix it?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-critical-failure-solved-overcoming-the-unrecoverable-error-dilemma/"><u>DirectX Critical Failure Solved: Overcoming the Unrecoverable Error Dilemma</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-adapting-your-iphone-for-different-locations-by-changing-regions/"><u>Expert Advice: Adapting Your iPhone for Different Locations by Changing Regions</u></a></li>
+<li><a href="https://games-able.techidaily.com/founders-edition-vs-aib-which-gpu-model-is-right-for-you/"><u>Founders Edition Vs. AIB: Which GPU Model Is Right for You?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-dark-to-light-wow-shines-with-complete-3d-acceleration/"><u>From Dark to Light: WoW Shines with Complete 3D Acceleration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-latency-issues-with-your-keyboard-on-windows-10/"><u>How to Overcome Latency Issues with Your Keyboard on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-the-disabled-intel-rst-service-on-your-windows-11-pc/"><u>How to Reactivate the Disabled Intel RST Service on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>In 2024, The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-chrome-plugin-failed-to-load-issue-in-windows-10/"><u>Resolved: Fixing the 'Chrome Plugin Failed to Load' Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-management/"><u>Understanding msdia80.dll: Importance and Management</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-itel-p40-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Itel P40 password or pattern lock</u></a></li>
 </ul></div>
 

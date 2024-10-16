@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Windows 11 Sluggish Closure: A Step-by-Step Guide"
-date: 2024-10-04T19:50:59.183Z
-updated: 2024-10-09T22:52:07.386Z
+date: 2024-10-13T22:28:42.940Z
+updated: 2024-10-16T07:28:36.942Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -51,25 +58,11 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -80,13 +73,36 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 2. Locate and double-click on**Windows Audio** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -97,27 +113,7 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -137,20 +133,20 @@ Here’s how:
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -177,21 +173,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-enhancing-content-reach-keeping-creative-commons-engagement-high/"><u>[New] In 2024, Enhancing Content Reach Keeping Creative Commons Engagement High</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[Updated] Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[Updated] Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-speedy-techniques-for-converting-srt-files-into-text-format/"><u>2024 Approved Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-pathway-to-load-moviemaker-6/"><u>Comprehensive Pathway to Load Moviemaker 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-the-unretrievable-preferences-issue-on-geforce-experience/"><u>Diagnosing and Solving the 'Unretrievable Preferences' Issue on GeForce Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-detox-balancing-gaming-with-real-world-fun/"><u>Digital Detox: Balancing Gaming with Real-World Fun</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211038452-explorer-down-restore-it-now/"><u>Explorer Down? Restore It Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-video-platforms-vimeo-and-youtube/"><u>In 2024, Analyzing Video Platforms Vimeo and YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>In 2024, SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-darkness-how-to-correctly-fix-a-black-screen-in-google-chrome/"><u>Overcoming the Darkness: How to Correctly Fix a Black Screen in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-resolve-safari-cant-load-webpage-issues/"><u>Quick Solutions: How to Resolve 'Safari Can't Load Webpage' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-keyboard-malfunctions-during-system-boot-up/"><u>Resolved: Keyboard Malfunctions During System Boot-Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-for-inaccessible-write-operation-in-specific-memory-space-hex-reference/"><u>Solution Found for Inaccessible Write Operation in Specific Memory Space (Hex Reference)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-from-zero-to-hero-the-best-3d-video-makers-for-any-skill-level/"><u>Updated In 2024, From Zero to Hero The Best 3D Video Makers for Any Skill Level</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-accessing-windows-security-features-like-smartscreen-is-temporarily-hindered/"><u>What to Do When Accessing Windows Security Features, Like SmartScreen, Is Temporarily Hindered</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-engineering-captivating-video-teasers-for-online-presence/"><u>[New] In 2024, Engineering Captivating Video Teasers for Online Presence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-securing-your-gaming-memories-without-game-bar/"><u>[New] In 2024, Securing Your Gaming Memories Without Game Bar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-the-error-when-steam-writes-to-disks/"><u>Guide to Correcting the Error When Steam Writes to Disks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-to-develop-a-regular-meditation-habit/"><u>How to Use ChatGPT to Develop a Regular Meditation Habit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-a60-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel A60 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-look-unlocking-the-potential-of-m1-max-clip/"><u>In 2024, Inside Look Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-mastering-video-editing-techniques-in-windows-11/"><u>Step-by-Step Guide: Mastering Video Editing Techniques in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-quick-conversion-from-aiffaif-to-flac-without-quality-loss/"><u>Step-by-Step Tutorial for Quick Conversion From AIFF/AIF to FLAC without Quality Loss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enable-offline-accessibility-on-your-youtube-content/"><u>Step-by-Step Tutorial: Enable Offline Accessibility on Your YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-how-to-seamlessly-convert-ogg-to-wav-without-cost-top-solutions/"><u>The Ultimate Guide: How to Seamlessly Convert OGG to WAV Without Cost - Top Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-10-free-asmr-audio-files-expert-guide-on-quality-sources-and-secure-download-tips/"><u>Top 10 Free ASMR Audio Files : Expert Guide on Quality Sources & Secure Download Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-9-tips-and-tricks-for-resolving-errors-in-adobe-premiere-pro/"><u>Top 9 Tips and Tricks for Resolving Errors in Adobe Premiere Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-3gp-to-avc-converter-software-for-pc-users/"><u>Top Rated 3GP to AVC Converter Software for PC Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

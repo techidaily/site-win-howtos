@@ -1,7 +1,7 @@
 ---
 title: Angiogenesis and Invasion
-date: 2024-10-02T16:10:17.698Z
-updated: 2024-10-09T19:48:49.553Z
+date: 2024-10-13T22:44:14.918Z
+updated: 2024-10-15T16:36:08.032Z
 tags:
   - win11
   - win10
@@ -32,48 +32,54 @@ Before you try the solutions below, please check these several things as it can 
 
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your microphone and other related driver
 
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
-4) Restart your computer and call the person on Hangouts again to see if he can hear you.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
@@ -97,16 +103,18 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-analysis-highest-quality-video-snappers/"><u>[Updated] In 2024, Expert Analysis Highest Quality Video Snappers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-seamless-transition-fb-video-sharing-via-whatsapp/"><u>[Updated] Seamless Transition FB Video Sharing via WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battleye-installation-issue-solved-quick-fix-guide/"><u>BattlEye Installation Issue Solved: Quick Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-repair-restoring-function-to-malfunctioning-hp-keyboard/"><u>Effortless Repair: Restoring Function to Malfunctioning HP Keyboard</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-maximizing-your-network-with-tp-link-ac1200-wifi-extender-re3-305/"><u>Expert Review: Maximizing Your Network with TP-Link AC1200 WiFi Extender RE3 305</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-apowersoft-free-screen-recorder-review-and-alternative/"><u>In 2024, Apowersoft Free Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y200-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y200 Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g14-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G14 Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-quality-hero5-black-battery-packs-legit-and-third-party-options-for-2024/"><u>Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-nonfunctional-lenovo-laptop-camera-expert-advice/"><u>Troubleshooting a Nonfunctional Lenovo Laptop Camera - Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208380318-windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-troubleshooting-my-minecraft-servers-lan-issues/"><u>Getting Back on Track: Troubleshooting My Minecraft Server’s LAN Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-convert-youtube-views-into-cash-through-ads-for-2024/"><u>How to Convert YouTube Views Into Cash Through Ads for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205381280-how-to-fix-windows-7-update-stuck-2024-tips/"><u>How to Fix Windows 7 Update Stuck - 2024 Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-10-proplus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 10 Pro+ 5G PC | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-leap-forward-wireless-woes-end/"><u>Logitech's Leap Forward: Wireless Woes End</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-reactivate-intrinsic-local-security-functionality/"><u>Resolved: Reactivate Intrinsic Local Security Functionality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ting-gear-for-youtube-a-filmmakers-essentials/"><u>Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205981019-success-story-how-i-fixed-a-continuous-steam-update-glitch-easily/"><u>Success Story: How I Fixed a Continuous Steam Update Glitch Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-remedies-overcoming-the-chrome-screen-turned-pitch-black/"><u>Unveiling Remedies: Overcoming the Chrome Screen Turned Pitch Black</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>Updated Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
 </ul></div>
 

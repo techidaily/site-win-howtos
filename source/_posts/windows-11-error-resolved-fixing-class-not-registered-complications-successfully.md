@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Error Resolved: Fixing 'Class Not Registered' Complications Successfully"
-date: 2024-10-02T18:36:44.491Z
-updated: 2024-10-09T23:07:19.906Z
+date: 2024-10-09T18:06:34.558Z
+updated: 2024-10-15T16:02:47.317Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -103,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -131,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -138,22 +131,15 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -161,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -171,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -194,6 +187,19 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -232,19 +238,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-exploring-fantasy-realms-best-vr-games-across-devices/"><u>[New] Exploring Fantasy Realms Best VR Games Across Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-producing-teaser-videos-with-a-twist/"><u>[New] Producing Teaser Videos with a Twist</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[Updated] 2024 Approved Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-stylish-shots-top-trending-instagram-filters/"><u>[Updated] In 2024, Stylish Shots Top Trending Instagram Filters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-bring-your-video-to-life-from-standard-to-hdri-excellence/"><u>2024 Approved Bring Your Video to Life From Standard to HDRI Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-android-videography-techniques/"><u>2024 Approved Luminous Android Videography Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-intel-management-engine-drivers-windows-compatible/"><u>Easy Guide to Downloading and Installing Intel Management Engine Drivers - Windows Compatible</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-failed-to-update-messages-in-warframe-now-resolved/"><u>Expert Solutions to 'Failed to Update' Messages in Warframe – Now Resolved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-non-responsive-huion-pen-instantly-with-these-5-tips/"><u>Fix Your Non-Responsive Huion Pen Instantly with These 5 Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-languages-effortlessly-how-chatgpt-serves-as-your-personal-translation-assistant/"><u>Navigating Languages Effortlessly: How ChatGPT Serves as Your Personal Translation Assistant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-for-restoring-function-keys-in-dell-laptops-tips-tricks-and-solutions/"><u>The Ultimate Guide for Restoring Function Keys in Dell Laptops: Tips, Tricks & Solutions.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208040703-troubleshoot-and-repair-resolving-keyboard-problems-on-hp-computers-fast/"><u>Troubleshoot & Repair: Resolving Keyboard Problems on HP Computers Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wwe-2k-fixing-and-understanding-the-issue-with-the-dx11-feature-level-100-problem/"><u>WWE 2K: Fixing and Understanding the Issue with the DX11 Feature Level 10.0 Problem</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digitally-liberated-fb-tunes/"><u>[Updated] In 2024, Digitally Liberated FB Tunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-problem-on-youtube-for-windows-11-heres-how-you-can-solve-it/"><u>Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bid-farewell-to-glitches-a-full-scale-strategy-for-solving-fifa-2-crashes-on-desktop-systems/"><u>Bid Farewell to Glitches: A Full-Scale Strategy for Solving FIFA 2# Crashes on Desktop Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-correcting-the-your-device-has-been-lost-glitch-in-overwatch-gameplay/"><u>Expert Advice for Correcting the 'Your Device Has Been Lost' Glitch in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-registering-class-files-in-windows-11-overcoming-common-hurdles/"><u>Guide to Registering Class Files in Windows 11 – Overcoming Common Hurdles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-a05s-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel A05s Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-obstacle-a-step-by-step-solution-for-error-code-0x80070643/"><u>Overcoming Window's Update Obstacle: A Step-by-Step Solution for Error Code 0X80070643</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-network-unavailable-error-on-windows-devices/"><u>Remedying 'Network Unavailable' Error on Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211494794-resolved-unplanned-automatic-reboots-on-windows-10-fixed/"><u>Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-creative-labs-sound-blaster-zxr-a-solid-choice-for-gamers-in-201n/"><u>Reviewing the Creative Labs Sound Blaster ZxR - A Solid Choice for Gamers in 201N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-windows-could-not-connect-to-system-event-notification-errors/"><u>Solution Steps: Fixing 'Windows Could Not Connect to System Event Notification' Errors</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-guide-5-free-techniques-to-shrink-your-mkv-videos-down-to-size/"><u>Ultimate Guide: 5 FREE Techniques to Shrink Your MKV Videos Down to Size</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic 5 Lite | Dr.fone</u></a></li>
 </ul></div>
 

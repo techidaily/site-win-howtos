@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Correcting Windows Update Failure with Error Code 0X8024402C - Learn How Here
-date: 2024-10-02T16:57:32.411Z
-updated: 2024-10-09T21:15:15.241Z
+date: 2024-10-08T21:48:15.322Z
+updated: 2024-10-16T05:03:18.425Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -71,6 +71,13 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -91,6 +98,13 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -98,13 +112,6 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -115,13 +122,6 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -137,15 +137,22 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -153,13 +160,6 @@ If the fixes above didn’t serve you, try this one.
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -202,22 +202,19 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-text-to-titles-an-in-depth-guide-to-srt-conversion/"><u>[New] From Text to Titles An In-Depth Guide to SRT Conversion</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-enabling-and-displaying-bluetooth-drivers-via-device-manager/"><u>Guide: Enabling and Displaying Bluetooth Drivers via Device Manager</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-msvcr71dll-is-missing-or-cannot-be-found-errors-in-windows-systems/"><u>How to Correctly Handle 'Msvcr71.dll Is Missing or Cannot Be Found' Errors in Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-reorient-an-inverted-laptop-display-back-to-normal/"><u>How To Correctly Reorient An Inverted Laptop Display Back To Normal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-correct-the-troublesome-0x80072efd-error-encountered-in-windows-10/"><u>How to Easily Correct the Troublesome 0X80072EFD Error Encountered in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-fn-keys-a-guide-for-asus-notebook-users/"><u>How to Repair Unresponsive Fn Keys: A Guide for ASUS Notebook Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-error-0x80070426-on-your-windows-11-system-efficiently/"><u>How to Resolve the 'Error 0X80070426' On Your Windows 11 System Efficiently</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-13c-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi 13C 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-cursor-problems-on-windows-11-solutions-inside/"><u>Troubleshooting the Invisible Mouse Cursor Problems on Windows 11 – Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Tips: Resolving HP Laptop Webcam Issues on Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tutorial-pratico-risolvi-i-problemi-di-riproduzione-del-codec-hevc-sulle-versioni-piu-recenti-di-windows-os/"><u>Tutorial Pratico - Risolvi I Problemi Di Riproduzione Del Codec HEVC Sulle Versioni Più Recenti Di Windows OS</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-tutorial-incorporating-watermarked-text-and-graphics-into-your-pdf-documents-latest-update/"><u>Ultimate Tutorial: Incorporating Watermarked Text and Graphics Into Your PDF Documents, Latest Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win10-tackling-excessive-cpu-waste/"><u>Win10: Tackling Excessive CPU Waste</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-bandicam-unveiled-a-thorough-examination-of-its-recording-capabilities/"><u>[New] In 2024, Bandicam Unveiled A Thorough Examination of Its Recording Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-channeling-tweets-to-facebook-viewers-efficiently/"><u>[New] In 2024, Channeling Tweets to Facebook Viewers Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsmp4/"><u>高速化・大量データのMTSからMP4への変換テクニック - 効率的な方法を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ppt-gifpowerpoint/"><u>迅速なPPT GIF変換：PowerPoint使い方ビデオテックニック</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-execution-hiccups-in-malwarebytes-for-windows-1110-pcs/"><u>Fixing Execution Hiccups in Malwarebytes for Windows 11/10 PCs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pitch-perfect-promos-mastering-the-art-of-music-in-social-media/"><u>In 2024, Pitch-Perfect Promos Mastering the Art of Music in Social Media</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-meta-ai-a-step-forward-or-back-for-social-networks/"><u>Is Meta AI a Step Forward or Back for Social Networks?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-orientation-changes-tips-for-quickly-rotating-clips-in-media-player-classic/"><u>Mastering Video Orientation Changes: Tips for Quickly Rotating Clips in Media Player Classic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-guide-fast-dvd-ripping-with-windows/"><u>Quick & Easy Guide: Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-through-your-dvd-duplication-process-on-windows-1011/"><u>Quick Guide: Speeding Through Your DVD Duplication Process on Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-smooth-video-extraction-via-funimate-for-2024/"><u>The Ultimate Guide to Smooth Video Extraction via Funimate for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsm2ts-wmv/"><u>フリーソフトで MTS/M2TS から WMV への変換手順</u></a></li>
 </ul></div>
 

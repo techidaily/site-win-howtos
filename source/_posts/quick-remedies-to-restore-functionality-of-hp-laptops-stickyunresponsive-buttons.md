@@ -1,7 +1,7 @@
 ---
 title: Quick Remedies to Restore Functionality of HP Laptop's Sticky/Unresponsive Buttons
-date: 2024-10-03T17:49:37.161Z
-updated: 2024-10-09T16:11:24.517Z
+date: 2024-10-10T00:27:00.156Z
+updated: 2024-10-16T02:06:23.117Z
 tags:
   - win11
   - win10
@@ -35,28 +35,15 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -77,35 +64,23 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -120,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -145,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -164,8 +132,29 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -175,6 +164,13 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -197,22 +193,20 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-curating-the-best-video-game-openers-on-yt-no-money-max-impact-in-2024/"><u>[New] Curating the Best Video Game Openers on YT No Money, Max Impact, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-five-superior-timelapse-filmmakers-for-2024/"><u>[New] Five Superior Timelapse Filmmakers for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-treacle-tracking-step-by-step-tutorial-on-summer-snack-monitoring/"><u>[New] In 2024, Treacle Tracking Step-by-Step Tutorial on Summer Snack Monitoring</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube/"><u>[Updated] A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-photo-video-capture-snapchat-and-mobile-guide/"><u>[Updated] Enhancing Photo-Video Capture Snapchat & Mobile Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>2024 Approved Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203775130-a-complete-fix-for-your-devices-hub-port-conquering-power-surge-mishaps/"><u>A Complete Fix for Your Device's Hub Port - Conquering Power Surge Mishaps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-obstacle-the-easy-way-to-correct-error-0x887a0006/"><u>Bypassing Obstacle: The Easy Way to Correct Error 0X887A0006</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-google-pixel-7a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Google Pixel 7a Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-vos-videos-flv-en-ogg-facilement-et-gratuitement-avec-loutil-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos FLV en OGG Facilement Et Gratuitement Avec L'outil en Ligne De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/correcting-errors-with-visual-media-in-windows-operating-systems-11-and-10/"><u>Correcting Errors with Visual Media in Windows Operating Systems (11 & 10)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-workflow-expert-tips-for-optimizing-file-explorer-in-windows-10/"><u>Enhance Your Workflow: Expert Tips for Optimizing File Explorer in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-loadlibrary-failed-error-87-correcting-the-parameter-configuration/"><u>How To Resolve 'LoadLibrary Failed Error 87': Correcting the Parameter Configuration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-halo-4-ue4-crashes-of-2024-solutions-and-tips-for-stable-gameplay/"><u>Overcoming Halo 4 UE4 Crashes of 2024: Solutions and Tips for Stable Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pairing-data-strategies-expert-advice-on-merging-cells-in-microsoft-office-excel/"><u>Pairing Data Strategies: Expert Advice on Merging Cells in Microsoft Office Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-cannot-reach-the-distant-server-error/"><u>Troubleshooting Steps for Resolving 'Cannot Reach the Distant Server' Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-reducing-high-latency-in-counter-strike-global-offensive/"><u>Ultimate Guide to Reducing High Latency in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-explore-and-capture-mountains-with-best-cameras/"><u>[New] 2024 Approved Explore and Capture Mountains with Best Cameras</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-removing-photo-backdrops/"><u>[New] Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc4k/"><u>「PC上での4K解像度動画記録術 - 最新トップレコーダー推薦ガイド」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>2024 Approved Android Beat Best Free Apps for Downloading YouTube Tunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tips-on-retrieving-your-lost-icloud-contacts-images-and-texts/"><u>Easy Tips on Retrieving Your Lost iCloud Contacts, Images, and Texts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-q-sports-extension-in-kodi-version-194/"><u>Step-by-Step Guide to Adding the Q Sports Extension in Kodi Version 19.4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-recording-high-quality-wav-audio-on-windows-11/"><u>Step-by-Step Guide: Recording High-Quality WAV Audio on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/title-compare-and-contrast-the-key-differences-between-dvd-r-disc-and-dvdplusr-disc/"><u>Title: Compare & Contrast: The Key Differences Between DVD-R Disc and DVD+R Disc</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-effortlessly-adding-tunes-to-your-powerpoint-presentations/"><u>Top Strategies for Effortlessly Adding Tunes to Your PowerPoint Presentations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transfer-your-work-with-ease-guide-to-exporting-and-importing-webm-files-in-adobe-premiere-pro/"><u>Transfer Your Work with Ease - Guide to Exporting and Importing WebM Files in Adobe Premiere Pro</u></a></li>
 </ul></div>
 

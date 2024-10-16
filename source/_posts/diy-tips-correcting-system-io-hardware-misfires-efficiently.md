@@ -1,7 +1,7 @@
 ---
 title: "DIY Tips: Correcting System I/O Hardware Misfires Efficiently"
-date: 2024-10-08T17:06:04.600Z
-updated: 2024-10-09T23:16:58.224Z
+date: 2024-10-15T01:18:26.276Z
+updated: 2024-10-16T00:53:47.443Z
 tags:
   - win11
   - win10
@@ -67,29 +67,9 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -105,17 +85,18 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -123,6 +104,14 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
@@ -131,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
@@ -151,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
@@ -164,6 +153,14 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 3. In the right pane, double-click on**Attributes** to modify it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 6. Exit the Registry Editor.
@@ -175,22 +172,17 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
@@ -218,16 +210,24 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-top-methods-to-revamp-grades-in-photoshop/"><u>[Updated] Top Methods to Revamp Grades in Photoshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-orchestrate-online-albums-photos-pair-with-songs/"><u>2024 Approved Orchestrate Online Albums Photos Pair With Songs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-eradicating-sticking-images-from-various-monitors-and-tvs/"><u>Comprehensive Fixes: Eradicating Sticking Images From Various Monitors and TVs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cross-cultural-comparison-of-portuguese-keyboard-functionality/"><u>Cross-Cultural Comparison of Portuguese Keyboard Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-update-hiccup-a-detailed-fix-for-error-0x8024200d/"><u>Overcoming Microsoft Update Hiccup: A Detailed Fix for Error 0X8024200D</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-the-basic-anti-cheat-glitch-in-apex-legends/"><u>Quick Fixes for the Basic Anti-Cheat Glitch in Apex Legends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-pc-using-built-in-tools-a-deep-dive-into-windows-10s-sfc-and-dism-features/"><u>Revive Your PC Using Built-In Tools: A Deep Dive Into Windows 10'S SFC and DISM Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-airpods-and-windows-11-connectivity-woes-expert-advice-from-2024/"><u>Solve Your AirPods and Windows 11 Connectivity Woes: Expert Advice From 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-repair-failed-ethernet-connections-in-windows-10-and-7-systems/"><u>Step-by-Step Solution to Repair Failed Ethernet Connections in Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-modern-warfare-3-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Modern Warfare 3 From Crashing on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 14 Pro? How to Fix</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-merging-technology-and-commerce-through-vr-innovation/"><u>2024 Approved Merging Technology & Commerce Through VR Innovation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-guide-to-seamless-video-integration-pip-techniques-for-mac-users-for-2024/"><u>A Guide to Seamless Video Integration PIP Techniques for Mac Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-chrome-extensions-ranked-for-maximum-productivity/"><u>AI-Driven Chrome Extensions Ranked for Maximum Productivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-restoring-ethernet-network-functionality-in-windows-117/"><u>Comprehensive Solutions: Restoring Ethernet Network Functionality in Windows 11/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-binkw32dll-not-found-quick-troubleshooting-steps-to-resolve-missing-errors/"><u>Fix Binkw32.DLL Not Found - Quick Troubleshooting Steps to Resolve Missing Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-message-when-logging-into-windows-user-profile-service/"><u>Fixing the Critical Error Message When Logging Into Windows User Profile Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206876364-fixing-the-slow-download-problem-in-league-of-legends-once-and-for-all/"><u>Fixing the Slow Download Problem in League of Legends Once and For All!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-version-of-your-hp-m5m506-drivers-for-windows-today/"><u>Get the Newest Version of Your HP M5_M506 Drivers for Windows Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/home-cinematographers-review-best-video-recorders/"><u>Home Cinematographer's Review Best Video Recorders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-14-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 14 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-express-creativity-for-free-your-meme-toolbox-awaits/"><u>In 2024, Express Creativity for Free – Your Meme Toolbox Awaits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-streamline-your-vimeo-video-subtitles/"><u>In 2024, How to Streamline Your Vimeo Video Subtitles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-resolving-sound-distortion-on-logitech-g93n-wireless-for-pcmac/"><u>Quick Guide: Resolving Sound Distortion on Logitech G93n Wireless for PC/Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-apeman-c450-review-the-premier-choice-in-budget-dashcams/"><u>Revealing the Apeman C450 Review - The Premier Choice in Budget Dashcams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-navigating-through-error-code-0x80004005/"><u>The Ultimate Fix Guide for Navigating Through 'Error Code: 0X80004005'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-ethernet-connectivity-problems-in-windows-11-and-7/"><u>Troubleshooting Steps for Resolving Ethernet Connectivity Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-internet-explorer-not-responding-issues/"><u>Troubleshooting Tips: Resolving 'Internet Explorer Not Responding' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-blue-screen-error-on-your-device/"><u>Ultimate Guide: Resolving the Blue Screen Error on Your Device</u></a></li>
 </ul></div>
 

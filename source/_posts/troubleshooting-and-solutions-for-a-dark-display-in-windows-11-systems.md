@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for a Dark Display in Windows 11 Systems
-date: 2024-09-15T17:11:52.670Z
-updated: 2024-09-18T00:24:12.211Z
+date: 2024-10-14T01:32:50.071Z
+updated: 2024-10-16T02:04:42.993Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -50,19 +57,20 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -71,6 +79,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -79,6 +95,13 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -89,23 +112,16 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -123,16 +139,10 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -175,5 +185,20 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/actical-multitasking-a-guide-to-co-watching-on-yt/"><u>[New] Tactical Multitasking A Guide to Co-Watching on YT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-accessible-file-transformation-facebook-videos-to-hdmp4-at-no-cost-for-2024/"><u>[Updated] Accessible File Transformation Facebook Videos to HD/MP4 at No Cost for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-focus-on-essentials-affinity-method/"><u>[Updated] In 2024, Focus on Essentials - Affinity Method</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/10-proven-strategies-for-earning-money-with-your-videos-on-vimeo/"><u>10 Proven Strategies for Earning Money with Your Videos on Vimeo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-notebook-key-issues-effective-repair-methods-for-a-malfunctioning-keyboard/"><u>Dell Notebook Key Issues: Effective Repair Methods for a Malfunctioning Keyboard</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delving-into-the-chronology-of-windows-movie-maker-editions/"><u>Delving Into the Chronology of Windows Movie Maker Editions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descubre-los-secreto-de-la-animacion-stop-motion-paso-a-paso-con-experticia-y-casos-practicos/"><u>Descubre Los Secreto De La Animación Stop Motion: Paso a Paso Con Experticia Y Casos Prácticos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-exceptional-2022-inflatable-kayaks-as-featured-by-zdnet-a-comprehensive-guide/"><u>Discover the Most Exceptional 2022 Inflatable Kayaks as Featured by ZDNet: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-techniques-to-get-your-device-receiving-miracast-signals/"><u>New Techniques to Get Your Device Receiving Miracast Signals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-19-complete-guide-to-repairing-dvdcd-rom-issues-on-windows-11/"><u>Resolving Code 19: Complete Guide to Repairing DVD/CD-ROM Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-windows-camera-error-0xa00f4292/"><u>Step-by-Step Troubleshooting for Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-attempts-to-access-nvidia-geforce-preferences/"><u>Troubleshooting Failed Attempts to Access NVIDIA GeForce Preferences</u></a></li>
+</ul></div>
 

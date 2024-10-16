@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Failures - Fixing Error 0X80072F8F on Win10/Win11
-date: 2024-10-02T22:33:03.577Z
-updated: 2024-10-09T16:42:03.756Z
+date: 2024-10-08T19:32:43.465Z
+updated: 2024-10-16T03:15:21.388Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -96,10 +96,10 @@ Then click **Update & security**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 b)  
@@ -110,16 +110,10 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 c)  
@@ -129,10 +123,10 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2)  
@@ -165,21 +159,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-enhance-video-purity-optimal-watermark-eliminators/"><u>[New] In 2024, Enhance Video Purity Optimal Watermark Eliminators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>2024 Approved Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/bgmpc/"><u>動画BGM抜き取り手順集:PC・スマホ・タブレット用の究極解法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accelerating-innovation-chatgpts-impact-on-3d-manufacturing/"><u>Accelerating Innovation: ChatGPT's Impact on 3D Manufacturing</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/enhance-web-analytics-with-the-power-of-cookiebot-technology/"><u>Enhance Web Analytics with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-your-compromised-windows-store-cache/"><u>How to Repair and Restore Your Compromised Windows Store Cache</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-to-enable-wifi-hotspot-via-usb-on-windows-11/"><u>Quick and Simple Guide to Enable WiFi Hotspot via USB on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-how-to-restart-an-unresponsive-amd-catalyst-control-panel/"><u>Solving the Issue: How to Restart an Unresponsive AMD Catalyst Control Panel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-buy-games-directly-on-oculus-meta-quest-2/"><u>Step-by-Step Process to Buy Games Directly on Oculus (Meta) Quest 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-trick-to-stop-skyrims-never-ending-launch-screen-and-enjoy-gaming/"><u>The Definitive Trick to Stop Skyrim's Never-Ending Launch Screen and Enjoy Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-unfreeze-file-explorer-on-windows-11/"><u>Troubleshooting Guide: How to Unfreeze File Explorer on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-unsticking-a-stuck-computing-system/"><u>Troubleshooting Tips: Unsticking a Stuck Computing System</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-fixing-unresponsive-volume-settings/"><u>Troubleshooting Windows 11: Fixing Unresponsive Volume Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-hacks-for-uninterrupted-gaming-eliminate-lag-in-minecraft-today/"><u>Ultimate Hacks for Uninterrupted Gaming: Eliminate Lag in Minecraft Today!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mental-gymnastics-at-the-best-puzzle-halls/"><u>[New] In 2024, Mental Gymnastics at the Best Puzzle Halls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/becoming-a-master-of-instagrams-video-dialogue-dynamics-for-2024/"><u>Becoming a Master of Instagram's Video Dialogue Dynamics for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-fixing-windows-1nupdate-error-code-0x800f0922-for-seamless-operations/"><u>Guide: Successfully Fixing Windows 1nUpdate Error Code 0X800f0922 for Seamless Operations</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Phone without Google Account?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>In 2024, Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadgetry-hub-your-source-for-cutting-edge-hardware-reviews/"><u>Inside Tom's Gadgetry Hub: Your Source for Cutting-Edge Hardware Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-get-your-diagnostic-policy-service-running-again/"><u>Resolved: How to Get Your Diagnostic Policy Service Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-10-continuous-restart-woes-with-simple-solutions/"><u>Solving Windows 10 Continuous Restart Woes with Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-dock-on-a-windows-10-system-solutions-and-tips/"><u>Successfully Pairing Microsoft Wireless Dock on a Windows 10 System: Solutions and Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-smart-8-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Smart 8 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-how-to-fix-windows-11-store-error-code-0x80073cf9/"><u>Troubleshooting Step-by-Step: How to Fix Windows 11 Store Error Code 0X80073CF9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-gaming-fixes-eliminate-screen-distortion-and-enjoy-seamless-play/"><u>Valorant Gaming Fixes: Eliminate Screen Distortion & Enjoy Seamless Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warriors-guide-to-debugging-call-of-duty-warzone-error-6328-strategies-for-2025-mastering-cod-warzone-error-resolution-defeat-dev-bug-6328-in-the-upcoming-y407/"><u>Warrior's Guide to Debugging Call of Duty: Warzone Error 6328 - Strategies for 202#5. Mastering Cod: Warzone Error Resolution - Defeat Dev Bug 6328 in the Upcoming Year!</u></a></li>
 </ul></div>
 

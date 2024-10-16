@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Restoring Functionality to a Non-Working Xbox Gamepad [Comprehvew]
-date: 2024-10-06T17:32:27.992Z
-updated: 2024-10-09T17:57:24.421Z
+date: 2024-10-14T16:39:00.130Z
+updated: 2024-10-15T23:30:36.087Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 ---
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -57,16 +51,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -78,13 +66,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -100,22 +81,35 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -135,6 +129,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -153,13 +154,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -211,14 +205,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-mac-apps-screen-recording-made-simple/"><u>[New] In 2024, Essential Mac Apps Screen Recording Made Simple</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-steer-clear-of-targeted-commercial-content-in-browsing/"><u>2024 Approved Steer Clear of Targeted Commercial Content in Browsing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-buying-in-the-long-run-despite-recent-gains8/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Buying in the Long Run, Despite Recent Gains.[^8]</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-and-effective-your-key-to-instant-file-restoration/"><u>Efficient & Effective - Your Key to Instant File Restoration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-adjust-mouse-settings-eliminating-acceleration-on-a-mac-computer/"><u>Guide to Adjust Mouse Settings: Eliminating Acceleration on a Mac Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-geforce-experience-not-launching-step-by-step-guide/"><u>How to Fix GeForce Experience Not Launching: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-of-windows-update-error-code-0x80070490-with-ease/"><u>Overcoming the Obstacle of Windows Update Error Code 0X80070490 with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-the-persistent-windows-11-update-error-0xc1900208/"><u>Step-by-Step Fixes for the Persistent Windows 11 Update Error 0xC1900208</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-facebook-live-video-downloaders/"><u>[New] 2023 Facebook Live Video Downloaders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-asus-proart-pa-329q-unveiled-a-critical-perspective-on-a-high-end-monitor-for-2024/"><u>[New] Asus ProArt PA 329Q Unveiled A Critical Perspective on a High-End Monitor for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[Updated] 2024 Approved Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boredom-be-gone-find-joy-with-these-top-15-humorists-for-2024/"><u>[Updated] Boredom Be Gone Find Joy with These Top 15 Humorists for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-softening-audio-endings/"><u>[Updated] Masterclass Softening Audio Endings</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pctop5/"><u>PCゲームのライブ配信専用録画ツールTOP5ピックアップ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/regain-control-over-lost-steam-files-and-enjoy-uninterrupted-gaming-once-again/"><u>Regain Control Over Lost Steam Files and Enjoy Uninterrupted Gaming Once Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210334850-solution-found-overcoming-keyboard-input-issues-now-working/"><u>Solution Found: Overcoming Keyboard Input Issues - Now Working!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-errors-with-the-windows-11-start-button-and-menu-issues/"><u>Solving Common Errors with the Windows 11 Start Button and Menu Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-unfreezing-a-nonresponsive-mouse-on-pcs/"><u>Step-by-Step Solutions: Unfreezing a Nonresponsive Mouse on PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-ultimate-guide-to-all-macos-releases-what-version-are-you-using/"><u>Your Ultimate Guide to All MacOS Releases - What Version Are You Using?</u></a></li>
 </ul></div>
 

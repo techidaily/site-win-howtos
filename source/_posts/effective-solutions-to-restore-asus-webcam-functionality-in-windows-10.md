@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Restore ASUS Webcam Functionality in Windows 10
-date: 2024-09-11T20:39:19.495Z
-updated: 2024-09-17T21:04:22.607Z
+date: 2024-10-14T04:58:07.816Z
+updated: 2024-10-15T19:37:02.783Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -71,40 +78,41 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
- If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
+ If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -154,5 +162,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfecting-your-video-conferencing-experience-with-slack-and-filmora/"><u>[New] 2024 Approved Perfecting Your Video Conferencing Experience with Slack & Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-8-leading-edge-screensnap-solutions/"><u>[Updated] 8 Leading-Edge Screensnap Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deciphering-similarities-in-uk-and-rus-linguistics/"><u>Deciphering Similarities in Uk & Rus Linguistics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-persistent-shutdown-restart-issues-in-windows-11/"><u>Easy Solutions for Persistent Shutdown-Restart Issues in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/embarking-on-twitter-steps-for-newbies/"><u>Embarking on Twitter Steps for Newbies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-two-finger-swipe-navigation-issues-on-your-device-solutions-unveiled/"><u>How to Fix Two-Finger Swipe Navigation Issues on Your Device – Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-solve-the-windows-error-code-a00f4292-for-your-pc-camera/"><u>How to Quickly Solve the 'Windows Error Code A00F4292' For Your PC Camera</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-essential-tips-installing-apple-podcasts-app-successfully/"><u>In 2024, Essential Tips Installing Apple Podcasts App Successfully</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-more-than-clicks-what-determines-youtubes-view-numbers/"><u>In 2024, More than Clicks What Determines YouTube's View Numbers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-a-darkened-razer-keys-a-comprehensive-solution/"><u>Resolving the Issue of a Darkened Razer Keys - A Comprehensive Solution</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-utrolige-gjenstander-for-optimert-online-og-offisielt-video-voksmenhet/"><u>Top 5 Utrolige Gjenstander for Optimert Online Og Offisielt Video-Voksmenhet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-delayed-key-responses-on-windows-11-a-complete-guide/"><u>Troubleshooting Delayed Key Responses on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wi-fi-troubleshooting-on-windows-11-when-options-disappear/"><u>Wi-Fi Troubleshooting on Windows 11 When Options Disappear</u></a></li>
+</ul></div>
 

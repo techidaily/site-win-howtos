@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Crash Fixes for Nier: Automata on Desktop"
-date: 2024-09-15T16:58:20.075Z
-updated: 2024-09-17T19:35:25.006Z
+date: 2024-10-12T03:55:28.623Z
+updated: 2024-10-16T02:36:18.034Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,6 +49,13 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -77,6 +91,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -95,6 +116,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -102,10 +130,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -117,23 +145,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -183,5 +197,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operative-brightness-fn-button-on-windows-11/"><u>Addressing Non-Operative Brightness Fn Button on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/apowersoft-capture-app-reviewed-for-2024/"><u>Apowersoft Capture App Reviewed for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/approach-consider-how-moisture-loss-during-drying-affects-both-density-and-heat-transfer-properties/"><u>Approach: Consider How Moisture Loss During Drying Affects Both Density and Heat Transfer Properties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-steps-setting-up-a-vpn-connection-on-your-apple-tv/"><u>Beginner-Friendly Steps: Setting up a VPN Connection on Your Apple TV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-productivity-with-window-10-file-explorer-tricks/"><u>Boost Your Productivity with Window 10 File Explorer Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-standard-features-and-applications/"><u>ChatGPT’s Standard Features and Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-nonfunctional-backlit-keys-on-apple-and-microsoft-machines/"><u>Diagnosing and Repairing Nonfunctional Backlit Keys on Apple & Microsoft Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-fix-guide-overcoming-unable-to-run-temporary-file-with-solution-for-error-5-access-denied/"><u>Error Fix Guide: Overcoming ‘Unable to Run Temporary File’ with Solution for Error 5 - Access Denied</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-diagnosing-and-fixing-unstable-wireless-mouse-connectivity/"><u>Expert Advice: Diagnosing and Fixing Unstable Wireless Mouse Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-restore-functionality-of-unresponsive-number-keys/"><u>Fixing Issues: How to Restore Functionality of Unresponsive Number Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-the-nba-2k21-green-glitch-was-successfully-resolved/"><u>How the NBA 2K21 'Green' Glitch Was Successfully Resolved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 4G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-your-unresponsive-dell-laptop-typing-pad/"><u>Solving the Mystery of Your Unresponsive Dell Laptop Typing Pad</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-stop-hearthstone-lag-with-easy-techniques/"><u>Troubleshoot and Stop Hearthstone Lag with Easy Techniques</u></a></li>
+</ul></div>
 

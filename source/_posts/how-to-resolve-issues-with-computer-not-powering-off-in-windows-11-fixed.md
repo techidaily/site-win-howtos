@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Computer Not Powering Off in Windows 11 – FIXED!
-date: 2024-10-05T18:28:25.578Z
-updated: 2024-10-09T17:56:57.362Z
+date: 2024-10-08T19:00:54.154Z
+updated: 2024-10-16T04:35:55.874Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,6 +62,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -64,10 +78,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
@@ -78,16 +92,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
+<span id="1975503">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -100,38 +114,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -173,17 +167,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unique-themes-redesign-your-youtube-presence/"><u>[New] Unique Themes Redesign Your YouTube Presence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-how-to-resolve-your-mouse-not-working-in-windows/"><u>Bluetooth Connectivity Issues: How to Resolve Your Mouse Not Working in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-guide-resolving-audio-device-uninstalled-troubles-on-your-windows-amelon-computer/"><u>DIY Guide: Resolving 'Audio Device Uninstalled' Troubles on Your Windows Amelon Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-access-the-essential-guide-for-installing-missing-printer-drivers/"><u>How to Enable Access: The Essential Guide for Installing Missing Printer Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-roll-back-recent-windows-11-software-enhancements/"><u>How to Roll Back Recent Windows 11 Software Enhancements</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y56 5G Phone without Google Account?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 Lite 5G Phone FRP Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-leading-live-church-broadcast-services/"><u>Navigating the Leading Live Church Broadcast Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pixel-watch-series-3-released-soon-insights-on-pricing-release-schedule-and-speculated-specifications/"><u>Pixel Watch Series 3 Released Soon? Insights on Pricing, Release Schedule, and Speculated Specifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-solution-guide-restoring-access-to-your-networks-dhcp-server/"><u>The Solution Guide: Restoring Access to Your Network's DHCP Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-update-failure-in-warframe/"><u>Troubleshooting Guide: Fixing the 'Update Failure' In Warframe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-the-absent-steamdll-error/"><u>Troubleshooting Techniques for the Absent Steam.dll Error</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-discovering-androids-finest-multiplayer-battles/"><u>[New] In 2024, Discovering Android's Finest Multiplayer Battles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-productive-online-team-sessions/"><u>[New] In 2024, The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-playback-anarchy-youtube-playlists-unordered-again-for-2024/"><u>[Updated] The Art of Playback Anarchy YouTube Playlists Unordered Again for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-expert-advice-how-to-leverage-snapchat-effectively/"><u>2024 Approved Expert Advice How to Leverage Snapchat Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-named-top-contender-by-nelsonhall-in-process-discovery-and-data-mining-review-neat-scorecard-202/"><u>ABBYY Named Top Contender by NelsonHall in Process Discovery and Data Mining Review, NEAT Scorecard 202</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-social-media-sounds-for-free-leak-free-mp3s-from-facebook-without-any-bothering-ads-or-signs/"><u>Convert Your Social Media Sounds for FREE: Leak-Free MP3s From Facebook without Any Bothering Ads or Signs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cprmdvd/"><u>CPRM保護が解除されたDVDから容易にコピー・リッピングする方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-9-anime-the-latest-facts-uncovered/"><u>Decoding 9 Anime: The Latest Facts Uncovered!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mp4-to-flv-file-format-transformation-tips-and-tricks/"><u>Easy MP4 to FLV File Format Transformation Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-downloading-and-saving-online-content-tutorial-on-youtube-facebook-vimeo-and-liveleak-videos/"><u>Easy Steps for Downloading and Saving Online Content: Tutorial on Youtube, Facebook, Vimeo, and Liveleak Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-downloading-videos-from-forum-discussions/"><u>Effective Strategies for Downloading Videos From Forum Discussions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>In 2024, Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://solve-news.techidaily.com/optimize-your-sites-engagement-using-cookiebot-driven-insights/"><u>Optimize Your Site's Engagement Using Cookiebot-Driven Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-magic-6-lite-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/s-most-popular-online-video-reverse-editors-for-2024/"><u>S Most Popular Online Video Reverse Editors for 2024</u></a></li>
 </ul></div>
 

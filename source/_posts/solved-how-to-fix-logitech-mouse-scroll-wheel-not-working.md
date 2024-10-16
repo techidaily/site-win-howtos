@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to Fix Logitech Mouse Scroll Wheel Not Working"
-date: 2024-10-02T17:53:38.056Z
-updated: 2024-10-09T19:30:35.608Z
+date: 2024-10-13T18:21:11.838Z
+updated: 2024-10-16T04:54:21.534Z
 tags:
   - win11
   - win10
@@ -28,25 +28,11 @@ You may encounter an error with a code of **1603** when you are attempting to in
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2) Completely uninstall the same program installed
 
 If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Find and open**Programs and Features**;
 
@@ -57,10 +43,10 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -70,15 +56,22 @@ There may be something going wrong with**Microsoft Installer service**and theref
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
@@ -93,10 +86,10 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -105,16 +98,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -128,26 +121,27 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
 
@@ -172,21 +166,22 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-guide-best-screencasting-apps-at-no-cost-for-2024/"><u>[New] Essential Guide Best Screencasting Apps at No Cost for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-choosing-spiritual-audio-for-your-cellphone/"><u>[New] In 2024, Choosing Spiritual Audio for Your Cellphone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-compatibility-score-which-phones-work-with-gear-vr/"><u>[Updated] Compatibility Score Which Phones Work with Gear VR?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-aspect-ratio-woes-to-winning-instagram-square-video-for-2024/"><u>[Updated] From Aspect Ratio Woes to Winning Instagram Square Video for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-your-craft-top-camera-optics-for-professional-videos/"><u>[Updated] In 2024, Elevating Your Craft Top Camera Optics for Professional Videos</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-professional-multicam-capture-app-manycam-leading-live-streaming-and-remote-webcams/"><u>1. Professional Multicam Capture App - ManyCam: Leading Live Streaming and Remote Webcams</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time-for-2024/"><u>Assessing If SNS HDR Deserves Your Investment Time for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/7-high-resolution-dslrs-for-engaging-video-blogs-for-2024/"><u>Best 7 High-Resolution DSLRs for Engaging Video Blogs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-audio-failures-on-netflix-quickly/"><u>Diagnosing and Repairing Audio Failures on Netflix Quickly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-effective-mov-storage-in-windows-10-for-2024/"><u>Essential Tips for Effective .mov Storage in Windows 10 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/full-tutorial-on-repairing-non-functional-xbox-one-controllers/"><u>Full Tutorial on Repairing Non-Functional Xbox One Controllers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-driver-power-state-failure-error/"><u>How to Fix DRIVER POWER STATE FAILURE Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-error-and-resolve-windows-10-application-launch-issues/"><u>How to Fix VCRUNTIME140.dll Error and Resolve Windows 10 Application Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-mic-disconnect-on-discord/"><u>Resolved Mic Disconnect on Discord</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-unknown-usb-device-errors-a-guide-to-port-reset-success-in-windows-10/"><u>Solving the Mystery of 'Unknown USB Device' Errors: A Guide to Port Reset Success in Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfecting-inshot-transitions-techniques-for-2024/"><u>[New] Perfecting Inshot Transitions Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-vidgrabber-mobilepc-for-fb-streams-for-2024/"><u>[New] VidGrabber Mobile/PC for Fb Streams for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>[Updated] 2024 Approved Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>[Updated] In 2024, The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-masterclass-top-10-recorder-options-on-spotify/"><u>2024 Approved Masterclass Top 10 Recorder Options on Spotify</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-pcs-performance-a-step-by-step-guide-to-speeding-up-your-computer/"><u>Boost Your PC's Performance: A Step-by-Step Guide to Speeding Up Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205592094-constraint-b-each-historical-event-chosen-for-the-footnotes-should-not-have-been-commonly-referenced-in-mainstream-media/"><u>Constraint B: Each Historical Event Chosen for the Footnotes Should Not Have Been Commonly Referenced in Mainstream Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/direct-mp4-uploader-for-facebook-services-for-2024/"><u>Direct MP4 Uploader for Facebook Services for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-faulty-connection-solving-usb-mouse-issues-on-laptops/"><u>Fixing a Faulty Connection: Solving USB Mouse Issues on Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-safely-resolve-google-chromes-misleading-critical-error-message/"><u>How to Safely Resolve Google Chrome's Misleading Critical Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-svchostexes-high-cpu-consumption-on-windows-10-computers/"><u>Resolving the Issue of svchost.exe's High CPU Consumption on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-upstart-halt-fixes-for-unresponsive-boot-sequence/"><u>Resolving Windows 11 Upstart Halt: Fixes for Unresponsive Boot Sequence</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-from-unrealcefsubprocess-on-pcs/"><u>Strategies to Reduce CPU and RAM Overuse From UnrealCEFSubprocess on PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-art-of-deformed-text-display/"><u>The Art of Deformed Text Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolved-issues-connecting-with-dhcp-server/"><u>Troubleshooting Steps: Resolved - Issues Connecting with DHCP Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcome-the-momentary-inaccessibility-of-windows-defender-smartscreen/"><u>Troubleshooting: Overcome the Momentary Inaccessibility of Windows Defender SmartScreen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-13-mini-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 13 mini Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

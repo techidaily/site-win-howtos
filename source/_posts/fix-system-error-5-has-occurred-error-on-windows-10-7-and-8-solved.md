@@ -1,7 +1,7 @@
 ---
 title: Fix “System Error 5 Has Occurred” Error on Windows 10, 7 & 8 [Solved]
-date: 2024-10-04T20:30:07.079Z
-updated: 2024-10-09T18:53:00.350Z
+date: 2024-10-13T03:15:25.282Z
+updated: 2024-10-16T04:35:50.641Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Force restart your PC
 
  If Your PC gets stuck at 100% when you’re performing a Windows update, you need to force restart your PC first. If you don’t know how to do it, you can follow the instructions below:
@@ -63,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Windows Update troubleshooter
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows updates. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -74,23 +74,16 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### If you’re using Windows 11
 
@@ -99,25 +92,25 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -126,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -161,6 +161,14 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 1. On your keyboard, press **the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471-1.png)
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -171,16 +179,17 @@ Now, you can follow the steps below to download Windows updates manually:
 2. Click **View update history** to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download that update and install it manually.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
@@ -188,13 +197,6 @@ Now, you can follow the steps below to download Windows updates manually:
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
 
@@ -224,21 +226,22 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits-and-rising-economic-growth-over-the-next-six-months-to-drive-further-gain149/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits and Rising Economic Growth over the Next Six Months to Drive Further Gains</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-deceptive-alerts-solve-google-chromes-fraudulent-critical-error-problem/"><u>Bypassing Deceptive Alerts: Solve Google Chrome's Fraudulent Critical Error Problem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-google-pixel-3-the-quintessential-android-experience/"><u>Comprehensive Evaluation of the Google Pixel 3: The Quintessential Android Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-resolve-continuous-system-freezing-on-your-laptop-or-desktop/"><u>Easy Steps to Resolve Continuous System Freezing on Your Laptop or Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solution-reviving-non-functioning-keys-on-your-hp-device/"><u>Effortless Solution: Reviving Non-Functioning Keys on Your HP Device</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/enhancing-ai-infrastructure-how-microsoft-is-revolutionizing-data-center-connectivity-with-its-own-network-gear-tech-analysis/"><u>Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-access-to-a-non-responsive-dhcp-server/"><u>Expert Advice: Restoring Access to a Non-Responsive DHCP Server</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-asmr-knowledge-beyond-what-you-see/"><u>In 2024, ASMR Knowledge Beyond What You See</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>In 2024, Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/protect-your-live-streams-the-periscope-video-howto/"><u>Protect Your Live Streams The Periscope Video HowTo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolving-windows-11s-unresponsive-volume-adjustment/"><u>Step-by-Step Guide to Resolving Windows 11'S Unresponsive Volume Adjustment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-your-zoom-experience-for-different-industries-on-windows-11-for-2024/"><u>Tailoring Your Zoom Experience for Different Industries on Windows 11 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-roadblock-ahead-teredo-fails-to-secure-spot-on-competitive-list/"><u>The Roadblock Ahead: Teredo Fails to Secure Spot on Competitive List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-science-behind-catching-fire-on-instagram/"><u>The Science Behind Catching Fire on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unraveling-visual-clarity-for-the-new-digital-age-for-2024/"><u>Unraveling Visual Clarity for the New Digital Age for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>[Updated] In 2024, A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-professional-gopro-filming/"><u>[Updated] The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unheard-film-footage-appraisal-and-parallel-projects/"><u>[Updated] Unheard Film Footage Appraisal and Parallel Projects</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windowsppt/"><u>馬上解決！在Windows系統下PPT失去保存功能時的辦法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/automating-the-launch-of-specific-workbooks-at-excels-startup-a-step-by-step-guide/"><u>Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/custom-view-mastery-how-to-lock-in-and-retrieve-your-favorite-excel-spreadsheet-configurations/"><u>Custom View Mastery: How to Lock In and Retrieve Your Favorite Excel Spreadsheet Configurations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/double-the-cooling-power-introducing-silicontechs-xeon2x-airflow-chiller-for-dual-cpu-setups/"><u>Double the Cooling Power: Introducing SiliconTech's Xeon2X Airflow Chiller for Dual CPU Setups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-v30-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme V30?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-5-android-photo-fixers/"><u>In 2024, Ultimate 5 Android Photo Fixers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-protecting-your-spreadsheets-how-to-lock-and-unlock-cells-in-excel-easily/"><u>Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-chart-layering-techniques-for-enhanced-data-visualization-in-excel/"><u>Mastering Chart Layering Techniques for Enhanced Data Visualization in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-microsoft-excel-feature-automatic-image-data-integration-coming-soon-to-windows-users/"><u>New Microsoft Excel Feature: Automatic Image Data Integration Coming Soon to Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-hidden-instagram-reels-with-these-simple-steps/"><u>Retrieve Hidden Instagram Reels with These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-links-from-your-ms-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Links From Your MS Excel Spreadsheet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-reposting-on-instagram/"><u>Step-by-Step Reposting on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-essentials-to-add-to-your-quick-access-toolbar-in-microsoft-excel-for-faster-workflows/"><u>Top 6 Essentials to Add to Your Quick Access Toolbar in Microsoft Excel for Faster Workflows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-applying-dollar-sign-notation-in-excel-worksheets/"><u>Understanding and Applying Dollar Sign Notation in Excel Worksheets</u></a></li>
 </ul></div>
 

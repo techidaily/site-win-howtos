@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Solution to the Persistent Fatal Error and Game Crash Issues in Halo 4 UE4
-date: 2024-10-07T16:15:25.187Z
-updated: 2024-10-09T19:49:25.618Z
+date: 2024-10-12T17:12:16.467Z
+updated: 2024-10-15T21:54:56.260Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
  To work properly, most newer games need the latest version of Microsoft Visual C++. And there is a possibility that some of your Visual C++ Redistributables files are missing and that causes the crashing issue. So you should [download](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install the latest ones, both ×86 and ×64.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Try Windowed mode
 
@@ -91,22 +84,16 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
   
 ![switch to Windowed mode Halo 4 UE4 Fatal Error](https://images.drivereasy.com/wp-content/uploads/2020/11/switch-to-Windowed-mode-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) When the game’s**Properties** window opens, select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** .  
   
 ![verify integrity of game files Halo 4UE4 Fatal Error](https://images.drivereasy.com/wp-content/uploads/2020/11/verify-integrity-of-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam will verify the game’s files – this process may take several minutes. Once it’s finished, try to play your game to check if the problem persists.
 
@@ -124,17 +111,23 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -143,16 +136,10 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run your game on a dedicated graphics card
@@ -160,19 +147,6 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
  The integrated graphics chipset is built into the processor and makes sure that your computer can use a display even without a dedicated GPU. However, more demanding tasks such as gaming require a stronger GPU, which in most cases is the dedicated one.
 
  The biggest benefit of a dedicated GPU is performance. Not only does a dedicated graphics card have sophisticated RAM for the task of processing video, but also has dedicated RAM for the task, which is typically faster and better optimized for the task than your general system RAM.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Find out if your computer has more than one GPU
 
@@ -187,19 +161,6 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
  3) Double-click **Display adapters**  to expand the list. And you can see if your computer has more than one GPU.
 
 ![find out how many GPU your computer has](https://images.drivereasy.com/wp-content/uploads/2020/11/double-click-Display-adapters-to-expand-the-list.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run the game on a dedicated graphics card
 
@@ -222,19 +183,6 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
   
 ![run Halo 4 on NVIDIA grpahics card](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-on-a-dedicated-graphics-card-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your game isn’t on the list, then click **Browse**  and go to the game’s installation folder.
 
  4) Click on the drop-down menu and select**High-performance NVIDIA processor** .  
@@ -244,6 +192,13 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
  5) Click**Apply** .  
   
 ![run Halo 4 on NVIDIA graphics card to fix UE4 Fatal Error](https://images.drivereasy.com/wp-content/uploads/2020/11/click-apply.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can launch your game.
 
@@ -271,11 +226,25 @@ Now you can launch your game.
 
  You can disable overlays on [Steam](#DisableSteamOverlay) , [Geforce Experience](#DisableGeforceExperienceOverlay) and [Discord](#DisableDiscordOverlay) by following the instructions below:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable Steam overlay
 
  1) Open your Steam client, and select the**LIBRARY** tab. Navigate to your game**Halo: The Master Chief Collection** . Right-click it and select**Properties** .
 
 ![disable Steam overlay Halo 4 UE4 Fatal Error](https://images.drivereasy.com/wp-content/uploads/2020/11/switch-to-Windowed-mode-select-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **GENERAL** tab, uncheck the box **Enable the Steam Overlay while in-game** .  
   
@@ -283,24 +252,31 @@ Now you can launch your game.
 
  After applying the changes, exit Steam and run your game to see if this fixed the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable Geforce Experience in-game overlay
 
  1) Click on the **Settings**  icon.
 
 ![disable overlay Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/GEFORCE-EXPERIENCE-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **GENERAL**  tab, scroll down and switch **IN-GAME OVERLAY**  to **OFF** .
 
 ![disable overlay Geforce Experience Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-overlay-GEFORCE-Experinece-1.jpg)
 
 After you’ve applied the changes, remember to quit the app.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable Discord Overlay
 
@@ -333,15 +309,20 @@ After applying the changes, quit Discord.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>[New] 2024 Approved The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-ultimate-tutorial-mastering-twitter-video-responses/"><u>[New] 2024 Approved Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>[New] Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-15-best-funny-youtube-channels-to-watch-when-youre-bored/"><u>2024 Approved 15 Best Funny YouTube Channels to Watch When You're Bored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-updating-or-locating-missing-printer-drivers-in-windows-fixed/"><u>Guide to Updating or Locating Missing Printer Drivers in Windows [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-playable-content-detected-in-windows-media-player/"><u>How to Resolve No Playable Content Detected in Windows Media Player</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-g2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo G2 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-update-error-code-0x80cuh0002-quickly-and-easily/"><u>Resolving Windows Update Error Code 0X80cuh0002 Quickly and Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-disappeared-desktop-icons-for-windows-11-users-issue-resolved/"><u>Restore Disappeared Desktop Icons for Windows 11 Users [ISSUE RESOLVED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gaming-ending-maplestorys-freezes-and-crashes-on-windows-10/"><u>Seamless Gaming: Ending MapleStory's Freezes and Crashes on Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[Updated] Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>2024 Approved Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-s23plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel S23+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-av-creators-digital-edition-list/"><u>In 2024, Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208398099-quick-fixes-for-unresponsive-buttons-on-hp-laptops-troubleshoot-now/"><u>Quick Fixes for Unresponsive Buttons on HP Laptops - Troubleshoot Now!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/real-life-quantum-mechanics-on-the-silver-screen/"><u>Real-Life Quantum Mechanics on the Silver Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-13-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 13</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repaired-activate-your-devices-local-security-measures-again/"><u>Repaired: Activate Your Device's Local Security Measures Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-server-dns-unresponsive-discover-4-simple-fixes/"><u>Resolving 'Server DNS Unresponsive' – Discover 4 Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-errssl-protocol-issue-in-chrome/"><u>Resolving the 'ERR_SSL' Protocol Issue in Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-corsair-hs50-headset-mic-expert-guides-to-restore-audio-output/"><u>Reviving Your Corsair HS50 Headset Mic: Expert Guides to Restore Audio Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-when-your-device-gets-stuck-at-the-boot-screen/"><u>Step-by-Step Fixes When Your Device Gets Stuck at the Boot Screen</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/trending-tiktok-faves-and-their-amazon-counterparts-for-2024/"><u>Trending TikTok Faves & Their Amazon Counterparts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-stop-ready-or-not-from-failing-on-windowsmac/"><u>Troubleshooting Steps: How to Stop 'Ready or Not' From Failing on Windows/Mac</u></a></li>
 </ul></div>
 

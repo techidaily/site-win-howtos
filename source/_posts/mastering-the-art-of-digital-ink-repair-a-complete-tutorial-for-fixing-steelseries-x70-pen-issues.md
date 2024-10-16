@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Digital Ink Repair: A Complete Tutorial for Fixing SteelSeries X70 Pen Issues"
-date: 2024-10-02T19:04:42.775Z
-updated: 2024-10-09T23:15:33.588Z
+date: 2024-10-11T16:02:41.526Z
+updated: 2024-10-16T01:27:28.167Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Check your headset**
@@ -65,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 3) Try your PS4 mic again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -94,17 +93,17 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) After updating the driver, restart your computer, then try your PS4 mic and see if your problem is solved.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Check the PS4 settings**
 
@@ -114,22 +113,16 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
@@ -144,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
@@ -160,7 +153,21 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### in Windows 10
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 1**
 
@@ -174,16 +181,22 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
@@ -195,27 +208,20 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dee8cb09cc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -257,16 +263,17 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comparative-study-vidma-vs-standard-screen-recording/"><u>[New] 2024 Approved Comparative Study Vidma vs Standard Screen Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-critical-selection-of-best-screen-recorders-android/"><u>2024 Approved Critical Selection of Best Screen Recorders (Android)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-swift-recording-pro-with-voice-commentary-feature/"><u>2024 Approved Swift Recording Pro with Voice Commentary Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-no-battery-found-issue-swift-solutions/"><u>Effortlessly Resolve 'No Battery Found' Issue – Swift Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210932111-forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-swiftly-enhance-videos-on-android-devices/"><u>In 2024, Swiftly Enhance Videos on Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openai-rolls-out-new-custom-gpt-service-learn-how-to-use-it-immediately/"><u>OpenAI Rolls Out New Custom GPT Service - Learn How to Use It Immediately</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-command-prompt-inside-your-file-explorer/"><u>Step-by-Step Guide: Accessing the Command Prompt Inside Your File Explorer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-class-not-registered-problems-easily/"><u>Troubleshooting Windows 11: Solving 'Class Not Registered' Problems Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-mice-issues-consistent-connectivity-for-windows-1011-systems/"><u>Winning Over Wi-Fi Mice Issues: Consistent Connectivity for Windows 10/11 Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>[New] 2024 Approved Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-agriculture-amalgamations-best-agrigames-to-share-with-pals/"><u>2024 Approved Agriculture Amalgamations Best AgriGames to Share with Pals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Unlock Without Password</u></a></li>
+<li><a href="https://facebook.techidaily.com/concealing-appreciation-online-a-step-by-step-fb-method/"><u>Concealing Appreciation Online: A Step-by-Step FB Method</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-premier-4k-cameras-of-today/"><u>Discover the Premier 4K Cameras of Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-game-boy-pen-troubles-in-depth-fixing-techniques-for-seamless-play-on-classic-consoles/"><u>Navigate Through Game Boy Pen Troubles: In-Depth Fixing Techniques for Seamless Play on Classic Consoles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-features-of-magix-video-pro-x-for-2024/"><u>Navigating the Features of Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opencl-dll-access-resolution-approach/"><u>OpenCL DLL Access: Resolution Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-cure-for-lidadll-absence/"><u>Quick Cure for Lida.dll Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-icue-doesnt-recognize-your-device/"><u>Troubleshooting Tips for When ICUE Doesn't Recognize Your Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing RPC Service Failures in Windows Environments"
-date: 2024-09-13T17:04:36.639Z
-updated: 2024-09-18T02:31:44.426Z
+date: 2024-10-15T05:25:12.584Z
+updated: 2024-10-16T00:15:36.048Z
 tags:
   - win11
   - win10
@@ -45,17 +45,54 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
@@ -63,17 +100,18 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -88,15 +126,16 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -118,5 +157,23 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-from-daydream-to-reality-a-short-vr-history/"><u>[Updated] 2024 Approved From Daydream to Reality A Short VR History</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-rapid-fortnite-tile-making-hacks/"><u>[Updated] 2024 Approved Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-removing-your-facebook-live-video-tech-steps/"><u>[Updated] In 2024, Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-indispensable-fcp-enhancing-plugins/"><u>10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-touchpad-to-respond-fixing-scroll-issues-effectively/"><u>Getting Your Touchpad to Respond: Fixing Scroll Issues Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iconic-80s-aesthetic-techniques-for-cutting-videos/"><u>Iconic 80S Aesthetic Techniques for Cutting Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>In 2024, A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-in-windows-11-heres-the-solution-to-unresponsive-characters/"><u>Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/recording-showdown-the-battle-for-the-best-screen-grabber/"><u>Recording Showdown The Battle for the Best Screen Grabber</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-audio-issues-fixing-the-logitech-g930-earbuds/"><u>Resolving Audio Issues: Fixing the Logitech G930 Earbuds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-dll-dilemma-msvcr71/"><u>Resolving DLL Dilemma - MSVCR71</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/silencing-distractions-enhancing-youtube-videos-for-2024/"><u>Silencing Distractions Enhancing YouTube Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-correcting-the-hulu-rununk13-problem/"><u>Step-by-Step Solutions for Correcting the Hulu RUNUNK13 Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-disk-read-errors-on-your-windows-10-pc-today/"><u>Troubleshoot and Fix Disk Read Errors on Your Windows 10 PC Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-update-error-code-0x802eb3ae/"><u>Ultimate Guide: Resolving Windows Update Error Code 0X802eb3ae</u></a></li>
+</ul></div>
 

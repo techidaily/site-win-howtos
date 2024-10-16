@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of Unresponsive Number Keys"
-date: 2024-10-08T22:56:31.425Z
-updated: 2024-10-09T20:16:11.069Z
+date: 2024-10-11T16:28:35.992Z
+updated: 2024-10-16T05:10:50.413Z
 tags:
   - win11
   - win10
@@ -35,16 +35,16 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -74,22 +74,8 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -107,8 +93,28 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -137,23 +143,18 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -162,15 +163,21 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,21 +200,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-emulate-video-success-gaining-youtube-confidence-skills/"><u>[New] In 2024, Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-in-class-no-charging-switch-replicas/"><u>[Updated] Best-in-Class, No-Charging Switch Replicas</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-screens-selecting-your-optimal-4k-display/"><u>2024 Approved High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-14-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 14 Pro Max without App | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-the-persistent-0x80070490-error-during-windows-update-process/"><u>Comprehensive Fixes for the Persistent 0X80070490 Error During Windows Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-connection-overcoming-device-descriptor-request-failed-for-your-usb-gadgets/"><u>Error-Free Connection: Overcoming 'Device Descriptor Request Failed' For Your USB Gadgets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-how-to-unfreeze-your-windows-11-taskbar-efficiently/"><u>Expert Solutions: How To Unfreeze Your Windows 11 Taskbar Efficiently</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-spark-20-proplus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Tecno Spark 20 Pro+ Phone Forgot Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-the-edge-professional-cameras-that-rotate-full-circle-2023-for-2024/"><u>Leading the Edge Professional Cameras That Rotate Full Circle - 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-a-guide-to-resolving-crc-verification-failures-efficiently/"><u>Mastering the Fix: A Guide to Resolving CRC Verification Failures Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-connectivity-woes-with-windows-11-heres-your-comprehensive-fix/"><u>Qualcomm Atheros Bluetooth Connectivity Woes with Windows 11? Here's Your Comprehensive Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-solutions-for-thawing-out-a-stuck-computer-system/"><u>Quick Troubleshooting: Solutions for Thawing Out a Stuck Computer System</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/restore-sound-on-your-jbl-g435-wireless-headphones-with-these-simple-repairs/"><u>Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-significance-of-msdia80dll-and-when-you-should-consider-keeping-or-deleting-this-file/"><u>The Significance of msdia80.dll and When You Should Consider Keeping or Deleting This File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unhide-the-taskbar-on-windows-10-for-an-optimized-desktop-experience/"><u>Unhide the Taskbar on Windows 10 for an Optimized Desktop Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elevate-your-virtual-presentations-with-zoom-sharing/"><u>[New] In 2024, Elevate Your Virtual Presentations with Zoom Sharing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-optimal-speech-recognition-for-silent-input-for-2024/"><u>[New] Optimal Speech Recognition for Silent Input for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-hp-laptops-webcam-functionality-in-win10/"><u>Expert Tips for Restoring HP Laptop's Webcam Functionality in Win10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-stuck-keys-on-your-windows-keyboard-expert-tips-and-tricks/"><u>Fixing Stuck Keys on Your Window's Keyboard - Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx941dll-file-is-missing-error-effectively-and-efficiently/"><u>How to Resolve 'D3DX9_41.dll File Is Missing' Error Effectively and Efficiently</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-ethical-buyers-of-tiktok-popularity-boost/"><u>In 2024, Ethical Buyers of TikTok Popularity Boost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y36i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y36i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211885681-quick-solutions-getting-your-lenovos-fingerprint-sensor-back-to-work/"><u>Quick Solutions: Getting Your Lenovo's Fingerprint Sensor Back to Work!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-defective-characters-to-functioning-state-on-win-1011-pcs/"><u>Restore Defective Characters to Functioning State on Win 10/11 PCs</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/start-your-free-download-access-the-latest-e-books-and-pdfs-instantly/"><u>Start Your Free Download: Access the Latest E-Books and PDFs Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fix-your-pc-when-it-refuses-to-shutdown-on-windows-11/"><u>Troubleshooting Guide: Fix Your PC When It Refuses to Shutdown on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-error-1603-key-steps-for-successful-software-deployment/"><u>Understanding and Solving Error 1603: Key Steps for Successful Software Deployment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Dilemma: Fixing Your Device When It Shows as 'Plugged in but Not Charging' On a Windows PC (Windows 7/10)"
-date: 2024-10-08T16:29:34.092Z
-updated: 2024-10-09T19:48:07.007Z
+date: 2024-10-09T20:07:41.813Z
+updated: 2024-10-15T21:28:17.535Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off Microsoft Print to PDF feature and turn it on again
 
  1) Type **windows feature**  in the search box from the Start menu, select the**Settings** tab. Then click **Turn Windows features on or off**  from the top result.
@@ -59,9 +66,29 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the file name of PDF you want to save contain commas, the file would be created with 0 bytes and you cannot find it at saving folder. As a result, it seems your Microsoft Print to PDF not working. In such case, please avoid use comma or any other specific notations in the file name.
   
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Set Microsoft Print to PDF as default printer
 
@@ -73,6 +100,19 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type **control panel** and hit Enter.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Make sure you set**Category** as your view-by. Then find**View devices and printers** . Click on it.
 
@@ -90,38 +130,37 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and click**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Find**Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,19 +174,6 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box. Type **control panel** and hit Enter.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
@@ -167,13 +193,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Choose**PORTPROMPT: (Local Port)** from the drop-down list under Use an existing port. Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12.jpg)
@@ -182,16 +201,16 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Tick on **Replace the current driver** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Click **Next** .
 
@@ -222,13 +241,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Add-a-device-1200x774.jpg)
@@ -238,10 +250,10 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-The-printer-that-I-want-isnt-listed-1200x743.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
@@ -279,14 +291,24 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-beware-the-allure-of-sham-youtube-audience-for-2024/"><u>[New] Beware the Allure of Sham YouTube Audience for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-monetizing-content-understanding-youtubes-cpm/"><u>[Updated] 2024 Approved Monetizing Content Understanding YouTube's CPM</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-5-5/"><u>「2024 お盆休暇で超特選!? 伝統文化と新しい体験を堪能する5つのアイディア - 今年はやってみたいことが5つ」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-error-in-google-chrome-easily-fix-errnamenotresolved/"><u>Bypass the ERROR in Google Chrome – Easily Fix 'ERR_NAME_NOT_RESOLVED'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-renderer-cant-start-error-updates/"><u>Bypassing the 'Renderer Can't Start' Error Updates</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-90-lite-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor 90 Lite with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-s23-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy S23 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-your-gaming-experience-in-world-of-warcraft-by-syncing-device-drivers-correctly/"><u>Optimize Your Gaming Experience in World of Warcraft by Syncing Device Drivers Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-solving-unidentified-usb-and-descriptor-issues/"><u>The Ultimate Guide to Solving Unidentified USB & Descriptor Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs/"><u>2024 Approved Streamline Your Life with These 5 Chrome Tools for FB Video Grabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tap-into-the-funny-kapwing-for-meme-makers/"><u>2024 Approved Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-correcting-app-start-up-error-error-code-0xc000007b/"><u>Comprehensive Guide to Correcting App Start-Up Error [Error Code 0xC000007B]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters-for-2024/"><u>From Delivery to Discovery Enhancing Initial Encounters for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fuhrende-programme-zum-umwandeln-von-youtube-videos-in-mp3-fur-macos-kostenlos-and-aktuell-2017-2018/"><u>Führende Programme Zum Umwandeln Von YouTube Videos in MP3 Für macOS, Kostenlos & Aktuell 2017-2018</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-stylus-working-again-5-rapid-repair-techniques/"><u>Get Your Huion Stylus Working Again: 5 Rapid Repair Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-can-i-stop-my-videos-from-flipping-on-instagram-in-2024/"><u>How Can I Stop My Videos From Flipping on Instagram, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-opengl-demystifying-and-fixing-error-1281/"><u>Mastering OpenGL: Demystifying and Fixing Error 1281</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-restoring-healthy-system-files-for-your-windows-11-device/"><u>Mastering the Art of Restoring Healthy System Files for Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-fixing-google-chromes-black-screen-dilemma/"><u>Resolving the Issue: A Step-by-Step Guide to Fixing Google Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-when-windows-fails-to-identify-correct-printer-drivers/"><u>Solution Guide: When Windows Fails to Identify Correct Printer Drivers</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-storm-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Storm 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-solutions-resolving-the-installation-unsuccessful-on-windows-error/"><u>Swift Solutions: Resolving the 'Installation Unsuccessful on Windows' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-for-addressing-spikes-in-cpu-usage-due-to-windows-audio-graph-component/"><u>Tips for Addressing Spikes in CPU Usage Due to Windows Audio Graph Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-warframe-game-updates-that-wont-install/"><u>Troubleshooting Tips: Fixing 'Warframe' Game Updates That Won't Install</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
 </ul></div>
 

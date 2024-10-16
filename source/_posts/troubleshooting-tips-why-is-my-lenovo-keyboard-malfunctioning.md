@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Why Is My Lenovo Keyboard Malfunctioning?"
-date: 2024-10-05T16:48:30.676Z
-updated: 2024-10-09T21:30:32.853Z
+date: 2024-10-12T00:17:35.056Z
+updated: 2024-10-15T20:56:52.442Z
 tags:
   - win11
   - win10
@@ -36,15 +36,22 @@ thumbnail: https://thmb.techidaily.com/832e07214d583ae4ade8f559d698c75010773d448
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -64,28 +71,30 @@ thumbnail: https://thmb.techidaily.com/832e07214d583ae4ade8f559d698c75010773d448
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -100,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/832e07214d583ae4ade8f559d698c75010773d448
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -124,13 +126,20 @@ thumbnail: https://thmb.techidaily.com/832e07214d583ae4ade8f559d698c75010773d448
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -143,28 +152,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
@@ -199,16 +188,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-2023s-finest-zero-cost-online-broadcast-software-roundup/"><u>[Updated] 2023'S Finest Zero-Cost Online Broadcast Software Roundup</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-jujutsu-kaisens-impact-the-tiktok-challenge-perspective-for-2024/"><u>[Updated] Jujutsu Kaisen's Impact The TikTok Challenge Perspective for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-hot-40i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Hot 40i? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-xiaomi-14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Xiaomi 14</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-5-anticipating-its-arrival-whats-the-scheduled-timeline/"><u>GPT-5: Anticipating Its Arrival – What's the Scheduled Timeline?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mic-troubles-in-windows-11-diagnose-and-rectify-common-issues/"><u>Mic Troubles in Windows 11: Diagnose and Rectify Common Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-issue-comprehensive-guide-for-windows-device-manager/"><u>Resolving the 'Code 28' Issue: Comprehensive Guide for Windows Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-your-computer-when-you-encounter-error-0xc0000005-on-windows/"><u>Troubleshooting and Repairing Your Computer When You Encounter Error 0XC0000005 on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-entry-point-cannot-be-located-errors-on-pc/"><u>Troubleshooting and Solutions for 'Entry Point Cannot Be Located' Errors on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-a-non-responsive-laptop-trackpad-issue/"><u>Ultimate Guide: Fixing a Non-Responsive Laptop Trackpad Issue</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-deciphering-youtubes-featured-comment-selection/"><u>[New] Deciphering YouTube's Featured Comment Selection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-reviews-top-5-high-performance-video-devices-for-2024/"><u>[New] Expert Reviews Top 5 High-Performance Video Devices for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-screen-recorder-for-chrome-devices/"><u>[New] In 2024, Best Screen Recorder for Chrome Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leading-the-pack-2023s-8-facebook-movie-downloads/"><u>[Updated] 2024 Approved Leading the Pack 2023'S #8 Facebook Movie Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-user-friendly-tutorial-for-rectifying-audio-output-not-detected-in-windows-11/"><u>A User-Friendly Tutorial for Rectifying Audio Output Not Detected in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-errors-fix-unresponsive-individual-configuration-features/"><u>Bypassing Errors: Fix Unresponsive Individual Configuration Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-persistent-errors-in-call-of-duty-black-ops-4/"><u>Effective Fixes for Persistent Errors in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-and-update-of-surface-book-2s-drivers-get-started-now/"><u>Effortless Download & Update of Surface Book 2'S Drivers – Get Started Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-list-of-top-5-videographer-software/"><u>In 2024, Ultimate List of Top 5 Videographer Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-online-vendors-that-specialize-in-high-quality-tv-units/"><u>Leading Online Vendors That Specialize in High-Quality TV Units</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tiny-videos-deciphered-crucial-elements-in-2024/"><u>Tiny Videos Deciphered Crucial Elements, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-print-screen-working-on-windows-diagnose-and-fix-steps/"><u>Why Isn't My Print Screen Working on Windows? – Diagnose & Fix Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-hello-and-its-compatible-camera-selection/"><u>Windows Hello and Its Compatible Camera Selection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Hurdles of Qualification: Understanding Teredo's Shortcomings"
-date: 2024-10-05T18:58:54.941Z
-updated: 2024-10-09T17:41:44.997Z
+date: 2024-10-14T21:37:34.259Z
+updated: 2024-10-16T00:50:00.925Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Check your headset**
 
  First of all, you need to check your headset’s cables and ports to see if they are working properly.
@@ -65,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 3) Try your PS4 mic again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -90,22 +76,16 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -128,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
@@ -136,22 +123,41 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### in Windows 10
 
@@ -163,44 +169,31 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2**
 
@@ -211,6 +204,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
@@ -224,18 +224,18 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Replace with a PS4 microphone
 
@@ -263,24 +263,24 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-auroras-dynamic-range-feature-a-detailed-perspective/"><u>[New] Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-vivas-video-app-a-complete-analysis/"><u>[New] Inside Viva's Video App A Complete Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-faceoff-who-wins-in-features-and-performance-googles-bard-or-microsoftcups-bing-chat/"><u>AI Faceoff: Who Wins in Features and Performance - Google's Bard or Microsoft'cups Bing Chat?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-for-missing-bluetooth-in-windows-11-step-by-step-tutorial/"><u>Easy Troubleshooting for Missing Bluetooth in Windows 11 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-1053-strategies-for-prompt-start-up-and-control-of-services/"><u>Fixing Error 1053: Strategies for Prompt Start-Up and Control of Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-non-sleepy-windows-11-system/"><u>Fixing Non-Sleepy Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-decide-on-msdatspeakerdll-management-preservation-or-purging/"><u>How to Decide on msdatspeaker.dll Management: Preservation or Purging</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-find-download-and-update-elan-smbus-driver-on-windows-efficiently/"><u>How to Find, Download and Update ELAN SMBus Driver on Windows Efficiently</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v27e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V27e to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-issues-fix-inactive-letters-on-your-win-10-or-win-11-system-today/"><u>Keyboard Issues? Fix Inactive Letters on Your Win 10 or Win 11 System Today</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/optimizing-the-customer-journey-boosting-trust-and-retention-in-banking/"><u>Optimizing the Customer Journey: Boosting Trust & Retention in Banking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-system-issues-by-updating-missing-integral-computer-media-drivers-now/"><u>Resolve System Issues by Updating Missing Integral Computer Media Drivers Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/role-of-rituals/"><u>Role of Rituals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/shutter-wisdom-tips-for-astounding-image-finishes/"><u>Shutter Wisdom Tips for Astounding Image Finishes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-mastering-the-importexport-of-webm-files-using-adobe-after-effects/"><u>Step-by-Step Guide: Mastering the Import/Export of WebM Files Using Adobe After Effects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-limited-system-capacity-issues/"><u>Troubleshooting: Overcoming Limited System Capacity Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unavailable-microsoft-smartscreen-service-temporarily-offline/"><u>Unavailable: Microsoft SmartScreen Service Temporarily Offline</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-in-depth-training-on-googles-automatic-transcription-tool/"><u>[New] 2024 Approved In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ideal-app-selection-top-10-tools-for-instagram-reel-excellence/"><u>[Updated] 2024 Approved Ideal App Selection Top 10 Tools for Instagram Reel Excellence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhance-your-real-time-periscope-performance-for-2024/"><u>[Updated] Enhance Your Real-Time Periscope Performance for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-securing-top-tier-images-for-free/"><u>2024 Approved A Guide to Securing Top-Tier Images for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-exceptional-4k-gaming-screens/"><u>5 Exceptional 4K Gaming Screens</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ankers-top-notch-tactical-flashlight-a-comprehensive-guide-to-rugged-outdoor-illumination/"><u>Anker's Top-Notch Tactical Flashlight: A Comprehensive Guide to Rugged Outdoor Illumination</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211841404-get-your-windows-10-bluetooth-back-on-track-with-our-step-by-step-guide/"><u>Get Your Windows 10 Bluetooth Back on Track with Our Step-by-Step Guide!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-poco-m6-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Poco M6 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco Through Google Earth?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-gif-naar-mp4-veranderen-zonder-kosten-professioneel-samenvatting-met-movavi/"><u>Online GIF Naar MP4 Veranderen Zonder Kosten - Professioneel Samenvatting Met Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-cl-dll-non-existence-errors/"><u>Overcoming Cl-DLL Non-Existence Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-speed-up-your-league-of-legends-downloads/"><u>Resolved: How to Speed Up Your League of Legends Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-malfunctioning-fn-buttons-on-asus-computer-systems/"><u>Solving Malfunctioning Fn Buttons on Asus Computer Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-halted-diagnostics-policy-application-a-complete-guide/"><u>Troubleshooting a Halted Diagnostics Policy Application: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unregistered-classes-on-your-windows-10-system-solved/"><u>Troubleshooting Unregistered Classes on Your Windows 10 System [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-repair-nonfunctioning-keys-on-windows-1011/"><u>Troubleshooting: How to Repair Nonfunctioning Keys on Windows 10/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vivacut-masterclass-a-complete-editor-guide-for-2024/"><u>VivaCut Masterclass A Complete Editor Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-spacebar-malfunction-a-step-by-step-solution-guide/"><u>Windows 10 Spacebar Malfunction - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-startup-black-screen-problem-fixes-and-solutions/"><u>Windows 11 Startup Black Screen Problem – Fixes and Solutions</u></a></li>
 </ul></div>
 

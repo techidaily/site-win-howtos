@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved!
-date: 2024-10-07T18:02:39.538Z
-updated: 2024-10-09T18:09:21.033Z
+date: 2024-10-12T20:52:57.987Z
+updated: 2024-10-15T22:48:49.794Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -64,23 +64,16 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -92,6 +85,14 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 3. Click on**your microphone device** and click**Properties** .  
@@ -99,13 +100,6 @@ To do so:
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -128,6 +122,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -161,18 +162,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-make-a-video-best-fits-snapchat-size-on-mac/"><u>[New] 2024 Approved How to Make a Video Best Fits Snapchat Size on Mac?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-effortless-screen-capturing-with-your-iphone-7/"><u>[New] In 2024, Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-digital-scribes-leading-screen-recorder-software/"><u>[Updated] Digital Scribes Leading Screen Recorder Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-neon-borders-on-youtube-thumbnails-step-by-step-guide/"><u>[Updated] Neon Borders on YouTube Thumbnails Step by Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-20-anime-openers-anthems-in-order-for-2024/"><u>Best 20 Anime Openers' Anthems in Order for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-ipads-with-standard-tablets-what-sets-them-apart/"><u>Comparing iPads with Standard Tablets: What Sets Them Apart?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-razr-40-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Razr 40 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolve-error-code-0x800f0831-using-windows-updates/"><u>Quick Fix Guide: Resolve Error Code 0X800f0831 Using Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-semaphore-timeout-interval-exceeded-error-code-0x80070079/"><u>Resolved: Fixing the 'Semaphore Timeout Interval Exceeded' Error Code 0X80070079</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-issues-with-your-lenovo-laptops-webcam-a-step-by-step-guide/"><u>Solving Issues with Your Lenovo Laptop's Webcam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721442259279-struggling-with-iphoneipad-software-updates-discover-9-reliable-solutions/"><u>Struggling with iPhone/iPad Software Updates? Discover 9 Reliable Solutions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-future-is-now-transformative-metaverse-techniques/"><u>The Future Is Now Transformative Metaverse Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211532287-troubleshooting-non-functional-volume-buttons-in-windows-11-solved/"><u>Troubleshooting Non-Functional Volume Buttons in Windows 11 – Solved</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[New] Dive Into Social Media Streams Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-best-binge-friends-amazon-primes-most-liked-shows-23-for-2024/"><u>[Updated] Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/bite-sized-narrative-notation/"><u>Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/champion-avc-player-for-seamless-viewing-for-2024/"><u>Champion AVC Player for Seamless Viewing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/determining-if-netflix-is-down-tips-and-tricks-to-restore-functionality/"><u>Determining If Netflix Is Down: Tips & Tricks to Restore Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-five-distinctive-features-of-premium-gaming-devices/"><u>Exploring Five Distinctive Features of Premium Gaming Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-stubborn-windows-update-freeze-at-0-with-ease/"><u>Fixing a Stubborn Windows Update Freeze at 0% with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcoming-cast-failures-windows-10-users-rejoice/"><u>Guide to Overcoming Cast Failures: Windows 10 Users Rejoice!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-with-initializing-3d-device-components-in-directx/"><u>Overcoming Challenges with Initializing 3D Device Components in DirectX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steams-inaccessible-game-servers/"><u>Resolving Steam's Inaccessible Game Servers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone SE (2022) You Should Try Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-processor-usage-linked-to-windows-sound-device-graph-issue/"><u>Troubleshooting High Processor Usage Linked to Windows Sound Device Graph Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-astro-a40s-unresponsive-mic-solutions-revealed/"><u>Troubleshooting Your Astro A40's Unresponsive Mic - Solutions Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-tackling-videodxgkrnlfatalerror-on-your-pc-with-windows/"><u>Ultimate Guide: Tackling Video_Dxgkrnl_Fatal_Error on Your PC with Windows</u></a></li>
 </ul></div>
 

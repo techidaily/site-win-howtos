@@ -1,7 +1,7 @@
 ---
 title: Laptop Sound Issues? Solve Unresponsive Microphone Problems Now
-date: 2024-10-05T23:23:29.881Z
-updated: 2024-10-09T16:20:23.667Z
+date: 2024-10-14T16:29:44.636Z
+updated: 2024-10-16T02:30:40.981Z
 tags:
   - win11
   - win10
@@ -41,34 +41,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -86,6 +65,20 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -93,10 +86,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -115,17 +108,32 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -160,20 +168,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-securely-capturing-and-storing-itunes-media-content/"><u>[New] 2024 Approved Securely Capturing and Storing iTunes Media Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>[New] In 2024, The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-bad-image-error-on-windows-1110/"><u>[Solved] Bad Image Error on Windows 11/10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-next-gen-entertainment-experience-scrutiny/"><u>[Updated] 2024 Approved Next-Gen Entertainment Experience Scrutiny</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-mobile-melodies-personalize-ios-ringtones/"><u>[Updated] Mastering Mobile Melodies Personalize iOS Ringtones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>2024 Approved Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-heat-issues-on-the-hp-spectre-x360-expert-advice-and-fixes/"><u>Dealing with Heat Issues on the HP Spectre X360: Expert Advice & Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-tools-for-fixing-windows-11-understanding-sfcdism-utilities/"><u>Effective Tools for Fixing Windows 11: Understanding SFC/DISM Utilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/latest-techniques-to-eliminate-latency-problems-in-fallout-4/"><u>Latest Techniques to Eliminate Latency Problems in Fallout 4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-guide-how-to-enable-microsoft-pdf-printing-in-windows-11/"><u>Resolved Guide: How to Enable Microsoft PDF Printing in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-conversations-using-todays-latest-version-gpt-4-with-chatgpt/"><u>Revolutionize Your Conversations: Using Today's Latest Version, GPT-4, with ChatGPT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-resolving-hp-monitor-driver-problems-on-windows/"><u>Step-by-Step Guide: Resolving HP Monitor Driver Problems on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stream-on-the-big-screen-how-to-hook-up-a-laptop-to-tv-via-hdmi/"><u>Stream on the Big Screen: How to Hook Up a Laptop to TV via HDMI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-what-to-do-when-you-see-errcachemiss-on-google-chrome/"><u>Troubleshooting: What To Do When You See 'ERR_CACHE_MISS' On Google Chrome</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-integration-for-pc-and-android-users-explained-for-2024/"><u>[New] Facebook Video Integration for PC & Android Users Explained for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplysnap-screen-shots-for-w10-users-for-2024/"><u>[Updated] SimplySnap Screen Shots for W10 Users for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tips-and-tricks-for-windows-hdr-video-workflows/"><u>[Updated] Tips and Tricks for Windows HDR Video Workflows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>2024 Approved Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-gameplay-troubleshooting-six-steps-to-fix-glitches-and-stutters/"><u>Baldur's Gate Gameplay Troubleshooting: Six Steps to Fix Glitches and Stutters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-offline-ios-game-selection-for-screen-time-savor-for-2024/"><u>Best Offline iOS Game Selection for Screen Time Savor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bid-farewell-to-shockwave-flash-errors-on-google-chrome-with-this-comprehensive-fix/"><u>Bid Farewell to Shockwave Flash Errors on Google Chrome with This Comprehensive Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-0xc00000e9-blue-screen-of-death-on-your-pc-an-easy-guide/"><u>Diagnosing and Repairing the 0Xc00000e9 Blue Screen of Death on Your PC: An Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862718784-exploring-technology-with-toms-hardware-reviews/"><u>Exploring Technology with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixation-of-windows-failure-to-connect-with-system-event-management-protocols-successfully/"><u>Fixation of Windows Failure to Connect with System Event Management Protocols Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-systemprofile-desktop-missing-from-cwindows-in-windows-1087/"><u>How to Fix: SystemProfile Desktop Missing From C: Windows in Windows 10/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-youtube-sound-issues-in-windows-10-a-step-by-step-guide/"><u>Resolving YouTube Sound Issues in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/run-windows-update/"><u>Run Windows Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/share-wisdom-4-proven-methods-to-tie-fb-stories/"><u>Share Wisdom 4 Proven Methods to Tie FB Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-a-printer-driver-in-windows-os/"><u>Step-by-Step Guide: Removing a Printer Driver in Windows OS</u></a></li>
 </ul></div>
 

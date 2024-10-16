@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Fretful Frequencies: Solving Crackling Sound From Speakers on W11/W7"
-date: 2024-10-04T19:00:24.500Z
-updated: 2024-10-09T19:34:53.008Z
+date: 2024-10-13T00:02:08.594Z
+updated: 2024-10-15T21:19:47.983Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -60,26 +53,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -93,19 +73,34 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -116,17 +111,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -152,24 +148,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-immersive-animal-life-on-android-ultimate-list/"><u>[New] 2024 Approved Immersive Animal Life on Android Ultimate List</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>[Updated] 2024 Approved The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-algorithm-advantage-tips-for-achieving-instagram-video-fame/"><u>2024 Approved The Algorithm Advantage Tips for Achieving Instagram Video Fame</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-broken-pc-components-in-windows-operating-systems/"><u>Easy Fixes for Broken PC Components in Windows Operating Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-lenovo-usb-c-dock-driver-revision/"><u>Easy Lenovo USB-C Dock Driver Revision</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploring-mozillas-split-screen-technique-in-firefox-for-2024/"><u>Exploring Mozilla's Split Screen Technique in Firefox for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-l3150-driver-software-for-compatible-pcs-with-windows-version-xx/"><u>Get the Newest Epson L3150 Driver Software for Compatible PCs with Windows (Version X.X)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-hidden-wi-fi-settings-in-windows-11/"><u>How to Fix Hidden Wi-Fi Settings in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/noise-gone-boosting-audio-back-to-life-in-forza-horizon-4-expert-tips-and-tricks/"><u>Noise Gone? Boosting Audio Back to Life in Forza Horizon 4 - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-addressing-surge-in-disk-usage-from-microsofts-telemetry-feature/"><u>Optimizing Windows 11 Performance: Addressing Surge in Disk Usage From Microsoft's Telemetry Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rapid-resolution-eliminating-the-out-of-memory-bugs-in-rdr2-through-settings-tweaks/"><u>Rapid Resolution: Eliminating the 'Out of Memory' Bugs in RDR2 Through Settings Tweaks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-visibility-of-bluetooth-on-pcs-device-manager/"><u>Solution Guide: Restoring Visibility of Bluetooth on PC's Device Manager</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-smartphone-screens-rapid-fluctuations-with-top-7-effective-solutions/"><u>Solve Your Smartphone Screen's Rapid Fluctuations with Top 7 Effective Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-how-to-repair-content-warning-in-voice-chats-that-arent-working/"><u>Step-by-Step Solutions: How to Repair 'Content Warning' In Voice Chats That Aren't Working</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers/"><u>Strengthening Your Presence Networking Techniques for YouTubers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-overcoming-repeated-rebooting-issues-in-windows-11/"><u>The Ultimate Fixes for Overcoming Repeated Rebooting Issues in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-graphic-driver-conflicts-with-civilization-vi-game/"><u>Troubleshooting Graphic Driver Conflicts with Civilization VI Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-control-malfunction-solutions-at-hand/"><u>Windows 10 Brightness Control Malfunction - Solutions at Hand</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>[Updated] Shooting Stars & Sedans Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-strategies-for-expanding-your-tiktok-influence-via-hashtags/"><u>[Updated] Strategies for Expanding Your TikTok Influence via Hashtags</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screenshot-supreme-expert-analysis-of-recorders/"><u>2024 Approved Screenshot Supreme Expert Analysis of Recorders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g84-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G84 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-activating-your-pcs-bluetooth-feature-in-windows-7/"><u>Easy Fixes: Activating Your PC's Bluetooth Feature in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-understanding-and-solving-the-monitor-doesnt-accept-this-entry/"><u>Error Resolved: Understanding and Solving the 'Monitor Doesn't Accept This Entry'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-proceed-with-admin-rights-prompts-on-windows-solutions-for-11-10-and-nully/"><u>How to Proceed with Admin Rights Prompts on Windows: Solutions for 11, 10 & Nully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-recover-a-frozen-mouse-functionality-on-your-laptop/"><u>How To Quickly Recover a Frozen Mouse Functionality on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-installation-problems-with-the-new-feature-update-for-windows-10-v1607/"><u>How to Resolve Installation Problems with the New Feature Update for Windows 10 V1607</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-p55plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel P55+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-portable-panorama-best-desktop-walls-for-your-laptop/"><u>In 2024, Portable Panorama Best Desktop Walls for Your Laptop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-dating-world-with-chatgpt-tips-for-a-better-matchmaking-experience/"><u>Navigate the Dating World with ChatGPT: Tips for a Better Matchmaking Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dark-mode-solutions-for-a-non-illuminated-razer-keyboard/"><u>Revive Your Dark Mode: Solutions for a Non-Illuminated Razer Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-fixes-for-non-functioning-skype-video-on-windows-11/"><u>Seamless Fixes for Non-Functioning Skype Video on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-video-animation-apps-for-mobile/"><u>Updated In 2024, Expert-Recommended Video Animation Apps for Mobile</u></a></li>
 </ul></div>
 

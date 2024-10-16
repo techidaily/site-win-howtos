@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot the Unusual Black Out on Google Chrome: Expert Tips and Tricks"
-date: 2024-10-05T19:08:26.951Z
-updated: 2024-10-09T21:43:55.496Z
+date: 2024-10-13T19:27:30.354Z
+updated: 2024-10-15T18:25:09.273Z
 tags:
   - win11
   - win10
@@ -67,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
@@ -100,6 +87,14 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 3. Click**Screen saver settings** at the bottom of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -112,15 +107,15 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
@@ -151,24 +146,38 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 3. In the right pane, double-click on**Attributes** to modify it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -177,13 +186,6 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
@@ -215,18 +217,24 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-streamlining-your-digital-liftoffs-using-vlc-for-mp4-and-more/"><u>[Updated] In 2024, Streamlining Your Digital Liftoffs Using VLC for MP4 and More</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>2024 Approved From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/critical-movie-snippets-a-prioritized-list/"><u>Critical Movie Snippets A Prioritized List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-youtube-audio-renderer-error-for-a-smooth-streaming-experience-on-windows-10/"><u>Fixing the YouTube Audio Renderer Error for a Smooth Streaming Experience on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-past-valorants-unending-load-up-expert-advice-for-a-smooth-game-start/"><u>Get Past Valorant's Unending Load Up: Expert Advice for a Smooth Game Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correct-error-message-device-unavailable-code-24-solutions-for-win1087/"><u>Guide to Correct Error Message - Device Unavailable (Code 24), Solutions for Win10/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-resources-not-enough-issues-on-your-device/"><u>How to Overcome 'System Resources Not Enough' Issues on Your Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-ch3nitor-driver-updates-for-ch340-chip-compatible-with-windows-11/"><u>Latest CH3nitor Driver Updates for CH340 Chip: Compatible with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lower-high-wmi-cpu-usage-on-pcs/"><u>Lower High WMI CPU Usage on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-dell-wireless-keyboard-stops-working/"><u>Solutions for When Your Dell Wireless Keyboard Stops Working</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-get-your-madden-22-up-and-running-fast/"><u>Troubleshooting Tips to Get Your Madden 22 Up and Running Fast</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unraveling-the-ultimate-web-tools-for-superb-video-subtitles-for-2024/"><u>Unraveling the Ultimate Web Tools for Superb Video Subtitles for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-complete-guide-to-youtubes-live-image-lore/"><u>[New] In 2024, A Complete Guide to YouTube's Live Image Lore</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-spotting-gone-from-your-friend-list-for-2024/"><u>[New] Spotting Gone From Your Friend List for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-eliteres-converter-windows-mac-and-online-access/"><u>[Updated] In 2024, EliteRes Converter Windows, Mac & Online Access</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-places-to-enjoy-vr-films/"><u>[Updated] In 2024, Ideal Places to Enjoy VR Films</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences-for-2024/"><u>[Updated] Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mellow-melodies-gradual-audio-decline-in-garageband/"><u>[Updated] Mellow Melodies Gradual Audio Decline in Garageband</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-windows-cant-identify-suitable-printer-drivers/"><u>Effective Solutions for When Windows Can't Identify Suitable Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-eliminate-error-0x8024401c-and-restore-seamless-updates-on-your-windows-11-machine/"><u>Expert Solutions to Eliminate Error 0X8024401c & Restore Seamless Updates on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-problem-what-to-do-when-logitechs-scroll-wheel-malfunctions/"><u>Fixing the Problem: What to Do When Logitech's Scroll Wheel Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-secure-connection-failed-errors-in-mozilla-firefox/"><u>How to Fix 'Secure Connection Failed' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-ts-11-bluetooth-connection-problem-and-start-pairing-your-gadgets/"><u>How to Resolve Windows T's 11 Bluetooth Connection Problem and Start Pairing Your Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/illuminate-your-pc-effective-solutions-for-overcoming-windows-11s-black-screen-troubles/"><u>Illuminate Your PC: Effective Solutions for Overcoming Windows 11'S Black Screen Troubles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-you-cant-find-mso-dll-file-on-your-computer/"><u>Quick Fixes for When You Can't Find MSO DLL File on Your Computer</u></a></li>
+<li><a href="https://fox-within.techidaily.com/search-optimization-tips-the-ultimate-guide-to-using-edit-search-dialogs-effectively/"><u>Search Optimization Tips: The Ultimate Guide to Using Edit Search Dialogs Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-malfunctioning-integrated-webcam-on-a-windows-device/"><u>Step-by-Step Guide to Fixing a Malfunctioning Integrated Webcam on a Windows Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-missing-bluetooth-settings-in-windows-10-quick-and-easy-methods/"><u>Troubleshoot Missing Bluetooth Settings in Windows 10 - Quick & Easy Methods!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-successful-windows-11-patch-application-issue-resolved/"><u>Troubleshooting Steps for a Successful Windows 11 Patch Application: [ISSUE RESOLVED]</u></a></li>
 </ul></div>
 

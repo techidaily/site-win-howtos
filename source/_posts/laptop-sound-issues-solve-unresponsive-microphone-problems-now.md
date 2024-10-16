@@ -1,7 +1,7 @@
 ---
 title: Laptop Sound Issues? Solve Unresponsive Microphone Problems Now!
-date: 2024-10-06T20:02:18.064Z
-updated: 2024-10-09T23:42:45.529Z
+date: 2024-10-09T02:01:00.857Z
+updated: 2024-10-15T23:13:11.040Z
 tags:
   - win11
   - win10
@@ -54,19 +54,6 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -80,23 +67,9 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -115,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -137,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 5. Check to see if your computer keeps going to sleep.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -152,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
@@ -167,6 +147,20 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -178,16 +172,30 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
@@ -213,22 +221,22 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quietude-quotient-windowsmac-music-control/"><u>[New] Quietude Quotient Windows/Mac Music Control</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[Updated] In 2024, Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-key-steps-to-preserve-and-broadcast-live-sports-successfully-for-2024/"><u>[Updated] Key Steps to Preserve & Broadcast Live Sports Successfully for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-a-damaged-volume-error-code-0x80071ac3-a-troubleshooting-guide/"><u>Dealing with a Damaged Volume (Error Code 0X80071AC3) - A Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-silence-amidst-configuration-success/"><u>Device Silence Amidst Configuration Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-failed-renderer-start-up-in-your-browser-new-patch-released/"><u>Fixing the Failed Renderer Start-Up in Your Browser (New Patch Released)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/geforce-7025-now-playing-well-on-win11/"><u>GeForce 7025, Now Playing Well on Win11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266155863-get-your-high-quality-iphone-eraser-now/"><u>Get Your High-Quality iPhone Eraser Now!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-detailed-poetry-books-crafting/"><u>Harnessing ChatGPT for Detailed Poetry Books Crafting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-update-and-launch-the-last-epoch-software-for-pc-2024-edition/"><u>How to Successfully Update and Launch the Last Epoch Software for PC - 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-touchscreen-troubleshooting-in-windows-10-a-comprehensive-5-way-approach/"><u>Mastering Touchscreen Troubleshooting in Windows 10: A Comprehensive 5-Way Approach</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-accessing-texts-and-calls-during-ios-do-not-disturb-settings-top-8-tips/"><u>Solutions for Accessing Texts and Calls During iOS Do Not Disturb Settings - Top 8 Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-11-night-light-problems-a-comprehensive-tutorial/"><u>Solving Windows 11 Night Light Problems - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-file-retrieval-tips-restoring-missing-privileges-successfully/"><u>Steam File Retrieval Tips: Restoring Missing Privileges Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-computer-not-closing-windows-10/"><u>Troubleshooting Steps: How To Fix Computer Not Closing Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-the-dreaded-0x800f0922-update-glitch-in-windows-10/"><u>Troubleshooting Tips for Resolving the Dreaded 0X800f0922 Update Glitch in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-conquer-your-screen-space-integrating-video-within-video/"><u>[New] Conquer Your Screen Space Integrating Video Within Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-adobe-photostability-effective-or-fanciful/"><u>[Updated] Adobe PhotoStability Effective or Fanciful?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-techniques-for-integrating-b-roll-sequences/"><u>[Updated] Essential Techniques for Integrating B-Roll Sequences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-potential-the-right-propeller-match-in-fpv-flight/"><u>2024 Approved Unlocking Potential The Right Propeller Match in FPV Flight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-dark-to-bright-repairing-google-chromes-unexpected-blackout-issues/"><u>From Dark to Bright: Repairing Google Chrome's Unexpected Blackout Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-corsair-keyboard-back-in-action-after-malfunction/"><u>How to Get Your Corsair Keyboard Back in Action After Malfunction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pure-serenity-in-the-air-top-asmr-microphones-at-low-costs/"><u>In 2024, Pure Serenity in the Air - Top ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/jumpstart-gaming-fun-xbox-one-and-zoom-integration-for-2024/"><u>Jumpstart Gaming Fun Xbox One and Zoom Integration for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-visuals-on-tiktok-with-smart-background-choices/"><u>Master the Art of Visuals on TikTok with Smart Background Choices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977132043-seamless-compatibility-get-your-brother-mfc-7360n-printer-running-in-windows-10-87-with-updated-drivers/"><u>Seamless Compatibility: Get Your Brother MFC-7360N Printer Running in Windows 10, 8/7 with Updated Drivers!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silence-the-screen-expert-solutions-for-cursor-stabilization-issues/"><u>Silence the Screen: Expert Solutions for Cursor Stabilization Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-common-errors-encountered-in-motherboard-post-process/"><u>Solutions for Common Errors Encountered in Motherboard POST Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-pubg-startup-failures-a-detailed-tutorial-for-gamers-and-techies/"><u>Solving PUBG Startup Failures : A Detailed Tutorial for Gamers and Techies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solving-astro-a40-microphone-issues-step-by-step-guide/"><u>Successfully Solving Astro A40 Microphone Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fix-a-nonfunctional-lenovo-keyboard/"><u>Troubleshooting Solutions: Fix a Nonfunctional Lenovo Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-sims-4-doesnt-launch-problem/"><u>Ultimate Guide: Resolving 'Sims 4 Doesn't Launch' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-fix-a-non-functional-space-bar-problem-effectively/"><u>Windows 11: How To Fix a Non-Functional Space Bar Problem Effectively</u></a></li>
 </ul></div>
 

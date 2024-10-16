@@ -1,7 +1,7 @@
 ---
 title: "How to Turn On Your Inactive Printer: Overcoming Error Code -30 Hurdles"
-date: 2024-10-08T23:28:09.727Z
-updated: 2024-10-09T19:23:14.169Z
+date: 2024-10-13T20:40:48.914Z
+updated: 2024-10-15T16:49:41.209Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Stop CPU / GPU overclocking
 
  you may encounter the “Error 0x887A0006” error message if you’re overclocking your CPU or GPU during the game. The increasing CPU / GPU speed may crash the game.
@@ -47,6 +54,19 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
  If you’re overclocking your CPU or GPU, you need to set your CPU / GPU clock speed back to normal. Then restart your PC to see if this issue works for you.
 
 If this issue persists, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,6 +92,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Modify your graphics card settings
 
  If this error message reappears after you update your graphics driver to the latest version, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -86,32 +113,18 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -124,13 +137,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
@@ -138,13 +144,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
@@ -154,13 +153,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -173,6 +165,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and type**notepad** , then click**Open** to open Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Open-Notepad.png)
 2. **Copy and paste** the following text into Notepad:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you are using a 64-bit system** , copy and paste this:  
  _Windows Registry Editor Version 5.00_  
@@ -188,6 +187,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -199,15 +206,15 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
 3. Restart your PC to save the change.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work for you, try the next fix, below.
 
@@ -219,6 +226,13 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
@@ -243,13 +257,6 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
 
@@ -276,16 +283,22 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-connecting-twitters-vids-with-fb-audience-for-2024/"><u>[New] Connecting Twitter's Vids with FB Audience for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-enriching-youtube-channels-amp-up-with-songs/"><u>2024 Approved Enriching Youtube Channels Amp up with Songs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>2024 Approved Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>2024 Approved Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221539564-aviswf-movavi/"><u>網頁版AVI到SWF自由下載 - MOVAVI影片轉化工具</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-motorola-edge-2023-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Motorola Edge 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-methods-for-resolving-frequent-mouse-unplugging-problems/"><u>Effective Methods for Resolving Frequent Mouse Unplugging Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207590771-how-to-fix-the-issue-of-vanishing-icons-on-your-windows-11-desktop-solved/"><u>How to Fix the Issue of Vanishing Icons on Your Windows 11 Desktop – Solved</u></a></li>
-<li><a href="https://extra-support.techidaily.com/listenleads-whats-better-than-dacast-in-2024/"><u>ListenLeads What's Better than DaCast, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-fixing-battleye-service-installation-issues-now-working/"><u>Solved: Fixing BattlEye Service Installation Issues - Now Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stuck-on-a-unprintable-pdf-problem-quick-troubleshooting-tips-inside/"><u>Stuck on a Unprintable PDF Problem? Quick Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-discovering-the-most-trusted-mac-snipers/"><u>[New] In 2024, Discovering the Most Trusted Mac Snipers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-hunt-cut-to-7-fps-giants/"><u>[Updated] 2024 Approved The Ultimate Hunt Cut to 7 FPS Giants</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-successful-youtube-live-games/"><u>[Updated] 2024 Approved Unveiling the Secrets of Successful YouTube Live Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/convert-srt-with-ease-the-finest-free-converters-ranked/"><u>Convert SRT with Ease - The Finest FREE Converters Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-endless-loads-a-guide-to-resolve-freezing-at-startup-in-far-cry-5/"><u>Fixing Endless Loads: A Guide to Resolve Freezing at Startup in Far Cry 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-an-edge-hidden-desktop-window/"><u>Guide: Restoring an Edge-Hidden Desktop Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connections-in-windows-11/"><u>How to Repair Unresponsive USB Connections in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-professional-videos-with-free-intros/"><u>In 2024, Craft Professional Videos with Free Intros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-view-bots-and-other-easy-hacks-to-increase-views/"><u>In 2024, YouTube View Bots and Other Easy Hacks to Increase Views</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-start-for-my-pc-awoke-defying-windows-edition/"><u>No Start for My PC: Awoke-Defying Windows Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211820093-resolved-starting-a-hosted-wi-fi-connection-issues-in-windows-11-fixed/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues in Windows 11 - Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-not-found-issue-a-comprehensive-guide/"><u>Resolving the d3dxt9_39.dll File Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-sailing-through-blocky-worlds-overcoming-minecraft-lag-issues/"><u>Smooth Sailing Through Blocky Worlds: Overcoming Minecraft Lag Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-problem-in-windows-11/"><u>Troubleshooting the Invisible Mouse Problem in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-value-the-best-budget-friendly-4k-tv-on-the-market-hisense-50h8f-hdr-edition/"><u>Unveiling the Value: The Best Budget-Friendly 4K TV on the Market, Hisense 50H8F HDR Edition</u></a></li>
 </ul></div>
 

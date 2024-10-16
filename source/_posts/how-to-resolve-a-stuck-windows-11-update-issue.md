@@ -1,7 +1,7 @@
 ---
 title: How To Resolve A 'Stuck' Windows 11 Update Issue?
-date: 2024-10-06T19:54:49.237Z
-updated: 2024-10-09T19:35:35.642Z
+date: 2024-10-12T05:59:51.177Z
+updated: 2024-10-15T23:59:27.058Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -117,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -132,16 +132,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
@@ -149,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -180,10 +174,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -194,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -203,13 +204,6 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -238,24 +232,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-optimize-collaborative-sessions-zooming-in-on-google-meet-participants-for-2024/"><u>[New] Optimize Collaborative Sessions Zooming in on Google Meet Participants for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[Updated] In 2024, First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lenovo-thinkphone-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lenovo ThinkPhone? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-error-80070n00e-efficiently-correct-windows-update-issues-now/"><u>Bypass Error 80070N00E: Efficiently Correct Windows Update Issues Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-down-on-error-code-0x80072ee7-in-your-windows-store/"><u>Cracking Down on Error Code 0X80072EE7 in Your Windows Store</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>Dominate IGTV With Follower Growth Essential Techniques Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-rapid-solutions-for-laptops-with-dead-batteries/"><u>Expert Advice: Rapid Solutions for Laptops with Dead Batteries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-error-code-0x80072ee7-issue-with-windows-store-a-step-by-step-guide/"><u>Fixing the 'Error Code 0X80072EE7' Issue with Windows Store – A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/game-on-unlock-the-secrets-of-effective-lol-recording/"><u>Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-back-to-streaming-a-guide-to-fixing-skype-videos-on-windows-11/"><u>Get Back to Streaming: A Guide to Fixing Skype Videos on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-logitech-keyboard-recognized-on-a-newly-installed-windows-11-system/"><u>Getting Your Logitech Keyboard Recognized on a Newly Installed Windows 11 System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-find-x7-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Find X7 Ultra FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-net.techidaily.com/professional-screenshot-solutions-affordable-and-effective-replacements-for-snagit/"><u>Professional Screenshot Solutions: Affordable & Effective Replacements for Snagit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-typing-experience-with-our-comprehensive-reset-techniques-for-keyboards/"><u>Revive Your Typing Experience with Our Comprehensive Reset Techniques for Keyboards</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-as-silk-eliminating-lag-in-your-guilty-gear-strive-matches/"><u>Smooth as Silk: Eliminating Lag in Your Guilty Gear -Strive- Matches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-problem-resolving-the-issue-of-a-frozen-windows-update-at-100/"><u>Solve Your Problem: Resolving the Issue of a Frozen Windows Update at 100%</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-minecraft-error-code-5/"><u>Troubleshooting Guide: Resolve Minecraft Error Code 5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>[New] 2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-clarity-top-10-phones-excelling-at-4k-video-recording/"><u>[Updated] Focus on Clarity Top 10 Phones Excelling at 4K Video Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-an-nft-easily-an-ultimate-guide-for-beginners/"><u>[Updated] How to Create an NFT Easily An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-your-android-videos/"><u>2024 Approved Illuminating Your Android Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-common-drone-purchase-mistakes-a-checklist-for-2024/"><u>Avoiding Common Drone Purchase Mistakes A Checklist for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-windows-recovery-techniques-fix-the-failed-startup-issue/"><u>DIY Windows Recovery Techniques: Fix the Failed Startup Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapters-on-your-windows-pc/"><u>Download and Install Atheros Network Adapters on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-night-light-feature-issues-on-windows-11/"><u>Fixing the Night Light Feature Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-touchpad-visibility-in-windows-11-systems/"><u>Guide to Restoring Touchpad Visibility in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-device-currently-in-use-error-on-hdmi-connections/"><u>How to Fix the 'Device Currently In Use' Error on HDMI Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-audio-device-missing-on-windows-1011-computers-efficiently/"><u>How To Solve 'Audio Device Missing' On Windows 10/11 Computers Efficiently</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>In 2024, The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-solutions-for-windows-11-users/"><u>Keyboard Malfunction Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/master-list-of-vimeo-video-capturers-for-2024/"><u>Master List of Vimeo Video Capturers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-issues-in-fortnite/"><u>Overcoming Launch Issues in Fortnite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pairing-top-ten-kiss-off-classics-at-romances-peak-for-2024/"><u>Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-persistent-boot-issues-on-your-desktop-or-laptop/"><u>Solving Persistent Boot Issues on Your Desktop or Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-fn-key-malfunction-on-your-dell-computer-a-step-by-step-guide/"><u>Solving the Fn-Key Malfunction on Your Dell Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-recommendations-for-preservation/"><u>Understanding msdia80.dll: Importance and Recommendations for Preservation</u></a></li>
 </ul></div>
 

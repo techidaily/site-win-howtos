@@ -1,7 +1,7 @@
 ---
 title: "How to Easily Overcome the Windows Update Issue: X0x800704C7"
-date: 2024-10-06T23:30:04.251Z
-updated: 2024-10-09T18:02:21.754Z
+date: 2024-10-14T18:18:00.129Z
+updated: 2024-10-16T06:39:54.841Z
 tags:
   - win11
   - win10
@@ -78,36 +78,39 @@ net start cryptsvc
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
-6. Wait for the export process to be complete.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
+6. Wait for the export process to be complete.
 
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -124,32 +127,25 @@ To do so:
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -158,19 +154,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -178,10 +161,17 @@ To do so:
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
@@ -210,18 +200,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unveil-tiktoks-most-effective-typefaces-for-video-growth-this-year/"><u>[New] 2024 Approved Unveil TikTok's Most Effective Typefaces for Video Growth This Year</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>[New] Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-skyrocket-traffic-key-strategies-for-youtube-videos/"><u>2024 Approved Skyrocket Traffic Key Strategies for YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-correcting-windows-10s-troubling-update-bug-0x80240034/"><u>Complete Walkthrough: Correcting Windows 10'S Troubling Update Bug 0X80240034</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effectively-decreasing-high-cpu-demands-in-wdf-based-systems/"><u>Effectively Decreasing High CPU Demands in WDF-Based Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202021194-expert-advice-on-correcting-windows-update-failure-with-error-code-0x8024402c-learn-how-here/"><u>Expert Advice on Correcting Windows Update Failure with Error Code 0X8024402C - Learn How Here!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>In 2024, Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-durecorder-simplified-essential-guidelines-and-reviews/"><u>In 2024, DuRecorder Simplified Essential Guidelines & Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210046270-persistent-windows-update-problems-heres-what-you-need-to-do/"><u>Persistent Windows Update Problems? Here's What You Need To Do!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-synchronization-issues-a-comprehensive-guide/"><u>Resolving Audio Synchronization Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpening-the-sight-on-minecraft-structures-for-2024/"><u>Sharpening the Sight on Minecraft Structures for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tactics-for-resolving-obs-gaming-screenshots-turned-black/"><u>Troubleshooting Tactics for Resolving OBS Gaming Screenshots Turned Black</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-wont-update-discover-the-steps-to-resolve-update-freezing-issues/"><u>Windows 10 Won’t Update? Discover the Steps to Resolve Update Freezing Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[New] In 2024, Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-booting-blues-fixing-your-computers-red-screen-issue/"><u>Beating the Booting Blues: Fixing Your Computer's Red Screen Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-livre-ogv-para-avi-online-ferramentas-de-conversao-gratuita-do-movavi/"><u>Conversor Livre OGV Para AVI Online - Ferramentas De Conversão Gratuita Do Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-sluggish-or-frozen-google-chrome-back-on-track/"><u>How to Get Your Sluggish or Frozen Google Chrome Back on Track</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-temperature-right-with-arctics-superior-liquid-freezer-ii-aio-cooler-for-a-steal-at-just-74/"><u>Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-spotify-advertising-successfully-for-2024/"><u>Navigating Spotify Advertising Successfully for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-a-fix-for-hp-laptops-with-defective-usb-slots/"><u>Resolving Connectivity Issues: A Fix for HP Laptops with Defective USB Slots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-problems-whenever-you-encounter-an-hiccup-on-steam-games-updateinstall/"><u>Resolving Problems Whenever You Encounter an Hiccup on Steam Games Update/Install</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silenced-messages-discover-top-techniques-to-enable-iphone-text-sounds/"><u>Silenced Messages? Discover Top Techniques to Enable iPhone Text Sounds!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-laptops-of-2021-ranking-with-a-close-look-at-the-lenovo-yoga-a940/"><u>The Best Laptops of 2021: Ranking with a Close Look at the Lenovo Yoga A940</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-rar-archives-to-crystal-clear-mp3s-with-these-2-simple-tricks-eliminate-file-format-worries-today/"><u>Transform Your RAR Archives to Crystal Clear MP3s with These 2 Simple Tricks - Eliminate File Format Worries Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-error-0x8024401c-during-windows-updates-for-windows-11-users/"><u>Troubleshooting Guide: Fixing Error 0X8024401c During Windows Updates for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-windows-update-error-0x80n0490-code-successfully/"><u>Troubleshooting Tips for Resolving Windows Update Error 0X80n0490 Code Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-hdcp-compliant-monitor-displays/"><u>Troubleshooting: Fixing Non-HDCP Compliant Monitor Displays</u></a></li>
 </ul></div>
 

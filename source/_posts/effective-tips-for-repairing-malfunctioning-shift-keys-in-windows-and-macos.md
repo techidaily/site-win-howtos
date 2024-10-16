@@ -1,7 +1,7 @@
 ---
 title: Effective Tips for Repairing Malfunctioning Shift Keys in Windows and MacOS
-date: 2024-10-02T19:50:04.643Z
-updated: 2024-10-09T17:06:03.833Z
+date: 2024-10-09T16:55:40.888Z
+updated: 2024-10-16T01:27:30.082Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Otherwise, you need to take a few minutes to read this part.
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
@@ -58,6 +58,13 @@ Otherwise, you need to take a few minutes to read this part.
 
 1. **[Update your device drivers](#f4)**
 2. **[Revert your system from a restore point](#f7)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Try these fixes
 
@@ -72,10 +79,16 @@ Otherwise, you need to take a few minutes to read this part.
 7. [**Reset or reinstall Windows**](#7)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Stop overclocking
@@ -85,13 +98,6 @@ Otherwise, you need to take a few minutes to read this part.
  If you were overclocking your hardware and encounter with RSOD issue, you’d better stop overclocking and remove settings from your device.
 
  To do this, you need to[enter the BIOS system](https://tools.techidaily.com/drivereasy/download/) , then set settings back to default.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your hardware devices and temperature
 
@@ -119,10 +125,10 @@ There are a few things you should do:
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Install the memory back to your computer.
@@ -184,25 +190,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this **red screen error** appears or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -223,14 +215,22 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -245,19 +245,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
@@ -265,6 +252,13 @@ OR
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Revert your system from a restore point
 
@@ -279,6 +273,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
 
@@ -307,16 +308,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] In 2024, Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>2024 Approved Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/apex-legends-bug-fix-overcoming-basic-cheat-protection-errors/"><u>Apex Legends Bug Fix: Overcoming Basic Cheat Protection Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connectivity-solutions-how-to-address-and-fix-remote-server-connection-failures/"><u>Connectivity Solutions: How to Address and Fix Remote Server Connection Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209902838-hamachi-trouble-heres-how-you-can-fix-a-stopped-service-error/"><u>Hamachi Trouble? Here's How You Can Fix a Stopped Service Error!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-google-pixel-8-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Google Pixel 8 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-amazon-fire-hd-10-perfect-family-tablet-with-rich-media-features/"><u>In-Depth Analysis of the Amazon Fire HD 10: Perfect Family Tablet with Rich Media Features</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-replacing-windows-10-photos-8-top-picks-for-2024/"><u>New The Ultimate Guide to Replacing Windows 10 Photos 8 Top Picks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-obs-screen-issue-solutions-for-a-crisp-clear-video-output/"><u>Overcoming OBS Screen Issue - Solutions for a Crisp, Clear Video Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-to-resolve-the-troublesome-windows-update-error-0x80070002/"><u>Simple Steps To Resolve The Troublesome Windows Update Error 0X80070002</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-why-your-pc-wont-enter-safe-mode-using-the-f8-key-on-windows-10-systems/"><u>Solved! Why Your PC Won't Enter Safe Mode Using the F8 Key on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-trailblazing-drones-the-best-to-always-behind-you-for-2024/"><u>[New] Trailblazing Drones The Best to Always Behind You for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>[Updated] 2024 Approved How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-professional-editor-mastering-final-cut-pro/"><u>[Updated] Becoming a Professional Editor Mastering Final Cut Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-do-reviewers-monetize-their-critiques-in-media/"><u>[Updated] In 2024, Do Reviewers Monetize Their Critiques in Media?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-resolve-twitter-vids-playback-issue/"><u>2024 Approved Resolve Twitter Vids Playback Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-report-editwave-suite-revamped-for-2024/"><u>Comprehensive Report EditWave Suite Revamped for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208767616-end-irritating-cursor-blink-with-these-simple-solutions/"><u>End Irritating Cursor Blink with These Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-requested-operation-failed-on-windows-protection-service/"><u>How to Fix 'Requested Operation Failed' On Windows Protection Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-hanging-window-10-system-step-by-step-guide/"><u>How To Fix a Hanging Window 10 System: Step-By-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-iphone-camera-focus-issues-top-tips-and-tricks/"><u>Solving iPhone Camera Focus Issues: Top Tips & Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-art-of-speech-interpretation-via-googles-technology-for-2024/"><u>The Art of Speech Interpretation via Google's Technology for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intermittent-screen-glare-on-your-windows-11-device/"><u>Troubleshooting Intermittent Screen Glare on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-operating-system-lacks-visual-brightness-tool/"><u>Windows Operating System Lacks Visual Brightness Tool</u></a></li>
 </ul></div>
 

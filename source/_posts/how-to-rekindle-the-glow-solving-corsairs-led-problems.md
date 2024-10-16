@@ -1,7 +1,7 @@
 ---
 title: "How to Rekindle the Glow: Solving Corsair's LED Problems"
-date: 2024-10-02T20:35:05.112Z
-updated: 2024-10-09T16:55:26.061Z
+date: 2024-10-12T06:46:48.264Z
+updated: 2024-10-16T06:39:12.529Z
 tags:
   - win11
   - win10
@@ -41,18 +41,18 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable DHCP for your connection
 
@@ -61,25 +61,19 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
@@ -89,6 +83,19 @@ It should have fixed the server issues in Destiny 2\. If not, don’t be upset. 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Use the Ethernet connection
 
 It’s recommended to use the Ethernet connection, since playing games like Destiny 2 requires a more stable and faster Internet connection. So you can switch to the**Ethernet connection**on your computer to see if it works. If you want to use the WiFi connection, or there’s no Ethernet connection available, try these steps to force your computer (and Destiny 2 included) to connect via WiFi.
@@ -96,20 +103,22 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
@@ -127,13 +136,6 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -159,20 +161,22 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-effective-techniques-for-youtube-video-thumbnail-designs/"><u>[New] In 2024, Unveiling Effective Techniques for YouTube Video Thumbnail Designs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conversione-wav-in-flv-a-distribuzione-gratuita-movavi/"><u>Conversione WAV in FLV a Distribuzione Gratuita - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-methods-to-address-the-black-screen-glitch-on-windows-11/"><u>Effective Methods to Address the Black Screen Glitch on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-audio-functionality-on-windows-ebox-pcs-and-laptops/"><u>Expert Tips: Restoring Audio Functionality on Windows Ebox PCs and Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connections-in-windows-11-for-seamless-device-integration/"><u>How to Repair Unresponsive USB Connections in Windows 11 for Seamless Device Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-a-non-working-dell-camera-in-windows-os/"><u>How to Restore Functionality of a Non-Working Dell Camera in Windows OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f15-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy F15 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-monetization-does-youtube-pay-monthly/"><u>In 2024, YouTube Monetization Does YouTube Pay Monthly?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-crashes-while-playing-warframe-on-pc-a-comprehvew/"><u>Overcoming Persistent Crashes While Playing Warframe on PC - A Comprehvew</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/playing-h265-files-on-roku-capabilities-and-solutions-when-encountering-errors/"><u>Playing H.265 Files on Roku: Capabilities and Solutions When Encountering Errors</u></a></li>
-<li><a href="https://techidaily.com/sign-ott-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Online with DigiSigner</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-a-dead-lenovo-mouse-pad-compatible-with-windows-1087-systems/"><u>Step-by-Step Guide: Fixing a Dead Lenovo Mouse Pad Compatible with Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-internet-experience-with-the-netgear-nighthawk-rax80-a-review-of-superior-speeds-in-a-striking-package/"><u>Transform Your Internet Experience with the Netgear Nighthawk RAX80 - A Review of Superior Speeds in a Striking Package</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tune-up-your-social-media-videos-for-maximum-impact-for-2024/"><u>Tune Up Your Social Media Videos for Maximum Impact for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win10-high-usage-cpu-troubleshooting-tips/"><u>Win10 High-Usage CPU Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-future-of-editing-shines-with-magix-video-pro-x/"><u>[New] 2024 Approved The Future of Editing Shines with Magix Video Pro X</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-making-every-frame-count-in-instagram-videos/"><u>[Updated] In 2024, Making Every Frame Count in Instagram Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] In 2024, Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-visual-magic-implementing-filters-on-digital-media/"><u>[Updated] In 2024, Visual Magic Implementing Filters on Digital Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixel-humorist-tools-kapwings-meme-mastery/"><u>[Updated] Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/aemov/"><u>AEを使用してMOVファイルが正常に読み込めない場合の解決策</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-a-non-functional-nvidia-graphics-software-interface/"><u>How To Repair A Non-Functional NVIDIA Graphics Software Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-stuck-file-explorer-in-windows-11-quickly/"><u>How to Troubleshoot and Fix Stuck File Explorer in Windows 11 Quickly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-guide-for-adding-friends-as-pins-on-snapchat/"><u>How-To Guide for Adding Friends as Pins on Snapchat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-windows-11-errors-how-sfc-and-dism-can-save-the-day/"><u>Navigating Windows 11 Errors: How SFC & DISM Can Save the Day</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-wow-gameplay-to-avoid-slowdowns-and-lag/"><u>Optimizing Your WoW Gameplay to Avoid Slowdowns and Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-hang-and-lag-issues-in-windows-1n-operating-system/"><u>Resolving Hang and Lag Issues in Windows 1N Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-resolving-werfaultexe-application-crashes/"><u>Simple Solutions for Resolving werFault.exe Application Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-fn-key-problems-for-a-smooth-experience-with-asus-notebooks/"><u>Solving Fn Key Problems for a Smooth Experience with ASUS Notebooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-stop-windows-10-unwanted-automatic-re-starts-now/"><u>Troubleshooting Tips: Stop Windows 10 Unwanted Automatic Re-Starts Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-bluetooth-connection-issues-on-windows-10/"><u>Ultimate Guide: Troubleshooting Bluetooth Connection Issues on Windows 10</u></a></li>
 </ul></div>
 

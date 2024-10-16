@@ -1,7 +1,7 @@
 ---
 title: Resolving Shockwave Flash Crashes in Google Chrome
-date: 2024-10-02T23:37:15.370Z
-updated: 2024-10-09T16:41:13.125Z
+date: 2024-10-14T02:40:09.850Z
+updated: 2024-10-16T06:37:56.023Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ To check Windows Build of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To check the specs of your PC:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
@@ -64,23 +71,30 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
-4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
+4. Close DirectX.
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
@@ -103,13 +117,6 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -119,13 +126,6 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
@@ -142,6 +142,13 @@ Here’s how:
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Allow Steam through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Steam client through the firewall to make sure that the connection isn’t lost.
@@ -153,6 +160,14 @@ Here’s how:
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
@@ -160,16 +175,10 @@ Here’s how:
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
@@ -177,6 +186,13 @@ Here’s how:
  The crashing issue could be a bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -189,16 +205,10 @@ Here are the steps to perform a clean boot:
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
@@ -206,22 +216,8 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 
@@ -248,24 +244,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-engage-users-through-creative-animation-insta-story-tips/"><u>[New] 2024 Approved Engage Users Through Creative Animation Insta-Story Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-visualize-freely-premium-no-cost-screen-capture-tools/"><u>[New] In 2024, Visualize Freely Premium No-Cost Screen Capture Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-prime-drone-selections-to-enhance-gopro-videos/"><u>[Updated] In 2024, Prime Drone Selections to Enhance GoPro Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crt-dll-absence-on-system/"><u>CRT DLL Absence on System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-a-broken-fingerprint-recognition-system-on-lenovo-devices/"><u>Diagnosing and Fixing a Broken Fingerprint Recognition System on Lenovo Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-to-correct-driverpowerstatefailure-issues-on-your-pc/"><u>DIY Fixes to Correct DRIVER_POWER_STATE_FAILURE Issues on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-repair-techniques-for-a-non-functional-lenovo-fingerprint-reader/"><u>Effortless Repair Techniques for a Non-Functional Lenovo Fingerprint Reader</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-overcoming-the-0x887a0006-issue-with-simple-steps/"><u>Error Resolution - Overcoming the 0X887A0006 Issue with Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-laptop-trackball-issues-on-windows-10-8-and-7-solutions-revealed/"><u>Fix Laptop Trackball Issues on Windows 10, 8 & 7 – Solutions Revealed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-failed-feature-installation-on-windows-10-version-1607/"><u>Fixing Failed Feature Installation on Windows 10 Version 1607</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-crusader-kings-iii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Stop Crusader Kings III From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-black-screen-on-android-phones/"><u>How to Fix a Black Screen on Android Phones</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-prolific-iphone-photography-cutting-edge-app-selection-guide/"><u>In 2024, Prolific iPhone Photography Cutting-Edge App Selection Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-into-the-world-of-precise-editing-tiktok-number-modification-for-2024/"><u>Step Into the World of Precise Editing TikTok Number Modification for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-tutorial-iphoneipad-time-lapse-recording-for-2024/"><u>The Ultimate Tutorial IPhone/iPad Time Lapse Recording for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-solving-your-integrated-webcam-issues-in-windows/"><u>Troubleshooting Steps: Solving Your Integrated Webcam Issues in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-1011s-damaged-system-files/"><u>Ultimate Guide: Resolving Windows 10/11'S Damaged System Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-secrets-unveiled-best-practices-for-recording-roblox-games-on-a-mac/"><u>[New] In 2024, Secrets Unveiled Best Practices for Recording Roblox Games on a Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-skewed-views-in-internet-based-videos/"><u>[Updated] Fixing Skewed Views in Internet-Based Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-cutting-confinement-with-comedy-best-facebook-incarceration-laughs-of-today/"><u>[Updated] In 2024, Cutting Confinement with Comedy Best Facebook Incarceration Laughs of Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-mic-issues-solutions-when-your-microphone-fails-in-windows-11/"><u>Fixing Mic Issues: Solutions When Your Microphone Fails in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-unresponsive-volume-control-in-windows-10/"><u>Guide to Fixing the Unresponsive Volume Control in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-tp-link-network-card-drivers-for-enhanced-wifi-performance-on-win10win8win7-immediate-download/"><u>Latest TP-Link Network Card Drivers for Enhanced WiFi Performance on Win10/Win8/Win7 - Immediate Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lifeless-update-states-how-to-unfreeze-the-progress-on-old-operating-systems-latest-tips-from-2024-edition-helpful-tips-and-guides/"><u>Lifeless Update States: How To Unfreeze The Progress On Old Operating Systems - Latest Tips From 2024 Edition! (Helpful Tips and Guides.)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-live-cricket-livestreams/"><u>Mastering the Art of Live Cricket Livestreams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/media-software-bug-fixed-required-device-driver-is-now-present/"><u>Media Software Bug Fixed: Required Device Driver Is Now Present</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-kodi-streaming-problems-fix-constant-buffering-issues/"><u>Resolve Your Kodi Streaming Problems: Fix Constant Buffering Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-your-keyboard-with-a-simple-reset/"><u>Step-by-Step Guide: Fixing Your Keyboard with a Simple Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-resolve-your-livekernelevent-117-issue-today/"><u>Step-by-Step Troubleshooting: Resolve Your 'LiveKernelEvent 117' Issue Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-8-must-have-apps-for-instagram-schedulers-on-all-smartphones-for-2024/"><u>The 8 Must-Have Apps for Instagram Schedulers on All Smartphones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y100a-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y100A for Parents | Dr.fone</u></a></li>
 </ul></div>
 

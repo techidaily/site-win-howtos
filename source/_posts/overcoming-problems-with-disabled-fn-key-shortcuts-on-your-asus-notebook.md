@@ -1,7 +1,7 @@
 ---
 title: Overcoming Problems with Disabled FN Key Shortcuts on Your Asus Notebook
-date: 2024-10-04T23:48:29.894Z
-updated: 2024-10-09T20:20:42.808Z
+date: 2024-10-14T23:56:50.337Z
+updated: 2024-10-15T19:00:14.438Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -59,9 +52,35 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -78,16 +97,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -95,10 +108,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -114,13 +127,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
@@ -153,24 +159,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enter-the-next-gen-realm-pick-your-favorite-from-rift-vive-and-playstation-vr-for-2024/"><u>[Updated] Enter the Next-Gen Realm Pick Your Favorite From Rift, Vive, and PlayStation VR for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-secrets-to-professional-voice-overs-on-a-budget/"><u>[Updated] Secrets to Professional Voice Overs on a Budget</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices-for-2024/"><u>[Updated] Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s17t-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S17t</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-smooth-playback-in-recent-game-releases-with-advanced-fixes/"><u>Enhancing Smooth Playback in Recent Game Releases with Advanced Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>In 2024, Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools/"><u>In 2024, Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/issue-resolved-connectivity-issues-between-windows-os-and-event-notification-server/"><u>Issue Resolved: Connectivity Issues Between Windows OS and Event Notification Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-darkness-in-depth-strategies-for-repairing-a-nonresponsive-screen-on-dell-notebooks/"><u>Navigating the Darkness: In-Depth Strategies for Repairing a Nonresponsive Screen on Dell Notebooks</u></a></li>
-<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategy-for-fixing-broken-system-files-in-windows-11/"><u>Step-by-Step Strategy for Fixing Broken System Files in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/struggling-to-print-pdf-files-heres-how-you-can-resolve-it-fast/"><u>Struggling To Print PDF Files? Here's How You Can Resolve It Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-dvd-playback-problems-on-windows-computers/"><u>Troubleshooting Guide: DVD Playback Problems on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-solutions-for-unrecognized-usb-flash-drives/"><u>Troubleshooting: Quick Solutions for Unrecognized USB Flash Drives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-your-touchscreen-on-windows-10-try-these-5-troubleshooting-tactics/"><u>Unstuck Your Touchscreen on Windows 10? Try These 5 Troubleshooting Tactics!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snappy-fortnite-visuals-in-no-time/"><u>[Updated] Snappy Fortnite Visuals in No Time</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://win-info.techidaily.com/missing-page-alert-your-requested-content-cannot-be-displayed/"><u>Missing Page Alert: Your Requested Content Cannot Be Displayed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-based-dash-cam-footage-enhancement-a-step-by-step-guide/"><u>PC-Based Dash Cam Footage Enhancement: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728481645577-pc/"><u>PC上の不思議な失われた画像を見つける５つの手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/premiere-promp3wav/"><u>Premiere ProでMP3、WAV用に音声のみを書き起こす手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-dvd-cant-be-loaded-already-open-in-other-app-close-program-and-retry-issue/"><u>Resolved! Fixing 'DVD Can't Be Loaded - Already Open In Other App - Close Program & Retry Issue.'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-accidentally-erased-iphone-notes-a-comprehensive-guide/"><u>Restore Accidentally Erased iPhone Notes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-transforming-your-dvd-videots-directory-into-avi-format/"><u>Simple Guide: Transforming Your DVD Video_TS Directory Into AVI Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slice-and-edit-youtube-content-fast-with-the-youtube-shorten-technique/"><u>Slice & Edit YouTube Content Fast with the YouTube Shorten Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-how-to-resolve-shadowplays-audio-recording-glitch/"><u>Solution Found: How to Resolve ShadowPlay's Audio Recording Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adjusting-your-youtube-videos-aspect-ratio-perfectly/"><u>Step-by-Step Guide: Adjusting Your YouTube Videos' Aspect Ratio Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/streamlining-meetings-with-snap-camera-on-teams/"><u>Streamlining Meetings with Snap Camera on Teams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/thriving-in-stardew-insiders-guide-to-ginger-island/"><u>Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-literary-success-how-to-compose-a-book-of-poems-via-chatgpt/"><u>Unlocking Literary Success: How to Compose a Book of Poems via ChatGPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zero-cost-green-screens-for-professionals/"><u>Zero-Cost Green Screens for Professionals</u></a></li>
 </ul></div>
 

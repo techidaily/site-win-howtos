@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Dead USB Mouse Connection: Essential Fixes for Your Laptop"
-date: 2024-10-08T17:19:38.448Z
-updated: 2024-10-09T23:34:32.381Z
+date: 2024-10-11T06:08:06.707Z
+updated: 2024-10-16T01:14:10.021Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -45,45 +52,32 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -97,6 +91,14 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -125,19 +127,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-chromebook-screen-capture-simplified-into-four-methods/"><u>[New] In 2024, Chromebook Screen Capture Simplified Into Four Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enable-vlcs-webcam-recording-for-high-quality-footage/"><u>[Updated] 2024 Approved Enable VLC's Webcam Recording for High-Quality Footage</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-micromovie-magic/"><u>[Updated] 2024 Approved MicroMovie Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[Updated] In 2024, The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/backspace-not-responding-heres-how-you-can-solve-this-problem/"><u>Backspace Not Responding? Here’s How You Can Solve This Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-slowdown-effective-fixes-for-fallout-4-stutter/"><u>Beat the Slowdown: Effective Fixes for Fallout 4 Stutter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/effortlessly-spread-youtube-videos-on-fb-for-2024/"><u>Effortlessly Spread YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-battleye-service-launch-problems-seamless-operation-restored/"><u>Fix Implemented for BattlEye Service Launch Problems - Seamless Operation Restored</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-connection-hurdles-a-users-guide-to-fixing-microsoft-dp-adapter-issues-on-windows-11/"><u>Overcoming Connection Hurdles: A User's Guide to Fixing Microsoft DP Adapter Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-instruction-at-0xreferenced-memory-at-0x-the-memory-could-not-be-written/"><u>SOLVED: The Instruction at 0Xreferenced Memory at 0X. The Memory Could Not Be Written</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-note-30-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Note 30 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-followers-in-motion-analyzer/"><u>[New] In 2024, Followers in Motion Analyzer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-outsmart-youtube-sanctions/"><u>[New] In 2024, How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-in-class-android-storage-in-the-cloud/"><u>[Updated] 2024 Approved Best-in-Class Android Storage in the Cloud</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-media-non-xsplit-options-revealed-for-2024/"><u>[Updated] Mastering Media Non-Xsplit Options Revealed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cultivate-creativity-10plus-channel-driven-video-suggestions/"><u>2024 Approved Cultivate Creativity 10+ Channel-Driven Video Suggestions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/biomarker-testing-is-essential-for-identifying-patients-who-will-benefit-from-targeted-therapy/"><u>Biomarker Testing Is Essential for Identifying Patients Who Will Benefit From Targeted Therapy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-correcting-scroll-wheel-failures-on-windows-11-laptops-and-tablets/"><u>Expert Tips: Correcting Scroll Wheel Failures on Windows 11 Laptops and Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-mute-button-malfunction-step-by-step-solutions/"><u>Fix Windows 10 Mute Button Malfunction: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-graphics-driver-doesnt-support-miracast-a-comprehensive-guide/"><u>Fixing the 'Graphics Driver Doesn't Support Miracast': A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-system-restore-failed-error-error-0x80070091-complete-solution/"><u>How to Fix Windows 11 'System Restore Failed' Error (Error 0X80070091) - Complete Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-sims-3-pc-crash-issues-effectively-and-quickly/"><u>How To Resolve Sims 3 PC Crash Issues Effectively and Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-jdk-steps-for-windows-11-users/"><u>Making the Most of JDK: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207196014-quickly-restore-missing-bluetooth-on-your-windows-11-pc-with-ease/"><u>Quickly Restore Missing Bluetooth on Your Windows 11 PC with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revamped-htc-tap-sensitivity-for-hid-standards/"><u>Revamped HTC Tap Sensitivity for HID Standards</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schritt-fur-schritt-tipps-zum-verwenden-von-dateifenstern-unter-windows-10/"><u>Schritt-Für-Schritt-Tipps Zum Verwenden Von Dateifenstern Unter Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-refresh-dealing-with-non-responsive-google-chrome-issues/"><u>Troubleshoot and Refresh: Dealing with Non-Responsive Google Chrome Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211195389-troubleshoot-and-restore-functionality-to-broken-hp-laptop-keyboard-effortlessly/"><u>Troubleshoot and Restore Functionality to Broken HP Laptop Keyboard – Effortlessly!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
 </ul></div>
 

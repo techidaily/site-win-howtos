@@ -1,7 +1,7 @@
 ---
 title: "[SOLUTION FOUND] Resolving Launch Errors: Easy Anti-Cheat Won't Start with New World Game"
-date: 2024-10-06T19:45:10.249Z
-updated: 2024-10-09T19:54:05.994Z
+date: 2024-10-10T06:25:46.064Z
+updated: 2024-10-16T07:32:43.614Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
  You don’t have to try them all; just work down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Possible causes for error code 0x800f0922
 
  There are plenty of potential causes leading to this error code. Here’s a list that might be responsible for triggering 0x800f0922:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
  We provide corresponding solutions below aiming to solve this issue. Read on and have a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 Run Windows Update troubleshooter
 
  Windows troubleshooter is a built-in feature to find and fix things not working on your PC. If you get an error code while downloading and installing Windows update, you can always turn to the Update Troubleshooter for help. Here’s how:
@@ -62,18 +62,19 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 1. Type**troubleshoot** in the Windows search box, and click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-1.jpg)
 2. Click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 Check partition size
 
@@ -84,18 +85,18 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
 
  If the space is not enough, use a**free partition tool** to extend the partition size. Most online partition tools support formatting, deleting, moving, resizing, splitting, and merging partitions. Just simply choose, download and install one like[MiniTool Partition Wizard](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&id=driveeasyen165827&url=https%3A%2F%2Fwww.minitool.com%2Fpartition-manager%2Fpartition-wizard-home.html) , and follow its instruction to resize your partition size.
 
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 Check network connection
 
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 Check the .NET Framework
 
@@ -132,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 Turn off firewall
 
 **[Windows Defender Firewall](https://en.wikipedia.org/wiki/Windows%5FFirewall)**  is developed by Microsoft to protect computers from unapproved access, use, and possible infection. This built-in software, however, sometimes may overreact to block some connection and actions. So turning off the firewall temporarily may help solve the 0x800f0922 error code. Here’s how:
@@ -139,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 1. Type**defender firewall** and select**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-7.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
@@ -177,10 +171,10 @@ To use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer for the changes to take effect.
@@ -192,6 +186,14 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Type**sfc /scannow** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
 
@@ -202,13 +204,6 @@ Restart your computer for the changes to take effect.
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
@@ -226,20 +221,28 @@ Restart your computer for the changes to take effect.
 2. Select**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
 
  If the error 0x800f0922 doesn’t go away, give a shot to the final one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8 Reach out to an IT specialist
 
@@ -274,21 +277,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-capturing-and-keeping-your-social-media-moments/"><u>[New] Capturing and Keeping Your Social Media Moments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-crafting-the-ideal-mc-village-abode-for-2024/"><u>[New] Crafting the Ideal MC Village Abode for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guiding-through-graphic-image-alteration/"><u>[New] Guiding Through Graphic Image Alteration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-exploration-how-to-closely-inspect-roblox-environments/"><u>[New] In-Depth Exploration How to Closely Inspect Roblox Environments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-mov-file-handling-in-windows-11/"><u>[New] The Ultimate Guide to MOV File Handling in Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[Updated] In 2024, InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-moto-g13-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Moto G13 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/les-10-outils-premiers-convertisseurs-dimage-libres-de-frais-en-2024-selon-movavi/"><u>Les 10 Outils Premiers Convertisseurs D'Image Libres De Frais en 2024 Selon Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-windows-11-exploring-sfc-and-dism-solutions/"><u>Repairing Windows 11: Exploring SFC & DISM Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-obs-recording/"><u>Resolved: How to Fix the Black Screen Problem in OBS Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-unsupported-monitor-displays-and-incompatible-input-timings/"><u>Resolved! Unsupported Monitor Displays & Incompatible Input Timings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-why-isnt-my-bluetooth-keyboard-connecting-to-my-laptop/"><u>Resolving Issues: Why Isn't My Bluetooth Keyboard Connecting to My Laptop?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-macs-webcam-in-minutes-with-these-easy-fixes/"><u>Revive Your Mac's Webcam in Minutes with These Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-oculus-tech-malfunctions-as-of-2024/"><u>Step-by-Step Solutions for Repairing Oculus Tech Malfunctions as of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-overcoming-the-notorious-2024-fatal-error-crash-in-halo-4-using-ue4-fixes/"><u>Ultimate Solution: Overcoming the Notorious 2024 Fatal Error Crash in Halo 4 Using UE4 Fixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-reach-with-effective-igtv-video-posts-for-2024/"><u>[New] Maximize Reach with Effective IGTV Video Posts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima-for-2024/"><u>[New] The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-optimal-chuckle-inducing-layout/"><u>[Updated] In 2024, Optimal Chuckle-Inducing Layout</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS in Lost Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-machines-unpacked-strong-and-weak-classes/"><u>Intelligent Machines Unpacked: Strong and Weak Classes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-media-conversion-a-step-by-step-tutorial-on-changing-video-and-sound-format-types/"><u>Mastering Media Conversion: A Step-by-Step Tutorial on Changing Video and Sound Format Types</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-stream-authorization-in-kodi-safety-and-management-tips/"><u>Navigating Stream Authorization in Kodi - Safety & Management Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro/"><u>New In 2024, Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-with-windows/"><u>Quick & Simple Guide to Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-effortless-guide-dividing-videos-evenly-on-your-pc/"><u>Quick and Effortless Guide: Dividing Videos Evenly on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-transforming-divx-files-into-mp4-format/"><u>Quick and Simple Guide: Transforming DivX Files Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-capturing-flv-videos-with-our-ultimate-recording-tool/"><u>Simple Guide: Capturing FLV Videos with Our Ultimate Recording Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-videos-to-the-no-cost-video-editing-tool-factory/"><u>Step-by-Step Guide: Adding Videos to the No-Cost Video Editing Tool - Factory</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903514466-streamline-communication-with-one-number-setting-up-multiple-device-accessibility/"><u>Streamline Communication with One Number: Setting Up Multiple Device Accessibility</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone XS iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
 

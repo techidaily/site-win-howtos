@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing the 0X80240034 Update Issue in Your Windows 10 System
-date: 2024-10-08T19:57:15.499Z
-updated: 2024-10-09T23:40:12.292Z
+date: 2024-10-12T19:03:31.305Z
+updated: 2024-10-15T23:51:33.286Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -45,38 +52,26 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
-4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
+4. Restart your computer and try Windows Update again to see if it works.
 
 If the Windows Update error persists, move on to the second method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
@@ -119,10 +114,10 @@ If the Windows Update error persists, move on to the second method.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -139,13 +134,20 @@ sfc /scannow
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -166,13 +168,6 @@ sfc /scannow
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -196,19 +191,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-11-red-screen-issue/"><u>[Fixed] Windows 11 Red Screen Issue</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-gigglegraphs-designing-delightful-memes/"><u>[New] GiggleGraphs Designing Delightful Memes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-collection-of-iphone-and-pcs-top-8-converters/"><u>[New] In 2024, The Ultimate Collection of iPhone & PC's Top 8 Converters</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-creators-primer-to-understanding-major-content-providers/"><u>[Updated] A Creator's Primer to Understanding Major Content Providers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-gold-rush-prime-hashes-for-viewership/"><u>[Updated] Social Media Gold Rush Prime Hashes for Viewership</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premier-options-to-play-sonys-ps1-games-on-pc/"><u>2024 Approved Premier Options to Play Sony's PS1 Games on PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-c51-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco C51 Unlock Without Password</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-windows-10-trapped-in-flight-setting/"><u>Resolving the Issue: Windows 10 Trapped in Flight Setting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-xerox-printer-update-mishap-error-code-0x80f020b-on-windows-systems/"><u>Solving the Xerox Printer Update Mishap: Error Code 0X80^F020B on Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel-for-2024/"><u>Tips and Tricks to Attract Product Sponsors to Your Youtube Channel for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-opening-the-microsoft-store-after-unexpected-crashes/"><u>Troubleshooting Tips - Opening the Microsoft Store After Unexpected Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-restart-your-diagnostic-tool-successfully/"><u>Troubleshooting Tips: How to Restart Your Diagnostic Tool Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wacom-tablet-not-working-heres-how-to-restore-functionality-and-get-back-to-creating/"><u>Wacom Tablet Not Working? Here's How to Restore Functionality and Get Back to Creating</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs/"><u>[New] 2024 Approved Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-11-download/"><u>[New] In 2024, Simple Screen Recorder for Windows 11 Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] 2024 Approved Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-spotifys-1-artists-of-the-month/"><u>[Updated] 2024 Approved Spotify’s #1 Artists of the Month</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-list-of-free-high-quality-screenshot-apps-for-2024/"><u>[Updated] The Ultimate List of Free, High-Quality Screenshot Apps for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-why-youtube-premium-should-be-on-everyones-radar/"><u>2024 Approved Why YouTube Premium Should Be on Everyone's Radar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-persistent-crashes-in-nier-automata-for-pc-expert-advice-and-solutions/"><u>Dealing with Persistent Crashes in Nier Automata for PC - Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-breaking-out-of-the-perpetual-boot-errors-on-your-windows-10-computer/"><u>Effective Solutions for Breaking Out of the Perpetual Boot Errors on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolve-device-not-found-message-while-installing-windows-7-operating-system/"><u>Guide: Resolve 'Device Not Found' Message While Installing Windows 7 Operating System</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-x7-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find X7 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-stable-secured-browser-session-after-ssl-handshake-problems/"><u>How to Restore a Stable Secured Browser Session After SSL Handshake Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-how-to-repair-malfunctioning-keyboard-on-boot-screen/"><u>Solution: How to Repair Malfunctioning Keyboard on Boot Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-common-issues-why-isnt-my-torrent-downloading/"><u>Solutions for Common Issues: Why Isn't My Torrent Downloading?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207507319-stop-nier-automata-from-freezing-or-crashing-on-your-computer-solutions-here/"><u>Stop Nier: Automata From Freezing or Crashing on Your Computer - Solutions Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/techniques-rapides-pour-transformer-vos-fichiers-wmv-en-mp4-via-movacli/"><u>Techniques Rapides Pour Transformer Vos Fichiers WMV en MP4 via MOVACli</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcome-windows-11-update-error-code-0x80240034-easily/"><u>Troubleshooting Guide: Overcome Windows 11 Update Error Code 0X80240034 Easily</u></a></li>
 </ul></div>
 

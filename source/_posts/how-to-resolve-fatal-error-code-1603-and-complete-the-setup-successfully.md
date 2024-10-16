@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Fatal Error Code 1603' And Complete the Setup Successfully
-date: 2024-10-04T23:18:48.406Z
-updated: 2024-10-09T22:10:25.576Z
+date: 2024-10-11T00:27:30.102Z
+updated: 2024-10-16T03:00:42.936Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/1ed1f8f85afab5a7fca568c0ee2c14ff79c348483
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Run Windows Update troubleshooter**
@@ -59,10 +65,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
@@ -78,13 +84,6 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
 ### **Fix 3: Run the DISM tool**
@@ -94,42 +93,50 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
-3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
- See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
+ See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 ### **Fix 4: Running System File Checker**
 
@@ -139,10 +146,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. On your keyboard, type the following command and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **sfc /scannow**  
@@ -161,6 +168,14 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
@@ -168,14 +183,15 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -203,17 +219,19 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-framefinder-focus-top-recording-software-of-2023/"><u>[New] 2024 Approved FrameFinder Focus Top Recording Software of 2023</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>[New] In 2024, Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-camera-selection-for-youtube-success/"><u>[Updated] The Ultimate Camera Selection for YouTube Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exploring-easy-to-use-game-recording-and-edit-software/"><u>2024 Approved Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-note-30-vip-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Note 30 VIP Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-the-complexities-of-drone-photography-and-gimbals/"><u>Decoding the Complexities of Drone Photography and Gimbals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolved-igfxem-module-malfunction/"><u>Fixing the Issue: Resolved - 'IGFX_em' Module Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-address-a-disappearing-d3dxt939dll-file-comprehensive-solutions-and-guidelines/"><u>How to Quickly Address a Disappearing d3dxt9_39.dll File: Comprehensive Solutions and Guidelines</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pro-level-screenshot-techniques-with-top-11-tools-for-2024/"><u>Pro-Level Screenshot Techniques with Top 11 Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-overcoming-the-0x80073712-error-in-your-latest-windows-installation/"><u>Step-by-Step Repair: Overcoming the 0X80073712 Error in Your Latest Windows Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-fixing-a-red-cross-appearing-over-your-network-symbol/"><u>Troubleshooting Steps for Fixing a Red Cross Appearing Over Your Network Symbol</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-dvd-restrictions-a-step-by-step-guide-to-changing-region-codes/"><u>Unlocking DVD Restrictions: A Step-by-Step Guide to Changing Region Codes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-comprehensive-techniques-for-gauging-yt-popularity-and-monetization/"><u>[New] 2024 Approved Comprehensive Techniques for Gauging YT Popularity & Monetization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>[New] Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-get-more-video-views-on-youtube/"><u>2024 Approved How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/accelerating-your-lol-installation-overcoming-slow-download-issues/"><u>Accelerating Your LoL Installation - Overcoming Slow Download Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-error-when-updating-warframe-expert-guide/"><u>How to Overcome the [Error] When Updating Warframe – Expert Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/implied-consent-delegation/"><u>Implied Consent Delegation.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-memorable-content-on-snapchat-top-tips/"><u>In 2024, Crafting Memorable Content on Snapchat (Top Tips)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-instagram-and-podcast-sharing/"><u>In 2024, Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-gaming-restore-xbox-one-controllers-fit/"><u>PC Gaming: Restore Xbox One Controllers' Fit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-fixing-your-pc-with-effective-remedies-for-the-update-service-unavailable-error-code-0x80070652/"><u>Simplify Fixing Your PC with Effective Remedies for the 'Update Service Unavailable' (Error Code 0X80070652)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correct-missing-jvmdll-file-error-on-your-computer/"><u>Steps to Correct Missing jvm.dll File Error on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-savvy-troubleshooting-how-to-reconnect-your-airpods-with-windows-1011/"><u>Tech Savvy Troubleshooting: How to Reconnect Your AirPods with Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-best-fixes-for-frozen-taskbar-in-windows-10-step-by-step-solutions/"><u>The Best Fixes for Frozen Taskbar in Windows 10: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-6-leading-mpeg-media-players-to-enhance-your-viewing-experience-on-all-devices/"><u>Ultimate List of 6 Leading MPEG Media Players to Enhance Your Viewing Experience on All Devices</u></a></li>
 </ul></div>
 

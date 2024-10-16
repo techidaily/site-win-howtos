@@ -1,7 +1,7 @@
 ---
 title: Organizational Oversight on Windows Setup and Configuration Parameters
-date: 2024-09-10T16:32:44.468Z
-updated: 2024-09-18T01:02:24.794Z
+date: 2024-10-09T02:01:25.088Z
+updated: 2024-10-16T03:16:46.466Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 If that didn’t help, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear Origin game cache
 
  To be able to load faster, Origin stores data called cache files. But over time, these files accumulate out-of-date data and because of this, it’s best to delete them, especially if you’re having problems with your games. Here’s how to do this:
@@ -71,6 +78,19 @@ If that didn’t help, try the next fix below.
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
@@ -89,6 +109,19 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
@@ -96,6 +129,19 @@ If that didn’t help, try the next fix below.
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -133,10 +179,10 @@ Here’s how to update drivers with Driver Easy:
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
@@ -149,13 +195,6 @@ If you want to make Origin always run as administrator, take these steps:
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
 ## 5\. Install the latest visual C++ redistributable pack
@@ -164,18 +203,18 @@ If you want to make Origin always run as administrator, take these steps:
 
 If that didn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
@@ -183,9 +222,23 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -204,5 +257,20 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-beatmatching-your-vids-syncing-music-seamlessly-on-facebook-for-2024/"><u>[Updated] Beatmatching Your Vids Syncing Music Seamlessly on Facebook for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-grasp-free-to-use-vimeo-editing-techniques-for-2024/"><u>[Updated] Grasp Free-to-Use Vimeo Editing Techniques for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>[Updated] In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pngjpeg-images-to-pdf-ipad-conversion-essentials/"><u>2024 Approved PNG/JPEG Images to PDF - iPad Conversion Essentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breathe-life-into-your-disappearing-touchpad/"><u>Breathe Life Into Your Disappearing Touchpad</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12 Pro 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/issue-resolved-keyboard-now-responding-say-goodbye-to-typos/"><u>Issue Resolved: Keyboard Now Responding - Say Goodbye to Typos!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-non-responsive-right-click-in-windows-10/"><u>Solving the Dilemma: Non-Responsive Right Click in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tame-cpu-surge-from-wmis/"><u>Tame CPU Surge From WMIs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-pc-shutdowns-during-gameplay-on-windows-versions-win11-win10-win7-win81-and-win8/"><u>Troubleshooting PC Shutdowns During Gameplay on Windows Versions: Win11, Win10, Win7, Win8.1 & Win8</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-potential-with-perpetual-creative-commons-membership-for-2024/"><u>Unlocking YouTube Potential with Perpetual Creative Commons Membership for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstucking-itunes-and-finder-from-ignoring-your-iphone-proven-solutions/"><u>Unstucking iTunes and Finder From Ignoring Your iPhone: Proven Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G34 5G | Dr.fone</u></a></li>
+</ul></div>
 

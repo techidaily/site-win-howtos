@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Surface Pro Eb Tablet's Pen Isn't Responding"
-date: 2024-10-06T18:35:07.060Z
-updated: 2024-10-09T20:27:37.680Z
+date: 2024-10-14T22:44:47.380Z
+updated: 2024-10-15T21:20:19.924Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -59,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 **1)** Open **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
@@ -79,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
   
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -106,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Reset your Surface Pro 4
 
  Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
@@ -121,9 +100,23 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
@@ -132,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -152,22 +152,18 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-making-photographs-larger-without-losing-quality/"><u>[New] Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-beginners-guide-to-simple-yet-effective-filming-gear/"><u>[Updated] Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[Updated] Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-runtime-broker-causing-high-cpu-spikes-in-windows-11/"><u>Diagnosing and Repairing the Runtime Broker Causing High CPU Spikes in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restarting-your-windows-update-service-problems-solved/"><u>Guide to Restarting Your Windows Update Service – Problems Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-11-says-audio-output-not-detected/"><u>How to Restore Audio Functionality When Windows 11 Says 'Audio Output Not Detected'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-computer/"><u>How to Restore Brightness Control Functionality on Your Windows 지대 11 Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-image-excellence-zero-price-tag/"><u>In 2024, Maximizing Image Excellence, Zero Price Tag</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>New 2024 Approved Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>New In 2024, Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-non-detecting-peripherals-on-a-windows-lnkskrns-pc-via-bluetooth/"><u>Resolving Non-Detecting Peripherals on a Windows ˈlɪnkskrɪn's PC via Bluetooth</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-error-in-directx-a-complete-guide/"><u>Resolving the 'Unrecoverable Error' In DirectX: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-windows-update-problem-0x80n007001f/"><u>Step-by-Step Solution for Overcoming Windows Update Problem 0X80n007001f</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-a56s-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A56s 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-ai-tools-elevating-cyber-search-capabilities/"><u>Unmatched AI Tools Elevating Cyber Search Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-palette-perfected-the-finest-4k-panels-for-artists-for-2024/"><u>[New] A Palette Perfected The Finest 4K Panels for Artists for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unearthing-the-hidden-an-orderly-guide-to-covert-youtube-videos/"><u>[New] In 2024, Unearthing the Hidden An Orderly Guide to Covert YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>[Updated] 2024 Approved The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/chortlecraft-customize-funny-digital-images/"><u>ChortleCraft Customize Funny Digital Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-tutorial-fixing-driverpowerstatefailure-complications-on-your-pc/"><u>Detailed Tutorial: Fixing DRIVER_POWER_STATE_FAILURE Complications on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-correcting-the-no-entry-point-found-warning-in-windows/"><u>Error Resolution: Correcting the 'No Entry Point Found' Warning in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-printer-back-online-after-driver-has-stopped-working-in-a-32-bit-system/"><u>How to Get Your Printer Back Online After 'Driver Has Stopped Working' In a 32-Bit System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-x-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone X?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-2070-super-graphics-card-driver-downloads-and-updates-for-windows-11/"><u>Latest NVIDIA GeForce RTX 2070 Super Graphics Card Driver Downloads & Updates for Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repairing-windows-11-with-system-file-checker-sfc-and-deployment-image-servicing-management-tool-dism/"><u>Step-by-Step: Repairing Windows 11 With System File Checker (SFC) & Deployment Image Servicing Management Tool (DISM)</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-connect-controllers-to-android-devices/"><u>Streamlining Gaming Experience: Connect Controllers to Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-quality-resolving-crackle-noises-in-pc-speakers-windows-117/"><u>Troubleshooting Sound Quality: Resolving Crackle Noises in PC Speakers (Windows 11/7)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-editing-essentials-the-ultimate-guide-post-upload-refinements/"><u>YouTube Editing Essentials The Ultimate Guide Post-Upload Refinements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corsair Keyboard Malfunction - Steps for Resolution and Restoration
-date: 2024-10-02T19:47:08.463Z
-updated: 2024-10-09T21:32:32.050Z
+date: 2024-10-13T20:16:18.493Z
+updated: 2024-10-16T05:29:35.254Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 2. **[Roll back your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DirectX End-User Runtime Web Installer
 
  As the error message indicated, the issue is related with the DirectX function, so one of the possible solutions is to download the DirectX End-User Runtime Web Installer in your computer. Here’s how to do it:
@@ -46,16 +39,17 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 1. Go to[DirectX End-User Runtime Web Installer download page](https://www.microsoft.com/en-us/download/details.aspx?id=35) .
 2. Select the**appropriate language** , and click**Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2892a302341.png)
 3. Follow the prompted instructions on your screen to finish downloading.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Install the downloaded file in your computer.
 5. Restart your computer, and open your program or game again to see if it works.
  If you can launch the game (Warframe) without problems, then you should have found the fixed the DirectX device creation failed error in your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics card driver
 
@@ -64,13 +58,21 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to bring up the Run box.
 2. Type**devmgmt.msc** and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b289c67eacce.jpg)
 3. Double click**Display adapters** to expand it, then double click your graphics card device.![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a06ec5a66.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the graphics card properties pane, click the**Driver** tab, and click**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b289e0309263.jpg) Kindly note that if the Roll Back Driver button is greyed out and unavailable to click, that means that your Windows computer doesn’t have the previous driver to install, so you can skip this fix and head to[Fix 3](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Follow the on-screen instructions to finish.
@@ -78,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
  Still no luck? OK. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
@@ -112,16 +114,17 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>[Updated] In 2024, Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-archive-mastery-how-and-why-in-2024/"><u>[Updated] Instagram Archive Mastery How and Why, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-reviewing-the-next-level-in-mobile-video-with-samsung-s8-for-2024/"><u>[Updated] Reviewing the Next Level in Mobile Video with Samsung S8 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208004395-chrome-troubles-eradicate-errnamenotresolved-with-this-easy-method/"><u>Chrome Troubles? Eradicate 'ERR_NAME_NOT_RESOLVED' With This Easy Method</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-access-free-movie-video-player-for-pcmac/"><u>Exclusive Access Free Movie VIDEO Player for PC/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-issue-when-your-print-driver-host-ceases-on-32-bit-software/"><u>How to Fix the Issue When Your Print Driver Host Ceases on 32 Bit Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-cast-feature-between-devices-on-windows-11-issue-solved/"><u>How to Restore Cast Feature Between Devices on Windows 11 (Issue Solved)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Ultra Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-ps4-controllers-ultimate-fixes-for-non-charging-problems/"><u>Revive Your PS4 Controllers! Ultimate Fixes for Non-Charging Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unreal-and-d3d-a-precarious-future-relationship/"><u>Unreal and D3D: A Precarious Future Relationship</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023s-top-rated-facebook-live-viewing-software/"><u>[Updated] In 2024, 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-youtube-success-through-smart-title-strategy/"><u>2024 Approved Revolutionizing YouTube Success Through Smart Title Strategy</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-engagement-with-these-5-caption-tricks-on-tiktok-videos/"><u>Boost Engagement with These 5 Caption Tricks on TikTok Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/composing-a-price-plan-for-audio-visual-song-clips-for-2024/"><u>Composing a Price Plan for Audio-Visual Song Clips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-malfunction-critical-failure/"><u>Device Malfunction: Critical Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enhance-dota-2-performance-and-stop-fps-drops-on-windows-1110-systems/"><u>How to Enhance Dota 2 Performance and Stop FPS Drops on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-no-signal-or-missing-picture-display-on-your-screen-a-comprehensive-guide/"><u>How to Repair 'No Signal' Or Missing Picture Display on Your Screen - A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-gopro-quik-for-pc-a-comprehensive-review-and-alternatives/"><u>In 2024, GoPro Quik for PC A Comprehensive Review and Alternatives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-m14-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy M14 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-managed-system-policies-insights-for-windows-users-under-corporate-regulation/"><u>Navigating Managed System Policies: Insights for Windows Users Under Corporate Regulation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-update-error-0x80240034-tips-and-solutions-for-a-smooth-upgrade/"><u>Overcoming Window's 11 Update Error (0X80240034) – Tips and Solutions for a Smooth Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-art-of-scroll-mastery-in-win-810/"><u>The Art of Scroll Mastery in Win 8/10</u></a></li>
 </ul></div>
 

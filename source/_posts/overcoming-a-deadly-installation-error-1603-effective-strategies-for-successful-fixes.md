@@ -1,7 +1,7 @@
 ---
 title: "Overcoming a Deadly Installation Error (1603): Effective Strategies for Successful Fixes"
-date: 2024-10-05T19:29:54.300Z
-updated: 2024-10-09T20:33:06.308Z
+date: 2024-10-12T04:39:05.955Z
+updated: 2024-10-15T17:11:38.858Z
 tags:
   - win11
   - win10
@@ -64,19 +64,6 @@ Your keyboard should back to the default setting after reboot.
 
 Now you’ve reset your keyboard language.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## For Mac Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -91,10 +78,10 @@ Now you’ve reset your keyboard language.
 2. Click**Keyboard** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
@@ -103,10 +90,10 @@ Now you’ve reset your keyboard language.
 4. Click**Restore Defaults** and then click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
@@ -118,14 +105,22 @@ Your keyboard should be back in the default settings.
 2. Click**Language and Region** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait for the computer to reboot.
 
 ## Hard Reset
@@ -161,22 +156,16 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-youtube-end-screen-and-cards-effectively/"><u>[New] How to Add YouTube End Screen and Cards Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-best-emulators-pc-edition-ps1-games-for-2024/"><u>[Updated] Best Emulators PC Edition - PS1 Games for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>2024 Approved Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-correct-access-denied-to-device-path-messages-on-your-computer/"><u>Easy Steps to Correct 'Access Denied to Device Path' Messages on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-vanishing-mouse-pointer-issue-in-windows-10/"><u>How to Fix the Vanishing Mouse Pointer Issue in Windows 10</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 7/iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/latex-white-screen-dilemma-solutions-and-tips/"><u>LaTeX White Screen Dilemma - Solutions and Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-path-to-popularity-secrets-of-successful-tiktok-unboxers-for-2024/"><u>Navigating the Path to Popularity Secrets of Successful TikTok Unboxers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-issues-with-laptop-trackpad-malfunctions-a-comprehensive-guide/"><u>Overcoming Common Issues with Laptop Trackpad Malfunctions - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-failure-to-shut-down-issues-in-minutes/"><u>Resolve Windows 10 Failure to Shut Down Issues in Minutes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scroll-jumps-enhance-windows-experience/"><u>Scroll Jumps: Enhance Windows Experience</u></a></li>
-<li><a href="https://solve-help.techidaily.com/the-ultimate-guide-to-enjoying-digital-books-on-windows-8-devices-surface-tabloid-and-professional/"><u>The Ultimate Guide to Enjoying Digital Books on Windows 8 Devices: Surface Tabloid and Professional</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/upgraded-resolution-tackling-low-resource-allocation-problems/"><u>Upgraded Resolution: Tackling Low Resource Allocation Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-dragon-ball-saga-a-step-by-step-guide/"><u>Watching Dragon Ball Saga: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-function-keys-arent-working-properly/"><u>What to Do When Your Function Keys Aren't Working Properly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-ordinary-snaps-to-captivating-creations-editing-on-snapchat/"><u>[Updated] 2024 Approved From Ordinary Snaps to Captivating Creations Editing on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-facetunes-new-features-review-and-walkthrough/"><u>2024 Approved Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969385395-enhance-your-audio-experience-fast-and-easy-download-of-behringer-drivers/"><u>Enhance Your Audio Experience: Fast & Easy Download of Behringer Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-does-my-game-warframe-keep-lagging/"><u>Fixing the Issue: Why Does My Game Warframe Keep Lagging?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-rockstar-games-launcher-expert-tips-and-guide-issues/"><u>Fixing the Rockstar Games Launcher: Expert Tips and Guide Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mgv-to-mp4-convert-mgv-file-extensions-using-top-rated-conversion-software/"><u>MGV to MP4: Convert .mgv File Extensions Using Top-Rated Conversion Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-note-12-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unable-to-watch-avi-videos-on-kindle-fire-learn-simple-solutions-now/"><u>Unable to Watch AVI Videos on Kindle Fire? Learn Simple Solutions Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlimited-entertainment-streaming-download-movies-and-songs-directly-from-websites/"><u>Unlimited Entertainment Streaming: Download Movies and Songs Directly From Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vlch264and/"><u>VLCプレーヤーにおけるH264ビデオファイルの再生失敗:原因分析&解決策</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vlc4/"><u>VLCメディアプレーヤーに匹敵する4つの最高の代用ソフトをご紹介！</u></a></li>
 </ul></div>
 

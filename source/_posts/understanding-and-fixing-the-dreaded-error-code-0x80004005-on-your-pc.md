@@ -1,7 +1,7 @@
 ---
 title: Understanding and Fixing the Dreaded 'Error Code 0X80004005' On Your PC
-date: 2024-09-16T18:24:51.158Z
-updated: 2024-09-17T19:22:26.067Z
+date: 2024-10-09T20:16:41.012Z
+updated: 2024-10-15T18:32:42.466Z
 tags:
   - win11
   - win10
@@ -42,28 +42,28 @@ The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS
 
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 2: Change your BIOS settings**
 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ea821a18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
@@ -71,10 +71,10 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5)**Save**your changes, and reboot your computer. This should fix your problem.
@@ -89,14 +89,14 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer and see if the error 0xc00000e9 disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 4: Run a disk check**
 
@@ -107,6 +107,13 @@ The error 0xc00000e9 can be caused by the disk problem. You should make sure tha
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 5: Fix the MBR with Windows PE**
 
@@ -132,5 +139,24 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-elevating-your-interview-game-skills-and-tactics-for-2024/"><u>[New] Elevating Your Interview Game Skills & Tactics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplified-window-capturing-software/"><u>[New] Simplified Window Capturing Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-funland-for-kids-a-world-of-laughter-and-games/"><u>[Updated] Funland For Kids A World of Laughter and Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-ultimate-guide-solving-your-airpods-connection-issues-on-pcs-windows-10-and-11/"><u>2024 Ultimate Guide: Solving Your AirPods Connection Issues on PCs (Windows 10 & 11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asus-laptop-fix-troubleshooting-non-functional-function-key-issues/"><u>ASUS Laptop Fix: Troubleshooting Non-Functional Function Key Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-file-explorer-access-via-onedrive-in-windows/"><u>Direct File Explorer Access via OneDrive in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-how-to-repair-a-malfunctioning-mac-camera/"><u>Effortless Troubleshooting: How to Repair a Malfunctioning Mac Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eight-effective-ways-to-fix-the-0x800f0922-update-issue-on-windows-11/"><u>Eight Effective Ways to Fix the '0X800F0922' Update Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-geforce-shadowplay-install-failed-issue/"><u>Fix Geforce ShadowPlay Install Failed Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-defy-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Defy 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-to-stop-frequent-automatic-restarting-on-windows-10/"><u>Master the Solution to Stop Frequent Automatic Restarting on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-a-broken-start-menu-on-windows-11-a-step-by-step-guide/"><u>Repairing a Broken Start Menu on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-initial-boot-blackout-problems-in-monster-hunter-world-gameplay/"><u>Resolving Initial Boot Blackout Problems in Monster Hunter: World Gameplay</u></a></li>
+</ul></div>
 

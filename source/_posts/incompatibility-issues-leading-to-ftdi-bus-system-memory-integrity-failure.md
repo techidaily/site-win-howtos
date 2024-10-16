@@ -1,7 +1,7 @@
 ---
 title: Incompatibility Issues Leading to FTDI Bus System Memory Integrity Failure
-date: 2024-10-07T18:34:57.892Z
-updated: 2024-10-09T20:07:22.859Z
+date: 2024-10-12T01:56:39.018Z
+updated: 2024-10-15T19:28:35.649Z
 tags:
   - win11
   - win10
@@ -53,14 +53,22 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 1. Right click on any**empty area** on your desktop, then select**Display Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
@@ -68,33 +76,19 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -106,31 +100,40 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
-
-Restart your computer in normal mode and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Restart your computer in normal mode and see if it works.
 
 ### Fix 2: Update graphics card driver
 
@@ -150,18 +153,19 @@ Restart your computer in normal mode and see if it works.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
 
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Boot your computer in low-resolution mode
 
@@ -180,6 +184,14 @@ Restart your computer in normal mode and see if it works.
 4. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
@@ -187,13 +199,6 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
@@ -228,24 +233,18 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-high-quality-videos-best-windows-11-tools-for-2024/"><u>[New] High-Quality Videos Best Windows 11 Tools for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-skills-for-non-audio-shooting/"><u>[Updated] In 2024, Essential Skills for Non-Audio Shooting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>[Updated] In 2024, The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/bid-farewell-to-subscription-overload-building-my-own-custom-streaming-service-explained/"><u>Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clearing-upset-user-settings-failure-with-efficient-driver-fixes/"><u>Clearing Upset User Settings Failure with Efficient Driver Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208745879-complete-fix-for-n64-controllers-that-arent-responding-expert-advice-inside/"><u>Complete Fix for N64 Controllers That Aren't Responding - Expert Advice Inside!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977640613-complete-guide-to-securing-brother-mfc-9130cw-drivers-free-download-links-inside/"><u>Complete Guide to Securing Brother MFC-9130CW Drivers: Free Download Links Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-note-13-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi Note 13 Pro 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-techniques-for-securing-email-addresstable-entry-on-servers/"><u>Essential Techniques for Securing Email Addresstable Entry on Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-bluetooth-is-currently-unavailable-error/"><u>Guide to Resolving 'Bluetooth Is Currently Unavailable' Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-screen-mirroring-glitches-in-windows-10-environments/"><u>How to Resolve Screen Mirroring Glitches in Windows 10 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-cannot-write-to-issue-at-specific-0x-memory-slot/"><u>How We Overcame the 'Cannot Write To' Issue at Specific 0X Memory Slot</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-netflix-blockade-a-guide-to-disabling-proxies-and-vpns/"><u>Overcome the Netflix Blockade: A Guide to Disabling Proxies and VPNs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/requirement-unlocked-only-certain-gpus-can-run-this-engine-check-compatibility-with-d3d11/"><u>Requirement Unlocked: Only Certain GPUs Can Run This Engine - Check Compatibility with D3D11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-bluetooth-on-your-computers-system-manager/"><u>Step-by-Step Solution: Restoring Bluetooth on Your Computer's System Manager</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-online-specter-speaks-understanding-the-theory-behind-disembodied-internet-presences/"><u>The Online Specter Speaks: Understanding the Theory Behind Disembodied Internet Presences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-essential-apps-for-professional-video-editing-on-androidpc/"><u>[New] Essential Apps for Professional Video Editing on Android/PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-video-calls-uncompromising-security-and-ease-for-startups/"><u>[New] In 2024, Best Video Calls Uncompromising Security & Ease for Startups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-drone-shopping-secrets-hidden-insights-for-successful-buyers/"><u>[Updated] 2024 Approved Drone Shopping Secrets Hidden Insights for Successful Buyers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-n-find-out-when-it-hits-shelves-and-what-to-expect/"><u>All About the New Samsung Galaxy Watch N - Find Out When It Hits Shelves and What to Expect!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-for-your-acer-aspire-5100-now-available/"><u>Download Drivers for Your Acer Aspire 5100 - Now Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-keyboard-arrows-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Arrows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-understand-event-id-1000-on-different-windows-platforms-7-8-10/"><u>How to Resolve and Understand Event ID 1000 on Different Windows Platforms: 7, 8, 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-synology-rt2600ac-wifi-router-featuring-extended-reach-and-parental-controls/"><u>In-Depth Analysis of the Synology RT2600ac WiFi Router: Featuring Extended Reach and Parental Controls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-solutions-for-windows-11-lags/"><u>Keyboard Responsiveness Improved – Solutions for Windows 11 Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-not-working-issues-solved/"><u>Kodi Not Working Issues [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-to-resolve-error-code-0x800f0831-through-windows-updates/"><u>Simple Solutions to Resolve Error Code 0X800f0831 Through Windows Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-essential-yoga-dvds-for-newbies-find-your-balance-with-fun-and-effective-workouts/"><u>Top 5 Essential Yoga DVDs for Newbies: Find Your Balance with Fun & Effective Workouts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-failed-geforce-experience-opens-effectively/"><u>Troubleshooting and Resolving Failed GeForce Experience Opens Effectively</u></a></li>
 </ul></div>
 

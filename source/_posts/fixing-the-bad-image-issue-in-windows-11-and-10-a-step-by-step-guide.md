@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Bad Image' Issue in Windows 11 & 10: A Step-by-Step Guide"
-date: 2024-09-10T20:13:02.071Z
-updated: 2024-09-18T01:03:57.370Z
+date: 2024-10-08T17:22:46.980Z
+updated: 2024-10-16T02:24:19.474Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ In this guide you’ll learn:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Turn on Bluetooth on Windows 10/11
 
  Normally you can turn on Bluetooth in Windows 10 or 11 in these easy steps:
@@ -52,6 +59,13 @@ In this guide you’ll learn:
 2. Select **Bluetooth & devices** from the left panel. Then make sure **Bluetooth**  is toggled **On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/bluetooth4.png)
@@ -59,6 +73,13 @@ In this guide you’ll learn:
  There’s no need to panic. We’re about to show you how to fix Bluetooth on your Windows 10 computer and get that switch back for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do if you can’t turn Bluetooth on in Windows 10/11
 
@@ -76,7 +97,28 @@ In this guide you’ll learn:
 1. On your desktop, right-click on the Start button to select   **Device Manager.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
 
@@ -96,12 +138,27 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Click **Scan Now** .  It will detect all of your computer’s driver issues (including your Bluetooth driver) in less than a minute.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e1f433396.jpg)
 3. If you have the **[Free version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, click the **Update**  button next to the flagged Bluetooth driver to automatically download the correct driver, then you can manually install it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But if you have the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  you can click **Update All**  to automatically download and install all of the missing or outdated drivers on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
@@ -132,31 +189,18 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 6. Finally, hold down the **Windows logo key**  and press the**I**  key to bring up the**Settings** window. Then make sure the Bluetooth option is there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -200,5 +244,21 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-top-5-agile-action-camera-selections/"><u>[New] Leading Top 5 Agile Action Camera Selections</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-maximum-mobile-mastery-highlights-covers-on-iosandroid/"><u>[Updated] In 2024, Maximum Mobile Mastery Highlights Covers on iOS/Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-comprehensive-approach-to-adding-text-overlays-vimeo-for-2024/"><u>A Comprehensive Approach to Adding Text Overlays (Vimeo) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-button-malfunction-solutions-and-remedies-explored/"><u>Backspace Button Malfunction - Solutions and Remedies Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparing-the-best-of-gopro-cameras-for-2024/"><u>Comparing the Best of GoPro Cameras for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restore-functionality-of-your-broken-dell-laptop-keys/"><u>Comprehensive Guide to Restore Functionality of Your Broken Dell Laptop Keys</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-flipbook-security-mastering-protection-using-flipbuilder/"><u>Effective Strategies for Flipbook Security - Mastering Protection Using FlipBuilder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-there-was-an-issue-when-restoring-your-pc-error-in-windows-11/"><u>How to Solve the There Was an Issue When Restoring Your PC Error in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-steam-disk-error-write-failed-instantly/"><u>Mastering the Art of Fixing Steam 'Disk Error: Write Failed' Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-overcoming-initialization-errors-in-the-updated-renderer/"><u>Solution Steps: Overcoming Initialization Errors in the Updated Renderer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-mastery-your-phone-as-a-personalized-vr-headset-for-2024/"><u>Step-by-Step Mastery Your Phone as a Personalized VR Headset for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: How to Restore Missing Desktop Icons Effectively"
-date: 2024-09-10T21:03:53.787Z
-updated: 2024-09-17T16:52:15.862Z
+date: 2024-10-09T19:24:25.503Z
+updated: 2024-10-16T05:56:24.803Z
 tags:
   - win11
   - win10
@@ -43,13 +43,41 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -74,10 +102,10 @@ start explorer.exe
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
@@ -92,10 +120,10 @@ If your desktop icons still don’t show up, you can perform a system restore to
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -112,24 +140,10 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -147,6 +161,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -169,5 +190,24 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streaming-services-face-off-facebook-youtube-and-spaces/"><u>[New] 2024 Approved Streaming Services Face-Off FACEbook, YOUTube, & Spaces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-canva-skills-purging-images-of-their-surroundings/"><u>[New] Canva Skills Purging Images of Their Surroundings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-copy-paste-error-windows-11/"><u>[RESOLVED] Copy-Paste Error, Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-the-art-of-silent-videography/"><u>[Updated] In 2024, Mastering the Art of Silent Videography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-recorder-capturing-screens-and-cameras-on-streams-for-2024/"><u>[Updated] Mastering Vimeo Recorder Capturing Screens & Cameras on Streams for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-dazzle-fine-tuning-video-chrominance-for-beauty/"><u>2024 Approved Digital Dazzle Fine-Tuning Video Chrominance for Beauty</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-the-code-a-step-by-step-guide-to-resolve-the-0x80072efd-issue-in-windows-11/"><u>Cracking the Code: A Step-by-Step Guide to Resolve the 0X80072EFD Issue in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/custom-configuration-options-now-fully-operational-past-glitches-resolved/"><u>Custom Configuration Options Now Fully Operational – Past Glitches Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-plugged-in-not-charging-error-for-windows-710-desktop-computers/"><u>Dealing With 'Plugged In, Not Charging' Error for Windows 7/10 Desktop Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repair-game-launch-issues-in-origins-platform/"><u>Guide to Repair Game Launch Issues in Origin's Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-windows-7-in-simple-steps/"><u>Mastering Bluetooth Setup on Windows 7 in Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-image-generation-combining-dall-e-and-gpt-4-for-unique-creations/"><u>Mastering Image Generation: Combining DALL-E and GPT-4 for Unique Creations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-steam-administration-full-file-access-restoration-guide/"><u>Mastering Steam Administration: Full File Access Restoration Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-valorant-games-tearing-problem-with-these-easy-fixes/"><u>Solve Your Valorant Game's Tearing Problem with These Easy Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-8-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 8? 5 Tips You Must Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-503-service-unavailable-status-code-and-solutions/"><u>Understanding the 503 Service Unavailable Status Code & Solutions</u></a></li>
+</ul></div>
 

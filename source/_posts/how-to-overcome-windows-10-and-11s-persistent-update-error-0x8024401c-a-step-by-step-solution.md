@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Windows 10 and 11'S Persistent Update Error 0X8024401c: A Step-by-Step Solution"
-date: 2024-09-15T16:31:18.199Z
-updated: 2024-09-17T23:37:10.689Z
+date: 2024-10-13T01:59:15.544Z
+updated: 2024-10-16T02:58:22.169Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 7. In the Services window, right click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap286.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perform a Windows update again. If you still fail to perform the Windows update, try the next method.
 
 ### **Fix 2: Run the DISM tool**
@@ -82,7 +89,27 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 3. Close the Command Prompt when the restore operation completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the System File checker**
 
@@ -91,16 +118,17 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** ,**Shift** , and **Enter** on your keyboard   at the same time to**run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run the **Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/1-2.png)
 2. On your keyboard, type the command lines below and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * sfc /scannow  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/10-1.png)  
     It may take several minutes for this command operation to be completed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Close the Command Prompt when this command operation completed.
 
@@ -113,6 +141,14 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 1. On your keyboard, press   **the Windows Logo Key**  and type **Windows Update** , and then press **Enter**  to open Windows Update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap292.png)
 2. Click **View update history**   to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download the update and install it manually.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap293.png)
 3. Follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.  
@@ -120,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap31-2.png)  
@@ -135,6 +171,14 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
  If your Windows OS is**64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap26-1.png)
 7. In the pop-up window, click the link to start downloading the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap27.png)
 8. Double-click the downloaded file and follow the on-screen instructions to install the update.
 
@@ -148,37 +192,24 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 2. Click **Download tool now**  on the web page to download the Media Creation Tool.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap303.png)
 3. Double-click the downloaded file to open the media creation tool. Click **Yes**  when you’re prompted for permission.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap295.png)
 4. Click **Accept**  when you see the window below.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap305.png)
 5. Select**Upgrade this PC now** and click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap304.png)
 6. Follow the on-screen instruction to perform an in-place upgrade.
 
  After upgrading your Windows system, see if you can perform a Windows update. In most cases, you won’t get this annoying issue after upgrading your Windows system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -206,5 +237,22 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-racing-games-roundup/"><u>[New] Premier Racing Games Roundup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>[Updated] Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-streamline-your-gametime-with-9-platforms/"><u>[Updated] Streamline Your Gametime with #9 Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fbstream-viewer-extractor/"><u>2024 Approved FbStream Viewer Extractor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-invisible-network-connections-fixing-wi-fi-on-your-windows-11-pc/"><u>Addressing Invisible Network Connections: Fixing Wi-Fi on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-finest-7-ai-applications-for-designing-professional-slideshows/"><u>Discover the Finest 7 AI Applications for Designing Professional Slideshows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-how-to-apply-the-rank-function-effectively-in-microsoft-excel-sheets/"><u>Expert Tips: How to Apply the RANK Function Effectively in Microsoft Excel Sheets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-effortlessly-connect-zoom-with-gmail/"><u>How to Effortlessly Connect Zoom with Gmail</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-ports-in-windows-11-for-better-performance/"><u>How to Repair Unresponsive USB Ports in Windows 11 for Better Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-ways-to-correct-non-functioning-voice-chat-in-overwatch/"><u>Immediate Ways to Correct Non-Functioning Voice Chat in Overwatch</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-year-in-the-market-top-15-finance-videos/"><u>In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-repair-of-microsofts-infamous-80072ee2-update-failure/"><u>Mastering the Repair of Microsoft's Infamous 80072EE2 Update Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-code-24-overcoming-the-device-unavailable-problem-in-windows-operating-systems-wsten-to-win7/"><u>Troubleshoot Code 24: Overcoming the 'Device Unavailable' Problem in Windows Operating Systems WS_TEN to Win7</u></a></li>
+</ul></div>
 

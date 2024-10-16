@@ -1,7 +1,7 @@
 ---
 title: How To Correct the 'Invalid Directory Name' Mistake - Solution Guide
-date: 2024-09-14T00:14:45.548Z
-updated: 2024-09-17T22:05:24.772Z
+date: 2024-10-09T19:33:31.033Z
+updated: 2024-10-15T21:33:43.605Z
 tags:
   - win11
   - win10
@@ -49,11 +49,38 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766057d7181.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your computer is running**Windows 7** , use your mouse to click the**Start** button, then click the**more options icon** to select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Adjust your keyboard settings
 
@@ -78,6 +105,13 @@ If your computer is running Windows 11:
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
@@ -87,6 +121,13 @@ If your computer is running Windows 7:
 3. Click **Change how your keyboard works** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try to type some words using your keyboard to see if it works.
 
@@ -106,16 +147,10 @@ See how to do it:
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
@@ -124,13 +159,6 @@ See how to do it:
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
 
@@ -151,18 +179,18 @@ See how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -199,5 +227,19 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-respecting-musicians-rights-on-ig/"><u>[New] In 2024, The Ultimate Guide to Respecting Musicians' Rights on IG</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-guide-to-starting-an-instagram-live-show/"><u>2024 Approved Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://discover-able.techidaily.com/dirpy/"><u>Dirpyを完全にコントロールする方法・対応策：エラーや使いヘンシナリオにおける処理ガイド</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sprint-through-style-speedy-tips-for-enhancing-photos-in-windows-app/"><u>Sprint Through Style Speedy Tips for Enhancing Photos in Windows App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-take-if-your-windows-11-operating-system-keeps-crashing-or-freezing/"><u>Steps to Take if Your Windows 11 Operating System Keeps Crashing or Freezing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fast-track-tricks-for-newcomers-on-the-x-platform/"><u>Top 10 Fast-Track Tricks for Newcomers on the X Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-the-windows-1903-feature-update/"><u>Troubleshooting Common Issues with the Windows 1903 Feature Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-by-msmpengine-in-windows-11/"><u>Troubleshooting High Resource Consumption by MsMpEngine in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-computer-unable-to-power-off-in-windows-10-solution/"><u>Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/unable-to-locate-webpage-what-to-do-when-you-encounter-a-404-error/"><u>Unable to Locate Webpage: What to Do When You Encounter a 404 Error</u></a></li>
+</ul></div>
 

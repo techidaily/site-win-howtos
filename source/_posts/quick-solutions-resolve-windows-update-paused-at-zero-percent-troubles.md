@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolve Windows Update Paused at Zero Percent Troubles"
-date: 2024-10-08T16:52:47.996Z
-updated: 2024-10-09T17:34:05.699Z
+date: 2024-10-14T03:31:38.105Z
+updated: 2024-10-16T07:25:47.799Z
 tags:
   - win11
   - win10
@@ -38,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 4. [**Clear the SoftwareDistribution folder**](#d)
 5. [**Update your device drivers**](#e)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Run Windows Update troubleshooter
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### on Windows 10
 
@@ -63,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 **2)** Select**Update & Security** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
@@ -87,27 +66,27 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
@@ -119,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Restart your Windows Update associated services
 
  You may get the service not running error because the services associated with your Windows Update are disabled. You should restart those services and see if this fixes your error. To do so:
@@ -136,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double click **Background Intelligent Transfer Service** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
@@ -145,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Double click**Cryptographic Services** .
@@ -160,15 +139,28 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
@@ -193,6 +185,13 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 **4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
@@ -220,6 +219,13 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -239,24 +245,17 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-instant-impact-facebook-vids/"><u>[New] 2024 Approved Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turbo-techniques-for-faster-vimeo-views/"><u>[Updated] 2024 Approved Turbo Techniques for Faster Vimeo Views</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-az-recorder-expert-series-app-deep-dives-for-2024/"><u>[Updated] AZ Recorder Expert Series App Deep Dives for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-securely-documenting-your-google-voice-talks/"><u>[Updated] Securely Documenting Your Google Voice Talks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banishing-deceptive-messages-the-ultimate-solution-for-removing-the-notorious-google-chrome-error/"><u>Banishing Deceptive Messages: The Ultimate Solution for Removing the Notorious Google Chrome Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-and-solve-understanding-and-rectifying-error-87-while-loading-libraries/"><u>Decode and Solve: Understanding and Rectifying Error 87 While Loading Libraries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discovered-vanished-brightness-tool/"><u>Discovered Vanished Brightness Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-failure-in-creating-a-directx-graphics-processing-unit-gpu/"><u>Fixing the Issue of Failure in Creating a DirectX Graphics Processing Unit (GPU)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-silent-issue-ultimate-guide-to-restoring-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Ultimate Guide to Restoring Audio in Forza Horizon 4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-13-pro-max-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 13 Pro Max without password?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/immersive-puzzle-gaming-experiences-like-the-room-and-myst-available-on-ios-devices/"><u>Immersive Puzzle Gaming Experiences Like 'The Room' & 'Myst' Available on iOS Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-sony-xperia-10-v-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Sony Xperia 10 V Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976026130-install-the-latest-drivers-for-your-epson-wf-2750-printer-download-here/"><u>Install the Latest Drivers for Your Epson WF-2750 Printer - Download Here!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastery-in-motion-choosing-your-path-for-vimeo-download-tools/"><u>Mastery in Motion Choosing Your Path for Vimeo Download Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-data-integrity-issues-with-cyclic-redundancy-check-solutions/"><u>Overcoming Data Integrity Issues with Cyclic Redundancy Check Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-buttons-on-hp-laptops-expert-advice/"><u>Quick Fixes for Non-Responsive Buttons on HP Laptops: Expert Advice</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-f23-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo F23 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-lowering-telemetry-impact-on-storage-in-windows-10-and-11/"><u>Understanding and Lowering Telemetry Impact on Storage in Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-automatic-startup-issues-with-your-windows-11-computer/"><u>Understanding Automatic Startup Issues with Your Windows 11 Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[New] Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>[Updated] Advanced Subtitling Mastering the Art of SRT Editing on Apple Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pinnacle-5-frame-timelapse-recorder/"><u>[Updated] In 2024, Pinnacle 5-Frame Timelapse Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-not-working-a-step-by-step-solution-guide-for-windows-10-users-in-2e24/"><u>Bluetooth Not Working? A Step-by-Step Solution Guide for Windows 10 Users in 2E24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-failed-installation-of-windows-10-updates-efficiently/"><u>Diagnosing and Resolving Failed Installation of Windows 10 Updates Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-initializing-hurdle-in-destiny-2-a-step-by-step-guide/"><u>Mastering the Initializing Hurdle in Destiny 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-steam-vr-experience-with-these-6-detection-fixes/"><u>Revive Your Steam VR Experience with These 6 Detection Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/second-monitor-not-detected-windows-7-solved/"><u>Second Monitor Not Detected Windows 7 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-troubleshoot-repaired-wireless-logitech-mouse/"><u>Tech Troubleshoot: Repaired Wireless Logitech Mouse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-your-vudu-dvd-to-digital-conversion-issue-expert-fixes-and-solutions/"><u>Troubleshooting Your Vudu DVD-to-Digital Conversion Issue: Expert Fixes & Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-tutorial-simplifying-youtube-subscriptions/"><u>Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
+<li><a href="https://tools.techidaily.com/zonealarm/products/"><u>Zonealarm's Products</u></a></li>
 </ul></div>
 

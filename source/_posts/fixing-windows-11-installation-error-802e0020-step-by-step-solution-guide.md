@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Installation Error 802E0020 - Step-by-Step Solution Guide
-date: 2024-10-05T22:48:59.536Z
-updated: 2024-10-09T21:49:40.199Z
+date: 2024-10-10T05:24:57.567Z
+updated: 2024-10-15T19:03:20.935Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -56,19 +49,19 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
@@ -89,13 +82,20 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -105,21 +105,7 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix didn’t help, try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
 
@@ -139,6 +125,13 @@ If your problem persists, try the next fix.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -154,6 +147,13 @@ If your problem persists, try the next fix.
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -178,22 +178,22 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/o-youtubers-get-paid-monthly/"><u>[New] Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-elevating-visuals-with-acoustic-elements/"><u>[New] Elevating Visuals with Acoustic Elements</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audiophiles-recommend-top-5-headset-choices-for-2024/"><u>[Updated] Audiophiles Recommend Top 5 Headset Choices for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-10plus-best-instagram-video-editor-for-pc-online-android/"><u>[Updated] In 2024, 10+ Best Instagram Video Editor for PC, Online, Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fbx-guide-to-professional-gamers-footage/"><u>[Updated] In 2024, FBX Guide to Professional Gamers' Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-cost-treasures-aplus-ae-template-collections/"><u>[Updated] No-Cost Treasures A+ AE Template Collections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-free-screen-recorders-on-windows-11-2023-update/"><u>2024 Approved Top 5 Free Screen Recorders on Windows 11-2023 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asus-laptop-how-to-fix-unresponsive-fn-keys-problems/"><u>ASUS Laptop: How to Fix Unresponsive Fn Keys Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enable-detecting-of-bluetooth-gadgets-on-your-pc-running-windows-10/"><u>Enable Detecting of Bluetooth Gadgets on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-stuck-keyboard-numbers-with-these-proven-methods/"><u>Fix Your Stuck Keyboard Numbers with These Proven Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10s-failure-to-shutdown-a-comprehensive-guide/"><u>Overcoming Windows 10'S Failure to Shutdown - A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pedal-power-parade-of-playtime/"><u>Pedal Power Parade of Playtime</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-issues-fixes-and-tips/"><u>Resolving Windows 11 Update Issues: Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-input-devices-troubleshoot-unresponsive-mouse-and-keyboard-on-windows-7-systems/"><u>Reviving Input Devices: Troubleshoot Unresponsive Mouse and Keyboard on Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210723266-skype-microphone-not-working-follow-these-steps-for-a-quick-and-easy-resolution/"><u>Skype Microphone Not Working? Follow These Steps for a Quick and Easy Resolution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speedy-tips-elevating-your-systems-velocity-in-7-ways/"><u>Speedy Tips: Elevating Your System’s Velocity in 7 Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-files-for-games-and-streamers-on-windows-systems-solved/"><u>Troubleshooting Missing Files for Games and Streamers on Windows Systems [Solved]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hart-toppers-on-screen-uploading-songs-methodically/"><u>[New] Chart-Toppers on Screen Uploading Songs Methodically</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-deep-into-truthgpts-world-police-scrutiny-over-mullvad-vpn-leading-free-pc-game-titles-showcased-comprehensive-exploration-of-mechanical-keyboard-be63/"><u>Delving Deep Into TruthGPT's World, Police Scrutiny Over Mullvad VPN; Leading Free PC Game Titles Showcased; Comprehensive Exploration of Mechanical Keyboard Benefits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-google-chromes-serious-bug-steps-to-beat-the-scam-alert/"><u>Fixing Google Chrome's Serious Bug: Steps to Beat the Scam Alert</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2020-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2020)? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m34-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M34 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-dialogue-architect-forum/"><u>In 2024, Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-showdown-air-versus-pro-which-one-suits-you-best/"><u>MacBook Showdown: Air Versus Pro – Which One Suits You Best?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x802n200d-windows-update-issue-a-comprehensive-guide/"><u>Resolving the 0X802n200D Windows Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-reno-8t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo Reno 8T to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-fixes-for-windows-installation-troubleshooting/"><u>Swift Fixes for Windows Installation Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-pc-upgrading-to-windows-11-version-1607-troubleshooting-tips/"><u>Why Isn't My PC Upgrading to Windows 11 Version 1607? Troubleshooting Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-youll-prefer-playing-with-pcsx2-over-ps5-ps2-emulation-a-comprehensive-guide/"><u>Why You'll Prefer Playing with PCSX2 over PS5 PS2 Emulation - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-typing-woes-repairing-a-malfunctioning-spacebar/"><u>Windows 11 Typing Woes: Repairing a Malfunctioning Spacebar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-and-pc-compatibility-reconciled/"><u>Xbox One Controller & PC Compatibility Reconciled</u></a></li>
 </ul></div>
 

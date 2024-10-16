@@ -1,7 +1,7 @@
 ---
 title: Fixing Slow Shutdown on Windows 11 - Solutions Explored
-date: 2024-10-06T21:51:04.710Z
-updated: 2024-10-09T16:12:41.167Z
+date: 2024-10-09T16:29:54.957Z
+updated: 2024-10-16T04:42:44.529Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  USB Type-C sample  
  Photo from Amazon
 
@@ -47,10 +54,10 @@ The solution for this bug is very simple.
  Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Power Troubleshooter
@@ -64,13 +71,6 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Reboot your computer to apply the changes.
 
 ### Fix 3: Disable Fast Startup feature
@@ -83,41 +83,29 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -133,10 +121,10 @@ The solution for this bug is very simple.
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
@@ -154,11 +142,32 @@ The solution for this bug is very simple.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
 5. Copy and paste the text into the address bar and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
 8. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -173,13 +182,6 @@ The solution for this bug is very simple.
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your Windows 10 computer and check the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
 
@@ -200,18 +202,17 @@ The solution for this bug is very simple.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/a-beginners-roadmap-for-instagram-reels-mastery/"><u>A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-mishap-overcome-error-code-0xc1900208/"><u>Fixing the Windows 10 Update Mishap: Overcome Error Code 0xC1900208</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210060400-get-your-keyboards-arrow-keys-working-again-with-these-proven-tips/"><u>Get Your Keyboard's Arrow Keys Working Again with These Proven Tips!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unveiling-the-secrets-of-dark-sky-photography/"><u>In 2024, Unveiling the Secrets of Dark Sky Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/industrys-mightiest-drone-fleet-compilation-for-2024/"><u>Industry's Mightiest Drone Fleet Compilation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-the-ultimate-guide-to-using-slack-at-work/"><u>Maximizing Productivity: The Ultimate Guide to Using Slack at Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-camera-glitches-in-windows-11-expert-advice-and-effective-methods/"><u>Overcoming HP Laptop Camera Glitches in Windows 11: Expert Advice and Effective Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-the-steam-deck-experience-epic-and-gog/"><u>Perfecting the Steam Deck Experience: Epic and GOG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinnacle-of-generative-tech-notion-vs-chatgpt-analysis/"><u>Pinnacle of Generative Tech: Notion Vs. ChatGPT Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-surface-pen-issues-a-step-by-step-solution/"><u>Resolving Your Surface Pen Issues – A Step-by-Step Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-the-latest-in-computing-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest in Computing Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-users-say-goodbye-to-keyboard-latency-issues/"><u>Windows 10 Users, Say Goodbye to Keyboard Latency Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/your-invisible-sd-no-more-anxiety/"><u>Your Invisible SD? No More Anxiety</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deepdelete-masterful-background-erasure/"><u>[New] 2024 Approved DeepDelete Masterful Background Erasure</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-design-your-closure-the-best-free-youtube-tutorials/"><u>[New] Design Your Closure The Best Free YouTube Tutorials</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-screenskip-videocapturer-kit/"><u>[New] ScreenSkip Videocapturer Kit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-your-podcast-secrets-for-compelling-opening-videos-for-2024/"><u>Perfect Your Podcast Secrets for Compelling Opening Videos for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-12-mini-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 12 mini Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-essential-touch-sensitivity-for-hit-device/"><u>Restored Essential Touch Sensitivity for HIT Device</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/revitalize-your-workflow-reinstating-microsofts-precision-folder-back-into-the-documents-directory-from-onedrive/"><u>Revitalize Your Workflow: Reinstating Microsoft's Precision Folder Back Into the Documents Directory From OneDrive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-undetected-window-two-screen-issue/"><u>Solving Undetected Window Two-Screen Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nline-essentials-video-to-text-conversion-hacks-for-2024/"><u>Top Online Essentials Video to Text Conversion Hacks for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-excessive-svchost-process-load-on-windows-11-computers/"><u>Top Solutions for Excessive Svchost Process Load on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-windows-11-1607-update-failures/"><u>Troubleshooting Common Issues with Windows 11 1607 Update Failures</u></a></li>
 </ul></div>
 

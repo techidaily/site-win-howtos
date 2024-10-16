@@ -1,7 +1,7 @@
 ---
 title: "Check If Netflix Is Down: Tips for Diagnosing and Repairing Viewing Problems"
-date: 2024-09-16T00:12:12.531Z
-updated: 2024-09-17T18:02:56.835Z
+date: 2024-10-13T20:06:09.778Z
+updated: 2024-10-15T16:12:04.007Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -40,6 +47,19 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
@@ -65,11 +85,34 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -81,31 +124,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
@@ -142,5 +165,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-make-profitable-youtube-ads-for-free-in-2024/"><u>[New] How To Make Profitable YouTube Ads for Free, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-corsair-keyboard-not-working/"><u>[SOLVED] Corsair Keyboard Not Working</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>[Updated] Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-insights-in-mac-video-format/"><u>Customer Insights in Mac Video Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-failed-geforce-shadowplay-setups-on-your-pc-or-laptop/"><u>Expert Fixes for Failed GeForce ShadowPlay Setups on Your PC or Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-persistent-reboot-cycles-when-closing-your-windows-10-system/"><u>Expert Tips to Overcome Persistent Reboot Cycles when Closing Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-scarlet-visual-disruption-on-windows-11-systems/"><u>How to Resolve the Scarlet Visual Disruption on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/metaverse-contrasted-with-multimetaverse-a-detailed-breakdown-in-depth-guide-for-2024/"><u>Metaverse Contrasted with MultiMetaverse A Detailed Breakdown (In-Depth Guide) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-14s-charging-concerns-a-comprehensive-guide/"><u>Overcoming iPhone 14'S Charging Concerns: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-firewall-a-step-by-step-approach/"><u>Overhauling Firewall: A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailored-engagement-design-your-youtube-sign-up-bar-with-an-animated-approach-using-filmora/"><u>Tailored Engagement Design Your YouTube Sign-Up Bar with an Animated Approach Using Filmora</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-zte-nubia-z60-ultra-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on ZTE Nubia Z60 Ultra Phones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-harmonizing-tech-with-creativity-best-10-song-editors-for-windowsmac-enthusiasts/"><u>Updated In 2024, Harmonizing Tech with Creativity – Best 10 Song Editors for Windows/Mac Enthusiasts</u></a></li>
+</ul></div>
 

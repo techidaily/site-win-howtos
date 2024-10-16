@@ -1,7 +1,7 @@
 ---
 title: "Solving Audio Glitches: Clearing Up Crackling Sound From Speakers in Windows Operating Systems"
-date: 2024-10-02T23:11:09.396Z
-updated: 2024-10-09T21:08:25.037Z
+date: 2024-10-09T04:15:47.980Z
+updated: 2024-10-15T20:27:31.427Z
 tags:
   - win11
   - win10
@@ -43,28 +43,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -82,16 +84,23 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -101,25 +110,32 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -146,14 +162,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-excel-improving-efficiency-and-accuracy/"><u>ChatGPT-Powered Excel: Improving Efficiency and Accuracy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-a-non-responsive-nvidia-share-platform/"><u>Diagnosing and Repairing a Non-Responsive Nvidia Share Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-handling-the-service-did-not-respond-issue-error-1053/"><u>Expert Tips for Handling 'The Service Did Not Respond' Issue (Error 1053)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-t2x-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo T2x 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-minecraft-performance-issues-a-comprehensive-guide/"><u>Solving Minecraft Performance Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-community.techidaily.com/ultimate-guide-the-best-11-dvd-rip-software-for-mac-users-including-free-alternatives/"><u>Ultimate Guide: The Best 11 DVD Rip Software for Mac Users, Including Free Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] 2024 Approved Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-championed-by-artists-the-top-6-nft-maker-tools/"><u>[New] 2024 Approved Championed by Artists The Top 6 NFT Maker Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-end-screen-elegance-free-guides-to-upgrade-your-videos/"><u>[Updated] In 2024, End-Screen Elegance - Free Guides to Upgrade Your Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-youtube-reach-key-tips-for-enhancing-video-seo/"><u>[Updated] Maximize Your YouTube Reach Key Tips for Enhancing Video SEO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>2024 Approved Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-camon-30-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Camon 30 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>In 2024, What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-conversion-of-videos-into-mp3-format-a-step-by-step-guide/"><u>Seamless Conversion of Videos Into MP3 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamlessly-change-your-pictures-to-sound-a-step-by-step-guide-for-mp3-creation-from-imgs/"><u>Seamlessly Change Your Pictures to Sound: A Step-by-Step Guide for MP3 Creation From IMGs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-voice-recording-on-windows-11-pcs/"><u>Step-by-Step Guide to Voice Recording on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-acquiring-e-copies-for-movies-in-your-library/"><u>Step-by-Step Tutorial on Acquiring E-Copies for Movies in Your Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-capturing-and-saving-twitter-video-clips-everywhere/"><u>Step-by-Step Tutorial: Capturing and Saving Twitter Video Clips Everywhere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-guide-enjoying-mkv-files-on-ps4-best-setup-tips/"><u>Successful Guide: Enjoying MKV Files on PS4 – Best Setup Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-video-creation-tools-you-need-to-try/"><u>Top 3D Video Creation Tools You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-dvd-to-avi-converter-software-for-windows-10-and-11/"><u>Top-Rated DVD to AVI Converter Software for Windows 10 & 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-gigabytes-for-an-entirety-of-daily-films-for-2024/"><u>Total Gigabytes for an Entirety of Daily Films for 2024</u></a></li>
 </ul></div>
 

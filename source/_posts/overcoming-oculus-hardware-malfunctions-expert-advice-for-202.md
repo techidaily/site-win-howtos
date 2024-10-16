@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Oculus Hardware Malfunctions: Expert Advice for 202"
-date: 2024-10-06T18:43:21.416Z
-updated: 2024-10-09T16:51:49.650Z
+date: 2024-10-10T21:34:28.842Z
+updated: 2024-10-16T02:21:26.892Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,19 +52,27 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -72,45 +87,25 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
-6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
+6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -123,6 +118,20 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
@@ -162,21 +171,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-hasty-habits-presentation-file-recording/"><u>[New] 2024 Approved Hasty Habits Presentation File Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-best-instagram-highlight-cover-maker-online-for-2024/"><u>[New] Best Instagram Highlight Cover Maker Online for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exploring-the-prime-linux-screenshot-applications/"><u>[New] In 2024, Exploring the Prime Linux Screenshot Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-maximize-your-seo-top-7-budget-friendly-youtube-tags-extractors-reviewed/"><u>[Updated] Maximize Your SEO Top 7 Budget-Friendly Youtube Tags Extractors Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-chats-storing-gh-live-sessions/"><u>2024 Approved Capturing Chats Storing GH Live Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-dota-2-stability-issues-and-crashing-problems/"><u>Effective Solutions for Dota 2 Stability Issues and Crashing Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-driver-pack-for-msis-x470-gaming-motherboards-free-to-download/"><u>Essential Driver Pack for MSI's X470 Gaming Motherboards, Free to Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-dell-laptop-keyboard/"><u>Expert Advice: Restoring Functionality to a Dell Laptop Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-freezing-problems-when-booting-into-windows-10/"><u>Fixing Unexpected Freezing Problems When Booting Into Windows 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-v700-printer-driver-software-for-win-78110-users/"><u>Get the Latest Epson V700 Printer Driver Software for Win 7/8.1/10 Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 4G Phone without Google Account?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-resolution-why-is-my-computer-taking-longer-to-shut-down-in-windows-11/"><u>Quick Resolution: Why Is My Computer Taking Longer to Shut Down in Windows 11?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-successfully-restore-downloaded-steam-patches-and-fixes/"><u>Steps to Successfully Restore Downloaded Steam Patches and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-windows-unable-to-find-play-source-issue/"><u>Troubleshooting Steps for the 'Windows - Unable to Find Play Source' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-laptop-mouse-freezing-issues/"><u>Ultimate Guide: Solving Laptop Mouse Freezing Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chart-new-horizons-in-branding-with-these-top-10-youtube-tools/"><u>[Updated] 2024 Approved Chart New Horizons in Branding with These Top 10 YouTube Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-learn-the-art-of-adding-borders-on-insta-videos/"><u>[Updated] 2024 Approved Learn the Art of Adding Borders on Insta Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-how-to-find-facebook-recently-watched-videos-for-2024/"><u>2023 | How to Find Facebook Recently Watched Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flacalac-3/"><u>人気の自由版 FLAC/ALAC 変換ソフトウェア 上位3つ</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-converting-ts-files-to-mp4-at-no-cost-11-methods/"><u>Easy Steps: Converting TS Files to MP4 at No Cost (11 Methods)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-transforming-ts-files-into-mp4-format-with-ffmpeg/"><u>Easy Steps: Transforming TS Files Into MP4 Format with FFmpeg</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-solving-recurring-error-messages-in-4k-video-downloader-software/"><u>Expert Tips for Solving Recurring Error Messages in 4K Video Downloader Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flv-mp42/"><u>FLV形式への変換: MP4を手動で変換する2つの効果的な方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-potential-with-free-premiere-pro-plans/"><u>In 2024, Unlock Potential with Free Premiere Pro Plans</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-easy-to-use-and-free-mp3-editing-tools-compatible-with-windows-11/"><u>Top 5 Easy-to-Use & Free MP3 Editing Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/videoleap-zoom-hacks-for-detailed-video-insight/"><u>Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
 </ul></div>
 

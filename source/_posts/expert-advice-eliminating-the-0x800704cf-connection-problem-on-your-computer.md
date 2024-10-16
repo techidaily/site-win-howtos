@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eliminating the 0X800704CF Connection Problem on Your Computer"
-date: 2024-10-06T18:06:41.405Z
-updated: 2024-10-09T19:07:34.827Z
+date: 2024-10-10T04:38:54.179Z
+updated: 2024-10-16T02:34:55.157Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -47,10 +40,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -59,29 +52,38 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -123,24 +125,18 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/sing-social-media-preference-the-case-for-tiktok-or-youtubes-shorts-for-2024/"><u>Assessing Social Media Preference The Case for TikTok or YouTubes' Shorts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/battle-for-bushido-next-level-titles-echoing-tsushis-spirit-for-2024/"><u>Battle for Bushido Next-Level Titles Echoing Tsushi's Spirit for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-correct-the-unidentified-external-hardware-issue-and-port-reset-failure-in-windows-10/"><u>Effective Techniques to Correct the Unidentified External Hardware Issue & Port Reset Failure in Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ning-youtubes-highlighted-comment-mechanics-for-2024/"><u>Examining YouTube's Highlighted Comment Mechanics for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-getting-an-unresponsive-xbox-one-controller-back-online/"><u>Expert Advice on Getting an Unresponsive Xbox One Controller Back Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-online-archive-copyright-free-gaming-harmonies/"><u>Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-10-indispensable-fcp-enhancing-plugins/"><u>In 2024, 10 Indispensable FCP-Enhancing Plugins</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-real-time-capture-from-obs-to-instagram/"><u>In 2024, Real-Time Capture From OBS to Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-gecata-analyzer-report/"><u>In 2024, Ultimate GECATA Analyzer Report</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-file-explorer-in-windows-10-quick-and-effective-tips/"><u>Mastering File Explorer in Windows 10: Quick and Effective Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fixes-how-to-overcome-error-code-0x8024200d-and-restore-windows-updates-seamlessly/"><u>Mastering the Fixes: How to Overcome Error Code 0X8024200d and Restore Windows Updates Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-error-how-to-successfully-restore-or-fix-your-pc-in-windows-10/"><u>Overcoming the Error: How to Successfully Restore or Fix Your PC in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-high-cpu-usage-by-msmpengexe-on-windows-10-solved/"><u>Resolving High CPU Usage by MsMpEng.exe on Windows 10 - Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-notorious-xerox-update-error-in-windows-0x800f020b/"><u>Troubleshooting and Correcting the Notorious Xerox Update Error in Windows (0X800F020B)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-commands-on-computer-screens/"><u>Troubleshooting Unsupported Commands on Computer Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-logon-issues-with-keyboard-responsiveness/"><u>Troubleshooting: Logon Issues with Keyboard Responsiveness</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster-for-2024/"><u>Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster) for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-value-with-mohu-leaf-30-antenna-top-performer-in-budget-friendly-reviews/"><u>Unlocking Value with Mohu Leaf #30 Antenna - Top Performer in Budget-Friendly Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/urgent-enhancements-to-revolutionize-gpts-plugin-ecosystem/"><u>Urgent Enhancements to Revolutionize GPT's Plugin Ecosystem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-splitcam-probe-in-video-techs-top-spot/"><u>[Updated] 2024 Approved SplitCam Probe - In Video Tech's Top Spot?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>2024 Approved The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-ps4-connection-bottlenecks-your-ultimate-step-by-step-nat-type-solution-guide/"><u>Beat PS4 Connection Bottlenecks: Your Ultimate Step-by-Step NAT Type Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/blizzard-outage-system-unavailable/"><u>Blizzard Outage: System Unavailable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-laptops-that-dont-charge-when-plugged-in-on-windows-11-systems/"><u>Effective Solutions for Laptops That Don't Charge When Plugged in on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-bad-image-issue-in-windows-11-and-windows-10-systems/"><u>Fixing the 'Bad Image' Issue in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/going-back-with-android-video-editing-for-2024/"><u>Going Back with Android Video Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-class-registration-problems-in-windows-10-with-proven-methods/"><u>How to Address Class Registration Problems in Windows 10 with Proven Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-why-your-windows-11-wont-connect-with-cast-devices-and-what-to-do/"><u>Solved! Why Your Windows 11 Won't Connect with Cast Devices & What to Do</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-stop-geometry-dash-from-freezing-a-common-error-misconception/"><u>Steps to Stop 'Geometry Dash' From Freezing – A Common Error Misconception</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-sound-issues-with-microphones-in-windows-operating-systems/"><u>Troubleshooting and Resolving Sound Issues with Microphones in Windows Operating Systems</u></a></li>
 </ul></div>
 

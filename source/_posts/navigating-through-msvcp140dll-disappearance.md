@@ -1,7 +1,7 @@
 ---
 title: Navigating Through MSVCP140.dll Disappearance
-date: 2024-09-15T02:56:34.348Z
-updated: 2024-09-17T19:16:08.611Z
+date: 2024-10-14T00:24:16.426Z
+updated: 2024-10-16T04:07:51.745Z
 tags:
   - win11
   - win10
@@ -55,11 +55,32 @@ If the headset is still not recognized, check out the next solution.
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-1.jpg)
 3. Double-click**Universal Serial Bus controllers** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-2.jpg)
 4. Right-click the USB device and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-3.jpg)
 5. Select the**Power** **Management** tab. **Untick Allow the computer to turn off this device to save power** and click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Repeat the steps to disable power management for each USB port and then test the issue. If the problem persists, check out below to turn off USB selective suspend as well.
 
@@ -72,9 +93,24 @@ If the headset is still not recognized, check out the next solution.
 3. Double-click **USB settings** \>**USB selective suspend setting** . Then select**Disabled** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-3.jpg)
 4. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-4.jpg)
 
  Now see if your Oculus Rift or Quest launches as normal. If not, continue to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
 
@@ -89,13 +125,6 @@ If the headset is still not recognized, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to any flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update** **All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-rift-sensor-driver.jpg)
 
@@ -103,6 +132,13 @@ If the headset is still not recognized, check out the next solution.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Wait for the process to complete and reboot your computer. Then connect your rig and test. If the Oculus hardware error still pops up, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Repair corrupted system files
 
@@ -118,20 +154,13 @@ If the headset is still not recognized, check out the next solution.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Does the issue get fixed? If not, there’s one more fix to try.
 
@@ -164,5 +193,26 @@ There is no factory reset option for Oculus Rift and Rift S.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/0-leading-free-platforms-for-exceptional-youtube-intros-for-2024/"><u>[New] 30 Leading Free Platforms for Exceptional YouTube Intros for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-enhancement-the-top-tactics-for-better-storytelling/"><u>[New] Instagram Enhancement The Top Tactics for Better Storytelling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-remove-distractions-in-webcam-captures-for-2024/"><u>[New] Remove Distractions in Webcam Captures for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-drive-growth-with-these-top-10-innovative-igtv-videos/"><u>[Updated] Drive Growth with These Top 10 Innovative IGTV Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-components-of-windows-update-identification-and-repair-techniques/"><u>Critical Components of Windows Update – Identification and Repair Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-installation-failures-from-windows-store/"><u>Efficient Methods to Fix Installation Failures From Windows Store</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/embrace-smart-efficiency-the-power-of-intelligent-process-automation-awaits/"><u>Embrace Smart Efficiency – The Power of Intelligent Process Automation Awaits!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-problem-what-to-do-if-your-logitech-g430-mic-has-stopped-functioning-correctly/"><u>Fix the Problem: What to Do If Your Logitech G430 Mic Has Stopped Functioning Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-laptops-non-charging-battery-in-no-time-simple-solutions/"><u>Fix Your Laptop's Non-Charging Battery in No Time: Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-fretful-frequencies-solving-crackling-sound-from-speakers-on-w11w7/"><u>Fixing the Fretful Frequencies: Solving Crackling Sound From Speakers on W11/W7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-rapido-alla-configurazione-dellapp-winxvideo-ai-per-i-tuoi-smartphone-o-tablet-iosandroid/"><u>Guida Rapido Alla Configurazione Dell'app WinxVideo AI per I Tuoi Smartphone O Tablet iOS/Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-dell-usb-interface-step-by-step-repair-instructions-for-optimal-performance/"><u>Reviving the Dell USB Interface: Step-by-Step Repair Instructions for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-a-dead-razer-keyboard-that-wont-light-up/"><u>Solving the Mystery of a Dead Razer Keyboard That Won't Light Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-righ-click-not-responding-on-your-mouse/"><u>Step-by-Step Guide: Resolving Windows ˈrigh Click Not Responding on Your Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-the-persistent-fatal-error-and-game-crash-issues-in-halo-4-ue4/"><u>The Ultimate Solution to the Persistent Fatal Error and Game Crash Issues in Halo 4 UE4</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-ranking-no-cost-adata-ssd-duplication-utility-discover-the-power-of-aomei-backupper/"><u>Top-Ranking No-Cost ADATA SSD Duplication Utility - Discover the Power of AOMEI Backupper</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-guide-for-windows-users-resolving-the-frustrating-error-code-0x80072f8f-on-your-windows-1110-machine/"><u>Ultimate Fixes Guide for Windows Users: Resolving the Frustrating 'Error Code 0X80072F8F' On Your Windows 11/10 Machine</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-lowdown-on-vn-video-editor-for-pc-a-brief-but-informative-review/"><u>Updated In 2024, The Lowdown on VN Video Editor for PC A Brief but Informative Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-woes-no-more-restore-compatibility-with-these-simple-fixes-for-your-hp-laptops-usb-problems/"><u>USB Woes No More: Restore Compatibility with These Simple Fixes for Your HP Laptop’s USB Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving 'Internet Explorer Has Crashed'"
-date: 2024-09-11T23:38:00.270Z
-updated: 2024-09-18T01:36:14.470Z
+date: 2024-10-15T01:27:34.653Z
+updated: 2024-10-16T04:04:50.813Z
 tags:
   - win11
   - win10
@@ -65,11 +65,31 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
 
@@ -87,6 +107,19 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -103,15 +136,22 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
@@ -121,13 +161,6 @@ The CMOS battery looks like this
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
 
@@ -164,10 +197,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **SFC /Scannow** , and then press **Enter** .
@@ -177,13 +210,6 @@ The CMOS battery looks like this
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
 
@@ -204,5 +230,24 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-grade-handguns-for-ultimate-video-stability/"><u>[New] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-essential-guide-to-using-zdsoft-vision/"><u>2024 Approved The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disable-touchpad-when-connected-to-mouse-on-windows-11/"><u>Disable Touchpad When Connected to Mouse on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-solve-group-policy-client-failure-on-logon-a-comprehensive-guide/"><u>Effective Strategies to Solve Group Policy Client Failure on Logon - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-error-vlc-cant-open-files/"><u>Eliminating Windows Error: VLC Can’t Open Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-picking-the-right-nvidia-driver-type/"><u>Expert Tips on Picking the Right Nvidia Driver Type</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixservice-corruption-in-windows-10-diagnosis-and-restoration-techniques/"><u>FixService Corruption in Windows 10: Diagnosis and Restoration Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-unresponsive-aoc-display-on-windows-10-quick-guide/"><u>How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210394555-hp-laptop-keyboard-issue-solved-fix-unresponsive-buttons-fast/"><u>HP Laptop Keyboard Issue Solved? Fix Unresponsive Buttons Fast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-x100-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo X100 and Browser | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>New In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-installing-the-missing-drivers-for-seamless-media-playback/"><u>Quick Guide: Installing the Missing Drivers for Seamless Media Playback</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-enable-night-mode-on-ios-devices/"><u>Step-by-Step Tutorial: Enable Night Mode on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211228393-troubleshooting-guide-dealing-with-chromes-ssl-protocol-error-now-solved/"><u>Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-on-incorporating-soundtracks-into-insta-footage/"><u>Ultimate Tutorial on Incorporating Soundtracks Into Insta Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/urgent-fixes-how-to-get-your-laptops-charging-back-on-track/"><u>Urgent Fixes: How to Get Your Laptop's Charging Back on Track</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy Z Flip 5</u></a></li>
+</ul></div>
 

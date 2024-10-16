@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Brightness Control Unresponsive' Errors in Windows 11
-date: 2024-10-06T16:33:23.235Z
-updated: 2024-10-09T20:16:09.969Z
+date: 2024-10-11T21:13:53.959Z
+updated: 2024-10-16T04:56:49.143Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 2. [**Roll back your keyboard driver to an earlier version**](#method2)
 3. [**Do a clean install for your keyboard driver**](#method3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the Sticky Keys feature
 
  The Sticky Keys feature enables you to press one key at a time for keyboard shortcuts. As a lot of users reported, the disable Sticky Keys feature helps them save their spacebar back to life. So when you find your spacebar not functioning, the first quick fix you can try is to check the Sticky Keys.
@@ -46,11 +39,31 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![This image has an empty alt attribute; its file name is 2-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/2-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Keyboard** on the left pane. Then check the icon of Sticky Keys. If it’s **on** , set it to be**off** .
 
 ![This image has an empty alt attribute; its file name is 3-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/3-24.png)
 
  If after making sure the Sticky Keys feature is disabled, you still cannot use your spacebar, try other methods below. The spacebar not working error is probably due to its driver issues. Rolling back its driver to an earlier version or doing a clean install for its driver helps many users fix the issue. You can try to do so.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2:   Roll back your keyboard driver to an earlier version
 
@@ -58,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  Then click**Device Manager** to open it.
 
 ![This image has an empty alt attribute; its file name is img_59795d07cc3ee.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795d07cc3ee.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the pop-up Device Manager window, find and expand the**Keyboards** dialog. Then right-click on your keyboard software and choose**Properties** .
 
@@ -68,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![This image has an empty alt attribute; its file name is img_59796277ea917.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59796277ea917.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If the Roll Back Driver icon is grayed out, you can choose to download the driver of an earlier version from your keyboard manufacturer’s website.
@@ -100,23 +120,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -136,16 +142,24 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premium-panels-picked-the-top-10-4k-list/"><u>[New] Premium Panels Picked The #Top 10 4K List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-proven-techniques-to-swell-your-social-media-following-for-2024/"><u>[Updated] Proven Techniques to Swell Your Social Media Following for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>2024 Approved Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-lenovo-laptop-webcam-malfunction/"><u>Expert Tips for Fixing the Lenovo Laptop Webcam Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-oddworld-soulstorm-troubleshooting-pc-launch-issues/"><u>Fixing Oddworld: Soulstorm - Troubleshooting PC Launch Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-7ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 7/iPad/iPod</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-insightful-comparisons-top-android-applications-for-youtube-download/"><u>In 2024, Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-fixes-a-comprehensive-guide-to-handling-the-0xc0000005-issue/"><u>Mastering Windows Fixes: A Comprehensive Guide to Handling the 0xC0000005 Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-13t-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi 13T Pro Location | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-your-laptops-malfunctioning-keyboard-light/"><u>Troubleshooting Steps: Fixing Your Laptop's Malfunctioning Keyboard Light</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-to-finding-free-westeros-ringtones-for-2024/"><u>[New] The Ultimate Guide to Finding Free Westeros Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-discover-new-heights-top-10-adventure-channels/"><u>[Updated] In 2024, Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-memetic-flesh-eater-artist/"><u>[Updated] In 2024, Memetic Flesh Eater Artist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfecting-your-social-network-mastering-friendly-pins/"><u>[Updated] In 2024, Perfecting Your Social Network Mastering Friendly Pins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-update-available/"><u>BattlEye Service Installation Issues Resolved - Update Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-cracked-resolving-the-unexpected-shutdown-code-1067-in-windows/"><u>Error Message Cracked: Resolving the Unexpected Shutdown (Code 1067) in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-file-access-denied-problem/"><u>How to Fix Steam File Access Denied Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-xiaomi-by-fonelab-android-recover-data/"><u>How to recover lost data from Xiaomi ?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-k70-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi K70 to Roku | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-gt-10-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix GT 10 Pro FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-technology-evaluations-by-tom-expert-hardware-guidance/"><u>In-Depth Technology Evaluations by Tom – Expert Hardware Guidance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ipad-or-ipad-air-analyzing-their-unique-traits-and-capabilities/"><u>IPad or iPad Air? Analyzing Their Unique Traits and Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/professional-maintenance-regularly-scheduled-maintenance-as-recommended-by-the-car-manufacturer-can-help-identify-and-address-any-potential-issues-with-the-36/"><u>Professional Maintenance: Regularly Scheduled Maintenance, as Recommended by the Car Manufacturer, Can Help Identify and Address Any Potential Issues with the Suspension Before They Become Serious Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-error-code-0x800f0831-leveraging-windows-updates/"><u>Quick Fixes for Error Code 0X800F0831: Leveraging Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-signal-screen-issue-a-comprehensive-guide/"><u>Resolving 'No Signal' Screen Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-non-functional-fn-keys-a-step-by-step-approach-for-asus-laptop-users/"><u>Solution Guide for Non-Functional Fn Keys: A Step-by-Step Approach for ASUS Laptop Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-issues-with-non-functional-samsung-soundbars-a-how-to-tutorial/"><u>Solving Issues with Non-Functional Samsung Soundbars - A How-To Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-walkthrough-correcting-error-0x80070490-during-windows-updates/"><u>Step-by-Step Walkthrough: Correcting Error 0X80070490 During Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/user-profile-service-malfunction-heres-how-to-fix-login-issues-on-your-windows-pc/"><u>User Profile Service Malfunction? Here's How to Fix Login Issues on Your Windows PC</u></a></li>
 </ul></div>
 

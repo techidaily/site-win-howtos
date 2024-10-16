@@ -1,7 +1,7 @@
 ---
 title: Resolve Game Setup Errors Quickly – Expert Advice From Origin Games
-date: 2024-09-11T17:30:02.515Z
-updated: 2024-09-17T17:52:57.638Z
+date: 2024-10-10T21:37:46.776Z
+updated: 2024-10-15T21:45:32.050Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to open Windows File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to   **C:\\Users\\Your Users name\\AppData\\Local\\Google\\Chrome\\User Data\\PepperFlash** .
 
 Then double-click the folder with the version number.
@@ -69,6 +76,13 @@ Then double-click the folder with the version number.
 
 4) Restart your Chrome and see if the flash works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Stop your Shockwave Flash
 
  1) On any tab of your Chrome do this: on your keyboard, press **Shift**  and **Esc**  at the same time to invoke the Chrome’s Task Manager window.
@@ -80,10 +94,10 @@ Then double-click the folder with the version number.
 3) Restart your Chrome and see if the flash works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4: Make sure your Chrome is up-to-date
@@ -95,15 +109,22 @@ Then double-click the folder with the version number.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf462d860a4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Your Chrome should be updated automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf45d77ce9c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your Chrome and see if the flash works.
 
@@ -123,5 +144,18 @@ Then double-click the folder with the version number.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-choices-for-premium-video-calls-on-smartphones/"><u>[New] Essential Choices for Premium Video Calls on Smartphones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-seamless-sharing-strategies-insta-tik-tok-integration-for-2024/"><u>[New] Seamless Sharing Strategies Insta-Tik Tok Integration for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-content-extraction-made-simple-windows-and-macos/"><u>[Updated] In 2024, FB Content Extraction Made Simple Windows & macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clear-blockades-to-seamless-messaging-in-parties-guide/"><u>Clear Blockades to Seamless Messaging in Parties - Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unavailable-steam-api-file/"><u>Fixing Unavailable Steam API File</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-dare-to-differentiate-using-square-videos-for-social-media-standout/"><u>In 2024, Dare to Differentiate Using Square Videos for Social Media Standout</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-launching-live-recordings-on-hp-computers/"><u>In 2024, Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-0x80073712-error-in-windows-10-tips-and-tricks-for-a-smooth-operating-experience/"><u>Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-manual-for-youtube-to-gif-conversion-online/"><u>The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-unsupported-inputs-what-happens-when-your-device-doesnt-recognize-the-data/"><u>Understanding Unsupported Inputs: What Happens When Your Device Doesn't Recognize the Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-ipads-printing-potential-a-step-by-step-guide-to-resolve-printer-not-found/"><u>Unlocking iPad's Printing Potential: A Step-by-Step Guide to Resolve 'Printer Not Found'</u></a></li>
+</ul></div>
 

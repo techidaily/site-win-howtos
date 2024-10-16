@@ -1,7 +1,7 @@
 ---
 title: "Overcome Common Keyboard Challenges: Avoid Incorrect Letter Inputs"
-date: 2024-10-05T16:24:42.257Z
-updated: 2024-10-09T22:31:51.790Z
+date: 2024-10-13T20:00:59.397Z
+updated: 2024-10-15T21:21:01.372Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 5. **[Check hardware issues](#f5)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Turn off Mouse Keys
@@ -51,14 +51,28 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 3. Click**Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
@@ -70,25 +84,11 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -117,16 +124,17 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -165,20 +173,22 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-future-of-video-on-facebook-focusing-on-shorter-formats-for-2024/"><u>[Updated] The Future of Video on Facebook Focusing on Shorter Formats for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>2024 Approved Unlock Creative Potential Editing Videos via Windows Photos and Story Remix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-closer-look-at-vlc-critiques-and-options-for-2024/"><u>A Closer Look at VLC Critiques and Options for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-photo-background-blur-apps-for-iphone-and-android-for-2024/"><u>Best Photo Background Blur Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buffer-free-streaming-mastery-fix-your-kodi-playback-issues-here/"><u>Buffer-Free Streaming Mastery: Fix Your Kodi Playback Issues Here</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-approach-to-managing-svchostexe-netsvcs-and-its-high-bandwidth-use/"><u>Comprehensive Approach to Managing svchost.exe (Netsvcs) and Its High Bandwidth Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-the-challenge-of-non-detectable-bluetooth-gadgets-on-windows-11/"><u>Expert Advice: Overcoming the Challenge of Non-Detectable Bluetooth Gadgets on Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-in-electronics-discovered-at-the-workshop-of-toms-hardware-experts/"><u>Innovations in Electronics Discovered at the Workshop of Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-persistent-0x800f020b-error-when-updating-your-xerox-printer-on-windows/"><u>Overcome the Persistent 0X800F020B Error When Updating Your Xerox Printer on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-htc-u23-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on HTC U23 Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-dealing-with-a-frozen-windows-10-system/"><u>Top Solutions for Dealing with a Frozen Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-system-cannot-locate-the-file/"><u>Troubleshooting and Solving 'The System Cannot Locate the File'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-how-to-repair-a-non-functional-keyboard-at-system-boot/"><u>Update: How to Repair a Non-Functional Keyboard at System Boot</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-visual-backdrops-for-efficient-collaboration/"><u>[New] 2024 Approved Prime Visual Backdrops for Efficient Collaboration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-storyline-secret-to-youtube-triumph/"><u>[New] 2024 Approved The Storyline Secret to YouTube Triumph</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-can-subforsub-help-increase-my-youtube-subscribers-without-risk/"><u>[New] Can Subforsub Help Increase My YouTube Subscribers Without Risk?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>[New] In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-the-truth-about-sharex-reviews-and-options/"><u>[Updated] 2024 Approved Unveiling the Truth About ShareX Reviews & Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/champion-video-grabbers-ranked-1-8/"><u>Champion Video Grabbers Ranked 1-8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-to-downloading-and-installing-aoc-driver-software-on-windows-81011-computers/"><u>Complete Step-by-Step Guide to Downloading & Installing AOC Driver Software on Windows 8/10/11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ethernet-troubleshooting-techniques-for-microsoft-windows-11-and-7-operating-systems/"><u>Ethernet Troubleshooting Techniques for Microsoft Windows 11 and 7 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-corrupted-files-in-windows-11-with-the-powerful-sfc-and-dism-utilities/"><u>How to Fix Corrupted Files in Windows 11 with the Powerful SFC and DISM Utilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-file-explorer-freezing-problems-in-windows-11/"><u>How to Resolve File Explorer Freezing Problems in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-and-resolve-the-vanishing-wi-fi-configurations-in-windows-11/"><u>Reveal and Resolve the Vanishing Wi-Fi Configurations in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-starting-a-hosted-network-in-windows-10-when-it-wont-turn-on/"><u>Solution Steps for Starting a Hosted Network in Windows 10 when It Won't Turn On</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-uninterrupted-win11-slumber/"><u>The Definitive Guide to Uninterrupted Win11 Slumber</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-problem-detected-on-startup-in-windows-11-easily/"><u>Troubleshooting and Solving the ‘Problem Detected on Startup’ in Windows 11 Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-needed-confirm-d3d11-graphics-support-for-proper-engine-functionality/"><u>Update Needed: Confirm D3D11 Graphics Support for Proper Engine Functionality</u></a></li>
+<li><a href="https://win-great.techidaily.com/44k344k544og44og44op44kk44k44o844gm44oq44od44kv44ki44od44ox44gr6kal44gk44gl44kj44gq44geic0g44oi44op44ow44or5a6m5lqg54q25rob5acx5zgk/"><u>システムライターがバックアップに見つからない - トラブル完了状況報告</u></a></li>
 </ul></div>
 

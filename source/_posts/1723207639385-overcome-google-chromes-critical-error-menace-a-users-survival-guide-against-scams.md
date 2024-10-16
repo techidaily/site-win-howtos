@@ -1,7 +1,7 @@
 ---
 title: "Overcome Google Chrome's Critical Error Menace: A User’s Survival Guide Against Scams"
-date: 2024-09-14T23:59:37.877Z
-updated: 2024-09-17T17:52:13.320Z
+date: 2024-10-11T19:25:47.517Z
+updated: 2024-10-15T21:18:35.659Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Remove browser extensions
 
  If you can run Chrome normally, you can try this method first.  
@@ -57,7 +64,23 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart Chrome to check whether the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
 
@@ -74,28 +97,8 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
 7. Run Google Chrome to check whether the issue is solved or not.
@@ -103,10 +106,10 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Run Chrome as Compatibility mode
@@ -117,26 +120,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
 3. Click**OK** then run Google Chrome to check.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Update your Google Chrome
@@ -144,6 +134,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
  Updating your Google Chrome to the latest version can help you solve many issues. You can use another browser and go to the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIm77Z45T%5F4QIV%5Fh-tBh3K6Qy6EAAYASAAEgJfh%5FD%5FBwE&gclsrc=aw.ds) to download the latest version and install it manually.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Reinstall your Google Chrome
 
@@ -185,6 +182,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -210,5 +215,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-deciphering-screens-a-comprehensive-review-of-recording-apps/"><u>[New] Deciphering Screens A Comprehensive Review of Recording Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>[New] In 2024, Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gratuitous-goal-games-capturing-kicks-without-costs/"><u>[Updated] In 2024, Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-obs-direct-stream-to-instagram/"><u>[Updated] OBS Direct Stream to Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>2024 Approved Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-visualizing-google-meet-introduction-to-effects-and-filtering/"><u>2024 Approved Visualizing Google Meet Introduction to Effects & Filtering</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/failed-to-patch-windows-10-v1607-feature-update-issues/"><u>Failed to Patch: Windows 10 v1607 Feature Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-intermittent-audio-on-your-logitech-g930-wireless-headphones/"><u>How to Fix Intermittent Audio on Your Logitech G930 Wireless Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-disappearing-cursor-in-windows-10-easily-expert-advice/"><u>How to Restore Disappearing Cursor in Windows 10 Easily - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-centralized-management-of-windows-settings-through-organizational-policies/"><u>Identifying Centralized Management of Window's Settings Through Organizational Policies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-unreal-engine-losing-its-bearings-over-d3d/"><u>Is Unreal Engine Losing Its Bearings over D3D?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-airpods-connectivity-woes-on-windows-11-expert-tips-and-tricks-of-2024/"><u>Solve Your AirPods Connectivity Woes on Windows 11: Expert Tips and Tricks of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-media-connectivity-problems/"><u>Troubleshooting Tips for Windows Media Connectivity Problems</u></a></li>
+</ul></div>
 

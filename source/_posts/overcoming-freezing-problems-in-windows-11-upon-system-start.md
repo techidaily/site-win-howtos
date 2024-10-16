@@ -1,7 +1,7 @@
 ---
 title: Overcoming Freezing Problems in Windows 11 Upon System Start
-date: 2024-09-16T17:02:01.192Z
-updated: 2024-09-17T19:35:46.276Z
+date: 2024-10-14T07:02:03.362Z
+updated: 2024-10-15T17:07:05.427Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for Windows Updates
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep your computer running smoothly. Here is how to do it:
@@ -106,6 +113,13 @@ OR
 
  If no malware is detected, that means your problem is not caused by malware. Try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  Some services or programs running on your computer may conflict with certain applications on your computer resulting in application errors. To see if that’s the problem for you, try performing a clean boot. Here is how:
@@ -127,13 +141,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-110.png)
@@ -142,33 +149,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
@@ -198,16 +192,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-89.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-90.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**Disable all** .
 
@@ -216,6 +210,13 @@ OR
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-115.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
@@ -243,6 +244,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
@@ -260,6 +268,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the Command Prompt
 
@@ -288,10 +303,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to be complete. Then, restart your computer to see if this fix worked for you.
@@ -316,5 +331,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-pairing-facebook-playback-with-home-theaters/"><u>[Updated] 2024 Approved Pairing Facebook Playback With Home Theaters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-compendium-of-different-photographic-gadgets/"><u>[Updated] In 2024, Compendium of Different Photographic Gadgets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>2024 Approved Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728487196676-windows-11/"><u>耐久性を確保：Windows 11ブート領域消失後のリカバリ手順</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile-for-2024/"><u>Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/busting-through-effective-strategies-to-tackle-halo-4s-ue4-fatal-error-edition/"><u>Busting Through: Effective Strategies to Tackle Halo 4'S UE4 Fatal Error Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-geforce-experience-launch-failures-step-by-step-resolution-tips/"><u>Dealing with GeForce Experience Launch Failures: Step-by-Step Resolution Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-the-right-camera-to-support-windows-hello/"><u>Finding the Right Camera to Support Windows Hello</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A2 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-win-shift-and-s-button-problems-a-step-by-step-fix-for-windows-1110-users/"><u>Resolving Win, Shift, and S Button Problems: A Step-by-Step Fix for Windows 11/10 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Five Effective Fixes to Optimize Your Desktop's GPU Usage on Windows 11/10
-date: 2024-10-06T21:47:09.416Z
-updated: 2024-10-09T21:12:33.364Z
+date: 2024-10-14T04:42:23.932Z
+updated: 2024-10-16T07:10:20.724Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -46,10 +53,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
@@ -61,10 +68,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 3. Select the icons you want to show on desktop, then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -79,13 +86,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -106,23 +106,24 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
-5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
+5. Click **Next** \> **Finish**.
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -154,15 +155,16 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
-If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
+If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 ---
 
@@ -187,20 +189,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-pc-cpu-excess-prevented-by-stop-signals/"><u>[FIXED] Windows PC CPU Excess Prevented by Stop Signals</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[New] 2024 Approved How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-hdmi-connectivity-problems-on-your-windows-10-pc/"><u>Diagnosing and Repairing HDMI Connectivity Problems on Your Windows 10 PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Without PUK Codes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>In 2024, From Confinement to Comedy Selecting Lighthearted FB Incarceration Moments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-v2-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic V2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-initiating-the-hosted-network-feature-in-windows-11/"><u>Resolved: Issues with Initiating the Hosted Network Feature in Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-affordable-video-ad-design-for-youtube-success-for-2024/"><u>The Art of Affordable Video Ad Design for YouTube Success for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-horizontal-or-vertical-line-distortions-on-your-monitor/"><u>Troubleshooting and Resolving Horizontal or Vertical Line Distortions on Your Monitor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-if-your-torrent-download-fails/"><u>Troubleshooting Steps if Your Torrent Download Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-managed-system-preferences-in-windows-environments/"><u>Understanding Managed System Preferences in Windows Environments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-privacy-in-digital-dialogues-enjoy-secure-chats-with-duckduckgos-ai-technology-powered-by-chatgpt/"><u>Unlock Privacy in Digital Dialogues: Enjoy Secure Chats with DuckDuckGo’s AI Technology, Powered by ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-choice-list-ultimate-streaming-audio-gear-for-2024/"><u>[New] Expert Choice List Ultimate Streaming Audio Gear for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-crafting-stunning-tiktok-edits/"><u>[New] Step-by-Step Guide to Crafting Stunning TikTok Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-the-new-age-of-virtual-reality/"><u>[New] Unveiling the New Age of Virtual Reality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[Updated] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-insiders-manual-to-upload-content-to-igtv/"><u>[Updated] In 2024, The Insider's Manual to Upload Content to IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-luts-as-the-key-to-vivid-film-colors/"><u>[Updated] Luts as the Key to Vivid Film Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-fn-key-functions-windows-11-edition/"><u>Altering FN Key Functions: Windows 11 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-mouse-right-click-issues-under-windows-10-operating-system/"><u>Diagnosing and Fixing Mouse Right-Click Issues Under Windows 10 Operating System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-effektivsten-videokonverter-software-losungen-fur-windows-1011-schnell-and-sicher-ihre-top-liste-der-zehn-besten/"><u>Die Effektivsten Videokonverter-Software Lösungen Für Windows 10/11: Schnell & Sicher – Ihre Top-Liste Der Zehn Besten</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-corrupted-or-broken-start-menu-on-windows-11-proven-fixes-here/"><u>Fix Corrupted or Broken Start Menu on Windows 11 - Proven Fixes Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-usb-connections-in-windows-11/"><u>How to Fix Malfunctioning USB Connections in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-typing-lags-in-your-windows-11-computer-experience/"><u>How to Overcome Typing Lags in Your Windows 11 Computer Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-20-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 20 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205651243-overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-overcome-werfaultexe-crashing-in-windows/"><u>Top 6 Solutions to Overcome werFault.exe Crashing in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-the-pcs-continuous-power-cycle-problem/"><u>Understanding and Resolving the PC's Continuous Power Cycle Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204621854-windows-10-unresponsiveness-heres-what-you-can-do/"><u>Windows 10 Unresponsiveness? Here's What You Can Do</u></a></li>
 </ul></div>
 

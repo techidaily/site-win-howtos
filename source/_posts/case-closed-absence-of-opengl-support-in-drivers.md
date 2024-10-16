@@ -1,7 +1,7 @@
 ---
 title: "Case Closed: Absence of OpenGL Support in Drivers"
-date: 2024-10-04T17:26:24.317Z
-updated: 2024-10-09T18:07:24.011Z
+date: 2024-10-15T02:24:30.105Z
+updated: 2024-10-15T21:38:43.705Z
 tags:
   - win11
   - win10
@@ -29,10 +29,16 @@ You may encounter an error with a code of **1603** when you are attempting to in
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Completely uninstall the same program installed
@@ -41,28 +47,15 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then you can check if the application is listed here. If it is, uninstall it.
@@ -79,6 +72,13 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
@@ -88,27 +88,35 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4) Acquire full permissions on the drive for installation
 
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
@@ -118,19 +126,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
@@ -139,23 +134,9 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -164,6 +145,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -184,24 +172,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-strategies-for-high-quality-youtube-recording/"><u>[New] 2024 Approved Essential Strategies for High-Quality YouTube Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-digital-applications-for-visual-storytelling/"><u>[New] Premier Digital Applications for Visual Storytelling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/copy-and-paste-error-solutions-for-windows-11-users-a-complete-fixer/"><u>Copy & Paste Error Solutions for Windows 11 Users: A Complete Fixer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/detailed-analysis-vlc-for-video-capture-for-2024/"><u>Detailed Analysis VLC for Video Capture for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-free-up-space-by-deleting-cache-on-android/"><u>Effective Methods to Free Up Space by Deleting Cache on Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-resolve-your-aoc-display-connectivity-issues-with-windows-11-systems/"><u>Expert Tips to Resolve Your AOC Display Connectivity Issues with Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-11-audio-issues-a-step-by-step-guide-to-restoring-volume-functionality/"><u>Fix Windows 11 Audio Issues: A Step-by-Step Guide to Restoring Volume Functionality</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-bluetooth-monitoring-kit-connection-issues-in-windows-10/"><u>How to Fix Microsoft Bluetooth Monitoring Kit Connection Issues in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identified-absence-of-api-dll-l1-1/"><u>Identified Absence of API DLL L1-1</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-in-selecting-premium-hdr-cameras/"><u>In 2024, Best Practices in Selecting Premium HDR Cameras</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-windows-11-to-7-device-issue-fixes-dealing-with-code-24-this-device-is-not-present/"><u>Microsoft Windows 11 to 7 Device Issue Fixes: Dealing with 'Code 24 - This Device Is Not Present'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-desktop-window-managers-excessive-graphics-usage-in-windows-11-top-fixes/"><u>Resolve Desktop Window Manager's Excessive Graphics Usage in Windows 11 - Top Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-vanished-desktop-shortcuts-in-windows-10-solutions-revealed/"><u>Restore Vanished Desktop Shortcuts in Windows 10 – Solutions Revealed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-new-era-of-smart-casting-chromecast-with-google-tv-edition/"><u>Reviewing the New Era of Smart Casting: Chromecast with Google TV Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/seamless-skype-call-recordings-a-cross-platform-approach-for-2024/"><u>Seamless Skype Call Recordings A Cross-Platform Approach for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-the-quickest-internet-speed-how-to-obtain-and-install-killer-e2500-drivers-for-optimal-connections/"><u>Secure the Quickest Internet Speed: How to Obtain and Install Killer E2500 Drivers for Optimal Connections</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-tiny-tech-giant-a-full-review-on-the-latest-echo-dot-gen-n-with-alexa-capabilities/"><u>Unpacking the Tiny Tech Giant: A Full Review on the Latest Echo Dot (Gen N) with Alexa Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-with-a-non-loading-steam-store-try-these-proven-fixes/"><u>Unstuck with a Non-Loading Steam Store? Try These Proven Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unblemished-visuals-buying-high-quality-images-for-2024/"><u>[New] Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y100-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y100 Unlock Without Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-axon-40-lite-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Axon 40 Lite.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-rid-of-errorcachemiss-on-google-chrome-tips-and-tricks-for-quick-fixes/"><u>Get Rid of ERROR_CACHE_MISS on Google Chrome: Tips and Tricks for Quick Fixes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-free-gom-media-player-today-optimized-for-windows-10-systems/"><u>Get Your Free GOM Media Player Today - Optimized for Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-incorrect-side-by-side-configurations-error-on-windows-10/"><u>How to Correct the 'Incorrect Side-by-Side Configurations' Error on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-microphone-errors-in-windows-7-systems-easily/"><u>How to Solve Common Microphone Errors in Windows 7 Systems Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-tackle-and-repair-the-error-0x80072efd-on-win11-devices/"><u>How to Successfully Tackle and Repair the Error 0X80072EFD on Win11 Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-5-best-live-streaming-webcamscameras-for-twitch/"><u>In 2024, 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/script-execution-prevented/"><u>Script Execution Prevented</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-challenges-with-directxs-d3d-device-initialization/"><u>Success Story: Overcoming Challenges with DirectX's D3D Device Initialization</u></a></li>
 </ul></div>
 

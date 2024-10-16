@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Unreachable RPC Server Hurdle Within Windows Operating System
-date: 2024-10-05T19:42:36.392Z
-updated: 2024-10-09T18:14:48.763Z
+date: 2024-10-12T05:43:40.227Z
+updated: 2024-10-16T05:55:26.638Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,19 +58,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -80,15 +74,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -101,31 +95,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -142,8 +122,30 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -167,21 +169,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-digital-mastery-top-10-instagram-enhancers/"><u>[New] Digital Mastery Top 10 Instagram Enhancers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>[New] PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-effective-screen-recording-with-tunefab-for-2024/"><u>[New] The Ultimate Guide to Effective Screen Recording with Tunefab for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads-for-2024/"><u>[Updated] Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/computers-nightmare-staying-in-sleep-mode/"><u>Computer's Nightmare: Staying In Sleep Mode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crack-the-code-of-warframe-update-malfunctions-now-corrected/"><u>Crack the Code of Warframe Update Malfunctions - Now Corrected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-update-issue-error-code-80erase00-step-by-step-guide/"><u>Fix Windows Update Issue: Error Code 80Erase00 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-xerox-printer-error-0x800f020b-on-your-windows-machine/"><u>How to Resolve Xerox Printer Error 0X800f020b on Your Windows Machine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-2023s-leading-vr-game-development-tools/"><u>In 2024, 2023'S Leading VR Game Development Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-sharper-images-during-zoom-calls/"><u>In 2024, Tips for Sharper Images During Zoom Calls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-files-easily-on-windows-11-a-comprehensive-help-for-file-explorer-users/"><u>Navigate Files Easily on Windows 11 - A Comprehensive Help for File Explorer Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/protect-your-pixels-easy-steps-to-safeguard-photos-on-your-ipad-with-three-techniques/"><u>Protect Your Pixels: Easy Steps to Safeguard Photos on Your iPad with Three Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-inactive-night-light-on-your-windows-10-or-11-device-easily/"><u>Solve the Problem of Inactive Night Light on Your Windows 10 or 11 Device Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-90-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 90 Lite ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-windows-error-31-quickly/"><u>Troubleshooting and Correcting Windows Error 31 Quickly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-review-and-detailed-analysis-of-phillips-sunrise-clock-model-hf3505/"><u>User Review & Detailed Analysis of Phillips Sunrise Clock Model HF3505</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-authenticating-a-step-by-step-for-youtube-users-for-2024/"><u>[New] Authenticating A Step-by-Step for Youtube Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-10-bluetooth-malfunctions-avoid-delays/"><u>Comprehensive Fixes for Windows 10 Bluetooth Malfunctions – Avoid Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-hardware-specification-change-only-d3d11-gpus-will-support-this-updated-engine-version/"><u>Critical Hardware Specification Change: Only D3D11 GPUs Will Support This Updated Engine Version</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iently-isolate-key-moments-in-youtube-footage/"><u>Efficiently Isolate Key Moments in YouTube Footage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-file-elimination-experience-the-convenience-of-stellar-eraser-for-mac-standard-timed-deletion-made-easy/"><u>Effortless File Elimination - Experience the Convenience of Stellar Eraser for Mac Standard: Timed Deletion Made Easy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo V29 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photo-spinning-in-w11-os/"><u>Mastering the Art of Photo Spinning in W11 OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-past-the-challenge-effective-fixes-for-error-code-0x800f0922-on-windows-10-updates/"><u>Navigating Past the Challenge: Effective Fixes for Error Code 0X800F0922 on Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209823055-resolve-laptop-screen-turn-off-problems-quickly-and-effectively/"><u>Resolve Laptop Screen Turn-Off Problems Quickly and Effectively!</u></a></li>
 </ul></div>
 

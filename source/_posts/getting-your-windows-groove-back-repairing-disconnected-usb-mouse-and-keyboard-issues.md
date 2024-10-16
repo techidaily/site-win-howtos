@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Windows Groove Back: Repairing Disconnected USB Mouse and Keyboard Issues"
-date: 2024-10-03T17:06:29.561Z
-updated: 2024-10-09T16:55:17.567Z
+date: 2024-10-09T22:46:57.753Z
+updated: 2024-10-15T22:12:45.973Z
 tags:
   - win11
   - win10
@@ -52,35 +52,30 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Run audio troubleshooting
 
  Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the audio renderer error, you can run the audio troubleshooter to resolve the issue.
 
 1. Press the**Windows logo key** +**R** to open the Run box. Type “ms-settings: troubleshoot” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/01.jpg)
 2. Click**Playing Audio** . Then click**Run the troubleshooter** . Wait for the investigation complete.![](https://images.drivereasy.com/wp-content/uploads/2019/05/02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose the device that relates to the audio renderer error. Click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there’s an issue, you’ll see a repair strategy. Click “Yes” to fix it. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and check whether the issue is fixed or not.
 
@@ -95,31 +90,24 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 2. In the Device Manager, click**Sound, video and game controllers** . Right-click and choose**Disable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and check whether the issue is fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Update your audio driver
 
@@ -136,16 +124,23 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 3. Click the**Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap853.jpg)
 4. Restart your computer and check the audio renderer error is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Roll back your audio driver
 
@@ -155,13 +150,21 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “devmgmt.msc” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/05-1.jpg)
 3. In the Device Manager, click**Sound, video and game controllers** , then right-click on your audio adapter device and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under the**Driver** tab, click **Roll Back Driver** , then follow the on-screen instructions to finish the process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If the Roll Back Driver option grayed out, you can download a previous driver from the manufacturer’s website and install it on your PC.  
@@ -177,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “mmsys.cpl” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/03-2.jpg)
 3. Under the**Playback** tab, select the audio device that meets the issue (if you have more than one audio device) and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/04-1.jpg)
 4. Click the**Advanced** tab, select the sample rate that you wish to use. Then click**OK** . Back to the Sound window, click**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/12.jpg)
@@ -211,19 +207,22 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-ae-text-styles-guide/"><u>[New] Top 10 AE Text Styles Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android/"><u>2024 Approved Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bargain-bin-treasures-high-quality-benq-visual-tech-on-prime-day-specials/"><u>Bargain Bin Treasures: High-Quality BenQ Visual Tech on Prime Day Specials</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-usb-connectivity-problems-a-guide-to-handling-unknown-devices-and-failed-port-resets/"><u>Fixing Windows 10 USB Connectivity Problems: A Guide to Handling Unknown Devices & Failed Port Resets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halo-4-and-unreal-engine-4-overcoming-the-critical-2024-ue4-game-crash-issue/"><u>Halo 4 and Unreal Engine 4 - Overcoming the Critical 2024 UE4 Game Crash Issue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Bootloader Easily</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-best-marathon-timers-2024s-finest-running-watches/"><u>Navigating the Best Marathon Timers: 2024’S Finest Running Watches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-obstacles-successfully-instaling-the-windows-10-july-2016-update-version-1607/"><u>Overcoming Obstacles: Successfully Instaling the Windows 10 July 2016 Update (Version 1607)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/script-inactive-no-launch/"><u>Script Inactive: No Launch</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices-for-2024/"><u>Split-Screen Simplicity Mastering Picture in Picture Videos on Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-upgrading-mp4-with-premium-srt-sound/"><u>The Complete Guide to Upgrading MP4 With Premium SRT Sound</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-fusion-frontier-eight-ways-artificial-intelligence-merges-real-with-unreal/"><u>The Fusion Frontier: Eight Ways Artificial Intelligence Merges Real with Unreal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-role-of-sfc-and-deployment-image-servicing-in-fixing-windows-11-issues/"><u>Understanding the Role of SFC and Deployment Image Servicing in Fixing Windows 11 Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>[Updated] In 2024, Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-playlist-for-every-mood/"><u>[Updated] In 2024, The Ultimate Playlist for Every Mood</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-techniques-for-efficiently-timestamp-youtube-content/"><u>[Updated] Step-by-Step Techniques for Efficiently Timestamp YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/4kultra-hd/"><u>4K/Ultra HD動画再生に困難あり？ここでは、トラブルシューティング方法を詳しくご紹介</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adultflix-integration-into-kodis-leia-and-krypton-a-comprehensive-step-by-step-tutorial/"><u>AdultFlix Integration Into Kodi's Leia & Krypton: A Comprehensive Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-tools-for-transforming-avi-files-into-swf-format-web-apps-vs-desktop-software/"><u>Best No-Cost Tools for Transforming AVI Files Into SWF Format - Web Apps vs Desktop Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-techniques-for-ripping-burning-and-duplicating-data-from-dvds-and-cds-efficiently/"><u>Comprehensive Techniques for Ripping, Burning, and Duplicating Data From DVDs and CDs Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-approach-create-unique-iphone-ringtones-without-utilizing-itunes/"><u>DIY Approach: Create Unique iPhone Ringtones Without Utilizing iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-installing-inshot-on-your-windows-computer/"><u>Easy Guide to Installing InShot on Your Windows Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030478625-flv/"><u>FLVファイルの編集手順：切り取り・回転・クロッピング方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-guide-to-zooms-top-free-and-paid-transcribers-for-virtual-meetings/"><u>In 2024, The Complete Guide to Zoom's Top Free & Paid Transcribers for Virtual Meetings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-potential-channel-building-mastery/"><u>In 2024, Unleashing Potential Channel Building Mastery</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-precise-targeted-marketing-with-cutting-edge-cookiebot-platforms/"><u>Unlock Precise Targeted Marketing with Cutting-Edge Cookiebot Platforms</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-10-free-surveillance-software-for-home-security-2023-update/"><u>Updated 2024 Approved Top 10 Free Surveillance Software for Home Security 2023 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029653442-wonderfox-dvd-video-converter/"><u>WonderFox DVD Video Converterの手順：スマホユーザー向けダウンロードガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Correctly Resolve Service Started Failure on Windows Login Screen
-date: 2024-10-08T18:14:42.456Z
-updated: 2024-10-09T22:08:01.013Z
+date: 2024-10-13T21:00:54.284Z
+updated: 2024-10-15T19:16:30.425Z
 tags:
   - win11
   - win10
@@ -48,22 +48,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -76,12 +69,41 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -93,24 +115,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -127,15 +135,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
-3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
+3. Follow the on-screen instructions to fix any lurking problems.
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -160,16 +169,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-10-mac-gif-tools-to-avoid-losing-quality/"><u>[New] 2024 Approved Top 10 Mac GIF Tools to Avoid Losing Quality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-win-10s-top-10-video-cam-applications/"><u>[New] 2024 Approved Win 10'S Top 10 Video Cam Applications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>[Updated] Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>2024 Approved Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209839104-csgo-crash-woes-heres-how-you-can-achieve-a-smooth-gaming-experience/"><u>CS:GO Crash Woes? Here's How You Can Achieve a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-requirement-compatible-with-directx-11-gpus-only-to-enable-engine-usage/"><u>Essential Requirement: Compatible with DirectX 11 GPUs Only to Enable Engine Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-shutting-down-a-frozen-computer-running-windows-11-fixed/"><u>Guide to Successfully Shutting Down a Frozen Computer Running Windows 11 [FIXED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-graphic-errors-in-your-rust-projects/"><u>How to Correctly Address Graphic Errors in Your Rust Projects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-is-frozen-during-windows-setup/"><u>How to Troubleshoot When Your Computer Is Frozen During Windows Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-elevated-cpu-consumption-troubleshooting-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption: Troubleshooting WUDFHost.exe on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-respond-exploring-7-critical-factors/"><u>Why Won't My iPhone Touchscreen Respond? Exploring 7 Critical Factors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>[New] Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>[New] GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-to-creating-engaging-high-quality-asmr-scenes-for-2024/"><u>[New] Step-by-Step Guide to Creating Engaging, High-Quality ASMR Scenes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-drones-that-accommodate-gopro-cameras/"><u>[Updated] High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Samsung Galaxy S23 Tactical Edition.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-urdu-online-a-breeze/"><u>Learn Urdu Online – A Breeze!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-data-management-a-four-step-guide-to-structuring-spreadsheets-in-excel/"><u>Mastering Data Management: A Four-Step Guide to Structuring Spreadsheets in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-guide-on-incorporating-cell-data-into-your-chart-labels/"><u>Mastering Excel: A Guide on Incorporating Cell Data Into Your Chart Labels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-step-by-step-guide-on-setting-your-numbers-accuracy/"><u>Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-creating-modifying-displaying-and-transforming-notes/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Creating, Modifying, Displaying & Transforming Notes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-precision-with-excels-truncate-feature-a-step-by-step-guide/"><u>Mastering Precision with Excel's TRUNCATE Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-index-function-a-step-by-step-guide-to-extract-data-in-microsoft-excel/"><u>Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-of-cutting-out-images-without-backgrounds-using-excel-tools/"><u>Mastering the Technique of Cutting Out Images Without Backgrounds Using Excel Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-master-your-setlist-top-dj-audio-repositories/"><u>New Master Your Setlist Top DJ Audio Repositories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-novices-map-to-snapseed-photoshop-wonders/"><u>The Novice's Map to Snapseed Photoshop Wonders</u></a></li>
 </ul></div>
 

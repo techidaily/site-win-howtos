@@ -1,7 +1,7 @@
 ---
 title: PDF Print Problem? Discover Fast Fixes and Get On Track!
-date: 2024-10-05T19:40:43.342Z
-updated: 2024-10-09T22:27:00.692Z
+date: 2024-10-15T00:06:07.149Z
+updated: 2024-10-15T17:03:52.815Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 4. [**Update your USB driver**](#s4)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Use a different USB port
@@ -54,16 +54,16 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -73,13 +73,21 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
@@ -89,13 +97,6 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -139,18 +140,20 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-charting-new-territory-youtubes-revised-policies/"><u>[Updated] Charting New Territory YouTube's Revised Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>2024 Approved Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-milestone-mastery-breaking-into-the-millions/"><u>2024 Approved Youtube Milestone Mastery Breaking Into the Millions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-excessive-cpu-demand-by-windows-extender/"><u>Avoiding Excessive CPU Demand by Windows Extender</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/capture-chill-vibes-top-winter-bg-ideas-for-yt/"><u>Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/checking-compatibility-your-pathway-to-an-iphone-upgrade/"><u>Checking Compatibility: Your Pathway to an iPhone Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208221241-cursor-constantly-blinks-heres-how-you-can-fix-it/"><u>Cursor Constantly Blinks? Here’s How You Can Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-diagnosing-and-fixing-unknown-usb-error-with-descriptor-retrieval-failures/"><u>Expert Guide: Diagnosing and Fixing 'Unknown USB' Error with Descriptor Retrieval Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-update-error-code-0x8023c401c-on-windows-10-and-11/"><u>Resolving Windows Update Error Code 0X802^3C401C on Windows 10 and 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-windows-7-update-download-failures-a-comprehensive-guide/"><u>Solving the Problem: Windows 7 Update Download Failures - A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-nixplay-seed-exceptional-photo-displays/"><u>Top-Ranked Nixplay Seed: Exceptional Photo Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-correct-system-error-0x887a0006-a-step-by-step-guide-to-a-swift-solution/"><u>Troubleshoot and Correct System Error 0X887A0006: A Step-by-Step Guide to a Swift Solution!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-correct-update-error-0x8024401c-in-windows-11/"><u>Troubleshooting Steps to Correct Update Error 0X8024401C in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-speedy-instagram-content-mobile-and-online-solutions/"><u>[New] Speedy Instagram Content Mobile & Online Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-excellent-windows-compatible-video-recorders/"><u>2024 Approved Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-next-level-entertainment-exclusive-windows-10-gaming-and-apps/"><u>2024 Approved Next-Level Entertainment Exclusive Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-techniques-restoring-functionality-of-the-master-keys-in-your-dell-device/"><u>DIY Techniques: Restoring Functionality of the Master Keys in Your Dell Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insight-on-the-exceptional-viewing-experience-with-samsungs-qn55q6-0rafxza-smart-tv-featuring-4k-technology/"><u>Expert Insight on the Exceptional Viewing Experience with Samsung's QN55Q6 0RAFXZA Smart TV, Featuring 4K Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x50-gt-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X50 GT Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-80n07000e-error-in-windows-updates-a-step-by-step-guide/"><u>How to Resolve the 80N07000E Error in Windows Updates – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-cast-functionality-on-your-windows-11-pc-solution/"><u>How to Restore Cast Functionality on Your Windows 11 PC [Solution]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-picks-essential-products-every-entrepreneur-must-own/"><u>In 2024, Top Picks Essential Products Every Entrepreneur Must Own</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/losungswege-fur-extrem-langsame-windows-server-2022-ausfuhrung-drei-effektive-methoden/"><u>Lösungswege Für Extrem Langsame Windows Server 2022-Ausführung – Drei Effektive Methoden</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-windows-11-build-1607-upgrade-mishaps/"><u>Step-by-Step Fix for Windows 11 Build 1607 Upgrade Mishaps</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-incomplete-driver-setup-on-amd-graphics-cards/"><u>Step-by-Step Fixes for Incomplete Driver Setup on AMD Graphics Cards</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-new-antitrust-legislation-targeting-giants/"><u>Unraveling New Antitrust Legislation Targeting Giants</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-system-event-notification-services-connection-problem-fixed/"><u>Windows & System Event Notification Services Connection Problem, Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-connected-to-xbox-live-heres-the-comprehensive-guide/"><u>Xbox One Connected to Xbox Live? Here's the Comprehensive Guide</u></a></li>
 </ul></div>
 

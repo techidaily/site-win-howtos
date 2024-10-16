@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fix YouTube Sound Issues After Updating Windows 10"
-date: 2024-10-06T18:28:04.950Z
-updated: 2024-10-09T19:21:11.086Z
+date: 2024-10-09T16:38:35.666Z
+updated: 2024-10-15T21:59:17.424Z
 tags:
   - win11
   - win10
@@ -56,24 +56,31 @@ Your Windows Update may fail to update your Windows because its components are c
 * _**net start cryptsvc**_
 **5)**Check your Windows Update to see if it works fine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Manually download and install updates
 
 If Windows Update can’t help you download certain system updates, you can try doing so on your own. Microsoft has put all its system updates online, and you can download these updates and install them on your computer without the help of Windows Update. To manually download and install updates:**1)**Click the**Start**button in the lower left corner of your screen. Then type “_**information**_“. In the list of results, click**System Information**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c0faa09e19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**In the System Information window, check**System Type**. Its value is usually **x64-based** or **x86-based**(or sometimes**ARM64-based**).
 
  This is an important piece of information and you should note it down. It will be useful when you are looking for the updates that match your Windows later.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c104b5d2ee.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On Windows Update, note down the system updates that failed to install. (You may need to get the information from the update history.)
 
@@ -83,40 +90,46 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb3a1da130.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** In the search results, find the update that matches your**operating system**and**system type**(_x86-,_ _x64- or ARM64-based_). Then click**Download**next to the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click the link on the new window to download the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run DISM and System File Checker
 
@@ -124,29 +137,29 @@ It’s also possible that your Windows Update can’t work because of the corrup
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbd72bc9a4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** In Command Prompt, to run System File Checker, type “_**sfc /scannow**_” and press**Enter**on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbe8bbd499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**To run DISM, type “_**dism /online /cleanup-image /restorehealth**_“. and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbeb602fef.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable your antivirus
 
@@ -167,13 +180,6 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 **2)** Click**System Restore**. The System Restore wizard will pop up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
@@ -199,16 +205,14 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas/"><u>[New] 2024 Approved Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-daily-digest-guidelines-tips-for-successful-vlogs-for-2024/"><u>[New] Daily Digest Guidelines Tips for Successful Vlogs for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-amp-up-your-pixel-with-top-download-links/"><u>2024 Approved Amp Up Your Pixel with Top Download Links</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-hot-swappable-magic-razers-blackwidow-v4-unveiled/"><u>Discover the Hot-Swappable Magic: Razer's BlackWidow V4 Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-common-minecraft-lan-connectivity-challenges/"><u>Expert Advice: Fixing Common Minecraft LAN Connectivity Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-reactivating-your-diagnostic-service/"><u>Guide: Successfully Reactivating Your Diagnostic Service</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-stellar-file-cleaner-the-go-to-option-for-regular-data-deletion/"><u>Mac Stellar File Cleaner: The Go-To Option for Regular Data Deletion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-service-failed-problem-with-your-windows-1011-account-expert-solutions/"><u>Overcoming 'Service Failed' Problem with Your Windows 10/11 Account - Expert Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-setup-of-your-smart-device-with-any-universal-remote/"><u>Step-by-Step Guide: Mastering the Setup of Your Smart Device with Any Universal Remote</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-google-pixel-fold-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Google Pixel Fold to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad-issues/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-narrating-numbers-making-millions-from-your-micro-vlogs/"><u>[New] In 2024, Narrating Numbers Making Millions From Your Micro-Vlogs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-q500-typhoon-yuneecs-high-resolution-bliss/"><u>[New] Q500 Typhoon - Yuneec's High-Resolution Bliss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-surface-book-pro-4-camera-not-working-on-windows-11/"><u>[Solved] Surface Book (Pro 4) Camera Not Working on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-5-best-snipping-tools-for-windows/"><u>[Updated] 2024 Approved 5 Best Snipping Tools for Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-volume-is-corrupt-error-code-0x80071ac3-on-windows/"><u>Fixing 'Volume Is Corrupt' Error Code 0X80071AC3 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-google-chrome-unresponsiveness-quick-relaunch-tips/"><u>How to Troubleshoot Google Chrome Unresponsiveness – Quick Relaunch Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-seamless-transition-to-professional-screen-captures-via-aiseesoft/"><u>In 2024, Seamless Transition to Professional Screen Captures via Aiseesoft</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-es-offline-tervezesi-modszerek-az-esemenyi-video-mennyiseget-novekedese-erdekepesitoek/"><u>Online És Offline Tervezési Módszerek Az Eseményi Videó Mennyiséget Növekedése Érdeképesítőek</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-malfunctioning-keyboard-typing-issues/"><u>Resolved: Malfunctioning Keyboard Typing Issues</u></a></li>
 </ul></div>
 

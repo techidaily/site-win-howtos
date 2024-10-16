@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the 'Unknown USB Device' Error and Port Reset Issues in Windows 10"
-date: 2024-09-11T01:06:49.589Z
-updated: 2024-09-18T00:10:16.920Z
+date: 2024-10-10T06:49:20.304Z
+updated: 2024-10-16T07:03:07.137Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ``
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2\. Disable background apps
   
  1)  
@@ -73,12 +80,34 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-2.png)
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` 3)
 `` Scroll down on left pane to choose **Background apps** .  
 `` And uncheck the on-run apps.  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-2.png)
 ``
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 `` That’s all there is to it.  
 ``
@@ -103,12 +132,16 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/1722570120346-7-days-to-die-reborn-how-the-developers-facelifted-zombies-for-an-exciting-sandbox-adventure/"><u>'7 Days to Die' Reborn: How the Developers Facelifted Zombies for an Exciting Sandbox Adventure</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevate-your-visual-storytelling-with-lut-techniques-in-premiere/"><u>[Updated] Elevate Your Visual Storytelling with LUT Techniques in Premiere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-causes-of-minecraft-multiplayer-lan-failures-and-solutions/"><u>Common Causes of Minecraft Multiplayer LAN Failures and Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/instantaneously-enhance-your-facebook-page-with-songs/"><u>Instantaneously Enhance Your Facebook Page with Songs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-m6-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco M6 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-power-surge-issue-with-gateway-hub/"><u>Rectified: Power Surge Issue with Gateway Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-update-issue-with-error-code-0x800f0922-using-these-easy-fixes/"><u>Resolve Windows 10 Update Issue with Error Code 0X800f0922 Using These Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-adjusted-security-preferences-now-permit-download-of-this-file/"><u>Resolved: Adjusted Security Preferences Now Permit Download of This File</u></a></li>
+</ul></div>
 

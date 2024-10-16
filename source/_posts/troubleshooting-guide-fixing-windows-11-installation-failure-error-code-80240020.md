@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Windows 11 Installation Failure - Error Code 80240020"
-date: 2024-10-07T18:00:35.017Z
-updated: 2024-10-09T21:14:07.413Z
+date: 2024-10-12T03:29:37.264Z
+updated: 2024-10-15T17:35:09.004Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -96,10 +96,10 @@ Then click **Update & security**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 b)  
@@ -110,10 +110,10 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 c)  
@@ -123,10 +123,10 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2)  
@@ -159,24 +159,17 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>[New] ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-zdsoft-video-recording/"><u>[New] In 2024, The Ultimate Guide to ZDSoft Video Recording</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>[New] Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-inverting-video-order-on-snapchat/"><u>[Updated] Inverting Video Order on Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-for-your-minecraft-local-network-gameplay/"><u>How To Restore Connectivity For Your Minecraft Local Network Gameplay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Pop 8 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-accelerator-eliminating-slow-connection-woes/"><u>League of Legends Download Accelerator: Eliminating Slow Connection Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-function-fn-key-malfunction-fast-and-simple-solutions/"><u>Lenovo Function (Fn) Key Malfunction: Fast and Simple Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-iphones-portable-hard-drive-issues-with-easy-usb-driver-fixes/"><u>Overcome iPhone's Portable Hard Drive Issues with Easy USB Driver Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-watch-series-4-unveiled-anticipated-cost-launch-timeline-and-potential-features/"><u>Pixel Watch Series 4 Unveiled: Anticipated Cost, Launch Timeline & Potential Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-0x80072fed-issue-step-by-step-solutions/"><u>Resolving Windows 10'S 0X80072FED Issue: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-0x80070490-issue-on-your-pc-complete-fix-guide/"><u>Solving the 0X80070490 Issue on Your PC - Complete Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-loadlibrary-failed-fixing-the-problem-of-error-87-in-windows/"><u>Troubleshooting 'LoadLibrary Failed' - Fixing the Problem of Error 87 in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-adapting-to-organization-imposed-windows-system-settings-policies/"><u>Understanding and Adapting to Organization-Imposed Windows System Settings Policies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1011-issue-frozen-acer-laptop-keys/"><u>Windows 10/11 Issue: Frozen Acer Laptop Keys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-viral-journey-top-tags-to-accelerate-views-in-short-form-videos/"><u>[Updated] Viral Journey Top Tags to Accelerate Views in Short Form Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-tips-for-effortless-green-screening-in-kinemaster-software/"><u>2024 Approved Expert Tips for Effortless Green Screening in KineMaster Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audio-ambiance-weaving-music-into-instagram-moments-for-2024/"><u>Audio Ambiance Weaving Music Into Instagram Moments for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-make-music-accessible-with-a-well-designed-youtube-playlist/"><u>In 2024, Make Music Accessible with a Well-Designed YouTube Playlist</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-play-8t-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Play 8T</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-acts-erratically/"><u>Keyboard Acts Erratically</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-cast-device-connection-problems-a-comprehensive-guide/"><u>Overcoming Windows 11 Cast Device Connection Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-game-crashes-fixed-steps-to-ensure-stable-performance-on-windows-versions-11-10-7-81-and-gro/"><u>PC Game Crashes? Fixed! Steps to Ensure Stable Performance on Windows Versions 11, 10, 7, 8.1 & Gro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-projects-proportions-with-aspect-ratio/"><u>Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-keyboard-malfunction-issues/"><u>Step-by-Step Guide: Resolving Windows Keyboard Malfunction Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>Voice Clarity Overcoming Skype Noise Issues for 2024</u></a></li>
 </ul></div>
 

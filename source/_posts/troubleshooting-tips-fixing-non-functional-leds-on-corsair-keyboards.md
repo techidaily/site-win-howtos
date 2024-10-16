@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing Non-Functional LEDs on Corsair Keyboards"
-date: 2024-10-03T19:33:01.467Z
-updated: 2024-10-09T19:53:54.460Z
+date: 2024-10-10T22:00:16.013Z
+updated: 2024-10-15T17:54:16.186Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 * If you’re on a desktop, try the USB port at the back of your PC mainframe.
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
 
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -89,17 +89,23 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -129,21 +135,14 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-circular-engine-kit-for-2024/"><u>[New] Circular Engine Kit for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-how-to-create-gif-format-outros-for-2024/"><u>[New] How To Create GIF Format Outros for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-1-5-iphone-podcast-platforms-for-all/"><u>[Updated] Explore #1-#5 iPhone Podcast Platforms for All</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-identifying-key-windows-movie-maker-alternatives/"><u>[Updated] Identifying Key Windows Movie Maker Alternatives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mycam-vs-others-a-comparative-camera-performance-study/"><u>[Updated] MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dns-failures-and-how-to-overcome-them-with-4-strategies/"><u>DNS Failures and How to Overcome Them (with 4 Strategies)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-hidden-wi-fi-settings-in-windows-11-a-comprehensive-guide/"><u>Fixing Hidden Wi-Fi Settings in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-rdo-pc-crashes-essential-troubleshooting-steps/"><u>How to Fix RDO PC Crashes: Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-when-your-razer-keyboard-wont-illuminate/"><u>How To Restore Functionality When Your Razer Keyboard Won't Illuminate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-windows-10s-error-code-0x80n0541-and-install-the-latest-update/"><u>How to Successfully Resolve Windows 10'S Error Code 0X80n0541 and Install the Latest Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-glitches-effective-solutions-when-your-logitech-scroll-wheel-fails/"><u>Overcoming Glitches: Effective Solutions When Your Logitech Scroll Wheel Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-restart-issues-on-your-windows-10-system/"><u>Step-by-Step Guide: Solving Restart Issues on Your Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-mouse-disruption-for-good-effective-solutions-you-must-try-now/"><u>Stop Mouse Disruption for Good: Effective Solutions You Must Try Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-8-leading-artificial-intelligence-apps-to-upgrade-your-mobile-experience/"><u>The 8 Leading Artificial Intelligence Apps to Upgrade Your Mobile Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tracker-why-the-fitbit-charge-e-still-makes-the-cut/"><u>The Ultimate Guide to Choosing a Tracker: Why the Fitbit Charge E Still Makes the Cut</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlisted-app-removal-a-step-by-step-guide-beyond-the-control-panel/"><u>Unlisted App Removal: A Step-by-Step Guide Beyond the Control Panel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-discovering-sky-vistas-in-hd-mi-drone-review/"><u>[New] In 2024, Discovering Sky Vistas in HD Mi Drone Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>[Updated] In 2024, Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aviutl/"><u>【動画変換ガイド】: AviUtlで動画中の特定シーンをクリップして静止画化する手軌</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028904283-youtube/"><u>高解像度ビデオをYouTubeへ配信するコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-reducing-ape-file-sizes-while-enhancing-audio-quality-in-mp3-conversion/"><u>A Step-by-Step Guide: Reducing APE File Sizes While Enhancing Audio Quality in MP3 Conversion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-to-ipad-effortless-conversion-of-dvd-and-video-files-into-mp4mp3-for-your-apple-tablet/"><u>Mac to iPad - Effortless Conversion of DVD & Video Files Into MP4/MP3 for Your Apple Tablet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-qualcomm-atheros-bluetooth-connectivity-problems-on-windows-10/"><u>Solving Qualcomm Atheros Bluetooth Connectivity Problems on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows7dvdpc/"><u>Windows7でDVDの内容をPCに移行するためのガイド</u></a></li>
 </ul></div>
 

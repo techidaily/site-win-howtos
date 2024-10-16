@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting User Profile Service Sign-In Issues in Windows 10/11
-date: 2024-10-02T23:48:38.512Z
-updated: 2024-10-09T22:39:09.371Z
+date: 2024-10-09T21:24:13.613Z
+updated: 2024-10-16T07:19:27.895Z
 tags:
   - win11
   - win10
@@ -40,29 +40,15 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -77,37 +63,51 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -139,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
@@ -156,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -167,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -202,19 +202,20 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-step-by-step-blueprint-for-successful-reddit-contributions/"><u>[New] Step-by-Step Blueprint for Successful Reddit Contributions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-producing-culinary-content/"><u>[Updated] In 2024, Gourmet Guide Producing Culinary Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlocking-online-income-the-creators-path-to-prosperity/"><u>[Updated] In 2024, Unlocking Online Income The Creator’s Path to Prosperity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-to-turn-off-igtv-for-2024/"><u>[Updated] Step-by-Step to Turn Off IGTV for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-deciding-filmora-vs-democracy-creator/"><u>2024 Approved Deciding Filmora Vs. Democracy Creator</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/browser-security-alert-decoded-how-to-deal-with-firefox-secerrorunknownissuer/"><u>Browser Security Alert Decoded - How to Deal with FireFox SEC_ERROR_UNKNOWN_ISSUER</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-moto-g84-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Moto G84 5G Device SIM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-shell-common-dll-error-a-step-by-step-guide/"><u>How to Resolve 'Windows Shell Common DLL Error' – A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-skype-visual-glitches-in-windows-11-with-easy-fixes/"><u>Overcome Skype Visual Glitches in Windows 11 with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-0x800f0831-error-instantly-a-guide-to-updating-your-windows-system/"><u>Solve 0X800f0831 Error Instantly: A Guide to Updating Your Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-call-of-duty-world-war-ii-error-code-4220-malfunction/"><u>Step-by-Step Fix for Call of Duty World War II Error Code 4220 Malfunction</u></a></li>
-<li><a href="https://article-tips.techidaily.com/step-by-step-tutorial-on-restoring-your-iphone-emails-to-current-status/"><u>Step-by-Step Tutorial on Restoring Your iPhone Emails to Current Status</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-magic-5-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Magic 5 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] In 2024, Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-dawn-evaluation-non-conformist-thoughts/"><u>[Updated] Dawn Evaluation Non-Conformist Thoughts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-overcoming-the-cannot-perform-action-error-code-0x80004005/"><u>Effective Strategies for Overcoming the 'Cannot Perform Action' Error (Code 0X80004005)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-visuals-a-stepwise-guide-to-sdr-transformation-into-hdri/"><u>Enhancing Visuals A Stepwise Guide to SDR Transformation Into HDRI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-turn-any-screen-capture-into-a-playable-mp3-file-step-by-step-process/"><u>How to Quickly Turn Any Screen Capture Into a Playable MP3 File: Step-by-Step Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-12-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 12 to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/looping-videos-on-vlc-a-simple-step-by-step-guide/"><u>Looping Videos on VLC: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-media-your-comprehensive-tutorial-for-installing-addons-in-kodi-for-movies-and-shows/"><u>Master the Art of Media: Your Comprehensive Tutorial for Installing Addons in Kodi for Movies and Shows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-playthrough-recording-tutorials-mastering-osu-video-sessions/"><u>PC Playthrough Recording Tutorials: Mastering Osu! Video Sessions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-smart-8-plus-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Smart 8 Plus.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/private-messaging-enhanced-by-ai-experience-duckduckgo-chat-and-additional-features/"><u>Private Messaging Enhanced by AI: Experience DuckDuckGo Chat & Additional Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-converting-your-dvd-collection-for-viewing-on-ipad/"><u>Quick Guide to Converting Your DVD Collection for Viewing on iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-guide-how-to-get-your-favorite-love-ballads-instantly/"><u>Seamless Guide: How to Get Your Favorite Love Ballads Instantly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers-for-2024/"><u>Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers for 2024</u></a></li>
 </ul></div>
 

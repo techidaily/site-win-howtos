@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Installation Challenges of HP Deskjet D1360 Printer Drivers on Latest Windows Versions: A User Guide"
-date: 2024-10-04T23:00:18.088Z
-updated: 2024-10-09T19:55:37.011Z
+date: 2024-10-15T01:52:46.738Z
+updated: 2024-10-15T23:15:46.124Z
 tags:
   - win11
   - win10
@@ -47,20 +47,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -69,22 +76,30 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -96,22 +111,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -130,10 +131,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -161,18 +162,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-comprehensively-addressed-best-tools-for-efficient-unfollowing-for-2024/"><u>[New] Comprehensively Addressed Best Tools for Efficient Unfollowing for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-iphone-macro-and-microphotography-techniques/"><u>[New] In 2024, Mastering iPhone Macro & Microphotography Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-directing-viewers-across-platforms-igtv-and-facebook/"><u>[Updated] Directing Viewers Across Platforms IGTV & Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-domination-diaries/"><u>2024 Approved Digital Domination Diaries</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cut-wastage-in-high-cpu-use-with-wmi-fixes-for-win11/"><u>Cut Wastage in High CPU Use with WMI Fixes for Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209210125-error-code-0x800f081f-on-your-mind-solving-the-dotnet-35-install-problems/"><u>Error Code 0X800F081F on Your Mind? Solving the DotNet 3.5 Install Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-irritating-sound-of-crackling-speakers-on-your-pc-solutions-for-windows-10-and-7/"><u>Fixing the Irritating Sound of Crackling Speakers on Your PC - Solutions for Windows 10 and 7</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-live-undo-on-twitch-essential-tips-and-strategies/"><u>Mastering Live Undo on Twitch Essential Tips and Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007781605-reconfigured-cosmos-endures-intermittent-ice-age-problem-solved/"><u>Reconfigured Cosmos Endures Intermittent Ice Age - Problem Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-win32-app-crash-a-step-by-step-guide-to-fixing-stop-code-0x0000005/"><u>Resolving the Win32 App Crash: A Step-by-Step Guide to Fixing STOP Code 0X0000005</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-geforce-app-cant-get-setup-information-now/"><u>Troubleshooting Completed: GeForce App Can't Get Setup Information Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-trackpad-issues-on-windows-11-8-and-7-solutions-included/"><u>Troubleshooting Laptop Trackpad Issues on Windows 11, 8 & 7 – Solutions Included</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>[New] 2024 Approved Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-next-gen-universe-expedition-metaverse-vs-omniverse-taken-into-account/"><u>[Updated] The Next-Gen Universe Expedition Metaverse Vs. Omniverse Taken Into Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gif-mov/"><u>「効果的な GIFから MOVへのアニメ変換ガイド」</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-driving-insights-perfect-polling-techniques-for-instagram-stories/"><u>2024 Approved Driving Insights Perfect Polling Techniques for Instagram Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cgp-and-the-quest-for-reliable-medical-info/"><u>CGP and the Quest for Reliable Medical Info</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dramatic-lighting-in-hdr-portrait-photography/"><u>Dramatic Lighting in HDR Portrait Photography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-converting-wave-waveform-audio-file-format-to-wav-windows-audio-video-intermixing/"><u>Easy Steps for Converting WAVE (Waveform Audio File Format) to WAV (Windows Audio Video Intermixing)</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-gaming-cut-down-on-steams-ram-demands-with-tips/"><u>Efficient Gaming: Cut Down on Steam's RAM Demands with Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-bulk-changing-m4a-audio-into-mp3-format/"><u>Effortless Guide on Bulk Changing M4A Audio Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-removing-movavi-branding-from-your-videography/"><u>Effortless Guide: Removing Movavi Branding From Your Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/goprolrvmp4/"><u>GoProレコーディングされたLRV映像を圧縮してMP4にするテクニック</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x9a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X9a to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-into-the-popular-messaging-service-the-basics-of-telegram/"><u>Insights Into the Popular Messaging Service: The Basics of Telegram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-to-vob-conversion-techniques-on-windows-how-to-successfully-transform-video-formats/"><u>MP4 to VOB Conversion Techniques on Windows: How to Successfully Transform Video Formats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-mov/"><u>MP4へ変換! MOVファイルの最適化ガイド</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/win10-screen-grabbing-top-quality-captures-for-2024/"><u>Win10 Screen Grabbing - Top Quality Captures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pciphoneandroid-youtube/"><u>オフライン見逃せない！「PC、iPhone、Android」からの YouTube 動画自由視聴ガイド</u></a></li>
 </ul></div>
 

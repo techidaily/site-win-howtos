@@ -1,7 +1,7 @@
 ---
 title: Surface Plugged In Not Charging [SOLVED]
-date: 2024-09-12T19:07:04.417Z
-updated: 2024-09-17T20:07:46.694Z
+date: 2024-10-10T00:00:50.616Z
+updated: 2024-10-16T03:26:48.891Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
@@ -83,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
@@ -97,22 +104,16 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
 
@@ -135,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -161,10 +169,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -176,19 +184,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -208,5 +203,19 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-your-snaps-with-expert-guided-boomerangs-for-2024/"><u>[Updated] Elevating Your Snaps with Expert-Guided Boomerangs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[Updated] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-regular-payment-structures-in-youtuber-economics/"><u>[Updated] Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tallying-up-mr-beasts-earnings/"><u>[Updated] Tallying Up Mr. Beast's Earnings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-keyboard-input-mistakes-solutions-for-unintended-letters/"><u>Addressing Keyboard Input Mistakes: Solutions for Unintended Letters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boosting-windows-7-launch-times-tips-and-solutions-to-combat-delayed-startups/"><u>Boosting Windows 7 Launch Times: Tips & Solutions to Combat Delayed Startups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-ps4-sync-errors-effective-solutions-for-your-gaming-control-pad/"><u>Overcoming PS4 Sync Errors: Effective Solutions for Your Gaming Control Pad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-missing-mfplatdll-file/"><u>Overcoming The Challenge Of A Missing Mfplat.dll File</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-for-hulu-p-ts2n-errors-on-roku-streaming-sticks-and-tvs/"><u>Troubleshooting Guide for Hulu P-TS2n Errors on Roku Streaming Sticks & TVs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-microsoft-defender-smartscreen-is-unresponsive/"><u>Troubleshooting Guide: When Microsoft Defender SmartScreen Is Unresponsive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-gameloop-crashes-in-windows-11-and-windows-cuarto-versions/"><u>Ultimate Guide: Resolving GameLoop Crashes in Windows 11 and Windows Cuarto Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-miracast-on-incompatible-devices-essential-tips-for-a-smooth-connection/"><u>Unlocking Miracast on Incompatible Devices: Essential Tips for a Smooth Connection</u></a></li>
+</ul></div>
 

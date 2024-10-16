@@ -1,7 +1,7 @@
 ---
 title: "Battling 'Plugged But Not Charging' Dilemma: Fixes for Windows 7 and 10 Users"
-date: 2024-10-06T21:44:45.042Z
-updated: 2024-10-09T23:24:05.970Z
+date: 2024-10-14T05:12:33.950Z
+updated: 2024-10-15T21:29:20.780Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,13 +58,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -70,34 +70,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -110,14 +105,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -135,13 +138,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -166,20 +162,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eamless-techniques-for-swift-removal-of-your-youtube-comments-for-2024/"><u>[New] Seamless Techniques for Swift Removal of Your Youtube Comments for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seizing-stability-eliminating-instability/"><u>[New] Seizing Stability Eliminating Instability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-changed-network-environment-warning-in-windows-10-easy-guide/"><u>Fix Changed Network Environment Warning in Windows 10 Easy Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-logitechs-unresponsive-vertical-scroll-on-your-device/"><u>How to Repair Logitech's Unresponsive Vertical Scroll on Your Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-blaze-2-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Blaze 2?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005398019-steam-remote-play-malfunction-discover-effective-solutions-here/"><u>Steam Remote Play Malfunction? Discover Effective Solutions Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-right-clicks-on-a-windows-10-pc/"><u>Step-by-Step Solution for Non-Responsive Right Clicks on a Windows 10 PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/transform-your-photos-on-macos-with-stellars-phoenix-image-enhancer/"><u>Transform Your Photos on macOS with Stellar's Phoenix Image Enhancer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-cognitive-clash-ultimate-gk-video-quizzes/"><u>[New] 2024 Approved Cognitive Clash - Ultimate GK Video Quizzes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-live-demystified-how-to-watch-2023-update-for-2024/"><u>[New] FB Live Demystified How to Watch, 2023 Update for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-utilizing-aiseesoft-for-video-captures/"><u>[New] In 2024, Step-by-Step Utilizing Aiseesoft for Video Captures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-dilemma-properly-set-up-yet-unresponsive/"><u>Device Dilemma: Properly Set Up Yet Unresponsive</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-a-balanced-choice-in-budget-computing/"><u>Evaluating the Dell Inspiron 3671 Desktop: A Balanced Choice in Budget Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209598426-fix-this-device-doesnt-support-receiving-miracast-2024-tips/"><u>Fix 'This Device Doesn't Support Receiving Miracast' 2024 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-laptop-battery-that-wont-charge-easy-solutions-for-immediate-results/"><u>Fix a Laptop Battery That Won't Charge: Easy Solutions for Immediate Results</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lenovo-thinkphone-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lenovo ThinkPhone Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-stuttering-screens-just-gameplay/"><u>No More Stuttering Screens, Just Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-inbuilt-webcam-a-comprehensive-guide-for-windows-users-facing-hardware-glitches/"><u>Revive Your Inbuilt Webcam: A Comprehensive Guide for Windows Users Facing Hardware Glitches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-and-fast-installation-of-realtek-asio-drivers-on-windows-10-get-started-today/"><u>Simple & Fast Installation of RealTek Asio Drivers on Windows 10 - Get Started Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210859162-solution-steps-for-lenovos-stuck-fn-key-fast-and-simple-fixes/"><u>Solution Steps for Lenovo's Stuck FN Key - Fast and Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-error-xc0000142-on-windows-systems/"><u>Solving Error XC0000142 on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-an-unresponsive-start-button-on-windows-11-systems/"><u>Solving the Problem of an Unresponsive Start Button on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-windows-update-issue-0x800f0831-with-ease/"><u>Troubleshoot and Repair Windows Update Issue 0X800F0831 with Ease</u></a></li>
 </ul></div>
 

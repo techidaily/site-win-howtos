@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix a Non-Functional Corsair HS50 Headset Microphone"
-date: 2024-10-07T19:30:30.378Z
-updated: 2024-10-09T21:39:09.881Z
+date: 2024-10-15T06:01:01.381Z
+updated: 2024-10-16T02:24:37.819Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,6 +48,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -49,23 +63,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -81,10 +81,10 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
@@ -102,31 +102,39 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
- If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
+ If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -161,18 +169,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>[Updated] In 2024, Versatile Online Creations Simple and Inclusive Ideas for Your First Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fix-unresponsive-audio-jack-on-pc-and-laptop/"><u>Comprehensive Guide To Fix: Unresponsive Audio Jack on PC & Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-solutions-for-fixing-persistent-windows-solved-not-updating-glitches/"><u>Efficient Solutions for Fixing Persistent Windows ([Solved] - Not Updating) Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-strategies-for-troubleshooting-bluetooth-pairing-problems-on-windows-10/"><u>Expert Strategies for Troubleshooting Bluetooth Pairing Problems on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-freeze-steps-to-successfully-complete-a-stagnant-windows-11-update/"><u>Fixing the Freeze: Steps to Successfully Complete a Stagnant Windows 11 Update</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-xcover-6-pro-tactical-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy XCover 6 Pro Tactical Edition For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-google-pixel-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>In 2024, Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/section-4a-advanced-topics-cardiac-remodeling-and-molecular-mechanisms-in-heart-failure/"><u>Section 4A: Advanced Topics - Cardiac Remodeling and Molecular Mechanisms in Heart Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-value-in-game-release-delays/"><u>The Hidden Value in Game Release Delays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-is-my-screen-not-recognizing-the-input-signal-timing/"><u>Troubleshooting Guide: Why Is My Screen Not Recognizing the Input Signal Timing?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-functionality-a-detailed-review-of-googles-battery-powered-wireless-nest-doorbell/"><u>Unveiling The Functionality: A Detailed Review Of Google's Battery-Powered Wireless Nest Doorbell</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-the-latest-windows-11-version-1607-update-wont-install-successfully/"><u>What to Do When the Latest Windows 11 Version 1607 Update Won't Install Successfully?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-overwatch-video-captures-done-right-made-simple/"><u>[New] Overwatch Video Captures – Done Right, Made Simple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-secrets-to-capturing-your-iphone-7-screen/"><u>[New] Secrets to Capturing Your iPhone 7 Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-tech-savvy-tips-for-lenovo-display-capture/"><u>[Updated] 2024 Approved Tech-Savvy Tips for Lenovo Display Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-chatgpt-under-your-command-with-voice-controlled-solutions/"><u>Bringing ChatGPT Under Your Command with Voice-Controlled Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-user-profile-service-failures-for-smooth-windows-1011-logins/"><u>Expert Guide: Overcoming User Profile Service Failures for Smooth Windows 10/11 Logins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-dell-usb-issues-a-comprehensive-step-by-step-solution/"><u>Fixing Dell USB Issues - A Comprehensive Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-error-code-0x80070541-step-by-step-guide/"><u>Fixing the Windows 10 Update Error Code 0X80070541: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-inadequate-system-resources-for-service-delivery-successfully/"><u>How to Overcome Inadequate System Resources for Service Delivery Successfully</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-music-that-moves-you-the-ultimate-playlist-for-workouts/"><u>In 2024, Music That Moves You The Ultimate Playlist for Workouts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speed-up-your-pc-solve-sluggish-startup-problems-on-windows-7/"><u>Speed Up Your PC: Solve Sluggish Startup Problems on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-the-secure-connection-failed-problem-in-firefox-easily/"><u>Troubleshoot and Fix the 'Secure Connection Failed' Problem in Firefox Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/uncovering-quantum-hdrs-core-principles-for-2024/"><u>Uncovering Quantum HDR's Core Principles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-scroll-wheels-solving-common-issues-with-logitech-mice/"><u>Unstuck Scroll Wheels: Solving Common Issues with Logitech Mice</u></a></li>
 </ul></div>
 

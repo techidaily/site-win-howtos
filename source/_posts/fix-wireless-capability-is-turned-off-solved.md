@@ -1,7 +1,7 @@
 ---
 title: Fix Wireless Capability Is Turned Off [Solved]
-date: 2024-10-07T20:53:38.747Z
-updated: 2024-10-09T17:42:13.227Z
+date: 2024-10-09T03:53:39.460Z
+updated: 2024-10-15T20:01:26.785Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Solution 3: Disable the screen saver
@@ -84,18 +91,26 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -106,15 +121,15 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -130,6 +145,14 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -137,29 +160,16 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 3. In the right pane, double-click on**Attributes** to modify it.  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
 
@@ -170,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -184,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -215,24 +211,18 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[New] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-video-sizing-anomalies-what-causes-imovie-to-crop/"><u>[New] Video Sizing Anomalies What Causes iMovie to Crop?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-identifying-video-centric-dialogues-for-2024/"><u>[Updated] Identifying Video-Centric Dialogues for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/10-reasons-to-quit-facebook-for-good/"><u>10 Reasons to Quit Facebook for Good</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>2024 Approved Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>2024 Approved The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
-<li><a href="https://windows11.techidaily.com/assuring-proper-operation-of-windows-monitor-app/"><u>Assuring Proper Operation of Windows Monitor App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-trouble-with-windows-network-issue-fix-error-code-0x800704cf-now/"><u>Bypassing Trouble with Windows Network Issue - Fix Error Code 0X800704CF Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciding-between-apples-latest-procsesors-the-m3-and-m2-macbook-air-face-off-techexplorers/"><u>Deciding Between Apple's Latest Procsesors: The M3 and M2 MacBook Air Face-Off | TechExplorers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficiently-lowering-cpu-load-on-win10-pcs/"><u>Efficiently Lowering CPU Load on Win10 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-trouble-to-triumph-diagnosing-and-solving-your-pcs-random-shutdown-dilemma/"><u>From Trouble to Triumph: Diagnosing & Solving Your PC's Random Shutdown Dilemma.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-geforce-210-drivers-for-windows-11/"><u>Install the Newest Nvidia GeForce 지오라인드210 드라이버스(Drivers) for Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-portable-nikon-speedlight-a-deep-dive/"><u>Premium, Portable Nikon Speedlight: A Deep Dive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-performing-a-fresh-installation-of-windows-11/"><u>Quick & Simple Guide: Performing a Fresh Installation of Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-broken-links-between-your-epson-scanner-and-printing-device/"><u>Repair Broken Links Between Your Epson Scanner and Printing Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-troubleshooter-for-missing-desktop-icons-on-windows-10-systems/"><u>The Ultimate Troubleshooter for Missing Desktop Icons on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolution-for-xbox-pen-not-responding-complete-instructions-inside/"><u>Troubleshooting and Resolution for XBox Pen Not Responding – Complete Instructions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-computer-runs-into-hang-issues-with-windows-11/"><u>What To Do When Your Computer Runs Into Hang Issues with Windows 11?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-guide-activating-and-launching-your-hosted-network/"><u>Windows 10 Guide: Activating and Launching Your Hosted Network</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategically-showcasing-achievements/"><u>[New] Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-eliminating-watermarks-from-your-stock-collections/"><u>[Updated] Eliminating Watermarks From Your Stock Collections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-stylish-profiles-easy-downloads/"><u>[Updated] In 2024, Stylish Profiles, Easy Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029121683-youtube/"><u>「移動中にスマホでYouTubeミュージックを楽しむ方法」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026414989-dvd/"><u>「ジャニーズDVDの動画が見られなくて、困ったことありますか?」 - トラブルシューティングガイド</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>2024 Approved How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/4-effective-methods-for-capturing-screenshots-on-crunchyroll-updated-guide-2024/"><u>4 Effective Methods for Capturing Screenshots on Crunchyroll (Updated Guide - 2024)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028573468-m4pwav/"><u>簡単にM4PをWAVに変更する方法｜オーディオファイル変換の究極ガイド</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mycams-evolution-a-new-era-of-home-video-capture/"><u>In 2024, MyCam's Evolution A New Era of Home Video Capture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Insights: Uncovering the Latest in Computer Components</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transferring-media-pc-files-to-your-ios-device-for-2024/"><u>Transferring Media PC Files To Your iOS Device for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027655280-weverse/"><u>Weverseプラットフォームから動画を安全にダウンロード・保存する方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027506728-audacity/"><u>どうやったらAudacityでオーディオファイルに無音セクションを追加するか?</u></a></li>
 </ul></div>
 

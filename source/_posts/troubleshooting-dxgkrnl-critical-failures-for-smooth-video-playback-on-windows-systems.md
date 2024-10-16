@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dxgkrnl Critical Failures for Smooth Video Playback on Windows Systems
-date: 2024-10-08T19:44:31.589Z
-updated: 2024-10-09T16:55:20.910Z
+date: 2024-10-09T18:04:06.938Z
+updated: 2024-10-16T02:26:04.722Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 **[Bonus tip: How to repair corrupted or damaged video files?](#bonus)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your browser
 
  An outdated browser can cause many issues, like error code 224003\. So before you take any drastic steps, make sure that your browser is up to date.
@@ -53,6 +60,14 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 1. Open Chrome. At the top right, click**More > Help > About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-google-chrome.jpg)
 2. Chrome will automatically check for updates. If an update is available, click**Relaunch** to update Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-relaunch.jpg)
 
 **To update Microsoft Edge:**
@@ -79,18 +94,26 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/apple-system-preferences.jpg)
 2. Click**Software Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/software-update.jpg)
 3. Wait for your Mac to check for updates. If there’s an available update, click**Upgrade Now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/mac-check-for-update.jpg)
 
  If your browser is up to date and the video is still unplayable, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Clear cache and cookies
 
@@ -131,6 +154,14 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 1. At the top right, click**More > More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-extensions.jpg)
 2. Disable all extensions by clicking the switch icon next to them.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-disable-extensions.jpg)
 
 **Edge:**
@@ -139,6 +170,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-manage-extensions.jpg)
 2. Click the toggle next to the extensions to disable them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-turn-off-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Firefox:**
 
@@ -152,23 +190,9 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-preferences.jpg)
 2. Click**Extensions** , then deselect the checkbox next to all extensions.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-disable-extensions.jpg)
 
  After disabling all extensions, reopen your browser and play the video to check if the error code 224003 is fixed. If the problem has gone, try enabling extensions one by one to find the culprit.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off hardware acceleration
 
@@ -195,18 +219,18 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 2. In the General panel, under**Performance** , uncheck**Use recommended performance settings** , then uncheck**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Safari:**
 
 Users are not allowed to turn hardware acceleration on and off in Safari.
 
  After turning off hardware acceleration, relaunch your browser and check if the video plays back normally. If not, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset your browser settings
 
@@ -219,27 +243,14 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 2. Click **Reset and clean up > Restore settings to their original defaults** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-clean-up.jpg)
 3. Click**Reset settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-settings-1.jpg)
 
@@ -260,13 +271,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox-2.jpg)
 4. Click**Finish** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-finish.jpg)
 
 **Safari:**
@@ -286,13 +290,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 2. Click the**Repair** button to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-repair.jpg)
 3. Once the process is completed, you can preview the repaired videos and save them to the desired location.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-video-repair-select-save-repaired-files.jpg)
 
@@ -317,24 +314,17 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>[Updated] 2024 Approved Step by Step iPhone Guide Creating & Editing Languid Video Sequences</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastering-tiktok-upload-on-chrome-os-android-devices-and-iphones/"><u>2024 Approved Mastering TikTok Upload on Chrome OS, Android Devices, and iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beyond-the-basics-advanced-video-splitting/"><u>Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/canon-eos-260ci-successfully-solving-the-wia-driver-usb-malfunction/"><u>Canon EOS 260Ci: Successfully Solving the WIA Driver USB Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-geforce-experience-fails-to-load-settings-correctly/"><u>Effective Solutions for When GeForce Experience Fails to Load Settings Correctly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-hacks-for-the-elusive-iphone-x-users-for-2024/"><u>Essential Hacks for the Elusive iPhone X Users for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-persistent-144-livekernelevent-glitch/"><u>Expert Tips for Correcting the Persistent 144 LiveKernelEvent Glitch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/frame-by-frame-focus-high-quality-video-devices/"><u>Frame by Frame Focus High-Quality Video Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/handling-temporary-failures-in-reaching-windows-smartscreen-for-safety-checks/"><u>Handling Temporary Failures in Reaching Windows SmartScreen for Safety Checks</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-solutions-to-common-problems-with-the-kodi-media-player/"><u>In-Depth Solutions to Common Problems with the Kodi Media Player</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/inside-look-the-future-of-home-cam-recordings-for-2024/"><u>Inside Look The Future of Home Cam Recordings for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movmp4windows105/"><u>MOVからMP4への無償変換手法：Windows10で5選、画質低下不用!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimisez-la-qualite-de-vos-medias-avec-handbrake-parametres-de-constance-pour-les-dvds-et-blu-ray/"><u>Optimisez La Qualité De Vos Médias Avec Handbrake - Paramètres De Constance Pour Les DVDs Et Blu-Ray</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-unspecified-error-error-code-0x80004005-expert-solutions-revealed/"><u>Overcoming 'Unspecified Error' (Error Code 0X80004005): Expert Solutions Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-driverpowerstatefailure-a-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-windows-11-update-installation-hurdles-a-comprehensive-guide/"><u>Successfully Overcoming Windows 11 Update Installation Hurdles – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-steam-server-not-reachable-issue/"><u>Troubleshooting Guide: How To Fix 'Steam Server Not Reachable' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-uac-requirements-handling-elevated-permissions-on-windows-versions/"><u>Understanding UAC Requirements: Handling Elevated Permissions on Windows Versions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-bebop-parrot-the-ultimate-feathered-performance-review/"><u>[New] In 2024, Bebop Parrot The Ultimate Feathered Performance Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-mastery-spotting-unique-audience-groups/"><u>[New] Youtube Mastery Spotting Unique Audience Groups</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-the-best-cloud-service-allies-of-2024/"><u>[Updated] Identifying the Best Cloud Service Allies of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-tailored-preferences-when-they-freeze-up/"><u>Fix Your Tailored Preferences When They Freeze Up</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-xr-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone XR The Right Way</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-network-error-code-0x800704cf-ultimate-solution/"><u>How to Fix Windows Network Error Code 0X800704CF – Ultimate Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crashes-in-total-war-rome-remastered-for-smooth-gaming-experience/"><u>How to Resolve Crashes in Total War: Rome Remastered for Smooth Gaming Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/obs-mastery-streaming-success-on-fb-for-2024/"><u>OBS Mastery Streaming Success on FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-on-your-windows-10-pc-complete-guide/"><u>Solving the MsMpEng.exe High CPU Usage on Your Windows 10 PC - Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-performance-fix-enforce-system-reset/"><u>Valorant Performance Fix: Enforce System Reset</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vida-edits-with-ease-a-user-centric-perspective-review/"><u>Vida Edits with Ease A User-Centric Perspective Review</u></a></li>
 </ul></div>
 

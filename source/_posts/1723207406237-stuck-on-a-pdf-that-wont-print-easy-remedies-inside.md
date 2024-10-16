@@ -1,7 +1,7 @@
 ---
 title: Stuck On A PDF That Won't Print? Easy Remedies Inside!
-date: 2024-10-02T20:45:25.152Z
-updated: 2024-10-09T22:40:17.144Z
+date: 2024-10-09T17:39:11.980Z
+updated: 2024-10-15T17:43:17.805Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 4. **[Troubleshoot problems with your Acrobat Reader](#reader)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot problems with your printer
 
@@ -101,10 +101,23 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Recreate a new PDF file
@@ -118,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -152,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -169,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -221,13 +227,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -236,13 +235,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
@@ -268,24 +275,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-guide-to-adding-srt-track-to-mp4-media/"><u>[New] Comprehensive Guide to Adding SRT Track to MP4 Media</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/earning-leaders-most-influential-edu-tutorials-yt/"><u>[New] Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>[New] Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-kid-friendly-drone-recommendations/"><u>10 Kid-Friendly Drone Recommendations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-rx-6700-xt-graphics-card-drivers-download-and-install-guide-for-windows-11-10-and-7/"><u>AMD Radeon RX 6700 XT Graphics Card Drivers: Download & Install Guide for Windows 11, 10, and 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beating-the-blues-with-hulu-a-user-friendly-guide-to-overcoming-rununk13-error/"><u>Beating the Blues with Hulu: A User-Friendly Guide to Overcoming RUNUNK13 Error</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-images-to-go-viral-the-ultimate-step-by-step-guide-for-youtube-success/"><u>Crafting Images to Go Viral The Ultimate Step-by-Step Guide for YouTube Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-and-guide-pubg-building-loading-problems-solved/"><u>Fix & Guide: PUBG Building Loading Problems Solved</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y27-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y27 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone XS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-google-chromes-not-responding-glitches-expert-fix-guide/"><u>Overcoming Google Chrome's 'Not Responding' Glitches – Expert Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-cannot-reset-pc-issue-in-windows-11-a-complete-guide/"><u>Resolving the 'Cannot Reset PC' Issue in Windows 11 – A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-game-playability-resolving-windows-driver-issues-for-a-smooth-minecraft-experience/"><u>Solving Game Playability: Resolving Windows Driver Issues for a Smooth Minecraft Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-restoring-broken-dell-usb-port-functionality/"><u>Step-by-Step Tutorial for Restoring Broken Dell USB Port Functionality</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-a-wearable-fitness-device/"><u>Top 5 Essential Factors to Evaluate When Purchasing a Wearable Fitness Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-unwanted-screen-shaking-in-windows-11-expert-tips-and-tricks/"><u>Troubleshoot and Solve Unwanted Screen Shaking in Windows 11 – Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-windows-11-brightness-control-issues/"><u>Troubleshooting Guide: Fixing Windows 11 Brightness Control Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-the-right-click-function-on-a-mouse-in-windows-11/"><u>Troubleshooting: Fixing the Right-Click Function on a Mouse in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-sleepy-secret-pc-does-not-awake/"><u>Windows' Sleepy Secret - PC Does Not Awake</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-delving-into-the-nuances-of-touch-based-navigation/"><u>[Updated] 2024 Approved Delving Into the Nuances of Touch-Based Navigation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boost-engagement-with-tailored-templates-for-video-info/"><u>[Updated] Boost Engagement with Tailored Templates for Video Info</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-masterfulaiimageeditor-the-best-of-both-worlds-for-2024/"><u>[Updated] MasterfulAiImageEditor The Best of Both Worlds for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-fix-d3dx943dll-missing-on-windows/"><u>Easy to Fix d3dx9_43.dll Missing on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-directx-component-creation-obstacles-successfully/"><u>How to Overcome DirectX Component Creation Obstacles Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-a-failed-group-policy-client-authentication-process/"><u>How to Successfully Overcome a Failed Group Policy Client Authentication Process</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>In 2024, Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-audio-on-ios-the-essentials-of-podcasting/"><u>In 2024, Optimal Audio on iOS The Essentials of Podcasting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a78-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A78</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-a-non-functional-microphone-on-your-computer/"><u>Solved: Fixing a Non-Functional Microphone on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-airpods-wont-pair-with-windows-11-step-by-step-guide/"><u>Solving the Issue: Why Your AirPods Won't Pair with Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208212180-stuck-on-a-pdf-that-wont-print-discover-swift-solutions-now/"><u>Stuck on a PDF That Won't Print? Discover Swift Solutions Now!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/techniques-gratuites-pour-retrouver-les-prises-de-vue-perdues-a-partir-dun-drone-dji/"><u>Techniques Gratuites Pour Retrouver Les Prises De Vue Perdues À Partir D'un Drone DJI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-the-non-functioning-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Steps: How to Fix the Non-Functioning AOC Monitor Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-audio-enhancer-features-for-improved-performance/"><u>Troubleshooting Windows' Audio Enhancer Features for Improved Performance</u></a></li>
 </ul></div>
 

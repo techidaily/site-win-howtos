@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Attempts to Access NVIDIA GeForce Preferences
-date: 2024-10-06T20:50:18.443Z
-updated: 2024-10-09T18:14:13.549Z
+date: 2024-10-09T03:23:18.535Z
+updated: 2024-10-16T01:03:41.630Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your battery in Device Manager
@@ -72,13 +72,20 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the power troubleshooter
 
@@ -96,38 +103,24 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
 
@@ -136,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 **1)** On your keyboard, press the**Windows logo** key. Then, type**troubleshoot** and select**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
@@ -157,25 +157,11 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -187,6 +173,19 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
@@ -194,6 +193,13 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -225,24 +231,18 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-google-meet-aesthetics-elevating-with-filters-and-effects-for-2024/"><u>[Updated] Google Meet Aesthetics Elevating with Filters and Effects for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridge-the-gap-usbasp-compatibility-across-versions/"><u>Bridge the Gap: USBasp Compatibility Across Versions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-connections-unleashed-exploring-facebook-twitter-instagram-and-youtubes-potential/"><u>Digital Connections Unleashed: Exploring Facebook, Twitter, Instagram & YouTube's Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discount-alert-get-the-new-airpods-pro-with-hearing-aid-features-at-a-shocking-24-off-exclusive-offer/"><u>Discount Alert: Get the New AirPods Pro with Hearing Aid Features at a Shocking 24% Off | Exclusive Offer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-address-a-broken-or-stuck-backspace-key/"><u>Effective Ways to Address a Broken or Stuck Backspace Key</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-ways-to-refresh-the-driver-software-of-your-dell-camera-unit/"><u>Effortless Ways to Refresh the Driver Software of Your Dell Camera Unit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-setup-tip-the-importance-of-having-an-up-to-date-d3d11-graphics-processor-to-run-your-game-engine-smoothly/"><u>Essential Setup Tip: The Importance of Having an Up-to-Date D3D11 Graphics Processor to Run Your Game Engine Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/high-resource-consumption-of-ntoskrnlexe-solved/"><u>High Resource Consumption of ntoskrnl.exe: Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-overwatch-failed-to-connect-to-server-error/"><u>How to Fix Overwatch Failed to Connect to Server Error</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-huawei-nova-y91-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Huawei Nova Y91 online without jailbreak</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-stuck-on-loading-screen-bypass-the-glitches-with-this-updated-fixing-guide-releases/"><u>PUBG Stuck on Loading Screen? Bypass the Glitches with This Updated Fixing Guide Releases</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-failed-warframe-update-error-complete-guide/"><u>Resolving the 'Failed Warframe Update' Error - Complete Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/skyrocketing-fame-here-are-the-top-30-creative-tiktok-usernames/"><u>Skyrocketing Fame? Here Are the Top 30 Creative TikTok Usernames</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-apex-legends-simple-fixes-for-the-anti-cheat-issue/"><u>Solving Apex Legends: Simple Fixes for the Anti-Cheat Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-address-and-fix-the-windows-update-issue-error-0x80070652/"><u>Step-by-Step Strategies to Address and Fix the Windows Update Issue (Error 0X80070652)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-dimensions-of-a-rectangular-tank-are-needed-to-calculate-its-volume-volume-length-x-width-x-depth/"><u>The Dimensions of a Rectangular Tank Are Needed to Calculate Its Volume: Volume = Length X Width X Depth.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultraportable-powerhouse-in-depth-analysis-of-the-predator-300-se/"><u>Ultraportable Powerhouse: In-Depth Analysis of the Predator 300 SE</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-igniting-curiosity-and-participation-in-fb-giveaway-initiatives/"><u>[New] 2024 Approved Igniting Curiosity and Participation in FB Giveaway Initiatives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-learn-ipads-screen-sharing-basics/"><u>[Updated] Learn iPad's Screen Sharing Basics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cover-video-key-strategies-and-tactics-explained/"><u>2024 Approved Facebook Cover Video Key Strategies and Tactics Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/capturing-views-connecting-users-social-media-for-360-degree-photos-for-2024/"><u>Capturing Views, Connecting Users Social Media for 360-Degree Photos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-minecraft-lan-connectivity-woes-for-smooth-gameplay/"><u>Diagnose & Repair Minecraft LAN Connectivity Woes for Smooth Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-connectivity-issue-successfully-resolved/"><u>Dragon Ball FighterZ Connectivity Issue - Successfully Resolved</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-boundaries-of-wellness-tracking-with-amazons-newest-offering-halo/"><u>Exploring the Boundaries of Wellness Tracking with Amazon's Newest Offering, Halo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-approval-from-trustedinstaller-for-file-alterations/"><u>Securing Approval From TrustedInstaller for File Alterations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-turning-on-bluetooth-functionality-in-windows-7/"><u>Step-by-Step Tutorial for Turning On Bluetooth Functionality in Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-making-your-dall-e-3-webp-pictures-into-usable-jpgpng-files/"><u>Step-by-Step Tutorial: Making Your DALL-E 3 WebP Pictures Into Usable JPG/PNG Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-strategies-to-reduce-gpu-strain-by-tackling-the-windows-1110-desktop-window-manager-issue/"><u>Top 5 Strategies to Reduce GPU Strain by Tackling the Windows 11/10 Desktop Window Manager Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-device-doesnt-charge-while-plugged-into-a-windows-7-or-10-computer/"><u>TroubleShooting Steps When Your Device Doesn't Charge While Plugged Into a Windows 7 or 10 Computer</u></a></li>
 </ul></div>
 

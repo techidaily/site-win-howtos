@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Non-Operational Night Light in Windows 10/11 PCs
-date: 2024-09-11T22:17:06.700Z
-updated: 2024-09-17T22:39:59.574Z
+date: 2024-10-10T17:34:14.376Z
+updated: 2024-10-15T21:25:23.454Z
 tags:
   - win11
   - win10
@@ -67,6 +67,19 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
@@ -74,6 +87,13 @@ If that didn’t help, try the next fix below.
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -89,9 +109,29 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -118,6 +158,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
@@ -132,38 +179,24 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
 
@@ -177,11 +210,31 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
@@ -204,5 +257,24 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-psd-saturation-tweaks/"><u>[New] 2024 Approved Master PSD Saturation Tweaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-leading-free-software-for-quality-desktop-recording/"><u>[New] The Leading Free Software for Quality Desktop Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-charting-the-course-for-your-youtube-music-narrative/"><u>[Updated] 2024 Approved Charting the Course for Your YouTube Music Narrative</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-use-discord-text-to-speech/"><u>[Updated] 2024 Approved How to Use Discord Text-To-Speech?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-digital-depositories-customized-alert-sounds/"><u>[Updated] 2024 Approved Top Digital Depositories Customized Alert Sounds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-change-default-image-savings-in-os-x/"><u>2024 Approved Change Default Image Savings in OS X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-premier-artist-blending-images-and-harmony/"><u>2024 Approved Premier Artist Blending Images & Harmony</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-svchostexes-extreme-cpu-drain-on-windows-11-effective-fixes-and-tips-unveiled/"><u>Combat svchost.exe's Extreme CPU Drain on Windows 11: Effective Fixes and Tips Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-troubleshooting-windows-blue-screen-error-0xc00x00000e9-a-step-by-step-guide/"><u>Decoding and Troubleshooting Windows Blue Screen Error 0xC00^X00000E9: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/feature-update-to-windows-11-version-1607-failed-to-install/"><u>Feature Update to Windows 11 Version 1607 Failed to Install</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/green-screen-on-a-budget-top-10-free-apps-for-android-and-ios-2023-edition/"><u>Green Screen on a Budget Top 10 Free Apps for Android & iOS 2023 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-integrated-webcam-in-the-windows-environment/"><u>How to Repair an Unresponsive Integrated Webcam in the Windows Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11-stalling-at-startup-quick-fix-tips-and-tricks/"><u>Overcome Windows 11 Stalling at Startup: Quick Fix Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-reset-issues-on-your-windows-11-machine-expert-solutions/"><u>Troubleshooting and Fixing Reset Issues on Your Windows 11 Machine: Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-diagnose-and-repair-driverpowerstatefailure-glitches/"><u>Ultimate Guide to Diagnose and Repair DRIVER_POWER_STATE_FAILURE Glitches</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-perfecting-the-choreography-between-images-and-acoustics-for-2024/"><u>Updated Perfecting the Choreography Between Images and Acoustics for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-logitech-keyboard-working-on-windows-11-troubleshooting-tips/"><u>Why Isn't My Logitech Keyboard Working on Windows 11? Troubleshooting Tips</u></a></li>
+</ul></div>
 

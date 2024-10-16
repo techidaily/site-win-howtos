@@ -1,7 +1,7 @@
 ---
 title: DIY Guide to Reviving Your Unresponsive Dell USB Connection
-date: 2024-10-02T19:14:17.092Z
-updated: 2024-10-09T22:41:52.749Z
+date: 2024-10-13T18:18:22.676Z
+updated: 2024-10-16T02:32:00.990Z
 tags:
   - win11
   - win10
@@ -44,15 +44,22 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
@@ -65,27 +72,20 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
 
@@ -100,10 +100,16 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
@@ -129,20 +135,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-inside-the-worlds-most-successful-business-youtube-sites/"><u>[Updated] In 2024, Inside the World's Most Successful Business YouTube Sites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-power-of-stories-in-youtube-expansion/"><u>2024 Approved The Power of Stories in YouTube Expansion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/diy-text-memes-unleash-your-humor-with-a-generator/"><u>DIY Text Memes Unleash Your Humor with a Generator</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-the-error-code-0x80070426-a-comprehensive-repair-tutorial-for-windows-11-users/"><u>Eliminate the Error Code 0X80070426: A Comprehensive Repair Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-update-issues-effortlessly-tackling-error-0x80070652/"><u>Fixing Microsoft Update Issues Effortlessly: Tackling Error 0X80070652</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-settings-menu-when-it-fails-to-respond/"><u>Guide to Restoring Settings Menu When It Fails to Respond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x80071ac3-when-your-storage-device-is-marked-as-corrupt/"><u>How to Fix Error Code 0X80071AC3 - When Your Storage Device Is Marked as Corrupt</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-expedite-your-videos-on-tiktok-secrets-revealed/"><u>In 2024, Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-high-quality-capture-the-best-applications-reviewed/"><u>In 2024, High-Quality Capture The Best Applications Reviewed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/remove-unsolicited-podcast-episodes-on-spotify-app/"><u>Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-texts-across-different-phones-easy-methods-revealed/"><u>Retrieve Deleted Texts Across Different Phones - Easy Methods Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-making-your-minecraft-lan-multiplayer-work-perfectly/"><u>Step-by-Step Solution: Making Your Minecraft LAN Multiplayer Work Perfectly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video-in-2024/"><u>The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-installed-issue-on-windows-10-and-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device Installed' Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-stepwise-approach-to-add-youtube-videos-into-slate/"><u>[New] 2024 Approved A Stepwise Approach to Add YouTube Videos Into Slate</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] 2024 Approved Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-save-the-screen-facebook-live-downloads/"><u>2024 Approved Save the Screen Facebook Live Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-4k-movies-and-tv-shows-on-windows-11-the-ultimate-list-of-the-top-10-apps/"><u>Best Free 4K Movies & TV Shows on Windows 11: The Ultimate List of the Top 10 Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-fongo-assessment-top-tier-voip-offering-in-canada/"><u>Comprehensive Fongo Assessment: Top-Tier VoIP Offering in Canada</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-resolving-power-state-driver-failures-in-windows/"><u>DIY Fixes for Resolving Power State Driver Failures in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-windows-11-rebooting-and-rejuvenation-techniques-explained/"><u>Effortless Windows 11 Rebooting and Rejuvenation Techniques Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enduring-seamlessness-direct-profile-url-insertion-guide-for-2024/"><u>Enduring Seamlessness Direct Profile URL Insertion Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-dell-webcam-issues-troubleshooting-steps-for-windows-users/"><u>Fixing Dell Webcam Issues: Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-self-powering-conundrum-of-a-windows-11-system-a-step-by-step-solution/"><u>Fixing the Self-Powering Conundrum of a Windows 11 System - A Step by Step Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-devices-running-smoothly-with-a-quick-windows-driver-download/"><u>Get Your Logitech Devices Running Smoothly with a Quick Windows Driver Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-find-x7-ultra-by-drfone-android/"><u>How to Bypass FRP on Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-pioneering-sustainability-transforming-metropolitan-environments/"><u>In 2024, Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-enabling-bluetooth-on-windows-7-systems/"><u>Master the Art of Enabling Bluetooth on Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-pcs-speed-reducing-svchostexe-cpu-overload-in-windows-10/"><u>Optimize Your PC's Speed: Reducing svchost.exe CPU Overload in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211293145-quick-fixes-for-missing-bluetooth-in-windows-10-a-step-by-step-guide/"><u>Quick Fixes for Missing Bluetooth in Windows 10 – A Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-binkw32dll-file-absent-issue-easy-fix-guide/"><u>Solutions for Binkw32.DLL File Absent Issue – Easy Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-component-overuse-of-processor-resources-in-windows-os/"><u>Troubleshooting Audio Component Overuse of Processor Resources in Windows OS</u></a></li>
 </ul></div>
 

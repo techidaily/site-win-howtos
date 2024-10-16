@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques to Restore Typing Functionality on Keyboards
-date: 2024-10-03T23:09:16.790Z
-updated: 2024-10-09T20:06:17.782Z
+date: 2024-10-11T16:33:12.455Z
+updated: 2024-10-16T04:00:39.329Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,6 +54,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -54,16 +68,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -109,10 +117,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -120,13 +128,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -136,13 +137,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -161,10 +155,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -205,21 +199,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-screen-grabbers/"><u>[Updated] 2024 Approved Ultimate Guide to Screen Grabbers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>[Updated] Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-narratives-distributed-among-8-movie-segments/"><u>2024 Approved Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-nvidia-hd-audio-via-windows-update/"><u>Boosting NVIDIA HD Audio via Windows Update</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone XS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-remedying-the-culprit-behind-cpu-spikes-svchostexe-on-windows-10/"><u>Diagnosing and Remedying the Culprit Behind CPU Spikes: svchost.exe on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-11-users-struggling-with-broken-hp-laptop-cameras-your-ultimate-resource/"><u>Effective Fixes for Windows 11 Users Struggling with Broken HP Laptop Cameras: Your Ultimate Resource</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-your-computer-says-it-has-too-few-resources/"><u>Essential Fixes for When Your Computer Says It Has Too Few Resources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-how-to-get-the-free-makemkv-software-for-securely-extracting-drm-from-blu-raydvd-on-your-mac-computer/"><u>Guide: How to Get the Free MakeMKV Software for Securely Extracting DRM From Blu-Ray/DVD on Your Mac Computer</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-deception-navigating-false-subscriber-sells/"><u>In 2024, Deception Navigating False Subscriber Sells</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-x-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone X Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-zero-5g-2023-turbo-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Zero 5G 2023 Turbo Phone Now with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-free-again-successfully-restoring-your-igfxem-module-performance/"><u>Trouble-Free Again: Successfully Restoring Your IgfxEM Module Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repair-for-malfunctioning-intel-graphics-memory-modules/"><u>Troubleshooting Guide: Repair for Malfunctioning Intel Graphics Memory Modules</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-crc-fixing-the-common-data-verification-error/"><u>Understanding CRC - Fixing the Common Data Verification Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unsupported-screen-input-issue-resolved-monitor-fix-guide/"><u>Unsupported Screen Input Issue Resolved: Monitor Fix Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-software-practices-for-transforming-pictures-into-films/"><u>[New] Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-initiate-google-meet-using-your-gadget/"><u>[New] Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207468610-arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-top-9-substitutes-for-format-factory-on-windows-platforms/"><u>Best Top 9 Substitutes for Format Factory on Windows Platforms</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/critical-insights-preparing-for-the-right-console-investment-decision/"><u>Critical Insights: Preparing for the Right Console Investment Decision</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211855603-easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-screenshots-on-asus-zenphone-devices-zenfone-2-4-5-and/"><u>Mastering the Art of Screenshots on ASUS ZenPhone Devices (Zenfone 2, 4, 5 & 지)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-how-to-tackle-high-cpu-utilization-by-svchostexe-in-windows-11/"><u>Optimizing System Performance: How to Tackle High CPU Utilization by svchost.exe in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-problem-5-quick-steps-to-enable-print-on-canon-and-windows-11-combo/"><u>Resolve Printer Problem: 5 Quick Steps to Enable Print on Canon & Windows 11 Combo</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sharpen-your-footage-with-videoleaps-zoom/"><u>Sharpen Your Footage with Videoleap's ZOOM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-razer-blackwidow-drivers-a-step-by-step-guide/"><u>Updating Your Razer BlackWidow Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210417752-usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them!</u></a></li>
 </ul></div>
 

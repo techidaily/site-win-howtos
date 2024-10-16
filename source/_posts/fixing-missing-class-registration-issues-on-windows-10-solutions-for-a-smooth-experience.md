@@ -1,7 +1,7 @@
 ---
 title: Fixing Missing Class Registration Issues on Windows 10 - Solutions for a Smooth Experience
-date: 2024-10-08T16:05:57.891Z
-updated: 2024-10-09T18:02:51.402Z
+date: 2024-10-14T06:25:13.215Z
+updated: 2024-10-15T18:49:14.572Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -68,21 +61,14 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -104,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -115,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -138,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -155,6 +135,13 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -163,14 +150,21 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,20 +187,20 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-resolve-deceptive-user-appearance-within-chat-environments/"><u>[New] 2024 Approved Resolve Deceptive User Appearance Within Chat Environments</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-crafting-your-sound-story-utilizing-auditions-fade-in-for-2024/"><u>[New] Crafting Your Sound Story Utilizing Audition's Fade In for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-exploring-vlc-options-and-rivals/"><u>[New] In 2024, Exploring VLC Options and Rivals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewers-to-earnings-youtube-earning-basics/"><u>[Updated] 2024 Approved From Viewers to Earnings YouTube Earning Basics</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-full-review-and-how-to-for-facetunes-new-features/"><u>2024 Approved The Full Review and How-To for Facetune's New Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cant-send-your-document-to-print-top-tier-tips-for-quick-solutions/"><u>Can't Send Your Document to Print? Top-Tier Tips for Quick Solutions.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-microsofts-print-to-pdf-feature-malfunction-on-windows-10-and-11/"><u>Fixing Issues: Microsoft's Print to PDF Feature Malfunction on Windows 10 & 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-correctly-install-your-coprocessor-driver-on-microsofts-latest-os-windows-10-a-troubleshooter-tutorial/"><u>How To Correctly Install Your Coprocessor Driver on Microsoft’s Latest OS, Windows 10: A Troubleshooter Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 Pro Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-windows-10-pc-dealing-with-msmpengexes-heavy-cpu-drain-solutions-inside/"><u>Optimizing Your Windows 10 PC: Dealing with MsMpEng.exe's Heavy CPU Drain – Solutions Inside</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-companion-for-online-radio-preservationists-for-2024/"><u>The Ultimate Companion for Online Radio Preservationists for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboards-unresponsive-backspace-button/"><u>Troubleshooting Guide: Fixing the Keyboard's Unresponsive Backspace Button</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-you-cant-access-windows-smartscreen-protection/"><u>Troubleshooting Guide: When You Can't Access Windows SmartScreen Protection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-error-code-0x80070426-quick-fixes-and-tips/"><u>Windows 10 Error Code 0X80070426: Quick Fixes & Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-editors-guide-to-enhancing-longer-youtube-video-content-with-chapters/"><u>[New] The Editor's Guide to Enhancing Longer YouTube Video Content with Chapters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-secrets-to-more-likes-on-your-tiktok-unpacks/"><u>[Updated] In 2024, Secrets to More Likes on Your TikTok Unpacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>2024 Approved The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/assistenza-online-esperta-risoluzione-rapida-dei-problemi-con-winx-dvd-ripper-e-winxvideo-ai/"><u>Assistenza Online Esperta: Risoluzione Rapida Dei Problemi Con WinX DVD Ripper E Winxvideo AI</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-differences-between-apple-watch-series-9-and-fitbit-charge-6-which-wins/"><u>Exploring the Differences Between Apple Watch Series 9 and Fitbit Charge 6 – Which Wins?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-13-ultra-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi 13 Ultra Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-excel-tutorial-clearing-out-select-box-options-efficiently/"><u>Microsoft Excel Tutorial: Clearing Out Select Box Options Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opening-and-interpreting-csv-data-formats-essential-tips-for-users/"><u>Opening and Interpreting CSV Data Formats: Essential Tips for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-integration-setting-up-and-streamline-data-management/"><u>Seamless Integration, Setting up, and Streamline Data Management.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spreadsheet-showdown-deciding-between-google-sheets-and-microsoft-excel-for-your-needs/"><u>Spreadsheet Showdown: Deciding Between Google Sheets and Microsoft Excel for Your Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-determining-percentage-growth-with-microsoft-excel/"><u>Step-by-Step Guide: Determining Percentage Growth with Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-inserting-headers-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Inserting Headers Efficiently in Microsoft Excel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveil-cutting-edge-computer-systems-and-gear-at-toms-tech-digest/"><u>Unveil Cutting-Edge Computer Systems and Gear at Tom’s Tech Digest</u></a></li>
 </ul></div>
 

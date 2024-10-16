@@ -1,7 +1,7 @@
 ---
 title: "Constraint A: Do Not Redact Any Percentages or Numerical Values"
-date: 2024-10-08T23:00:22.560Z
-updated: 2024-10-09T21:45:28.044Z
+date: 2024-10-11T20:27:54.668Z
+updated: 2024-10-15T23:59:26.205Z
 tags:
   - win11
   - win10
@@ -59,24 +59,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -90,13 +76,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -107,6 +86,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -125,34 +112,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
@@ -166,6 +139,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure the PSU works well for your machine
 
  The LiveKernelEvent with code 144 error can sometimes relate to your insufficient power supply for all your hardware components, especially when the LiveKernelEvent 144 is seen after your computer shuts down unexpectedly or freezes whenever you’re running resource-hungry programs.
@@ -173,6 +153,13 @@ To do so, first visit the website of your GPU manufacturer:
  Here’s[**a post from Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fkbdoc%2Fen-us%2F000125185%2Fhow-to-troubleshoot-the-power-supply-unit-psu-of-a-dell-desktop-computer) with more information about the power supply if you’re interested in knowing more and seeing how you can test your PSU.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
 
@@ -184,6 +171,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -194,10 +188,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -209,6 +203,19 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -249,21 +256,20 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[New] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-balancing-dimensions-the-ultimate-guide-to-social-media-video-sizes-on-fb/"><u>[New] In 2024, Balancing Dimensions The Ultimate Guide to Social Media Video Sizes on FB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>[New] In 2024, Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-behind-the-scenes-crafting-confidential-snap-narratives/"><u>[Updated] 2024 Approved Behind the Scenes Crafting Confidential Snap Narratives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>[Updated] GoLivePod Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-twitchs-dreaded-error/"><u>Comprehensive Solutions to Overcome Twitch's Dreaded Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-not-responding-a-comprehensive-fix-and-support-guide/"><u>Corsair Keyboard Not Responding? A Comprehensive Fix and Support Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202570118-fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-undo-macos-sierras-os-x-transition/"><u>How to Undo MacOS Sierra's OS X Transition</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-netflix-connection-solutions-for-detected-vpns-and-proxies/"><u>Troubleshoot Your Netflix Connection: Solutions for Detected VPNs and Proxies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-aoc-monitor-compatibility-issues-with-windows-11/"><u>Troubleshooting Steps: Resolving 'AOC Monitor' Compatibility Issues with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unseen-sd-card-illuminate-the-issue/"><u>Unseen SD Card? Illuminate the Issue!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-troubleshooting-guide-correcting-the-entry-point-not-found-mistake/"><u>Windows Troubleshooting Guide: Correcting the 'Entry Point Not Found' Mistake</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] 2024 Approved Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-music-in-instagram-videos-and-stories/"><u>[Updated] 2024 Approved Perfecting Music in Instagram Videos & Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-decade-of-digital-disguise-expert-tips-on-snapchat-filters/"><u>[Updated] In 2024, A Decade of Digital Disguise Expert Tips on Snapchat Filters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030471670-2024/"><u>「2024年に流行るアマゾンミュージック用の無料音声編集ツールを探せ！」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-easy-guide-exploring-the-internet-via-kodi-top-2-methods/"><u>1. Easy Guide: Exploring the Internet via Kodi - Top 2 Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028457193-mp4-3/"><u>高画質MP4動画カットの秘訣を明かす - 3選択法のガイドブック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030521373-mp3/"><u>知らなければ誤解：簡単にMP3形式へ変換できるオーディオ録音の手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029259222-mp4mp3/"><u>専門家が教える! MP4から最適な音質を持つMP3にアップグレード方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027562526-audacity/"><u>Audacityの使用:音声ファイルを編集し切り詰める手順</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a05-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A05</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-essential-techniques-with-nvidia-recorder/"><u>In 2024, Essential Techniques with NVIDIA Recorder</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/new-vs-old-benchmarking-samsungs-latest-s23-vs-s21-ultra-unveiled/"><u>New vs Old: Benchmarking Samsung's Latest - S23 vs S21 Ultra Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtube-youtube-video-download-tutorial/"><u>YouTube動画のダウンロード手順を学ぶ - YouTube Video Download Tutorial</u></a></li>
 </ul></div>
 

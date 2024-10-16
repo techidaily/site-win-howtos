@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Correcting LiveKernel Event 144 Issue"
-date: 2024-09-16T17:30:27.864Z
-updated: 2024-09-18T01:24:54.040Z
+date: 2024-10-10T19:38:09.023Z
+updated: 2024-10-16T00:34:32.904Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click **Clear SSL state**  in **Content** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35da806bf6.png)
@@ -93,7 +100,21 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c360227258e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Make sure the Date and Time is correct on your Windows
 
@@ -102,19 +123,19 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
@@ -130,10 +151,10 @@ Restart your Chrome and go to the website to see if successfully.
 To check if a website is secure:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 1: See its URL
@@ -150,6 +171,19 @@ To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -165,5 +199,21 @@ To the left of the website address, check the security status:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-enrich-your-browsing-routine-picture-in-picture-techniques-for-edge/"><u>[Updated] Enrich Your Browsing Routine Picture-in-Picture Techniques for Edge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-your-fb-video-experience-with-1080p-quality/"><u>[Updated] In 2024, Enhancing Your FB Video Experience with 1080P Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-voice-logging-made-simple-with-ipad-apps-for-2024/"><u>[Updated] Voice Logging Made Simple with iPad Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-get-your-embedded-webcam-working-again-in-windows/"><u>Comprehensive Solutions to Get Your Embedded Webcam Working Again in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversion-techniques-for-dall-e-3-webp-to-jpegpng-formats/"><u>Effortless Conversion Techniques for DALL-E 3 WebP to JPEG/PNG Formats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-sudden-stop-of-your-hamachi-service-a-users-handbook/"><u>How To Repair The Sudden Stop of Your Hamachi Service - A User's Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-on-demand-content-examination-summary/"><u>In 2024, On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/key-apps-for-seamless-windows-android-integration/"><u>Key Apps for Seamless Windows-Android Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-ipad-pro-against-surface-pro-what-sets-them-apart/"><u>The Ultimate Showdown: IPad Pro Against Surface Pro, What Sets Them Apart?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-vanishing-touchpad-pointer-in-windows-11/"><u>Troubleshooting the Vanishing Touchpad Pointer in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-might-a-windows-11-computer-begin-to-boot-automatically/"><u>Why Might a Windows 11 Computer Begin to Boot Automatically?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11s-efficiency-upgrade-lowering-provider-host-cpu-load/"><u>Win11's Efficiency Upgrade: Lowering Provider Host CPU Load</u></a></li>
+</ul></div>
 

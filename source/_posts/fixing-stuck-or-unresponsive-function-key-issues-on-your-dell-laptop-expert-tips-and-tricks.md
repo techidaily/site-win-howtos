@@ -1,7 +1,7 @@
 ---
 title: "Fixing Stuck or Unresponsive Function Key Issues on Your Dell Laptop: Expert Tips & Tricks"
-date: 2024-10-08T19:01:45.588Z
-updated: 2024-10-09T19:02:23.408Z
+date: 2024-10-13T23:09:26.351Z
+updated: 2024-10-16T05:47:31.478Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/ba7c57a899f8cd5c799f88c7d2899c692ee461941
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,6 +78,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -78,10 +92,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -102,25 +116,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -131,28 +131,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -162,6 +149,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -205,18 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-screen-capture-with-1-5-of-the-best-pc-snipers/"><u>[New] In 2024, Mastering Screen Capture with #1-#5 of the Best Pc Snipers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>[New] Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-compact-cinematic-story-guide/"><u>[Updated] Compact Cinematic Story Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>[Updated] In 2024, Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-quadcopter-propeller-pick-achieve-optimal-efficiency/"><u>[Updated] Ultimate Quadcopter Propeller Pick Achieve Optimal Efficiency</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>2024 Approved Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-rdr2-crashes-due-to-high-memory-usage-tips-on-increasing-your-pagefile-size/"><u>Avoid RDR2 Crashes Due to High Memory Usage - Tips on Increasing Your Pagefile Size</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-troubleshooting-and-overcoming-windows-mysterious-blackout-problems/"><u>Expert Tips on Troubleshooting and Overcoming Windows' Mysterious Blackout Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hid-integrity-rectified-missing-touch-element/"><u>HID Integrity: Rectified Missing Touch Element</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfectly-blending-iphones-multimedia-for-2024/"><u>Perfectly Blending iPhones' Multimedia for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sfc-and-dism-windows-10-repair-options/"><u>SFC and DISM: Windows 10 Repair Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-fixing-laptop-mouse-freezing-issues/"><u>Troubleshooting Techniques for Fixing Laptop Mouse Freezing Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[New] First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-upgrade-video-experience-activate-av1-on-youtube/"><u>[New] In 2024, Upgrade Video Experience Activate AV1 on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audio-harmony-seekers-perfecting-video-moods/"><u>[Updated] Audio Harmony Seekers Perfecting Video Moods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-best-ways-to-enjoy-movies-anywhere-downloading-films-on-your-windows-tab-without-costs/"><u>1. 'Best Ways to Enjoy Movies Anywhere: Downloading Films on Your Windows Tab Without Costs!'</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-premier-playlist-best-of-the-music-videos/"><u>2024 Approved Facebook's Premier Playlist Best of the Music Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6-effective-methods-to-save-your-favorite-youtube-videos-a-step-by-step-guide/"><u>6 Effective Methods to Save Your Favorite YouTube Videos – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-file-combination-easy-steps-and-top-tools-for-windows-1011-users/"><u>MP3 File Combination: Easy Steps & Top Tools for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-vs-secam-understanding-the-differences-in-tv-broadcast-standards-and-conversion-techniques/"><u>NTSC Vs. PAL Vs. SECAM: Understanding the Differences in TV Broadcast Standards and Conversion Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pandorahd/"><u>Pandora番組をフルHDで安全に保存してみませんか？</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-fastest-methods-for-burning-dvds-in-windows-1011/"><u>Quick Guide: Fastest Methods for Burning DVDs in Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-canon-mx870-printer-in-diverse-win-versions/"><u>Setup Canon MX870 Printer in Diverse Win Versions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-solar-powered-inverter-aaeusys-review-with-superior-sine-wave-capabilities-for-healthcare-gear/"><u>The Ultimate Guide to Choosing a Solar-Powered Inverter - Aaeusy's Review with Superior Sine Wave Capabilities for Healthcare Gear</u></a></li>
 </ul></div>
 

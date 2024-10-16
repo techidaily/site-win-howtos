@@ -1,7 +1,7 @@
 ---
 title: How To Fix 'Unity Cannot Start' Due to Graphics Setup Errors - A Step-by-Step Guide
-date: 2024-09-12T21:11:12.158Z
-updated: 2024-09-17T18:04:12.558Z
+date: 2024-10-12T07:09:04.694Z
+updated: 2024-10-15T21:19:10.383Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ In this guide you’ll learn:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/bluetooth2.png)
 3. Click the switch (currently set to **Off** ) to turn on Bluetooth. (The status will change to **On**  .**)**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
 
 #### Windows 11
@@ -51,6 +59,13 @@ In this guide you’ll learn:
 1. Press the **Windows logo + I keys**  simultaneously to open Settings
 2. Select **Bluetooth & devices** from the left panel. Then make sure **Bluetooth**  is toggled **On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
 
@@ -76,6 +91,14 @@ In this guide you’ll learn:
 1. On your desktop, right-click on the Start button to select   **Device Manager.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
@@ -99,9 +122,24 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
  But if you have the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  you can click **Update All**  to automatically download and install all of the missing or outdated drivers on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
@@ -110,6 +148,14 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 1. **Right-click** on the Start button. and select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45b69056faf.png)
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
@@ -135,10 +181,10 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
@@ -146,10 +192,10 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -194,5 +240,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-exclusive-guide-turning-fb-videos-into-mp4-and-hd-for-2024/"><u>[New] Exclusive Guide Turning FB Videos Into MP4 & HD for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-secret-sauce-to-viral-instagram-movie-magic/"><u>[New] The Secret Sauce to Viral Instagram Movie Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-lifelong-banishment-process-for-compact-youtube-videos-for-2024/"><u>[Updated] Lifelong Banishment Process for Compact YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-directx-device-creation-errors-in-game-development-a-d3d-focus/"><u>Comprehensive Solutions for DirectX Device Creation Errors in Game Development: A D3D Focus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-fixes-to-optimize-your-desktops-gpu-usage-on-windows-1110/"><u>Five Effective Fixes to Optimize Your Desktop's GPU Usage on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-headphones-popping-sounds-instantly-a-simple-step-by-step-guide/"><u>Fix Your Headphone's Popping Sounds Instantly - A Simple, Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microphone-on-your-laptop-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone on Your Laptop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-rekindle-the-glow-solving-corsairs-led-problems/"><u>How to Rekindle the Glow: Solving Corsair's LED Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-camon-30-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Camon 30 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/internet-explorer-errors-heres-how-to-get-it-running-smoothly-again/"><u>Internet Explorer Errors? Here’s How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-when-google-chrome-wont-start/"><u>Resolved: Troubleshooting Steps When Google Chrome Won't Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-webcam-functionality-on-your-hp-laptop-running-windows-10/"><u>Reviving the Webcam Functionality on Your HP Laptop Running Windows 10</u></a></li>
+</ul></div>
 

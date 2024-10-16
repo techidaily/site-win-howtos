@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Fix Peak CPU Utilization From Isolated Audio Graphics in Windows
-date: 2024-09-16T19:23:06.841Z
-updated: 2024-09-17T23:19:55.186Z
+date: 2024-10-08T16:30:06.031Z
+updated: 2024-10-15T16:12:32.701Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
   * [Fix 5: Run System Maintenance Troubleshooter](#h-fix-5-run-system-maintenance-troubleshooter)  
   * [Fix 6: Perform a clean boot](#h-fix-6-perform-a-clean-boot)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What’s Shell Infrastructure Host?
 
 **Shell Infrastructure Host** , also known as**sihost.exe** , handles the basic graphics UI elements like taskbar transparency, start menu layout, and even your fancy background image. Normally, it’s a quiet teammate, barely using any CPU resources. But like any good teammate, sometimes it stumbles. When that happens, sihost.exe can suddenly start hogging more CPU power than usual, leaving your computer feeling sluggish and unresponsive.
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If Updating your Windows is not helping, move on to the second fix.
 
 ### Fix 2: Use a static desktop background
@@ -82,21 +82,7 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this step still can’t improve the CPU usage, move on to the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a different photo viewer app
 
@@ -109,16 +95,32 @@ If Updating your Windows is not helping, move on to the second fix.
 2. Select**Apps.**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
@@ -139,13 +141,6 @@ Here’s how to use Fortect to repair your system files:
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run System Maintenance Troubleshooter
 
  Running the System Maintenance Troubleshooter is another proven solution to this problem. It’s a tool that can fix various system maintenance-related problems on your computer. To run it, follow the steps below:
@@ -160,6 +155,14 @@ Here’s how to use Fortect to repair your system files:
 4. Click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/as-admin.jpg)
 5. Click**Next** . Then the system maintenance tool will do the troubleshooting for you and inform you when it’s completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
 
  If the issue disappears, congrats! If not, there is one more fix you can try.
@@ -177,8 +180,24 @@ Here’s how to use Fortect to repair your system files:
 4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
 7. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
@@ -203,6 +222,14 @@ Here’s how to use Fortect to repair your system files:
 3. On the **General**  tab, select **Normal startup** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot6.jpg)
 4. Select the **Services**  tab, clear the check box beside **Hide all Microsoft services** , select **Enable all** , then select **Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot7.jpg)
 5. Select the **Startup**  tab, then select **Open Task Manager** .
 6. In Task Manager, Enable all of the startup programs you had Disabled before, and then select **OK** .
@@ -226,5 +253,18 @@ Here’s how to use Fortect to repair your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-list-best-mac-compatible-recorders-for-2024/"><u>[New] The Ultimate List Best Mac-Compatible Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-freebie-subtitle-services-our-top-picks/"><u>[Updated] Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-missing-dll-issue-how-to-restore-vcruntime140dll-on-windows-10/"><u>Fix the Missing DLL Issue: How to Restore VCRUNTIME140.dll on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-choruscheck-live-audio-critique/"><u>In 2024, ChorusCheck Live Audio Critique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nailing-down-ps4-audio-problems-fixes-for-when-your-mic-wont-work/"><u>Nailing Down PS4 Audio Problems: Fixes for When Your Mic Won't Work</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-and-thrive-restore-your-zoom-camera-in-minutes/"><u>Revive and Thrive: Restore Your Zoom Camera in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-error-code-1000-in-windows-7-8-and-10-environments/"><u>Step-by-Step Solution to Error Code 1000 in Windows 7, 8 and 10 Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-weave-of-wisdom-mastering-looms-tech/"><u>The Weave of Wisdom Mastering Loom's Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-minecraft-multiplayer-server-connection-errors/"><u>Troubleshooting Guide: Resolving Minecraft Multiplayer Server Connection Errors</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-tutorial-transferring-data-from-hdd-to-solid-state-drive-ssd/"><u>Ultimate Tutorial: Transferring Data From HDD to Solid State Drive (SSD)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-optimization-secrets-for-better-gaming-experience/"><u>Windows 11 Optimization Secrets for Better Gaming Experience</u></a></li>
+</ul></div>
 

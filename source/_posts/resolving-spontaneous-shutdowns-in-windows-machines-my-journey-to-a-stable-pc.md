@@ -1,7 +1,7 @@
 ---
 title: "Resolving Spontaneous Shutdowns in Windows Machines: My Journey to a Stable PC"
-date: 2024-09-11T17:43:53.690Z
-updated: 2024-09-17T23:26:37.607Z
+date: 2024-10-13T18:49:56.610Z
+updated: 2024-10-16T05:34:55.842Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -52,16 +59,31 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -88,8 +110,24 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -106,21 +144,7 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -138,13 +162,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,5 +184,23 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficient-time-markers-in-youtube-videos-desktopmobile-edition/"><u>[New] 2024 Approved Efficient Time Markers in YouTube Videos (Desktop/Mobile Edition)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-audience-anticipation-crafting-captivating-video-content-on-social-media/"><u>[New] Audience Anticipation Crafting Captivating Video Content on Social Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-productions-first-impression/"><u>[Updated] Premier Productions First Impression</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-gratuite-de-fichiers-mp4-en-mp3-sur-windows-11-avec-le-convertisseur-mp4-a-mp3/"><u>Conversion Gratuite De Fichiers MP4 en MP3 Sur Windows 11 Avec Le Convertisseur MP4 À MP3</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-info-on-keygen-malware-and-effective-windows-defense-techniques/"><u>Essential Info on Keygen Malware & Effective Windows Defense Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-microsofts-print-to-pdf-on-windows-11/"><u>Fixing Issues with Microsoft's Print to PDF on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-pc-running-on-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your PC Running on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-network-set-up-glitch-in-dragon-ball-fighterz-game/"><u>How to Correct the Network Set-Up Glitch in Dragon Ball FighterZ Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-google-pixelbook-go-premium-features-meet-steep-pricing/"><u>In-Depth Analysis of the Google Pixelbook Go: Premium Features Meet Steep Pricing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-nvidia-setup-mishaps/"><u>Mastering the Art of Fixing NVIDIA Setup Mishaps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-7-audiotrack-issues-service-not-operational-tips/"><u>Resolving Windows 7 Audiotrack Issues - Service Not Operational Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-windows-10-update-error-0xc1900208-step-by-step-solution/"><u>Solving the Puzzle of Windows 10 Update Error 0Xc1900208: Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/straightforward-strategies-to-address-and-fix-windows-update-error-code-80072ee2/"><u>Straightforward Strategies to Address and Fix Windows Update Error Code: 80072EE2</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribed-titles-next-chapter-or-ending/"><u>Unsubscribed Titles: Next Chapter or Ending?</u></a></li>
+</ul></div>
 

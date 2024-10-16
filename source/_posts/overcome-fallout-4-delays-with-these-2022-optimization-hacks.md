@@ -1,7 +1,7 @@
 ---
 title: Overcome Fallout 4 Delays with These 2022 Optimization Hacks
-date: 2024-10-02T17:47:09.946Z
-updated: 2024-10-09T22:32:37.321Z
+date: 2024-10-10T06:53:37.101Z
+updated: 2024-10-16T01:37:49.856Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your video card drivers
 
  Keep in mind to update your video card drivers at regular times; otherwise an out-dated or corrupt driver may end up lowering your FPS and even preventing the game from running smoothly.
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -96,6 +89,19 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
@@ -112,37 +118,17 @@ Now you’re able to modify the settings of this program.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust in-game settings
 
@@ -153,6 +139,13 @@ Now you’re able to modify the settings of this program.
  2) Set**Resolutions** to the same value as your monitor uses. After that, make sure you check these two boxes:**Windowed Mode** and**Borderless** . Click**OK** to save the changes.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
@@ -183,6 +176,13 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  If this fix doesn’t work for you, you may read on and try the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop CPU/memory hogging applications
 
@@ -224,16 +224,18 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-navigating-and-utilizing-the-powerful-functions-of-telegram/"><u>A Beginner's Guide to Navigating and Utilizing the Powerful Functions of Telegram</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-power-start-cmd-as-administrator/"><u>Boosting Power: Start CMD as Administrator</u></a></li>
-<li><a href="https://discover-data.techidaily.com/easy-tutorial-on-converting-avi-files-to-compatible-webm-video-formats/"><u>Easy Tutorial on Converting AVI Files to Compatible WebM Video Formats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-and-restore-bluetooth-functionality-on-your-windows-10-laptopdesktop-efficiently/"><u>How to Fix and Restore Bluetooth Functionality on Your Windows 10 Laptop/Desktop Efficiently!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-to-the-home-screen-finding-start-in-windows-11-made-easy/"><u>Navigating to the Home Screen: Finding 'Start' In Windows 11 Made Easy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/resolving-wi-fi-troubles-with-ease-using-the-latest-update-in-windows-11/"><u>Resolving Wi-Fi Troubles with Ease Using the Latest Update in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-secrets-behind-your-pcs-spontaneous-awakening-on-windows-11-unveiled/"><u>The Secrets Behind Your PC's Spontaneous Awakening on Windows 11 Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-0xc1900208-solved/"><u>Windows 11 Update Error 0Xc1900208 [SOLVED]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-legality-of-reproducing-your-watched-youtube-videos/"><u>[Updated] 2024 Approved Legality of Reproducing Your Watched YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/complete-activity-assessment-guide/"><u>Complete Activity Assessment Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-driverpowerstatefailure-errors/"><u>Comprehensive Guide to Diagnosing and Repairing DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-laptop-troubleshooting-repairing-non-responsive-fn-key-issues-step-by-step/"><u>Dell Laptop Troubleshooting: Repairing Non-Responsive FN Key Issues Step by Step</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-mp4-to-ogv-conversion-no-cost/"><u>Effortless MP4 to OGV Conversion (No Cost)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-recommendations-on-high-tech-pet-gadgets-find-your-perfect-match-with-zdnets-best/"><u>Expert Recommendations on High-Tech Pet Gadgets - Find Your Perfect Match with ZDNet's Best!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-freezing-on-windows-10-solution-guide/"><u>How to Fix File Explorer Freezing on Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-bluetooth-connection-problems-fast-and-simple/"><u>Solve Your Windows 10 Bluetooth Connection Problems Fast and Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-windows-no-longer-able-to-find-updates/"><u>Successfully Resolved: Windows No Longer Able To Find Updates?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/transform-youtube-live-with-these-must-know-secrets/"><u>Transform YouTube Live with These Must-Know Secrets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-rdr2-errors-by-expanding-the-virtual-memory-size/"><u>Troubleshoot RDR2 Errors by Expanding the Virtual Memory Size</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-features-and-performance-of-western-digitals-data-lifeguard-diagnostics/"><u>Unveiling the Features and Performance of Western Digital's Data LifeGuard Diagnostics</u></a></li>
 </ul></div>
 

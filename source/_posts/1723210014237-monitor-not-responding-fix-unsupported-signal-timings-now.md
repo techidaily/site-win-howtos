@@ -1,7 +1,7 @@
 ---
 title: Monitor Not Responding? Fix Unsupported Signal Timings Now
-date: 2024-10-03T17:28:37.425Z
-updated: 2024-10-09T22:02:25.442Z
+date: 2024-10-12T17:44:08.516Z
+updated: 2024-10-16T05:38:20.781Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 1. Right click on any**empty area** on your desktop, then select**Display Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
@@ -73,20 +73,13 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 7. Click**Apply** and**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -100,29 +93,38 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
-7. Click**Apply** and**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
+7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
+
 Restart your computer in normal mode and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update graphics card driver
 
@@ -143,19 +145,6 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
@@ -174,26 +163,35 @@ Restart your computer in normal mode and see if it works.
  Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
-4. Click**Troubleshoot** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
-5. Click**Advanced** **options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
+4. Click**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
+5. Click**Advanced** **options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
@@ -236,21 +234,20 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-effortless-snaptweet-videos-from-twitter/"><u>[Updated] 2024 Approved Effortless SnapTweet Videos From Twitter</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mighty-machines-meet-thieyes-t5-vs-jcb-sjcam-s6/"><u>[Updated] Mighty Machines Meet Thieye's T5 Vs JCB SJCAM S6</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-techniques-to-rectify-iphone-photo-out-of-focus/"><u>[Updated] Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-zte-nubia-flip-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart ZTE Nubia Flip 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-rdr2-cannot-load-increase-pagefile-with-easy-steps/"><u>Fix 'RDR2 Cannot Load - Increase Pagefile' With Easy Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-common-errors-overcoming-the-driver-failure-in-user-settings-problem/"><u>Fixing Common Errors: Overcoming the 'Driver Failure in User Settings' Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-error-code-80/"><u>How to Fix Steam Error Code 80</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-undetected-devices-problems-with-bluetooth-on-windows-11-systems/"><u>How to Fix Undetected Devices Problems with Bluetooth on Windows 11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-v-purse-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor V Purse Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>In 2024, Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-new-worlds-an-in-depth-study-of-6-metaverse-models/"><u>Navigating New Worlds An In-Depth Study of 6 Metaverse Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-high-tech-equipment-with-toms-hardware-wisdom/"><u>Navigating Through High-Tech Equipment with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-snip-tool-text-edits-on-win-11/"><u>Perfecting Snip Tool Text Edits on Win 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-whirring-buzzing-identifying-causes-and-applying-repairs/"><u>PS4 Whirring, Buzzing: Identifying Causes and Applying Repairs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-your-keyboard-by-rebooting/"><u>Step-by-Step Guide: Fixing Your Keyboard by Rebooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210003398-triumph-over-silent-touchpad-in-device-realm/"><u>Triumph Over Silent Touchpad in Device Realm!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-11-essential-drone-gear-for-your-phantom-4/"><u>[New] 2024 Approved 11 Essential Drone Gear for Your Phantom 4</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp/"><u>[Updated] 2024 Approved Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-video-basics-made-simple-a-list-of-10-accessible-youtube-projects/"><u>[Updated] 2024 Approved Video Basics Made Simple A List of 10 Accessible YouTube Projects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
+<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-techniques-for-shrinking-audio-file-size-with-an-audio-compressor/"><u>Easy Techniques for Shrinking Audio File Size with an Audio Compressor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-transform-your-avi-videos-into-youtube-content-a-comprehensive-tutorial/"><u>Efficiently Transform Your AVI Videos Into YouTube Content - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-transforming-dat-files-into-mp3-format-using-two-simple-techniques/"><u>Effortless Guide: Transforming DAT Files Into MP3 Format Using Two Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-jittery-sounds-in-vlc-for-a-crystal-clear-experience-on-windows-pcs/"><u>Eliminating Jittery Sounds in VLC for a Crystal-Clear Experience on Windows PCs</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/palette-perfection-translating-color-concepts-for-2024/"><u>Palette Perfection Translating Color Concepts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/talking-audio-log-audit-for-2024/"><u>Talking Audio Log Audit for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-ace-2-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus Ace 2 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

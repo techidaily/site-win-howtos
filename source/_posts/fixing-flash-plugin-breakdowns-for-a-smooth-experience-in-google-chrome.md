@@ -1,7 +1,7 @@
 ---
 title: Fixing Flash Plugin Breakdowns for a Smooth Experience in Google Chrome
-date: 2024-09-13T20:52:41.962Z
-updated: 2024-09-17T20:37:29.097Z
+date: 2024-10-13T00:46:26.791Z
+updated: 2024-10-16T01:35:29.843Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions to troubleshoot.
 
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
@@ -57,6 +64,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
@@ -77,13 +91,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
  2) Type **the following command**   and press **Enter** :
@@ -91,6 +98,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
   
@@ -100,19 +114,33 @@ Wait for a while for the whole process to finishes.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Delete Windows Update Cache
 
  Deleting Windows Update Cache is another useful method to help us fix the **0x80073712** error code. Here’s how:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
@@ -121,20 +149,13 @@ Wait for a while for the whole process to finishes.
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
@@ -149,13 +170,6 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
@@ -165,6 +179,19 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -189,5 +216,21 @@ Wait for a while for the whole process to finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-google-ar-stickers-innovation-and-comparison-to-other-offerings/"><u>[New] Google AR Stickers Innovation and Comparison to Other Offerings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unearthing-user-generated-footage-on-facebook-for-2024/"><u>[New] Unearthing User-Generated Footage on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ajay-the-creative-content-creators-profitable-venture-on-youtube-for-2024/"><u>[Updated] AJay The Creative Content Creator's Profitable Venture on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fix-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>2024 Approved Fix “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adjusted-permissions-enable-secure-download-access-with-updated-security-preferences/"><u>Adjusted Permissions: Enable Secure Download Access with Updated Security Preferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-notebook-keyboard-failure-heres-how-to-restore-functionality/"><u>Dell Notebook Keyboard Failure? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-internet-access-with-windows-11s-built-in-usb-tethering-feature/"><u>Effortless Internet Access with Windows 11'S Built-In USB Tethering Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-2021-graphics-renderer-start-up-issue-steps-and-tips/"><u>Fixing the 2021 Graphics Renderer Start-Up Issue: Steps and Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-canon-mx340-drivers-compatible-with-windows-10-8-and-7-systems/"><u>Get the Newest Canon MX340 Drivers Compatible with Windows 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-game-installation-errors-heres-how-to-fix-them/"><u>Steam Game Installation Errors? Here's How to Fix Them!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903909343-step-by-step-guide-booking-your-visit-at-the-genius-bar/"><u>Step-by-Step Guide: Booking Your Visit at The Genius Bar</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-video-editing-101-getting-started-with-quik-on-macbook-for-2024/"><u>Updated GoPro Video Editing 101 Getting Started with Quik on MacBook for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+</ul></div>
 

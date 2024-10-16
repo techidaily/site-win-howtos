@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Repair: Correcting the Update Failure on Your PC with Windows 11 (Error Code 0Xc1900208)"
-date: 2024-10-03T20:47:28.127Z
-updated: 2024-10-09T20:09:14.515Z
+date: 2024-10-12T07:34:30.574Z
+updated: 2024-10-15T23:20:50.468Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -73,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 4) Select the **Create installation media (USB flash drive, DVD, or ISO file) for another PC** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
@@ -140,15 +133,22 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
@@ -169,6 +169,13 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -182,10 +189,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 2) Wait for the scan to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Use a Windows Fortect Tool
@@ -198,18 +205,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -238,13 +245,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 1\. Check for updates
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type**Check for updates** in the Search box and press**Enter** .
 
@@ -302,18 +302,15 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-upgrade-webcam-videos-with-simple-editing-techniques/"><u>[Updated] Upgrade WebCam Videos with Simple Editing Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/debugging-tips-for-when-keyboard-shortcut-altplustab-becomes-unresponsive/"><u>Debugging Tips for When Keyboard Shortcut Alt+Tab Becomes Unresponsive</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-intelligent-hd-520/"><u>Easy Installation: Intelligent HD 520</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-dealing-with-missing-pdhdll-file-errors-on-windows/"><u>Effective Strategies for Dealing with Missing pdh.dll File Errors on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generative-ai-innovation-exploring-7-revolutionary-effects-on-job-opportunities-and-skills-demand/"><u>Generative AI Innovation: Exploring 7 Revolutionary Effects on Job Opportunities and Skills Demand</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-print-to-pdf-not-working-in-windows-1011-heres-the-solution/"><u>Microsoft Print-to-PDF Not Working in Windows 10/11? Here's the Solution!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-hardware-driver-restored-computer-functionality-enhanced/"><u>Missing Media Hardware Driver Restored, Computer Functionality Enhanced</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pop 8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionary-methods-to-stop-your-screens-blinding-blink-a-comprehensive-guide/"><u>Revolutionary Methods to Stop Your Screen's Blinding Blink: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-dell-camera-wont-work-with-windows/"><u>Step-by-Step Solutions for When Your Dell Camera Won't Work with Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-overcoming-the-0x80072efd-glitch-in-windows-11-systems/"><u>Ultimate Fixes for Overcoming the 0X80072EFD Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premiere-pros-best-practices-free-template-samples/"><u>[New] 2024 Approved Premiere Pro's Best Practices FREE Template Samples</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-7-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 7 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-for-blocking-advanced-ai-crawling-on-your-domain/"><u>Effective Techniques for Blocking Advanced AI Crawling on Your Domain</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722954254656-get-your-free-nvidia-rtx-3060-ti-drivers-for-latest-windows-os-download-now/"><u>Get Your Free NVIDIA RTX 3060 Ti Drivers for Latest Windows OS - Download Now!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-calculate-and-change-aspect-ratio-online/"><u>How to Calculate and Change Aspect Ratio Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-unavailable-desktop-error-in-windows-system-configuration-directory/"><u>How to Overcome the Unavailable Desktop Error in Windows System Configuration Directory</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-itel-p40-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Itel P40 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-errors-with-windows-10-update-build-1607/"><u>Incompatibility Errors with Windows 10 Update (Build 1607)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-of-intense-dwm-gpu-utilization-on-windows-10-and-11-with-these-five-fixes/"><u>Overcome the Challenge of Intense DWM GPU Utilization on Windows 10 and 11 with These Five Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-laptop-keyboard-working-tips-for-diagnosis-and-repair/"><u>Why Isn't My Laptop Keyboard Working? Tips for Diagnosis and Repair</u></a></li>
 </ul></div>
 

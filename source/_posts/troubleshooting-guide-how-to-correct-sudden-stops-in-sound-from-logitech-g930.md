@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Correct Sudden Stops in Sound From Logitech G930"
-date: 2024-10-04T21:19:46.382Z
-updated: 2024-10-09T21:42:41.821Z
+date: 2024-10-11T06:17:53.137Z
+updated: 2024-10-15T20:43:43.479Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Stop CPU / GPU overclocking
 
  you may encounter the “Error 0x887A0006” error message if you’re overclocking your CPU or GPU during the game. The increasing CPU / GPU speed may crash the game.
@@ -54,13 +47,6 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
  If you’re overclocking your CPU or GPU, you need to set your CPU / GPU clock speed back to normal. Then restart your PC to see if this issue works for you.
 
 If this issue persists, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -100,13 +86,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -123,6 +102,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
@@ -132,6 +118,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
@@ -169,28 +163,36 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix doesn’t work, or if you want to undo the change in the registry, do as follows:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**regedit** and press**Enter** to open**Registry Editor** . You’ll be prompted for permission, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
-3. Restart your PC to save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
+3. Restart your PC to save the change.
 
 If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
@@ -200,13 +202,6 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -224,17 +219,23 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Adjust your Windows system for the best performance
@@ -244,6 +245,14 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
@@ -273,21 +282,22 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-superior-webcams-revolutionizing-podcast-recording/"><u>[New] Superior Webcams Revolutionizing Podcast Recording</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-manual-to-creating-engaging-ae-heads-ups/"><u>2024 Approved The Ultimate Manual to Creating Engaging AE Heads-Ups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers-for-2024/"><u>Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-loadlibrary-error-code-1114-in-your-system-efficiently/"><u>How to Fix 'LoadLibrary' Error Code 1114 in Your System Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterful-makeovers-picarts-backdrop-banishment-guide/"><u>Masterful Makeovers PicArt’s Backdrop Banishment Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-writers-block-in-computer-memory-dealing-with-a-referenced-location-at-0x-0x/"><u>Overcoming Writer's Block in Computer Memory: Dealing with a Referenced Location at 0X (0X)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools/"><u>Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-astro-a40-mic-step-by-step-troubleshooting-guide/"><u>Reviving Your Astro A40 Mic: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-mozillas-firefox-freezing-issues-comprehensive-strategies/"><u>Solving Mozilla's Firefox Freezing Issues - Comprehensive Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-typing-issues-fix-broken-letter-functions-on-win-1011-computers/"><u>Solving Typing Issues: Fix Broken Letter Functions on Win 10/11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustee-access-from-trustedinstaller-for-file-modification/"><u>Steps to Obtain Trustee Access From TrustedInstaller for File Modification</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-7-network-connection-problems-solutions-and-fixes/"><u>Troubleshooting Windows 7 Network Connection Problems - Solutions and Fixes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-art-of-screencasting-orderly-tutorial-series-for-2024/"><u>Unveiling the Art of Screencasting Orderly Tutorial Series for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>[New] 2024 Approved A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[New] 2024 Approved The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-guide-to-frozen-indulgence-capture-tech/"><u>[Updated] 2024 Approved In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tandem-display-data-archiving/"><u>[Updated] Tandem Display Data Archiving</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-nikon-d-500-4k-dslr-camera-review/"><u>2024 Approved Nikon D 500 4K DSLR Camera Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mobile-magic-transform-your-snaps-at-zero-cost-for-2024/"><u>Mobile Magic Transform Your Snaps at Zero Cost for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/retrospective-on-the-goofy-movie-a-comprehensive-review-for-2024/"><u>Retrospective on 'The Goofy Movie' A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-flac-into-wma-format-using-windows-tools/"><u>Step-by-Step Guide: Transforming FLAC Into WMA Format Using Windows Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enabling-xvid-format-support-on-android-devices/"><u>Step-by-Step Tutorial for Enabling Xvid Format Support on Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-integrating-new-fallout-features-into-your-kodi-matrix-setup/"><u>Step-by-Step Tutorial: Integrating New Fallout Features Into Your Kodi Matrix Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-mastering-the-art-of-screen-recording-on-msi-computers/"><u>Step-by-Step Tutorial: Mastering the Art of Screen Recording on MSI Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-your-mp4-files-into-high-quality-wav-format-using-the-latest-audacity-software/"><u>Step-by-Step Tutorial: Transforming Your MP4 Files Into High-Quality WAV Format Using the Latest Audacity Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-comprehensive-walkthrough-for-dvd-content-transfer-between-pcs-and-macs/"><u>The Comprehensive Walkthrough for DVD Content Transfer Between PCs and Macs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-xvid-to-mp4-converter-software-simple-steps-for-windows-users/"><u>Top Rated No-Cost Xvid to Mp4 Converter Software - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tutti-i-numeri-italiani-divisi-in-1000-esperienze/"><u>Tutti I Numeri Italiani Divisi in 1000 Esperienze</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-speed-up-your-storytelling-mastering-time-lapses-in-final-cut-pro/"><u>Updated 2024 Approved Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro</u></a></li>
 </ul></div>
 

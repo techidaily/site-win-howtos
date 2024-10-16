@@ -1,7 +1,7 @@
 ---
 title: Fix a Broken Huion Pen Swiftly with These 5 Methods
-date: 2024-10-03T18:51:53.605Z
-updated: 2024-10-09T20:08:52.993Z
+date: 2024-10-09T18:28:13.990Z
+updated: 2024-10-16T03:48:54.052Z
 tags:
   - win11
   - win10
@@ -41,22 +41,15 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -66,28 +59,55 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -97,27 +117,20 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -137,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -162,19 +168,19 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -196,24 +202,18 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-at-the-forefront-elite-vr-creators/"><u>[New] At The Forefront Elite VR Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] 2024 Approved Boosting Your Video Income on Youtube - Essentials</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-strategies-for-effective-zoom-sharing/"><u>[Updated] 2024 Approved Expert Strategies for Effective Zoom Sharing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>[Updated] 2024 Approved Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/comparing-dvd-and-streaming-services-determining-the-superior-choice-for-cinema-enthusiasts/"><u>Comparing DVD and Streaming Services: Determining the Superior Choice for Cinema Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/graphics-driver-update-fixed-miracast-support-issues/"><u>Graphics Driver Update Fixed Miracast Support Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-broken-logitech-mouse-scroll-wheel-step-by-step-solution/"><u>How To Restore Functionality of Your Broken Logitech Mouse Scroll Wheel | Step by Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-common-problems-with-your-minecraft-local-area-network/"><u>How To Successfully Overcome Common Problems With Your Minecraft Local Area Network</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-google-pixel-8-phone-by-drfone-android/"><u>How to Unlock a Network Locked Google Pixel 8 Phone?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-keybindings-windows-application-control/"><u>Master Keybindings: Windows Application Control</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-installation-error-code-80240020-a-step-by-step-solution/"><u>Overcoming Windows 10 Installation Error Code 80240020 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/preventing-virtual-reality-nausea/"><u>Preventing Virtual Reality Nausea</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/recovering-from-an-msvcp140dll-absence/"><u>Recovering From an MSVCP140.dll Absence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-failure-of-group-policy-client-login-issues-on-windows/"><u>Resolved: Fixing Failure of Group Policy Client Login Issues on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-11-0x800f0922-update-errors-top-8-fixes/"><u>Solving Windows 11 0X800f0922 Update Errors - Top 8 Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredo-connectivity-issue-now-resolved/"><u>Teredo Connectivity Issue – Now Resolved</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-the-semaphore-timeout-period-has-expired-0x80070079/"><u>[Fixed] The Semaphore Timeout Period Has Expired. (0X80070079)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-fix-youtube-video-black-screen/"><u>[New] 2024 Approved How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-upload-with-ease-instagram-and-vimeo-harmony-for-2024/"><u>[New] Upload with Ease Instagram and Vimeo Harmony for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cybernetic-salvation-reuniting-with-your-fb-world/"><u>Cybernetic Salvation Reuniting with Your FB World</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/for-social-media-savants-distinguishing-between-igtv-and-youtube-for-2024/"><u>For Social Media Savants Distinguishing Between IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-logitech-wheel-drivers-supports-windows-7-to-10-systems/"><u>Get the Newest Logitech Wheel Drivers - Supports Windows 7 to 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-cpu-usage-by-msmpengexe-in-windows-11/"><u>How to Fix High CPU Usage by MsMpEng.exe in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-hearthstone-performance-issues-no-hassle/"><u>Quick Fixes for Hearthstone Performance Issues - No Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-wireless-display-adapter-connections-errors-on-windows-11-systems/"><u>Resolving Microsoft Wireless Display Adapter Connections Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-launch-problems-in-resident-evil-village-gaming-troubleshooting-guide/"><u>Step-by-Step Solution: Resolving Launch Problems in Resident Evil Village - Gaming Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-moto-g-powers-impressive-battery-and-sleek-aesthetics/"><u>The Ultimate Guide to the Moto G Power's Impressive Battery and Sleek Aesthetics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ultimate-selection-of-8-stealth-downloads/"><u>Ultimate Selection of 8 Stealth Downloads</u></a></li>
 </ul></div>
 

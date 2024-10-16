@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System
-date: 2024-10-02T20:28:25.795Z
-updated: 2024-10-09T23:22:34.625Z
+date: 2024-10-10T02:09:44.112Z
+updated: 2024-10-15T20:11:30.873Z
 tags:
   - win11
   - win10
@@ -44,29 +44,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Update your audio driver
 
@@ -81,26 +82,26 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -110,19 +111,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -147,16 +149,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-amplify-engagement-unique-ig-questions-for-lives-for-2024/"><u>[Updated] Amplify Engagement Unique IG Questions for Lives for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-best-webcam-tripods-and-stands/"><u>[Updated] In 2024, Best Webcam Tripods and Stands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-tiny-tycoons-trail-to-treasure-ryan-kaji-and-youtube-earnings/"><u>2024 Approved Tiny Tycoon’s Trail to Treasure Ryan Kaji and YouTube Earnings</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-poco-m6-pro-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco M6 Pro 4G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-0x80070490-faulty-update-issue-on-your-pc-solved/"><u>How to Resolve 0X80070490 Faulty Update Issue on Your PC (Solved!)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-x3daudio17dll-non-existence-issues/"><u>Overcome X3DAudio1_7.dll Non-Existence Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-keyboard-glow-essential-fixes-for-non-functioning-backlight-on-your-macpc/"><u>Reactivate Keyboard Glow: Essential Fixes for Non-Functioning Backlight on Your Mac/PC</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/snicker-sphere-hot-gags-and-joke-artists-of-tiktok/"><u>Snicker Sphere Hot Gags and Joke Artists of TikTok</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-wi-fi-companion-for-travelers-tp-links-tl-wr9eusure-ac-pocket-router/"><u>The Ultimate Wi-Fi Companion for Travelers: TP-Link's TL-WR9eusure AC Pocket Router</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-login-issues-in-windows-1011-with-user-profile-service-errors/"><u>Troubleshooting Login Issues in Windows 10/11 with User Profile Service Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-x3daudio17dll-play-games-effortlessly/"><u>Troubleshooting X3DAudio1_7.dll, Play Games Effortlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos-for-2024/"><u>[New] Elevate Your Tech Game Master the Craft of Screen Recordings in macOS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-investment-selecting-the-top-5-pro-drones/"><u>Best Investment - Selecting the Top 5 Pro Drones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-solutions-for-windows-10-access-denied-problems-within-containers-expertly-explained/"><u>Critical Solutions for Windows 10 Access Denied Problems Within Containers - Expertly Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-recommendations-for-downloading-snapchat-tunes/"><u>Expert Recommendations for Downloading Snapchat Tunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-windows-10-bluetooth-back-on-track-with-our-step-by-step-guide/"><u>Get Your Windows 10 Bluetooth Back on Track with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-disabling-half-decked-keyboard-and-touchpad-while-connected-to-a-mouse-on-windows-11/"><u>Guide to Disabling HALF-DECKED Keyboard and Touchpad While Connected to a Mouse on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interactive-entertainment-pauses-pc-life/"><u>Interactive Entertainment Pauses PC Life</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-snapchat-three-simple-steps-for-calls-and-chats/"><u>Mastering Snapchat Three Simple Steps for Calls and Chats</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-delays-boosting-speed-of-windows-discord-app/"><u>Minimizing Delays: Boosting Speed of Windows Discord App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixelated-panorama-vr-cinematic-odyssey-for-2024/"><u>Pixelated Panorama VR Cinematic Odyssey for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-v30-lite-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo V30 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsiveness-on-google-chrome-should-you-relaunch-it/"><u>Troubleshooting Unresponsiveness on Google Chrome – Should You Relaunch It?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-touchpad-scrolling-problems-a-step-by-step-guide/"><u>Troubleshooting Windows 10 Touchpad Scrolling Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-the-glitch-a-step-by-step-guide-for-bluetooth-keyboard-connectivity-on-windowsmac/"><u>Unstick the Glitch: A Step-by-Step Guide for Bluetooth Keyboard Connectivity on Windows/Mac</u></a></li>
 </ul></div>
 

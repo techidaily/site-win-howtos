@@ -1,7 +1,7 @@
 ---
 title: "No More Downtime: Effective Remedies for Fixing DNS Connectivity Problems"
-date: 2024-09-17T01:40:16.253Z
-updated: 2024-09-18T00:00:01.740Z
+date: 2024-10-12T16:30:28.542Z
+updated: 2024-10-16T02:46:03.851Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -72,7 +72,21 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -85,22 +99,8 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -120,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -138,15 +131,16 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
-4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
+4. Follow the on-screen instructions to fix the problem.
 
 #### on Windows 11
 
@@ -154,8 +148,23 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,5 +185,24 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-11/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-auditory-artistry-in-storytelling-for-2024/"><u>[New] Auditory Artistry in Storytelling for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[New] In 2024, Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[Updated] 2024 Approved Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-crafting-compelling-vo-for-visual-storytelling-success/"><u>[Updated] Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[Updated] Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-xcover-7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy XCover 7 FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-blocked-code-stalls/"><u>Execution Blocked: Code Stalls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-restore-your-dell-camera-functionality-in-windows/"><u>Fixing Issues: How to Restore Your Dell Camera Functionality in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/groundbreaking-launch-mercedes-benz-unveils-plans-for-pioneering-electric-vehicle-charger-by-years-end/"><u>Groundbreaking Launch: Mercedes-Benz Unveils Plans for Pioneering Electric Vehicle Charger by Year's End</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-obtaining-professional-photo-banners/"><u>In 2024, Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-hang-ups-effective-techniques-to-shut-down-windows-11-solved/"><u>Overcoming System Hang-Ups: Effective Techniques to Shut Down Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-enable-your-systems-area-wide-safety-features-now/"><u>Restored: Enable Your System’s Area-Wide Safety Features Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-no-supported-device-found-on-apple-products/"><u>Solution Steps for 'No Supported Device Found' On Apple Products</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-usb-connectivity-issues-for-windows-1011-users/"><u>Solving USB Connectivity Issues for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fix-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Steps: Fix HP Laptop's Malfunctioning USB Port</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-ace-2v-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus Ace 2V</u></a></li>
+</ul></div>
 

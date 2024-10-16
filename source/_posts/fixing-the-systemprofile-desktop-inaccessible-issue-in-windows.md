@@ -1,7 +1,7 @@
 ---
 title: Fixing the ‘SystemProfile Desktop Inaccessible’ Issue in Windows
-date: 2024-10-03T22:27:11.530Z
-updated: 2024-10-09T16:40:01.513Z
+date: 2024-10-12T03:27:18.978Z
+updated: 2024-10-16T05:23:11.719Z
 tags:
   - win11
   - win10
@@ -52,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
@@ -76,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -101,13 +87,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -120,6 +99,14 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
@@ -135,34 +122,29 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -175,8 +157,23 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -202,24 +199,20 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-digital-brushstrokes-unearthing-the-best-8-artist-apps-for-iphones/"><u>[New] In 2024, Digital Brushstrokes Unearthing the Best 8 Artist Apps for iPhones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-harmonizing-social-media-twitter-plus-tumblr-videos-for-2024/"><u>[Updated] Harmonizing Social Media Twitter + Tumblr Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-compreranimal-webcam-tutorial-achieve-excellent-video-quality/"><u>[Updated] In 2024, Compreranimal Webcam Tutorial Achieve Excellent Video Quality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011950320-crusader-kings-2-not-loading-properly-heres-what-to-do/"><u>Crusader Kings 2 Not Loading Properly? Here's What To Do</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-winuac-new-techniques-for-administrators/"><u>Enhancing WinUAC: New Techniques for Administrators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-videoaudio-hardware-driver-not-installed-on-your-system-fixed/"><u>Essential Video/Audio Hardware Driver Not Installed on Your System, Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-reactivating-your-frozen-google-chrome-browser-instantly/"><u>Expert Advice on Reactivating Your Frozen Google Chrome Browser Instantly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/geen-kosten-omzetting-van-mp4-file-formaten-door-movavi/"><u>Geen Kosten! Omzetting Van MP4-File Formaten Door Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ghostly-screen-tech-paradox/"><u>Ghostly Screen: Tech Paradox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-usb-terminal-voltage-problems-on-windows-11-devices/"><u>Guide to Fixing USB Terminal Voltage Problems on Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-lack-of-audio-drivers-in-windows-1011-computers/"><u>How to Address the Lack of Audio Drivers in Windows 10/11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-challenges-when-your-dhcp-server-is-not-responding-solution/"><u>How to Overcome Challenges When Your DHCP Server Is Not Responding (Solution)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-pro-power-ups-the-best-plugins-free-and-affordable/"><u>In 2024, Adobe Premiere Pro Power-Ups The Best Plugins (Free & Affordable)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Lava Agni 2 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-error-when-ie-stops-functioning-correctly/"><u>Step-by-Step Guide: Repairing the Error When IE Stops Functioning Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-taskbar-not-hiding-solved/"><u>Windows 10 Taskbar Not Hiding [Solved]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/onetization-verification-maximizing-streamer-incomes-for-2024/"><u>[New] Monetization Verification Maximizing Streamer Incomes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-secrets-to-stellar-igtv-footage-capture/"><u>[Updated] Unveiling the Secrets to Stellar IGTV Footage Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-viacoms-top-10-screen-recorder-software/"><u>[Updated] Viacom’s Top 10 Screen Recorder Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5y2x6zm644gl44kj5a6i44kk44gq44gm44kj44cb5qsc57si5yplusv6io944gq44k744kv44k344o844ot44oh44kq44ks56k65a6f44gr44oa44km44oz44ot44o844oj44gz44kl5oqa6kgt44cn.55/"><u>「危険から守りながら、検索可能なセクシービデオを確実にダウンロードする技術」</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-alternatives-to-keepvid-discover-the-top-6-platforms-for-quick-and-easy-video-downloads/"><u>Best Alternatives to KeepVid: Discover the Top 6 Platforms for Quick and Easy Video Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-top-5-no-cost-rmvb-media-players-for-windows-10-users/"><u>Discover the Top 5 No-Cost RMVB Media Players for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-videos-from-sendvid-quickly-top-4-reliable-techniques-revealed/"><u>Download Videos From Sendvid Quickly: Top 4 Reliable Techniques Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-xmovies8-free-save-and-enjoy-your-favorite-films-anytime-even-offline/"><u>Download XMovies8 Free: Save & Enjoy Your Favorite Films Anytime, Even Offline!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973213673-effortless-installation-with-lexar-drive-usb-drivers-now-available/"><u>Effortless Installation with Lexar Drive USB Drivers - Now Available!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-phone-number-display-errors-in-imessage-conversations/"><u>Fixing the Issue of Phone Number Display Errors in iMessage Conversations</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-12-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/screen-scribes-editing-edition-guide-for-2024/"><u>Screen Scribes Editing Edition Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44kw44op44ov44kj44od44kv44k544ky44o844og5yuv55s757ch5y2y6yyy55s744ks44kk44oj/"><u>マルチグラフィックスゲーム動画簡単録画ガイド</u></a></li>
 </ul></div>
 

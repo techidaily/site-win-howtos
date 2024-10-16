@@ -1,7 +1,7 @@
 ---
 title: How To Restore Your Function Keys When They Aren't Responding
-date: 2024-10-06T19:36:19.642Z
-updated: 2024-10-09T21:32:09.185Z
+date: 2024-10-10T04:06:34.017Z
+updated: 2024-10-16T00:27:35.145Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -100,26 +93,26 @@ In another version of BIOS, the procedure may go like this:
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
@@ -155,6 +148,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
@@ -165,19 +165,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
@@ -186,16 +173,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -219,15 +206,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -255,24 +249,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-creative-curvature-enhancing-imagery-with-text-shaping/"><u>[New] 2024 Approved Creative Curvature Enhancing Imagery with Text Shaping</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-decoding-freeaudmagic-a-thorough-examination-of-2024-tech/"><u>[New] Decoding FreeAudMagic A Thorough Examination of 2024 Tech</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-instagrams-verification-system/"><u>[Updated] Decoding Instagram's Verification System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-journey-through-visual-innovation-navigating-to-the-top-10-inexpensive-platforms-for-digital-painters/"><u>[Updated] Journey Through Visual Innovation Navigating to the Top 10 Inexpensive Platforms for Digital Painters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>2024 Approved Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-guide-to-resolving-the-paired-but-not-connected-dilemma-in-windows-11-bluetooth-setup/"><u>A Guide to Resolving the 'Paired but Not Connected' Dilemma in Windows 11 Bluetooth Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ceskoslovenske-pravidelnosti-top-20-konvertoru-videa-pro-windows-gratkovy-programovaci-oddil-bez-platu/"><u>Československé Pravidelnosti Top 20 Konvertorů Videa Pro Windows: Grátkový Programovací Oddíl Bez Platu</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-in-windows-explained-fixes-to-get-you-back-on-track/"><u>Error Code 31 in Windows Explained: Fixes to Get You Back on Track</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-epson-wf-3520-driver-software-for-windows-devices/"><u>How to Fetch the Latest Epson WF-3520 Driver Software for Windows Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-code-0x80004005-in-microsoft-exchange-step-by-step-guide/"><u>How to Fix the Error Code 0X80004005 in Microsoft Exchange - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-speaker-noise-interference-in-your-windows-pc-a-step-by-step-guide-for-win11win7-users/"><u>How to Resolve Speaker Noise Interference in Your Windows PC – A Step-by-Step Guide for Win11/Win7 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x8b-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X8b Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-code-faks-a-step-by-step-guide-to-overcoming-challenges-in-minecraft/"><u>Mastering Error Code ˈfaɪks: A Step-by-Step Guide to Overcoming Challenges in Minecraft</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Huawei</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-fix-guide-how-to-show-hidden-taskbar/"><u>Mastering Windows 10: Fix Guide - How To Show Hidden Taskbar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-lenovo-laptop-camera-issues-a-step-by-step-fix/"><u>Solving Lenovo Laptop Camera Issues - A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-sluggish-keys-on-your-pcs-os-fixes-and-tips-for-windows-10/"><u>Winning the Battle Against Sluggish Keys on Your PC's OS: Fixes & Tips for Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-gt-10-pro-frp-bypass-by-drfone-android/"><u>About Infinix GT 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-plugged-in-not-charging/"><u>Acer Plugged In Not Charging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apple-m1-pro-vs-m1-max-whats-the-difference/"><u>Apple M1 Pro Vs. M1 Max What's the Difference?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v29-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V29 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-monster-hunter-worlds-startup-blackout-issue/"><u>Comprehensive Solution for Monster Hunter: World's Startup Blackout Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-detailed-analysis-of-mozillas-popup-functionality/"><u>In 2024, A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/master-updates-how-to-successfully-refresh-microsoft-mouse-driver-software-for-windows-operating-systems/"><u>Master Updates: How to Successfully Refresh Microsoft Mouse Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-use-of-fn-keys-resolving-common-issues-on-asus-laptops/"><u>Mastering the Use of FN Keys: Resolving Common Issues on ASUS Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-compatibility-problems-with-wd-my-passport-ultra-drive/"><u>Resolving Windows Compatibility Problems with WD My Passport Ultra Drive</u></a></li>
+<li><a href="https://facebook.techidaily.com/safe-sharing-strategy-social-media-tips-for-privacy-protection/"><u>Safe Sharing Strategy: Social Media Tips for Privacy Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-essential-msvcr71-component/"><u>Securing Essential MSVCR71 Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovo-wifi-drivers-not-found-error-with-easy-steps-and-tips/"><u>Solving Lenovo WiFi Drivers Not Found Error with Easy Steps and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-to-print-a-pdf-file-heres-how-to-resolve-it-swiftly/"><u>Struggling to Print a PDF File? Here's How to Resolve It Swiftly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-uninterrupted-fun-fixing-persistent-pc-issues-while-playing-slime-rancher-2/"><u>Unlock Uninterrupted Fun: Fixing Persistent PC Issues While Playing Slime Rancher 2</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
 

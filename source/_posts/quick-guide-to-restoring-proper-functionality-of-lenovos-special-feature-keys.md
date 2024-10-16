@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Restoring Proper Functionality of Lenovo's Special Feature Keys
-date: 2024-10-03T21:41:48.238Z
-updated: 2024-10-09T17:16:44.162Z
+date: 2024-10-10T05:58:58.874Z
+updated: 2024-10-16T03:48:50.820Z
 tags:
   - win11
   - win10
@@ -43,23 +43,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -82,10 +68,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -93,10 +79,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -104,6 +90,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,6 +115,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -150,16 +150,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,18 +199,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-securing-your-gaming-moments-with-windows-11/"><u>[New] 2024 Approved Securing Your Gaming Moments with Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-free-web-based-video-chatting-tools/"><u>[Updated] In 2024, Top 10 Free Web-Based Video Chatting Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blend-into-black-premiere-pro-trick/"><u>Blend Into Black Premiere Pro Trick</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-browser-cache-errors-correcting-errcachemiss-on-google-chrome/"><u>Dealing with Browser Cache Errors: Correcting ERR_CACHE_MISS on Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-resolved-for-windows-10-users/"><u>Desktop Icon Disappearance Issue Resolved for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-display-issues-now-with-miracast-support-after-driver-patch/"><u>Fix Your Display Issues - Now with Miracast Support After Driver Patch</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 12 mini Device from iCloud</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-blaze-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Blaze Pro 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-subtitle-uploads-social-media-edition-for-2024/"><u>Navigating the World of Subtitle Uploads Social Media Edition for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-guide-how-to-resolve-windows-7s-sluggish-startup-woes/"><u>Tech Guide: How to Resolve Windows 7'S Sluggish Startup Woes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-chapter-in-smartwatches-begins-discover-the-apple-watch-series-8s-projection-of-release-date-comprehensive-specifications-and-recent-developments.m9/"><u>The Next Chapter in Smartwatches Begins: Discover the Apple Watch Series 8’S Projection of Release Date, Comprehensive Specifications & Recent Developments</u></a></li>
-<li><a href="https://win-able.techidaily.com/watch-dogs-legion-stability-guide-eliminate-game-crashes-on-pc-with-these-fixes/"><u>Watch Dogs: Legion Stability Guide - Eliminate Game Crashes on PC with These Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-slow-it-down-iphone-mastery-over-time-lapse/"><u>[New] 2024 Approved Slow It Down IPhone Mastery over Time-Lapse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simple-solutions-for-capturing-playthroughs/"><u>[New] In 2024, Simple Solutions for Capturing Playthroughs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-windows-11-innovations/"><u>2024 Approved Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-pixel-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google Pixel 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-the-windows-update-error-code-0x80244022/"><u>Effective Solutions for Resolving the 'Windows Update Error Code 0X80244022'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80004005-explained-a-deep-dive-into-correcting-unspecified-problems-successfully/"><u>Error 0X80004005 Explained: A Deep Dive Into Correcting Unspecified Problems Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-broken-usb-ports-working-again-on-windows-11-systems/"><u>Expert Tips for Getting Broken USB Ports Working Again on Windows 11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-influence-of-luts-on-digital-imagery-quality-for-2024/"><u>Exploring the Influence of LUTs on Digital Imagery Quality for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-resolve-microsoft-print-to-pdf-failures-on-windows-10-and-11/"><u>Fixing the Issue: How to Resolve 'Microsoft Print to PDF' Failures on Windows 10 & 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>In 2024, Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y78plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y78+ FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/include-key-search-terms-ensure-that-high-value-keywords-eg-microsoft-compatibility-telemetry-high-disk-usage-are-prominent-in-your-title-to-improve-visibil51/"><u>Include Key Search Terms: Ensure that High-Value Keywords (E.g., Microsoft Compatibility Telemetry, High Disk Usage) Are Prominent in Your Title to Improve Visibility and Relevance for Those Searching on Related Topics.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-solution-for-logilda-dll/"><u>Instant Solution for LogiLDA DLL</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-win-11s-network-proxy-configuration/"><u>Learn Win 11'S Network Proxy Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-too-many-redirects-error-with-simple-fixes/"><u>Resolve Too Many Redirects Error with Simple Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-the-error-code-31-on-your-pc/"><u>Step-by-Step Solutions for Correcting the Error Code 31 on Your PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-smart-move-reasons-to-wait-before-upgrading-your-apple-watch/"><u>The Smart Move: Reasons to Wait Before Upgrading Your Apple Watch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformar-mxf-en-imagenes-animadas-gif-sin-gastos-usando-herramienta-online-de-movavi/"><u>Transformar MXF en Imágenes Animadas GIF Sin Gastos Usando Herramienta Online De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangle-video-troubles-overcome-error-code-224003-for-seamless-viewing/"><u>Untangle Video Troubles - Overcome Error Code 224003 for Seamless Viewing</u></a></li>
 </ul></div>
 

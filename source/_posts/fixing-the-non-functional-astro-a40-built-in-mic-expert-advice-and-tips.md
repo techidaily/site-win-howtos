@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Non-Functional Astro A40 Built-In Mic: Expert Advice & Tips"
-date: 2024-09-16T21:23:22.419Z
-updated: 2024-09-17T22:09:35.459Z
+date: 2024-10-13T06:38:01.292Z
+updated: 2024-10-15T16:27:43.220Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 **[Fix 3: Update your chipset/keyboard drivers](#fix3)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Modify BIOS settings
 
@@ -80,6 +87,13 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -96,6 +110,13 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
@@ -107,13 +128,6 @@ In another version of BIOS, the procedure may go like this:
  Now it’s time to check whether your function keys have gone back to normal. If not, proceed to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your chipset/keyboard drivers
 
@@ -137,23 +151,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
 
@@ -169,20 +169,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -210,6 +223,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -233,5 +253,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-advice-on-quick-and-clean-ppt-captures/"><u>[Updated] 2024 Approved Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-step-by-step-guide-to-crafting-twitreacts/"><u>2024 Approved Step-by-Step Guide to Crafting TwitReacts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-tips-repairing-common-issues-with-your-electronic-gadgets/"><u>DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-windows-11-setup-avoid-the-installation-couldnt-be-completed-mishap-code-80240020/"><u>Error-Free Windows 11 Setup: Avoid the 'Installation Couldn’t Be Completed' Mishap (Code 80240020)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-democratize-music-distribution-via-social-media/"><u>In 2024, Democratize Music Distribution via Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>In 2024, Top 8 Video Boosters Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-success-stories-leveraging-highlights-for-growth-for-2024/"><u>Instagram Success Stories Leveraging Highlights for Growth for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/professionals-palette-prowess-color-command-secrets-for-2024/"><u>Professionals' Palette Prowess - Color Command Secrets for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-resolve-jscriptdll-file-missing-issue/"><u>Solutions to Resolve 'JScript.dll File Missing' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-lost-sounds-in-netflix-videos/"><u>Step-by-Step Troubleshooting for Lost Sounds in Netflix Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functional-windows-11-start-menu/"><u>Troubleshooting Guide: How to Repair a Non-Functional Windows 11 Start Menu</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Restore Functionality of a Faulty Lenovo Keyboard
-date: 2024-10-03T18:43:56.989Z
-updated: 2024-10-09T22:44:36.434Z
+date: 2024-10-13T17:20:55.641Z
+updated: 2024-10-16T05:54:56.192Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
@@ -75,6 +75,13 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now Windows will detect the update for your controller automatically.
 
  For some reasons, Microsoft cannot find the update for you. In order not to missing the update, you can try**Driver Easy** .
@@ -90,33 +97,26 @@ With Pro version: Click **Update All**  to automatically download and install th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -139,24 +139,18 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-proposal-anthems-top-10-love-ballads-and-their-meanings/"><u>[New] 2024 Approved Proposal Anthems Top 10 Love Ballads and Their Meanings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts-for-2024/"><u>[Updated] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dive-into-zoom-meeting-basics-for-2024/"><u>[Updated] Dive Into Zoom Meeting Basics for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elite-nintendo-switch-fighters-showdown-max-156/"><u>[Updated] In 2024, Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording-for-2024/"><u>[Updated] Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehensive-tutorial-importing-and-integrating-recovered-edb-mailboxes-into-live-exchange-systems/"><u>Comprehensive Tutorial: Importing and Integrating Recovered EDB Mailboxes Into Live Exchange Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-an-unresponsive-alienware-command-center/"><u>Diagnosing and Repairing an Unresponsive Alienware Command Center</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-the-port-reset-failed-warning-for-your-usb-gadget-in-windows-10/"><u>Expert Advice: Correcting the 'Port Reset Failed' Warning for Your USB Gadget in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-infinite-load-ultimate-guide-to-overcoming-stuck-screens-in-valorant/"><u>Fixing the Infinite Load: Ultimate Guide to Overcoming Stuck Screens in Valorant</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 11 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-audio-device-installed-error-in-windows-operating-systems/"><u>How to Resolve No Audio Device Installed Error in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-and-mouse-woes-revitalize-a-broken-usb-mouse-with-these-proven-fix-techniques/"><u>Laptop and Mouse Woes? Revitalize a Broken USB Mouse with These Proven Fix Techniques!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-not-responding-heres-how-you-can-fix-it-on-any-window-os/"><u>Lenovo Mouse Pad Not Responding? Here's How You Can Fix It on Any Window OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-fast-flip-buttons/"><u>Mastering Windows 11'S Fast Flip Buttons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-device-recognition-issues-bluetooth-setup-fixed-in-windows-11/"><u>Overcoming Device Recognition Issues: Bluetooth Setup Fixed in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-steelseries-arctis-5-mic-expert-solutions-to-get-it-working-again/"><u>Revive Your SteelSeries Arctis 5 Mic: Expert Solutions to Get It Working Again!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-resolve-problems-when-trying-to-cast-devices/"><u>Windows 11: How to Resolve Problems When Trying to Cast Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-innovations-arena-top-titles-for-each-vr-headset/"><u>[New] Innovation's Arena Top Titles for Each VR Headset</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-tags-the-ultimate-guide-for-video-optimization/"><u>[Updated] 2024 Approved Mastering Tags The Ultimate Guide for Video Optimization</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-cinematic-clips-to-harmonic-mp3s-the-instagram-guide-for-2024/"><u>[Updated] From Cinematic Clips to Harmonic MP3s The Instagram Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovation-unveiled-5-cutting-edge-webcams-with-sound-tech-for-2024/"><u>[Updated] Innovation Unveiled 5 Cutting-Edge Webcams With Sound Tech for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cardiac-remodeling-involves-structural-changes-like-myocyte-hypertrophy-fibrosis-and-altered-extracellular-matrix-composition-that-can-exacerbate-heart-fail153/"><u>Cardiac Remodeling Involves Structural Changes Like Myocyte Hypertrophy, Fibrosis, and Altered Extracellular Matrix Composition that Can Exacerbate Heart Failure.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-broken-microphone-on-windows-10-systems/"><u>Effective Solutions for a Broken Microphone on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/increasing-video-visibility-with-engaging-youtube-images/"><u>Increasing Video Visibility with Engaging Youtube Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/inside-track-on-calculating-your-youtube-impact-and-income-for-2024/"><u>Inside Track on Calculating Your YouTube Impact and Income for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-of-a-computer-continuously-halted-at-startup-screens/"><u>Solved: Resolving the Issue of a Computer Continuously Halted at Startup Screens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-computer-woes-into-wins-with-ai-help/"><u>Transforming Computer Woes Into Wins with AI Help</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-what-to-do-when-your-pc-runs-slow-on-windows-10/"><u>Troubleshooting: What To Do When Your PC Runs Slow on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-frequent-re-booting-glitches-on-windows-10/"><u>Ultimate Guide to Overcoming Frequent Re-Booting Glitches on Windows 10</u></a></li>
 </ul></div>
 

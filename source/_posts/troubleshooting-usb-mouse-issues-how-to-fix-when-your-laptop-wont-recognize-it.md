@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting USB Mouse Issues: How to Fix When Your Laptop Won't Recognize It"
-date: 2024-10-03T17:13:34.298Z
-updated: 2024-10-09T16:04:50.443Z
+date: 2024-10-14T00:19:05.889Z
+updated: 2024-10-16T05:14:54.899Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
@@ -80,20 +73,27 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -105,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -126,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
@@ -140,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -195,6 +195,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -202,10 +209,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
@@ -217,10 +224,16 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Uncheck “Enable Windows Ink”
@@ -230,19 +243,6 @@ OR
  1) On your keyboard, press the**Windows logo key** and**S** at the same to invoke the search box. Then, type**notepad** and click the**Notepad** application.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
@@ -283,16 +283,19 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>[New] 2024 Approved Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-efficient-ways-to-download-and-store-youtube-like-tweet-videos/"><u>[Updated] Efficient Ways to Download and Store YouTube-Like Tweet Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-12-video-hourly-livestream-service/"><u>[Updated] Exclusive 12 Video Hourly Livestream Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-windows-11s-0x8072efd-issue/"><u>Effective Solutions for Resolving Windows 11'S 0X80#72EFD Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-wired-internet-issues-on-your-pc-running-windows-11-or-7/"><u>Expert Tips for Fixing Wired Internet Issues on Your PC Running Windows 11 or 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-10-iconic-movie-moments-to-inspire-your-edits/"><u>In 2024, 10 Iconic Movie Moments to Inspire Your Edits</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-blaze-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Blaze 2 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-probing-into-the-integration-of-real-and-digital-in-mixed-reality/"><u>In 2024, Probing Into the Integration of Real and Digital in Mixed Reality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-account-woes-fix-user-profile-service-hiccups-in-windows-11/"><u>Mastering Microsoft Account Woes: Fix User Profile Service Hiccups in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-resolving-windows-update-error-code-0x80070652/"><u>Simple Solutions for Resolving Windows Update Error Code 0X80070652</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-smooth-twitch-video-captures-for-2024/"><u>[New] Unlocking Smooth Twitch Video Captures for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-xsplit-vs-obs-which-is-better-for-live-streaming/"><u>[Updated] In 2024, Xsplit VS OBS Which Is Better for Live Streaming?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-compilation-ringtone-renaissance-sites/"><u>[Updated] Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028114902-mp4/"><u>大容量メディアを効率的にMP4形式へ:オンラインツールとオフライン方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-your-lenovo-mouse-pad-back-to-life-comprehensive-solutions-for-windows-10-8-and-7/"><u>Bringing Your Lenovo Mouse Pad Back to Life – Comprehensive Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-when-night-light-wont-turn-on-in-windows-1011-systems/"><u>Expert Fixes for When Night Light Won't Turn On in Windows 10/11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-ios-16-immediate-access-to-iphones-new-features-via-public-beta-insider-info-techguide/"><u>Get Ahead with iOS 16: Immediate Access to iPhone's New Features via Public Beta - Insider Info! | TechGuide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c210-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia C210 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-narzo-60-pro-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme Narzo 60 Pro 5G Easily?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-device-not-found-error-error-code-24-on-windows-1087/"><u>Resolving 'Device Not Found' Error (Error Code #24) on Windows 10/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-supported-hardware-devices-detected-error-for-a-smooth-windows-7-installation-experience/"><u>Resolving 'No Supported Hardware Devices Detected' Error for a Smooth Windows 7 Installation Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-steps-to-repair-windows-failed-to-boot-problem/"><u>Solving the Dilemma: Steps to Repair 'Windows Failed to Boot' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-connection-woes-fixing-unknown-device-issues-and-port-resets-on-windows-10-made-easy/"><u>USB Connection Woes? Fixing Unknown Device Issues & Port Resets on Windows 10 Made Easy</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100t? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing with Constant USB Connection Issues Effectively"
-date: 2024-09-15T19:09:00.665Z
-updated: 2024-09-17T23:33:53.120Z
+date: 2024-10-12T05:11:55.841Z
+updated: 2024-10-15T16:29:44.651Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
@@ -75,15 +82,36 @@ If that didn’t help, try the next fix below.
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
   
@@ -118,9 +146,23 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
 
@@ -132,29 +174,22 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
@@ -181,10 +216,10 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -204,5 +239,18 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-10-hidden-powers-of-photoshop-newbies/"><u>2024 Approved Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/baffled-by-sticky-keys-successfully-reinitialize-any-keyboard-in-no-time/"><u>Baffled by Sticky Keys? Successfully Reinitialize Any Keyboard in No Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-device-migration-issues-on-windows-10-a-step-by-step-guide/"><u>Bypassing Device Migration Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-the-disappearing-act-fix-your-windows-11-touchpad-cursor-issues/"><u>Eliminate the Disappearing Act: Fix Your Windows 11 Touchpad Cursor Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-safari-page-loading-problems-simple-steps-for-success/"><u>Fixing Safari Page Loading Problems - Simple Steps for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209101959-how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-effortless-media-transition-from-mp3-to-youtube-video-posting/"><u>In 2024, Effortless Media Transition From MP3 to YouTube Video Posting</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-the-latest-kindle-paperwhite-gen-7-for-book-lovers-on-the-move/"><u>In-Depth Review: The Latest Kindle Paperwhite (Gen 7) for Book Lovers on the Move</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3d9dll-file-missing-or-cannot-be-located-issue/"><u>Solving the d3d9.dll File Missing or Cannot Be Located Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/v-joshis-financial-acumen-in-the-world-of-youtube-earnings-for-2024/"><u>Sourav Joshi's Financial Acumen in the World of YouTube Earnings for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/turbocharge-your-drive-exploring-the-cutting-edge-car-code-readers-and-articles-released-so-far-in-los-angeles-rev/"><u>Turbocharge Your Drive: Exploring the Cutting Edge Car Code Readers and Articles Released So Far In Los Angeles (Rev.)</u></a></li>
+</ul></div>
 

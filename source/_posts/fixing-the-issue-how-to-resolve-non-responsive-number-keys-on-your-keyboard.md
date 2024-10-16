@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Non-Responsive Number Keys on Your Keyboard"
-date: 2024-10-08T16:32:38.710Z
-updated: 2024-10-09T19:37:41.541Z
+date: 2024-10-13T07:15:12.377Z
+updated: 2024-10-15T20:27:13.209Z
 tags:
   - win11
   - win10
@@ -50,19 +50,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -85,21 +72,35 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
 
@@ -110,27 +111,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -160,21 +148,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-perfect-your-social-media-presence-wirecast-streaming-tips/"><u>[New] In 2024, Perfect Your Social Media Presence Wirecast Streaming Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-supercharging-video-views-fbs-secrets-revealed/"><u>[Updated] Supercharging Video Views FB's Secrets Revealed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-solitary-producers-guide-to-viral-audio-success/"><u>2024 Approved The Solitary Producer's Guide to Viral Audio Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>2024 Approved The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-timing-your-podcast-release-effectively/"><u>2024 Approved Timing Your Podcast Release Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-dell-laptops-pitch-dark-monitor-heres-how-you-can-help-it-full-guide/"><u>Dealing with Dell Laptop's Pitch Dark Monitor? Here’s How You Can Help It (Full Guide)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-an-endless-loop-resolving-the-stuck-infinite-load-of-valorant/"><u>Fixing an Endless Loop: Resolving the Stuck Infinite Load of Valorant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-pre-hunt-darkness-a-guide-to-resolving-startup-blackouts-in-monster-hunter-world/"><u>Fixing Pre-Hunt Darkness: A Guide to Resolving Startup Blackouts in Monster Hunter: World</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone X Apple ID on MacBook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/optimized-with-advanced-tracker-technology-the-secret-behind-our-success/"><u>Optimized with Advanced Tracker Technology: The Secret Behind Our Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/precision-techniques-for-capturing-the-essence-of-moments-with-gopro/"><u>Precision Techniques for Capturing the Essence of Moments with GoPro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-non-functioning-fn-buttons-on-your-lenovo-laptop-or-desktop/"><u>Quick Fixes to Restore Non-Functioning FN Buttons on Your Lenovo Laptop or Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-methods-to-resolve-high-gpu-demand-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Methods to Resolve High GPU Demand by the Desktop Window Manager on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-razer-mechanical-keyboard/"><u>Troubleshooting Guide: Fixing a Non-Responsive Razer Mechanical Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-get-your-corsair-illuminated-keyboard-working-again/"><u>Troubleshooting Guide: How to Get Your Corsair Illuminated Keyboard Working Again</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-sync-your-views-iphones-looping-feature/"><u>[New] 2024 Approved Sync Your Views IPhone's Looping Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-youtubes-earning-potential-in-the-new-year/"><u>[New] In 2024, Unlocking YouTube's Earning Potential in the New Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-internet-trending-topics-for-video-creation/"><u>[New] Leveraging Internet Trending Topics for Video Creation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-video-response-rate-how-to-increase-it/"><u>[Updated] Instagram's Video Response Rate How to Increase It</u></a></li>
+<li><a href="https://fox-where.techidaily.com/come-installare-e-proteggere-un-server-di-avvio-pxe-con-windows/"><u>Come Installare E Proteggere Un Server Di Avvio PXE Con Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-insights-how-to-rectify-the-persistent-red-screen-problems-on-windows-pcs/"><u>Critical Insights: How To Rectify The Persistent Red Screen Problems On Windows PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhance-mobile-viewing-fb-videos-on-android/"><u>Enhance Mobile Viewing FB Videos on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-your-battle-royale-solutions-for-dealing-with-unsupported-gpus-in-fortnite-windows-edition/"><u>Enhance Your Battle Royale: Solutions for Dealing with Unsupported GPUs in Fortnite Windows Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/holistic-capture-vs-structured-visual-space/"><u>Holistic Capture vs Structured Visual Space</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-crashes-a-complete-guide-to-fixing-the-your-pc-did-not-shut-down-properly-problem/"><u>Overcoming System Crashes: A Complete Guide to Fixing the 'Your PC Did Not Shut Down Properly' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-intrusive-shutdown-episodes/"><u>Win11 Intrusive Shutdown Episodes</u></a></li>
 </ul></div>
 

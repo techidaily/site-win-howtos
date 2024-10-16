@@ -1,7 +1,7 @@
 ---
 title: "Decode Error 28 in Windows Device Manager: Diagnosis and Solutions Revealed"
-date: 2024-10-07T19:51:46.619Z
-updated: 2024-10-09T17:39:02.584Z
+date: 2024-10-14T01:36:21.913Z
+updated: 2024-10-16T04:44:17.790Z
 tags:
   - win11
   - win10
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -52,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
@@ -68,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -81,10 +94,10 @@ Follow these steps to reset your Winsock Catalog:
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **netsh winsock reset**
@@ -107,13 +120,6 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
@@ -131,10 +137,10 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
@@ -142,16 +148,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -164,15 +170,16 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
-4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
+4. Restart your computer to see if the error has gone.
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -198,21 +205,19 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-roblox-revealed-masterful-methods-for-closer-insight/"><u>[New] In 2024, Roblox Revealed Masterful Methods for Closer Insight</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eyword-kickstart-the-top-7-free-user-friendly-video-tag-extractors-analyzed/"><u>[New] Keyword Kickstart The Top 7 Free, User-Friendly Video Tag Extractors Analyzed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-utilization-of-unused-film-clips-tips-and-tricks/"><u>[Updated] Utilization of Unused Film Clips Tips and Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/av1-decoded-a-novices-introduction-for-2024/"><u>AV1 Decoded A Novice's Introduction for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-invalid-input-alerts-on-your-visual-interface-device/"><u>Dealing with Invalid Input Alerts on Your Visual Interface Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-prevent-and-resolve-csgo-system-crashes/"><u>Easy Steps to Prevent and Resolve CS:GO System Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-blackout-solutions-for-obs-recording-glitches-in-games/"><u>Fixing the Blackout - Solutions for OBS Recording Glitches in Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-astro-a40-microphone-issues-easy-troubleshooting-steps/"><u>Fixing Your Astro A40 Microphone Issues: Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>In 2024, Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-find-x7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Find X7 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/insider-tips-conquering-the-complete-darkness-screens-on-startup-of-mhw/"><u>Insider Tips: Conquering the Complete Darkness Screens on Startup of MHW</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208936142-pubg-game-update-all-structures-now-function-correctly-no-more-missing-buildings/"><u>PUBG Game Update: All Structures Now Function Correctly – No More Missing Buildings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-troubleshooting-frequent-usb-disconnections/"><u>Step-by-Step Tips for Troubleshooting Frequent USB Disconnections</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveiling-1-ranked-ios-apps-to-download-facebook-videos-and-gigs-for-2024/"><u>Unveiling #1 Ranked iOS Apps to Download Facebook Videos and Gigs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xbmc-media-center-all-in-one-home-entertainment/"><u>XBMC Media Center All-in-One Home Entertainment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-advice-for-efficiently-creating-srt-files/"><u>[Updated] 2024 Approved Expert Advice for Efficiently Creating SRT Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven/"><u>[Updated] In 2024, Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-transforming-your-dvd-into-xvid-format/"><u>Effortless Steps: Transforming Your DVD Into Xvid Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-converting-your-mp4-files-to-wmv-with-handbrake-step-by-step-tutorials/"><u>Effortlessly Converting Your MP4 Files to WMV with Handbrake - Step-by-Step Tutorials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-the-newly-resurrected-blamo-repo-on-kodi-leia-krypton-installation-guide/"><u>Experience the Newly Resurrected Blamo Repo on Kodi (Leia, Krypton) - Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-integrating-a-book-collection-into-your-plex-media-server/"><u>Guide: Successfully Integrating a Book Collection Into Your Plex Media Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-chop-your-footage-into-sections-using-shotcut-the-comprehensive-walkthrough/"><u>How to Effortlessly Chop Your Footage Into Sections Using Shotcut - The Comprehensive Walkthrough</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-toolwiz-app-unveiled-a-critical-examination-of-its-functionality/"><u>In 2024, Toolwiz App Unveiled A Critical Examination of Its Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/integrating-youtube-videos-into-your-powerpoint-presentations-a-step-by-step-guide/"><u>Integrating YouTube Videos Into Your PowerPoint Presentations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-best-text-to-audio-converters-of-all-times/"><u>New 2024 Approved The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/picking-a-phone-powerhouse-should-you-go-with-an-iphone-or-android-device/"><u>Picking a Phone Powerhouse: Should You Go with an iPhone or Android Device?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-aac-to-mp4-converter/"><u>무료 Online AAC to MP4 Converter - 모바일 용이한 자연스러운 전환 도구</u></a></li>
 </ul></div>
 

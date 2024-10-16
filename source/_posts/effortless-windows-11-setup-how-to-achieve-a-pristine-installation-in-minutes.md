@@ -1,7 +1,7 @@
 ---
 title: Effortless Windows 11 Setup - How to Achieve a Pristine Installation in Minutes
-date: 2024-09-11T03:16:09.402Z
-updated: 2024-09-17T19:25:32.075Z
+date: 2024-10-10T05:09:00.528Z
+updated: 2024-10-16T03:00:16.656Z
 tags:
   - win11
   - win10
@@ -97,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -111,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -124,16 +138,22 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -142,10 +162,10 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -165,6 +185,13 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -209,5 +236,22 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-streamlining-submission-a-podcasters-guide/"><u>[New] 2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-valheim-agriculture-seed-selection-insights/"><u>2024 Approved Mastering Valheim Agriculture Seed Selection Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/become-a-zoom-champion-in-minutes/"><u>Become a Zoom Champion in Minutes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cheap-vr-headsets-from-china-in-2024/"><u>Cheap VR Headsets From China, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-vision-effective-methods-to-resolve-iphone-image-blurriness/"><u>Clear Vision: Effective Methods to Resolve iPhone Image Blurriness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-11-and-7-ethernet-connectivity-issues/"><u>Diagnosing & Solving Windows 11 and 7 Ethernet Connectivity Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-0x80073cf9-ultimate-guide-to-resolve-store-issues-on-windows-11/"><u>Fixing Error 0X80073CF9: Ultimate Guide to Resolve Store Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-fatal-error-code-1603-and-complete-the-setup-successfully/"><u>How to Resolve 'Fatal Error Code 1603' And Complete the Setup Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205270636-immediate-fixes-for-when-your-dns-server-is-down-no-stress-required/"><u>Immediate Fixes for When Your DNS Server Is Down - No Stress Required</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-windows-maintenance-resolving-issues-in-windows-11-via-sfcdism/"><u>Master Windows Maintenance: Resolving Issues in Windows 11 via SFC/DISM</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/spectrum-mastery-in-depth-color-techniques/"><u>Spectrum Mastery In-Depth Color Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-sudden-failures-of-wireless-mouse-connectivity-in-windows-11-and-10-environments/"><u>Step-by-Step Fixes for Sudden Failures of Wireless Mouse Connectivity in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-conversational-ai-for-workflow-optimization/"><u>The Power of Conversational AI for Workflow Optimization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-users-say-goodbye-to-that-troublesome-sticking-keyboard-problem/"><u>Windows Users, Say Goodbye to That Troublesome Sticking Keyboard Problem!</u></a></li>
+</ul></div>
 

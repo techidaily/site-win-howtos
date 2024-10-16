@@ -1,7 +1,7 @@
 ---
 title: "Monitor Error Alert: Incompatible Data Entry Recognized"
-date: 2024-10-07T23:58:13.347Z
-updated: 2024-10-09T18:39:19.893Z
+date: 2024-10-11T23:21:07.497Z
+updated: 2024-10-15T22:23:32.834Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 5. [**Disable the USB selective suspend feature**](#m5)
 6. **[Adjust your system settings](#m6)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Connect your USB device directly to your computer
 
  If your USB device connected to your computer is misconfigured, the USB device not recognized error may keep popping up. The following simple steps could help you fix it:
@@ -57,16 +64,31 @@ Here’s how you can do it:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
-4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
-5. Click**Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
+5. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
  The troubleshooter would then be running automatically to detect and repair problems.
 
@@ -75,10 +97,10 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Uninstall and reinstall all your USB controller drivers
@@ -93,33 +115,12 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your USB device and motherboard chipset drivers
 
@@ -140,6 +141,13 @@ Restart your computer to see if the error disappears.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Disable the USB selective suspend feature
 
  The**USB selective suspend** feature helps conserve battery power which is useful in portable computers. But with it enabled, some problems sometimes might occur including your USB device not recognized problem. So disable the feature to try to solve your problem.
@@ -152,16 +160,31 @@ Restart your computer to see if the error disappears.
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
-6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
-7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
-**Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
+7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
 
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
@@ -188,16 +211,10 @@ See how to do it:
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
@@ -207,13 +224,6 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
@@ -241,22 +251,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-photographers-guide-mobile-for-high-angle-views/"><u>[New] In 2024, The Photographer's Guide Mobile for High-Angle Views</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks-for-2024/"><u>[New] Stay on Top The Essential Guide to FB's Latest Video Tracks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/all-properly-configured-but-device-remains-quiet/"><u>All Properly Configured, But Device Remains Quiet</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-unavailable-error-fix-for-windows-1187-understanding-and-solving-code-24/"><u>Device Unavailable Error Fix for Windows 11/8/7 - Understanding and Solving Code 24</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725287166144-dvd/"><u>DVDコピー作業中の異常発生に対する解決法：プログラミングエラー例外</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/emancipate-chatbots-on-windows-using-freedomgpt/"><u>Emancipate ChatBots on Windows: Using FreedomGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-x100-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X100 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-mouse-pad-connectivity-fix-lenovos-unresponsive-pad-on-windows-1187/"><u>Mastering Mouse Pad Connectivity: Fix Lenovo's Unresponsive Pad on Windows 11/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-shutdown-issues-a-comprehensive-guide/"><u>Resolving Windows 11 Shutdown Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-a-nonfunctional-corsair-hs50-headset-mic-how-to-restore-audio-quality/"><u>Step-by-Step Solutions for a Nonfunctional Corsair HS50 Headset Mic - How to Restore Audio Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-error-code-8007000e-in-windows-updates-effortlessly/"><u>Troubleshoot and Resolve Error Code: 8007000E in Windows Updates Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-microphone-on-windows-11-systems/"><u>Troubleshooting a Non-Functional Microphone on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-issue-of-steam-store-wont-load/"><u>Ultimate Guide: Solving the Issue of 'Steam Store Won't Load'</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/uncover-unique-user-understanding-for-2024/"><u>Uncover Unique User Understanding for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-simplified-approach-to-sound-wave-suppression-with-audacity/"><u>Updated 2024 Approved Simplified Approach to Sound Wave Suppression with Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/arning-insights-from-viewing-data-on-youtube/"><u>[New] Earning Insights From Viewing Data on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-live-broadcasts-obs-on-youtube-and-twitch/"><u>[New] Mastering Live Broadcasts OBS on YouTube and Twitch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-mac-audacitys-audio-recording-guide-for-2024/"><u>[New] Mastering Mac Audacity's Audio Recording Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-youtube-auditory-experience-for-viewers-for-2024/"><u>[New] Optimizing YouTube Auditory Experience for Viewers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-identifying-10-quick-growth-youtube-blogs-that-encourage/"><u>[Updated] 2024 Approved Identifying 10 Quick-Growth YouTube Blogs that Encourage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-negative-playback-on-your-instagram-feed/"><u>[Updated] 2024 Approved Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-stuck-windows-11-issues-expert-advice-on-keeping-your-system-responsive/"><u>Dealing with Stuck Windows 11 Issues: Expert Advice on Keeping Your System Responsive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-troubling-error-0x8024401c-in-updating-your-windows-operating-system/"><u>Effective Fixes for the Troubling Error 0X8024401c in Updating Your Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-safe-and-stable-connection-on-firefox-platform/"><u>How to Restore a Safe and Stable Connection on Firefox Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-geeky-gatherings-best-general-trivia-streams/"><u>In 2024, Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-90-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 90 Pro Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208340234-instant-fix-for-electronic-gadgets-when-they-cant-find-a-charge/"><u>Instant Fix for Electronic Gadgets - When They Can't Find a Charge</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-galaxy-a05-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Galaxy A05, is it possible?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-user-configuration-to-solve-driver-failed-errors/"><u>Step-by-Step Guide: Correcting User Configuration to Solve 'Driver Failed' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-bsod-with-vmware-on-win11/"><u>Strategies to Overcome BSOD with VMware on Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-solution-to-enable-digital-ink-and-gesture-recognition-again/"><u>The Solution to Enable Digital Ink & Gesture Recognition Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-an-issue-prevented-the-installation-of-features-or-an-update-on-your-windows-11-machine-solved/"><u>Troubleshooting 'An Issue Prevented the Installation of Features or an Update' On Your Windows 11 Machine [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-elevated-cpu-consumption-caused-by-msmpengexe-in-win-11-fixed/"><u>Troubleshooting Elevated CPU Consumption Caused by MsMpEng.exe in Win 11 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-problems-with-windows-11-updates/"><u>Troubleshooting Persistent Problems with Windows 11 Updates</u></a></li>
 </ul></div>
 

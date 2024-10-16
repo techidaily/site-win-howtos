@@ -1,7 +1,7 @@
 ---
 title: Resolving Device Casting Errors in Windows 11 Systems
-date: 2024-10-05T19:33:10.349Z
-updated: 2024-10-09T18:04:28.489Z
+date: 2024-10-14T01:18:17.430Z
+updated: 2024-10-16T06:05:02.468Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 2. **[Update your audio driver](#solution2)**  <Try this if Fix 1 didn’t work>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Modify the audio related services settings
@@ -49,30 +49,23 @@ To modify the audio related services settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc066cd8c7.jpg)
 4. Right-click **Windows Audio** , then select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0cf032c7.jpg)
 5. Set the Startup to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0ef2b45c.png)
 6. Restart these two services and set the Startup types to**Automatic** through the same method 4) & 5):  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Windows Audio Endpoint Builder**  
 **Multimedia Class Scheduler**
 7. Try to play a music or a video to see if the audio works.
 
  If it does, congratulations! But if it doesn’t, don’t be frustrated, go on to the second solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -88,14 +81,21 @@ To modify the audio related services settings:
 3. Click the **Activate & Update** button next to a flagged audio driver to automatically download and install the correct version of this driver. Or click   **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day free trial, providing access to premium features such as high-speed downloads and one-click installs without any charges until the trial period ends.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/de-update-all-realtek.jpg)
 4. Restart your computer and try to play a music or a video to see of the audio works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully you’ve fixed the problem. Feel free to comment below for any questions.
 
@@ -119,22 +119,16 @@ To modify the audio related services settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-creating-perfect-instagram-grids-top-10-vendors-ranked/"><u>[New] 2024 Approved Creating Perfect Instagram Grids Top 10 Vendors Ranked</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram/"><u>[Updated] 2024 Approved From Raw Footage to Social Stardom The Art of Video Cropping on Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-optimizing-tweets-a-guide-to-full-hd-video-experience/"><u>[Updated] In 2024, Optimizing Tweets A Guide to Full HD Video Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-the-hurdles-in-teredos-network-connection-process/"><u>Deciphering the Hurdles in Teredo's Network Connection Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208360473-get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-windows-10-boot-issue-the-ultimate-guide-to-restoring-functional-f8-key/"><u>How to Fix Windows 10 Boot Issue: The Ultimate Guide to Restoring Functional F8 Key</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-with-destiny-2-servers-when-theyre-down/"><u>How to Restore Connectivity with Destiny 2 Servers When They're Down</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-release-dates-for-podcast-episodes/"><u>In 2024, Best Release Dates for Podcast Episodes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-the-troublesome-windows-error-understanding-and-fixing-0x8000ffff/"><u>Overcoming the Hurdle of the Troublesome Windows Error: Understanding and Fixing 0X8000FFFF</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/playing-fortnite-without-support-workaround-for-older-graphic-cards-on-windows/"><u>Playing Fortnite Without Support: Workaround for Older Graphic Cards on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-building-errors-resolved-load-up-without-interruption/"><u>PUBG Building Errors Resolved: Load Up Without Interruption</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/red-screen-resolved-step-by-step-fix-for-common-software-glitches/"><u>Red Screen Resolved: Step-by-Step Fix for Common Software Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-a-persistent-laptop-displaying-only-a-white-screen/"><u>Resolved: How to Fix a Persistent Laptop Displaying Only a White Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-heart-of-iron-iv-common-errors-a-comprehensive-guide/"><u>Resolving Heart of Iron IV Common Errors: A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/taking-your-reels-up-a-notch-with-these-top-editors/"><u>Taking Your Reels Up a Notch with These Top Editors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-game-changer-a-review-of-playstation-4-pro-and-its-impact-on-4k-graphics-performance/"><u>The Game Changer: A Review of PlayStation 4 Pro and Its Impact on 4K Graphics Performance</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-obs-streams-to-facebook-success-for-2024/"><u>The Ultimate Guide OBS Streams to Facebook Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques-for-2024/"><u>[Updated] Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>2024 Approved Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-90-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 90 Pro?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-2023-samsung-bd-j5900-innovations-for-2024/"><u>Inside the 2023 Samsung BD-J5900 Innovations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-high-graphics-load-from-desktop-window-manager-on-windows-tips-for-win10-and-win11/"><u>Overcoming High Graphics Load From Desktop Window Manager on Windows: Tips for Win10 & Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-hearing-aid-features-into-airpods-pro-with-upcoming-ios-16-release-no-physical-device-changes/"><u>Seamless Integration of Hearing Aid Features Into AirPods Pro with Upcoming iOS 16 Release - No Physical Device Changes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-unresponsive-external-mouse-connectivity-with-this-guide/"><u>Troubleshoot and Repair Unresponsive External Mouse Connectivity with This Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-0x80072efd-error-on-windows-10/"><u>Troubleshooting Guide: Resolving the 0X80072EFD Error on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-fixing-unresponsive-touchpad-scroll-issues/"><u>Troubleshooting Windows 10: Fixing Unresponsive Touchpad Scroll Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-errconnectionrefused-errors-a-picture-perfect-guide/"><u>Understanding and Fixing ERR_CONNECTION_REFUSED Errors – A Picture-Perfect Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios/"><u>Unmasked Story Watching A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS]</u></a></li>
 </ul></div>
 

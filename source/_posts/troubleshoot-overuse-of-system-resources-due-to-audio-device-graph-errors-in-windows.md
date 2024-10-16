@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Overuse of System Resources Due to Audio Device Graph Errors in Windows
-date: 2024-09-11T22:09:23.806Z
-updated: 2024-09-17T19:12:25.133Z
+date: 2024-10-15T06:30:00.683Z
+updated: 2024-10-15T17:47:45.156Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
  When the battery is emptied, your mouse will randomly stop moving. Therefore, you have to check the power of the mouse. For battery-powered wireless mouse, you can just replace the batteries and check if it works. Or if you use a rechargeable wireless mouse, charge it and check if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check if the wireless mouse is damaged
 
  As time goes, your wireless mouse is consumed. As a result, it may be damaged. Especially, a cheap mouse may have a shorter service time. When your mouse doesn’t work, you can check if your mouse has been damaged. You can connect your mouse to another PC and see if the mouse works. Once it doesn’t work, just replace it with a new one.
@@ -78,17 +85,24 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. Click**Devices** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-18-58.jpg)
 3. Click**Bluetooth & other devices** on the left panel and then select**Add Bluetooth or other device** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-25-05.jpg)
 4. Click**Bluetooth** on the dialog box below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-39-48.jpg)
 5. You have to wait for the mouse to appear in the list and then follow the on-screen instructions to pair the device.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update your wireless mouse driver
 
@@ -104,23 +118,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 3. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-52-26.jpg)
 
  After updating your device drivers, see if your mouse problem has been solved. If not, move to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable the Realtek HD Audio Manager
 
@@ -130,20 +137,28 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. The window below will popup. Click the**Device Manager** on the right panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-32-07.jpg)
 3. Double-click the**Sound, video and game controllers** to view the devices in the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-34-07.jpg)  
  Right-click**Realtek High Definition Audio** and then select**Disable device.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-38-50.jpg)
 4. Click**Yes** in the dialog box that pops up.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-05-01.jpg)
 5. After disabling**Realtek High Definition Audio,** you can check if your mouse works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Disable disappearing cursor feature
 
@@ -154,6 +169,14 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. The window below will pop up. Click**Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-42-08.jpg)
 3. Click**Mouse** below the**Devices and Printers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-44-09.jpg)
 4. The**Mouse Properties** dialog box will open. Click the**Pointer Options** tab on the upper side of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-46-17.jpg)
@@ -170,15 +193,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. Right-click**Command Prompt** and then select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-57-46.jpg)
 3. In the black window that pops up, type**sfc/scannow** (you can just copy and paste it) and then press**Enter** . It will take some time to scan system files. For corrupted system files, it will repair them.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-23_19-16-39-1.jpg)
-4. After that, you can see if your mouse works.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-23_19-16-39-1.jpg)
+4. After that, you can see if your mouse works.
 
 ### Method 7: Fix unknown hard errors
 
@@ -193,6 +217,13 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-38-35-2.jpg)
 5. Press**Y** on your keyboard. As is described in the figure below, Disk check will start the next time when you boot your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-41-31-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It might take some time to check the hard disk. If you don’t have time to wait for the disk check to complete in your next reboot, you can skip it and reschedule it again.
 
@@ -211,5 +242,19 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bypassing-barriers-to-download-c-span-documentaries/"><u>[New] Bypassing Barriers to Download C-Span Documentaries</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram/"><u>[New] Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-camera-control-tips-for-unshakable-images/"><u>[Updated] 2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-snapchat-flip-your-videos-backwards/"><u>[Updated] 2024 Approved Mastering Snapchat Flip Your Videos Backwards</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-offline-voice-processor/"><u>[Updated] Ultimate Offline Voice Processor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>2024 Approved The Virtual Quest A Jaunt VR Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-brand-with-essential-marketing-terminology/"><u>Elevate Your Brand with Essential Marketing Terminology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-the-missing-device-error-code-dbel-junfrt-in-microsofts-latest-operating-systems/"><u>How To Address the Missing Device Error (Code ˈdʌbəl-Juːnˈfɔːrt) In Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-light-on-non-responsive-razer-keyboard-keys/"><u>How to Restore Light on Non-Responsive Razer Keyboard Keys</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976757362-how-to-update-your-msi-b350-toms-hardware-graphics-card-on-windows-117-driver-downloads-inside/"><u>How to Update Your MSI B350 TOM'S Hardware Graphics Card on Windows 11/7 - Driver Downloads Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-battleye-installation-woes-now-fixed/"><u>Troubleshooting Your BattlEye Installation Woes - Now Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-dvd-player-errors-solved-how-to-fix-non-functioning-media/"><u>Windows DVD Player Errors Solved – How to Fix Non-Functioning Media</u></a></li>
+</ul></div>
 

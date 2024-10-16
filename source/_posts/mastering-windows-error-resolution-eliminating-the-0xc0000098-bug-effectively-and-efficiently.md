@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Error Resolution: Eliminating the 0xC0000098 Bug Effectively and Efficiently"
-date: 2024-10-04T19:37:01.432Z
-updated: 2024-10-09T16:11:44.424Z
+date: 2024-10-09T18:07:17.884Z
+updated: 2024-10-15T16:50:42.412Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
  1) Go to **[Windows 10 download](https://www.microsoft.com/en-us/software-download/windows10)**  page. (Or **[Windows 11](https://www.microsoft.com/software-download/windows11) ,** [Windows 8](https://www.microsoft.com/en-us/software-download/windows8ISO) ,[**Windows 7**](https://www.microsoft.com/en-us/software-download/windows7) )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
 
@@ -126,19 +140,6 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
@@ -161,6 +162,13 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -174,10 +182,16 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 2) Wait for the scan to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Use a Windows Fortect Tool
@@ -189,6 +203,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  2) Open Fortect and it might take 3\~5 minutes to analyze your PC. Sit back and grab a cup of coffee. Once complete, you will be able to review the detailed scan report for free.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
@@ -225,10 +246,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type**Check for updates** in the Search box and press**Enter** .
@@ -236,19 +257,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -272,23 +280,9 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -314,22 +308,24 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-advanced-techniques-for-effective-mobile-screen-capturing-with-mobizen/"><u>[New] 2024 Approved Advanced Techniques for Effective Mobile Screen Capturing with Mobizen</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[New] In 2024, Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>[New] In 2024, Pathway to YouTube Partnerships Simplifying the Process for Small Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlock-flawless-facetime-call-recordings-a-complete-walkthrough/"><u>[New] In 2024, Unlock Flawless FaceTime Call Recordings A Complete Walkthrough</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-creating-music-from-videos-instagrams-secret-sauce/"><u>[Updated] In 2024, Creating Music From Videos Instagram's Secret Sauce</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-inversion-step-by-step-strategy/"><u>[Updated] Instagram Video Inversion Step-by-Step Strategy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrective-steps-for-desktop-is-unreachable-under-cwindowssystem32configsystemprofile/"><u>Corrective Steps for 'Desktop Is Unreachable' Under C: Windows System32 Config SystemProfile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-repair-handling-a-missing-bootmgr-error-smoothly-comprehensive-guide-with-images/"><u>DIY Repair: Handling a 'Missing Bootmgr' Error Smoothly - Comprehensive Guide With Images</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/"><u>Effective Solutions for Repairing Unresponsive Functional Keys on Lenovo Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-unresponsive-usb-devices-and-descriptor-request-issues-resolved/"><u>Expert Tips for Repairing Unresponsive USB Devices and Descriptor Request Issues [Resolved]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-smart-7-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Smart 7 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/mastering-mkv-to-mp3-conversion-discover-the-best-8-techniques-for-flawless-results/"><u>Mastering MKV to MP3 Conversion: Discover the Best 8 Techniques for Flawless Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-1class-not-registered-hurdle-tips-and-tricks-successfully-implemented/"><u>Overcoming Windows 1#Class Not Registered Hurdle: Tips and Tricks Successfully Implemented</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/remedy-for-erroneous-character-input-on-keyboards/"><u>Remedy for Erroneous Character Input on Keyboards</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/setting-up-email-sync-from-gmail-on-your-apple-watch-a-detailed-walkthrough/"><u>Setting up Email Sync From Gmail on Your Apple Watch - A Detailed Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-the-windows-11-update-error-code-0x800f0922/"><u>Top 8 Solutions to Overcome the Windows 11 Update Error CODE 0X800F0922</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-update-glitch-beat-error-8007000e-now-with-simple-fixes/"><u>Windows Update Glitch? Beat Error 8007000E Now with Simple Fixes!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-to-transform-lengthy-videos-into-engaging-segmented-content-for-2024/"><u>[New] Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leverage-your-xbox-gameplay-for-virtual-engagement-on-fb/"><u>[Updated] 2024 Approved Leverage Your Xbox Gameplay for Virtual Engagement on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-top-10-live-streaming-choices/"><u>2024 Approved Navigating the Top 10 Live Streaming Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-exclusive-chat-with-apple-staff-the-remarkable-reasons-to-embrace-the-vision-pro-featured-by-zdnet/"><u>An Exclusive Chat with Apple Staff: The Remarkable Reasons to Embrace the Vision Pro, Featured by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902009558-breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypass-and-correct-gsdll32dll-error-steps-to-restore-missing-system-files/"><u>Bypass and Correct Gsdll32.dll Error: Steps to Restore Missing System Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-advanced-gadgets-and-pc-parts-trustworthy-insights-from-toms-domain/"><u>Discover Advanced Gadgets & PC Parts: Trustworthy Insights From Tom's Domain</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solution-for-the-failed-to-create-d3d-device-error-on-pc-systems/"><u>Effective Solution for the 'Failed to Create D3D Device' Error on PC Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208810066-eradicate-your-valorant-screen-shake-or-tear-problem-now/"><u>Eradicate Your Valorant Screen Shake or Tear Problem Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-keyboard-glitch-how-to-restore-spacebar-functionality-in-windows-11/"><u>Fixing the Keyboard Glitch: How to Restore Spacebar Functionality in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-zero-to-hero-launching-without-issues/"><u>From Zero to Hero: Launching without Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-adding-richness-youtube-videos-in-slideshows/"><u>In 2024, Adding Richness YouTube Videos in Slideshows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-quick-steps-for-effective-double-take-filming/"><u>In 2024, Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/searching-for-windows-hello-camera-fit/"><u>Searching for Windows Hello Camera Fit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silencing-netflixs-noise-issues-simple-steps-to-perfect-playback/"><u>Silencing Netflix's Noise Issues: Simple Steps to Perfect Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-inconsistent-copy-and-paste-on-windows-10/"><u>Tackling Inconsistent Copy & Paste on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-windows-10s-persistent-error-0xc1900208-during-updates-effective-solutions-unveiled/"><u>Tackling Windows 10'S Persistent Error 0Xc1900208 During Updates – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-undetected-wi-fi-on-your-windows-11-device/"><u>Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device</u></a></li>
 </ul></div>
 

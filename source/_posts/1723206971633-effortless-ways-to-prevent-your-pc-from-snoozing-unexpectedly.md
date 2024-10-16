@@ -1,7 +1,7 @@
 ---
 title: Effortless Ways to Prevent Your PC From Snoozing Unexpectedly
-date: 2024-10-08T16:56:53.448Z
-updated: 2024-10-09T20:09:42.892Z
+date: 2024-10-13T07:15:18.755Z
+updated: 2024-10-15T16:18:58.821Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -85,15 +92,16 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -129,36 +137,23 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 3. In the right pane, double-click on**Attributes** to modify it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -171,10 +166,16 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 3. Click the **Change plan settings** under your selected power plan.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
@@ -182,10 +183,10 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 4. Click on**Change advanced power settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
@@ -215,19 +216,21 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pajama-plots-reviewed-analyzing-childrens-video-stories-for-2024/"><u>[New] Pajama Plots Reviewed Analyzing Children's Video Stories for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-smart-shoppers-guide-to-top-gaming-mice-and-keyboards/"><u>[New] Smart Shoppers' Guide to Top Gaming Mice & Keyboards</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-what-makes-a-youtube-short-go-viral/"><u>[Updated] What Makes a YouTube Short Go Viral?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/better-graphics-just-install-gtx-1050-ti-drivers/"><u>Better Graphics, Just Install GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-windows-nines-notorious-0x80073712-problem/"><u>Comprehensive Solutions to Fix Windows Nine's Notorious '0X80073712' Problem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone SE (2020)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi K70</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-minecrafts-opengl-errors-essential-techniques/"><u>Mastering the Fix for Minecraft's OpenGL Errors: Essential Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-wireless-connections-turn-on-bluetooth-on-windows-11-or-10-easily/"><u>Mastering Wireless Connections: Turn On Bluetooth on Windows 11 or 10 Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-runtime-brokers-overuse-of-resources-on-windows-10-solved/"><u>Troubleshooting Runtime Broker's Overuse of Resources on Windows 10 - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-users-rejoice-solve-your-bluetooth-mouse-malfunction-dilemma-today/"><u>Windows Users Rejoice: Solve Your Bluetooth Mouse Malfunction Dilemma Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-essential-websites-how-to-get-the-right-youtube-ringtones/"><u>[New] Essential Websites How to Get the Right YouTube Ringtones?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortlessly-engage-with-an-array-of-available-youtube-content-for-2024/"><u>[Updated] Effortlessly Engage with an Array of Available YouTube Content for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-sync-vimeo-videos-with-powerpoint-a-step-by-step-approach/"><u>[Updated] Sync Vimeo Videos with PowerPoint A Step-by-Step Approach</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-jokes-jamboree-mastering-memelore-made-simple/"><u>2024 Approved Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-past-a-frozen-100-windows-update-solutions-explored/"><u>Breeze Past a Frozen 100% Windows Update - Solutions Explored</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-pouvez-vous-restaurer-les-fichiers-dun-hdd-defectueux-et-incomprehensible/"><u>Comment Pouvez-Vous Restaurer Les Fichiers D’un HDD Défectueux Et Incompréhensible ?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dazzling-hardware-transformations-unveiled-at-the-2024-computex-event/"><u>Dazzling Hardware Transformations Unveiled at the 2024 Computex Event</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/designing-custom-youtube-music-sequences/"><u>Designing Custom YouTube Music Sequences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-strategies-to-resolve-chatgpts-body-stream-glitches/"><u>Five Strategies to Resolve ChatGPT's Body Stream Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-constant-usb-connectivity-troubleshooting-guide/"><u>How to Ensure Constant USB Connectivity: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-unavailable-problems/"><u>How to Resolve C: Windows system32 config systemprofile Desktop Unavailable Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fade-out-in-audacity/"><u>In 2024, How to Fade Out in Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-and-fixing-opengl-errors-for-a-smooth-minecraft-experience/"><u>Navigating and Fixing OpenGL Errors for a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-updater-error-code-0x80070490-explained-and-fixed/"><u>Resolving Windows Updater Error: Code 0X80070490 Explained and Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-network-connection-via-ethernet-in-windows-11-and-7-systems/"><u>Step-by-Step Instructions to Restore Network Connection via Ethernet in Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-update-issue-decode-and-solve-error-0x80070n1f/"><u>Ultimate Solution for Windows Update Issue - Decode and Solve Error 0X80070n1f</u></a></li>
 </ul></div>
 

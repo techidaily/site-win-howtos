@@ -1,7 +1,7 @@
 ---
 title: "Achieving Admin Access for Critical Operations in Windows 11, 1N & 7: A Comprehensive Guide"
-date: 2024-09-15T17:19:42.274Z
-updated: 2024-09-17T19:46:53.390Z
+date: 2024-10-14T07:00:24.870Z
+updated: 2024-10-16T03:49:59.445Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -117,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -124,22 +145,29 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -166,13 +194,6 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -209,5 +230,24 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-achieve-creative-vibrancy-with-picshots-assistance/"><u>[New] Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-from-capturing-to-sharing-mastery-of-aiseesoft-recorder-features/"><u>[New] From Capturing to Sharing Mastery of Aiseesoft Recorder Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-turn-out-clearer-snaps-ranking-the-most-effective-online-editors-for-2024/"><u>[New] Turn Out Clearer Snaps Ranking the Most Effective Online Editors for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-unreadable-text-in-windows-n-quick-troubleshooting-tips/"><u>Clearing Up Unreadable Text in Windows N - Quick Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easily-gain-access-to-trustedinstaller-protected-files-in-windows-11/"><u>Easily Gain Access to TrustedInstaller-Protected Files in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016942295-eradicate-your-bluetooth-audio-buffering-issues-instantly-and-effortlessly/"><u>Eradicate Your Bluetooth Audio Buffering Issues Instantly & Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-solutions/"><u>How to Fix Speaker Distortion on Windows 11 and 7 - Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-c33-2023-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme C33 2023 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-note-50-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme Note 50 for Free? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/intro-ideas-free-download-options/"><u>Intro Ideas Free Download Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-ai-now-possible-with-chatgpts-latest-update-build-unique-gpt-models-easily/"><u>Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-the-connection-effective-methods-to-rectify-a-non-functional-usb-port-on-an-hp-laptop/"><u>Revive the Connection: Effective Methods to Rectify a Non-Functional USB Port on an HP Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-implemented-correcting-uncooperative-keyboard-inputs/"><u>Solution Implemented: Correcting Uncooperative Keyboard Inputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-typing-troubles-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Troubles: Fix Unresponsive Letter Keys in Windows 10 and 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-of-your-unresponsive-corsair-keyboard-easily/"><u>Solving the Dilemma of Your Unresponsive Corsair Keyboard Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-installation-problems-with-audio-devices-on-windows-11/"><u>Step-by-Step Guide: Correcting Installation Problems with Audio Devices on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-preventing-photos-access-in-windows-11/"><u>Troubleshooting Invalid Registry Values Preventing Photos Access in Windows 11</u></a></li>
+</ul></div>
 

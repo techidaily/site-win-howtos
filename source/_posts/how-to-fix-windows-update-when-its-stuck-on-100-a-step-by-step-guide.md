@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Update When It's Stuck on 100%% – A Step-by-Step Guide
-date: 2024-10-04T18:01:00.552Z
-updated: 2024-10-09T19:23:34.426Z
+date: 2024-10-13T03:47:25.395Z
+updated: 2024-10-16T02:47:14.427Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Check the Date and Time settings**
 
  This may sound unbelievable as a solution to fix 0x80070002 error code, but it does work for many Windows users. One of the major causes of the error is the incorrect time/date settings, so it’s necessary to make sure that your computer’s time synchronizes with the Internet time server.
@@ -62,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
@@ -80,6 +87,19 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -101,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Modify the Windows Update installation files**
 
  Sometimes the error 0x80070002 occurs because the system update process fails, and the Windows Update installation files are corrupted or missing. So you can try to delete the installation files or rename the installation folder to solve the problem.
@@ -121,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  2) Type**services.msc** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
@@ -144,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -174,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Try Windows Update Troubleshooter**
 
  The Windows Update Troubleshooter is always a method to consider when you have any problems running Windows Update.
@@ -181,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -198,13 +197,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -218,30 +210,51 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and try again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -260,13 +273,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
@@ -297,24 +303,21 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-from-backstage-to-center-stage-mastering-twitter-livestreaming-for-2024/"><u>[New] From Backstage to Center Stage Mastering Twitter Livestreaming for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/conic-youtube-recognition-click-counter-awards/"><u>[New] Iconic YouTube Recognition - Click Counter Awards</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2023dvd/"><u>2023年の斬新なソリューション：DVD保護システムを破るための最強ツール一覧</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-k70-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi K70 is off? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-boosting-world-of-warcraft-speed-and-reducing-lag/"><u>Comprehensive Guide: Boosting World of Warcraft Speed & Reducing Lag</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eradicating-scam-alerts-solutions-for-google-chromes-fake-critical-error/"><u>Eradicating Scam Alerts: Solutions for Google Chrome's Fake Critical Error</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-to-moving-videos-effortlessly-from-ios-to-android-galaxy-smartphones/"><u>Guide to Moving Videos Effortlessly From iOS to Android Galaxy Smartphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-start-your-pc-addressing-windows-7-boot-latency-issues/"><u>How to Quickly Start Your PC: Addressing Windows 7 Boot Latency Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-wacom-stylus-when-it-fails-to-work-on-windows-11-or-windows-10-systems/"><u>How to Repair Your Wacom Stylus When It Fails to Work on Windows 11 or Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-casting-functionality-on-windows-10-a-step-by-step-solution/"><u>How to Restore Casting Functionality on Windows 10 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-youtube-thumbnail-process/"><u>In 2024, Streamline Your YouTube Thumbnail Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-overcoming-slow-shutdown-woes-in-windows-11-systems/"><u>Troubleshooting and Overcoming Slow Shutdown Woes in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-the-failed-device-descriptor-request-on-usbs-guide/"><u>Troubleshooting Tips for the Failed Device Descriptor Request on USBs [Guide]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-issues-using-sfcdism-tools-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Issues Using SFC/DISM Tools – A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/ultimate-9-hidden-media-extractors/"><u>Ultimate 9 Hidden Media Extractors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-constant-usb-device-unrecognized-message/"><u>Understanding and Repairing the Constant 'USB Device Unrecognized' Message</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerful-duo-in-depth-review-of-mobvois-ticwatch-pro-3-with-extended-battery-via-dual-screens-and-reliable-gps/"><u>Unveiling the Powerful Duo: In-Depth Review of Mobvoi's TicWatch Pro 3 with Extended Battery via Dual Screens and Reliable GPS</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-lenovo-thinkphone-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lenovo ThinkPhone Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-visual-harmony-with-bokeh-techniques-in-storytelling/"><u>[New] 2024 Approved Crafting Visual Harmony with Bokeh Techniques in Storytelling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>[Updated] 2024 Approved Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-top-10-live-streamers-android-and-iphone-edition/"><u>[Updated] Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[Updated] Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-comprehensive-list-of-excellent-fb-cover-photo-creators/"><u>2024 Approved A Comprehensive List of Excellent FB Cover Photo Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-adding-modifying-and-deleting-page-breaks-in-excel/"><u>A Comprehensive Guide: Adding, Modifying, and Deleting Page Breaks in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-productivity-in-excel-with-its-revolutionary-time-saving-feature/"><u>Boost Productivity in Excel with Its Revolutionary Time-Saving Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/calculating-cagr-with-ease-using-microsoft-excel-tips-and-tricks-for-accurate-results/"><u>Calculating CAGR with Ease Using Microsoft Excel: Tips and Tricks for Accurate Results</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-sound-card-drivers-with-simple-steps/"><u>Download & Update Sound Card Drivers with Simple Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-resolving-access-is-denied-a-comprehveiw-of-usb-installation-issues/"><u>Effective Solutions for Resolving 'Access Is Denied': A Comprehveiw of USB Installation Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a24-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/msfs-2020-pc-stability-problems-expert-fixes-for-persistent-crashes/"><u>MSFS 2020 PC Stability Problems: Expert Fixes for Persistent Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-tutorial-on-splitting-your-excel-window-for-enhanced-productivity/"><u>The Ultimate Tutorial on Splitting Your Excel Window for Enhanced Productivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-mastering-cell-splitting-techniques-in-microsoft-excel/"><u>Ultimate Guide: Mastering Cell Splitting Techniques in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-hidden-potential-of-mail-merge-discover-4-essential-applications/"><u>Unlocking the Hidden Potential of Mail Merge: Discover 4 Essential Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/utilizing-excels-embedded-stock-market-tool-for-efficient-data-analysis/"><u>Utilizing Excel's Embedded Stock Market Tool for Efficient Data Analysis</u></a></li>
 </ul></div>
 

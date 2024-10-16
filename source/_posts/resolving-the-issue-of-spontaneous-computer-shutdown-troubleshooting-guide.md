@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Spontaneous Computer Shutdown - Troubleshooting Guide
-date: 2024-09-17T00:14:13.997Z
-updated: 2024-09-17T20:26:47.021Z
+date: 2024-10-08T20:32:20.395Z
+updated: 2024-10-15T16:10:44.950Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -66,17 +73,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -87,14 +95,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 5. Click**Restart** .
@@ -116,10 +132,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -143,5 +159,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>[New] A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-roadmap-for-optimizing-and-tracking-your-fb-in-stream-ad-performance-for-2024/"><u>[Updated] A Roadmap for Optimizing and Tracking Your FB In-Stream Ad Performance for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>[Updated] In 2024, Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/complete-how-to-on-securely-creating-an-effective-backup-for-your-windows-11-23h2-operating-system-methods-and-alternatives-explained/"><u>Complete How-To on Securely Creating an Effective Backup for Your Windows 11 23H2 Operating System: Methods and Alternatives Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-intermittent-screen-glitches-in-microsofts-latest-os/"><u>Diagnosing and Fixing Intermittent Screen Glitches in Microsoft's Latest OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-overcoming-the-troublesome-windows-11-update-error-0x8024401c/"><u>Error Free: Overcoming the Troublesome Windows 11 Update Error 0X8024401c</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-overcome-system-program-not-initialized-problem-on-pc-error-0xc0000098/"><u>Expert Strategies to Overcome System Program Not Initialized Problem on PC (Error 0Xc0000098)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-how-to-fix-opengl-glitches-in-minecraft-gameplay/"><u>Expert Tips on How to Fix OpenGl Glitches in Minecraft Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-stagnant-99-in-windows-10-update-progress/"><u>Fixing the Stagnant 99% in Windows 10 Update Progress</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jubilant-join-and-leave-steps/"><u>In 2024, Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-how-to-fix-an-overwatch-error-on-your-rendering-tool/"><u>Overcoming the Obstacle: How to Fix an Overwatch Error on Your Rendering Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-restoring-lenovos-function-keys-performance/"><u>Quick Solutions for Restoring Lenovo's Function Keys Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review/"><u>Tom's Tech Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-restoring-visible-bluetooth-options-on-pcs-device-manager/"><u>Troubleshooting: Restoring Visible Bluetooth Options on PC's Device Manager</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-of-the-full-specs-anticipate-the-google-pixel-7s-grand-release-in-october/"><u>Unveiling of the Full Specs: Anticipate the Google Pixel 7'S Grand Release in October</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12t-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12T Pro Phone Network-Ready</u></a></li>
+</ul></div>
 

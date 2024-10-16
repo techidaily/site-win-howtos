@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows PC Issues: How Outdated Graphics Drivers Cause Minecraft Crashes"
-date: 2024-09-13T03:23:34.764Z
-updated: 2024-09-17T19:04:20.502Z
+date: 2024-10-14T01:29:26.145Z
+updated: 2024-10-16T00:46:53.010Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -62,14 +69,44 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -83,13 +120,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -97,13 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -114,13 +137,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -143,5 +159,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-5-tools-for-enhancing-web-videos/"><u>[New] In 2024, Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-best-for-broadcasting-obs-vs-twitch-studio/"><u>[Updated] In 2024, The Best for Broadcasting? OBS vs Twitch Studio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-10-essential-tools-for-pro-ig-video-editors/"><u>[Updated] Top 10 Essential Tools for Pro IG Video Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-20-free-open-source-pubg-galleries/"><u>2024 Approved Leading 20 Free, Open Source PUBG Galleries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavits-mp3/"><u>在線無限制地格式自由化：使用Movavi，任何時間將TS播放成 MP3</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-amazonbasics-flat-tv-antenna-analysis-unlocking-free-television/"><u>Budget-Friendly AmazonBasics Flat TV Antenna Analysis: Unlocking Free Television</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-svchostexe-netsvcs-how-to-address-network-resource-drain-and-improve-system-performance/"><u>Decoding svchost.exe (Netsvcs): How to Address Network Resource Drain and Improve System Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hassle-free-methods-to-get-past-a-paused-0-windows-update-problem/"><u>Hassle-Free Methods to Get Past a Paused 0% Windows Update Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-vanishing-mouse-pointer-in-windows-10/"><u>How to Fix the Vanishing Mouse Pointer in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-correct-error-code-0x80240017-in-your-windows-updates/"><u>How to Successfully Correct Error Code 0X80240017 in Your Windows Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harnessing-new-filters-on-instagram-a-modern-take-2023-techniques/"><u>In 2024, Harnessing New Filters on Instagram A Modern Take (2023 Techniques)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-access-denied-why-you-can-now-enter/"><u>Resolved: Access Denied – Why You Can Now Enter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-permanent-lag-on-valorants-launch-screen-steps-for-a-smooth-start/"><u>Solved! Permanent Lag on Valorant's Launch Screen: Steps for a Smooth Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-lenovo-biometric-sensor-functionality/"><u>Step-by-Step Guide: Restoring Lenovo Biometric Sensor Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-resolution-guide-correcting-change-rendering-api-mistake-in-dota-2-error-202/"><u>Swift Resolution Guide: Correcting 'Change Rendering API' Mistake in Dota 2 (Error 202)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-portable-solar-energy-aaeusy-inverter-review-ensuring-stability-for-medical-equipment-use/"><u>Unveiling the Power of Portable Solar Energy: Aaeusy Inverter Review Ensuring Stability for Medical Equipment Use</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-earning-beats-for-your-ears-the-art-of-accessing-free-audio-music-legally/"><u>Updated 2024 Approved Earning Beats for Your Ears The Art of Accessing FREE Audio Music Legally</u></a></li>
+</ul></div>
 

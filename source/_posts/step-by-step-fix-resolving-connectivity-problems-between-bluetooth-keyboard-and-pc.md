@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fix: Resolving Connectivity Problems Between Bluetooth Keyboard & PC"
-date: 2024-10-05T18:47:51.909Z
-updated: 2024-10-09T19:09:28.062Z
+date: 2024-10-12T19:30:25.311Z
+updated: 2024-10-15T19:47:31.386Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -49,13 +42,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -86,16 +72,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -122,18 +102,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -149,10 +129,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -163,9 +143,23 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -205,21 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-direct-route-uploading-from-youtube-to-dailymotion-for-2024/"><u>[New] Direct Route Uploading From YouTube to Dailymotion for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/asy-techniques-for-snagging-youtube-songs-and-commentary-for-2024/"><u>[New] Easy Techniques for Snagging YouTube Songs and Commentary for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y78t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y78t</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-personalizing-your-chromecast-background-image/"><u>Easy Methods for Personalizing Your Chromecast Background Image</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-resolve-when-your-internet-explorer-stops-functioning-properly/"><u>Easy Ways to Resolve When Your Internet Explorer Stops Functioning Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-playstation-4-controller-charging-issues-solved/"><u>Fixing Your PlayStation 4 Controller: Charging Issues Solved</u></a></li>
-<li><a href="https://games-able.techidaily.com/insight-into-xboxs-penalty-protocol/"><u>Insight Into Xbox's Penalty Protocol</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-guide-master-usb-tethering-on-your-windows-10-device/"><u>Simple Guide: Master USB Tethering on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-overcome-code-0x800f0922-and-update-windows-10-successfully/"><u>Top 5 Solutions to Overcome Code 0X800f0922 and Update Windows 10 Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210136605-trace-your-lost-touchpad-to-device-master/"><u>Trace Your Lost Touchpad to Device Master</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-windows-11-start-menu-glitches-effectively/"><u>Troubleshoot and Fix Windows 11 Start Menu Glitches Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-sudden-pc-malfunctions-expert-solutions/"><u>Troubleshooting Fortnite's Sudden PC Malfunctions - Expert Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-confirm-your-pc-meets-the-d3d11-gpu-requirements/"><u>Troubleshooting Guide: How to Confirm Your PC Meets the D3D11 GPU Requirements</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-8-engaging-reasons-to-master-hindi-with-mondly-online/"><u>Unveiling 8 Engaging Reasons to Master Hindi with Mondly Online</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-videos-making-a-statement-on-instagram/"><u>YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-proven-tactics-for-adjusting-track-pace-on-spotify-app/"><u>[New] Proven Tactics for Adjusting Track Pace on Spotify App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-8-discreet-2023-video-downloader-apps-for-2024/"><u>[New] Top 8 Discreet 2023 Video Downloader Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tag-tactics-amplifying-your-gaming-content-online/"><u>[Updated] 2024 Approved Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-tactics-for-triumphing-in-virtual-marketplaces/"><u>2024 Approved Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-12plus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme 12+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-white-screen-of-death-on-your-laptop-a-comprehensive-guide/"><u>Fixing the White Screen of Death on Your Laptop – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206502142-how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-start-menu-issues-quickly-and-easily/"><u>How to Fix Windows 11 Start Menu Issues Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-incompatible-with-miracast-error-comprehensive-guide/"><u>How to Resolve Device Incompatible with Miracast Error : Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functional-huion-drawing-tablet-top-5-solutions/"><u>Quick Fixes for a Non-Functional Huion Drawing Tablet: Top 5 Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-10-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 

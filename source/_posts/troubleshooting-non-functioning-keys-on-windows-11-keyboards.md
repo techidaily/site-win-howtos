@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functioning Keys on Windows 11 Keyboards
-date: 2024-10-04T19:16:22.067Z
-updated: 2024-10-09T20:41:44.802Z
+date: 2024-10-08T22:37:07.416Z
+updated: 2024-10-15T18:23:16.604Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,22 +50,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -80,22 +81,29 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -120,13 +128,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -153,22 +154,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -205,21 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-download-smartly-secure-and-convert-vimeo-hd-videos-to-mp4-for-2024/"><u>[New] Download Smartly Secure and Convert Vimeo HD Videos to MP4 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-master-voice-customization-on-ps-playstation-devices-for-2024/"><u>[New] Master Voice Customization on PS PlayStation Devices for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-copyright-clarity-for-instagram-beats/"><u>[Updated] 2024 Approved Copyright Clarity for Instagram Beats</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pros-5-virtual-helmets-a-drone-racers-choice/"><u>[Updated] 2024 Approved Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-from-portrait-to-landscape-the-ultimate-guide-to-instagram-video-spins/"><u>[Updated] From Portrait to Landscape The Ultimate Guide to Instagram Video Spins</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-revealing-the-top-10-secret-story-admirers/"><u>2024 Approved Revealing the Top 10 Secret Story Admirers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curing-csgos-crash-problems-with-these-swift-and-straightforward-fixes/"><u>Curing CSGO's Crash Problems with These Swift and Straightforward Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-how-to-resolve-a-stuck-white-or-black-screen-on-your-laptop/"><u>Expert Guide: How to Resolve a Stuck White or Black Screen on Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-issue-guide-through-the-0x800705b4-error/"><u>Fixing the Windows 11 Update Issue: Guide Through the 0X800705B4 Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-nintendo-switchs-microphone-working-again-professional-repair-techniques/"><u>How To Get Your Nintendo Switch's Microphone Working Again: Professional Repair Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-android-on-windows-via-samsung/"><u>Install Android on Windows via Samsung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211775888-pubg-2024-master-the-art-of-fixing-game-launch-issues-and-start-enjoying-now/"><u>PUBG 2024: Master the Art of Fixing Game Launch Issues and Start Enjoying Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/realtek-driver-trouble-discover-how-to-restore-missing-controller-detection/"><u>Realtek Driver Trouble? Discover How to Restore Missing Controller Detection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-techniques-to-alter-files-on-your-win-os/"><u>Tailored Techniques to Alter Files on Your Win OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721809986180-the-ultimate-guide-to-choosing-your-ai-sidekick-chatgpt-versus-microsofts-bing-chat/"><u>The Ultimate Guide to Choosing Your AI Sidekick: ChatGPT Versus Microsoft's Bing Chat.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-dealing-with-hanging-windows-10-interfaces/"><u>Troubleshooting Tips for Dealing with Hanging Windows 10 Interfaces</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-engagement-with-youtube-shorts-content/"><u>[New] 2024 Approved Maximizing Engagement with YouTube Shorts Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-excelling-without-vimeo-best-editing-software-rankings-for-2024/"><u>[New] Excelling Without Vimeo Best Editing Software Rankings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-friendly-viewer-contests/"><u>[New] In 2024, Ultimate Budget-Friendly Viewer Contests</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-state-of-the-art-methods-for-documenting-digital-education/"><u>[Updated] 2024 Approved State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/amazons-must-have-bargains-of-august-2e-sourced-directly-from-zdnet-for-maximum-value/"><u>Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-error-code-0xc0000001-on-windows/"><u>Decoding and Fixing Error Code 0XC0000001 on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-step-by-step-tutorial-on-integrating-subtitles-in-handbrake/"><u>The Ultimate Step-by-Step Tutorial on Integrating Subtitles in HandBrake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-recommended-airpods-pro-gadgets-and-add-ons-techradar/"><u>Top Recommended AirPods Pro Gadgets & Add-Ons - TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-10-free-media-player-apps-compatible-with-all-platforms-windows-macos-android-and-ios/"><u>Ultimate Guide: Top 10 Free Media Player Apps Compatible with All Platforms (Windows, macOS, Android & iOS)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
 </ul></div>
 

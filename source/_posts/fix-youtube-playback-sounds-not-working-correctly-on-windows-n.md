@@ -1,7 +1,7 @@
 ---
 title: Fix YouTube Playback Sounds Not Working Correctly on Windows N
-date: 2024-10-04T23:02:07.430Z
-updated: 2024-10-09T20:22:52.241Z
+date: 2024-10-14T01:31:54.456Z
+updated: 2024-10-16T03:50:42.808Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 4. [**Make sure the charger is working**](#h-fix-4-make-sure-the-charger-is-working)
 5. [**Install Windows Updates**](#h-fix-5-install-windows-updates)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1\. Reinstall or update USB drivers
 
  Most Windows USB problems are driver-related. As the translator for your system and the device, the driver takes a great role in making sure your PC is working great. If the USB driver gets corrupted or outdated, the USB port may not work as expected.
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2\. Disable USB Selective Suspend
 
  It’s possible that your PC prevents the USB C from working to save power. In that case, you will need to change the power management settings — disable the **USB Selective Suspend** and check if your USB C is working again.
@@ -80,31 +66,47 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 4. Click**Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![change usb settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-plan-settings-usb.jpg)
 5. Click**Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change advanced power settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-advanced.jpg)
 6. Double click **USB settings** , then double click **USB selective suspend setting** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![usb suspend disabled](https://images.drivereasy.com/wp-content/uploads/2021/09/disabled.jpg)  
 **Note:** If you’re using a laptop, click **On battery** , then click **Disabled** from the drop-down menu.
 7. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3\. Turn on notification for USB problems
@@ -114,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/USB.jpg)
 
  Now you can receive error messages when you’re having trouble connecting your devices with the USB C port.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4\. Make sure the charger is working
 
@@ -128,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
  Although less likely, there is a chance that updating your system could solve your USB port problems. Press the Windows + R to open the Search box and enter check, and then select**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check for updates and it will download and install available updates for you.
 
@@ -160,22 +162,21 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-high-speed-windows-photoviewer-for-2024/"><u>[New] High-Speed Windows Photoviewer for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-clash-challenge-obs-meets-shadowgl-for-2024/"><u>[Updated] Capture Clash Challenge OBS Meets ShadowGL for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-fbstream-viewer-extractor/"><u>[Updated] FbStream Viewer Extractor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-icy-images-cozier-cinematics-best-bgs-selection-for-2024/"><u>[Updated] Icy Images, Cozier Cinematics Best Bgs Selection for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-connection-issues-how-to-restore-your-mouses-functionality-on-windows-pcs/"><u>Bluetooth Connection Issues? How to Restore Your Mouse's Functionality on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-windows-camera-errors-a-detailed-look-at-fixing-code-0xa00f4292/"><u>Decode Windows Camera Errors: A Detailed Look at Fixing Code 0xA00F4292</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-fix-broken-usb-interface-on-windows-11-pcs/"><u>Effective Ways to Fix Broken USB Interface on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-dhcp-communication-errors-why-your-device-cant-reach-the-server/"><u>Fixing DHCP Communication Errors: Why Your Device Can't Reach the Server</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-playtime-win11s-game-library/"><u>In 2024, Revolutionize Playtime Win11's Game Library</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-stop-endless-restarts-on-windows-11-systems/"><u>Quick Solutions to Stop Endless Restarts on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-11/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gadgets-and-reviews-by-tomtechspace/"><u>Top Gadgets and Reviews by TomTechSpace</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-net-framework-35-installation-hurdle-overcoming-error-code-0x800f081f/"><u>Troubleshooting Guide: Resolving the .NET Framework 3.5 Installation Hurdle - Overcoming Error Code 0X800F081F</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-right-click-issue-on-your-windows-11-mouse/"><u>Troubleshooting the Right-Click Issue on Your Windows 11 Mouse</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-homes-unlocked-your-guide-to-installing-hyper-v/"><u>Win 11 Homes Unlocked: Your Guide to Installing Hyper-V</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-discovering-the-details-a-guide-to-roblox-closeups/"><u>[New] 2024 Approved Discovering the Details A Guide to Roblox Closeups</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-the-best-practices-for-streaming-archive-podcasts-for-2024/"><u>[Updated] Discover the Best Practices for Streaming Archive Podcasts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mp4-player-guide-top-selections/"><u>[Updated] In 2024, MP4 Player Guide Top Selections</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-youtube-profits-strategies-for-revenue-growth/"><u>[Updated] Maximizing YouTube Profits Strategies for Revenue Growth</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mobile-streamers-guide-post-photos-and-videos-not-twits/"><u>2024 Approved Mobile Streamers' Guide Post Photos & Videos, Not Twits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-overvalued-and-too-expensive-to-be-worth-buying-in-the-long-run-despite-recent-gains/"><u>Concern Is Rising that Equities Have Become Overvalued and Too Expensive to Be Worth Buying in the Long Run, Despite Recent Gains.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-techniques-to-repair-and-rectify-http-503-service-interruption/"><u>Effortless Techniques to Repair and Rectify HTTP 503 Service Interruption</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-by-drfone-ios/"><u>How to Unlock iPhone SE (2022)?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iconic-14-examples-of-animate-texts/"><u>Iconic 14 Examples of Animate Texts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inverted-video-playback-on-android-made-simple-for-2024/"><u>Inverted Video Playback on Android Made Simple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-playback-smoother-now-how-to-overcome-buffering-troubles/"><u>Kodi Playback Smoother Now - How to Overcome Buffering Troubles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecti-essential-apps-for-iphone-slide-show-creation/"><u>Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-usb-connectivity-problems-on-your-windows-11-pc/"><u>Solving USB Connectivity Problems on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unfreezing-a-non-responsive-laptop-or-desktop/"><u>Step-by-Step Solutions for Unfreezing a Non-Responsive Laptop or Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-vcruntime140dll-not-found-issue-on-windows-10-for-seamless-program-running/"><u>Troubleshooting the VCRUNTIME140.dll Not Found Issue on Windows 10 for Seamless Program Running</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-the-windows-resource-protection-couldnt-execute-requests/"><u>Understanding and Resolving the 'Windows Resource Protection Couldn't Execute Requests'</u></a></li>
 </ul></div>
 

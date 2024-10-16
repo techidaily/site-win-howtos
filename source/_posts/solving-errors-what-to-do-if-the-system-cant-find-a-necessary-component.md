@@ -1,7 +1,7 @@
 ---
 title: "Solving Errors: What to Do If the System Can't Find a Necessary Component"
-date: 2024-10-03T18:53:49.893Z
-updated: 2024-10-09T17:14:07.968Z
+date: 2024-10-14T17:48:56.070Z
+updated: 2024-10-16T00:59:15.678Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Force restart your PC
@@ -83,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 3. Click **Apply this fix** to continue.  
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
@@ -107,29 +94,9 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -138,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -172,16 +132,10 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Download updates from Microsoft Update Catalog manually
@@ -195,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
 Now, you can follow the steps below to download Windows updates manually:
@@ -203,9 +164,24 @@ Now, you can follow the steps below to download Windows updates manually:
 2. Click **View update history** to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download that update and install it manually.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
@@ -213,6 +189,13 @@ Now, you can follow the steps below to download Windows updates manually:
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
 
@@ -242,24 +225,20 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-deciphering-instagrams-video-snippet-size/"><u>[New] In 2024, Deciphering Instagram's Video Snippet Size</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-fb-to-mp4-conversion-service/"><u>[New] In 2024, Seamless FB to MP4 Conversion Service</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/laylist-extraction-step-by-step-from-youtubes-archive/"><u>[New] Playlist Extraction - Step by Step From YouTube's Archive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-computer-repeatedly-turns-on-and-off/"><u>[Solved] Computer Repeatedly Turns On and Off</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-dns-unresponsive-issues-a-guide-to-fast-fixes-and-solutions/"><u>Addressing 'DNS Unresponsive' Issues: A Guide to Fast Fixes and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/correcting-code-24-when-your-device-cant-be-found-on-windows-platforms/"><u>Correcting Code 지킬러스 24: When Your Device Can't Be Found on Windows Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-and-eliminating-google-chromes-misleading-critical-error-scam-alerts/"><u>Deciphering and Eliminating Google Chrome’s Misleading Critical Error Scam Alerts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-tips-to-eliminate-instagram-video-issues/"><u>Essential Tips to Eliminate Instagram Video Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-parameter-is-incorrect-during-library-loads-what-you-need-to-know/"><u>Expert Advice on Resolving 'Parameter Is Incorrect' During Library Loads – What You Need to Know!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-1650-updated-driver-downloads/"><u>GTX 1650: Updated Driver Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-dx11-feature-level-100-problems-on-wwe-2k-battlegrounds-game/"><u>How to Fix DX11 Feature Level 10.0 Problems on WWE 2K Battlegrounds Game</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr/"><u>In 2024, Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-visual-content-mastery-of-windows-11-editing-tools/"><u>Innovating Visual Content Mastery of Windows 11 Editing Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-realtek-bluetooth-driver-download-windows-11-10/"><u>Latest Realtek Bluetooth Driver Download – Windows 11, 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210649663-master-the-fix-for-class-not-registered-problem-in-windows-11-effective-solutions-await/"><u>Master the Fix for 'Class Not Registered' Problem in Windows 11 - Effective Solutions Await!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-correcting-the-scarlet-screens-of-windows-11-malfunction/"><u>Solution Guide: Correcting the Scarlet Screens of Windows 11 Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-to-correct-the-windows-11-0x8024401c-update-failure-issue/"><u>Solution Steps to Correct the Windows 11 0X8024401c Update Failure Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-failed-to-create-d3d-device-error-on-windows/"><u>Step-by-Step Guide: Resolving 'Failed to Create D3D Device' Error on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/uninterrupted-cinematic-videos-smartphones-best-feature-optimal-stability/"><u>Uninterrupted Cinematic Videos Smartphones' Best Feature - Optimal Stability</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-walkthrough-ipad-screen-recording/"><u>[New] Detailed Walkthrough IPad Screen Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigate-to-fun-with-tiktok-download-and-setup-for-macbook-for-2024/"><u>[Updated] Navigate to Fun with TikTok Download & Setup for MacBook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-roadmap-to-financial-growth-through-video-ads-on-youtube-for-2024/"><u>[Updated] Navigating the Roadmap to Financial Growth Through Video Ads on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>2024 Approved How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/naver-seo/"><u>簡単ガイド: NAVER動画ダウンロード＆録画方法 - お気軽で学ぶSEO</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-camon-20-premier-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Camon 20 Premier 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maximize-storage-removing-complete-backup-drives-on-windows-10/"><u>Maximize Storage: Removing Complete Backup Drives on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mswmmwmvmp4avimov/"><u>MSWMMファイルの変換：WMV、MP4、AVI、MOVへ</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-peripheral-firmware-download-and-installation-guide-for-windows-users/"><u>Razer Peripheral Firmware: Download & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-integrating-sound-into-your-pcs-screen-captures/"><u>Simple Steps: Integrating Sound Into Your PC's Screen Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-shrinking-your-quicktime-media-files/"><u>Simplified Techniques for Shrinking Your QuickTime Media Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sneak-peek-into-upcoming-videos-preview-features-explained/"><u>Sneak Peek Into Upcoming Videos: Preview Features Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-converting-your-videos-for-idevice-compatibility-iphone-ipad-ipod/"><u>Step-by-Step Instructions for Converting Your Videos for iDevice Compatibility (iPhone, iPad, iPod)</u></a></li>
 </ul></div>
 

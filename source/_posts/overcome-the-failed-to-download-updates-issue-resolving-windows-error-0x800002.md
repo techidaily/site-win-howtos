@@ -1,7 +1,7 @@
 ---
 title: "Overcome the 'Failed to Download Updates' Issue: Resolving Windows Error 0X80#0002"
-date: 2024-10-04T18:45:33.524Z
-updated: 2024-10-09T17:34:59.634Z
+date: 2024-10-15T05:28:03.487Z
+updated: 2024-10-16T02:10:58.348Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 1: Check the Date and Time settings**
 
  This may sound unbelievable as a solution to fix 0x80070002 error code, but it does work for many Windows users. One of the major causes of the error is the incorrect time/date settings, so it’s necessary to make sure that your computer’s time synchronizes with the Internet time server.
@@ -65,13 +58,34 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
@@ -91,29 +105,22 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
 ---
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -133,16 +140,16 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
 
@@ -166,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
@@ -173,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -195,23 +202,9 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -224,6 +217,13 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  2) Type **regedit** and press**Enter** . You may need to provide the administrative right to open, click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
@@ -261,18 +261,18 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -297,14 +297,22 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-polar-performances-ultimate-beijing-olympics-scoop/"><u>2024 Approved Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blues-with-fortnite-a-players-handbook-on-fixing-error-code-84/"><u>Beat the Blues with Fortnite: A Player’s Handbook on Fixing Error Code 84</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-errors-ensuring-your-devices-driver-works-seamlessly-with-windows-operating-system/"><u>Bypassing Errors: Ensuring Your Device's Driver Works Seamlessly with Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decrypting-the-0xc0000005-mystery-expert-tips-to-repair-windows-failures/"><u>Decrypting the 0Xc0000005 Mystery - Expert Tips to Repair Windows Failures</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-realtek-bluetooth-drivers-now-optimized-for-windows-11-and-10-systems/"><u>Get Updated Realtek Bluetooth Drivers Now: Optimized for Windows 11 & 10 Systems!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-13t-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi 13T Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-aoc-screen-issue-make-it-work-again-on-pc-with-windows-10/"><u>Solve Your AOC Screen Issue - Make It Work Again on PC with Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-reactivating-your-broken-windows-fixed-start-menu/"><u>Step-by-Step Guide: Reactivating Your Broken Windows ^[Fixed] Start Menu</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tesla-robot-saga-news-updates-rumored-details-price-predictions-scheduled-launch-date-and-comprehensive-specs-guide/"><u>Tesla Robot Saga: News Updates, Rumored Details, Price Predictions, Scheduled Launch Date & Comprehensive Specs Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-bonds-before-buying-subscription-strategies/"><u>[Updated] In 2024, Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-virtual-sessions-ios-and-android-methods-for-2024/"><u>[Updated] Recording Virtual Sessions IOS & Android Methods for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026759413-youtube/"><u>「楽曲付与の秘訣：パソコンを使ってYouTubeショート動画音効を手軽に」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-how-to-install-and-use-the-xvid-codec-for-enhanced-video-playback-on-vlc-media-player/"><u>1. How to Install and Use the Xvid Codec for Enhanced Video Playback on VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-how-to-troubleshoot-and-resolve-issues-with-non-playable-instagram-video-content/"><u>1. How to Troubleshoot and Resolve Issues with Non-Playable Instagram Video Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026818275-4/"><u>4人気の無料ウィンドウズ端末図像キャプチャツールをご紹介</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028674552-pc/"><u>容易な手順：PCやスマホを使って動画に画像・写真を追加するテクニック</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-acquiring-and-installing-corsair-k70-softwaredrivers-for-your-pc/"><u>Easy Guide to Acquiring and Installing Corsair K70 Software/Drivers for Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722656393897-exciting-fortnite-update-diving-into-a-fresh-and-thrilling-season-reviews-inside/"><u>Exciting Fortnite Update: Diving Into a Fresh & Thrilling Season - Reviews Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-of-generative-ai-and-chatbots-evolving-past-chatgpt/"><u>Future of Generative AI & Chatbots: Evolving Past ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impara-come-caricare-un-dvd-su-google-drive-e-risolvi-i-tuoi-problemi/"><u>Impara Come Caricare Un DVD Su Google Drive E Risolvi I Tuoi Problemi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g13-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G13 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-up-your-photo-game-basic-snapseed-skills-guide/"><u>Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mart-approach-to-video-marketing-for-smbs-for-2024/"><u>The SMART Approach to Video Marketing for SMBs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027860310-vimeo/"><u>Vimeoビデオのチャンブラダウンロードテクニック：手っ取り早いフリーガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windowsmacpc/"><u>Windows/Macに最適、ノートPCですぐ始められるブラウジングキャプチャ方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029005974-dvd2/"><u>リージョンコードが違うDVD「コード2」での問題と修正手段：見落としたポイント</u></a></li>
 </ul></div>
 

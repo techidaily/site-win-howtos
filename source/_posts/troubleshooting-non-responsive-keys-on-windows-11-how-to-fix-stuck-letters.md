@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Non-Responsive Keys on Windows 11: How to Fix Stuck Letters"
-date: 2024-09-11T03:27:00.147Z
-updated: 2024-09-17T18:31:08.248Z
+date: 2024-10-10T16:53:01.885Z
+updated: 2024-10-15T20:04:42.582Z
 tags:
   - win11
   - win10
@@ -40,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -51,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  2) Type **services.msc**   and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
@@ -63,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -80,33 +108,19 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -122,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -142,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -173,5 +194,21 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtubed-out-todays-most-fondly-watched-tracks/"><u>[New] 2024 Approved Youtubed Out Today's Most Fondly Watched Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom-for-2024/"><u>[New] How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-art-of-cross-promotion-twitters-to-facebooks/"><u>[New] In 2024, The Art of Cross-Promotion Twitters to Facebooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-deployment-delays-successful-strategies-for-the-windows-11-v1607-upgrade/"><u>Dealing with Deployment Delays: Successful Strategies for the Windows 11 v1607 Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disrupting-high-cpu-usage-in-windows-11/"><u>Disrupting High CPU Usage in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-fixing-your-software-after-an-unexpected-shutdown/"><u>Easy Solutions for Fixing Your Software After an Unexpected Shutdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-endless-load-time-in-valorant-get-back-into-battle/"><u>Fixes for Endless Load Time in Valorant - Get Back Into Battle</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-meizu-21-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Meizu 21 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-battle-plan-for-a-new-social-order-in-europe/"><u>Meta's Battle Plan for a New Social Order in Europe</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-common-software-stoppages-effectively/"><u>Solution Found: Overcoming Common Software Stoppages Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-touchpads-missing-pointer-problem-under-windows-11/"><u>Solving Your Touchpad's Missing Pointer Problem Under Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/weighing-the-pros-of-apple-watch-version-upgrade/"><u>Weighing the Pros of Apple Watch Version Upgrade</u></a></li>
+</ul></div>
 

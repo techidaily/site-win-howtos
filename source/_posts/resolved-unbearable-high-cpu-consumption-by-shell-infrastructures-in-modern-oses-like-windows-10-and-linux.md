@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] Unbearable High CPU Consumption by Shell Infrastructures in Modern OSes Like Windows 10 & Linux."
-date: 2024-10-08T18:08:29.706Z
-updated: 2024-10-09T18:22:29.275Z
+date: 2024-10-10T18:58:00.883Z
+updated: 2024-10-15T19:32:58.533Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
   * [Fix 5: Run System Maintenance Troubleshooter](#h-fix-5-run-system-maintenance-troubleshooter)  
   * [Fix 6: Perform a clean boot](#h-fix-6-perform-a-clean-boot)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What’s Shell Infrastructure Host?
 
 **Shell Infrastructure Host** , also known as**sihost.exe** , handles the basic graphics UI elements like taskbar transparency, start menu layout, and even your fancy background image. Normally, it’s a quiet teammate, barely using any CPU resources. But like any good teammate, sometimes it stumbles. When that happens, sihost.exe can suddenly start hogging more CPU power than usual, leaving your computer feeling sluggish and unresponsive.
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  Given below are the best solutions for Shell Infrastructure Host high CPU usage problem. You might not need to try them all. Just work your way down the list until you find the one that works for you.
 
  It might seem obvious, but a simple**restart** of your computer can often work wonders. It clears temporary files and resets processes, potentially giving sihost.exe a fresh start.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Keep Windows up to date
 
@@ -77,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 If Updating your Windows is not helping, move on to the second fix.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Use a static desktop background
 
  As stated, Shell Infrastructure Host is closely related to some basic graphical elements in Windows. In some cases, the high CPU usage problem occurs when you’re using a slideshow desktop background. So switching to a static one could be a solution. Here’s how to do it:
@@ -84,20 +83,28 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Personalization** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/personalization.jpg)
-3. In the **Background** field, select **Picture** or **Solid color.**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/personalization.jpg)
+3. In the **Background** field, select **Picture** or **Solid color.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
 
  If this step still can’t improve the CPU usage, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a different photo viewer app
 
@@ -108,25 +115,19 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Apps.**  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
@@ -155,11 +156,27 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced.jpg)
 4. Click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/as-admin.jpg)
 5. Click**Next** . Then the system maintenance tool will do the troubleshooting for you and inform you when it’s completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
@@ -174,26 +191,20 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. Type**msconfig** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
 3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
 4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
-5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
+5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
@@ -201,10 +212,10 @@ Here’s how to use Fortect to repair your system files:
 7. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
@@ -254,24 +265,24 @@ Here’s how to use Fortect to repair your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-narratives-distributed-among-8-movie-segments/"><u>[New] Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/shutoff-initiated-during-gaming/"><u>[SHUTOFF] Initiated During Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206025152-solved-crash-the-high-cpu-usage-of-your-system-with-these-tricks-no-matter-if-you-are-using-windows-10linux/"><u>[Solved] Crash the High CPU Usage of Your System with These Tricks, No Matter if You Are Using Windows 10/Linux.</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-seconds-needed-to-watch-an-hd-20mb-video-for-2024/"><u>[Updated] Seconds Needed to Watch an HD 20MB Video for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-starting-your-own-platform-a-guide-to-reviews-and-ratings-for-gadgets/"><u>[Updated] Starting Your Own Platform A Guide to Reviews and Ratings for Gadgets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-art-of-editing-boost-your-instagram-videography-for-2024/"><u>[Updated] The Essential Art of Editing Boost Your Instagram Videography for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203802097-how-to-fix-battleye-installation-errors-and-get-back-in-action/"><u>How to Fix BattlEye Installation Errors and Get Back in Action</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Pro Max screen lock?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-6s-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 6s or iPad?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-multifoto-uploads-on-facebook-a-step-by-step-guide/"><u>Master Multifoto Uploads on Facebook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-msvcr71dll-fix-in-sight/"><u>Missing MSVCR71.dll: Fix in Sight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-errors-in-establishing-a-link-to-remote-servers-effective-fixes/"><u>Overcoming Errors in Establishing a Link to Remote Servers: Effective Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-hurdles-for-a-successful-launch-of-a-virtual-wi-fi-hotspot-insider-tips-and-tricks/"><u>Overcoming Windows 11 Hurdles for a Successful Launch of a Virtual Wi-Fi Hotspot: Insider Tips and Tricks</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/real-time-streaming-solutions-discover-manycam-your-ultimate-virtual-camera-platform/"><u>Real-Time Streaming Solutions: Discover ManyCam - Your Ultimate Virtual Camera Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-youtube-sound-issue-fixing-audioplayer-glitches-in-windows-11/"><u>Solving the YouTube Sound Issue: Fixing Audioplayer Glitches in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-complete-fix-guide-for-when-vcruntime14tdll-is-undetected/"><u>Troubleshooting: The Complete Fix Guide for When VCRUNTIME14tDLL Is Undetected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-valorant-startup-a-guide-to-fixing-infinite-loading-screens/"><u>Unstick Your Valorant Startup: A Guide to Fixing Infinite Loading Screens</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/upgrading-made-simple-transition-from-older-os-to-the-latest-windows-11-system/"><u>Upgrading Made Simple: Transition From Older OS to the Latest Windows 11 System</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-optimal-twitvid-saves-mastering-tweeted-media-downloads/"><u>[New] In 2024, Optimal TwitVid Saves Mastering Tweeted Media Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/solved-fallout-76-crash-issues/"><u>[Solved] Fallout 76 Crash Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-red-magic-8s-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Red Magic 8S Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exploring-top-iphone-video-editors-cameo-and-filmorago-face-off-for-2024/"><u>Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-erase-your-presence-on-tiktok-a-step-by-step-process/"><u>How To Erase Your Presence on TikTok – A Step-by-Step Process</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-xr-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone XR iCloud Activation Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-vf-mp4-conversions-tips-using-vegas-movie-studio-and-vegas-pro/"><u>Mastering VF MP4 Conversions: Tips Using Vegas Movie Studio & Vegas Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-playback-on-windows-media-player-expert-solutions-for-common-mpeg-file-problems/"><u>Mastering Video Playback on Windows Media Player: Expert Solutions for Common MPEG File Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/offline-viewing-simple-steps-to-downloading-your-favorite-films-series-tunes/"><u>Offline Viewing: Simple Steps to Downloading Your Favorite Films, Series, Tunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-windows-11/"><u>PC画面動画キャプチャツールをお勧めする - Windows 11で使う方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-how-to-transform-avchd-videos-into-mp4-with-simple-tools/"><u>Quick Guide: How to Transform AVCHD Videos Into MP4 with Simple Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rapid-and-simple-mts-file-consolidation-made-easy-discover-leading-merger-solutions-today/"><u>Rapid & Simple MTS File Consolidation Made Easy: Discover Leading Merger Solutions Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotate-your-videos-like-a-pro-with-these-easy-tips-for-adobe-premiere-pro-users/"><u>Rotate Your Videos Like a Pro with These Easy Tips for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-your-dvds-into-mkv-format-with-windows-11-and-10/"><u>Simple Steps: Converting Your DVDs Into MKV Format with Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-mp4-files-to-3gp-format-online-and-offline/"><u>Step-by-Step Guide: Converting MP4 Files to 3GP Format Online and Offline</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-utilization-of-azure-voice-to-text-capabilities/"><u>Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-enhancing-everyday-life-with-chatgpt-insights/"><u>The Ultimate Guide: Enhancing Everyday Life with ChatGPT Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-civi-3-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Civi 3</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Local Security Guardrails Reactivated - Safeguarding Your System Effectively Against Unauthorized Access
-date: 2024-10-05T22:40:58.533Z
-updated: 2024-10-09T23:59:14.485Z
+date: 2024-10-11T03:07:40.856Z
+updated: 2024-10-16T02:57:06.039Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Local Security Authority Protection is off
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install Windows Update patch KB5007651
 
  The Local Security Authority Protection being off bug was actually a bug that shipped with Windows 11’s March 2023 mandatory security update, patch KB5007651\. Windows then released the updated version of this patch that fixed this problem. So if you still haven’t already, please update your Windows now for the latest patch KB5007651 to install.
@@ -57,13 +50,26 @@ To do so:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then see if the Local Security Authority Protection is still off.
 
@@ -71,16 +77,16 @@ Then see if the Local Security Authority Protection is still off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-25.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
 
@@ -95,13 +101,6 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
@@ -110,6 +109,13 @@ Then see if the Local Security Authority Protection is still off.
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure Group Policy Editor
 
@@ -122,15 +128,21 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
 
@@ -148,16 +160,10 @@ Then see if the Local Security Authority Protection is still off.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -187,17 +193,15 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionizing-storytelling-free-onlineoffline-animations/"><u>[Updated] In 2024, Revolutionizing Storytelling Free Online/Offline Animations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-4-ultimate-strategies-for-creating-softened-iphone-pics/"><u>[Updated] The 4 Ultimate Strategies for Creating Softened iPhone Pics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-capturing-and-embedding-speech-in-ppt/"><u>2024 Approved Step-by-Step Guide to Capturing and Embedding Speech in PPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-4-applications-to-keep-up-with-trending-hashtags-on-twitter/"><u>Discover the Best 4 Applications to Keep Up With Trending Hashtags on Twitter</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/expert-picks-of-the-15-leading-free-video-converters-for-seamless-pc-and-mac-4k-format-transformation/"><u>Expert Picks of the 15 Leading Free Video Converters for Seamless PC & Mac 4K Format Transformation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-visual-storytelling-what-angle-matters-most-in-2024/"><u>Facebook's Visual Storytelling What Angle Matters Most, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-access-dealing-with-destiny-2-servers-down-issues/"><u>How to Restore Access: Dealing with 'Destiny 2 Servers Down' Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigating-obs-setup-for-zoom-streaming-excellence-for-2024/"><u>Navigating OBS Setup for Zoom Streaming Excellence for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-oculus-device-troubles-a-guide-to-overcoming-hardware-issues/"><u>Solving Your Oculus Device Troubles: A Guide to Overcoming Hardware Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-to-resolve-audio-services-unresponsive-on-windows-10/"><u>Top Solutions to Resolve 'Audio Services Unresponsive' On Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ymu709-used-in-creative-labs-sound-blaster-audigy-advx-series-sound-cards-it-lacks-the-external-audio-interface-functions-found-on-most-other-chips-but-adds53/"><u>YMU709 - Used in Creative Labs Sound Blaster Audigy ADVx Series Sound Cards. It Lacks the External Audio Interface Functions Found on Most Other Chips, but Adds a Second MIDI Synthesizer (with No Sample Storage) for 64 Channels of Total Polyphony</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>[Updated] In 2024, Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-web-tracking-made-easy-the-cookiebot-difference-explained/"><u>Advanced Web Tracking Made Easy: The Cookiebot Difference Explained.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-explained-fixing-the-volume-is-dirty-problem-code-0x80urt689d/"><u>Error Message Explained: Fixing the 'Volume Is Dirty' Problem (Code 0X80urt689d</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-wont-respond-on-windows-fixes-for-windows-11-8-and-7-quick-guide/"><u>Lenovo Mouse Pad Won't Respond on Windows? Fixes for Windows 11, 8 & 7 - Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-problems-restoring-functionality-to-the-windows-key/"><u>Overcoming Windows 10 Problems: Restoring Functionality to the Windows Key</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steam-missing-files-restoring-user-privileges/"><u>Resolving Steam Missing Files: Restoring User Privileges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/section-4a-advanced-topic-neuroplasticity-in-nerve-injury-recovery/"><u>Section 4A: Advanced Topic - Neuroplasticity in Nerve Injury Recovery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-mixed-realitys-impact-on-interaction-for-2024/"><u>Understanding Mixed Reality's Impact on Interaction for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Wireless Connections: A Step-by-Step Guide to Activate Bluetooth on Modern Windows"
-date: 2024-09-13T03:12:06.549Z
-updated: 2024-09-18T00:00:25.548Z
+date: 2024-10-11T01:53:24.184Z
+updated: 2024-10-16T03:17:44.732Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -65,18 +78,33 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -92,18 +120,27 @@ To do so:
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -134,5 +171,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-innovative-brainstroming-techniques-for-channels-names/"><u>[New] 2024 Approved Innovative Brainstroming Techniques for Channels' Names</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-high-impact-color-filters-expertly-curated-15-gopro-lut-picks-for-2024/"><u>[New] High-Impact Color Filters Expertly Curated 15 GoPro LUT Picks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-vr-gameplay/"><u>[Updated] 2024 Approved How to Record VR Gameplay</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensive-solution-to-fix-uninstalled-drivers-on-your-windows-11-8-or-7-pc/"><u>A Comprehensive Solution to Fix Uninstalled Drivers on Your Windows 11, 8 or ^7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-resolution-of-system-resource-shortages-to-ensure-seamless-service-delivery/"><u>Complete Resolution of System Resource Shortages to Ensure Seamless Service Delivery</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>In 2024, Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209460952-playstation-4-trouble-solve-the-mystery-of-error-code-ce-34878-0-today/"><u>PlayStation 4 Trouble? Solve the Mystery of Error Code CE-34878-0 Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-not-detected-problem-fast-and-easy-step-by-step-guide/"><u>Resolve Your Windows 11 Bluetooth Not Detected Problem Fast and Easy - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-class-registration-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving Class Registration Issues in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solving-the-problem-when-your-usb-stick-appears-as-a-dvd-rom-expert-solutions/"><u>Solving the Problem: When Your USB Stick Appears as a DVD ROM – Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-minecrafts-opengl-issues/"><u>Step-by-Step Guide: Troubleshooting Minecraft's OpenGL Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dns-server-issues-discover-4-simple-fixes/"><u>Troubleshooting DNS Server Issues: Discover 4 Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-windows-11-start-menu/"><u>Troubleshooting Tips: Restore Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-controls-copyright-to-computational-art/"><u>Who Controls Copyright to Computational Art?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved! Dealing with Unexpected Reboots Caused by Critical Errors (Bugchecks)
-date: 2024-09-13T00:27:15.992Z
-updated: 2024-09-17T16:38:12.285Z
+date: 2024-10-13T04:44:38.124Z
+updated: 2024-10-16T05:53:11.432Z
 tags:
   - win11
   - win10
@@ -62,8 +62,24 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
@@ -75,10 +91,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
@@ -92,10 +108,25 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -106,13 +137,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -137,5 +161,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lgs-lg-360-camera-update-unveiled-and-analyzed/"><u>2024 Approved LG's LG 360 Camera Update Unveiled & Analyzed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-video-impact-post-upload-edit-tips-for-youtube/"><u>2024 Approved Maximizing Video Impact Post-Upload Edit Tips for YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-kindle-oasis-critique-stunning-design-or-overpriced-gadget/"><u>Amazon Kindle Oasis Critique: Stunning Design or Overpriced Gadget?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/comment-copier-avec-succes-votre-systeme-dexploitation-windows-xi-x-v-et-vii-sur-un-disque-usb/"><u>Comment Copier Avec Succès Votre Système D'Exploitation Windows (XI, X, V Et VII) Sur Un Disque USB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-instructions-for-flushing-the-cache-in-android-phones-and-tablets/"><u>Complete Instructions for Flushing the Cache in Android Phones and Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnose-and-fix-windows-error-code-0xc00000e9/"><u>Comprehensive Guide to Diagnose and Fix Windows Error Code 0Xc00000e9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackle-free-audio-effective-solutions-for-clearing-up-sound-on-windows-11-and-7-computers/"><u>Crackle-Free Audio: Effective Solutions for Clearing Up Sound on Windows 11 and 7 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cured-discord-microphone-halt/"><u>Cured Discord Microphone Halt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-hp-laptop-usb-port-troubleshooting-step-by-step-repair-tips/"><u>DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-activating-touchscreen-capabilities-on-computers-with-disabled-stylus-access/"><u>Guide to Activating Touchscreen Capabilities on Computers with Disabled Stylus Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-repairing-unknown-usb-device-detected-port-reset-problems-in-windows-10/"><u>Guide: Successfully Repairing 'Unknown USB Device Detected - Port Reset' Problems in Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-emotionally-enhanced-youtube-commentary/"><u>In 2024, Emotionally-Enhanced YouTube Commentary</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-14-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 14 and iPad?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-keyboard/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-google-chrome-freezing-expert-tips-for-resolving-non-responsive-issues/"><u>Why Is Google Chrome Freezing? Expert Tips for Resolving Non-Responsive Issues</u></a></li>
+</ul></div>
 

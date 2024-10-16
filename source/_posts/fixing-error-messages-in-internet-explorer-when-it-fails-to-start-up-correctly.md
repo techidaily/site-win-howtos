@@ -1,7 +1,7 @@
 ---
 title: Fixing Error Messages in Internet Explorer When It Fails to Start Up Correctly
-date: 2024-10-03T17:54:01.859Z
-updated: 2024-10-09T23:03:37.709Z
+date: 2024-10-14T21:47:34.570Z
+updated: 2024-10-16T05:27:36.944Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -79,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -100,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 3. Click**Screen saver settings** at the bottom of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -111,20 +105,20 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 3. Click the**Change screen saver** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
@@ -153,14 +147,22 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -174,10 +176,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 4. Click on**Change advanced power settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
@@ -207,24 +209,17 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-event-ensemble-curating-best-dj-templates/"><u>[Updated] Event Ensemble Curating Best DJ Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube-for-2024/"><u>[Updated] Visual Storytelling 101 Mastering the Art of Posting Images on YouTube for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cinematic-journey-for-enhanced-communication-abilities/"><u>Cinematic Journey for Enhanced Communication Abilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-camera-malfunction-in-windows-solutions-for-reviving-image-capture-features/"><u>Dell Camera Malfunction in Windows - Solutions for Reviving Image Capture Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-adobes-anti-shake-functionality-for-creatives/"><u>Evaluating Adobe's Anti-Shake Functionality for Creatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-to-repairing-usb-port-issues-in-windows-10-and-11-systems/"><u>Expert Guide to Repairing USB Port Issues in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-overcoming-windows-persistent-update-error-code-0x80amelioration-of-update-malfunction/"><u>Fast Fixes for Overcoming Window's Persistent Update Error: Code 0X80amelioration of Update Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-automatic-updates-that-arent-working-comprehensive-guide/"><u>Fixing Windows Automatic Updates That Aren't Working – Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x8b-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X8b.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-maintain-constant-connection-for-your-wireless-mouse/"><u>How to Maintain Constant Connection for Your Wireless Mouse</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>In 2024, How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-iphone-image-transfer-methods-explained/"><u>In 2024, IPhone Image Transfer Methods Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lsa-defense-reactivated-how-to-secure-your-system-effectively/"><u>LSA Defense Reactivated: How to Secure Your System Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mxfmp3-moveitvid/"><u>MXFファイルからMP3へのコストなしに変換 - MoveItVid</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-trouble-heres-how-to-fix-the-using-a-proxyvpn-error-message/"><u>Netflix Trouble? Here's How to Fix the 'Using a Proxy/VPN' Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-hamachi-halted-error/"><u>Step-by-Step Guide to Overcoming Hamachi Halted Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-human-ai-balance-forging-pathways-to-thriving-careers/"><u>The Human-AI Balance: Forging Pathways to Thriving Careers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-my-razer-keyboard-not-lights-fix-and-prevent-this-common-problem/"><u>Why Is My Razer Keyboard Not Lights? Fix and Prevent This Common Problem!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/gnite-views-effective-strategies-for-optimizing-youtube-collaborations/"><u>[New] Ignite Views Effective Strategies for Optimizing YouTube Collaborations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>[New] Unleashing Creativity in Stories Adding Personalized Graphics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-software-for-photo-based-videography/"><u>[Updated] Premier Software for Photo-Based Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-easy-guide-two-versatile-techniques-for-securely-downloading-movies-from-gomovies/"><u>1. Easy Guide: Two Versatile Techniques for Securely Downloading Movies From GoMovies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/big-brains-discussing-tomorrows-artificial-intelligence/"><u>Big Brains Discussing Tomorrow’s Artificial Intelligence</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-p40plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel P40+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-g22-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia G22 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026733869-mp4/"><u>MP4ファイル回転設定のテクニック４種類（パソコン向け）</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-permissions-recording-on-whatsapp-platforms/"><u>Navigating Permissions Recording on WhatsApp Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-yify-movies-seamlessly-on-ios-devices-and-ps5-without-extra-codecs/"><u>Watching YIFY Movies Seamlessly on iOS Devices & PS5 Without Extra Codecs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tsmtsm2tm2ts/"><u>すばやく簡単：TS/MTS/M2T動画を一度に高品質M2TS変換！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027406070-pc/"><u>ダブルPCに同じライセンスキーを割り当てる方法</u></a></li>
 </ul></div>
 

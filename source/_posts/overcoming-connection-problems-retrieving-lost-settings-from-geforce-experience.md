@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Connection Problems: Retrieving Lost Settings From GeForce Experience"
-date: 2024-10-05T21:39:48.569Z
-updated: 2024-10-09T20:11:07.855Z
+date: 2024-10-13T07:02:00.112Z
+updated: 2024-10-15T17:22:04.925Z
 tags:
   - win11
   - win10
@@ -47,29 +47,22 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
@@ -77,6 +70,13 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -91,15 +91,16 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -126,18 +127,20 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2023s-leading-browser-extensions-for-video-streaming/"><u>[New] 2023'S Leading Browser Extensions for Video Streaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success/"><u>[New] 2024 Approved Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-meme-matrix-top-10-memes-on-social-media-platforms/"><u>[Updated] In 2024, Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-beginners-guide-to-creating-impactful-slug-lines-for-2024/"><u>A Beginner's Guide to Creating Impactful Slug Lines for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-online-compilation-of-copyright-free-charts/"><u>Free Online Compilation of Copyright-Free Charts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolve-microsoft-error-code-651-on-your-pc/"><u>Quick Solutions: Resolve Microsoft Error Code 651 on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-livekernelevent-144-mistake-step-by-step-guide/"><u>Solving the LiveKernelEvent 144 Mistake: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-easily-overcoming-error-0x80070652-during-windows-updates/"><u>Step-by-Step Fixes for Easily Overcoming Error 0X80070652 During Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-driverpowerstatefailure-woes/"><u>Step-by-Step Guide: Overcoming DRIVER_POWER_STATE_FAILURE Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synching-gmail-with-outlook-app-for-windows-users/"><u>Synching Gmail with Outlook App for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-my-samsung-frame-tv-may-not-impress-everyone-but-it-still-captures-my-heart/"><u>Why My Samsung Frame TV May Not Impress Everyone but It Still Captures My Heart</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962727498-wild-relatives-landraces-and-cultivated-varieties-are-primary-sources-of-new-alleles-in-breeding-programs/"><u>Wild Relatives, Landraces, and Cultivated Varieties Are Primary Sources of New Alleles in Breeding Programs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/aifc-m4a-moveavew/"><u>무료 AIFC M4A 프라이맥스에서 기술을 사용한 영화 및 음악 콘텐츠의 원활한 전환: Moveavew</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-halting-real-time-recordings-on-qt-player/"><u>[New] 2024 Approved Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-picking-the-right-software-bandicam-versus-camtasia/"><u>[New] In 2024, Picking the Right Software Bandicam Versus Camtasia</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-camera-error-code-0xa00f4292/"><u>[SOLVED] Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamline-editing-workflow-with-youtube-video-editor-for-2024/"><u>[Updated] Streamline Editing Workflow with YouTube Video Editor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-life-back-to-your-non-charging-laptop-battery-in-no-time/"><u>Bring Life Back to Your Non-Charging Laptop Battery in No Time</u></a></li>
+<li><a href="https://fox-info.techidaily.com/crafting-digital-worlds-the-essential-software-list-for-animators/"><u>Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-email-address-step-by-step-guide/"><u>Discovering Your Email Address: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-task-manager-quickly-and-easily/"><u>Fixing a Non-Responsive Task Manager Quickly and Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-securely-download-and-install-nvidia-108n-drivers-on-windows-11-a-beginners-tutorial/"><u>How to Securely Download and Install NVIDIA 108N Drivers on Windows 11: A Beginner's Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11s-0x802e401c-update-malfunction/"><u>Overcoming Windows 11'S 0X802e401c Update Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pasting-trouble-in-windows-11-os/"><u>Pasting Trouble in Windows 11 OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-video-games-to-escape-boredom-bliss/"><u>Top 10 Must-Play Video Games to Escape Boredom Bliss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-werfaultexe-errors-on-your-microsoft-windows-system/"><u>Ultimate Guide to Overcoming werFault.exe Errors on Your Microsoft Windows System</u></a></li>
 </ul></div>
 

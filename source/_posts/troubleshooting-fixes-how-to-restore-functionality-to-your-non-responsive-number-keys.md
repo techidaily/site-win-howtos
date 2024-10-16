@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys"
-date: 2024-10-06T16:21:58.509Z
-updated: 2024-10-09T23:25:37.284Z
+date: 2024-10-09T05:03:57.073Z
+updated: 2024-10-16T03:31:48.299Z
 tags:
   - win11
   - win10
@@ -74,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cee85a5cb2.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cf7e7c521d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 1. Press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
  key  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  and  
 **R**  to invoke the Run box.
 2. Type**devmgmt.msc** and click**OK**  to access Device Manager.  
@@ -102,16 +110,29 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 5. When prompted for confirmation, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d031b9c5f0.jpg)
 6. Save any open files and close all programs, then click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d03560715f.jpg)
 7. When your PC restarts, check if you can type**@** .
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,10 +145,16 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 2. Under**Country or Region** , make sure an English-speaking country or region is selected. If you cannot find any, then you can click the**Add a Language** button to add one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdd1e9fccd.jpg)
@@ -135,24 +162,25 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdfb50cdf8.jpg)
 4. Under**Keyboards** , check what keyboard is selected and verify the input language is English.  
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8ce010368bc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Can you type**@** now? If not, try the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5 – Run hardware and devices troubleshooter (Windows 10)
 
@@ -163,10 +191,10 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 2. In the right pane, under**Find and fix other problems** , select**Hardware and Devices** and click the**Run the troubleshooter** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfc1e997d4.jpg)
@@ -174,13 +202,6 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfb0f5ec3d.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 6 – Boot your PC into Safe Mode
 
@@ -193,29 +214,9 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c0263d34.jpg)  
 **Note:** If you want to start Windows in**Normal Mode** , ensure the**Safe boot** box is**unchecked** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Make sure all the currently open files are saved and click   **Restart.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c41804c9.png)
 5. Check if the @ key is working.  
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * If the @ key is working, you can download an antivirus to scan your PC in Safe Mode. Then, go back to step 3),**uncheck** Safe boot, click**OK** and restart your PC to check if the @ key not working problem is resolved in Normal Mode.  
    * If the @ key is not working, you can go back to step 3) and uncheck Safe boot to restart your PC normally. Then continue the troubleshooting with the last solution.
@@ -243,17 +244,24 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-eastern-mini-homes-top-6-creative-concepts-in-mc/"><u>[Updated] 2024 Approved Eastern Mini-Homes Top 6 Creative Concepts in MC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-debating-platform-preferences-igtv-versus-youtube-video-sharing-for-2024/"><u>[Updated] Debating Platform Preferences IGTV Versus YouTube Video Sharing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-creating-convincing-news-final-buzzes/"><u>[Updated] In 2024, Creating Convincing News Final Buzzes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-average-time-to-watch-a-20-megabit-movie/"><u>2024 Approved Average Time to Watch a 20 Megabit Movie</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-gain-graph-finns-financial-flux/"><u>2024 Approved Gaming Gain Graph Finn's Financial Flux</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-cambiar-tu-fotografia-arw-a-jpg-en-solo-cuatro-pasos-simples-para-sistemas-windows-y-mac/"><u>Cómo Cambiar Tu Fotografía ARW a JPG en Solo Cuatro Pasos Simples Para Sistemas Windows Y Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-mp3-m4r-m4a/"><u>Movavi 提供快速方法：在線自由改變 MP3 播放器中 M4R 為 M4A - 無需花錢！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reset-or-refresh-mastering-the-easy-ways-to-reboot-windows-10/"><u>Reset or Refresh? Mastering the Easy Ways to Reboot Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-shift-key/"><u>Troubleshooting Guide: Fixing a Non-Responsive Shift Key</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-os-errors-on-your-computer-easy-fixes-and-best-practices/"><u>Troubleshooting Missing OS Errors on Your Computer - Easy Fixes and Best Practices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-your-ps4-microphone/"><u>Ultimate Guide: How to Troubleshoot and Repair Your PS4 Microphone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>[New] Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-how-to-save-funny-tweet-graphics-gifs-in-minutes/"><u>[Updated] 2024 Approved How To Save Funny Tweet Graphics (GIFs) in Minutes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-secrets-of-facebook-story-filming-and-editing/"><u>[Updated] Unveiling the Secrets of Facebook Story Filming and Editing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-your-videos-on-demand-freedom-through-editing-android-edition/"><u>2024 Approved Transform Your Videos on Demand Freedom Through Editing, Android Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-leading-lightweight-gan-powered-chargers-for-your-ultrabook-and-notebook/"><u>Discover Leading Lightweight GaN Powered Chargers for Your Ultrabook and Notebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-gaming-experience-with-these-proven-tips-to-enhance-horizon-zero-dawns-performance/"><u>Elevate Your Gaming Experience with These Proven Tips to Enhance Horizon Zero Dawn's Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-dnssddll-misplacement-or-loss-error-in-windows-10/"><u>Fixing dnssd.dll Misplacement or Loss Error in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a54-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A54 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-v27emirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo V27eMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-uniqueness-a-guide-to-identifying-and-organizing-distinct-data-with-microsoft-excel/"><u>Mastering Uniqueness: A Guide to Identifying and Organizing Distinct Data with Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/potential-threats-when-using-microsoft-office-on-apples-macos-platform/"><u>Potential Threats when Using Microsoft Office on Apple's macOS Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolutionary-upgrade-new-features-in-the-latest-version-of-microsoft-excel-web-app/"><u>Revolutionary Upgrade: New Features in the Latest Version of Microsoft Excel Web App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/setting-microsoft-excel-as-your-macs-primary-spreadsheet-software-a-step-by-step-guide/"><u>Setting Microsoft Excel as Your Mac's Primary Spreadsheet Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-techniques-for-transposing-rows-into-columns-in-microsoft-excel/"><u>Simple Techniques for Transposing Rows Into Columns in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-on-applying-universal-cell-formatting-in-multiple-excel-workbooks/"><u>Step-by-Step Guide on Applying Universal Cell Formatting in Multiple Excel Workbooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-building-your-project-schedule-with-ms-excel/"><u>Step-by-Step Guide: Building Your Project Schedule with MS Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-pictured-data-into-excel-apps-on-smartphones/"><u>Step-by-Step Guide: Transferring Pictured Data Into Excel Apps on Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-excel-charts-to-picture-format-for-easy-sharing-and-editing/"><u>Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-split-screen-video-makers-the-best-ios-and-android-apps/"><u>Updated In 2024, Split Screen Video Makers The Best iOS and Android Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved
-date: 2024-09-17T01:51:09.265Z
-updated: 2024-09-17T17:13:47.683Z
+date: 2024-10-14T06:48:13.976Z
+updated: 2024-10-16T06:51:03.914Z
 tags:
   - win11
   - win10
@@ -97,6 +97,13 @@ net start cryptsvc
 
  Check to see if this resolved your Windows Update problem. Hopefully it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -110,6 +117,13 @@ Dism /Online /Cleanup-Image /ScanHealth
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It may take several minutes for this command operation to be completed.
 
@@ -131,14 +145,14 @@ Dism /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
- Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
-
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
 
 ### Fix 4: Run System File Checker
 
@@ -153,6 +167,13 @@ sfc /scannow
 It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When this command operation is completed, close **Command Prompt** .
 
@@ -184,13 +205,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -213,6 +227,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select   **Create installation media (USB flash drive, DVD, or ISO file) for another PC**  and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-14.png)
@@ -221,22 +242,29 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  If the installed memory of your PC is less than**4GB** , it’s recommended that you select the 32-bit architecture.
 
  7) Select **ISO file** and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Select the location to save the Windows 10 ISO file. After that, the media creation tool will start to download **Windows 10 ISO file** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click **Finish** to close the media creation tool.
 
@@ -248,23 +276,9 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, double-click the file**setup** .**exe** . You’ll be prompted for permission. Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When you see the following window, select**Not right now** then click**Next** .
 
@@ -292,5 +306,26 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-rhythmic-raptor-rumba/"><u>[New] In 2024, Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>[Updated] 2024 Approved Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-editors-elite-gadgets-best-machines-for-screen-magic-for-2024/"><u>[Updated] Editor’s Elite Gadgets Best Machines for Screen Magic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[Updated] Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-critical-kernel-issue-41-settled/"><u>[Windows] Critical Kernel Issue #41 Settled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2022s-guide-to-seamless-gaming-eliminating-fallout-4-latency-for-a-smoother-play/"><u>2022'S Guide to Seamless Gaming: Eliminating Fallout 4 Latency for a Smoother Play</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-broadcast-without-breaks-2023-guides-to-overcoming-livestream-disruptions-on-fb/"><u>2024 Approved Broadcast Without Breaks 2023 Guides to Overcoming Livestream Disruptions on FB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-when-its-stuck-on-100-a-step-by-step-guide/"><u>How to Fix Windows Update When It's Stuck on 100% – A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-fixing-skypes-unresponsive-video-feature-in-windows-10/"><u>Quick Solutions for Fixing Skype's Unresponsive Video Feature in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-download-nvidia-gtx-750-ti-update/"><u>Rapid Download: NVIDIA GTX 750 Ti Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-geforce-experience-not-launching-correctly-fixed/"><u>Resolving the Problem: GeForce Experience Not Launching Correctly - Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-resolve-service-started-failure-on-windows-login-screen/"><u>Steps to Correctly Resolve Service Started Failure on Windows Login Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009819322-stop-sword-and-fairy-vii-from-crashing-on-your-computer-essential-solutions-revealed/"><u>Stop Sword and Fairy VII From Crashing on Your Computer - Essential Solutions Revealed.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/strategic-insights-into-procuring-a-mountain-of-videos-from-tiktok-for-2024/"><u>Strategic Insights Into Procuring a Mountain of Videos From TikTok for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ten-powerful-reasons-to-embrace-the-german-language/"><u>Ten Powerful Reasons to Embrace the German Language</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-number-of-individuals-surveyed-nfemale-plus-nmale-756-plus-804-1560/"><u>Total Number of Individuals Surveyed = N_female + N_male = 756 + 804 = 1,560</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-to-your-non-responsive-number-keys/"><u>Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-non-responsive-laptop-backlit-keyboards/"><u>Troubleshooting Guide: Restoring Functionality of Non-Responsive Laptop Backlit Keyboards</u></a></li>
+</ul></div>
 

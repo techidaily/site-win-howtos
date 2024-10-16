@@ -1,7 +1,7 @@
 ---
 title: How To Resurrect The Light On Your Keyboard - Essential Troubleshooting Steps for Mac and PC Users
-date: 2024-09-11T21:22:21.960Z
-updated: 2024-09-17T23:20:35.575Z
+date: 2024-10-13T19:01:56.990Z
+updated: 2024-10-15T21:06:30.128Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -103,16 +110,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -128,22 +136,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -174,5 +183,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[New] 2024 Approved Perfect Picture Spotlights How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-transfer-your-reading-materials-4-methods-to-move-epub-and-pdf-books-onto-your-kobo-reader/"><u>1. Transfer Your Reading Materials: 4 Methods to Move EPUB & PDF Books Onto Your Kobo Reader</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-legal-landscape-of-youtube-guidelines/"><u>2024 Approved Navigating the Legal Landscape of YouTube Guidelines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-resolving-the-life-threatening-videodxgkrnl-error-on-pcs-running-windows/"><u>Easy Fixes for Resolving the Life-Threatening Video_Dxgkrnl Error on PCs Running Windows</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/erec-management/"><u>EREC Managementアプリケーションのダウンロードガイド:意味、使用方法、他の選択肢を掘り下げてみましょう。</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-intel-realsense-technology-not-active-on-windows-10/"><u>Fixing the Issue: Intel RealSense Technology Not Active on Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-marketers-should-use-hashtags-on-facebook-properly-for-2024/"><u>How Marketers Should Use Hashtags on Facebook Properly for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-the-illumination-feature-on-a-malfunctioning-corsair-keyboard/"><u>How to Reactivate the Illumination Feature on a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-decide-what-to-watch-next/"><u>How to Use ChatGPT to Decide What to Watch Next</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-expertise-in-iphone-photography-understanding-dimensions/"><u>In 2024, Expertise in iPhone Photography Understanding Dimensions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-pad-not-responding-get-it-up-and-running-on-your-pc-again/"><u>Lenovo Pad Not Responding? Get It Up & Running on Your PC Again!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-android-moba-game-series-countdown-10-for-2024/"><u>The Ultimate Android MOBA Game Series Countdown (#10) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-mystery-behind-access-denied-to-device-path-or-file-in-windows-os/"><u>Unlocking the Mystery Behind 'Access Denied to Device Path or File' In Windows OS</u></a></li>
+</ul></div>
 

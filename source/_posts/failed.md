@@ -1,7 +1,7 @@
 ---
 title: Failed
-date: 2024-09-14T02:09:23.534Z
-updated: 2024-09-18T01:08:30.241Z
+date: 2024-10-15T03:39:18.059Z
+updated: 2024-10-15T17:40:42.032Z
 tags:
   - win11
   - win10
@@ -83,23 +83,36 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable the filter key
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the keyboard not working on Surface. For some users, **disabling Filter Keys** helps to fix the keyboard problem for them. To see if this does wonders for you as well:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10
@@ -109,21 +122,14 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Click **Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off **Filter Keys** or uncheck **Turn on Filter Keys** ).  
@@ -135,15 +141,22 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. Go to **Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Filter keys.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
-4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
+4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 ## 5: Try the Surface Diagnostic Toolkit
 
@@ -168,5 +181,20 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enjoy-the-joy-of-joint-youtube-video-experiences/"><u>[New] Enjoy the Joy of Joint YouTube Video Experiences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-tiktok-facebook-content-exchange/"><u>[New] In 2024, Navigating the TikTok-Facebook Content Exchange</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-zd-soft-screen-recorder-a-comprehensive-handbook-for-2024/"><u>[New] Mastering ZD Soft Screen Recorder A Comprehensive Handbook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>[New] The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-silent-insights-into-improving-visual-elements/"><u>[Updated] Silent Insights Into Improving Visual Elements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-social-potential-sharing-panoramic-content-with-facebook/"><u>[Updated] Unlock Social Potential Sharing Panoramic Content with Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-adding-youtube-media-to-google-slides/"><u>2024 Approved The Ultimate Guide to Adding YouTube Media to Google Slides</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-the-version-of-powershell-in-windows-10-essential-steps-for-users/"><u>Determining the Version of PowerShell in Windows 10: Essential Steps for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-green-light-back-repairing-asus-laptop-webcam-issues-in-windows-10/"><u>Getting the Green Light Back: Repairing ASUS Laptop Webcam Issues in Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-iphone-tips-effortless-video-length-and-size-control/"><u>Proven iPhone Tips Effortless Video Length & Size Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reboot-and-repair-windows-explorer-error/"><u>Reboot & Repair: Windows Explorer Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-required-incompatible-display-timeout-detected-on-your-screen/"><u>Solution Required: Incompatible Display Timeout Detected on Your Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-user-profile-service-sign-in-issues-in-windows-1011/"><u>Troubleshooting User Profile Service Sign-In Issues in Windows 10/11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win11 Proven: Reducing WMI Provider Host CPU Load"
-date: 2024-09-10T23:13:03.401Z
-updated: 2024-09-18T03:05:49.903Z
+date: 2024-10-15T05:48:03.199Z
+updated: 2024-10-15T22:32:58.175Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -41,6 +54,13 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -76,16 +96,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -95,22 +115,15 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -125,16 +138,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -162,5 +175,19 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>[Updated] 2024 Approved Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-insight-free-access-to-1-6-video-clips-for-2024/"><u>[Updated] Exclusive Insight Free Access to #1-#6 Video Clips for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-editing-to-boost-youtube-profile-impact/"><u>2024 Approved Leverage Editing to Boost YouTube Profile Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>2024 Approved Seamless Transition Leading 8 Tools for Sub to SRT Changeover</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/direct-sequence-spread-spectrum-dsss/"><u>Direct Sequence Spread Spectrum (DSSS):</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-collection-of-iphone-antivirus-programs-top-picks-for-optimal-safety/"><u>Discover the Ultimate Collection of iPhone Antivirus Programs - Top Picks for Optimal Safety</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/entering-metaverse-essential-vr-headset-picks/"><u>Entering Metaverse Essential VR Headset Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-to-resolving-windows-error-0xc0000098-with-these-simple-steps/"><u>Fast Track to Resolving Windows Error 0xC0000098 with These Simple Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-uninterrupted-file-downloads-bypass-timeout-issues/"><u>Mastering the Art of Uninterrupted File Downloads: Bypass Timeout Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-handbrake-alternative-seamless-dvd-and-video-conversion/"><u>Top-Rated Handbrake Alternative: Seamless DVD & Video Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-screen-shuddering-issues-heres-how-you-can-fix-it-now/"><u>Windows 11 Screen Shuddering Issues? Here's How You Can Fix It Now!</u></a></li>
+</ul></div>
 

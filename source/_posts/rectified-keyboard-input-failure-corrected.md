@@ -1,7 +1,7 @@
 ---
 title: "Rectified: Keyboard Input Failure Corrected"
-date: 2024-10-06T21:26:27.276Z
-updated: 2024-10-09T17:10:23.523Z
+date: 2024-10-10T23:13:46.066Z
+updated: 2024-10-15T21:52:25.812Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/b92970fb02a09749baa6f2838ddd89dd174bd2bb3
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -61,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/b92970fb02a09749baa6f2838ddd89dd174bd2bb3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -99,31 +92,38 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
@@ -142,10 +142,10 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
@@ -170,21 +170,24 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comprehensive-list-zoom-recording-must-haves/"><u>[New] 2024 Approved Comprehensive List Zoom Recording Must-Haves</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-instant-social-interaction-tweetplusfb-guide/"><u>[New] Instant Social Interaction Tweet+FB Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-innocence-betrayed-consequences-of-acquiring-sham-supporters-in-social-media-for-2024/"><u>[Updated] Innocence Betrayed Consequences of Acquiring Sham Supporters in Social Media for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-the-mystery-behind-failed-windows-update-downloads-restore-your-pcs-update-functionality/"><u>Decoding the Mystery Behind Failed Windows ^Update Downloads - Restore Your PC's Update Functionality!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-resolving-issues-with-a-malfunctioning-corsair-keyboard/"><u>Expert Guide: Resolving Issues with a Malfunctioning Corsair Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-and-preventing-windows-error-code-0x800704cf-from-recurring/"><u>Expert Tips for Fixing and Preventing Windows Error Code 0X800704CF From Recurring</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-nier-re-release-keeps-failing-to-initialize/"><u>Fixing the Issue: NieR Re-Release Keeps Failing to Initialize</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-steam-bootloader-hiccup-solutions-for-a-smooth-launcher-experience/"><u>Overcoming the Steam Bootloader Hiccup: Solutions for a Smooth Launcher Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/security-features-reinstated-local-authorization-now-active/"><u>Security Features Reinstated – Local Authorization Now Active</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171447600-series-x-disc-woes-find-the-eject-fix-now/"><u>Series X Disc Woes, Find the Eject Fix Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-broken-dell-speaker-connections-and-performance/"><u>Step-by-Step Fixes for Broken Dell Speaker Connections and Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stop-feeling-shy-top-10-reasons-iphones-may-cause-blush-moments-and-solutions-to-overcome-them/"><u>Stop Feeling Shy: Top 10 Reasons iPhones May Cause Blush Moments & Solutions to Overcome Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208333454-unstick-your-windows-update-from-100-with-these-proven-fixes/"><u>Unstick Your Windows Update From 100% with These Proven Fixes!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fb-upload-strategies-for-mobile-and-desktop/"><u>[New] Facebook FB Upload Strategies for Mobile & Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-photoslideshow-pro-on-insta/"><u>2024 Approved PhotoSlideshow Pro on Insta</u></a></li>
+<li><a href="https://fox-info.techidaily.com/21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-code-24-errors-in-windows-operating-systems-solutions-for-windows-11-8-and-easily-fix-the-issue/"><u>Diagnosing Code 24 Errors in Windows Operating Systems - Solutions for Windows 11, 8, and Easily Fix the Issue.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-take-the-ai-route-5-essential-factors-that-make-chatgpt-an-unreliable-medical-advisor/"><u>Don't Take the AI Route – 5 Essential Factors That Make ChatGPT an Unreliable Medical Advisor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-bluetooth-device-sync-challenges-on-your-windows-11-pc-updated/"><u>Expert Tips to Overcome Bluetooth Device Sync Challenges on Your Windows 11 PC (Updated )</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-your-ios-device-ready-how-to-install-iphone-drivers-on-windows-10/"><u>Getting Your iOS Device Ready: How to Install iPhone Drivers on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashing-on-your-pc-a-step-by-step-guide/"><u>How To Fix Scavengers Crashing On Your PC: A Step-By-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/live-broadcast-essentials-for-macos-users-on-mixer-for-2024/"><u>Live Broadcast Essentials for macOS Users on Mixer for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-common-windows-update-failure-the-ultimate-remedy-for-error-0x8024200d-completed/"><u>Mastering Fixes for Common Windows Update Failure - The Ultimate Remedy for Error 0X8024200D [COMPLETED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-and-pc-woes-gone-a-step-by-step-guide-to-updating-video-card-drivers-for-a-smooth-experience-on-windows-systems/"><u>Minecraft and PC Woes Gone! A Step-by-Step Guide to Updating Video Card Drivers for a Smooth Experience on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-path-to-file-alteration-freedom-with-trustedinstallers-blessings/"><u>Navigating the Path to File Alteration Freedom with TrustedInstaller's Blessings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-graphics-hurdles-in-fortnite-a-guide-for-windows-users/"><u>Overcoming Graphics Hurdles in Fortnite: A Guide for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-youtubes-greenscreen-mishaps-effectively/"><u>Overcoming YouTube's Greenscreen Mishaps Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/realtek-pcie-gbe-family-controller-drivers-for-windows-10-7/"><u>Realtek PCIe GBE Family Controller Drivers for Windows 10, 7…</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/skyrim-load-screen-limbo-heres-how-to-fix-that-persistent-problem/"><u>Skyrim Load Screen Limbo? Here's How to Fix That Persistent Problem</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/alutations-and-beyond-youtubes-premier-yoga-pages/"><u>Sun Salutations & Beyond – YouTube's Premier Yoga Pages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211678424-troubleshoot-your-overwatch-audio-solving-voice-chat-glitches-fast/"><u>Troubleshoot Your Overwatch Audio: Solving Voice Chat Glitches Fast</u></a></li>
 </ul></div>
 

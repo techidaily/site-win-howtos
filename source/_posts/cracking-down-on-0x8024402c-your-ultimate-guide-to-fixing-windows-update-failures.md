@@ -1,7 +1,7 @@
 ---
 title: "Cracking Down on 0X8024402C: Your Ultimate Guide to Fixing Windows Update Failures"
-date: 2024-10-07T22:54:12.648Z
-updated: 2024-10-09T23:06:07.968Z
+date: 2024-10-11T05:40:50.320Z
+updated: 2024-10-16T05:48:34.579Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
@@ -72,16 +72,10 @@ Find and click to open Command Prompt from Start menu.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Run the commands below one by one.
@@ -94,13 +88,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -111,6 +98,13 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -118,13 +112,6 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -136,20 +123,14 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-Now try to install Windows Updates now.
-
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now try to install Windows Updates now.
 
 ## Fix 4\. Configure Updates Client
 
@@ -180,6 +161,13 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**WindowsUpdate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
@@ -214,20 +202,20 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-zoom-for-the-first-timer-easy-to-follow-guidelines/"><u>[New] 2024 Approved Zoom for the First Timer Easy-to-Follow Guidelines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-discord-mic-not-working/"><u>[Solved] Discord Mic Not Working</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-download-and-utilize-the-full-power-of-ez-grabber-quickly/"><u>[Updated] In 2024, Download and Utilize the Full Power of EZ Grabber Quickly</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-exclusive-roundup-the-best-video-to-mp3-converters/"><u>2024 Approved Exclusive Roundup The Best Video to Mp3 Converters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-blackouts-in-your-obs-recordings-expert-tips-and-tricks/"><u>Eliminating Blackouts in Your OBS Recordings – Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halo-4-fatal-system-crash-on-unreal-engine-4-here-are-your-ultimate-solutions/"><u>Halo 4 Fatal System Crash on Unreal Engine 4? Here Are Your Ultimate Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-obs-gameplay-recording-errors-with-a-plain-black-screen/"><u>How to Address OBS Gameplay Recording Errors with a Plain Black Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-windows-update-issue-error-code-0x802n401c-on-win11-systems/"><u>How to Overcome the Persistent Windows Update Issue (Error Code 0X802n401c) on Win11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-fix-overcoming-no-battery-detected-issues-swiftly/"><u>Immediate Fix: Overcoming 'No Battery Detected' Issues Swiftly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi 14 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/professional-evaluation-of-the-xp-pen-artist-16-pro-sketchpad/"><u>Professional Evaluation of the XP-Pen Artist 16 Pro Sketchpad</u></a></li>
-<li><a href="https://win11.techidaily.com/reward-system-reboot-for-your-favorite-titles/"><u>Reward System Reboot for Your Favorite Titles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-operation-prompts-easily-navigate-administrator-privileges-on-your-computers-operating-system/"><u>Solving Operation Prompts: Easily Navigate Administrator Privileges on Your Computer's Operating System</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-live-broadcast-essentials-for-macos-users-on-mixer/"><u>[New] Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-earning-potential-revenue-from-youtube-advertisements-in-2024/"><u>[Updated] Exploring Earning Potential Revenue From YouTube Advertisements, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fill-the-airwaves-with-no-cost-songs-for-2024/"><u>[Updated] Fill the Airwaves with No-Cost Songs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jestjungle-your-gateway-to-universal-comedy/"><u>2024 Approved JestJungle Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-cloudy-skies-fixed-nvidia-errors-now/"><u>Clearing Up Cloudy Skies: Fixed NVIDIA Errors Now</u></a></li>
+<li><a href="https://techidaily.com/elevate-user-experience-with-cookiebot-technology-integration/"><u>Elevate User Experience with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-vga-driver-downloads-for-optimal-performance-grab-them-here/"><u>Essential VGA Driver Downloads for Optimal Performance - Grab Them Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Plus Without Passcode Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-woes-fixed-logitechs-wireless-glitch/"><u>Mouse Woes: Fixed Logitech's Wireless Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207418995-nba-2k21s-green-cash-glitch-unraveled-solutions-and-workarounds/"><u>NBA 2K21's Green Cash Glitch Unraveled - Solutions and Workarounds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-free-realtek-bluetooth-drivers-available-now-compatible-with-windows-11-and-windows-10/"><u>Newest Free RealTek Bluetooth Drivers Available Now: Compatible with Windows 11 & Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/playlist-pilgrimage-seamless-music-service-journeying-for-2024/"><u>Playlist Pilgrimage Seamless Music Service Journeying for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-ps4-charger-problems-expert-tips-and-tricks/"><u>Resolve Your PS4 Charger Problems - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixed-fixing-non-responsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Fixed: Fixing Non-Responsive Touchpad Scroll Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-10-startup-freezes-how-to-get-your-pc-running-smoothly-again/"><u>Troubleshooting Tips for Windows 10 Startup Freezes: How to Get Your PC Running Smoothly Again</u></a></li>
 </ul></div>
 

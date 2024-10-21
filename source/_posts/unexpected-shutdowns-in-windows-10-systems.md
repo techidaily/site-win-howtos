@@ -1,7 +1,7 @@
 ---
 title: Unexpected Shutdowns in Windows 10 Systems
-date: 2024-10-14T03:50:23.042Z
-updated: 2024-10-15T23:50:51.959Z
+date: 2024-10-19T21:49:27.002Z
+updated: 2024-10-21T20:38:28.301Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Disable automatically restart feature
@@ -58,14 +58,22 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 2. Click **Advanced system settings** \> **Settings…**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78bc1c2002.jpg)
 3. Uncheck **Automatically restart** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78c0452d84.png)
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
 
@@ -78,18 +86,26 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 1. Type **Power Options**  in the search box from Start. Then click**Edit power plan** or other items relates to power settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79395b78b6.png)
 2. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
 3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
 4. Work on your computer for a while to see if it restarts randomly. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -129,29 +145,31 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
@@ -168,13 +186,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 ## Fix 6: Check power issue
@@ -184,16 +195,10 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
  In this case, you can try to**replace the power cables** and **power supply unit** (PSU) to see if your computer still keeps restarting. If so, please move on to check other possible hardware issues.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Make sure the computer is not overheating
@@ -205,13 +210,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
  You can usually use free tools like [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) or [AIDA64](https://www.aida64.com/downloads) to tell whether your computer CPU, the CPU core, and the GPU are running too hot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-84.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here is a detailed post with more detailed information if your computer is overheating and how you can do about it: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -234,15 +232,24 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-dial-in-on-quality-a-step-by-step-zoom-setup-guide/"><u>[Updated] In 2024, Dial in on Quality A Step-by-Step Zoom Setup Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-snagging-quality-streams-on-facebook-for-2024/"><u>[Updated] Tips for Snagging Quality Streams on Facebook for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-edition-selective-sierra-video-editors/"><u>2024 Approved Premiere Edition Selective Sierra Video Editors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024-top-8/"><u>2024에 대한 Top 8 인공 지능 음성 매개된 언어 교정 소품화</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-window-11-barriers-to-installing-your-clipchamp-effectively/"><u>Fix Window 11 Barriers to Installing Your ClipChamp Effectively</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-tus-audios-m4b-y-m4a-en-video-m4v-sin-coste-guia-detallada-con-el-utilizador-on-line-de-movavi/"><u>Transforma Tus Audios M4B Y M4A en Vídeo M4V Sin Coste: Guía Detallada Con El Utilizador On-Line De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/verknopt-harmonieuze-liedjes-vergelst-met-de-movavi-mp3-linkmaker/"><u>Verknopt Harmonieuze Liedjes Vergelst Met De Movavi MP3-Linkmaker</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-speed-tutorial-changing-photos-into-engaging-youtube-thumbnails/"><u>[New] Speed Tutorial Changing Photos Into Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-best-instagram-scheduler-for-android-and-iphone/"><u>[Updated] 8 Best Instagram Scheduler for Android and iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>[Updated] Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-post-vlc-era-unveiling-new-player-titans/"><u>2024 Approved Post-VLC Era Unveiling New Player Titans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-for-unsuccessful-windows-10-v1607-feature-installation/"><u>Common Fixes for Unsuccessful Windows 10 v1607 Feature Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-audio-glitches-with-youtube-video-player-errors-on-windows-11-systems/"><u>Diagnose and Fix Audio Glitches with YouTube Video Player Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-steps-to-stop-endless-restart-cycles-in-windows-11/"><u>Effortless Solution Steps to Stop Endless Restart Cycles in Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/identifying-hidden-account-activities/"><u>Identifying Hidden Account Activities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 11 Pro Max or iPad?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-red-screen-glitch-with-easy-fixes-and-expert-advice/"><u>Overcoming the 'Red Screen' Glitch with Easy Fixes and Expert Advice</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/simplest-way-win-clownfish-vocal-alteration-tool-for-2024/"><u>Simplest Way Win Clownfish Vocal Alteration Tool for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-1n-repeated-reboot-problem-with-simple-steps/"><u>Solving the Windows 1N Repeated Reboot Problem with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-stop-your-computer-mouse-from-dropping-out/"><u>Step-by-Step Guide to Stop Your Computer Mouse From Dropping Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-healthy-system-files-on-your-windows-operating-system/"><u>Step-by-Step Guide: Restoring Healthy System Files on Your Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-bluetooth-mouse-failing-on-windows-devices/"><u>Step-by-Step Solution for 'Bluetooth Mouse Failing' On Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-geforce-experience-access-issues-successfully/"><u>Troubleshooting and Repairing GeForce Experience Access Issues Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722876570825-understanding-smartwatches-functions-and-features-explained/"><u>Understanding Smartwatches: Functions and Features Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Redmi Note 12 5G Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-large-language-model-reigns-supreme-a-comparison-of-bard-chatgpt-and-offline-alpaca-for-optimal-performance/"><u>Which Large Language Model Reigns Supreme? A Comparison of Bard, ChatGPT, and Offline Alpaca for Optimal Performance</u></a></li>
 </ul></div>
 

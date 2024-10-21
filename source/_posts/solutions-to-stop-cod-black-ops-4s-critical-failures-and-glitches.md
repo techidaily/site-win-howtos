@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches
-date: 2024-10-08T19:59:07.051Z
-updated: 2024-10-16T03:09:16.754Z
+date: 2024-10-20T21:38:45.134Z
+updated: 2024-10-21T20:42:35.595Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -44,22 +57,15 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -81,29 +87,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -148,6 +134,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -156,20 +149,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,20 +205,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-upside-down-and-sideways-iphone-photos/"><u>[Updated] In 2024, Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-troubleshooting-xavc-s-footage-a-guide-to-successful-import-into-davinci-resolve/"><u>1. Troubleshooting XAVC-S Footage: A Guide to Successful Import Into Davinci Resolve</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-c67-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme C67 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-listenlogic-evaluating-alternatives-to-dacast/"><u>2024 Approved ListenLogic Evaluating Alternatives to DaCast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experts-guide-to-fixing-a-stuck-windows-11-taskbar-with-proven-methods/"><u>Experts' Guide to Fixing a Stuck Windows 11 Taskbar with Proven Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-amv-to-mp4-konvertoren-efficient-online-tool-voor-videokonversie-movavi/"><u>Gratuit AMV-to-MP4 Konvertoren: Efficiënt Online Tool Voor Videokonversie - Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-easily-screen-capture-using-windows-11-a-guide-with-4-techniques/"><u>How to Easily Screen Capture Using Windows 11: A Guide with 4 Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207639385-overcome-google-chromes-critical-error-menace-a-users-survival-guide-against-scams/"><u>Overcome Google Chrome's Critical Error Menace: A User’s Survival Guide Against Scams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-operation-requirements-elevation-rights-on-microsoft-windows-systems/"><u>Overcoming Operation Requirements: Elevation Rights on Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sound-problems-how-to-get-your-mic-working-again-on-windows-11/"><u>Resolving Sound Problems: How to Get Your Mic Working Again on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-spontaneous-computer-shutdown-troubleshooting-guide/"><u>Resolving the Issue of Spontaneous Computer Shutdown - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-typing-problems-a-guide-for-fixing-a-broken-key/"><u>Resolving Typing Problems: A Guide for Fixing a Broken '@' Key</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-airpod-connection-issue-on-microsofts-latest-operating-systems-top-strategies/"><u>Solving the AirPod Connection Issue on Microsoft's Latest Operating Systems - Top Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-ai-and-what-dangers-does-it-pose/"><u>What Is AI and What Dangers Does It Pose?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-tips-for-maximizing-harvests-in-valheims-agriculture/"><u>[New] In 2024, Essential Tips for Maximizing Harvests in Valheim's Agriculture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-animated-visuals-on-discord-without-nitro-subscription/"><u>[Updated] 2024 Approved Unlocking Animated Visuals on Discord without Nitro Subscription</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[Updated] Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/pc-ssd/"><u>「PC SSDデータ回収・復元ガイド - 手軽なステップバイステップツール」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tech-picks-for-entering-and-thriving-in-the-metaverse/"><u>2024 Approved Top Tech Picks for Entering and Thriving in the Metaverse</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029097895-amv/"><u>安全で簡単なAMVファイル交換ソフトとオンラインリポジトリ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-methods-to-resolve-windows-file-system-errors-and-enhance-stability/"><u>Essential Methods to Resolve Windows File System Errors and Enhance Stability</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-verdict-on-corsair-one-pro-elevating-gameplay-with-advanced-tech-and-design/"><u>Expert Verdict on Corsair One Pro: Elevating Gameplay with Advanced Tech & Design</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-and-fortify-explore-crashes-in-win/"><u>Fix and Fortify: Explore Crashes in Win</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-steam-store-not-loading-problem-tips-and-solutions-for-gamers/"><u>Solving 'Steam Store Not Loading' Problem: Tips & Solutions for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-nonresponsive-windows-key-on-windows-10-pcs/"><u>The Ultimate Fix for a Nonresponsive Windows Key on Windows 10 PCs</u></a></li>
 </ul></div>
 

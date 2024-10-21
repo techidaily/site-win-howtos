@@ -1,7 +1,7 @@
 ---
 title: Slumbering System, No Signal on Win11/10
-date: 2024-10-12T03:49:03.287Z
-updated: 2024-10-16T04:11:00.355Z
+date: 2024-10-19T18:46:26.568Z
+updated: 2024-10-21T16:39:28.314Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ The good news is that it can be fixed quickly and easily.
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update your device drivers
 
  If your device driver misbehaves, then the error may also occur. So you can update your drivers to try to fix the issue.
@@ -74,13 +67,6 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
@@ -88,6 +74,13 @@ The good news is that it can be fixed quickly and easily.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If updating the driver didn’t help you, go on to follow other solutions:
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Disable USB Root Hubs
 
@@ -97,21 +90,35 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
 
  Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
 
@@ -122,26 +129,20 @@ To check which USB Root Hub is for your keyboard and mouse:
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
@@ -157,20 +158,13 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -199,22 +193,16 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-mac-gif-recording-top-10-picks-for-2024/"><u>[New] Professional Mac GIF Recording Top 10 Picks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/"><u>[Updated] Enhancing Outdoor Vision with GoPro and Live Streaming Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-sustaining-longer-gopro-battery-life-for-2024/"><u>A Guide to Sustaining Longer GoPro Battery Life for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-walkthrough-powerdirector-24-edition/"><u>Complete Walkthrough PowerDirector '24 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-unlock-achieved-revised-security-configuration-allows-file-retrieval/"><u>Download Unlock Achieved: Revised Security Configuration Allows File Retrieval</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fresh-techniques-for-boosting-minecraft-gameplay-and-reducing-lag/"><u>Fresh Techniques for Boosting Minecraft Gameplay and Reducing Lag</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-nonfunctional-camera-on-your-hp-notebook-running-windows-11/"><u>How to Fix a Nonfunctional Camera on Your HP Notebook Running Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-slots-on-your-pc-running-windows-1011/"><u>How to Fix Unresponsive USB Slots on Your PC Running Windows 10/11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-behind-the-scenes-mastering-the-craft-of-streaming-archiving/"><u>In 2024, Behind the Scenes Mastering the Craft of Streaming Archiving</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-hiccups-restoring-functionality-to-your-unresponsive-google-chrome-browser/"><u>No More Hiccups: Restoring Functionality to Your Unresponsive Google Chrome Browser</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/rapidrecord-fullscreen-feature/"><u>RapidRecord Fullscreen Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-user-account-control-prompts-in-windows-11-10-and-7/"><u>Resolve User Account Control Prompts in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-essential-tutorial-for-xbox-fb-streams/"><u>The Essential Tutorial for Xbox FB Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-reduce-gpu-load-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions to Reduce GPU Load by the Desktop Window Manager on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-cannot-read-file-paths-effective-solutions-and-tips/"><u>Troubleshooting Windows 'Cannot Read File Paths': Effective Solutions and Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-note-30-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Note 30? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-hdr-cameras-a-buyers-selection-guide/"><u>[New] 2024 Approved Elite HDR Cameras A Buyer's Selection Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-one-step-guide-for-sharing-tiktok-videos-on-facebook/"><u>[New] One-Step Guide for Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-plotline-path-to-youtube-prosperity/"><u>[Updated] 2024 Approved Plotline Path to YouTube Prosperity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-iphone-video-mastery-from-fast-to-extremely-slow-motion-content/"><u>[Updated] IPhone Video Mastery From Fast to Extremely Slow Motion Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-8-youtube-rankers-for-content-optimization-revealed/"><u>2024 Approved Top 8 YouTube Rankers for Content Optimization Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-handle-undefined-classes-on-windows-10-systems-guide/"><u>How to Handle Undefined Classes on Windows 10 Systems [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-illumination-to-your-faulty-corsair-board/"><u>How to Restore Illumination to Your Faulty Corsair Board</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206584186-hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-best-mobile-video-editors-with-special-effects-free-download-for-2024/"><u>New S Best Mobile Video Editors with Special Effects Free Download for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-steam-games-missing-files-and-privileges-problem/"><u>Solving Your Steam Game's Missing Files and Privileges Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-unreliable-claims-under-scrutiny/"><u>ZeroGPT Unreliable Claims Under Scrutiny</u></a></li>
 </ul></div>
 

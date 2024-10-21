@@ -1,7 +1,7 @@
 ---
 title: Chrome in Crisis? Here’s How to Restore Your Browser From a Total Blackout
-date: 2024-10-09T18:10:15.684Z
-updated: 2024-10-15T18:36:52.459Z
+date: 2024-10-15T20:49:19.035Z
+updated: 2024-10-21T16:21:44.666Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
@@ -59,24 +59,24 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
 
-If your problem persists, then move on and try the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If your problem persists, then move on and try the fix below.
 
 ### Fix 2: Run the Bluetooth troubleshooter
 
@@ -94,6 +94,13 @@ If your problem persists, then move on and try the fix below.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Set the Bluetooth support service
 
  You’re likely to encounter the Bluetooth not detecting devices error if the Bluetooth service isn’t running properly on your PC. To see if that’s the core issue, follow the instructions below:
@@ -102,27 +109,20 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**services.msc** , then hit the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
@@ -152,18 +152,18 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -187,22 +187,18 @@ If your issue continues to occur, then try the next solution, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unveiling-the-art-of-masterful-job-interview-execution/"><u>[New] In 2024, Unveiling the Art of Masterful Job Interview Execution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-videography-space-capacities-and-limits-of-64128gb-units-for-2024/"><u>[New] Videography Space Capacities and Limits of 64/128GB Units for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-some-settings-are-managed-by-your-organization-on-windows/"><u>[Solved] Some Settings Are Managed by Your Organization on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-use-snap-camera-for-microsoft-teams-for-2024/"><u>[Updated] How to Use Snap Camera for Microsoft Teams for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-gallery-archive-services-for-2024/"><u>[Updated] Leading Gallery Archive Services for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-out-building-your-youtube-presence-and-earning/"><u>[Updated] Starting Out Building Your YouTube Presence & Earning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-performance-tools-youtube-meets-twitter/"><u>High-Performance Tools YouTube Meets Twitter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-file-explorer-running-smoothly-again-in-windows-11/"><u>How To Get Your File Explorer Running Smoothly Again in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-8-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ingenious-solutions-to-reactivate-and-illuminate-your-dormant-razer-keyboard/"><u>Ingenious Solutions to Reactivate and Illuminate Your Dormant Razer Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/number-of-females-surveyed-nfemale-756/"><u>Number of Females Surveyed (N_female) = 756</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-6-reasons-to-quit-the-online-obsession/"><u>The 6 Reasons to Quit the Online Obsession</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-steam-updates-failing-to-download-scenario/"><u>The Ultimate Fixes for 'Steam Updates Failing to Download' Scenario</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/time-trackers-in-action-using-obs-for-timed-events-for-2024/"><u>Time Trackers in Action Using OBS for Timed Events for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-netsvcs-understanding-svchostexe-and-solving-its-excessive-network-consumption/"><u>Troubleshooting NETSVCS: Understanding svchost.exe & Solving Its Excessive Network Consumption</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-error-code-0xc0000098-in-windows/"><u>Troubleshooting Tips for Fixing Error Code 0xC0000098 in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unresponsive-updownleftright-arrow-keys-top-troubleshooting-tips/"><u>Unresponsive Up/Down/Left/Right Arrow Keys: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-decoding-techniques-in-human-gesture-recognition/"><u>[New] In 2024, Decoding Techniques in Human Gesture Recognition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>[Updated] 2024 Approved Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fearless-filming-mastering-your-first-10-clips-for-2024/"><u>[Updated] Fearless Filming Mastering Your First 10 Clips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-issues-with-webcams-built-into-windows-computers/"><u>Diagnosing and Solving Issues with Webcams Built Into Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-dealing-with-non-responsive-wacom-tablets/"><u>Effective Solutions for Dealing With Non-Responsive Wacom Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202188947-error-4000-on-twitch-heres-the-definitive-solution-you-need/"><u>Error 4000 on Twitch? Here's the Definitive Solution You Need</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-serious-sam-4-freezing-stuttering-and-crashing-problems-on-windows-machines/"><u>How to Fix Serious Sam 4 Freezing, Stuttering, and Crashing Problems on Windows Machines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-meizu-21-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Meizu 21 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-editing-pros-in-dev-device-content-for-2024/"><u>Leading Editing Pros in Dev Device Content for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-9-official-sites-for-watching-anime-online-without-any-worries/"><u>Top 9 Official Sites for Watching Anime Online Without Any Worries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-xerox-printer-updates-resolve-error-code-0x800f020b-in-windows-effortlessly/"><u>Troubleshoot Xerox Printer Updates: Resolve Error Code 0X800f020b in Windows Effortlessly!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-tempo-adjustments-aligning-audio-and-visuals-in-fcpx/"><u>Updated 2024 Approved Mastering Tempo Adjustments Aligning Audio and Visuals in FCPX</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2024-10-08T17:18:42.727Z
-updated: 2024-10-16T01:04:35.465Z
+date: 2024-10-16T21:34:53.671Z
+updated: 2024-10-21T21:25:08.033Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -105,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -125,18 +132,18 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -144,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -155,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
  2) Click **System** .
@@ -169,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -232,22 +232,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-frontier-top-360-cameras-for-industry-pros-2023/"><u>[Updated] Exploring the Frontier Top 360° Cameras for Industry Pros, 2023</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-se-2022-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone SE (2022)</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes-for-2024/"><u>Auditory Aesthetics for Slides Infusing Your PPT with Tunes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-windows-update-error-0x8024200d-step-by-step-troubleshooting-tips-fixed/"><u>Bypass Windows Update Error 0X8024200d – Step-by-Step Troubleshooting Tips [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-windows-10-install-failure-error-80240020-quick-fixes-and-tips/"><u>Conquering the 'Windows 10 Install Failure' (Error 80240020) - Quick Fixes & Tips</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/creating-your-own-windows-server-2019-rescue-disks-a-comprehensive-tutorial/"><u>Creating Your Own Windows Server 2019 Rescue Disks – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-typing-issues-on-windows-machines-11-7-and-8/"><u>Diagnosing and Fixing Typing Issues on Windows Machines (11, 7 & 8)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-persuasion-through-30-powerful-video-themes/"><u>Elevate Persuasion Through 30 Powerful Video Themes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-corrupted-system-services-issue-in-windows-10/"><u>Fixing the Corrupted System Services Issue in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-experience-setting-recovery-guide-resolve-the-unable-to-retrieve-dilemma/"><u>GeForce Experience Setting Recovery Guide: Resolve the 'Unable to Retrieve' Dilemma</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/how-to-color-match-different-video-clips-in-powerdirector-for-2024/"><u>How to Color Match Different Video Clips in PowerDirector for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-7-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tales-of-timeless-togetherness-this-seasons-top-10/"><u>Tales of Timeless Togetherness This Season's Top 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-issues-with-windows-10-version-1903-upgrade/"><u>Troubleshooting Guide: Resolving Issues with Windows 10 Version 1903 Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-issue-when-applicationexe-fails-to-run/"><u>Understanding and Repairing the Issue When 'Application.exe' Fails to Run</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-the-0x80072efd-error-effective-fixes-for-windows-10-users/"><u>Winning Against the 0X80072EFD Error: Effective Fixes for Windows 10 Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-auditory-aesthetics-guide-media-sound-choices/"><u>[New] In 2024, Auditory Aesthetics Guide Media Sound Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[New] Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-presentations-add-youtube-in-google-slides/"><u>[Updated] Elevate Presentations - Add YouTube in Google Slides</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpgmpegflv-movavi/"><u>簡便體驗MPG/MPEG動態視頻在線自由FLV轉换 - Movavi的智能解决方案</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-frozen-screens-expert-advice-for-thawing-out-stalled-devices/"><u>Conquering Frozen Screens: Expert Advice for Thawing Out Stalled Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdr-unveiled-insightful-guide-for-professionals/"><u>In 2024, Quantum HDR Unveiled Insightful Guide for Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-event-id-1000-malfunction-in-microsofts-latest-windows-systems-7-8-and-10/"><u>Mastering the Fix of Event ID 1000 Malfunction in Microsoft's Latest Windows Systems: 7, 8 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-repairing-a-non-responsive-touchscreen-on-windows-10-5-methods/"><u>Troubleshooting Tips: Repairing a Non-Responsive Touchscreen on Windows 10 (5 Methods)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-non-responsive-s-pen-in-your-galaxy-note-series/"><u>Ultimate Troubleshooting Tips for Non-Responsive S Pen in Your Galaxy Note Series</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Found! What to Do When Numbers on Keyboard Won't Work
-date: 2024-10-13T05:39:33.364Z
-updated: 2024-10-16T01:57:52.256Z
+date: 2024-10-20T16:10:38.100Z
+updated: 2024-10-21T21:56:49.891Z
 tags:
   - win11
   - win10
@@ -36,16 +36,16 @@ Try one at a time:
 2. [Uninstall your Dell laptop keyboard driver](#solution2)
 3. [Update your Dell laptop keyboard driver](#solution3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Restart your laptop
 
  One of the easy quick solution to solve your keyboard not working problem is to restart your laptop. Some users found that restart really made their keyboard work again at once. Thus try to restart your laptop firstly. If your keyboard still doesn’t work, no panic, try other solutions listed below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Uninstall your Dell laptop keyboard driver
 
@@ -60,26 +60,26 @@ Try one at a time:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find and expand the **Keyboards** section. Then**right-click** on your keyboard driver software and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7abb9f41954.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When it completes uninstalling, restart your Dell laptop. Then Windows will reinstall the keyboard driver automatically. Check if your keyboard could work properly.
 
  If unfortunately, your keyboard still stops working, follow the next solution to completely update your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Update your Dell laptop keyboard driver
 
@@ -95,18 +95,18 @@ Try one at a time:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7947e3a5464.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ac5f50c04a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your laptop to make the new driver take effect and try to press any key on your keyboard to see if your keyboard works.
 
@@ -127,24 +127,18 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-wmi-provider-host-high-cpu-usage-on-windows-1011-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 10/11 | Quickly & Easily!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-art-of-high-quality-video-production-in-obs/"><u>[Updated] Mastering the Art of High-Quality Video Production in OBS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-available-exterior-bd-drive-models-for-optimal-media-viewing/"><u>Best Available Exterior BD Drive Models for Optimal Media Viewing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dsss-spreads-the-signal-across-a-wide-band-using-a-pseudorandom-noise-code-enhancing-resistance-to-jamming/"><u>DSSS Spreads the Signal Across a Wide Band Using a Pseudorandom Noise Code, Enhancing Resistance to Jamming.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/t-tips-for-dealing-with-youtube-copyright-notifications-for-2024/"><u>Expert Tips for Dealing With YouTube Copyright Notifications for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-bluetooth-keypad-connection-issue-on-windows-or-mac-devices/"><u>How to Fix a Bluetooth Keypad Connection Issue on Windows or Mac Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a15-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A15 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-xr21-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia XR21 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/interface-issue-keyboard-revived/"><u>Interface Issue: Keyboard Revived</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-to-downloading-and-setting-up-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and165/"><u>Quick Guide To Downloading And Setting Up Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-rapidly-improving-your-sluggish-keyboard-reaction-time/"><u>Simple Solutions for Rapidly Improving Your Sluggish Keyboard Reaction Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stabilizing-high-cpu-windows-systems/"><u>Stabilizing High-CPU Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-drivers-startech-support-on-winxp-811/"><u>Streamlined Drivers: StarTech Support on WinXP, 8/11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y27-4g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y27 4G Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-keyboard-buttons-in-windows-systems-w10w8w7-fixes/"><u>Troubleshooting Non-Functional Keyboard Buttons in Windows Systems - W10/W8/W7 Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-service-failed-errors-on-your-windows-1011-account-login/"><u>Troubleshooting Steps for 'Service Failed' Errors on Your Windows 10/11 Account Login</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-key-variations-between-community-driven-company-managed-and-personal-ai-experiences/"><u>Unveiling the Key Variations Between Community-Driven, Company-Managed, and Personal AI Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-step-by-step-approach-to-saving-your-screen-while-streaming-for-2024/"><u>[New] A Step-by-Step Approach to Saving Your Screen While Streaming for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[New] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exploring-splitcams-recording-capabilities-and-excellence/"><u>[New] In 2024, Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dissecting-youtubes-operational-model-post-upload-for-2024/"><u>[Updated] Dissecting YouTube's Operational Model Post-Upload for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[Updated] In 2024, Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-live-stream-on-youtube-gaming/"><u>2024 Approved How to Live Stream on YouTube Gaming?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battle-royale-gaming-fixes-for-game-crashing/"><u>Battle Royale Gaming: Fixes for Game Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-for-computer-wont-stay-awake-problems/"><u>Effortless Troubleshooting for Computer Won't Stay Awake Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-15-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 15 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-precision-in-visuals-how-to-blur-backgrounds-on-teamblend/"><u>In 2024, Precision in Visuals How to Blur Backgrounds on Teamblend</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-windows-update-issue-error-code-0x802n4002e/"><u>Resolved: Fixing the Windows Update Issue - Error Code 0X802n4002E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-problems-no-more-overcoming-frequent-computer-system-lock-ups/"><u>Silent Problems No More: Overcoming Frequent Computer System Lock-Ups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-high-cpu-usage-by-tackling-provider-host-issues/"><u>Slash High CPU Usage by Tackling Provider Host Issues</u></a></li>
 </ul></div>
 

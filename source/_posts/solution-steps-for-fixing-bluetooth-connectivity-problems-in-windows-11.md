@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Fixing Bluetooth Connectivity Problems in Windows 11
-date: 2024-10-15T07:12:42.177Z
-updated: 2024-10-15T16:58:23.333Z
+date: 2024-10-20T17:23:33.850Z
+updated: 2024-10-21T18:03:29.919Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -54,6 +47,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -63,10 +69,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -78,19 +84,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -103,16 +110,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -134,10 +135,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -165,16 +172,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-get-your-fb-message-videos-flowing-again-on-mobile-devices-for-2024/"><u>[New] How to Get Your FB Message Videos Flowing Again on Mobile Devices for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screen-streaming-showdown-face-off-between-obs-and-shadowtoolkit-for-2024/"><u>[Updated] Screen Streaming Showdown Face Off Between OBS & ShadowToolKit for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-resolving-issues-with-your-logitech-clips-digital-pen-on-xp/"><u>Comprehensive Guide To Resolving Issues With Your Logitech Clip's Digital Pen On XP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-bad-module-information-to-stop-game-malfunctions/"><u>How To Correct the 'Bad Module Information' To Stop Game Malfunctions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-12-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 12 Pro/iPad Without Computer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagrams-temporal-twist-learn-how-to-turn-back-time-for-2024/"><u>Instagram's Temporal Twist Learn How to Turn Back Time for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repeat-errors-windows-11-copy-issue/"><u>Repeat Errors: Windows 11 Copy Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-launch-errors-of-new-world-issues-with-enabling-eas-easy-anti-cheat/"><u>Step-by-Step Guide to Resolve Launch Errors of New World - Issues with Enabling EA's Easy Anti-Cheat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-solutions-for-overcoming-the-vlc-cannot-open-your-input-issue/"><u>Top 10 Solutions for Overcoming the 'VLC Cannot Open Your Input' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-computer-shuts-off-heres-how-to-diagnose-and-resolve-it/"><u>Unexpected Computer Shuts Off? Here's How to Diagnose and Resolve It.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-animated-top-free-software-for-windows-mac-and-beyond/"><u>Updated In 2024, Get Animated Top Free Software for Windows, Mac, and Beyond</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mac-screenshot-format-reconfiguration-guide/"><u>[Updated] 2024 Approved Mac Screenshot Format Reconfiguration Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] In 2024, Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-steps-for-cropping-images-on-websites/"><u>2024 Approved Essential Steps for Cropping Images on Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-your-aoc-display-to-life-overcoming-connectivity-challenges-on-windows-11-systems/"><u>Bring Your AOC Display to Life: Overcoming Connectivity Challenges on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-the-new-world-easy-anti-cheat-error-and-enjoy-seamless-gaming/"><u>Expert Tips To Fix The New World Easy Anti-Cheat Error & Enjoy Seamless Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203776043-fix-hp-laptop-keyboard-issues-fast-and-simple-now-solved/"><u>Fix HP Laptop Keyboard Issues Fast and Simple - Now Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-touchpad-cursor-disappears-on-windows-11/"><u>How to Fix Touchpad Cursor Disappears on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-11-pro-max-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 11 Pro Max Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>In 2024, Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-8-gear-in-the-vr-sphere/"><u>In 2024, Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-the-m1-space-apples-lightest-or-heaviest-model/"><u>In 2024, Navigating the M1 Space Apple's Lightest or Heaviest Model?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-ethernet-connectivity-problems-in-windows-11-and-windows-7-a-comprehensive-guide/"><u>Resolving Ethernet Connectivity Problems in Windows 11 and Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-broken-arrow-keys-proven-fixes-for-keyboard-directions-malfunctions/"><u>Revive Broken Arrow Keys: Proven Fixes for Keyboard Directions Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-oculus-hardware-malfunction-a-step-by-step-guide/"><u>Solving the Oculus Hardware Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solving-sims-4-failure-to-launch-problem/"><u>Troubleshooting: Solving 'Sims 4 Failure to Launch' Problem</u></a></li>
 </ul></div>
 

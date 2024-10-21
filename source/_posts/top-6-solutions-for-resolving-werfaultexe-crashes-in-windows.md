@@ -1,7 +1,7 @@
 ---
 title: Top 6 Solutions for Resolving werFault.exe Crashes in Windows
-date: 2024-10-11T03:55:42.032Z
-updated: 2024-10-15T23:21:28.657Z
+date: 2024-10-18T18:17:01.550Z
+updated: 2024-10-21T16:33:21.096Z
 tags:
   - win11
   - win10
@@ -48,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -58,16 +66,29 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -75,23 +96,16 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -103,13 +117,6 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -128,17 +135,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-unveiling-simple-sync-obs-plus-zoom-journey-for-2024/"><u>[New] Unveiling Simple Sync OBS + Zoom Journey for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevating-the-impact-of-your-instagram-videos/"><u>[Updated] Elevating the Impact of Your Instagram Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories-for-2024/"><u>[Updated] Perfect Picture Spotlights How to Zoom in & Out on Insta Stories for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2-cracking-todays-puzzle-uncover-secrets-of-nyt-connections-hints-for-june-9-364/"><u>2. 'Cracking Today's Puzzle: Uncover Secrets of NYT Connections Hints for June 9 (#364)'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-dell-laptop-keyboard-malfunctions-successfully/"><u>Diagnosing and Fixing Dell Laptop Keyboard Malfunctions Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-d3derrnotavailable-and-restoring-graphics-functionality/"><u>Expert Advice: Dealing with D3DERR_NotAvailable and Restoring Graphics Functionality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/macpros-screenflow-insight-a-comprehensive-guide-for-2024/"><u>MacPro's ScreenFlow Insight A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pubg-the-definitive-guide-to-resolve-pre-launch-problems-for/"><u>Mastering PUBG: The Definitive Guide to Resolve Pre-Launch Problems For</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-guides-from-toms-equipment-blog/"><u>Navigating the World of Hardware - Guides From Tom’s Equipment Blog</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-google-chromes-freeze-problem-effective-tips-and-tricks/"><u>Solving Google Chrome's Freeze Problem – Effective Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-playing-fortnite-smoothly-despite-having-an-unsupported-graphics-card-on-a-windows-machine/"><u>Ultimate Guide to Playing Fortnite Smoothly Despite Having an Unsupported Graphics Card on a Windows Machine</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-setting-up-emergency-calls-on-your-iphone/"><u>Ultimate Guide to Setting Up Emergency Calls on Your iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-investigating-alternatives-to-popular-video-broadcaster/"><u>[New] 2024 Approved Investigating Alternatives to Popular Video Broadcaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-sound-collection-no-cost-top-luts-listed-here/"><u>2024 Approved Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/direct-match-twitchs-battle-against-youtubes-dominance/"><u>Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-reappearing-bluetooth-in-windows-system-tools/"><u>Effective Strategies to Reappearing Bluetooth in Windows System Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-ft2ft232rusbuartdriver-quick-access-and-download-now/"><u>Effortless FT2#FT232R_USB_UART_Driver: Quick Access & Download Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-the-critical-xerox-print-error-0x800f020b-in-windows/"><u>Guide to Correcting the Critical Xerox Print Error 0X800f020b in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-playstation-4-controller-fails-to-charge/"><u>How to Resolve When Your PlayStation 4 Controller Fails to Charge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-cannot-connect-to-steam-server-error-message/"><u>Step-by-Step Solutions for the 'Cannot Connect to Steam Server' Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211975663-troubleshoot-and-solve-overwatchs-lost-device-issue-easily/"><u>Troubleshoot and Solve Overwatch's 'Lost Device' Issue Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-art-of-auditory-enhancement-on-youtube-for-2024/"><u>Unveiling the Art of Auditory Enhancement on YouTube for 2024</u></a></li>
 </ul></div>
 

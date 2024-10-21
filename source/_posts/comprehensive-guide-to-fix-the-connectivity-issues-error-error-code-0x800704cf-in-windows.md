@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Fix the 'Connectivity Issues' Error (Error Code 0X800704CF) in Windows
-date: 2024-10-12T22:12:09.969Z
-updated: 2024-10-15T23:13:26.454Z
+date: 2024-10-15T19:43:23.294Z
+updated: 2024-10-21T20:47:06.424Z
 tags:
   - win11
   - win10
@@ -58,13 +58,40 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
@@ -98,6 +125,13 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Reinstall the network adapter
 
  If all the methods above ended nowhere, you should reinstall the network adapter in case it’s corrupted and causes the 0x800704cf error.
@@ -105,6 +139,13 @@ netsh int ip reset
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
@@ -114,13 +155,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
@@ -128,6 +162,13 @@ netsh int ip reset
 **5)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Delete all the devices one by one under Network adapters.
 
@@ -145,13 +186,6 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -167,13 +201,6 @@ netsh int ip reset
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
 
@@ -192,6 +219,13 @@ netsh int ip reset
 **1)** Type**troubleshoot** in the search box and click**Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
@@ -223,13 +257,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
@@ -243,35 +270,21 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -294,13 +307,6 @@ netsh int ip reset
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -331,22 +337,22 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-decoding-the-process-of-capturing-facebooks-gifs-on-mobilepc/"><u>[New] Decoding the Process of Capturing Facebook's GIFs on Mobile/PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-pixelstreamer-os-native-screen-recording/"><u>[Updated] PixelStreamer OS-Native Screen Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726228091913-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/au-cddvd/"><u>無限量自由發佈 - AU CD/DVD移動流傳</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/apex-6-goliaths-large-scale-nlp-masters-revealed/"><u>Apex 6 Goliaths: Large-Scale NLP Masters Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprendre-le-fichier-bmp-ouvrir-et-utiliser-des-fichiers-bitmap-pour-tous-les-projets/"><u>Comprendre Le Fichier .BMP - Ouvrir Et Utiliser Des Fichiers Bitmap Pour Tous Les Projets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-davi-vers-mp4-par-telechargement-en-ligne-decouvrez-les-techniques-simples-avec-movavi/"><u>Conversion Gratuite D'AVI Vers MP4 Par Téléchargement en Ligne: Découvrez Les Techniques Simples Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/effective-steps-to-dismiss-videos-in-youtube-watchlater-for-2024/"><u>Effective Steps to Dismiss Videos in YouTube Watchlater for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-mp4-to-aac-by-movavi/"><u>Free Online Audio Converter: MP4 to AAC by Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-8-best-converters-bringing-your-subs-into-srt-format/"><u>In 2024, 8 Best Converters Bringing Your Subs Into SRT Format</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-guide-to-effective-video-capturing-via-screencastify/"><u>In 2024, Guide to Effective Video Capturing via Screencastify</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/misez-une-conversion-gratuite-flv-a-mpg-en-ligne-utilisation-simple-de-movavi/"><u>Misez Une Conversion Gratuite Flv À Mpg en Ligne - Utilisation Simple De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-mkv-videos-into-mp4-streaming-for-free-using-movavis-website-converter/"><u>Transform MKV Videos Into MP4 Streaming for Free Using Movavi's Website Converter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-controlling-comment-visibility-on-youtube-videos/"><u>[New] 2024 Approved Controlling Comment Visibility on YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-decoding-the-best-screen-recorder-bandicam-and-camtasia/"><u>[New] 2024 Approved Decoding the Best Screen Recorder Bandicam & Camtasia</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-backupbreeze-professionals-opinion-for-2024/"><u>[New] BackupBreeze Professionals Opinion for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-android-no-cost-video-capture-tool/"><u>[Updated] Android No-Cost Video Capture Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>[Updated] Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-linguistic-linkers-the-premier-list-for-offline-recognition-devices/"><u>[Updated] In 2024, Linguistic Linkers The Premier List for Offline Recognition Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/all-systems-green-issue-with-response-detected/"><u>All Systems Green: Issue with Response Detected</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/convert-videos-effortlessly-with-movavis-no-cost-nsv-to-mp4-tool-do-it-online/"><u>Convert Videos Effortlessly with Movavi's No-Cost NSV to MP4 Tool - Do It Online!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-shockwave-flash-issues-on-google-chrome/"><u>How to Resolve Shockwave Flash Issues on Google Chrome</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205548832-local-security-defenses-restored-ensure-safe-operations-today/"><u>Local Security Defenses Restored – Ensure Safe Operations Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-hassle-of-error-0x80072f8f-effective-fixes-for-modern-windows-users/"><u>Overcome the Hassle of Error 0X80072F8f - Effective Fixes for Modern Windows Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-short-frame-gatherer-top-lapses/"><u>Premier Short Frame Gatherer - Top Lapses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-resource-contention-in-computing-systems/"><u>Resolving Resource Contention in Computing Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-no-camera-issues-on-lenovo-devices-a-comprehensive-guide/"><u>Solving No-Camera Issues on Lenovo Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-with-a-non-printable-pdf-master-swift-solutions/"><u>Struggling with a Non-Printable PDF? Master Swift Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolving-problems-with-your-windows-system-updates/"><u>Successfully Resolving Problems with Your Windows System Updates</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Successfully Resolved: Diagnostic Services System Failure"
-date: 2024-10-12T19:00:26.767Z
-updated: 2024-10-15T22:23:38.084Z
+date: 2024-10-19T19:58:41.751Z
+updated: 2024-10-21T20:11:01.390Z
 tags:
   - win11
   - win10
@@ -59,26 +59,32 @@ Follow these steps：
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Run the Network Diagnostics and see if it goes well.
 
@@ -105,20 +111,13 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Reinstall your network adapters
 
@@ -134,9 +133,23 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -151,13 +164,6 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -184,21 +190,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-filmmakers-dream-the-8-best-no-fee-video-editors-on-the-market/"><u>[Updated] 2024 Approved A Filmmaker's Dream The 8 Best No-Fee Video Editors on the Market</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-overview-of-the-dell-g5/"><u>Comprehensive Overview of the Dell G5</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-dormancy-defeated-by-stellar-recovery-pros/"><u>Data Dormancy Defeated by Stellar Recovery Pros</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/descubre-el-mejor-software-libre-para-escuchar-musica-perfectamente-con-calidad-excelente/"><u>Descubre El Mejor Software Libre Para Escuchar Música Perfectamente Con Calidad Excelente</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-windows-11-setup-how-to-achieve-a-pristine-installation-in-minutes/"><u>Effortless Windows 11 Setup - How to Achieve a Pristine Installation in Minutes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ethereal-eclipses-the-ultimate-hdr-sky-imagery-hubs/"><u>Ethereal Eclipses - The Ultimate HDR Sky Imagery Hubs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-audio-problems-how-to-address-crackling-sounds-from-speakers-in-windows/"><u>Fixing Audio Problems: How to Address Crackling Sounds From Speakers in Windows</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-sencilla-para-la-configuracion-segura-y-facil-del-servidor-de-arranque-pxe-en-windows/"><u>Guía Sencilla Para La Configuración Segura Y Fácil Del Servidor De Arranque PXE en Windows</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-twirl-and-relax-the-ultimate-list-of-country-tunes-on-tiktok/"><u>In 2024, Twirl & Relax The Ultimate List of Country Tunes on TikTok</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-thrustmaster-t300-driver-software-on-windows-10-and-11-systems-downloads-available-here/"><u>Install ThrustMaster T300 Driver Software on Windows 10 & 11 Systems - Downloads Available Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203220084-overcome-the-challenge-of-frozen-windows-updates-now-fixed/"><u>Overcome the Challenge of Frozen Windows Updates - Now Fixed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-fixing-problematic-windows-graphics-drivers/"><u>Resolving Minecraft Crashes: Fixing Problematic Windows Graphics Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplified-guide-to-using-file-explorer-in-windows-11/"><u>Simplified Guide to Using File Explorer in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-when-your-gpu-doesnt-support-alpha-blending/"><u>Solving the Problem: When Your GPU Doesn't Support Alpha Blending</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-virtualbox-70-on-windows-11-your-ultimate-walkthrough/"><u>Transitioning to VirtualBox 7.0 on Windows 11 – Your Ultimate Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-a-dark-display-in-windows-11-systems/"><u>Troubleshooting and Solutions for a Dark Display in Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-bank-balance-crafting-commercial-video-content-for-2024/"><u>[New] Boosting Bank Balance Crafting Commercial Video Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-sprinkle-new-colors-into-your-past-media-with-instagram/"><u>[New] How to Sprinkle New Colors Into Your Past Media with Instagram</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[New] In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-discovering-clarity-q500s-4k-adventure/"><u>[Updated] In 2024, Discovering Clarity Q500's 4K Adventure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-cast-to-device-issues-on-windows-10-a-complete-guide/"><u>Fixing Cast To Device Issues On Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-update-failed-error-code-0x800705b4-on-windows-11/"><u>How to Fix the 'Windows Update Failed' Error (Code: 0X800705b4) on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-titles-to-lengthen-viewing-times-within-limit-for-2024/"><u>Innovative Titles to Lengthen Viewing Times (Within Limit) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210014237-monitor-not-responding-fix-unsupported-signal-timings-now/"><u>Monitor Not Responding? Fix Unsupported Signal Timings Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-humor-in-minutes-kinemaster-techniques/"><u>The Art of Humor in Minutes KineMaster Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a18-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A18 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-minecrafts-error-5-with-these-simple-steps/"><u>Troubleshoot Minecraft's Error 5 with These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-keyboard-light-feature-for-pc-and-mac-users/"><u>Troubleshooting Non-Functional Keyboard Light Feature for PC & MAC Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeating Fatal Errors: A User's Manual for Correcting DXGKRNL Issues on Windows"
-date: 2024-10-09T01:18:03.492Z
-updated: 2024-10-16T04:43:20.475Z
+date: 2024-10-19T16:18:25.792Z
+updated: 2024-10-21T16:31:32.784Z
 tags:
   - win11
   - win10
@@ -43,30 +43,38 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -83,19 +91,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -108,31 +103,26 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -159,24 +149,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-edu-topic-10-selective-learning-channels-online/"><u>[New] 2024 Approved Edu-Topic 10 Selective Learning Channels Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-enhance-your-cinematic-experience-camera-upgrade-tips/"><u>[New] 2024 Approved Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-snip-pro-the-essential-guide-to-win-os/"><u>[New] In 2024, Screen Snip Pro The Essential Guide to Win OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-maccam-easy-webcam-recordings/"><u>[Updated] In 2024, Mastering MacCam Easy Webcam Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-syncopated-shots-picking-the-best-music-for-social-media/"><u>[Updated] In 2024, Syncopated Shots Picking the Best Music for Social Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-video-editors-showdown-filmora-versus-democracy-creator/"><u>[Updated] Professional Video Editors Showdown Filmora Versus Democracy Creator</u></a></li>
-<li><a href="https://fox-info.techidaily.com/blissful-family-nights-the-top-10-classics-for-summertime-for-2024/"><u>Blissful Family Nights The Top 10 Classics for Summertime for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-and-download-with-ease-using-movavi-video-editor/"><u>Convert and Download with Ease Using Movavi Video Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/converta-graciosamente-seus-vobmkv-em-linha-gratuitamente-com-o-movavi-guia-completo-e-simplificado/"><u>Converta Graciosamente Seus Vob/Mkv Em Linha Gratuitamente Com O Movavi – Guia Completo E Simplificado</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-de-archivos-gratuito-en-la-web-png-a-jpeg-por-movavi-sin-costo-adicional/"><u>Convertidor De Archivos Gratuito en La Web: PNG a JPEG Por Movavi Sin Costo Adicional</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-your-frustration-with-warzone-screen-flickers-proven-fixes/"><u>End Your Frustration with Warzone Screen Flickers - Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-drive-dropbox-voc-wav/"><u>Google Drive, Dropbox 사용자에게 VOC 파일을 WAV로 쉽게 변환: 무료 도구를 사용하는 방법</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-movavi-movie-analysis-for-the-year-202n4-a-cinematic-overview/"><u>In-Depth Movavi Movie Analysis for the Year 202N4: A Cinematic Overview</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mac-movavi/"><u>Macユーザー専用: Movaviソフトウェアライセンス承認手順ガイド</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-multimedia-transfer-facebook-videos-on-whatsapp/"><u>Mastering Multimedia Transfer Facebook Videos on WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-gratuite-methode-om-mp4-in-ogg-te-veranderen-vrijetlijks-en-efficient-met-movavi-convertisseur/"><u>Online Gratuite Methode Om MP4 in OGG Te Veranderen - Vrijetlijks en Efficiënt Met Movavi Convertisseur</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/outstanding-visual-teaching-aids-creativity-in-classroom-presentations-using-movavi/"><u>Outstanding Visual Teaching Aids: Creativity in Classroom Presentations Using Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/should-you-update-to-the-new-ios-17-pros-and-cons-explored/"><u>Should You Update to the New iOS 17? Pros and Cons Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformacion-sin-coste-ni-esfuerzo-convierte-tu-m4b-a-avi-en-linea-gratuitamente-con-convertidor-movavi-web/"><u>Transformación Sin Coste Ni Esfuerzo: Convierte Tu M4B a AVI en Línea Gratuitamente Con Convertidor Movavi Web</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultra-high-definition-capture-ideal-apps-reviewed/"><u>[New] Ultra-High Definition Capture Ideal Apps Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-key-vr-film-experiences-to-witness-for-2024/"><u>[Updated] Key VR Film Experiences to Witness for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategic-approach-to-crafting-youtube-content-headlines/"><u>2024 Approved Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battery-woes-on-a-windows-10-device-how-to-get-your-laptop-charged-again/"><u>Battery Woes on a Windows 10 Device: How to Get Your Laptop Charged Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-and-resolve-call-of-duty-world-war-ii-error-message-4220/"><u>How to Correctly Address and Resolve Call of Duty World War II Error Message 4220</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-virtual-realty-setting-up-room-and-tech/"><u>In 2024, Maximize Virtual Realty Setting Up Room and Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scrutinizing-hero5s-performance-throughout-day/"><u>In 2024, Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revisiting-the-iphone-15-pro-max-a-comprehensive-review-6-months-on/"><u>Revisiting the iPhone 15 Pro Max - A Comprehensive Review 6 Months On</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-nonfunctional-audio-services-on-windows-11/"><u>Step-by-Step Fixes for Nonfunctional Audio Services on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-video-playback-issues-with-dxgkrnl-errors/"><u>Step-by-Step Guide: Repairing Video Playback Issues with Dxgkrnl Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailored-export-solutions-the-top-tools-for-ai-conversation-histories/"><u>Tailored Export Solutions – The Top Tools for AI Conversation Histories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-slow-response-time-from-keyboard-on-windows-10/"><u>Troubleshoot & Solve Slow Response Time From Keyboard on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-help-successfully-solving-the-incorrect-parameter-loadlibrary-problem/"><u>Troubleshooting Help: Successfully Solving the 'Incorrect Parameter' LoadLibrary Problem</u></a></li>
 </ul></div>
 

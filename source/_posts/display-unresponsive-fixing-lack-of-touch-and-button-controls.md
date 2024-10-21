@@ -1,7 +1,7 @@
 ---
 title: "Display Unresponsive: Fixing Lack of Touch & Button Controls"
-date: 2024-09-15T22:05:35.813Z
-updated: 2024-09-17T21:50:32.394Z
+date: 2024-10-19T16:38:09.490Z
+updated: 2024-10-21T20:04:28.499Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ebcab3903.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method works for you, the connection between your controller and your console will recover.
 
  If you have a micro-USB cable, you can pair your Xbox Onecontroller and console with this cable.
@@ -60,6 +67,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)** Press and hold the Xbox button on the controller to sync them.
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Power cycle your console
 
@@ -72,6 +86,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)**  Press the**Xbox button** to turn on your console.
 
 **3)** Check and see if your controller can connect to the console.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your controller software
 
@@ -86,10 +107,16 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Select**Devices & accessories** .
@@ -103,13 +130,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Select**Continue** .
 
@@ -134,5 +154,24 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-to-elevate-iphone-picture-quality/"><u>[Updated] Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-no-cost-screenshot-masters-the-best-on-windows-1-5-guide/"><u>2024 Approved No-Cost Screenshot Masters – The Best on Windows #1-5 Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-laptop-keyboard-issues-here-are-effective-fixes/"><u>Dell Laptop Keyboard Issues? Here Are Effective Fixes!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-oneplus-9-specs-and-value-shortcomings-revealed/"><u>Evaluating OnePlus 9 Specs and Value - Shortcomings Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-google-hangouts-mic-problem-in-a-jiffy-step-by-step-guide/"><u>Fixing the Google Hangouts Mic Problem in a Jiffy - Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-0x80240034-glitch-a-complete-guide/"><u>Fixing the Windows 11 Update 0X80240034 Glitch: A Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a2-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-effective-solutions-for-when-your-mouse-icon-wont-show-up/"><u>Mastering Windows 11: Effective Solutions for When Your Mouse Icon Won't Show Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-windows-10-sound-top-methods-for-enhancing-audio-quality/"><u>Optimize Your Windows 10 Sound: Top Methods for Enhancing Audio Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-freezing-windows-netflix-interface/"><u>Reviving Freezing Windows Netflix Interface</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209812411-troubleshooting-crackling-sound-from-your-pcs-speakers-in-windows-117-all-you-need-to-know/"><u>Troubleshooting Crackling Sound From Your PC's Speakers in Windows 11/7 - All You Need To Know.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-corrected-youtube-volume-problems-in-windows-10/"><u>Troubleshooting the Corrected YouTube Volume Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-a-frozen-dns-server-a-users-guide-to-5-swift-resolutions/"><u>Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/webm-a-mp4-ele-alir-online-doldurmak-hassaslarin-uzerinde-ozellikle-hizli-ve-kolay-bir-etkinlige/"><u>WebM a MP4 Ele Alır Online Doldurmak Hassasların Üzerinde Özellikle Hızlı Ve Kolay Bir Etkinliğe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206965730-windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!</u></a></li>
+</ul></div>
 

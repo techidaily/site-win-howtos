@@ -1,7 +1,7 @@
 ---
 title: "[PUBG] Unlocking the Powerhouse - Fixed Dxgi.dll Error"
-date: 2024-10-13T06:57:19.233Z
-updated: 2024-10-15T18:00:19.645Z
+date: 2024-10-16T20:45:14.140Z
+updated: 2024-10-21T17:15:27.057Z
 tags:
   - win11
   - win10
@@ -43,23 +43,17 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -68,35 +62,54 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
 
@@ -104,16 +117,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -127,13 +140,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
@@ -143,10 +149,10 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
@@ -172,22 +178,22 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-probing-into-verified-selfies-significance-in-modern-social-media/"><u>[New] In 2024, Probing Into Verified Selfies' Significance in Modern Social Media</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigate-and-network-adding-desktopmobile-friends/"><u>[New] Navigate & Network Adding Desktop/Mobile Friends</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-k11x-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo K11x Activity | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mkvwmv/"><u>全自動MKV/WMV形式のフリーウェブベース変換サービス - モバヴァイ・コンバート</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-your-workflow-swap-out-tedious-excel-equations-for-the-power-of-chatgpt-automation/"><u>Boost Your Workflow - Swap Out Tedious Excel Equations for the Power of ChatGPT Automation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-aif-gratis-a-linea-con-movavi-sin-problemas/"><u>Cómo Convertir Archivos AIF Gratis a Línea Con Movavi Sin Problemas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-mp4-audio-files-free-online-with-movavis-aac-encoder/"><u>Convert MP4 Audio Files Free Online with Movavi's AAC Encoder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubre-el-secreto-del-redimensionador-para-imagenes-eficaz-que-cambia-tamano-a-todas-tus-fotos-juntos/"><u>Descubre El Secreto Del Redimensionador Para Imágenes Eficaz Que Cambia Tamaño a Todas Tus Fotos Juntos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-started-with-pokemon-unite-for-windowsmac-users-a-detailed-walkthrough/"><u>Getting Started with Pokémon Unite for Windows/Mac Users: A Detailed Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-change-photoarw-files-to-jpeg-with-simple-methods-for-pc-and-mac-users/"><u>How to Change PhotoARW Files to JPEG with Simple Methods for PC and MAC Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-14-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 14 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kunt-u-een-pef-afbeelding-naar-jpeg-omzetten-dit-is-gratis-en-makkelijk-met-movavi/"><u>Kunt U Een PEF-Afbeelding Naar JPEG Omzetten? Dit Is Gratis en Makkelijk Met Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/passo-a-passo-para-fazer-clipes-de-aulas-com-o-vlc-um-manual-detalhado/"><u>Passo a Passo Para Fazer Clipes De Aulas Com O VLC - Um Manual Detalhado</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oneplus-11r-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from OnePlus 11R</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/shine-on-mastering-the-art-of-illumination-for-youtube-videos-for-2024/"><u>Shine On Mastering the Art of Illumination for YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-your-cr2-images-into-jpgs-a-comprehensive-guide-with-freebies/"><u>Transform Your CR2 Images Into JPGs: A Comprehensive Guide with Freebies!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/bers-first-steps-starting-your-channel-and-earning-revenue/"><u>Youtuber's First Steps Starting Your Channel & Earning Revenue</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-precision-zoom-mastery-in-microsoft-teams-sessions-for-2024/"><u>[New] Precision Zoom Mastery in Microsoft Teams Sessions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-scratches-comparative-review-of-recorders/"><u>[New] Top Scratches Comparative Review of Recorders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-demystifying-the-process-of-checking-subs/"><u>[Updated] In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-8-plus-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 8 Plus Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-to-reactivate-your-windows-update-service/"><u>Essential Tips to Reactivate Your Windows Update Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-initialization-failure-error-in-age-of-empires-iii/"><u>Fixing the 'Initialization Failure' Error in Age of Empires III</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-eradicate-blackout-issues-during-obs-gaming-sessions/"><u>How to Eradicate Blackout Issues During OBS Gaming Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unsuccessful-device-casting-in-windows-11-expert-tips-and-tricks/"><u>How to Fix Unsuccessful Device Casting in Windows 11 – Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/input-delay-no-more-how-cd-projekt-red-addresses-cyberpunk-2077s-glitch/"><u>Input Delay No More: How CD Projekt Red Addresses Cyberpunk 2077'S Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206548081-internet-explorer-wont-open-discover-proven-fixes-for-an-instant-solution/"><u>Internet Explorer Won't Open? Discover Proven Fixes for an Instant Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mute-keys-dilemma/"><u>Mute Keys Dilemma</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilizing-the-sweep-of-your-cursor-deactivating-mouse-accel-in-win-11/"><u>Stabilizing the Sweep of Your Cursor: Deactivating Mouse Accel in Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-pc-reboot-failure-messages-in-windows-10/"><u>Troubleshooting and Fixing PC Reboot Failure Messages in Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-artistry-of-samsung-galaxy-watch-a-fusion-of-form-and-function/"><u>Unveiling the Artistry of Samsung Galaxy Watch: A Fusion of Form and Function</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-shuts-down-abruptly-unplanned/"><u>Win11 Shuts Down Abruptly, Unplanned</u></a></li>
 </ul></div>
 

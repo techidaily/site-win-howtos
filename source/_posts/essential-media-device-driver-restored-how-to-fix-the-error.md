@@ -1,7 +1,7 @@
 ---
 title: "Essential Media Device Driver Restored: How to Fix the Error"
-date: 2024-10-12T21:45:53.934Z
-updated: 2024-10-15T17:14:07.109Z
+date: 2024-10-19T20:44:12.959Z
+updated: 2024-10-21T19:33:50.922Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
@@ -61,25 +54,61 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -89,10 +118,10 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
@@ -102,13 +131,6 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 Still no luck? Ok, there’s one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -120,13 +142,6 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -152,17 +167,22 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamer-tested-streaming-software-picks-for-2024/"><u>[New] Gamer-Tested Streaming Software Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-androidiphone-instruction-adding-music-files-to-fb-profile/"><u>[Updated] Android/iPhone Instruction Adding Music Files to FB Profile</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-screen-grabber-gadgets-for-youtube-channels/"><u>[Updated] Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-create-powerful-biz-decks-with-no-cost-templates/"><u>[Updated] In 2024, Create Powerful Biz Decks with No-Cost Templates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ape-aac-movavi/"><u>APE 파일을 AAC로 구독하기: 원거리 무료 솔루션 - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-videos-with-movavi-suite-top-software-for-seamless-screen-capture-and-business-video-editing/"><u>Enhance Your Videos with Movavi Suite: Top Software for Seamless Screen Capture and Business Video Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-passaparola-per-acquisizione-di-schermata-parziale-su-windows-11-tutorial-e-suggerimenti/"><u>Guida Passaparola per Acquisizione Di Schermata Parziale Su Windows 11: Tutorial E Suggerimenti</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/leading-video-editing-tools-for-professionals-optimized-for-windows-11-8-and-7-systems/"><u>Leading Video Editing Tools for Professionals: Optimized for Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>New In 2024, Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-seamlessly-implementing-copilot-in-microsoft-teams-workflows/"><u>Step-by-Step Instructions for Seamlessly Implementing Copilot in Microsoft Teams Workflows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-prime-cloud-storage-contenders-of-the-new-year/"><u>The Prime Cloud Storage Contenders of the New Year</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4vwebm-obs-streamyard/"><u>무료 온라인 M4V/WEBM 이미지를 OBS에서 바인딩하기 - StreamYard</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[Updated] In 2024, Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-teacher-created-videos-precision-in-cutting-and-splicing/"><u>[Updated] Teacher-Created Videos Precision in Cutting & Splicing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-12-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi 12 has native HEVC support?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-device-not-identified-on-your-intelligent-cultra-e-reader-device-icue/"><u>Effective Fixes for 'Device Not Identified' On Your Intelligent CUltra E-Reader Device (ICUE)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-forcing-your-windows-10-pc-to-properly-power-down-and-restart/"><u>Expert Tips on Forcing Your Windows 10 PC to Properly Power Down and Restart</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-finest-online-education-portals-to-advance-your-knowledge-base/"><u>Explore the Finest Online Education Portals to Advance Your Knowledge Base</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlights-from-the-lg-bp350-monitor-user-experience-review/"><u>In 2024, Highlights From the LG BP350 Monitor User Experience Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hue-mastery-interface/"><u>In 2024, Hue Mastery Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80072f8f-comprehensive-guide-for-windows-11-and-10-users/"><u>Resolving Error Code 0X80072F8F: Comprehensive Guide for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-neterrcertweaksignaturealgorithm-issues-a-comprehensive-guide/"><u>Resolving NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-bluetooth-absent-on-your-pcs-device-manager/"><u>Resolving the Issue: Bluetooth Absent on Your PC's Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-fixing-non-functional-keyboard-during-system-startup/"><u>Solving the Issue: Fixing Non-Functional Keyboard During System Startup</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-whatsapp-audio-chat/"><u>The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-streaming-top-solutions-for-when-netflix-fails/"><u>Trouble with Netflix Streaming? Top Solutions for When Netflix Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-malfunctioning-keyboard-on-boot/"><u>Troubleshooting Steps: How to Repair Malfunctioning Keyboard on Boot</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions/"><u>Updated In 2024, Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-virtuoso-access-to-premium-dj-video-samples-for-2024/"><u>Vinyl Virtuoso Access to Premium DJ Video Samples for 2024</u></a></li>
 </ul></div>
 

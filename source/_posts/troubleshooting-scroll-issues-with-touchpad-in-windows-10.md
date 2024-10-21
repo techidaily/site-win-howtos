@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Scroll Issues with Touchpad in Windows 10
-date: 2024-10-12T01:06:10.476Z
-updated: 2024-10-15T23:37:49.404Z
+date: 2024-10-17T21:56:44.559Z
+updated: 2024-10-21T19:36:19.271Z
 tags:
   - win11
   - win10
@@ -50,19 +50,34 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -74,35 +89,29 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
-4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
+4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -114,29 +123,22 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
@@ -177,24 +179,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-studio-for-ultimate-edits-for-2024/"><u>[New] Harness the Power of YouTube Studio for Ultimate Edits for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-zero-intrusions-check-out-our-list-of-top-7-android-apps/"><u>[New] In 2024, Zero Intrusions? Check Out Our List of Top 7 Android Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[Updated] 2024 Approved A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-incorporating-melodies-into-youtube-repertoire/"><u>[Updated] 2024 Approved Incorporating Melodies Into Youtube Repertoire</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[Updated] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-fixing-msvcp140dll-shortage/"><u>A Step-by-Step Guide to Fixing MSVCP140.dll Shortage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/apex-legends-easy-anti-cheat-error-solved/"><u>Apex Legends Easy Anti-Cheat Error [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-overcoming-usb-hdmi-connection-failures/"><u>Expert Advice on Overcoming USB-HDMI Connection Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-minecraft-launcher-issue-resolving-exit-code-nought/"><u>Fixing Minecraft Launcher Issue: Resolving 'Exit Code ˈnought'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-how-to-eliminate-persistent-keyboard-delays/"><u>Fixing Windows 11: How to Eliminate Persistent Keyboard Delays</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-windows-drivers-for-a-smooth-gamingcad-experience-on-os-1087/"><u>Get the Latest Nvidia Quadro RTX 8000 Windows Drivers for a Smooth Gaming/CAD Experience on OS 10/8/7!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-11-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-respond-if-you-encounter-smartscreen-service-currently-down-on-your-pc/"><u>How to Respond if You Encounter 'SmartScreen Service Currently Down' On Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-a-non-responsive-google-chrome-immediate-reload-options/"><u>Resolving a Non-Responsive Google Chrome: Immediate Reload Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-pcs-xbox-one-control-connection/"><u>Revive Your PC's Xbox One Control Connection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-the-cream-of-the-crop-exclusive-ipad-deals-await-you/"><u>Secure the Cream of the Crop: Exclusive iPad Deals Await You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-charge-functionality-in-ps4-controllers/"><u>Step-by-Step Guide: Restoring Charge Functionality in PS4 Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-6-game-dynamics-that-drive-player-engagement/"><u>The 6 Game Dynamics That Drive Player Engagement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210281609-troubleshoot-csgo-issues-like-a-pro-end-crashes-for-good/"><u>Troubleshoot CSGO Issues Like a Pro: End Crashes for Good</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>[New] In 2024, Audience Advocacy Nurturing Connections in the Digital Age</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[Updated] In 2024, Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimize-video-playback-with-snapchat-tricks-for-2024/"><u>[Updated] Optimize Video Playback with Snapchat Tricks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-practices-for-apples-podcast-listings/"><u>2024 Approved Best Practices for Apple's Podcast Listings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-sluggishness-fixes-for-stalled-file-explorer-on-windows-11-systems/"><u>Bypassing the Sluggishness: Fixes for Stalled File Explorer on Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-the-secret-ingredient-behind-effective-online-tracking-solutions/"><u>Cookiebot: The Secret Ingredient Behind Effective Online Tracking Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-for-players-resolving-the-dota-2-changerenderingapi-mistake-code-2024/"><u>Easy Fix for Players: Resolving the Dota 2 ChangeRenderingApi Mistake (Code 2024)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11-setup-hurdle-expert-solutions-for-error-code-80240020/"><u>Overcome Windows 11 Setup Hurdle: Expert Solutions for Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208829296-overcoming-windows-10-touchpad-issues-get-your-scroll-working-again/"><u>Overcoming Windows 10 Touchpad Issues - Get Your Scroll Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-non-compliant-tactile-response-now-meets-hit-requirements/"><u>SOLVED: Non-Compliant Tactile Response, Now Meets HIT Requirements</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-epic-adventures-in-garrys-mod-on-pc/"><u>Step-by-Step Guide: Capturing Your Epic Adventures in Garry's Mod on PC</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-moving-your-past-to-present-using-icloud-and-itunes-for-iphone-restoration/"><u>Step-by-Step Guide: Moving Your Past to Present - Using iCloud and iTunes for iPhone Restoration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackle-x3daudio17dll-missing-errors-with-ease/"><u>Tackle X3DAudio1_7.dll Missing Errors with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-hosted-network-not-starting-issue-in-windows-10/"><u>Troubleshooting: How to Fix 'Hosted Network Not Starting' Issue in Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-performance-excellence-how-the-alienware-aurora-r11-dominated-pc-gaming-of-2021/"><u>Unveiling Performance Excellence: How the Alienware Aurora R11 Dominated PC Gaming of 2021</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-and-10-troubleshooting-fix-plugged-in-but-non-charging-problems/"><u>Windows 7 & 10 Troubleshooting: Fix 'Plugged In' But Non-Charging Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10-disk-read-errors-easy-solutions-inside/"><u>Winning Against Windows 10 Disk Read Errors: Easy Solutions Inside</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287767604-dvd/"><u>윈엑스 동영상 관리 소프트웨어 - DVD 리퍼 및 비디오 컨버터를 위한 공식 웹사이트</u></a></li>
 </ul></div>
 

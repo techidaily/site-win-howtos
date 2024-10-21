@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Non-Charging Microsoft Surface: A Complete Guide"
-date: 2024-10-12T00:46:24.295Z
-updated: 2024-10-16T01:55:04.256Z
+date: 2024-10-14T20:25:52.688Z
+updated: 2024-10-21T18:59:12.716Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -65,18 +72,18 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
  After you turn off the battery charge threshold feature, your battery should be charging.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
 
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
@@ -118,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -131,29 +138,9 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
@@ -176,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -211,22 +205,15 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cyber-profile-pixelation-crafting-a-playful-look/"><u>[New] 2024 Approved Cyber-Profile Pixelation Crafting a Playful Look</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-virtual-realms-the-finest-vr-accessories-unveiled/"><u>[New] In 2024, Virtual Realms The Finest VR Accessories Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>[Updated] In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/15-leading-gopro-cutting-software/"><u>15 Leading GoPro Cutting Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-crafting-with-colors-principles-in-action/"><u>2024 Approved Crafting with Colors Principles in Action</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-guide-to-fixing-the-persistent-xerox-update-error-code-0x800f020b-in-windows-systems/"><u>Definitive Guide to Fixing the Persistent Xerox Update Error Code 0X800F020B in Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defrost-your-digital-life-quick-fixes-for-a-computer-thats-too-cold/"><u>Defrost Your Digital Life: Quick Fixes for a Computer That's Too Cold</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-invisible-wi-fi-options-in-microsofts-latest-operating-system-windows-11/"><u>Guide to Fix Invisible Wi-Fi Options in Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-and-improving-touchpad-scroll-response-on-windows-11-systems/"><u>Guide to Fixing and Improving Touchpad Scroll Response on Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-go-2023-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark Go (2023) to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-division-2-game-crashes-instantly/"><u>Quick Fix: How to Resolve Division 2 Game Crashes Instantly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ways-to-download-and-convert-youtubes-audios-as-mp3/"><u>Safe Ways to Download and Convert YouTube's Audios as MP3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-11-high-definition-video-capture-tools-choosing-the-right-hd-recorder/"><u>Top 11 High-Definition Video Capture Tools: Choosing the Right HD Recorder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-the-missing-d3dx9nn-dll-error-message/"><u>Troubleshooting Steps for Correcting the Missing D3dx9_nN Dll Error Message</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-why-is-my-mouses-right-click-malfunctioning/"><u>Troubleshooting Windows 10 - Why Is My Mouse's Right Click Malfunctioning?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-connecting-airpods-to-windows-1011-latest-tips/"><u>Ultimate Fixes for Connecting AirPods to Windows 10/11 - Latest Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-the-expired-semaphore-timeout-issue-0x80070079/"><u>Understanding and Solving The Expired Semaphore Timeout Issue (0X80070079)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging-for-2024/"><u>[Updated] Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/best-8-youtube-editing-software-for-linux-for-2024/"><u>Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-gaining-extended-opera-use-and-nitro-access/"><u>Exclusive Guide to Gaining Extended Opera Use & Nitro Access</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-monster-hunter-world-strategies-for-defeating-unique-monsters/"><u>Navigating 'Monster Hunter: World': Strategies for Defeating Unique Monsters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-game-on-top-10-websites-to-download-pc-games-this-year/"><u>New In 2024, Game On! Top 10 Websites to Download PC Games This Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-nier-automata-gameplay-disruptions-on-your-computer-effective-fixes/"><u>Overcoming Nier: Automata Gameplay Disruptions on Your Computer – Effective Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-failed-fixservice-setup-and-registration-on-windows-11-os/"><u>Repairing Failed FixService Setup and Registration on Windows 11 OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-xerox-printer-mis-0x800f020b-effective-fixes-and-solutions/"><u>Resolve Window's Xerox Printer MIS-0X800F020B: Effective Fixes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-file-explorer-icons-in-windows-11-solved/"><u>Troubleshooting Stuck File Explorer Icons in Windows 11 [Solved]</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows/"><u>Windows</u></a></li>
 </ul></div>
 

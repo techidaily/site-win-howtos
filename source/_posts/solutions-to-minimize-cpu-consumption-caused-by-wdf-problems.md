@@ -1,7 +1,7 @@
 ---
 title: Solutions to Minimize CPU Consumption Caused by WDF Problems
-date: 2024-10-10T02:58:46.493Z
-updated: 2024-10-15T20:59:36.690Z
+date: 2024-10-19T19:37:51.932Z
+updated: 2024-10-21T17:25:33.370Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Set default devices
 
  Ideally Windows can automatically detect your device and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices (both output device and input device) manually to see if it fixes your**Overwatch voice chat not working** issue.  
@@ -71,30 +64,32 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -109,22 +104,35 @@ Here’s how:
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
@@ -161,21 +169,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/g-is-the-acceleration-due-to-gravity-approximately-981-ms2/"><u> (G ) Is the Acceleration Due to Gravity (Approximately 9.81 M/S (^2 ))</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-top-15-trending-hashtags-in-tiktok/"><u>[Updated] In 2024, The Top 15 Trending Hashtags in TikTok</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mmfwav-movavi/"><u>如何免费将MMF文件转换为WAV: 利用Movavi工具的步骤指南</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webmmp3/"><u>無縫的 WEBM到MP3適配 - 動感維予電影格式變更器</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-mkv-metadata-modification-software-a-comprehensive-guide-of-5-options/"><u>Best MKV Metadata Modification Software: A Comprehensive Guide of 5 Options</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/boost-engagement-on-instagram-stories-mastering-multi-image-techniques-for-2024/"><u>Boost Engagement on Instagram Stories Mastering Multi-Image Techniques for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-bard-ai-upgrades-revealed-at-io-202n3-the-top-7-features-you-cant-miss/"><u>Google's BARD AI Upgrades Revealed at IO 202N3 - The Top 7 Features You Can't Miss</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/magicard-rio-pro-driver-latest-download-for-windows-11-81-and-7/"><u>Magicard Rio Pro Driver | Latest Download | For Windows 11, 8.1 and 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-perfect-selfies-a-guide-to-using-selfie-lights-effectively/"><u>Mastering the Art of Perfect Selfies: A Guide to Using Selfie Lights Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movaviape/"><u>Movavi提供線上免費的APE類型音效更換工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-dng-jpeg/"><u>Movavi의 DNG파일에서 원금이 아닌 JPEG 변환 소스: 웹을 통해 무비용으로</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-from-your-iphone/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging From Your iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-flv-gratuitamente-con-il-servizio-online-di-convertitore-movavi/"><u>Trasforma I Tuoi File AVI in Formato FLV Gratuitamente Con Il Servizio Online Di Convertitore Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trp-mpg/"><u>TRP 이동판 값을 MPG로 바꾸기: 웹상인 무료 해시</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-lowdown-on-vn-video-editor-for-pc-a-brief-but-informative-review/"><u>Updated In 2024, The Lowdown on VN Video Editor for PC A Brief but Informative Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-everything-you-should-know-about-instagram-video-length/"><u>[New] 2024 Approved Everything You Should Know About Instagram Video Length</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-beats-and-briefs-music-incorporation-guide-on-fb-stories-for-2024/"><u>[Updated] Beats and Briefs Music Incorporation Guide on FB Stories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ffmpegs-audio-recapture-challenge/"><u>[Updated] FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-software-update-for-your-wacom-cintiq-model-download-today/"><u>Get the Most Recent Software Update for Your Wacom Cintiq Model - Download Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-upgrade-alert-how-to-get-the-pre-release-version-of-ios-16-installed-today-though-it-may-be-wise-to-wait/"><u>IPhone Upgrade Alert! How To Get the Pre-Release Version of iOS 16 Installed Today (Though It May Be Wise To Wait)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-lagging-keys-overcoming-input-delay-issues-in-windows-1ebwarement-edition/"><u>No More Lagging Keys: Overcoming Input Delay Issues in Windows 1Ebwarement Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/overcoming-invisible-vids-on-facebook-master-the-12-essentials-in-23/"><u>Overcoming Invisible Vids on Facebook – Master the 12 Essentials in '23</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-media-dvd-playback-issues-successfully/"><u>Solving Windows Media: DVD Playback Issues Successfully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-epson-xp-430-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Downloading and Setting Up Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-restore-effective-ways-to-overcome-dns-unavailable-error/"><u>Troubleshoot and Restore: Effective Ways to Overcome 'DNS Unavailable Error'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-11s-0x80072efd-mistake/"><u>Troubleshooting Guide: Resolving Windows 11'S 0X80072EFD Mistake</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v27e-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V27e Phone Network-Ready</u></a></li>
 </ul></div>
 

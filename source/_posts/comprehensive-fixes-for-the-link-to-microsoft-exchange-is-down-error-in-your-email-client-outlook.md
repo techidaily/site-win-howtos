@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fixes for 'The Link to Microsoft Exchange Is Down' Error in Your Email Client (Outlook)
-date: 2024-10-08T17:29:32.475Z
-updated: 2024-10-15T20:30:06.553Z
+date: 2024-10-20T18:07:19.415Z
+updated: 2024-10-21T21:58:40.125Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ But don’t worry, it’s not hard to fix at all…
 4. **[Change the DNS server address](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Register Windows Store package](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Start Windows Store service and change Windows Update startup type
 
  Starting**Windows Store service** and change**Windows Update startup type** is a proven effective fix for our **0x80072ee7** in our Windows Store. To do so:
@@ -43,10 +50,16 @@ But don’t worry, it’s not hard to fix at all…
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
@@ -56,13 +69,6 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 2: Run the DISM tool
@@ -71,17 +77,26 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
  Wait a while for the whole process to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, run Windows Store again and see if it works properly this time.
@@ -89,10 +104,10 @@ But don’t worry, it’s not hard to fix at all…
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -115,10 +130,10 @@ But don’t worry, it’s not hard to fix at all…
 4. Restart your computer and hope everything goes off without a hitch on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
@@ -132,13 +147,6 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click   **OK**  .  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
 2. **Click Change adapter settings .**  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
@@ -159,10 +167,10 @@ But don’t worry, it’s not hard to fix at all…
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 5: Register Windows Store package**
@@ -174,10 +182,10 @@ But don’t worry, it’s not hard to fix at all…
 2. Copy & paste**the following command** into the window and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
@@ -205,18 +213,16 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-screen-capturing-with-your-iphone-7/"><u>[New] Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-screenshotting-handbook-by-professionals-using-zd-softs-software/"><u>[Updated] In 2024, The Ultimate Screenshotting Handbook by Professionals Using ZD Soft’s Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-maximizing-auditory-experience-on-windows-10/"><u>2024 Approved Maximizing Auditory Experience on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-substitutes-to-windows-movie-maker-a-comprehensive-guide-of-20-applications/"><u>Discover the Ultimate Substitutes to Windows Movie Maker: A Comprehensive Guide of 20 Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-the-enterprise-applications-of-gpt/"><u>Dissecting the Enterprise Applications of GPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-mastering-professional-grade-color-grading-techniques/"><u>Expert Tips: Mastering Professional-Grade Color Grading Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-static-to-vivid-moments-with-the-new-polaroid-xs-100i/"><u>From Static to Vivid Moments with the New Polaroid XS 100I</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-free-web-based-swf-to-mov-transformation-tool/"><u>Movavi's Free, Web-Based SWF to MOV Transformation Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavionline-oggmp4/"><u>Movaviで簡単にフリーOnline Ogg/MP4コンバートをマスター</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/passos-essenciais-para-aplicacao-de-maquiagem-fotografica-tecnicas-do-melhor-visualizador-profissional/"><u>Passos Essenciais Para Aplicação De Maquiagem Fotográfica: Técnicas Do Melhor Visualizador Profissional</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/switch-your-audio-format-seamlessly-convert-flac-to-mp3-for-no-cost-using-our-tool/"><u>Switch Your Audio Format Seamlessly: Convert FLAC to MP3 for No Cost Using Our Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win11s-best-screen-capturing-software-selection-top-11-recommendations/"><u>Win11's Best Screen Capturing Software Selection – Top 11 Recommendations!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-minecraft-recording-top-5-techniques-for-mac-users/"><u>[New] 2024 Approved Navigating Minecraft Recording Top 5 Techniques for Mac Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-depth-look-at-vsdc-plus-top-competitors-for-2024/"><u>[Updated] In-Depth Look at VSDC, Plus Top Competitors for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-to-filmoras-fcc-status/"><u>[Updated] Unveiling the Secrets to Filmora’s FCC Status</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-error-code-0x800f0922-during-windows-10-updates/"><u>Effective Solutions to Fix Error Code 0X800F0922 During Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-frozen-or-white-screen-on-your-laptop-expert-tips-and-solutions/"><u>Fix a Frozen or White Screen on Your Laptop - Expert Tips & Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-c55-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme C55 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-airpod-connectivity-on-laptops-updated-fixes-for-windows-1011/"><u>Mastering AirPod Connectivity on Laptops - Updated Fixes for Windows 10/11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/repairing-an-inoperative-obs-video-feed-for-2024/"><u>Repairing an Inoperative OBS Video Feed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-lowering-cpu-load-after-wdf-update-fixes/"><u>Troubleshooting Guide: Lowering CPU Load After WDF Update Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-neo-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT Neo 5 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

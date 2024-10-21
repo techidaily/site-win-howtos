@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 & Windows 10 Screen Capture Issue Solved: Reactivating the Print Screen Key"
-date: 2024-10-13T02:19:18.232Z
-updated: 2024-10-16T03:14:31.117Z
+date: 2024-10-15T18:36:12.653Z
+updated: 2024-10-21T21:10:27.848Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,6 +46,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -73,17 +73,25 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -94,21 +102,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -121,10 +122,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -159,24 +160,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-7-grand-strategy-masterpieces-for-epic-battles/"><u>[Updated] Top 7 Grand Strategy Masterpieces for Epic Battles</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-the-enhanced-performance-of-apples-cost-effective-ipad-now-with-an-updated-10cu-inch-display/"><u>A Closer Look at the Enhanced Performance of Apple's Cost-Effective iPad, Now with an Updated 10.cu Inch Display</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-libre-y-descentralizado-para-cambiar-flac-a-wav-por-movavi-sin-pagos/"><u>Convertidor Libre Y Descentralizado Para Cambiar FLAC a WAV Por Movavi - Sin Pagos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-aiff-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transform AIFF Files Into OGG Format with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-nef-files-to-jpeg-format-with-ease-using-movavi/"><u>Free Online Conversion: Transform NEF Files to JPEG Format with Ease Using Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/il-guidone-segreto-alle-8-lame-magiche-per-convertire-videoclip-in-gif-rapidi-e-ottimizzati/"><u>Il Guidone Segreto Alle 8 Lame Magiche per Convertire Videoclip in GIF Rapidi E Ottimizzati</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-drafting-a-dim-sum-storyline/"><u>In 2024, Drafting a Dim Sum Storyline</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-noise-free-ai-transcription-technology/"><u>In 2024, Noise-Free AI Transcription Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-cost-image-exchange-seamlessly-switch-from-pcx-to-jpg-using-online-tools/"><u>No Cost Image Exchange: Seamlessly Switch From PCX to JPG Using Online Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-audio-file-converter-rapidamente-transforme-auvs-em-mp3-wma-e-outros-formatos/"><u>Online Audio File Converter - Rapidamente Transforme AUVs Em MP3, WMA E Outros Formatos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-6-convertitori-di-file-mp4-gratis-per-trasformare-i-tuoi-filmati-in-formato-mp4/"><u>Top 6 Convertitori Di File MP4 Gratis per Trasformare I Tuoi Filmati in Formato MP4</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-strategies-for-adjusting-song-speed-on-spotify-for-2024/"><u>Top Strategies for Adjusting Song Speed on Spotify for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-restrictions-enhanced-features-in-google-news-stream-and-tips-for-superior-mobile-internet-while-exploring/"><u>Understanding ChatGPT Restrictions: Enhanced Features in Google News Stream & Tips for Superior Mobile Internet While Exploring</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-gyors-megujulas-4-a-kepernyo-takaritasanak-eleganten-feltoltenedesere/"><u>Windows 11 Gyors Megújulás 4: A Kepernyő Takarításának Eleganten Feltoltenedésére</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726228274213-mpeg-asf-movavi/"><u>제공자가 아닌 웹사이트에서 무료 MPEG ASF 영상 데이터 교체 - Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tips-and-tricks-for-creating-engaging-collab-videos-on-youtube/"><u>[Updated] In 2024, Tips and Tricks for Creating Engaging Collab Videos on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27 Pro Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-samsung-cf591-perfect-match-for-gamers-or-not/"><u>Assessing the Samsung CF591: Perfect Match for Gamers or Not?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-broken-shift-keys-expert-advice-for-optimal-functionality/"><u>Diagnose & Repair Broken Shift Keys: Expert Advice for Optimal Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11s-malfunctioning-night-light-setting/"><u>How to Resolve Windows 11'S Malfunctioning Night Light Setting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-in-malfunctioning-arrow-keys-on-your-keyboard/"><u>How To Restore Functionality in Malfunctioning Arrow Keys on Your Keyboard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-secure-continuous-streaming-in-obs-for-2024/"><u>How To Secure Continuous Streaming In OBS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>In 2024, Streamlining Media Files From XML/TXT to SRT Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-ultimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel/"><u>In 2024, The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-into-autopilot-mode-discovering-the-reason-behind-self-starting-windows-11-systems/"><u>Insight Into Autopilot Mode: Discovering the Reason Behind Self-Starting Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-volume-control-problems-a-comprehensive-guide/"><u>Overcoming Windows 10 Volume Control Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-warmth-in-your-hp-spectre-x360-step-by-step-guide/"><u>Resolving Excessive Warmth in Your HP Spectre X360 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-volume-control-issues-a-guide-to-the-top-7-repairs/"><u>Solving iPhone Volume Control Issues: A Guide to the Top 7 Repairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-file-management-overcoming-o365-errors-on-win-11/"><u>Streamlined File Management: Overcoming O365 Errors on Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-pen-on-pro-4-effective-steps-to-get-it-running-again/"><u>Troubleshooting Your Surface Pen on Pro 4: Effective Steps to Get It Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212347991-unearth-the-missing-touchpad-icon-fix-now/"><u>Unearth the Missing Touchpad Icon, Fix Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub-for-2024/"><u>Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub for 2024</u></a></li>
 </ul></div>
 

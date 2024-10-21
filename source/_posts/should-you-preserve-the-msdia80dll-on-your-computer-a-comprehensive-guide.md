@@ -1,7 +1,7 @@
 ---
 title: Should You Preserve the MSDIA80.DLL on Your Computer? A Comprehensive Guide
-date: 2024-10-12T02:17:25.770Z
-updated: 2024-10-15T16:37:43.346Z
+date: 2024-10-17T22:14:05.149Z
+updated: 2024-10-21T18:39:29.750Z
 tags:
   - win11
   - win10
@@ -48,15 +48,28 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -77,19 +90,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -100,24 +113,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -134,6 +133,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -159,22 +166,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-essential-list-of-the-finest-ios-ps2-emulators/"><u>[Updated] Your Essential List of the Finest iOS PS2 Emulators</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1726030649516-tsmtsm2tm2ts/"><u>高画質のまとめて変換！TS・MTS・M2TフォーマットからM2TSへ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/aprenda-a-editar-dvds-com-facilidade-copiando-convertendo-e-compactando-videos/"><u>Aprenda a Editar DVDs Com Facilidade: Copiando, Convertendo E Compactando Vídeos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-light-to-your-pc-top-5-techniques-for-a-working-backlight/"><u>Bring Light to Your PC: Top 5 Techniques for a Working Backlight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertissez-gratuitement-votre-fichier-ape-au-format-aiff-sur-internet-avec-ease-movavi/"><u>Convertissez Gratuitement Votre Fichier APE Au Format AIFF Sur Internet Avec Ease - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-your-wtv-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transform Your WTV Files Into AVI Format with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-facile-per-convertire-i-file-mp4-in-dvd-con-movavi/"><u>Guida Facile per Convertire I File MP4 in DVD Con Movavi</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-live-to-video-key-techniques-in-gaming-recordings/"><u>In 2024, From Live to Video Key Techniques in Gaming Recordings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-front-row-diversions-beyond-sports-galore/"><u>In 2024, Front Row Diversions Beyond Sports Galore</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-record-audio-on-powerpoint-windows-and-mac/"><u>In 2024, How to Record Audio on PowerPoint? Windows and Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphone-users-rejoice-experience-unmatched-ai-with-chatgpt-app-on-your-device/"><u>IPhone Users Rejoice – Experience Unmatched AI with ChatGPT App on Your Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/modify-video-annotations-with-ease-masterclass-in-movavis-editing-tools/"><u>Modify Video Annotations with Ease: Masterclass in Movavi's Editing Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-understanding-the-key-distinctions-and-compatibility/"><u>NTSC vs PAL: Understanding the Key Distinctions and Compatibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-quality-screencast-apps-on-the-market-get-yours-today/"><u>Top Quality Screencast Apps on the Market – Get Yours Today!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/upgrade-hat-support-with-newest-deathadder-driver/"><u>Upgrade HAT Support with Newest DeathAdder Driver</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upgraded-gtfo-experience-resolving-issues-with-frame-rate-fluctuations-in-game-lags-and-maximizing-graphics-performance/"><u>Upgraded GTFO Experience: Resolving Issues with Frame Rate Fluctuations, In-Game Lags & Maximizing Graphics Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-flac-wma/"><u>무료 Movavi라는 소프트웨어를 사용한 FLAC WMA 변환 – 컴퓨터 내부에서의 안전하고 편리한 방법</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-no-fuss-full-fun-exploring-ifunnys-meme-treasure-for-2024/"><u>[Updated] No Fuss, Full Fun Exploring iFunny's Meme Treasure for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-realistic-3d-text-photoshopping-style-for-2024/"><u>Crafting Realistic 3D Text Photoshopping Style for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969172748-download-and-install-the-latest-epson-wf-3620-printer-drivers-on-windows-11-8-or-7/"><u>Download and Install the Latest Epson WF-3620 Printer Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-busters-overcoming-setup-hurdles-with-failed-driver-messages/"><u>Error Busters: Overcoming Setup Hurdles with Failed Driver Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-to-overcome-destiny-server-access-issues-online/"><u>Essential Tips to Overcome Destiny Ⅱ Server Access Issues Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-lenovo-mousepad-issues-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fix Lenovo Mousepad Issues on Windows 10, 8 & 7 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-or-damaged-windows-store-cache-a-comprehensive-guide/"><u>How to Fix a Broken or Damaged Windows Store Cache: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-tips-to-perfect-minecraft-pixelation/"><u>In 2024, Pro Tips to Perfect Minecraft Pixelation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-per-video-restrictions-for-2024/"><u>Mastering Instagram's Per-Video Restrictions for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209939767-overcome-broken-arrow-key-issues-masterful-remedies-for-smooth-typing/"><u>Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resetting-101-expert-tips-for-restoring-functionality-to-your-unresponsive-keyboard/"><u>Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording-for-2024/"><u>Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-keys-on-a-keyboard/"><u>Troubleshooting Guide: How to Fix Unresponsive Keys on a Keyboard</u></a></li>
 </ul></div>
 

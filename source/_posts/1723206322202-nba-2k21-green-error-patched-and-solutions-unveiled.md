@@ -1,7 +1,7 @@
 ---
 title: NBA 2K21 Green Error Patched and Solutions Unveiled!
-date: 2024-10-15T06:43:20.869Z
-updated: 2024-10-16T00:38:11.728Z
+date: 2024-10-20T18:59:04.263Z
+updated: 2024-10-21T19:43:11.171Z
 tags:
   - win11
   - win10
@@ -58,15 +58,22 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Re-download/update the game and see if it works now.
 
@@ -83,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442ec7b8cb3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Downloads** \>**STEAM LIBRARY FOLDERS** .
@@ -96,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
  4) Right-click inside the Window and click **Repair Library Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5)Re-try the install/update and hopefully this time it succeeds.
 
@@ -129,10 +129,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Give administrator privileges to Steam
@@ -142,13 +142,26 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
@@ -158,10 +171,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
@@ -171,13 +184,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  5) Run Steam as administrator and check if the mid-download/update problem gets fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -207,18 +213,21 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-virtual-frontiers-current-trends-in-vr-tech/"><u>[New] 2024 Approved Virtual Frontiers Current Trends in VR Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-speedy-mobile-audio-playback-best-apps-ranked/"><u>[Updated] Speedy Mobile Audio Playback Best Apps Ranked</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-with-high-speed-cinematography/"><u>2024 Approved Pushing Boundaries with High-Speed Cinematography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726219563826-movavi/"><u>高品質ビデオのスロー再生：Movaviソリューションのガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-any-restrictions-on-length-in-chatgpt-answers/"><u>Are There Any Restrictions on Length in ChatGPT Answers?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-wmv-a-wav-online-il-guida-completa-di-movie-converter/"><u>Conversione Gratuita WMV a WAV Online: Il Guida Completa Di Movie Converter</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/dive-deep-into-the-world-of-timelapses-with-your-ipad/"><u>Dive Deep Into the World of Timelapses with Your iPad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-wav-para-flv-pelo-movavi-faca-a-transformacao-agora/"><u>Gratuito Online Converter De WAV Para FLV Pelo Movavi - Faça a Transformação Agora!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-celebrating-maker-spirits-creative-otu-packs/"><u>In 2024, Celebrating Maker Spirits Creative OTU Packs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-lite-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 Lite to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-conversion-of-tiktok-to-facebook/"><u>The Ultimate Conversion of TikTok to Facebook</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-cloud-storage-options-for-android-devices-beyond-icloud/"><u>Top Cloud Storage Options for Android Devices: Beyond iCloud</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformar-archivos-mov-en-mkv-con-facilidad-y-sin-costes-mediante-conversor-gratuito-online-movavi/"><u>Transformar Archivos MOV en MKV Con Facilidad Y Sin Costes Mediante Conversor Gratuito Online - MOVavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-class-on-cutting-unwanted-backdrops/"><u>[Updated] Master Class on Cutting Unwanted Backdrops</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-start-screen-special-free-editing-tools/"><u>[Updated] Start Screen Special Free Editing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-play-40c-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor Play 40C Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-eliminating-livekernelevent-error-144-challenge/"><u>Deciphering & Eliminating 'LiveKernelEvent Error #144' Challenge</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-editing-skills-mastering-jumps-and-pastes/"><u>Elevate Editing Skills: Mastering Jumps & Pastes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-version-1607-feature-update-installation-issues/"><u>Overcoming Windows 10 Version 1607 Feature Update Installation Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-structural-glitches-corrected-enjoy-seamless-gaming-now/"><u>PUBG Structural Glitches Corrected, Enjoy Seamless Gaming Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-tutorial-personalize-and-elevate-your-short-videos-for-2024/"><u>Step-by-Step Tutorial Personalize and Elevate Your Short Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-missing-volume-settings-icon-on-your-windows-11-pc-pictorial-evidence-included/"><u>The Ultimate Fix for Missing 'Volume' Settings Icon on Your Windows 11 PC [Pictorial Evidence Included]</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-10-recomendaciones-exitosas-para-crear-videos-de-tutoria-perfectos/"><u>Top 10 Recomendaciones Exitosas Para Crear Videos De Tutoría Perfectos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-code-28-error-in-windows-device-manager/"><u>Troubleshooting and Correcting Code 28 Error in Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-dell-laptop-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-how-to-shift-music-onto-your-iphone-for-free-bypassing-itunes/"><u>Ultimate Guide: How to Shift Music Onto Your iPhone for Free - Bypassing iTunes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-cpu-hogging-tame-msmpengexe-on-your-pc/"><u>Winning the Battle Against CPU Hogging: Tame MsMpEng.exe on Your PC</u></a></li>
 </ul></div>
 

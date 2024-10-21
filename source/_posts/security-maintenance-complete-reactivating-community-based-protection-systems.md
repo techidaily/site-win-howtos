@@ -1,7 +1,7 @@
 ---
 title: "Security Maintenance Complete: Reactivating Community-Based Protection Systems"
-date: 2024-10-09T01:29:22.624Z
-updated: 2024-10-16T01:03:29.323Z
+date: 2024-10-16T16:05:00.231Z
+updated: 2024-10-21T20:28:13.295Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -41,6 +48,13 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -56,16 +70,16 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -83,23 +97,9 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -113,13 +113,6 @@ To make sure you’ve this setting disabled:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -128,16 +121,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
@@ -146,6 +139,13 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,19 +171,21 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] In 2024, Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-slowing-down-life-best-practices-with-gopro-hero-10s-slow-motion/"><u>[New] Slowing Down Life Best Practices with GoPro Hero 10'S Slow Motion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>[Updated] Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[Updated] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/abbyy-crowned-fourth-consecutive-leader-of-the-peak-matrix-for-everest-groups-2022-idp-assessment/"><u>ABBYY Crowned Fourth Consecutive Leader of the Peak Matrix® for Everest Group's 2022 IDP Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-mov-a-mp4-en-internet-gratuitamente-con-movavi-guia-paso-a-paso/"><u>Conversión MOV a MP4 en Internet Gratuitamente Con Movavi - Guía Paso a Paso</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deep-dive-into-the-latest-ai-announcements-from-apples-wwdc-2023/"><u>Deep Dive Into the Latest AI Announcements From Apple's WWDC 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facilita-di-invio-di-grandi-videoclip-per-posta-elettronica-con-linnovativa-tecnologia-di-compressione-del-software-movavi/"><u>Facilità Di Invio Di Grandi Videoclip per Posta Elettronica Con L'Innovativa Tecnologia Di Compressione Del Software Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-ai-migliori-programmi-per-telecamere-ip-le-alternative-libere-al-2024-settembre-confrontate-con-movavi/"><u>Guida Ai Migliori Programmi per Telecamere IP: Le Alternative Libere Al 2024 Settembre, Confrontate Con Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-complete-club-rollout-in-status-updates-on-social-media/"><u>The Complete Club Rollout in Status Updates on Social Media</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-smartphones-with-superior-video-capture-capabilities/"><u>Top 10 Smartphones with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-techniques-for-maximizing-ark-sanctuarys-pc-gameplay-fps-enhancement-guide/"><u>Top Techniques for Maximizing ARK: Sanctuary's PC Gameplay - FPS Enhancement Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webm-vob-online/"><u>Webm 형식으로 Vob 파일을 자유롭게 변환하는 방법 - Online 무료 서비스</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-exploring-visual-storytelling-creating-time-lapse-videos-on-ipad/"><u>[New] 2024 Approved Exploring Visual Storytelling Creating Time-Lapse Videos on iPad</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-videovault-annual-review-of-top-screen-recorders/"><u>[New] VideoVault Annual Review of Top Screen Recorders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[Updated] In 2024, Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/avatar-asymmetry-artistry-sketching-distorted-images/"><u>Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/beyondbasics-futurecameraspost-mycam-for-2024/"><u>BeyondBasics FutureCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-windows-driver-power-state-error-fixes/"><u>Easy Solutions for Windows Driver Power State Error Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-a-frozen-window-10-screen/"><u>Effective Solutions for Resolving a Frozen Window 10 Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-black-screen-fixes-a-step-by-step-guide/"><u>Google Chrome Black Screen Fixes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-new-mouse-drivers-easy-and-swift-for-windows-7/"><u>Install New Mouse Drivers: Easy & Swift for Windows 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-timing-on-mobile-top-10-apps-for-couples-special-day/"><u>Mastering Timing on Mobile Top 10 Apps for Couple's Special Day</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-top-5-free-m4a-file-editors-you-need-for-2024/"><u>New The Top 5 Free M4A File Editors You Need for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overload-incident-at-networking-interface/"><u>Resolved: Overload Incident at Networking Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-arrow-keys-malfunction-effective-troubleshooting-tips/"><u>Solving Keyboard Arrow Keys Malfunction: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-your-pc-doesnt-recognize-the-hard-disk/"><u>Troubleshooting Guide: When Your PC Doesn't Recognize the Hard Disk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-windows-10-touchscreen-issues-using-these-5-methods/"><u>Ultimate Guide: Repairing Windows 10 Touchscreen Issues Using These 5 Methods</u></a></li>
 </ul></div>
 

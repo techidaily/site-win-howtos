@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide"
-date: 2024-10-12T18:23:27.615Z
-updated: 2024-10-16T02:50:13.826Z
+date: 2024-10-15T20:26:10.635Z
+updated: 2024-10-21T21:22:23.622Z
 tags:
   - win11
   - win10
@@ -54,16 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -71,10 +65,16 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -90,10 +90,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -105,10 +105,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -133,20 +133,17 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-engage-viewers-with-3-innovative-description-styles-on-instagram-vids/"><u>[New] 2024 Approved Engage Viewers with 3 Innovative Description Styles on Instagram Vids</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-broadcasting-share-your-tweets-video-style/"><u>[New] WhatsApp Broadcasting Share Your Tweets Video-Style</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>2024 Approved Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fb-hd-stream-to-local-storage/"><u>FB HD Stream to Local Storage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-network-change-was-detected-error/"><u>Fix A Network Change Was Detected Error</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-optimize-viewing-experience-on-netflix-platforms/"><u>How to Optimize Viewing Experience on Netflix Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-unresponsive-left-click-on-mice/"><u>How To Troubleshoot and Fix Unresponsive Left-Click on Mice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2022-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone SE (2022) Passcode not Working?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/innovative-approaches-to-gameplay-and-webcam-captures-for-2024/"><u>Innovative Approaches to Gameplay and Webcam Captures for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavis-ultimate-picks-the-best-sites-to-download-your-favorite-tv-shows-top-8/"><u>Movavi's Ultimate Picks: The Best Sites to Download Your Favorite TV Shows (Top 8)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-tackling-unwanted-restart-cycles-in-windows-10-computers/"><u>Quick Solutions for Tackling Unwanted Restart Cycles in Windows 10 Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-time-verification-gpts-online-indicators/"><u>Real-Time Verification: GPT's Online Indicators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-diagnosing-and-repairing-a-non-responsive-computer/"><u>Resolved! Diagnosing and Repairing a Non-Responsive Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-constant-usb-connection-issues-effectively/"><u>Step-by-Step Solution: Dealing with Constant USB Connection Issues Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-eliminating-window-10-screen-vibrations-a-step-by-step-approach/"><u>Top Solutions for Eliminating Window 10 Screen Vibrations: A Step-by-Step Approach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-film-techniques-on-youtube-by-future-visionaries-for-2024/"><u>[Updated] Essential Film Techniques on YouTube by Future Visionaries for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-film-like-a-pro-with-macbook-webcam-tutorial-for-2024/"><u>[Updated] Film Like a Pro with MacBook Webcam Tutorial for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-memetic-artistry-codes/"><u>2024 Approved Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-persistent-timeout-errors-during-online-file-transfers/"><u>Expert Advice: Fixing Persistent Timeout Errors During Online File Transfers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/inoperable-hardware-catastrophic-failure/"><u>Inoperable Hardware: Catastrophic Failure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-solutions-to-resolve-your-dvd-players-pink-screen-issue/"><u>Quick Solutions to Resolve Your DVD Player's Pink Screen Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-error-code-1053-unresponsive-service-timeout-issues/"><u>Solutions for Error Code 1053: Unresponsive Service Timeout Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-resolving-a-malfunctioning-computer-touchpad-problem/"><u>Step-by-Step Tips for Resolving a Malfunctioning Computer Touchpad Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-hogwarts-legacy-game-launch-failures-essential-fixes-players/"><u>Troubleshoot Your Hogwarts Legacy Game Launch Failures: Essential Fixes Players</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-phenomenal-features-of-the-docooler-usb-2n-with-12mp-a-true-gem-or-just-hype/"><u>Unpacking the Phenomenal Features of the Docooler USB 2.n with 12MP – A True Gem or Just Hype?</u></a></li>
 </ul></div>
 

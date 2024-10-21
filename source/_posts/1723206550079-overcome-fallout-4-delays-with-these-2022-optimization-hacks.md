@@ -1,7 +1,7 @@
 ---
 title: Overcome Fallout 4 Delays with These 2022 Optimization Hacks!
-date: 2024-10-12T03:39:53.046Z
-updated: 2024-10-15T19:57:56.892Z
+date: 2024-10-17T18:43:37.298Z
+updated: 2024-10-21T16:46:43.745Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your video card drivers
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using**Driver Easy Pro** to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** .
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  Now launch the game and check whether it runs smoothly. Hopefully it does; but if not, read on and try out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Modify your video card settings
 
@@ -100,6 +100,19 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -112,19 +125,6 @@ Now you’re able to modify the settings of this program.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
@@ -145,6 +145,13 @@ Now you’re able to modify the settings of this program.
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Uncap FPS limit
 
@@ -170,13 +177,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Stop CPU/memory hogging applications
 
  If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
@@ -185,18 +185,18 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
 
  Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
 
@@ -224,24 +224,17 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-complete-tiktok-siri-interaction-manual-for-2024/"><u>[New] The Complete TikTok Siri Interaction Manual for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-top-instagram-hidden-tips-and-tricks/"><u>[Updated] Top Instagram Hidden Tips and Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>2024 Approved Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mxfmpg/"><u>無料で楽に変換: MXFフォーマットからMPGへの簡単なステップバイステップガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/edit-and-convert-mp4-videos-with-expertise-using-movavi-video-editor/"><u>Edit & Convert MP4 Videos with Expertise Using Movavi Video Editor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-iphone-microphone-easy-fixes-for-better-sound-quality/"><u>Fixing an Unresponsive iPhone Microphone – Easy Fixes for Better Sound Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transforming-wmv-files-into-mkv-format-with-ease/"><u>Free Online Conversion: Transforming WMV Files Into MKV Format with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-ram-files-into-mp4-video-format-with-movavi/"><u>Free Online Converter: Transform RAM Files Into MP4 Video Format with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x6-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X6 Pro?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>In 2024, Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-ipad-air-a-game-changer-a-deep-dive-review-for-apple-enthusiasts/"><u>Is the iPad Air a Game-Changer? A Deep Dive Review for Apple Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-for-mac-pro-comprehensive-film-format-transformation-software/"><u>Movavi for Mac Pro: Comprehensive Film Format Transformation Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-konvertor-voor-mp4-naar-3gp-gratis-dienst-moet-aan-movavi-herleiden/"><u>Online Konvertor Voor MP4 Naar 3GP: Gratis Dienst, Moet Aan Movavi Herleiden!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/reviving-failing-launches-proven-techniques-to-resuscitate-your-lethal-startup/"><u>Reviving Failing Launches: Proven Techniques to Resuscitate Your 'Lethal' Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-file-opus-in-formato-aac-online-e-liberamente-movavi/"><u>Trasforma File OPUS in Formato AAC Online E Liberamente - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wma-3gpp-movavi/"><u>WMAファイルの即時無料変換 - 3GPP形式に移行: Movaviサービス</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-one-users-guide-effective-techniques-for-screenshotting-gameplay/"><u>Xbox One User's Guide: Effective Techniques for Screenshotting Gameplay</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-affiliate-marketing-how-to-make-money-with-it/"><u>YouTube Affiliate Marketing How to Make Money with It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gppmovavi/"><u>オンラインで自由に3GPPファイルを変換:Movaviの最新ツール</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>[Updated] 2024 Approved Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-film-editing-a-comprehensive-guide-to-final-cut-pro/"><u>[Updated] Mastering the Art of Film Editing A Comprehensive Guide to Final Cut Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>2024 Approved Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-incompatibile-ftdi-drivers-can-cause-memory-integrity-failures-in-systems/"><u>How Incompatibile FTDI Drivers Can Cause Memory Integrity Failures in Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-4k-masterpieces-our-favorites-listed/"><u>In 2024, 4K Masterpieces Our Favorites Listed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-fallout-4-delays-with-these-2022-optimization-hacks/"><u>Overcome Fallout 4 Delays with These 2022 Optimization Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/secure-your-gaming-experience-resolve-missing-steam-files-problem/"><u>Secure Your Gaming Experience: Resolve Missing Steam Files Problem</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-methods-for-adding-no-cost-markerless-subtitles-to-video-content/"><u>Top Methods for Adding No-Cost, Markerless Subtitles to Video Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-the-unusual-black-out-on-google-chrome-expert-tips-and-tricks/"><u>Troubleshoot the Unusual Black Out on Google Chrome: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

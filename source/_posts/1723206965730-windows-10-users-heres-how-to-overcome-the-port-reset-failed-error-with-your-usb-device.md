@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!
-date: 2024-10-08T20:04:55.462Z
-updated: 2024-10-15T21:21:06.957Z
+date: 2024-10-14T22:07:42.474Z
+updated: 2024-10-21T20:36:26.080Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -60,10 +53,10 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
@@ -71,13 +64,6 @@ Now try to install Windows Updates now.
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -95,6 +81,13 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -104,6 +97,13 @@ Now try to install Windows Updates now.
  Then type **ncpa.cpl**  in it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
 
@@ -141,18 +141,18 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -161,6 +161,13 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**WindowsUpdate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
@@ -173,13 +180,6 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -202,17 +202,16 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-smart-tagging-amplifying-your-youtube-presence/"><u>[New] 2024 Approved Smart Tagging Amplifying Your YouTube Presence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/27-ways-to-livestream-education-content-for-free-for-2024/"><u>27 Ways to Livestream Education Content for Free for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessing-the-ps5s-undercover-browser/"><u>Accessing the PS5's Undercover Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-connectivity-woes-ultimate-guide-to-pairing-airpods-with-windows-computers/"><u>Beat Connectivity Woes: Ultimate Guide to Pairing AirPods with Windows Computers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converti-file-wma-in-formato-vob-gratuitamente-movavi/"><u>Converti File WMA in Formato VOB Gratuitamente - Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-action-camera-extras-a-shoppers-map/"><u>Decoding Action Camera Extras - A Shopper’s Map</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-5-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme GT 5 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/lock-your-likes-making-photo-sharing-on-facebook-private/"><u>Lock Your Likes: Making Photo Sharing on Facebook Private</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-malfunctions-on-windows-10-a-comprehensive-fix-guide/"><u>Overcoming HP Laptop Webcam Malfunctions on Windows 10: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinventing-wireless-setup-on-multiple-os-platforms/"><u>Reinventing Wireless Setup on Multiple OS Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-windows-10-keyboard-responsiveness-issues/"><u>Solution Guide: Overcoming Windows 10 Keyboard Responsiveness Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-shedding-light-on-videography-excellence/"><u>[New] 2024 Approved Shedding Light on Videography Excellence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly/"><u>[New] Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-collective-evaluation-of-vllo-for-2024/"><u>[New] The Collective Evaluation of VLLO for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlimited-legal-fb-beats-access/"><u>[Updated] In 2024, Unlimited, Legal FB Beats Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-insight-scoring-unbeatable-offers-on-the-sleek-apple-ipad-pro-before-prime-day-zdnet/"><u>Exclusive Insight: Scoring Unbeatable Offers on the Sleek Apple iPad Pro Before Prime Day - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-microsofts-print-to-pdf-on-windows-11/"><u>Fixing Issues with Microsoft's Print to PDF on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-pc-running-on-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your PC Running on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-network-set-up-glitch-in-dragon-ball-fighterz-game/"><u>How to Correct the Network Set-Up Glitch in Dragon Ball FighterZ Game</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-pick-a-unique-name-for-youtube-channel-filmora-for-2024/"><u>How To Pick a Unique Name for YouTube Channel - Filmora for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-fix-ethernet-network-issues-on-your-windows-11-or-windows-press-machine/"><u>How to Successfully Fix Ethernet Network Issues on Your Windows 11 or Windows Press Machine</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-online-video-promotion-experts/"><u>Updated Online Video Promotion Experts</u></a></li>
 </ul></div>
 

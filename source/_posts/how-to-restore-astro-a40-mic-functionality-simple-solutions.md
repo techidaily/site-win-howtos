@@ -1,7 +1,7 @@
 ---
 title: How to Restore Astro A40 Mic Functionality - Simple Solutions!
-date: 2024-10-15T00:35:33.237Z
-updated: 2024-10-15T17:27:38.759Z
+date: 2024-10-18T16:52:02.438Z
+updated: 2024-10-21T19:07:16.044Z
 tags:
   - win11
   - win10
@@ -69,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -109,15 +102,22 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Tick the “Support TabletPC” option
@@ -129,19 +129,6 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -175,13 +162,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
@@ -208,11 +188,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -222,6 +216,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -230,16 +231,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -250,13 +251,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -283,24 +277,22 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] 2024 Approved Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-vivid-visuals-await-with-hps-4k-monitor-z32x-edition/"><u>[New] 2024 Approved Vivid Visuals Await with HP’s 4K Monitor, Z32X Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screen-scanning-with-fraps-a-critical-review/"><u>[New] In 2024, Screen Scanning with Fraps A Critical Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-stealthy-styles-easy-color-corrections-techniques/"><u>[New] In 2024, Stealthy Styles Easy Color Corrections Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mastering-tiktok-video-enhancement-with-zoom/"><u>[Updated] Mastering TikTok Video Enhancement with Zoom</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103988990-bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/chorus-of-creativity-the-mac-studio-experience/"><u>Chorus of Creativity The Mac Studio Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restarting-and-reconfiguring-your-graphics-drivers-post-failure/"><u>Expert Advice on Restarting and Reconfiguring Your Graphics Drivers Post-Failure</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/free-acting-availability-pledge/"><u>Free Acting Availability Pledge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-not-responding-problems-in-windows-10-quickly/"><u>How to Fix 'File Explorer Not Responding' Problems in Windows 10 Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-disk-error-with-nvidia-graphics-card/"><u>How to Fix 'No Disk' Error with NVIDIA Graphics Card</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-redefining-engagement-virtual-reality-in-education/"><u>In 2024, Redefining Engagement Virtual Reality in Education</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microphone-settings-in-w11-systems/"><u>Mastering Microphone Settings in W11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-lenovos-webcam-stops-working/"><u>Quick Fixes for When Your Lenovo's Webcam Stops Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-entrypointmissing-error-on-your-windows-pc/"><u>Step-by-Step Fix for 'EntryPointMissing' Error on Your Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-a-failed-igfxem-module-a-comprehensive-guide/"><u>Troubleshoot and Fix a Failed IgfxEM Module - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-a-comprehensive-guide-to-unresponsive-corsair-keyboards/"><u>Troubleshoot and Fix: A Comprehensive Guide to Unresponsive Corsair Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-endless-wait-times-in-valorant-steps-to-resolve-the-issue/"><u>Troubleshooting Endless Wait Times in Valorant - Steps to Resolve the Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-nonfunctional-start-menu-in-windows-11/"><u>Troubleshooting Guide: How to Repair a Nonfunctional Start Menu in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-accessory-fb-stories-capture-app-for-2024/"><u>[New] Online Accessory Fb Stories Capture App for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-evaluation-how-does-recmeister-stack-up/"><u>[Updated] The Ultimate Evaluation How Does Recmeister Stack Up?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-updated-windows-11-gems/"><u>2024 Approved Game On with Updated Windows 11 Gems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-insta-elite-blueprint-15-proven-tips-to-amass-thousands-of-followers-rapidly/"><u>2024 Approved The Insta Elite Blueprint 15 Proven Tips to Amass Thousands of Followers Rapidly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-blues-a-users-manual-for-windows-error-code-0xc0000098/"><u>Beating the Blues: A User's Manual for Windows Error Code 0xC0000098</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/die-optimale-videokompression-fur-hochwertige-uploads-auf-youtube-tipps-and-tricks/"><u>Die Optimale Videokompression Für Hochwertige Uploads Auf YouTube - Tipps & Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-finding-and-downloading-epson-workforce-ds30-drivers-for-various-versions-of-windows-10-8-and-7/"><u>Easy Guide: Finding and Downloading Epson WorkForce DS30 Drivers for Various Versions of Windows (10, 8 & 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-graphics-device-not-supported-issue-in-civ-vi/"><u>Fixing the 'Graphics Device Not Supported' Issue in Civ VI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-crimson-display-issue-on-your-device-a-step-by-step-tutorial/"><u>How to Resolve the Crimson Display Issue on Your Device – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/investigating-cash-for-review-scenarios-for-2024/"><u>Investigating Cash-for-Review Scenarios for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-windows-struggling-with-printer-driver-search-problems/"><u>Master the Solution: Windows Struggling with Printer Driver Search Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sleepy-tech-unwakeable-computer-on-windows-1011/"><u>Sleepy Tech: Unwakeable Computer on Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solving-hp-monitor-drivers-problems-in-windows-10-8-and-7/"><u>Troubleshooting & Solving HP Monitor Drivers Problems in Windows 10, 8, and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-xbox-one-controller-connection-issues/"><u>Troubleshooting Guide: Fixing Xbox One Controller Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-self-activating-windows-11-machines-expert-tips-and-tricks/"><u>Troubleshooting Self-Activating Windows 11 Machines: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-higher-performance-a-guide-to-faster-gaming-on-windows-11/"><u>Unlocking Higher Performance: A Guide to Faster Gaming on Windows 11</u></a></li>
 </ul></div>
 

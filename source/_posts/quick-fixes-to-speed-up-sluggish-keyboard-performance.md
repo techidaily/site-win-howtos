@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2024-10-08T17:03:31.393Z
-updated: 2024-10-16T01:45:41.877Z
+date: 2024-10-14T21:21:34.874Z
+updated: 2024-10-21T20:36:05.565Z
 tags:
   - win11
   - win10
@@ -47,25 +47,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,6 +67,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -92,10 +85,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -116,6 +109,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -131,13 +131,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -150,20 +143,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,24 +199,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-best-obs-settings-for-low-end-pcs/"><u>2024 Approved Best OBS Settings for Low-End PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/address-freezing-in-valorant-reboot-strategy/"><u>Address Freezing in Valorant: Reboot Strategy</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/authentic-australian-english-the-definitive-list/"><u>Authentic Australian English: The Definitive List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/failed/"><u>Failed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-107-resolved/"><u>How to Fix Speaker Distortion on Windows 10/7 - Resolved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y100-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y100 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-syma-x5c-reviewed-ideal-entry-level-flying-machine/"><u>In 2024, Syma X5C Reviewed Ideal Entry-Level Flying Machine</u></a></li>
-<li><a href="https://network-issues.techidaily.com/precision-adjustment-for-screen-stability/"><u>Precision Adjustment for Screen Stability</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-high-network-activity-issues-a-closer-look-at-svchostexe-and-its-impact-on-your-system/"><u>Resolve High Network Activity Issues: A Closer Look at svchost.exe and Its Impact on Your System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-visibility-of-second-pc-window/"><u>Restore Visibility of Second PC Window</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209684073-stuck-on-a-unprintable-pdf-problem-quick-troubleshooting-tips-inside/"><u>Stuck on a Unprintable PDF Problem? Quick Troubleshooting Tips Inside.</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/techniques-for-selective-youtube-video-downloading-for-2024/"><u>Techniques for Selective YouTube Video Downloading for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-challenges-why-the-team-struggles-to-meet-eligibility-criteria/"><u>Teredo's Challenges: Why the Team Struggles to Meet Eligibility Criteria</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-dragging-shutdown-experience-on-windows-10-machines/"><u>Troubleshooting a Dragging Shutdown Experience on Windows 10 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-windows-videodxgkrnlcrashes-effectively/"><u>Troubleshooting and Solving Windows Video_Dxgkrnl_Crashes Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-get-print-driver-host-has-stopped-working-message-away-32bit/"><u>Troubleshooting Tips: How to Get 'Print Driver Host Has Stopped Working' Message Away (32Bit)</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplugged-delights-ioss-no-data-games-you-need-to-try/"><u>Unplugged Delights: IOS's No Data Games You Need to Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>2024 Approved Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212281469-cant-get-your-pdf-to-print-quick-tips-for-a-smooth-printout/"><u>Can't Get Your PDF to Print? Quick Tips for a Smooth Printout</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-prevent-android-apps-from-consuming-resources-behind-the-scenes/"><u>Effective Techniques to Prevent Android Apps From Consuming Resources Behind the Scenes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-broken-system-files-in-microsofts-latest-os/"><u>Expert Tips for Fixing Broken System Files in Microsoft's Latest OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-facebook-5-quick-strategies-for-enhanced-usage/"><u>Harnessing Facebook: 5 Quick Strategies for Enhanced Usage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia 105 Classic Phone with Broken Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-challenges-of-hp-deskjet-d1360-printer-drivers-on-latest-windows-versions-a-user-guide/"><u>Overcoming Installation Challenges of HP Deskjet D1360 Printer Drivers on Latest Windows Versions: A User Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-entrypointnotfoundexception-on-your-pc-a-step-by-step-guide/"><u>Resolving 'EntryPointNotFoundException' On Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-vcruntime140dll-absence-error-on-windows-pcs-effortlessly/"><u>Solve Your 'VCRUNTIME140.dll' Absence Error on Windows PCs Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-narzo-60-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme Narzo 60 5G.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-14-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 14 Making It Possible</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-correct-sudden-stops-in-sound-from-logitech-g930/"><u>Troubleshooting Guide: How to Correct Sudden Stops in Sound From Logitech G930</u></a></li>
+<li><a href="https://windows11.techidaily.com/typingspeed-surge-with-typingaid-tools/"><u>TypingSpeed Surge with TypingAid Tools</u></a></li>
 </ul></div>
 

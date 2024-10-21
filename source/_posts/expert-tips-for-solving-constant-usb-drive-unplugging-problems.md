@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Solving Constant USB Drive Unplugging Problems
-date: 2024-10-13T19:12:01.255Z
-updated: 2024-10-15T23:04:01.638Z
+date: 2024-10-20T19:16:56.988Z
+updated: 2024-10-21T19:22:21.826Z
 tags:
   - win11
   - win10
@@ -38,19 +38,6 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
@@ -58,10 +45,10 @@ You may fail to install the 1607 update because the**Windows Update components**
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
@@ -80,27 +67,34 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -124,18 +118,15 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2023-facebook-video-downloader-application-for-mobilewinmac/"><u>2023 | Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-and-repair-expert-guide-for-resolving-preparing-to-configure-windows-hang-up/"><u>Bypass and Repair: Expert Guide for Resolving 'Preparing to Configure Windows' Hang-Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209960083-clearing-up-unreadable-text-in-windows-n-quick-troubleshooting-tips/"><u>Clearing Up Unreadable Text in Windows N - Quick Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fully-active-discord-microphone/"><u>Fully Active Discord Microphone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-enable-and-disable-picture-in-picture-in-safari-for-maciphoneipad/"><u>How to Enable and Disable Picture in Picture in Safari for Mac_iPhone_iPad</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-crafting-immersive-video-experiences-using-captivate/"><u>In 2024, Crafting Immersive Video Experiences Using Captivate</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-vimeo-vs-youtube-a-content-creators-guide/"><u>In 2024, Vimeo Vs. YouTube A Content Creator's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/libcurldll-errors-effective-solutions-for-immediate-correction/"><u>libcurl.dll Errors: Effective Solutions for Immediate Correction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-graphic-card-issues-for-running-fortnite-on-windows-systems/"><u>Overcoming Graphic Card Issues for Running Fortnite on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-battleye-setup-problems-with-these-easy-steps/"><u>Resolve Your BattlEye Setup Problems with These Easy Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/standout-14-animation-techniques-for-texts/"><u>Standout 14 Animation Techniques for Texts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-make-a-single-video-from-different-clips-follow-these-ways-to-learn-about-how-to-merge-clips-in-davinci-resolve/"><u>Updated In 2024, Want to Make a Single Video From Different Clips? Follow These Ways to Learn About How to Merge Clips in DaVinci Resolve</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-using-youtube-on-iosandroid-devices/"><u>[New] The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-resolving-no-video-issue-on-sony-a6400-device/"><u>[Updated] Resolving No-Video Issue on Sony A6400 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/busting-through-effective-strategies-to-tackle-halo-4s-ue4-fatal-error-edition/"><u>Busting Through: Effective Strategies to Tackle Halo 4'S UE4 Fatal Error Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-the-right-camera-to-support-windows-hello/"><u>Finding the Right Camera to Support Windows Hello</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enjoy-the-new-product-launches-with-samsungs-live-stream/"><u>How to Enjoy the New Product Launches with Samsung's Live Stream</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-c51-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco C51</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-high-cost-justified-in-depth-look-at-the-quality-and-features-of-ws-1002-ambient-weather-station-with-wifi/"><u>Is the High Cost Justified? In-Depth Look at the Quality and Features of WS-1002 Ambient Weather Station With WiFi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-freezes-in-windows-7-updates-expert-advice-edition-tip/"><u>Troubleshooting Freezes in Windows 7 Updates – Expert Advice Edition (Tip)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-restarting-your-bluetooth-stack-service/"><u>Troubleshooting Tips: Successfully Restarting Your Bluetooth Stack Service</u></a></li>
 </ul></div>
 

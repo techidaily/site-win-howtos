@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for the Common Error of Application Exe Stoppage
-date: 2024-10-13T05:01:14.819Z
-updated: 2024-10-15T17:28:19.726Z
+date: 2024-10-14T18:18:01.768Z
+updated: 2024-10-21T20:28:21.956Z
 tags:
   - win11
   - win10
@@ -43,29 +43,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,6 +74,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,6 +90,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,13 +116,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -132,34 +132,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -172,6 +153,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -211,21 +199,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-digital-learning-session-replays/"><u>[New] 2024 Approved Digital Learning Session Replays</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-hidden-reasons-behind-imovies-cuts/"><u>[New] 2024 Approved The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>[New] Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-imagen-jpg-gratuitamente-a-formato-jpeg-en-linea-usando-movavi/"><u>Cambia Tus Archivos De Imagen JPG Gratuitamente a Formato JPEG en Línea Usando Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-next-flagship-phone-google-pixel-n-vs-apple-iphone-13-pro-compared/"><u>Choosing Your Next Flagship Phone: Google Pixel N Vs. Apple iPhone 13 Pro Compared</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubre-el-proceso-simple-de-transformar-tu-video-en-disco-optico-duradero-con-la-herramienta-gratis-de-movavi/"><u>Descubre El Proceso Simple De Transformar Tu Vídeo en Disco Óptico Duradero Con La Herramienta Gratis De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-converter-ogg-para-mov-online-com-o-software-de-traducao-da-movavi/"><u>Gratis Converter OGG Para MOV Online Com O Software De Tradução Da Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-verbod-van-omzetten-vakmanschap-m2ts-bestandjes-opzij-in-netvlam-movavi/"><u>Gratuit Verbod Van Omzetten: Vakmanschap M2TS-Bestandjes Opzij in Netvlam - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-rapido-e-facile-come-convertire-gratuitamente-i-filmati-mxf-in-formato-mp4-per-sistemi-macwindows/"><u>Guida Rapido E Facile: Come Convertire Gratuitamente I Filmati MXF in Formato MP4 per Sistemi Mac/Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-magic5-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor Magic5 Ultimate FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-note-12-pro-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi Note 12 Pro 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-8-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 8 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-2-optimization-guide-for-smooth-gameplay-and-stable-fps-on-windows-pcs/"><u>Modern Warfare 2 Optimization Guide for Smooth Gameplay and Stable FPS on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/obs-sanal-camera-islemleri-ile-muzakerelerdeki-yeni-kurgusunu-anlatmak-kompleks-tutku-tamamlamasi/"><u>OBS Sanal Camera İşlemleri Ile Müzakerelerdeki Yeni Kurgusunu Anlatmak [Kompleks Tutku Tamamlaması]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-15-convertidores-de-audios-libres-y-faciles-de-usar-para-el-ano-2024-solomovi/"><u>Top 15 Convertidores De Audios Libres Y Fáciles De Usar Para El Año 2024 - SoloMovi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023-8-most-viewed-videos-on-facebook/"><u>[New] 2023 | 8 Most Viewed Videos on Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-fast-forward-memories-samsung-timelapse-basics/"><u>[New] 2024 Approved Fast-Forward Memories Samsung Timelapse Basics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200669347-solved-windows-10-wont-boot-after-update/"><u>[Solved] Windows 10 Won’t Boot After Update</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-techniques-for-broadcasting-purpose-driven-lifestyle-plays-for-2024/"><u>[Updated] Techniques for Broadcasting Purpose-Driven Lifestyle Plays for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi Redmi Note 12T Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-data-evolution-understanding-ais-transfer-learning-processes/"><u>Decoding Data Evolution: Understanding AI's Transfer Learning Processes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-lenovo-mouse-pad-problems-on-various-windows-versions-win-1187/"><u>Diagnosing and Repairing Lenovo Mouse Pad Problems on Various Windows Versions (Win 11/8/7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-8-chrome-addons-with-ai-for-increased-productivity/"><u>Leading 8 Chrome Addons with AI for Increased Productivity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>New The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-patching-warframe-avoidance-strategies-for-common-update-errors/"><u>Successfully Patching Warframe: Avoidance Strategies for Common Update Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-windows-10-v1607-feature-update-installation/"><u>Troubleshooting: Failed Windows 10 v1607 Feature Update Installation</u></a></li>
 </ul></div>
 

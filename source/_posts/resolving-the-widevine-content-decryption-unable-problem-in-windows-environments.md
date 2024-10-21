@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Widevine Content Decryption Unable' Problem in Windows Environments
-date: 2024-10-12T21:34:11.799Z
-updated: 2024-10-16T04:51:29.132Z
+date: 2024-10-18T20:46:23.137Z
+updated: 2024-10-21T20:30:35.712Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the setting of System Event Notification Service on your computer
@@ -61,15 +61,22 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
@@ -93,13 +100,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -112,6 +112,14 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
@@ -127,25 +135,19 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
@@ -164,14 +166,21 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -197,21 +206,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-not-enough-storage-is-available-to-process-this-command/"><u>[Fixed] Not Enough Storage Is Available To Process This Command</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-10-top-value-hd-cameras-for-extreme-sports/"><u>[New] 2024 Approved 10 Top Value HD Cameras for Extreme Sports</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-getting-started-with-adobe-presenter-video-recordings/"><u>[New] Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-skys-best-the-ultimate-hd-collection-websites/"><u>[New] In 2024, Sky's Best - The Ultimate HD Collection Websites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplicity-in-recording-an-overwatch-perspective-for-2024/"><u>[New] Simplicity in Recording An Overwatch Perspective for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-comparative-analysis-of-two-streaming-superpowers-obs-studio-and-bandicam-for-2024/"><u>[Updated] Comparative Analysis of Two Streaming Superpowers OBS Studio and Bandicam for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-implementing-custom-overlays-in-youtube-videos-for-2024/"><u>[Updated] Implementing Custom Overlays in YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/browser-engine-boot-failures-solved-with-recent-fixes-update-now/"><u>Browser Engine Boot Failures Solved with Recent Fixes (Update Now!)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-for-fixing-recurring-computer-lockups-and-glitches/"><u>Expert Advice for Fixing Recurring Computer Lockups & Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-mic-issue-on-windows-11-a-step-by-step-guide/"><u>Fixing a Non-Functional Mic Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-hp-touchpad-on-laptops-a-step-by-step-tutorial/"><u>Fixing the Unresponsive HP Touchpad on Laptops: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-tweak-the-mouse-pointer-accessibility-settings-on-windows-11/"><u>How to Tweak the Mouse Pointer Accessibility Settings on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-no-signal-anxiety-resurrecting-a-dead-iphone-display/"><u>Overcoming 'No Signal' Anxiety: Resurrecting a Dead iPhone Display</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/permission-granted-resolving-past-access-limitations/"><u>Permission Granted: Resolving Past Access Limitations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-d3derr-not-available-mistake-on-windows/"><u>Step-by-Step Solution for D3DERR Not Available Mistake on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-your-youtube-with-partner-videos/"><u>[New] 2024 Approved Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-clarity-web-based-high-definition-recorders-for-2024/"><u>[Updated] Capturing Clarity Web-Based High-Definition Recorders for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-download-free-sound-effects-for-youtubers-for-2024/"><u>[Updated] Download Free Sound Effects for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expertly-lit-the-17-must-haves-for-youtubers-for-2024/"><u>[Updated] Expertly Lit The 17 Must-Haves for Youtubers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-hd-visuals-selecting-top-quality-recorders/"><u>2024 Approved Elite HD Visuals Selecting Top Quality Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-one-sided-windows-headphone-sound-loss/"><u>Fixing One-Sided Windows Headphone Sound Loss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-vanished-desktop-symbols-in-windows-11-fixed/"><u>How to Recover Vanished Desktop Symbols in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-the-quick-selection-tool-windows-plus-shift-plus-s-in-windows-11-and-earlier-versions/"><u>How to Restore Functionality of the Quick Selection Tool (Windows + Shift + S) in Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-access-your-facebook-recent-view-log/"><u>In 2024, How to Access Your Facebook Recent View Log</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp4/"><u>Movavi: 無料で高画質のオンラインAVI to MP4変換サービス</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206521094-solved-why-wont-my-hp-laptop-recognize-usb-devices-a-step-by-step-guide-to-repairing-usb-connectivity-issues/"><u>Solved! Why Won’t My HP Laptop Recognize USB Devices? A Step-by-Step Guide to Repairing USB Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-hardware-detected-issue-on-windows-11/"><u>Solving the 'No Audio Hardware Detected' Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-windows-entry-point-not-found-errors/"><u>Step-by-Step Solution for Fixing Windows 'Entry Point Not Found' Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-freezing-issues-with-your-windows/"><u>Troubleshooting Freezing Issues with Your Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204999935-why-isnt-my-razer-keyboard-responding-solving-the-mystery/"><u>Why Isn't My Razer Keyboard Responding? Solving the Mystery!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-lacks-screen-contrast-slider/"><u>Windows Lacks Screen Contrast Slider</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes: Reviving a Malfunctioning Laptop Trackpad"
-date: 2024-10-09T06:22:16.296Z
-updated: 2024-10-16T00:19:50.956Z
+date: 2024-10-20T19:22:17.668Z
+updated: 2024-10-21T22:01:20.966Z
 tags:
   - win11
   - win10
@@ -50,19 +50,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -71,33 +58,40 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -115,6 +109,13 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -149,20 +150,19 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-craft-stunning-designs-learn-to-cleanse-images-background-in-canva/"><u>[New] 2024 Approved Craft Stunning Designs Learn to Cleanse Images' Background in Canva</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-syncing-your-youtube-watchlist-with-instagram-feed/"><u>[New] Syncing Your YouTube Watchlist with Instagram Feed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-guide-to-capturing-your-screens-stepwise-approach/"><u>2024 Approved Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-arlo-video-doorbell-analysis-the-ultimate-security-and-surveillance-solution/"><u>Comprehensive Arlo Video Doorbell Analysis: The Ultimate Security and Surveillance Solution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-applying-and-customizing-filters-in-video-editing-for-2024/"><u>Comprehensive Guide to Applying and Customizing Filters in Video Editing for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-lenovo-keyboard-problems-practical-tips/"><u>Diagnosing and Repairing Lenovo Keyboard Problems: Practical Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-aw-snap-error-on-google-chrome/"><u>How to Fix Aw, Snap! Error on Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-endless-restart-loop/"><u>How to Fix Windows 10 Endless Restart Loop</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-all-app-analysis-comprehensible-by-az-capture/"><u>In 2024, All-App Analysis Comprehensible by AZ Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-allinone-vmix-companion/"><u>In 2024, AllInOne VMix Companion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-fixing-hdmi-output-for-standard-displays/"><u>Overcoming HDCP Limitations: Fixing HDMI Output for Standard Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-fixes-for-unresponsive-touchpad-scrolling-issues/"><u>Solved: Fixes for Unresponsive Touchpad Scrolling Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-a-non-hiding-windows-10-taskbar-for-good/"><u>The Ultimate Guide to Fixing a Non-Hiding Windows 10 Taskbar for Good</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-backspace-key-isnt-responding/"><u>Troubleshooting Guide: Fixing the 'Backspace Key Isn't Responding'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-world-successful-resolution-of-earlier-easy-anti-cheat-errors-ready-for-players/"><u>'New World': Successful Resolution of Earlier 'Easy Anti-Cheat Errors', Ready for Players!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-methodology-for-quality-ps3-game-screenings/"><u>2024 Approved Unveiling the Methodology for Quality PS3 Game Screenings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-v-purse-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on V Purse.</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/convertissez-vos-videos-mp4-en-version-lineaire-pour-free-avec-movavi/"><u>Convertissez Vos Vidéos MP4 en Version Linéaire Pour Free Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cool-down-high-wmi-cpu-usage-in-windows-11/"><u>Cool Down High WMI CPU Usage in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/led-look-into-youtubes-featured-community-dialogue-for-2024/"><u>Detailed Look Into YouTube's Featured Community Dialogue for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 6s</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817458455-nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-laptop-charging-problems-expert-advice-to-revive-your-battery-fast/"><u>Overcome Laptop Charging Problems: Expert Advice to Revive Your Battery Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-servers-unavailable-in-destiny-2-expert-troubleshooting-steps/"><u>Solving 'Servers Unavailable' In Destiny 2: Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-eliminating-error-code-0x800704cf-on-your-pc/"><u>Step-by-Step Tutorial: Eliminating Error Code 0X800704CF on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g84-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G84 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-considering-claude-3-makes-sense-4-compelling-reasons-to-make-the-change-from-chatgpt/"><u>Why Considering Claude 3 Makes Sense: 4 Compelling Reasons to Make the Change From ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-windows-11-start-menu-not-responding-solutions-inside/"><u>Why Is My Windows 11 Start Menu Not Responding? Solutions Inside!</u></a></li>
 </ul></div>
 

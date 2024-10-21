@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Your USB Continually Disconnects and How to Fix It"
-date: 2024-10-12T22:13:25.330Z
-updated: 2024-10-16T00:44:03.688Z
+date: 2024-10-20T16:48:03.603Z
+updated: 2024-10-21T17:38:36.861Z
 tags:
   - win11
   - win10
@@ -66,11 +66,33 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -85,24 +107,18 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
-5. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
+5. Check to see if your computer keeps going to sleep.
 
 **For Windows 7:**
 
@@ -110,19 +126,20 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -136,18 +153,19 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
@@ -165,24 +183,10 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -207,21 +211,16 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] 2024 Approved Optimize Your Presence Mastering Snapchat Business Use</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-leading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] In 2024, Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-election-simulation-games/"><u>[Updated] 2024 Approved Top 5 Election Simulation Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-free-picture-haven-a-review-of-the-best-10-online-resources-for-2024/"><u>[Updated] Free Picture Haven A Review of the Best 10 Online Resources for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-extract-thumbnails-from-youtube-on-windowsmac-and-browsers/"><u>[Updated] How to Extract Thumbnails From Youtube on Windows/Mac and Browsers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-guide-recording-audio-on-the-internet-today/"><u>[Updated] Step-by-Step Guide Recording Audio on the Internet Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726224234804-jpeg-movavi/"><u>迅速なJPEG形式の無料オンラインファイル変更サービス - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-aiff-and-wav-audio-formats-determining-the-superior-choice-with-movavi-converter/"><u>Comparing AIFF and WAV Audio Formats - Determining the Superior Choice with Movavi Converter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-imagens-para-videos-ao-vivo-formato-mp4-m2v-e-mpeg-movavi/"><u>Gratuito Conversor De Imagens Para Vídeos Ao Vivo: Formato MP4, M2V E MPEG - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-iphone-snaps-a-guide-to-resolving-blurriness-in-camera-imagery/"><u>Improve iPhone Snaps: A Guide to Resolving Blurriness in Camera Imagery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kostenloze-flv-in-mjpeg-online-converter-movavi/"><u>Kostenloze FLV-In MJPEG Online Converter - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-transformation-of-ppm-images-into-png-on-the-web/"><u>Movavi's No-Cost Tool for Easy Transformation of PPM Images Into PNG on the Web</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>Stop the Void in Live Gaming Recordings 5 Ways to Avoid Black Screens with OBS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-au-format-mp4-gratuitement-via-le-web-avec-movavi-asiste/"><u>Transformez Votre Fichier Au Format MP4 Gratuitement via Le Web Avec Movavi Asiste</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unleash-the-power-of-instagram-footage-a-compilation-of-mp4-conversion-tools-for-pc-and-mac/"><u>Unleash the Power of Instagram Footage A Compilation of MP4 Conversion Tools for PC & Mac</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>[New] Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-audiences-adopting-youtube-vlogger-charisma/"><u>[New] In 2024, Captivating Audiences Adopting YouTube Vlogger Charisma</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-saving-mov-videos-on-windows-11-a-guide-with-six-steps-for-2024/"><u>[Updated] Saving .MOV Videos on Windows 11 - A Guide with Six Steps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-scale-up-influence-crafting-content-that-resonates-for-2024/"><u>[Updated] Scale Up Influence Crafting Content That Resonates for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-10-insider-secrets-for-smarter-pixlr-usage/"><u>2024 Approved 10 Insider Secrets for Smarter Pixlr Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correctly-identify-and-fix-an-unknown-usb-connection-error-descriptors/"><u>Expert Tips to Correctly Identify and Fix an Unknown USB Connection Error [Descriptors]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Resolved: Fixing the Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-enable-pen-and-touch-interaction-on-unresponsive-monitors/"><u>Solution Found: Enable Pen & Touch Interaction on Unresponsive Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-dxgi-errors-without-hassle-learn-here/"><u>Step-by-Step Guide to Fixing DXGI Errors Without Hassle - Learn Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-crashes-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Crashes in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel P55 5G? | Dr.fone</u></a></li>
 </ul></div>
 

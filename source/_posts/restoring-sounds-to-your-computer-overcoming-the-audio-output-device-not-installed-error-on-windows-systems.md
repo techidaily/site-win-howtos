@@ -1,7 +1,7 @@
 ---
 title: "Restoring Sounds to Your Computer: Overcoming the 'Audio Output Device Not Installed' Error on Windows Systems"
-date: 2024-10-10T22:05:47.707Z
-updated: 2024-10-16T00:38:04.823Z
+date: 2024-10-16T18:38:09.101Z
+updated: 2024-10-21T20:34:42.678Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -99,6 +92,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
@@ -111,14 +112,28 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -129,6 +144,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -143,6 +166,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -151,32 +181,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -199,20 +208,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/approved-is-rapid-subscription-truly-effective-for-youtube-users/"><u>2024 Approved Is Rapid Subscription Truly Effective for YouTube Users?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prototypical-360-rotation-camera-study/"><u>2024 Approved Prototypical 360° Rotation Camera Study</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/analisis-detallado-y-recomendaciones-para-el-screenrec-de-202n4-por-parte-de-los-expertos-de-movavi/"><u>Análisis Detallado Y Recomendaciones Para El ScreenRec De 202N4 Por Parte De Los Expertos De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-de-ffm-a-formato-wav-sin-coste-haga-clic-para-probarlo-hoy/"><u>Convertidor De FFM a Formato WAV Sin Coste - Haga Clic Para Probarlo Hoy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facile-conversion-swf-vers-3gp-enligne-sans-frais-movavi/"><u>Facile Conversion SWF Vers 3GP Enligne Sans Frais - Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/giggle-gang-exploring-the-best-memetic-apps-for-2024/"><u>Giggle Gang Exploring the Best Memetic Apps for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlimited-free-image-refinement-onlinemobile/"><u>In 2024, Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-video-converter-mac-oturen-visselperlig-konvertering-fra-mkv-mp4-og-flv-til-formater-som-du-tar-bruk-af/"><u>Movavi Video Converter Mac Oturen: Visselperlig Konvertering Fra MKV, MP4 Og FLV Til Formater Som Du Tar Bruk Af</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-change-your-voice/"><u>New 2024 Approved How to Change Your Voice?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-bild-verarbeitung-and-konvertierung-kostenlose-losungen-von-movavi-definiert/"><u>Online Bild Verarbeitung & Konvertierung: Kostenlose Lösungen Von Movavi Definiert</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-silent-phone-a-step-by-step-guide-to-restore-your-iphones-ringtones/"><u>Solving the Silent Phone: A Step-by-Step Guide to Restore Your iPhone's Ringtones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-rcs-a-comprehensive-guide-to-rich-communication-services/"><u>Understanding RCS: A Comprehensive Guide to Rich Communication Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/verdingvrije-muziekconvertor-mod-naar-mp3-met-movavi-online-gratis-en-gemakkelijk-te-gebruiken/"><u>Verdingvrije Muziekconvertor MOD Naar MP3 Met Movavi - Online Gratis en Gemakkelijk Te Gebruiken</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>[New] In 2024, Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-phone-apps-that-change-your-speech-for-2024/"><u>[New] The Ultimate Guide to Phone Apps That Change Your Speech for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-going-beyond-boundaries-streaming-mastery-on-facebook/"><u>[Updated] In 2024, Going Beyond Boundaries Streaming Mastery on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-strategies-capturing-saving-and-sharing-ps4-experiences/"><u>[Updated] In 2024, Top Strategies Capturing, Saving & Sharing PS4 Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-microsofts-copilot-from-your-windows-11-system/"><u>Complete Guide: Removing Microsoft's Copilot From Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-geforce-experience-running-smoothly-again-problem-solved/"><u>Getting Your GeForce Experience Running Smoothly Again: Problem Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-when-its-stuck-during-an-update/"><u>How to Fix Windows 10 When It's Stuck During an Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-obs-recording-black-screen-error-and-solutions/"><u>How To Resolve OBS Recording: Black Screen Error & Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/perfect-the-experience-proven-techniques-to-resolve-v-rising-frame-rate-fluctuations-on-pc/"><u>Perfect the Experience: Proven Techniques to Resolve V-Rising Frame Rate Fluctuations on PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/premium-concealed-usb-duplicator-auto-backup-feature-from-usb-drive/"><u>Premium Concealed USB Duplicator – Auto Backup Feature From USB Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-firefoxs-secure-connections-troubleshooting-tips/"><u>Resolving Firefox's Secure Connections: Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncover-your-missing-wi-fi-adapter-choices-in-windows-11-now-solved/"><u>Uncover Your Missing Wi-Fi Adapter Choices in Windows 11 - Now Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-microphone-issues-heres-how-you-can-resolve-them/"><u>Windows 10 Microphone Issues? Here's How You Can Resolve Them</u></a></li>
 </ul></div>
 

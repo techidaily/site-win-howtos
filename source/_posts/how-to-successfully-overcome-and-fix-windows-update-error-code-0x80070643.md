@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Overcome and Fix Windows Update Error Code 0X80070643
-date: 2024-10-13T23:37:06.061Z
-updated: 2024-10-16T00:29:23.850Z
+date: 2024-10-16T18:59:57.727Z
+updated: 2024-10-21T18:43:12.437Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows Update troubleshooter**
 
 This is the quickest and easiest fix to try when you’re seeing the error code **0xc1900208**. Windows Update troubleshooter is a built-in tool in Windows operating system that can automatically diagnose and resolve any issues regarding Windows Update. Follow the instructions below to run Windows Update troubleshooter:
@@ -52,10 +45,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Restart the Windows Update service**
@@ -65,47 +58,34 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Perform a Windows update again. If it still doesn’t work, try the next fix.
@@ -125,19 +105,27 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
     It may take several minutes for this command operation to be completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
 
@@ -160,6 +148,14 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
@@ -169,14 +165,21 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -204,24 +207,20 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[New] 2024 Approved Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-social-media-impact-secrets-unveiled-in-the-best-facebook-bios/"><u>[New] 2024 Approved Elevate Your Social Media Impact Secrets Unveiled in the Best Facebook Bios</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-direct-sharing-twitch-live-links-for-facebook-friends/"><u>[New] In 2024, Direct Sharing Twitch Live Links for Facebook Friends</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-free-entertainment-top-10-best-offline-ipad-games/"><u>[New] In 2024, Screen-Free Entertainment Top 10 Best Offline iPad Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cinematic-mastery-starts-here-the-best-cameras-of-all-levels/"><u>[Updated] 2024 Approved Cinematic Mastery Starts Here The Best Cameras of All Levels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>[Updated] All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-voice-storage-test-report-for-2024/"><u>[Updated] Voice Storage Test Report for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-dealing-with-file-explorer-not-responding-errors-on-windows-10/"><u>Comprehensive Guide: Dealing with 'File Explorer Not Responding' Errors on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-persistent-start-up-issues-when-shutting-down-your-pc-with-windows-11/"><u>Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206889978-get-rid-of-your-keyboards-unresponsive-keys-on-a-windows-pc-easily/"><u>Get Rid of Your Keyboard's Unresponsive Keys on a Windows PC Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-invalid-directory-name-mistake-solution-guide/"><u>How To Correct the 'Invalid Directory Name' Mistake - Solution Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-critical-error-0x887a0006-on-your-computer-fast-solutions-inside/"><u>Master the Fix for Critical Error 0X887A0006 on Your Computer - Fast Solutions Inside</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-proper-discord-recording-techniques-a-step-by-step-guide/"><u>Mastering Proper Discord Recording Techniques: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-overcoming-internet-explorer-malfunction-errors/"><u>Quick Remedies for Overcoming Internet Explorer Malfunction Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restored-essential-library-msvcr71/"><u>Restored Essential Library: MSVCR71</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-keys-on-windows-11-how-to-fix-stuck-letters/"><u>Troubleshooting Non-Responsive Keys on Windows 11: How to Fix Stuck Letters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-solutions-to-your-sims-4-not-launching-issue/"><u>Unlock Solutions to Your Sims 4 Not Launching Issue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-turning-tides-in-photographic-history-retrieval-on-facebook-for-2024/"><u>[New] Turning Tides in Photographic History Retrieval on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-youtubthumbnail-guide-for-mac-users/"><u>[Updated] The Ultimate YoutubThumbnail Guide for Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-components-of-windows-update-identification-and-repair-techniques/"><u>Critical Components of Windows Update – Identification and Repair Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/dodging-shadowban-traps-in-social-media-networks/"><u>Dodging Shadowban Traps in Social Media Networks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-laptop-keyboard-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fix Laptop Keyboard Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-angle-videos-for-improved-viewership/"><u>In 2024, How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keys-not-responding/"><u>Keys Not Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-lockups-in-windows-11-strategies-for-a-smooth-computing-experience/"><u>Overcoming System Lockups in Windows 11: Strategies for a Smooth Computing Experience</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/quick-guide-to-transferring-data-hdd-to-ssd-migration-made-easy/"><u>Quick Guide to Transferring Data: HDD to SSD Migration Made Easy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-escape-room-games-you-should-try/"><u>Top 10 Escape Room Games You Should Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-changerenderingapierror-2024-in-dota-2-with-these-simple-steps/"><u>Troubleshoot 'ChangeRenderingAPI:Error 2024' In Dota 2 with These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207727609-windows-11-bluetooth-gone-wrong-rectify-it-swiftly-with-these-proven-techniques/"><u>Windows 11 Bluetooth Gone Wrong? Rectify It Swiftly with These Proven Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-error-resolved-fixing-class-not-registered-complications-successfully/"><u>Windows 11 Error Resolved: Fixing 'Class Not Registered' Complications Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/yourphone-in-windows-98-should-you-exercranize-it/"><u>YourPhone in Windows 9/8: Should You Exercranize It?</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1726225750994-wavflac-movavi/"><u>フリーウェブサイトで簡単WAVからFLACへのオンラインアップコンバージョン - Movavi</u></a></li>
 </ul></div>
 

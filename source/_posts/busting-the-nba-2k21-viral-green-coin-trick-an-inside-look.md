@@ -1,7 +1,7 @@
 ---
 title: Busting the NBA 2K21 Viral Green Coin Trick – An Inside Look
-date: 2024-10-13T01:42:41.252Z
-updated: 2024-10-16T03:27:02.256Z
+date: 2024-10-16T21:54:40.286Z
+updated: 2024-10-21T16:13:02.069Z
 tags:
   - win11
   - win10
@@ -64,6 +64,19 @@ Recommended System Requirements
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -73,26 +86,32 @@ Recommended System Requirements
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -109,10 +128,10 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -124,6 +143,13 @@ Here’s how to update drivers with Driver Easy:
 
  4) Restart your computer and start the game again to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fixes on different gaming platforms
 
  There are some fixes that really worked for gamers. You can try the ones based on the platform you’re using.
@@ -131,13 +157,6 @@ Here’s how to update drivers with Driver Easy:
 [PlayStation](https://tools.techidaily.com/drivereasy/download/)
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PlayStation: download files from MyCAREER
 
@@ -149,18 +168,18 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steam
 
@@ -172,16 +191,16 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -194,13 +213,6 @@ To do this, simply follow the instructions below:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select**Properties** .
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
@@ -242,22 +254,18 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-acquisition-made-easy-best-android-downloader-apps-ranked-for-2024/"><u>[New] Facebook Video Acquisition Made Easy Best Android Downloader Apps Ranked for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>[New] In 2024, Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-ace-2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus Ace 2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-millions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect With Millions: An In-Depth Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubre-el-conversor-gratis-para-convertir-flv-a-mp3-con-facilidad-y-pasos-sencillos/"><u>Descubre El Conversor Gratis Para Convertir FLV a MP3 Con Facilidad Y Pasos Sencillos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-guide-on-video-editing-techniques-and-how-to-use-them/"><u>Detailed Guide on Video Editing Techniques and How to Use Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-video-converter-convert-wmv-and-wtv-files/"><u>Free Online Video Converter - Convert WMV and WTV Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-online-convertidor-de-ts-a-mp4-con-movavi/"><u>Gratuito Online: Convertidor De TS a MP4 Con Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30i</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 3 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-depth-analysis-asus-proart-pa-329q-4k-monitor-for-2024/"><u>In-Depth Analysis Asus ProArt PA 329Q 4K Monitor for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/migliora-il-tuo-audiovisivo-trasformando-i-file-mp4-in-avi-senza-costi-conversione-libera-e-facile-con-movavi/"><u>Migliora Il Tuo Audiovisivo Trasformando I File MP4 in AVI Senza Costi - Conversione Libera E Facile Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavivobwmv/"><u>Movaviと同等の無料VOB・WMVコンバータ - オンラインで手軽に!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transcodage-mts-vers-mp4-sur-internet-gratuit-avec-movavi-un-guide-simple/"><u>Transcodage MTS Vers MP4 Sur Internet Gratuit Avec Movavi : Un Guide Simple</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforme-seu-video-em-wmv-para-aiff-livre-e-gratuitamente-dicas-profissionais-do-movavi-on-line/"><u>Transforme Seu Vídeo Em WMV Para AIFF Livre E Gratuitamente - Dicas Profissionais Do Movavi On-Line</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-and-fix-windows-autoshrink-issue/"><u>Troubleshoot & Fix Windows' Autoshrink Issue</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-pop-8-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Pop 8 FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-fb-video-promos-access-free-video-toolkit/"><u>2024 Approved Mastering FB Video Promos Access Free Video Toolkit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-standout-creators-elevating-vr-content-quality/"><u>2024 Approved Standout Creators Elevating VR Content Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-encrypted-connections-addressing-and-solving-firefox-ssl-issues/"><u>Ensuring Encrypted Connections: Addressing and Solving Firefox SSL Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>In 2024, Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-xr21-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia XR21 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-realme-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Realme Phone? Unlock It Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-8-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-unresponsive-google-chrome-issue-immediate-reload-recommended/"><u>Resolve Unresponsive Google Chrome Issue: Immediate Reload Recommended</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wwe-2k-battlegrounds-directx-11-fixing-feature-level-100-issues/"><u>Resolving WWE 2K Battlegrounds DirectX 11 - Fixing Feature Level 10.0 Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-clip-connoisseurs-essential-list-of-retro-vhs-effects/"><u>The Clip Connoisseur's Essential List of Retro VHS Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-your-pc-cant-access-event-logging-services-in-windows/"><u>Troubleshooting Guide: When Your PC Can't Access Event Logging Services in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-windows-10-setup-failure-with-error-code-80240020/"><u>Ultimate Fixes for Windows 10 Setup Failure with Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-stoppage-counteracting-cpu-overuse-trends/"><u>Windows Stoppage: Counteracting CPU Overuse Trends</u></a></li>
 </ul></div>
 

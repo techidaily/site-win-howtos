@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PS4's Audio: A Step-by-SteP Guide to Fixing the Internal Microphone"
-date: 2024-10-15T03:12:55.057Z
-updated: 2024-10-15T16:42:15.674Z
+date: 2024-10-17T18:52:18.407Z
+updated: 2024-10-21T21:17:08.249Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 3) Try your PS4 mic again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -76,35 +83,21 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) After updating the driver, restart your computer, then try your PS4 mic and see if your problem is solved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Check the PS4 settings**
 
@@ -122,27 +115,20 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Output to Headphones** , and select**All Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
@@ -172,15 +158,22 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Step 2**
@@ -192,6 +185,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
@@ -205,24 +205,30 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Replace with a PS4 microphone
@@ -251,24 +257,19 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>[New] 2024 Approved The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[New] 2024 Approved YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-android-recorder-commercial-free-for-2024/"><u>[New] Top Android Recorder - Commercial-Free for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-self-validation-on-social-media/"><u>[Updated] 2024 Approved The Ultimate Guide to Self-Validation on Social Media</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/orf-png-movavi/"><u>「手軽に無料で高品位ORF PNG変換 - Movavi」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4b-wav-movavi/"><u>無限制網路下載改變 M4B到 WAV - 使用 Movavi 音頻轉換器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-veloce-di-mkv-a-mp4-su-internet-gratuito-via-movavi-scambio-formati-senza-costo/"><u>Conversione Veloce Di MKV a MP4 Su Internet Gratuito via Movavi - Scambio Formati Senza Costo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-online-free-raw-file-converter-movavi/"><u>Download Online Free Raw File Converter - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-verbale-conversie-van-dpx-naar-jpg-ondersteuning-online-met-movavi/"><u>Gratuit Verbale Conversie Van DPX Naar JPG: Ondersteuning Online Met Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x50iplus-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor X50i+.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-thumbnails-guide-what-size-yields-success/"><u>In 2024, The Ultimate Thumbnails Guide What Size Yields Success?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/interactive-food-for-thought-enjoyable-and-functional-edible-qr-codes-created-through-additive-manufacturing/"><u>Interactive Food for Thought: Enjoyable & Functional Edible QR Codes Created Through Additive Manufacturing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-new-feature-in-google-chrome-sharing-tab-groups-made-easy/"><u>Introducing the New Feature in Google Chrome: Sharing Tab Groups Made Easy</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-hurdles-detective-pursuits-in-detroit-becoming-humane-unraveled/"><u>Overcoming PC Hurdles: Detective Pursuits in Detroit: Becoming Humane Unraveled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-transcodificadores-mp4-mais-populares-e-livres-em-2024-ampla-compatibilidade-com-computador-e-dispositivo-movel/"><u>Top 12 Transcodificadores MP4 Mais Populares E Livres Em 2024: Ampla Compatibilidade Com Computador E Dispositivo Móvel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-webm-au-format-avi-convertisseur-video-en-ligne-facile/"><u>Trier Gratuitement Un Fichier WebM Au Format AVI - Convertisseur Vidéo en Ligne Facile</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-raspberry-pi-400-the-all-in-one-keyboard-computer/"><u>Ultimate Guide: Raspberry Pi 400 - The All-in-One Keyboard Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221656347-ai-10/"><u>가장 우수하고 유용한 AI 합성도어 소프트와 프로그램: 10대 권장 목록</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-3g3gp/"><u>웹 제공 Wi-Fi를 통해 자이저스 라이터와 사용자 친화적인 3G/3GP 파일 전환 - 무료</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools-for-2024/"><u>[Updated] Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-capturing-with-camstudio-complete-for-2024/"><u>[Updated] Mastering Capturing with CamStudio Complete for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>[Updated] Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-brands-on-the-rise-choose-the-best-ig-video-editing-apps/"><u>2024 Approved Brands on the Rise Choose the Best IG Video Editing Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-methodology-to-purging-your-youtube-watch-later-playlist/"><u>2024 Approved Methodology to Purging Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steps-resolving-non-responsive-xbox-one-controller-issues/"><u>Complete Troubleshooting Steps: Resolving Non-Responsive Xbox One Controller Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-service-stopped-fixing-user-profile-issues-in-windows-1011-sign-ins/"><u>Easy Solutions for 'Service Stopped:' Fixing User Profile Issues in Windows 10/11 Sign-Ins</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-f25-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo F25 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-gigabyte-gc-wb867d-i-driver-in-minutes-free-download/"><u>Install Your Gigabyte GC-WB867D-I Driver in Minutes – Free Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-stylus-5g-2023-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G Stylus 5G (2023) support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-automatic-restarts-in-windows-11-top-strategies-and-solutions-explained/"><u>Resolve Automatic Restarts in Windows 11: Top Strategies and Solutions Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-restore-functionality-to-broken-hp-laptop-keyboard-effortlessly/"><u>Troubleshoot and Restore Functionality to Broken HP Laptop Keyboard – Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-errors-when-your-appexe-fails-and-stops-suddenly/"><u>Troubleshooting Errors - When Your App.exe Fails and Stops Suddenly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-2022-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE (2022) Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

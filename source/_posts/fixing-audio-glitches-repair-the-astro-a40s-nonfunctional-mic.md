@@ -1,7 +1,7 @@
 ---
 title: "Fixing Audio Glitches: Repair the Astro A40's Nonfunctional Mic"
-date: 2024-10-13T19:50:30.551Z
-updated: 2024-10-15T21:23:11.216Z
+date: 2024-10-16T17:58:56.541Z
+updated: 2024-10-21T19:30:01.636Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 4. [**Update your audio driver**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -74,35 +81,35 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -124,16 +131,10 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -168,22 +169,18 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-bringing-history-forward-digitizing-old-photographs-into-video/"><u>[New] 2024 Approved Bringing History Forward Digitizing Old Photographs Into Video</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cash-up-fast-a-newbies-guide-to-the-13-best-reddit-money-hacks/"><u>[Updated] Cash Up Fast A Newbie's Guide to the 13 Best Reddit Money Hacks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>[Updated] Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4aandogv-movavi/"><u>「お客さまの皆様に愛される無料M4A&OGV音楽ファイル変換サービス - Movavi」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-out-the-louder-end-techniques-using-lumafusion/"><u>2024 Approved Fading Out the Louder End Techniques Using Lumafusion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/omamp3-movavi/"><u>網路自助將OMA文件降解為MP3 - 利用Movavi音樂格式轉換器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-video-bevezetoje-3-dezalkoholizalo-modszerek/"><u>A Vídeó Bevezetője - 3 Dezalkoholizáló Módszerek</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambiar-formato-de-imagen-gratuita-guia-paso-a-paso-para-convertir-dng-a-tiff-online-con-movavi/"><u>Cambiar Formato De Imagen Gratuita: Guía Paso a Paso Para Convertir DNG a TIFF Online Con Movavi</u></a></li>
-<li><a href="https://discover-community.techidaily.com/ecco-le-lettori-dvd-gratis-per-windows-11-il-metodo-facile-per-convertire-e-guardare-qualsiasi-dvd/"><u>Ecco Le Lettori DVD Gratis Per Windows 11: Il Metodo Facile per Convertire E Guardare Qualsiasi DVD!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/error-webpage-unavailable-page-doesnt-exist/"><u>Error: Webpage Unavailable (Page Doesn't Exist)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/euro-truck-simulator-2-troubleshooting-pc-crash-issues-solved/"><u>Euro Truck Simulator 2: Troubleshooting PC Crash Issues - Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facile-conversion-dimage-en-croquis-transformez-vos-photographies-en-desseins-artistiques/"><u>Facile Conversion D'Image en Croquis: Transformez Vos Photographies En Desseins Artistiques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y36i-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y36i Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-tool-convert-vob-video-to-asf-filetype-at-no-cost-moviva/"><u>Online Tool: Convert VOB Video to ASF Filetype at No Cost - MoviVa</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/parental-peace-of-mind-with-amazon-fire-hd-10-a-thorough-review-for-kids-tablets/"><u>Parental Peace of Mind with Amazon Fire HD 10: A Thorough Review for Kid’s Tablets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-simples-de-adicionar-subtitulos-ao-seu-filme-guia-detalhado/"><u>Técnicas Simples De Adicionar Subtítulos Ao Seu Filme - Guia Detalhado.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-archivos-de-peliculas-avi-en-formato-m4v-sin-costo-con-convertidor-online-integral/"><u>Transforma Archivos De Películas AVI en Formato M4V Sin Costo Con Convertidor Online Integral</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>[New] The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterclass-5-in-best-mac-videography-software/"><u>[Updated] Masterclass 5 in Best Mac Videography Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-guide-to-a-distinctive-youtube-channel-url/"><u>[Updated] Step-by-Step Guide to a Distinctive YouTube Channel URL</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1725287110559-dvd/"><u>「どんなDVDも対象：無料ダビングガイドⅡ」</u></a></li>
+<li><a href="https://article-files.techidaily.com/advanced-rendering-gpus-for-4k-experience-for-2024/"><u>Advanced Rendering GPUs for 4K Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-the-art-of-pairing-your-devices-with-windows-nk/"><u>Bluetooth Woes? Master the Art of Pairing Your Devices with Windows Nk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-the-confusion-addressing-error-code-0x8007001f-in-windows-updates/"><u>Clearing Up the Confusion: Addressing Error Code 0X8007001f in Windows Updates</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/get-your-favorite-episodes-instantly-from-solarmovie-downloader-for-tv-and-movies/"><u>Get Your Favorite Episodes Instantly From Solarmovie Downloader for TV and Movies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>In 2024, Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shape-and-size-matter-video-aspect-ratios-explained/"><u>In 2024, Shape & Size Matter Video Aspect Ratios Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-any-tiktok-song-a-perfect-fit-for-your-mobile-device-for-2024/"><u>Make Any TikTok Song a Perfect Fit for Your Mobile Device for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-file-explorer-on-windows-10-quick-tips-and-tricks/"><u>Mastering File Explorer on Windows 10: Quick Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-recovery-with-system-file-checker-sfc-and-deployment-image-servicing-dism-tools/"><u>Mastering Windows 10 Recovery with System File Checker (SFC) and Deployment Image Servicing (DISM) Tools</u></a></li>
 </ul></div>
 

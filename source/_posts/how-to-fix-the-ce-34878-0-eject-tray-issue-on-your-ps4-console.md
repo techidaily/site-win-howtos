@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2024-10-14T22:50:32.221Z
-updated: 2024-10-16T01:38:20.608Z
+date: 2024-10-16T20:11:05.413Z
+updated: 2024-10-21T17:20:23.632Z
 tags:
   - win11
   - win10
@@ -29,10 +29,16 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
  There are common fixes and more complicated ones. You don’t need to try them all but it’s recommended to try the common fixes first. If these can’t help, try other fixes one by one to find the one that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Common fixes
@@ -46,19 +52,19 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bios-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If none of these work, you can move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Redownload the firmware files
@@ -81,13 +87,6 @@ If none of these work, you can move to the next method.
 3. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 4. Click**View** and choose**Show hidden devices** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
@@ -125,6 +124,14 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 ---
@@ -148,22 +155,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cross-service-playlist-exchange-simplified/"><u>[Updated] 2024 Approved Cross-Service Playlist Exchange Simplified</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-essential-8-choices-of-tripods-for-4k-cinematography/"><u>2024 Approved Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-gaps-quick-fixes-for-microsoft-to-do-discrepancies/"><u>Bridging Gaps: Quick Fixes for Microsoft To Do Discrepancies</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-error-0x887a0006-easily-with-these-quick-fixes-resolved-tutorial/"><u>Bypass Error 0X887A0006 Easily with These Quick Fixes! | Resolved Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-new-world-eac-error-effective-strategies-for-gamers/"><u>Bypassing the 'New World' EAC Error – Effective Strategies for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cut-the-cord-no-more-fortnite-freezes/"><u>Cut the Cord: No More Fortnite Freezes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-issues-with-unresponsive-led-lighting-in-corsair-keyboards/"><u>Expert Advice on Resolving Issues with Unresponsive LED Lighting in Corsair Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fix-solutions-to-stop-cs-go-from-keep-crashing/"><u>Fast Fix Solutions To Stop CS: GO From Keep Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-no-playable-sources-error-in-media-player-for-windows-complete-guide/"><u>Fixing 'No Playable Sources' Error in Media Player for Windows - Complete Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/guide-on-turning-dynamic-hdr-on-in-windows-11/"><u>Guide on Turning Dynamic HDR on in Windows 11</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-remove-malicious-software-a-guide-by-malwarefox-for-smartphone-security/"><u>How to Detect and Remove Malicious Software: A Guide by MalwareFox for Smartphone Security</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-stuck-on-load-problem-in-dota-2/"><u>How to Overcome the 'Stuck On Load' Problem in Dota 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-boot-failures-in-windows-11-due-to-system-upgrades/"><u>Mastering Boot Failures in Windows 11 Due to System Upgrades</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-for-launching-rainbow-six-siege-smoothly/"><u>Resolved: Troubleshooting Steps for Launching Rainbow Six Siege Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshoot-your-game-setup-on-origin/"><u>Resolving Issues: Troubleshoot Your Game Setup on Origin</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-modern-setup-hosts-an-in-depth-guide-and-troubleshooting-tips/"><u>Understanding Modern Setup Hosts: An In-Depth Guide and Troubleshooting Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-dive-into-windows-new-horizons-the-latest-iteration-for-2024/"><u>[New] Dive Into Windows' New Horizons The Latest Iteration for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-30-cameras-frontal-screen-for-convenience/"><u>[New] In 2024, Top 30 Cameras Frontal Screen for Convenience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategies-for-video-enhancement-vce-22-deep-dive/"><u>[Updated] Expert Strategies for Video Enhancement - VCE 2.2 Deep Dive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-fix-connection-problems-with-your-microsoft-wireless-adapter-for-windows-10/"><u>A Step-by-Step Guide to Fix Connection Problems with Your Microsoft Wireless Adapter for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-now-solutions-for-malfunctioning-function-buttons/"><u>Fix It Now! Solutions for Malfunctioning Function Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-store-apps-malfunction-due-to-corrupted-cache-solution-found/"><u>How to Fix Windows Store Apps Malfunction Due to Corrupted Cache - SOLUTION FOUND</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-your-audio-transform-flac-tracks-into-ringtone-ready-m4rs-at-no-cost-using-our-tool/"><u>Transcode Your Audio - Transform FLAC Tracks Into Ringtone-Ready M4Rs at No Cost Using Our Tool!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-addressing-invalid-directory-names/"><u>Troubleshooting Successfully: Addressing Invalid Directory Names</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-pinnacle-studio-alternatives-on-mac/"><u>Updated 2024 Approved Best Pinnacle Studio Alternatives on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/urgent-action-required-locate-and-fix-the-necessary-media-driver-on-your-device/"><u>Urgent Action Required! Locate and Fix the Necessary Media Driver on Your Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Unresponsive DNS Server: Top 4 Quick Resolution Techniques"
-date: 2024-10-12T19:43:39.623Z
-updated: 2024-10-15T20:46:45.321Z
+date: 2024-10-19T19:00:39.527Z
+updated: 2024-10-21T18:16:09.767Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -80,25 +73,33 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
@@ -119,16 +120,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -162,24 +163,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-adventure-anthology-top-10-game-selection/"><u>[New] 2024 Approved The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-optimizing-image-storage-advanced-techniques-in-image-compression-by-movavi/"><u>1. Optimizing Image Storage: Advanced Techniques in Image Compression by Movavi</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-intermittent-video-playback-fix-and-resolve-issues/"><u>2024 Approved Intermittent Video Playback - Fix & Resolve Issues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Pixel 8 Pro.</u></a></li>
-<li><a href="https://article-files.techidaily.com/curated-list-14-captivating-text-animation-showcases/"><u>Curated List 14 Captivating Text Animation Showcases</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/estrategias-essenciais-para-iniciantes-fazerem-sucesso-em-videos-do-youtube-passo-a-passo/"><u>Estratégias Essenciais Para Iniciantes Fazerem Sucesso Em Vídeos Do YouTube – Passo a Passo!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-convert-files-to-w64-and-wav-formats-with-ease-movavi/"><u>Free Online Audio Converter: Convert Files to W64 and WAV Formats with Ease - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-gif-converter-convert-pixels-per-meter-ppm-to-animated-gifs-with-movavi/"><u>Free Online GIF Converter - Convert Pixels Per Meter (PPM) to Animated GIFs with Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-asus-optical-drive-software-download-now/"><u>Get the Latest ASUS Optical Drive Software - Download Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-online-zuiveren-van-vob-files-proficient-omzetterij-en-software-movavi/"><u>Gratuit Online Zuiveren Van VOB Files - Proficiënt Omzetterij en Software Movavi</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-deciphering-youtube-monetization-success-codes/"><u>In 2024, Deciphering YouTube Monetization Success Codes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-experience-the-thrill-top-10-movie-trailer-apps-for-ios/"><u>New 2024 Approved Experience the Thrill Top 10 Movie Trailer Apps for iOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-de-producao-de-conteudo-educativo-em-video-usando-o-movavi-uma-guia-pratica/"><u>Técnicas De Produção De Conteúdo Educativo Em Vídeo Usando O Movavi - Uma Guia Prática</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-of-privacy-e2ee-adoption-in-fb-messaging/"><u>The Future of Privacy: E2EE Adoption in FB Messaging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-votre-video-au-format-avi-de-gratuit-logiciel-convertisseur-en-lignes-chez-movavi/"><u>Transformer Votre Vidéo Au Format AVI De Gratuit - Logiciel Convertisseur en Lignes Chez Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wma-to-mov-movavi/"><u>WMA TO MOV フリーでのオンライン変換 - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmv-mp4-au/"><u>원탁 없이 콘텐츠를 위해 WMV 파일을 쉽게 MP4로 변환: 오픈소스 AU 구문</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ions-pro-3-vision-cutting-edge-action-video-recording/"><u>2024 Approved ION's Pro 3 Vision Cutting-Edge Action Video Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-seamless-integration-of-links-into-tiktok-profiles/"><u>2024 Approved Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-expert-tips-to-flawlessly-transform-h264-videos-into-premium-quality-mp4-format/"><u>8 Expert Tips to Flawlessly Transform H.264 Videos Into Premium-Quality MP4 Format</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-lower-dwms-heavy-gpu-load-in-windows-10-and-windows-11-environments/"><u>Effective Strategies to Lower DWM's Heavy GPU Load in Windows 10 and Windows 11 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensure-crystal-clear-communication-on-ps4-solving-built-in-mic-malfunctions-effortlessly/"><u>Ensure Crystal Clear Communication on PS4: Solving Built-In Mic Malfunctions Effortlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-11-proplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme 11 Pro+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-f54-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy F54 5G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-persistent-oddworld-soulstorm-pc-malfunctions-now-playable/"><u>Master the Fix for Persistent Oddworld: Soulstorm PC Malfunctions – Now Playable!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-nonfunctional-ethernet-ports-tips-and-tricks-for-windows-117-operating-systems/"><u>Mastering the Fix for Nonfunctional Ethernet Ports: Tips and Tricks for Windows 11/7 Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-synchronization-with-microsofts-to-do-app/"><u>Overcoming Non-Synchronization with Microsoft's To-Do App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-gameplay-disruptions-fixing-unsupported-graphic-card-errors-in-fortnite-on-pc/"><u>Resolving Gameplay Disruptions: Fixing Unsupported Graphic Card Errors in Fortnite on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-issue-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption Issue in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-disappeared-desktop-icon-clutter-in-windows-11-systems/"><u>Resolving the Issue of Disappeared Desktop Icon Clutter in Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-unbiased-and-structured-interviews-for-2024/"><u>Techniques for Unbiased and Structured Interviews for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unplugged-how-to-keep-your-usb-devices-stable-and-connected/"><u>Unplugged? How to Keep Your USB Devices Stable and Connected</u></a></li>
 </ul></div>
 

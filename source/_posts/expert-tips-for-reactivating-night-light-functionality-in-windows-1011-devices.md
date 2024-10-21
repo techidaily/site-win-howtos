@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Reactivating Night Light Functionality in Windows 10/11 Devices
-date: 2024-10-14T22:41:52.531Z
-updated: 2024-10-15T19:00:22.088Z
+date: 2024-10-16T17:19:57.302Z
+updated: 2024-10-21T17:38:26.369Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -65,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -81,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -119,14 +112,21 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
@@ -150,22 +150,21 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-prime-net-selections-personalized-alarm-rhythm-files/"><u>[New] 2024 Approved Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube/"><u>[New] In 2024, Enhance Engagement with These Essential FreeGame Hashtags for YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-quality-economical-cam-recorder/"><u>[Updated] 2024 Approved Top Quality Economical Cam Recorder</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitvidsync-ios-tool-to-seamlessly-save-twitter-vids-for-2024/"><u>[Updated] TwitVidsync IOS Tool to Seamlessly Save Twitter Vids for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/202410/"><u>動画編集ソフトの最先端技術：2024新春リリース、初学者推奨10選アワードリスト！【詳細レビュー】</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726227555848-movavi-mp3/"><u>使用 MOVAVI 自由下載的免費 MP3 音頻轉移工具 - 線上即時發布</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/approach-identify-the-intrinsic-hand-muscles-innervated-by-the-ulnar-nerve/"><u>Approach: Identify the Intrinsic Hand Muscles Innervated by the Ulnar Nerve.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-to-speed-up-or-slow-down-music-in-spotify-for-2024/"><u>Best Practices to Speed Up or Slow Down Music in Spotify for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-gifs-into-avi-format-with-ease/"><u>Free Online Converter: Transforming GIFs Into AVI Format with Ease</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-c53-by-drfone-android/"><u>Full Guide to Unlock Your Realme C53</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-paso-a-paso-para-transformar-videos-en-formato-webm-y-revertirlos/"><u>Guía Paso a Paso Para Transformar Videos en Formato WebM Y Revertirlos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-fallout-76-disconnected-from-server-on-pc/"><u>How To Fix Fallout 76 Disconnected From Server On PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-silent-cyberspace-app-downtimes-explained/"><u>The Silent Cyberspace: App Downtimes Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tiff-en-png-verander-gratis-met-de-hele-kracht-van-movavi-konvertor/"><u>Tiff en PNG: Verander Gratis Met De Hele Kracht Van Movavi Konvertor!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webm-to-mkv-transformation-swift-and-simple-free-service-by-movavi/"><u>WebM to MKV Transformation - Swift and Simple Free Service by Movavi!</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/zarizeni-nejlepsich-tecn-8-uskalistnych-pramenu-konvergence-mxf-do-mp4-na-operacni-systemy-mac-i-windows/"><u>Zařízení Nejlepších Técn - 8 Úskalištných Pramenů Konvergence MXF Do MP4 Na Operační Systémy Mac I Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-convenient-tutorial-snapchat-installation-macos-style/"><u>[New] In 2024, Convenient Tutorial Snapchat Installation macOS-Style</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-premier-media-mover-mp4-to-fb/"><u>[New] In 2024, Premier Media Mover MP4-to-FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-uncomplicated-gameplay-saving-in-warframe/"><u>[Updated] 2024 Approved Uncomplicated Gameplay Saving in Warframe</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/affordable-hd-action-cameras-for-extreme-exposure-for-2024/"><u>Affordable HD Action Cameras for Extreme Exposure for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-recover-d3dcompiler47dll-error-on-your-system/"><u>Comprehensive Solution: Recover D3DCOMPILER_47.dll Error on Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-bypassing-destiny-2s-stuck-loading-screen-problem/"><u>Expert Tips for Bypassing Destiny 2'S Stuck Loading Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-black-screen-issue/"><u>How to Fix Windows 11 Black Screen Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-40i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 40i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revamping-fps-in-minecraft-steps-to-eliminate-lag-and-enjoy-smooth-play/"><u>Revamping FPS in Minecraft: Steps to Eliminate Lag and Enjoy Smooth Play</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-wacom-intuos-pro-drivers-on-windows-11/"><u>Simple Steps: Installing the Wacom Intuos Pro Drivers on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-cs2-performance-issues-tips-to-boost-your-frame-rate-and-eliminate-stutter/"><u>Solving CS2 Performance Issues: Tips to Boost Your Frame Rate and Eliminate Stutter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-download-0-bytes-8-best-fixes/"><u>Steam Download 0 Bytes | 8 Best Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-windows-update-error-code-80070103-expert-advice-and-tips/"><u>Understanding and Solving Windows Update Error Code 80070103: Expert Advice & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-woes-a-step-by-step-fix-guide-for-error-0x8024402c/"><u>Winning Against Windows Woes: A Step-by-Step Fix Guide for Error 0X8024402C</u></a></li>
 </ul></div>
 

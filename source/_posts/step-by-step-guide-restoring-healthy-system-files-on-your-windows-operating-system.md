@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Healthy System Files on Your Windows Operating System"
-date: 2024-10-15T01:16:42.061Z
-updated: 2024-10-15T21:08:33.591Z
+date: 2024-10-18T21:10:37.292Z
+updated: 2024-10-21T17:35:07.702Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
@@ -65,10 +65,10 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
@@ -93,14 +93,14 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -125,10 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -150,20 +150,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-comprehensive-solution-for-partially-muted-fb-video-tracks/"><u>[Updated] Comprehensive Solution for Partially Muted FB Video Tracks</u></a></li>
-<li><a href="https://win11.techidaily.com/10-ways-to-open-the-windows-network-connections-tool/"><u>10 Ways to Open the Windows Network Connections Tool</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mts-mp4movavi-mtsmp4/"><u>完美的MTS MP4转换方法：Movavi教程解析 - 如何无丝头地将MTS文件转换为高效MP4格式</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-wma-a-formato-mp3-facilmente-con-el-mejor-convertidor-de-movavi/"><u>Como Convertir Archivos WMA a Formato MP3 Fácilmente Con El Mejor Convertidor De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descargue-y-convierte-archivos-rmvb-a-formato-mp4-de-manera-gratuita-con-el-servicio-online-mas-eficiente/"><u>Descargue Y Convierte Archivos RMVB a Formato MP4 De Manera Gratuita Con El Servicio Online Más Eficiente</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/asting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-ace-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Ace 2 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kostenloze-online-omzetting-voor-gif-bestandjes-met-movavi-asnemen/"><u>Kostenloze Online Omzetting Voor Gif-Bestandjes Met Movavi Asnemen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-gmail-filters-and-contact-management-expert-guide/"><u>Mastering Gmail Filters & Contact Management: Expert Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-step-by-step-guide-how-to-upload-videos-on-youtube/"><u>Movavi's Step-by-Step Guide: How to Upload Videos on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-rise-of-mac-a-new-era-for-gamers/"><u>The Rise of Mac: A New Era for Gamers?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-websites-for-downloading-high-quality-audio-effects-for-video-editing/"><u>Top Free Websites for Downloading High-Quality Audio Effects for Video Editing</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-and-mac/"><u>プロフェッショナルなビデオコンバータを求める方へ：Windows & Mac両用の最もおすすめ無料ダウンロードソフトで、スピーディ映像変換が可能！</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716070239001-new-in-2024-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[New] In 2024, Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024s-leading-video-editor-suites-discover-the-best-combination-of-free-and-premium-software-solutions/"><u>2024’S Leading Video Editor Suites: Discover the Best Combination of Free & Premium Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-nba-playoff-highlights-free-video-collection/"><u>Best NBA Playoff Highlights: Free Video Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-issues-with-steam-remote-play-discover-quick-fixes-to-resume-gaming-anywhere/"><u>Common Issues with Steam Remote Play? Discover Quick Fixes to Resume Gaming Anywhere!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-user-profile-service-sign-in-errors-on-windows-1011-computers/"><u>Effective Fixes for the User Profile Service Sign-In Errors on Windows 10/11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-past-windows-11-freezing-point-update-solutions-unveiled/"><u>Getting Past Windows 11 Freezing Point: Update Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disappearance-from-windows-device-manager/"><u>How to Fix Bluetooth Disappearance From Windows Device Manager</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-cutting-edge-guide-to-youtube-video-distribution-via-facebook/"><u>In 2024, Cutting-Edge Guide to YouTube Video Distribution via Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/issue-resolved-why-the-app-ascent-didnt-go-live/"><u>Issue Resolved: Why the App 'Ascent' Didn't Go Live</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-10-drivers-download/"><u>Lenovo Yoga 900S Windows 10 Drivers Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206322202-nba-2k21-green-error-patched-and-solutions-unveiled/"><u>NBA 2K21 Green Error Patched and Solutions Unveiled!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-setup-hanging-issues-on-your-laptop-or-desktop/"><u>Solutions for Resolving Windows Setup Hanging Issues on Your Laptop or Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-when-your-pc-gets-stuck-during-windows-10-shutdown/"><u>Solved! Resolving the Issue When Your PC Gets Stuck During Windows 10 Shutdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Step-by-Step Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-classes-on-windows-11-effective-solutions-proven-to-work/"><u>Troubleshooting Missing Classes on Windows 11: Effective Solutions Proven to Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-windows-11-registry-entries/"><u>Ultimate Guide: Repairing Damaged Windows 11 Registry Entries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-canon-time-lapse-imaging-for-2024/"><u>Unlocking the Power of Canon Time-Lapse Imaging for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/iuobquobnooajowtlpluswkvuocqoocrplusocueodneodvoodiooajeobpplusobruwlleeuuplusobrpluswtlplusw5lewpluwpluslpluss4jeidveobiz865lia57es44gr5o6i5rgcig/"><u>なぜ「字夾エクスポート」での動画は字幕取得不能か?:一緒に探求</u></a></li>
 </ul></div>
 

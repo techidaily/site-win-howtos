@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Lenovo Mouse Pad on PC: Effective Solutions for Windows Systems"
-date: 2024-10-08T23:49:33.090Z
-updated: 2024-10-16T04:48:45.654Z
+date: 2024-10-17T16:50:13.210Z
+updated: 2024-10-21T21:42:46.196Z
 tags:
   - win11
   - win10
@@ -35,22 +35,16 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -63,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -84,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
@@ -101,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -117,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -139,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -167,15 +156,15 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -198,24 +187,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-improve-your-virtual-engagement-mastering-snap-photography/"><u>[New] 2024 Approved Improve Your Virtual Engagement Mastering Snap Photography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-put-multiple-pictures-on-insta-story-a-simple-guide/"><u>[New] In 2024, How to Put Multiple Pictures on Insta Story - a Simple Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-blueprint-for-youtube-video-success/"><u>[Updated] The Blueprint for YouTube Video Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-multimedia-mastery-upgrade-your-projects-with-movavi-software/"><u>1. Multimedia Mastery: Upgrade Your Projects with Movavi Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-role-of-b-roll-in-polishing-video-projects/"><u>2024 Approved The Role of B-Roll in Polishing Video Projects</u></a></li>
-<li><a href="https://win-blog.techidaily.com/6-simple-methods-to-restore-oculus-links-working-display/"><u>6 Simple Methods to Restore Oculus Link's Working Display</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726222108350-ttaflacmovavi/"><u>网上免费转换TTA到FLAC：使用Movavi音频转换工具</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/astrology-vs-ai-how-effective-is-chatgpt-over-magazine-horoscopes-for-future-insights/"><u>Astrology vs AI: How Effective Is ChatGPT Over Magazine Horoscopes for Future Insights?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nticating-a-step-by-step-for-youtube-users-for-2024/"><u>Authenticating A Step-by-Step for Youtube Users for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/change-your-mkv-videos-to-mp4-for-free-with-movavis-online-conversion-tool/"><u>Change Your MKV Videos to MP4 for Free with Movavi's Online Conversion Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flv-a-formato-wma-con-movavi-online-guia-paso-a-paso/"><u>Conversión Gratuita De Archivos FLV a Formato WMA Con Movavi Online - Guía Paso a Paso</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-videos-without-hassle-moveavis-free-mpeg-wmv-and-avi-online-conversion-services/"><u>Convert Videos Without Hassle - Moveavi's Free MPEG, WMV and AVI Online Conversion Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubra-como-convertir-su-contenido-mxf-a-diferentes-tipos-de-archivo-sin-costes-usando-webs-de-conversion-gratis/"><u>Descubra Como Convertir Su Contenido MXF a Diferentes Tipos De Archivo Sin Costes Usando Webs De Conversión Gratis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picku-or-better-a-critical-look-at-androids-premier-photo-tool/"><u>In 2024, PickU or Better? A Critical Look at Android's Premier Photo Tool</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kompletny-uvod-bec-na-viraceni-obrazek-pomoci-obs-expertni-priklad-jak-otevirat-lidi-ve-google-chrome/"><u>Kompletný Úvod Béč Na Víracení Obrázek Pomocí OBS: Expertní Příklad Jak Otevírat Lidi Ve Google Chrome</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-online-video-preview-generators/"><u>New 2024 Approved Online Video Preview Generators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-swf-to-mpeg-file-conversion-at-no-cost-efficient-and-easy-with-movavi/"><u>Online SWF-to-MPEG File Conversion at No Cost - Efficient & Easy with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-15-reproductores-de-audio-mas-eficaces-para-apple-movavi/"><u>Top 15 Reproductores De Audio Más Eficaces Para Apple - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-constantly-blinks-heres-how-you-can-fix-it/"><u>Cursor Constantly Blinks? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhancing-digital-capabilities-with-abbyy-ocr-mcdonalds-story-featured-on-abbyy-blog/"><u>Enhancing Digital Capabilities with ABBYY OCR: McDonald's Story Featured on ABBYY Blog</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-xs-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone XS Max without Security Questions?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-rtx-2080-graphics-card-drivers-ideal-for-windows-10-7-and-8-systems/"><u>Install New RTX 2080 Graphics Card Drivers - Ideal for Windows 10, 7 & 8 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/os-melhores-servicos-gratuitos-para-download-e-streaming-de-filmes-em-formato-mov-no-ano-de-202n4/"><u>Os Melhores Serviços Gratuitos Para Download E Streaming De Filmes Em Formato MOV No Ano De 202N4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-network-outage-at-connection-terminal/"><u>Resolved: Network Outage at Connection Terminal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-port-reset-failures-solutions-for-unidentified-usb-devices-on-windows-10/"><u>Resolving Port Reset Failures: Solutions for Unidentified USB Devices on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-your-marine-movie-projects-top-7-hacks-for-2024/"><u>Simplify Your Marine Movie Projects Top 7 Hacks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-put-an-end-to-recurring-ark-application-crashes/"><u>Troubleshooting Guide: Put an End to Recurring ARK Application Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-scroll-issues-with-touchpad-in-windows-10/"><u>Troubleshooting Scroll Issues with Touchpad in Windows 10</u></a></li>
 </ul></div>
 

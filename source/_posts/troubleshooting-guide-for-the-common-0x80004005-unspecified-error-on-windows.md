@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for the Common 0X80004005 Unspecified Error on Windows
-date: 2024-09-14T19:38:57.994Z
-updated: 2024-09-17T17:07:12.964Z
+date: 2024-10-20T18:47:37.805Z
+updated: 2024-10-21T18:02:40.991Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -66,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 4) Select the **Create installation media (USB flash drive, DVD, or ISO file) for another PC** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
@@ -115,6 +136,13 @@ bootrec /rebuildbcd
  6) After you have entered the commands above, close the Command Prompt and Reboot your PC.
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Startup Repair
 
@@ -174,20 +202,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
@@ -219,10 +240,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type**Check for updates** in the Search box and press**Enter** .
@@ -253,13 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
@@ -286,5 +300,26 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-isolated-viewers-to-shared-experiences-online/"><u>[Updated] 2024 Approved From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-no-cost-game-recorders-the-essential-selection-list/"><u>[Updated] In 2024, No-Cost Game Recorders The Essential Selection List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-practices-choosing-exceptional-cloud-services/"><u>2024 Approved Best Practices Choosing Exceptional Cloud Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-blockade-correct-installation-of-windows-10-with-error-80240020-explanations/"><u>Bypass the Blockade: Correct Installation of Windows 10 with Error 80240020 Explanations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-reviving-a-malfunctioning-laptop-trackpad/"><u>DIY Fixes: Reviving a Malfunctioning Laptop Trackpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-service-stopped-fixing-user-profile-issues-in-windows-1011-sign-ins/"><u>Easy Solutions for 'Service Stopped:' Fixing User Profile Issues in Windows 10/11 Sign-Ins</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-on-the-markets-best-tablets-for-2eby2024-insider-ratings-and-evaluations-by-zdnet/"><u>Expert Analysis on the Market's Best Tablets for 2Eby2024: Insider Ratings and Evaluations by ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-on-controlling-timeline-pace-in-videos/"><u>Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-print-screen-functionality-on-windows-11-and-windows-10/"><u>Fixing the Issue: How to Restore Print Screen Functionality on Windows 11 & Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201015732-how-to-repair-local-area-network-lan-problems-in-minecraft-quickly/"><u>How To Repair Local Area Network (LAN) Problems in Minecraft Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-astro-a40-mic-functionality-simple-solutions/"><u>How to Restore Astro A40 Mic Functionality - Simple Solutions!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-x6-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco X6 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/newest-compatible-cameras-to-match-samsung-gear-360-for-2024/"><u>Newest Compatible Cameras to Match Samsung Gear 360 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-responsiveness-problems-on-your-personal-computer/"><u>Resolving Mouse Responsiveness Problems on Your Personal Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-system-error-application-fails-to-launch-correctly-error-0xc000007b/"><u>Resolving the System Error: Application Fails to Launch Correctly (Error 0Xc000007b)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-eero-pro-mesh-router-ensuring-seamless-internet-across-your-home/"><u>The Ultimate Guide to Eero Pro Mesh Router: Ensuring Seamless Internet Across Your Home</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-free-speech-to-text-apps-for-mac-you-need-to-try/"><u>Top Free Speech to Text Apps for Mac You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-errors-when-your-appexe-fails-and-stops-suddenly/"><u>Troubleshooting Errors - When Your App.exe Fails and Stops Suddenly</u></a></li>
+</ul></div>
 

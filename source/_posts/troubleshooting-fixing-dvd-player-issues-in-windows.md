@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing DVD Player Issues in Windows"
-date: 2024-10-13T19:09:06.227Z
-updated: 2024-10-15T20:23:44.445Z
+date: 2024-10-19T20:41:09.313Z
+updated: 2024-10-21T21:16:49.090Z
 tags:
   - win11
   - win10
@@ -52,31 +52,24 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -87,29 +80,23 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -119,14 +106,15 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
- Click **Yes**   when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Click **Yes**   when prompted to confirm.
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -134,6 +122,13 @@ To run SFC:
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -143,6 +138,14 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
@@ -170,24 +173,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-cropped-frames-in-media-pro-whats-the-cause-in-2024/"><u>[New] Cropped Frames in Media Pro What's the Cause, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>[New] Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-can-you-lawfully-archive-youtube-content/"><u>[Updated] 2024 Approved Can You Lawfully Archive YouTube Content?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-aggregated-insights-on-10-superior-video-call-apps/"><u>[Updated] Aggregated Insights on 10 Superior Video Call Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-evaluation-hero4-black-experience/"><u>[Updated] In-Depth Evaluation Hero4 Black Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-mac-frame-freezes-collection-limit-156-chars-for-2024/"><u>[Updated] Top Mac Frame Freezes Collection (Limit 156 Chars) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gifmp4-movavi/"><u>免費在線變更GIF到MP4 - 利用 Movavi 工具進行轉換</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambiar-formatos-de-audio-asiendo-flac-a-mp3-online-sin-coste/"><u>Cambiar Formatos De Audio Asiendo FLAC a MP3 Online Sin Coste</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flac-a-m4r-online-con-movavi/"><u>Conversión Gratuita De Archivos FLAC a M4R Online Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-video-enhancement-learn-the-top-3-methods-for-adding-pictures-to-movies/"><u>Effortless Video Enhancement: Learn the Top 3 Methods for Adding Pictures to Movies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-completa-para-conversion-de-video-mpg-a-m4v-sin-gastos-mediante-la-herramienta-en-linea-de-movavi/"><u>Guía Completa Para Conversión De Video MPG a M4V Sin Gastos Mediante La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s6-features-s-pen-and-dex-mode/"><u>In-Depth Analysis of the Samsung Galaxy Tab S6 Features - S Pen & Dex Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-secure-parental-guidelines-for-discord-an-easy-guide/"><u>Setting Up Secure Parental Guidelines for Discord: An Easy Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transfert-video-wtv-a-fichier-avi-en-direct-beneficier-de-la-conversion-sans-cout-avec-movavi/"><u>Transfert Vidéo WTV À FICHIER AVI en Direct - Bénéficier De La Conversion Sans Coût Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-vos-fichiers-audio-m4a-au-format-aac-sans-frais-avec-movavi-online-guide-complet/"><u>Transformez Vos Fichiers Audio M4A Au Format AAC Sans Frais Avec Movavi Online - Guide Complet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 mini</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/veerkomt-uw-opus-afbeeldingen-in-m4a-sound-formaat-vrijetijdsoplossende-online-tool-via-movavi/"><u>Veerkomt Uw OPUS-Afbeeldingen in M4A-Sound Formaat Vrijetijdsoplossende Online Tool via Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726218663728-movavi/"><u>マッキューン ユーザー向け Movavi ソフトウェアに登録する方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-exceptional-instagram-stories/"><u>[Updated] 2024 Approved Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-innovations-enhancers-that-excite-for-2024/"><u>[Updated] Instagram Innovations Enhancers that Excite for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>2024 Approved Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>2024 Approved Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-in-snapchat-spotlight/"><u>2024 Approved Maximizing Impact in Snapchat Spotlight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-blues-overcoming-update-failed-hurdles-in-warframe-solved/"><u>Beating the Blues: Overcoming 'Update Failed' Hurdles in Warframe – Solved!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-android-performance-via-wsl-resource-tweaks/"><u>Improving Android Performance via WSL Resource Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-problems-with-laptop-microphones/"><u>Quick Fixes for Common Problems with Laptop Microphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dreaded-twitch-error-code-4000-a-step-by-step-guide/"><u>Resolving the Dreaded Twitch Error Code 4000: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-stuck-updates-effective-methods-unveiled/"><u>Resolving Windows 10 Stuck Updates: Effective Methods Unveiled</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-for-streaming-pc-gaming-on-windows-via-obs-quick-and-straightforward-methods/"><u>Step-by-Step Tutorial for Streaming PC Gaming on Windows via OBS: Quick & Straightforward Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/write-protected-disk-fix-a-comprehensive-solution-for-usb-sd-card-and-cd-issues-in-windows-os/"><u>Write-Protected Disk Fix: A Comprehensive Solution for USB, SD Card & CD Issues in Windows OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Issue: Effective Solutions for Overcoming Minecraft Error Code 5"
-date: 2024-10-12T02:17:48.209Z
-updated: 2024-10-16T00:40:42.526Z
+date: 2024-10-14T21:12:18.613Z
+updated: 2024-10-21T18:30:49.995Z
 tags:
   - win11
   - win10
@@ -51,21 +51,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -78,24 +79,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -110,14 +97,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -135,10 +130,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -166,15 +161,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-dive-deep-into-metaverse-with-top-8-vr-helmets/"><u>[Updated] 2024 Approved Dive Deep Into Metaverse with Top 8 VR Helmets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-best-unfollow-tools-and-apps-for-twitter/"><u>[Updated] Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lightning-methods-ios-media-on-windows/"><u>2024 Approved Lightning Methods IOS Media on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/202310/"><u>音声編集入門者必見！無料ツールが選ばれる【2023年版】トップ10リスト</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/explore-visionary-typography-the-ultimate-list-of-9-websites-offering-intricate-3d-letters/"><u>Explore Visionary Typography The Ultimate List of 9 Websites Offering Intricate 3D Letters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-kostenlose-wav-in-mp3-online-konvertierungstool-fur-schnelle-und-einfache-musiktransformationen/"><u>Movavi's Kostenlose WAV in MP3 Online Konvertierungstool Für Schnelle Und Einfache Musiktransformationen</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-transfer-how-to-import-and-export-in-adobe-premiere-2023-for-2024/"><u>New Effortless Video Transfer How to Import and Export in Adobe Premiere 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ritocchi-online-gratuiti-da-gif-a-flv-usando-movavi-esegui-la-conversione-senza-costi-aggiuntivi/"><u>Ritocchi Online Gratuiti: Da GIF a FLV Usando Movavi - Esegui La Conversione Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-virtual-frontiers-anticipated-top-5-ps-vr-experiences/"><u>Unveiling Virtual Frontiers Anticipated Top 5 PS VR Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-comparative-guide-to-content-mastery-on-youtube/"><u>[Updated] The Comparative Guide to Content Mastery on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>2024 Approved Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-8-eighth-generation-review-outstanding-entry-level-device-worth-the-investment/"><u>Amazon Fire HD 8 (Eighth Generation) Review: Outstanding Entry Level Device Worth the Investment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-repairing-that-incessant-stalled-windows-update-issue/"><u>Breeze Through: Repairing That Incessant Stalled 'Windows Update' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curbing-unnecessary-cpu-drain-from-microsofts-protection-engine-the-winning-tips-for-windows-11/"><u>Curbing Unnecessary CPU Drain From Microsoft's Protection Engine: The Winning Tips for Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-excessive-network-usage-understanding-and-fixing-svchostexe-netsvcs/"><u>Dealing with Excessive Network Usage – Understanding & Fixing svchost.exe (NETSVCS)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-slow-or-non-existent-data-transmission-in-epson-devices/"><u>Fixing Slow or Non-Existent Data Transmission in Epson Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-home-theater-receivers-differ-from-your-standard-stereo-setup/"><u>How Home Theater Receivers Differ From Your Standard Stereo Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-list-high-end-ios-tune-creators/"><u>In 2024, Premium List High-End iOS Tune Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-media-playback-issues-in-windows-easy-fix-guide/"><u>Overcome 'Media Playback Issues' In Windows - Easy Fix Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solucion-al-problema-de-inaccessibilidad-del-dispositivo-de-arranque-en-windows-10-despues-de-la-clonacion/"><u>Solución Al Problema De Inaccessibilidad Del Dispositivo De Arranque en Windows 10 Después De La Clonación</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-a-non-functional-razer-manowar-mic/"><u>Step-by-Step Guide to Repair a Non-Functional Razer ManO’War Mic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11-issues-mastering-sfc-and-dism-repair-tools-for-optimal-performance/"><u>Troubleshoot Windows 11 Issues: Mastering SFC and DISM Repair Tools for Optimal Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A54 5G FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-essentials-identifying-and-utilizing-the-new-start-button-interface/"><u>Windows 11 Essentials: Identifying and Utilizing the New Start Button Interface</u></a></li>
 </ul></div>
 

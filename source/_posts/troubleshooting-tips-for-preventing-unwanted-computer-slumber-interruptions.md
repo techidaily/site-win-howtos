@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Preventing Unwanted Computer Slumber Interruptions
-date: 2024-10-13T06:27:45.635Z
-updated: 2024-10-15T21:06:18.327Z
+date: 2024-10-17T16:40:18.034Z
+updated: 2024-10-21T20:33:38.339Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -85,13 +71,6 @@ RAM looks like this:
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 3: Reset BIOS Settings
 
  When you’re booting up your computer, BIOS instructs it on how to boot up the operating system. And improper BIOS settings can cause computer boot issues.
@@ -108,9 +87,29 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -124,37 +123,31 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
 
@@ -181,13 +174,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -197,6 +183,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
@@ -204,6 +197,13 @@ The CMOS battery looks like this
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
 
@@ -226,22 +226,24 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>[New] 2024 Approved How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>[Updated] In 2024, A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ideal-mac-sniping-software-here-are-5-picks/"><u>[Updated] In 2024, The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>[Updated] In 2024, Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-meditative-harmony-the-top-10-legally-accessible-chants-and-tracks-for-2024/"><u>[Updated] Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024-movavi-12/"><u>2024에 가장 좋은 비디오 조작소 검색팁: Movavi - 상위 12개</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buy-movavi-video-suite-now-optimized-toolset-for-your-enterprise-needs/"><u>Buy Movavi Video Suite Now - Optimized Toolset for Your Enterprise Needs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-facile-daiff-a-mp3-grace-a-loutil-de-conversion-avance-de-movavi/"><u>Conversion Facile D'AIFF À MP3 Grâce À L'outil De Conversion Avancé De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertir-snd-sin-costo-a-wav-mediante-la-herramienta-en-linea-de-movavi-una-guia-paso-a-paso/"><u>Convertir SND Sin Costo a WAV Mediante La Herramienta en Línea De Movavi: Una Guía Paso a Paso</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-your-canon-mg-series-mp2e-drivers-on-various-windows-systems-1187/"><u>Easy Guide to Installing Your Canon MG Series MP2e Drivers on Various Windows Systems (11/8/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-orf-images-into-jpeg-format-with-easy-to-use-tools/"><u>Free Online Converter: Transform ORF Images Into JPEG Format with Easy-to-Use Tools</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Pro Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterize-a-personalizacao-da-resolucao-do-video-descubra-as-9-ferramentas-inigualaveis/"><u>Masterize a Personalização Da Resolução Do Video - Descubra as 9 Ferramentas Inigualáveis</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy XCover 7 Phone</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/top-rated-streaming-platforms-for-free-movie-downloads-and-viewing/"><u>Top-Rated Streaming Platforms for Free Movie Downloads & Viewing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-ogv-en-format-ogg-sur-internet-avec-ease-movavi/"><u>Transformer Gratuitement Un Fichier OGV en Format OGG Sur Internet Avec Ease - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmv-mpg-movavi/"><u>WMV 및 MPG 파일을 원격 내부로 제공 무료 전환기 - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[Updated] In 2024, Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-why-is-there-no-sound-on-twitter-videos-fixes/"><u>2024 Approved Why Is There No Sound on Twitter Videos? | Fixes</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/are-gaming-laptops-essential-for-serious-laptop-gamers/"><u>Are Gaming Laptops Essential for Serious Laptop Gamers?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-device-unavailable-tackling-code-24-in-windows-environments/"><u>Comprehensive Fixes for 'Device Unavailable' - Tackling Code 24 in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-cracked-successfully-playing-videos-despite-code-224003-problems/"><u>Error Message Cracked: Successfully Playing Videos Despite Code 224003 Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-dualshock-troubleshooting-charging-issues/"><u>Fixing Your PS4 Dualshock: Troubleshooting Charging Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-oppo-a58-4g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Oppo A58 4G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exploring-10-innovative-affordable-video-call-apps-iosandroid/"><u>In 2024, Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-game-streaming-service-but-whats-the-verdict/"><u>Nvidia Unveils Game Streaming Service, But What's the Verdict?</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-cod-ww2-ea-update-glitch-fixing-error-code-4220/"><u>Resolving the COD WW2 EA Update Glitch: Fixing Error Code 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-hard-drive-freezing-problems-effectively/"><u>Resolving Windows 10 Hard Drive Freezing Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-vcruntime140dll-missing-error-in-microsoft-visual-cplusplus-redistributable-packages/"><u>Step-by-Step Guide: Correcting VCRUNTIME140.dll Missing Error in Microsoft Visual C++ Redistributable Packages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-8-tactics-to-fix-the-error-code-0x800f0922-on-windows-11-updates/"><u>The Ultimate Guide: 8 Tactics to Fix the Error Code 0X800F0922 on Windows 11 Updates</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-sony-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Sony Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-successfully-overcoming-windows-update-error-80070103/"><u>Troubleshooting Steps for Successfully Overcoming Window's Update Error 80070103</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correct-the-persistent-0x80072efd-problem-in-windows-10/"><u>Winning Strategies to Correct the Persistent 0X80072EFD Problem in Windows 10</u></a></li>
 </ul></div>
 

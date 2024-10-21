@@ -1,7 +1,7 @@
 ---
 title: "Managing Desktop Window Manager: Five Methods to Lower High GPU Use in WIndows"
-date: 2024-10-13T06:38:08.059Z
-updated: 2024-10-15T21:03:17.399Z
+date: 2024-10-15T21:45:23.046Z
+updated: 2024-10-21T20:02:37.127Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -43,14 +50,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Check your desktop icon settings
 
@@ -62,14 +69,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 3: Rebuild icon cache
 
@@ -78,19 +85,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -112,13 +106,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -135,14 +122,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -160,14 +147,21 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,20 +186,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>[New] In 2024, Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nternets-icons-global-youtuber-subscriber-winners-for-2024/"><u>[New] Internet's Icons Global YouTuber Subscriber Winners for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-maximizing-display-youtube-video-upgrades/"><u>[Updated] 2024 Approved Maximizing Display YouTube Video Upgrades</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-discover-7-premium-android-adblocking-tools/"><u>[Updated] In 2024, Discover 7 Premium Android AdBlocking Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-justifying-itop-as-your-primary-recording-software-in-2024/"><u>[Updated] Justifying ITop as Your Primary Recording Software, In 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>2024 Approved Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-formato-m2ts-sin-costo-alguno-con-nuestra-herramienta-online/"><u>Cambia Tus Archivos De Video MP4 a Formato M2TS Sin Costo Alguno Con Nuestra Herramienta Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effettuare-il-compressione-di-file-multimediali-via-email-soluzione-top-di-mercato-inclusa-la-conversione-video-ad-altezza-e-larghezza-variabili/"><u>Effettuare Il Compressione Di File Multimediali via Email: Soluzione Top Di Mercato - Inclusa La Conversione Video Ad Altezza E Larghezza Variabili</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-convert-m4r-to-m4a-using-our-no-cost-web-service/"><u>Effortlessly Convert .M4R to .M4A Using Our No-Cost Web Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-wedding-video-collage-tutorial-professional-results-using-movavi-editor/"><u>Expert Wedding Video Collage Tutorial: Professional Results Using Movavi Editor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-holistic-photo-tale-architect-platform/"><u>In 2024, Holistic Photo Tale Architect Platform</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-online-emporiums-where-boxes-reflect-your-style/"><u>In 2024, Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-online-tool-for-free-audio-file-conversion-from-m4r-to-aac/"><u>Movavi's Online Tool for Free Audio File Conversion From M4R to AAC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-mp3-to-mkv-konvertierung-kostenlos-movavi/"><u>Online MP3-to-MKV Konvertierung Kostenlos - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-tiff-en-format-bmp-sur-ligne-movavi/"><u>Transformer Gratuitement Un Fichier TIFF en Format BMP Sur Ligne - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-psd-saturation-tweaks/"><u>[New] 2024 Approved Master PSD Saturation Tweaks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-zero-fee-technique-for-pixel-perfection/"><u>[New] Best Zero-Fee Technique for Pixel Perfection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-yt-masterpieces-for-igtv-showcase/"><u>[Updated] 2024 Approved Crafting YT Masterpieces for IGTV Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-sky-vistas-yuneec-breezes-high-def-adventure/"><u>[Updated] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-basics-of-kinetic-illustration-mastery/"><u>2024 Approved Basics of Kinetic Illustration Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-narzo-n53-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme Narzo N53 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/constraint-c-for-every-redaction-made-include-an-asterisk-in-its-place-within-the-main-body-text-and-list-out-the-redacted-segments-with-their-corresponding30/"><u>Constraint C: For Every Redaction Made, Include an Asterisk () in Its Place Within the Main Body Text and List Out the Redacted Segments with Their Corresponding Sentence in Reverse Order Under Confidential Financial Optimism.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-troubleshooting-and-fixing-tech-issues-on-your-device/"><u>DIY Solutions for Troubleshooting and Fixing Tech Issues on Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-recover-and-repair-corrupt-file-systems-on-windows-11-computers/"><u>Effective Strategies to Recover and Repair Corrupt File Systems on Windows 11 Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-aerial-artistry-best-drone-and-editor-match-ups-ranked/"><u>Elevate Your Aerial Artistry Best Drone & Editor Match-Ups Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-troubleshooting-and-repairing-windows-error-code-0xc0000005/"><u>Expert Tips for Troubleshooting and Repairing Windows Error Code 0XC0000005</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gaming-woes-sudden-pc-crashes-on-1011-systems/"><u>Gaming Woes: Sudden PC Crashes on 10/11 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c51-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C51 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-microsoft-update-problems-fixing-the-0x800f0922-bug-on-windows-11/"><u>Overcome Microsoft Update Problems: Fixing the '0X800F0922' Bug on Windows 지구 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-usb-ports-from-failure-handling-the-port-reset-failed-issue-in-windows-10-environments/"><u>Reviving Your USB Ports From Failure: Handling the 'Port Reset Failed' Issue in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-effective-fixes-for-unresponsive-device-casting-issues/"><u>Troubleshooting Windows 11: Effective Fixes for Unresponsive Device Casting Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unearthing-the-opengl-enhanced-intel-chipset/"><u>Unearthing the OpenGL-Enhanced Intel Chipset</u></a></li>
 </ul></div>
 

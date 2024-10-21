@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Repair Microphone Failure on Laptops – Effective Techniques Inside
-date: 2024-10-11T22:00:36.106Z
-updated: 2024-10-16T02:37:18.826Z
+date: 2024-10-18T20:21:15.638Z
+updated: 2024-10-21T21:33:23.922Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,16 +48,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -59,13 +66,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -83,10 +83,10 @@ Here’s how to do it:
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -106,16 +106,10 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
@@ -128,10 +122,16 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -167,22 +167,17 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-hdr-technique/"><u>[New] The Definitive iPhone HDR Technique</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-when-youre-not-who-you-think-during-a-facebook-call/"><u>[New] When You're Not Who You Think During a Facebook Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-top-tech-for-aerial-and-visuals/"><u>[Updated] Selecting Top Tech for Aerial and Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726228262814-wavmp3/"><u>網路變化WAV成MP3 - 最強效、無限制的免费解決方案</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-mpeg-video-files-to-3gpp-3gp-for-free-using-movavis-user-friendly-tool/"><u>Convert MPEG Video Files to 3GPP (3GP) for Free Using Movavi's User-Friendly Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descargar-e-imprimir-su-archivo-pgf-sin-coste-adicional-con-herramientas-de-conversion-en-linea/"><u>Descargar E Imprimir Su Archivo PGF Sin Coste Adicional Con Herramientas De Conversión en Línea</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elite-fitness-gadgets-of-2024-a-comprehensive-guide-to-the-best-options/"><u>Elite Fitness Gadgets of 2024 - A Comprehensive Guide to the Best Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-insights-selecting-superior-4k-camera-stands/"><u>Expert Insights Selecting Superior 4K Camera Stands</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-convertire-oma-online-tramite-movavi-scopri-le-funzionalita-di-editing-avanzate/"><u>Gratis Convertire OMA Online Tramite Movavi - Scopri Le Funzionalità Di Editing Avanzate!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 Phone without Google Account?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226301616-movwmv-movavi/"><u>MOV到WMV無料過渡 - 使用Movavi轉換工具</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimize-window-11-launch-times-with-these-expert-system-tweaks/"><u>Optimize Window 11 Launch Times with These Expert System Tweaks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-quiet-screen-capture-using-movavi-software/"><u>Solution Guide: Quiet Screen Capture Using Movavi Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unangaet-zoom-moter-stegvisse-veier-til-a-fremme-online-interaktivitet/"><u>Unangået Zoom-Møter: Stegvisse Veier Til Å Fremme Online Interaktivitet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/veilig-en-gratuite-ogg-conversie-van-m4a-movavi/"><u>Veilig en Gratuite Ogg-Conversie Van M4a - Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>[New] Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-the-secrets-of-facebook-live-a-beginners-manual/"><u>[Updated] 2024 Approved Unlock the Secrets of Facebook Live A Beginner's Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-6-social-media-channels-fostering-business-innovation/"><u>[Updated] Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-retro-cinema-a-look-at-the-goofy-adventure/"><u>2024 Approved Retro Cinema A Look at 'The Goofy Adventure'</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-success-with-youtube-income-streams-for-2024/"><u>Charting Success with YouTube Income Streams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-update-overcoming-continuous-restart-issues-in-windows-10-systems/"><u>Critical Update: Overcoming Continuous Restart Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-ais-role-in-crafting-prompts-and-job-market-adaptability/"><u>Delving Into AI's Role in Crafting Prompts & Job Market Adaptability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-errconnectionrefused-with-pictures/"><u>Fix: ERR_CONNECTION_REFUSED [with Pictures]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-z-fold-5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy Z Fold 5 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spread-spectrum-techniques-improve-security-by-making-signals-resistant-to-interference-and-eavesdropping/"><u>Spread Spectrum Techniques Improve Security by Making Signals Resistant to Interference and Eavesdropping.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcome-cannot-access-device-path-in-windows/"><u>Troubleshooting Guide: Overcome 'Cannot Access Device Path in Windows'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-binkw32dll-files-effectively/"><u>Troubleshooting Missing binkw32.dll Files Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Kodi Buffering Glitches with These Simple Solutions!
-date: 2024-10-09T16:01:09.801Z
-updated: 2024-10-15T18:33:01.530Z
+date: 2024-10-15T18:55:11.555Z
+updated: 2024-10-21T20:57:09.715Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Adjust your pointer speed
 
  The issue with the blinking cursor may happen when the pointer speed is set too high. If that’s the problem for you, you should adjust your pointer speed. Follow the instructions below to see how to do it:
@@ -64,13 +57,40 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under**View by** , select **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
@@ -81,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
 If your problem persists, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your mouse and/or mouse driver
@@ -120,10 +146,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -133,13 +159,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Updates
 
@@ -152,19 +171,6 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -192,22 +198,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-imagery-made-simple-with-our-top-10-image-switchers/"><u>[New] In 2024, Dynamic Imagery Made Simple with Our Top 10 Image Switchers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tunepiercer-screen-capture-app-review/"><u>[New] In 2024, TunePiercer Screen Capture App Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-for-inclusion-in-the-apple-catalog/"><u>[New] Proven Strategies for Inclusion in the Apple Catalog</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>[Updated] Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>2024 Approved Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3-wma/"><u>使用電子化工具輕鬆簡易更換音頻文件 - MP3, WMA 等多種格式的快速切換方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-tutorial-how-to-broadcast-your-screen-on-discord-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: How To Broadcast Your Screen on Discord for Windows/Mac and iOS/Android Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-ape-files-to-wma-format-using-movavi/"><u>Free Online Converter: Change APE Files to WMA Format Using Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-completo-como-transferir-filmes-de-dvd-para-seu-pc-com-o-programador-do-movavi/"><u>Guia Completo: Como Transferir Filmes De DVD Para Seu PC Com O Programador Do Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8/"><u>In 2024, The Complete Guide to Harnessing Power of Movie Maker in Windows 8</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/maximize-seo-success-using-innovative-cookiebot-technology/"><u>Maximize SEO Success Using Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-video-converter-fast-hd-video-transcoding-software-free-download-and-installation/"><u>Movavi Video Converter: Fast HD Video Transcoding Software – Free Download & Installation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-x6-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11da-cevrimse-ustune-sessizligi-yanitlanmasinin-4-tarzi/"><u>Windows 11'Da Çevrimse Üstüne Sessizliği Yanıtlanmasının 4 Tarzı</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221050563-wmvwav-movavi/"><u>무료 WMV/WAV 대화형 변환 서비스 - Movavi 솔루션임</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/aac-wav/"><u>오피니 공간에서 제공되는 무가지 AAC 파일을 WAV로 변환: 모바이비</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-premier-artist-blending-images-and-harmony/"><u>[Updated] 2024 Approved Premier Artist Blending Images & Harmony</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-screen-record-on-macbook-air/"><u>[Updated] In 2024, How to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-which-video-player-triumphs-insight-on-vlc-vs-mx/"><u>[Updated] Which Video Player Triumphs? Insight on VLC Vs. MX</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-30-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 30 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-the-sudden-peaks-in-cpu-usage-on-windows-11/"><u>Addressing the Sudden Peaks in CPU Usage on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatting-with-caution-are-independent-chatgpt-extensions-reliable/"><u>Chatting with Caution: Are Independent ChatGPT Extensions Reliable?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-disrupted-cut-copy-and-paste-in-windows-10/"><u>Correcting Disrupted Cut, Copy, and Paste in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-to-your-pc-cant-project-to-another-screen-error/"><u>Easy Fix to Your PC Can't Project to Another Screen Error</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effettuare-la-conversione-da-hevc-a-mp4-mantenendo-lalta-qualita-un-guida-completa/"><u>Effettuare La Conversione Da HEVC a MP4 Mantenendo L'Alta Qualità: Un Guida Completa</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-videos-with-movavi-professional-editing-tools-and-effects/"><u>Enhance Your Videos with Movavi: Professional Editing Tools and Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-techniques-for-windows-10-repair-with-sfc-and-dism-utilities/"><u>Essential Techniques for Windows 10 Repair with SFC & DISM Utilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-picks-best-recording-software/"><u>Gamers' Picks Best Recording Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-windows-11-screen-brightness-under-control-again/"><u>Getting Your Windows 11 Screen Brightness Under Control Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-of-absent-or-outdated-widevine-cdm-in-windows/"><u>How to Fix the Error of Absent or Outdated Widevine CDM in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-the-wwe-2k-100-feature-error-on-battlegrounds-expert-tips-for-dx11/"><u>How to Troubleshoot and Repair the WWE 2K 10.0 Feature Error on Battlegrounds - Expert Tips for DX11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-recovery-how-to-restore-typing-capabilities-pre-login-problem/"><u>Keyboard Recovery: How to Restore Typing Capabilities Pre-Login Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mac-user-problem-solved-restoring-mouse-action-on-your-device/"><u>Mac User Problem Solved: Restoring Mouse Action on Your Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-customized-soundscape-in-ps4ps5-games-for-2024/"><u>Unlock Customized Soundscape in PS4/PS5 Games for 2024</u></a></li>
 </ul></div>
 

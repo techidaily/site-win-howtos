@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for the User Profile Service Sign-In Errors on Windows 10/11 Computers
-date: 2024-10-14T18:13:30.729Z
-updated: 2024-10-16T00:00:19.938Z
+date: 2024-10-16T19:24:00.028Z
+updated: 2024-10-21T20:57:17.470Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -88,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -120,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 ``
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -138,11 +125,25 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -155,18 +156,18 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -193,19 +194,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -244,22 +232,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-premium-budget-friendly-screen-grabber-toolkit/"><u>[New] In 2024, Premium Budget-Friendly Screen Grabber Toolkit</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[Updated] In 2024, Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-advanced-nuxt-dashboards-with-argo-and-pro-features-integrating-laravel-and-pre-designed-templates/"><u>1. Advanced Nuxt Dashboards with Argo & Pro Features: Integrating Laravel and Pre-Designed Templates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movaviswf/"><u>無料 - 直感的かつ簡単! MovaviでSWFファイルをオンライン上で変更する方法</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-review-pros-cons-and-verdict-for-2024/"><u>AVS Video Editor Review Pros, Cons, and Verdict for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-videos-for-the-web-change-mov-and-mp4-files-to-webm-free/"><u>Convert Videos for the Web - Change MOV and MP4 Files to WebM (Free)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descargar-y-convertir-videos-gratis-a-formato-mp4-con-conversor-de-video-online/"><u>Descargar Y Convertir Videos Gratis a Formato MP4 Con Conversor De Video Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-timeless-design-of-keychron-k2-hes-mid-century-edition-review/"><u>Discover the Timeless Design of Keychron K2 HE’s Mid-Century Edition Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exploring-ntsc-versus-pal-standards-identifying-advantages-and-variations/"><u>Exploring NTSC versus PAL Standards – Identifying Advantages and Variations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-novice-to-pro-transforming-your-note-taking-with-chatgpt-strategies/"><u>From Novice to Pro: Transforming Your Note-Taking with ChatGPT Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-13-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 13 In Easy Steps | Stellar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-online-classroom-audio-the-best-techniques-for-high-quality-recording/"><u>Mastering Online Classroom Audio - The Best Techniques for High-Quality Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3aacogg-wma-movavi/"><u>MP3/AAC/OGG 等多樣文件型式直接在線上轉換成 WMA - 簡便電子影音編輯器 Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-art-of-virtual-environments-in-cinema-for-2024/"><u>The Art of Virtual Environments in Cinema for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-ferramentas-de-animacao-livres-mais-inovadoras-em-2024-acelerando-o-design-de-animes/"><u>Top 12 Ferramentas De Animação Livres Mais Inovadoras Em 2024 - Acelerando O Design De Animês</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unificazione-multimediali-su-windows-n-top-8-tecniche-del-2024/"><u>Unificazione Multimediali Su Windows N° - Top 8 Tecniche Del 2024!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-every-moment-incorporating-captions-in-instagram-footage/"><u>[New] 2024 Approved Perfect Every Moment Incorporating Captions in Instagram Footage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-frostbound-feats-olympic-ice-innovations/"><u>[New] Frostbound Feats Olympic Ice Innovations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-camguard-elite-mesh-patch/"><u>[New] In 2024, CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic-for-2024/"><u>[Updated] The Art of Video Marketing 11 Tips to Skyrocket FB Traffic for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-sphere-camera-systems/"><u>2024 Approved Total Sphere Camera Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-failed-boot-sequence-or-missing-operating-system-message-effective-strategies-explained/"><u>Fix a Failed Boot Sequence or 'Missing Operating System' Message – Effective Strategies Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-amd-radeon-pro-graphics-with-the-newest-w5700-driver-windows-compatible-11107/"><u>Improve Your AMD Radeon Pro Graphics with the Newest W5700 Driver - Windows Compatible (11/10/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-company-policy-configurations-in-windows-systems/"><u>Navigating Through Company Policy Configurations in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-interactive-touch-and-stylus-functionality-to-your-screen/"><u>Restoring Interactive Touch & Stylus Functionality to Your Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-common-tearing-glitch-in-valorant-game/"><u>Troubleshooting and Fixes for Common Tearing Glitch in Valorant Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-service-not-running-errors-in-diagnostics-systems/"><u>Troubleshooting Guide - Fixing 'Service Not Running' Errors in Diagnostics Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshoot-and-repair-your-ps4-microphone-issues/"><u>Ultimate Guide: Troubleshoot and Repair Your PS4 Microphone Issues</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>Updated The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
 </ul></div>
 

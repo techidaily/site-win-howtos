@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Complete Guide on Fixing Silent Forza Horizon 4 - Sounds Now Working!"
-date: 2024-09-11T03:21:01.748Z
-updated: 2024-09-17T18:30:25.661Z
+date: 2024-10-14T16:18:41.401Z
+updated: 2024-10-21T16:58:45.227Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 * Make sure your XP Pen is fully charged.
 * Re-connect the graphics tablet to your PC, and you can also insert the USB cable or wireless receiver to another USB port to test.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  If the steps above don’t help, here are 3 effective fixes for you. You don’t have to try them all; just work your way down the list until you find the one that does the trick.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 1. **[Turn off Sleep Mode](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your tablet driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Disable Windows Ink Workspace](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Turn off Sleep Mode
 
@@ -53,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-5.jpg)
 
  After turning off the Sleep Mode, reboot your PC and test if your XP Pen works properly. If not, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your tablet driver
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click the**Update** button next to the flagged_Pentablet HID driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/udpate-tablet-driver-de.jpg)
 
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Navigate to the following path on the left pane:  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsInkWorkspace** .  
@@ -119,10 +119,25 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  If you don’t see this folder, right-click the**Microsoft key** and select**New** \>**Key** to create**WindowsInkWorkspace** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3-2.jpg)
 3. On the right pane, double-click the**AllowWindowsInkWorkspace** and set the value data to**0** . Then, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-7.jpg)  
  As above, if you don’t see this setting, right-click any empty space on the right pane and select**New** \>**DWORD (32-bit) Value** . Then name the new key as**AllowWindowsInkWorkspace** and set its value data to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4-1.jpg)
 4. Restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you complete the process, your XP Pen should return to the normal state now.
 
@@ -147,5 +162,20 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>[New] 2024 Approved A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[New] In 2024, Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-c65-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco C65 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-error-0x80072efd-on-your-windows-11-device/"><u>Effective Solutions to Overcome Error 0X80072EFD on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-10-version-1607-upgrade-error/"><u>How to Fix the Windows 10 Version 1607 Upgrade Error</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-the-glossary-of-virtual-worlds/"><u>In 2024, Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/intermittent-key-response/"><u>Intermittent Key Response</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-funniest-video-dubbing-apps-you-need-to-try/"><u>New The Funniest Video Dubbing Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-valorants-perpetual-buffering-issue-a-step-by-step-guide/"><u>Resolving Valorant's Perpetual Buffering Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-restoring-access-to-your-geforce-experience-options-and-preferences/"><u>Solution Steps: Restoring Access to Your GeForce Experience Options and Preferences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-12-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme 12 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-disconnected-bluetooth-keyboard-for-windows-solutions-unveiled/"><u>Troubleshooting Your Disconnected Bluetooth Keyboard for Windows: Solutions Unveiled</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-permission-prompts-enhancing-user-experience/"><u>Understanding Permission Prompts: Enhancing User Experience</u></a></li>
+</ul></div>
 

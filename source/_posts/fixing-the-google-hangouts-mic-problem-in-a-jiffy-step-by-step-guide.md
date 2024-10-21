@@ -1,7 +1,7 @@
 ---
 title: Fixing the Google Hangouts Mic Problem in a Jiffy - Step by Step Guide
-date: 2024-10-10T20:54:26.186Z
-updated: 2024-10-15T23:18:52.418Z
+date: 2024-10-16T21:41:06.929Z
+updated: 2024-10-21T17:08:45.141Z
 tags:
   - win11
   - win10
@@ -45,18 +45,27 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable hardware acceleration
 
@@ -67,25 +76,33 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
 
----
-
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Update your graphics driver
 
@@ -99,13 +116,6 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
@@ -126,13 +136,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -161,21 +164,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-tutorial-screen-skype-via-obs/"><u>[New] 2024 Approved Ultimate Tutorial Screen Skype via OBS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-critical-vr-movies-you-cant-skip/"><u>[Updated] Critical VR Movies You Can't Skip</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlocking-64128gbs-full-potential-for-video-storing/"><u>[Updated] Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-overlay-for-serene-scenery-on-screens/"><u>2024 Approved Sonic Overlay for Serene Scenery on Screens</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>2024 Approved The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-x50-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/authoritative-sourcebook-no-cost-limitless-pictures-for-2024/"><u>Authoritative Sourcebook No Cost, Limitless Pictures for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-steps-for-effective-screen-capture-in-adobe-captivity-for-2024/"><u>Essential Steps for Effective Screen Capture in Adobe Captivity for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-aoc-usb-monitor-not-detected-problems-on-windows-11-systems/"><u>How to Resolve 'AOC USB Monitor Not Detected' Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-sims-4-starts-but-doesnt-load-properly/"><u>Overcoming the Challenge: Sims 4 Starts but Doesn’t Load Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/proven-methods-for-defrosting-a-sluggish-computer-screen/"><u>Proven Methods for Defrosting a Sluggish Computer Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204436346-solution-steps-fixing-usb-device-unrecognized-error-stop-warnings-now/"><u>Solution Steps: Fixing 'USB Device Unrecognized' Error - Stop Warnings Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-device-cannot-start-on-windows-11-due-to-registry-error-code-19-for-dvds-and-cds/"><u>Step-by-Step Guide to Fix 'Device Cannot Start' On Windows 11 Due to Registry Error Code 19 for DVDs and CDs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-internet-explorer-not-responding/"><u>Troubleshooting Steps: Resolving 'Internet Explorer Not Responding'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-pc-fixing-the-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Your PC: Fixing the Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elite-portable-playstation-storage-best-external-units/"><u>[Updated] 2024 Approved Elite Portable PlayStation Storage Best External Units</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-androids-best-top-8-gratuitous-capture-tools-for-2024/"><u>[Updated] Android's Best Top 8 Gratuitous Capture Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-achieve-complete-volume-on-fb-media-shows/"><u>[Updated] How to Achieve Complete Volume on Fb Media Shows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-design-gif-for-sharing/"><u>2024 Approved Design Gif for Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battling-plugged-but-not-charging-dilemma-fixes-for-windows-7-and-10-users/"><u>Battling 'Plugged But Not Charging' Dilemma: Fixes for Windows 7 and 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bid-farewell-to-keyboard-delays-on-your-windows-10-machine-heres-the-solution/"><u>Bid Farewell to Keyboard Delays on Your Windows 10 Machine - Here's the Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-the-code-to-successfully-register-classes-on-windows-10-detailed-fixes-revealed/"><u>Cracking the Code to Successfully Register Classes on Windows 10 - Detailed Fixes Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-to-resolving-windows-error-0xc0000098-with-these-simple-steps/"><u>Fast Track to Resolving Windows Error 0xC0000098 with These Simple Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-bungies-latest-patch-cleared-the-destiny-2-broccoli-crash-for-good/"><u>How Bungie's Latest Patch Cleared the Destiny 2 'Broccoli Crash' For Good</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-increasing-youtube-views-through-consistency-in-creative-commons-compliance/"><u>In 2024, Increasing YouTube Views Through Consistency in Creative Commons Compliance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-unresponsiveness-of-windows-10s-file-explorer-step-by-step-solutions/"><u>Overcome Unresponsiveness of Windows 10'S File Explorer – Step by Step Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/g-the-way-to-success-with-professional-insights-into-youtube-banners-for-2024/"><u>Paving the Way to Success with Professional Insights Into YouTube Banners for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-access-to-windows-11-post-reset/"><u>Regaining Full Access to Windows 11 Post-Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-how-to-fix-device-path-not-accessible-on-windows/"><u>Resolving the Issue: How to Fix 'Device Path Not Accessible' On Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211262596-restore-your-windows-11s-missing-bluetooth-with-these-simple-steps/"><u>Restore Your Windows 11'S Missing Bluetooth with These Simple Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-lenovos-stuck-fn-keys-a-step-by-step-guide/"><u>Troubleshooting Your Lenovo's Stuck Fn Keys - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

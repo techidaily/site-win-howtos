@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Fingerprint Reader on Your Lenovo Device
-date: 2024-10-14T01:21:59.979Z
-updated: 2024-10-16T01:35:54.656Z
+date: 2024-10-17T19:07:14.976Z
+updated: 2024-10-21T20:25:10.848Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 4. **[Re-enroll your fingerprints](#F4)**
 5. **[Restore system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the fingerprint scanner
 
  Before addressing the fingerprint reader not working problem, you might want to check the fingerprint scanner for possible hardware issues.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your fingerprint reader driver
@@ -69,25 +76,11 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Restart your computer and see if the fingerprint reader works properly this time. If it works, then great. But if it doesn’t, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Uninstall Lenovo Finerprint Manager and use the default fingerprint driver
 
@@ -99,33 +92,29 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/addorremoveprograms.jpg)
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
-5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
-6. Click **Uninstall**   to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
+5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
+6. Click **Uninstall**   to confirm.
 
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
 
@@ -138,6 +127,14 @@ Here’s how:
 2. Scroll down to**Windows Hello** , and click**Set up** under the**Fingerprint** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5039662fee.jpg)
 3. Follow the on-screen instructions to set up the fingerprint login.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Don’t forget to test if the fingerprint reader works normally this time.
 
 ## Fix 5: Repair system files
@@ -148,10 +145,10 @@ Here’s how:
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
@@ -181,18 +178,18 @@ Check your computer to see if the issue is fixed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -223,19 +220,17 @@ Check your computer to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-definitive-manual-on-hand-based-tracking/"><u>[New] 2024 Approved The Definitive Manual on Hand-Based Tracking</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-betting-basement-bookmarks/"><u>[Updated] 2024 Approved BETTING BASEMENT BOOKMARKS</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/iuoajoazgumwkplusockui2heobioobnplusayoowdjzrjg5fjg63jga7jg4bjgqjg4vjg4pjgqjgafjgrjgqtjg6djg6njg5fjgrnjgpllilbkvzzjgznjgovmlrnms5xjgi0i/"><u>「時間を超えた映像:プロのテクニックでタイムラプスを制作する方法」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/check-if-netflix-is-down-tips-for-diagnosing-and-repairing-viewing-problems/"><u>Check If Netflix Is Down: Tips for Diagnosing and Repairing Viewing Problems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comparing-electrics-can-the-rivian-r1s-outperform-traditional-suv-and-truck-models-on-the-road-to-sustainability/"><u>Comparing Electrics: Can the Rivian R1S Outperform Traditional SUV and Truck Models on the Road to Sustainability?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cut-down-the-graphic-overhead-managing-dwms-gpu-use-in-modern-windows-systems/"><u>Cut Down the Graphic Overhead: Managing DWM's GPU Use in Modern Windows Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-avoiding-disruptions-in-mixer-broadcasting-on-macos/"><u>In 2024, Avoiding Disruptions in Mixer Broadcasting on macOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/organizational-oversight-on-windows-setup-and-configuration-parameters/"><u>Organizational Oversight on Windows Setup and Configuration Parameters</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-y100-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo Y100 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-scanning-and-fixing-drive-problem-on-windows-10-systems/"><u>Resolving the 'Scanning and Fixing' Drive Problem on Windows 10 Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-moving-sound-issues-in-airpods-disable-the-feature-of-head-motion-detection/"><u>Solving Moving Sound Issues in AirPods - Disable the Feature of Head Motion Detection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-overuse-of-system-resources-due-to-audio-device-graph-errors-in-windows/"><u>Troubleshoot Overuse of System Resources Due to Audio Device Graph Errors in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-10-error-0x80073712-effective-troubleshooting-tactics/"><u>Winning the Battle Against Windows 10 Error 0X80073712: Effective Troubleshooting Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-myvidhub-testing-a-quest-for-more-features/"><u>[New] 2024 Approved MyVidHub Testing A Quest for More Features?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-captivating-online-titles-simplified/"><u>[New] Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-pc-cam-solutions-10-picks-on-windows-10/"><u>[New] In 2024, Essential PC Cam Solutions - 10 Picks on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-top-methods-for-remotely-podcasting-success/"><u>[Updated] In 2024, The Top Methods for Remotely Podcasting Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cut-to-impress-top-tier-online-photo-editing-skills/"><u>Cut to Impress Top-Tier Online Photo Editing Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-geforce-experience-launch-failures-step-by-step-resolution-tips/"><u>Dealing with GeForce Experience Launch Failures: Step-by-Step Resolution Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enlarge-rdr2-games-pagefile-a-quick-solution-for-out-of-memory-alerts/"><u>Enlarge RDR2 Game's Pagefile: A Quick Solution for 'Out of Memory' Alerts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-win-shift-and-s-button-problems-a-step-by-step-fix-for-windows-1110-users/"><u>Resolving Win, Shift, and S Button Problems: A Step-by-Step Fix for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-the-challenge-of-unreachable-steam-game-libraries/"><u>Solution Found: Overcoming the Challenge of Unreachable Steam Game Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-state-of-the-art-3d-illumination-in-game-rooms/"><u>Upgrade to State-of-the-Art 3D Illumination in Game Rooms</u></a></li>
 </ul></div>
 

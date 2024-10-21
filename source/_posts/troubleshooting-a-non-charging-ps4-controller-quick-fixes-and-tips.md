@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging PS4 Controller: Quick Fixes & Tips"
-date: 2024-10-09T06:23:10.062Z
-updated: 2024-10-16T05:51:10.801Z
+date: 2024-10-18T21:52:42.238Z
+updated: 2024-10-21T17:42:44.448Z
 tags:
   - win11
   - win10
@@ -65,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
@@ -104,15 +104,22 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
@@ -134,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
@@ -164,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -184,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -205,19 +205,18 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-a-media-driver-your-computer-needs-is-missing/"><u>[Fixed] A Media Driver Your Computer Needs Is Missing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[New] 2024 Approved How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-gopro-hero5-footage-analysis-for-2024/"><u>[New] GoPro Hero5 Footage Analysis for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unbeatable-accessories-elevating-vr-games/"><u>[Updated] 2024 Approved Unbeatable Accessories Elevating VR Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-harvesting-hours-of-hilarity-friends-farming-favorites/"><u>[Updated] Harvesting Hours of Hilarity Friends' Farming Favorites</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-standard-sataahci-driver-software-quickly/"><u>How to Seamlessly Update Standard SATA/AHCI Driver Software Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-huawei-p60-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Huawei P60 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-audio-issues-resolved-reviving-your-computers-microphone/"><u>Laptop Audio Issues Resolved: Reviving Your Computer's Microphone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-solution-for-when-windows-struggles-with-system-components-setup/"><u>Master Solution for When Windows Struggles with System Components Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-the-definitive-fixes-for-error-0x80240017-on-windows/"><u>Mastering Troubleshooting: The Definitive Fixes for Error 0X80240017 on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212270873-no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/optimizing-titles-and-tags-for-improved-youtube-visibility-for-2024/"><u>Optimizing Titles and Tags for Improved YouTube Visibility for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-to-oddworld-soulstorm-laptoppc-crashing-problems/"><u>Ultimate Solution to Oddworld: Soulstorm Laptop/PC Crashing Problems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-discovering-the-quintessential-5-title-creators-online/"><u>[New] 2024 Approved Discovering The Quintessential 5 Title Creators Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-simplified-approach-to-decoding-facebook-statistics/"><u>[New] Simplified Approach to Decoding Facebook Statistics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-icue-no-device-detected-issue/"><u>[Solved] ICUE No Device Detected Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-15-must-use-hashtags-for-popularity-on-instagram-feed/"><u>[Updated] In 2024, 15 Must-Use Hashtags for Popularity on Instagram Feed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-how-to-for-multi-snapping-with-snapchat/"><u>[Updated] In 2024, The Ultimate How-To for Multi-Snapping with Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix 0X80070643 Windows Update or Installation Errors on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y100i-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Y100i Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guffaw-generator-pictorial-editor/"><u>In 2024, Guffaw Generator Pictorial Editor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-unresponsive-applications-on-samsung-smart-tvs/"><u>Step-by-Step Solution for Unresponsive Applications on Samsung Smart TVs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-play-8t-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor Play 8T.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-connector-problems-diagnosis-and-fixes-for-common-issues/"><u>USB-to-HDMI Connector Problems - Diagnosis and Fixes for Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-startup-woes-heres-how-to-get-faster-boot-speeds/"><u>Windows 7 Startup Woes? Here's How to Get Faster Boot Speeds!</u></a></li>
 </ul></div>
 

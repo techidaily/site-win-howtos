@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Eliminate Lag in Fallout 4 - 2022 Edition
-date: 2024-10-15T02:38:43.584Z
-updated: 2024-10-15T20:28:36.369Z
+date: 2024-10-19T21:37:53.917Z
+updated: 2024-10-21T20:36:33.190Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/21d750aae2719895038b2227dbe654436e7eab5cd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your video card drivers
 
  Keep in mind to update your video card drivers at regular times; otherwise an out-dated or corrupt driver may end up lowering your FPS and even preventing the game from running smoothly.
@@ -67,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/21d750aae2719895038b2227dbe654436e7eab5cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -96,6 +89,13 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
@@ -111,7 +111,21 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
@@ -127,13 +141,6 @@ Now you’re able to modify the settings of this program.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
@@ -141,16 +148,16 @@ Now you’re able to modify the settings of this program.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Uncap FPS limit
@@ -166,13 +173,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  3) After the file is opened, press**Ctrl + F** on your keyboard to invoke the**Find** dialog box. Then, type in**iPresentInterval** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
@@ -224,20 +224,22 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-bridging-language-gaps-with-translated-subs-in-igtv/"><u>[New] In 2024, Bridging Language Gaps with Translated Subs in IGTV</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-code-to-perfect-instagrams-every-time/"><u>2024 Approved Unlocking the Code to Perfect Instagrams Every Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-cameras-elevating-podcast-engagement/"><u>Best Cameras Elevating Podcast Engagement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descargar-e-importar-video-mkv-a-formato-wma-gratuito-online-con-convertidor-de-videos-movavi/"><u>Descargar E Importar Video MKV a Formato WMA Gratuito Online Con Convertidor De Videos - Movavi</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/deverrouiller-avec-succes-linstallation-du-patch-windows-section-1-advanced-problem-on-ophthalmic-emergencies/"><u>Déverrouiller Avec Succès L'Installation Du Patch Windows # Section 1: Advanced Problem on Ophthalmic Emergencies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-convert-your-m4a-audio-to-high-quality-aac-format-for-free-try-movavi-today/"><u>Effortlessly Convert Your M4A Audio to High-Quality AAC Format for Free - Try Movavi Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flac-mkv-mp4-online-flacmkv-s-movavi/"><u>FLAC, MKV에서 MP4 바로 제공 – 컴퓨터에서 Online FLAC/MKV 변환 방법s: Movavi 리소스</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-m4a-files-to-wma-format-by-movavi/"><u>Free Online Converter: Transform M4A Files to WMA Format by Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895816414-laptops-smartphones-and-books-oh-my/"><u>Laptops, Smartphones, and Books, Oh My</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/les-6-meilleurs-moyens-de-transformer-des-fichiers-videos-en-mp4-sur-un-mac/"><u>Les 6 Meilleurs Moyens De Transformer Des Fichiers Vidéos en MP4 Sur Un Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/montaggio-foto-perfetto-scopri-i-5-metodi-migliori-per-unire-fotografie-nel-mese-di-settemb/"><u>Montaggio Foto Perfetto - Scopri I 5 Metodi Migliori per Unire Fotografie Nel Mese Di Settemb</u></a></li>
-<li><a href="https://blog-min.techidaily.com/rotating-videos-on-your-android-device-a-step-by-step-guide-using-movavi-clips/"><u>Rotating Videos on Your Android Device: A Step-by-Step Guide Using Movavi Clips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-top-picks-for-screen-capture-software-expert-analysis-and-movavi-review/"><u>The Top Picks for Screen Capture Software : Expert Analysis and Movavi Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ultimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android/"><u>Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-strategies-for-winning-at-royal-match/"><u>Ultimate Strategies for Winning at 'Royal Match'</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-slow-motion-showcase-on-instagrams-trendy-reels/"><u>[New] 2024 Approved The Ultimate Slow Motion Showcase on Instagram's Trendy Reels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-which-video-player-wins-vlc-or-mx/"><u>[Updated] 2024 Approved Which Video Player Wins, VLC or MX?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stepwise-approach-for-professional-screen-recordings-in-adobe-captive-for-2024/"><u>[Updated] Stepwise Approach for Professional Screen Recordings in Adobe Captive for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>[Updated] The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-leveraging-videos-to-boost-education/"><u>Best Practices Leveraging Videos to Boost Education</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolving-torrent-download-failures-effective-strategies-and-tips/"><u>Guide: Resolving Torrent Download Failures – Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-connection-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Connection on Your Dell Device – A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-steelseries-arctis-amoanot-working-properly-solved/"><u>How to Repair Your SteelSeries Arctis Amoanot Working Properly [SOLVED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-issue-of-non-launching-overwatch-game/"><u>How to Resolve the Issue of Non-Launching Overwatch Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reconnect-and-resync-an-xbox-one-controller-that-wont-pair-up/"><u>How To: Reconnect and Resync An Xbox One Controller That Won't Pair Up</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-finest-frames-iphone-plus-android-edition-for-2024/"><u>Instagram's Finest Frames IPhone + Android Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-volume-silence-discover-how-to-restore-your-devices-sound-capabilities/"><u>Laptop Volume Silence? Discover How to Restore Your Device's Sound Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-fortnite-graphics-support-problems-with-windows-pc/"><u>Resolving Fortnite Graphics Support Problems with Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-problems-with-unsuccessful-teredo-tunneling/"><u>Resolving the Problems with Unsuccessful Teredo Tunneling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncovering-solutions-to-excessive-ps4-fan-noise-a-comprehensive-guide/"><u>Uncovering Solutions to Excessive PS4 Fan Noise: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205751880-valorant-gaming-fixes-eliminate-screen-distortion-and-enjoy-seamless-play/"><u>Valorant Gaming Fixes: Eliminate Screen Distortion & Enjoy Seamless Play.</u></a></li>
 </ul></div>
 

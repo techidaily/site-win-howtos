@@ -1,7 +1,7 @@
 ---
 title: "Origin Player's Handbook: Fixing Problematic Game Configurations and Enjoying Uninterrupted Play"
-date: 2024-10-15T03:40:39.017Z
-updated: 2024-10-16T04:01:29.560Z
+date: 2024-10-14T21:22:58.726Z
+updated: 2024-10-21T20:50:55.718Z
 tags:
   - win11
   - win10
@@ -79,11 +79,33 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then run your game again and see if your computer crashes still. If the problem remains, please move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the game files
 
@@ -92,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 * **[Epic Games Launcher](#epic)**
 * **[Ubisoft Connect](#ubisoft)**
 * **[Steam](#steam)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Epic Games Launcher**
 
@@ -111,10 +126,16 @@ To verify the game’s files on Epic Games Launcher:
 3. Wait for validation to complete. (It may take a while to verify all your files.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. When the validation is done, run your game again to see if it still cause your computer to crash.
@@ -127,15 +148,15 @@ To verify the game’s files on Ubisoft Connect:
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch your game again to see if your computer crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -148,25 +169,11 @@ To verify the game’s files on Ubisoft Connect:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then see if this game still crashes your computer. If so, please move on.
 
  If you’re using other game launcher, and you’re not sure how to verify the game files, please check the game launcher’s support manual or forum.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Check for software conflict
 
@@ -188,6 +195,13 @@ To verify the game’s files on Ubisoft Connect:
  If you’ve ensured that you have no such program installed, but your computer still crashes when a game is on, please move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: On the hardware front
 
@@ -214,22 +228,35 @@ To verify the game’s files on Ubisoft Connect:
 7. Type **memory diagnostic** , then click **Find Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the crashing problem on your computer. Then please **[move on to the next method](#sfc)** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
@@ -248,13 +275,6 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -321,17 +341,22 @@ To verify the game’s files on Ubisoft Connect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-vloggers-money-saving-camera-recommendations/"><u>[New] Vloggers' Money-Saving Camera Recommendations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>[Updated] Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
-<li><a href="https://article-files.techidaily.com/demystifying-the-viva-video-interface/"><u>Demystifying the Viva Video Interface</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-high-dynamic-range-the-essential-guide-to-modern-camera-tech/"><u>In 2024, High Dynamic Range The Essential Guide to Modern Camera Tech</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-thermaltake-massive-t-cooling-pad-worth-its-price-an-in-depth-look/"><u>Is the Thermaltake Massive T Cooling Pad Worth Its Price? An In-Depth Look</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-visuals-elevating-your-fb-storyline/"><u>Leveraging Visuals: Elevating Your FB Storyline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-missing-desktop-icons-on-your-windows-11-system-step-by-step-fix/"><u>Revive Missing Desktop Icons on Your Windows 11 System: Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-windows-10-computer-stops-responding/"><u>Solutions for When Your Windows 10 Computer Stops Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-10-from-frequently-rebooting/"><u>Step-by-Step Guide: Stop Windows 10 From Frequently Rebooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-fixes-for-error-1053-service-delayed-response/"><u>Troubleshooting Quick Fixes for 'Error 1053' - Service Delayed Response</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/valorant-stuck-break-free-from-the-cycle-erasing-endless-load-times/"><u>Valorant Stuck? Break Free From the Cycle: Erasing Endless Load Times</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-shaping-your-shots-strategies-for-solo-video-content/"><u>[New] 2024 Approved Shaping Your Shots Strategies for Solo Video Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-spotify-advertising-successfully/"><u>[Updated] In 2024, Navigating Spotify Advertising Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battling-hangs-and-lags-in-windows-11-a-user-friendly-troubleshooting-manual/"><u>Battling Hangs and Lags in Windows 11: A User-Friendly Troubleshooting Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-errcachemiss-cache-issue-tips-for-chrome-users/"><u>Eliminating ERR_CACHE_MISS Cache Issue - Tips for Chrome Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/erase-your-chatgpt-footprints/"><u>Erase Your ChatGPT Footprints</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-fixing-webcam-issues-in-windows-operating-system/"><u>Expert Advice for Fixing Webcam Issues in Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208596402-how-to-fix-surface-tablet-wont-charge-solved/"><u>How to Fix: Surface Tablet Won't Charge – Solved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-6-alternative-apps-to-periscope-for-iphoneandroid-users/"><u>In 2024, 6 Alternative Apps to Periscope for iPhone/Android Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-x50i-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor X50i Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-short-lived-vid-impression/"><u>In 2024, Short-Lived Vid Impression</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-zettingen-van-f4v-videodateien-leesbaar-tot-mp4-movavis-bestaanmakengratis/"><u>Online Zettingen Van F4V Videodateien Leesbaar Tot MP4 - Movavi's Bestaanmakengratis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-11-initialization-error-successful-fixes-and-tips/"><u>Resolve Windows 11 Initialization Error: Successful Fixes & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-of-missing-desktop-icons-in-windows-11-a-step-by-step-guide/"><u>Resolving the Mystery of Missing Desktop Icons in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-console-gaming-a-comprehensive-review-of-the-playstation-pros-4k-capabilities/"><u>Revolutionizing Console Gaming: A Comprehensive Review of the PlayStation Pro's 4K Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-cant-detect-updates-on-windows-issue/"><u>Troubleshooting Guide: Fixing 'Can't Detect Updates on Windows' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-miracast-issues-with-non-compatible-graphics-drivers/"><u>Troubleshooting Miracast Issues with Non-Compatible Graphics Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-launch-issues-with-necromunda-hired-gun-for-windows-users/"><u>Troubleshooting Persistent Launch Issues with Necromunda: Hired Gun for Windows Users</u></a></li>
 </ul></div>
 

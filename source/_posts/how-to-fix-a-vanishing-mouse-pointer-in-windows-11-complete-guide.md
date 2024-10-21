@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Vanishing Mouse Pointer in Windows 11 - Complete Guide
-date: 2024-09-13T23:46:51.206Z
-updated: 2024-09-17T18:42:22.295Z
+date: 2024-10-17T20:51:59.531Z
+updated: 2024-10-21T21:44:44.170Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -62,12 +69,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -79,25 +101,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -115,10 +131,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -144,5 +160,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-iphone-users-learn-simple-screen-recording-now-for-2024/"><u>[New] Iphone Users, Learn Simple Screen Recording Now for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-minuscule-marvels-a-comprehensive-review-of-dji-sparks-capabilities/"><u>[New] Navigating Minuscule Marvels A Comprehensive Review of DJI Spark's Capabilities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-videosnatch-quality-inspector/"><u>[Updated] VideoSnatch Quality Inspector</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fix-for-error-0x80070570-what-you-need-to-know/"><u>Comprehensive Fix for Error 0X80070570 – What You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-to-winx-blu-ray-decrypter-a-top-rated-free-solution/"><u>Comprehensive Guide to WinX Blu-Ray Decrypter - A Top Rated Free Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enjoy-uninterrupted-entertainment-with-improved-netflix-performance-on-your-computer/"><u>Enjoy Uninterrupted Entertainment with Improved Netflix Performance on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-corsair-hs7ve-mics-not-working-issue/"><u>Essential Tips for Resolving Corsair HS7ve Mics Not Working Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-device-detection-errors-with-icue-technology/"><u>Expert Tips for Overcoming Device Detection Errors with ICUE Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hardware-checklist-confirming-d3d11-supported-gpu-presence-to-run-your-favorite-software-efficiently/"><u>Hardware Checklist: Confirming D3D11 Supported GPU Presence to Run Your Favorite Software Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-logitech-g930-microphone-dropouts-and-audio-fluctuations/"><u>How To Fix Logitech G930 Microphone Dropouts and Audio Fluctuations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-poco-x6-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Poco X6?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-for-a-robust-spotify-ad-campaign/"><u>In 2024, Best Practices for a Robust Spotify Ad Campaign</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 5G Phone without PIN</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-your-gameplay-strategies-to-overcome-slow-performance-in-minecraft/"><u>Master Your Gameplay: Strategies to Overcome Slow Performance in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-battleye-setup-challenges-flawless-installation-methods/"><u>Overcome BattlEye Setup Challenges – Flawless Installation Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-devices-installed-issue-on-windows-11/"><u>Solving the 'No Audio Devices Installed' Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-disk-is-dirty-mistake-error-0x80071ac3/"><u>Understanding and Repairing 'Disk Is Dirty' Mistake (Error 0X80071AC3)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862735891-unleash-productivity-with-new-microsoft-copilot-powered-pcs-featuring-top-snapdragon-elite-x-options-today/"><u>Unleash Productivity with New Microsoft Copilot-Powered PCs, Featuring Top Snapdragon Elite X Options Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1110-fails-to-offer-contrast-control/"><u>Windows 11/10 Fails to Offer Contrast Control</u></a></li>
+</ul></div>
 

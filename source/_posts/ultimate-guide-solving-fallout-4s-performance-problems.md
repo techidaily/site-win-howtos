@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Fallout 4'S Performance Problems"
-date: 2024-10-08T20:24:38.520Z
-updated: 2024-10-15T23:15:13.840Z
+date: 2024-10-17T18:22:07.155Z
+updated: 2024-10-21T17:47:30.186Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -42,13 +49,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -58,10 +58,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
@@ -85,9 +85,23 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -103,22 +117,8 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -148,14 +148,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-innovative-youtube-intro-strategies-using-imovie/"><u>[New] Innovative YouTube Intro Strategies Using iMovie</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-and-panache-creating-perfect-crossfades/"><u>[New] Precision and Panache Creating Perfect Crossfades</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pulling-fun-on-pedal-power/"><u>[New] Pulling Fun on Pedal Power</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-convertir-facilement-et-gratuitement-votre-fichier-flash-swf-en-video-webm-avec-la-plateforme-en-ligne-de-movavi/"><u>Comment Convertir Facilement Et Gratuitement Votre Fichier Flash SWF en Vidéo WebM Avec La Plateforme en Ligne De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-audio-flac-au-format-mp3mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-movavi/"><u>Transformez Facilement Votre Audio FLAC Au Format MP3/MP4 Gratuitement Sur La Plateforme De Conversion en Ligne Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-immagini-bmp-in-gif-senza-costo-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini BMP in GIF Senza Costo Con Il Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-video-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Video Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories/"><u>[New] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[New] Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-effortless-youtube-playback-downloading-content-to-idevices/"><u>[Updated] Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-the-issues-behind-persistent-black-screens/"><u>Addressing and Repairing the Issues Behind Persistent Black Screens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-13-ultra-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi 13 Ultra has native HEVC support?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-0x80240034-glitch-a-complete-guide/"><u>Fixing the Windows 11 Update 0X80240034 Glitch: A Complete Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-accelerate-channels-youtubes-top-collaborative-growth-tips/"><u>In 2024, Accelerate Channels YouTube's Top Collaborative Growth Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keys-disobey-command/"><u>Keys Disobey Command</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/malware-mayhem-spot-and-skip-googles-misleading-bard-app/"><u>Malware Mayhem: Spot and Skip Google's Misleading Bard App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-effective-solutions-for-when-your-mouse-icon-wont-show-up/"><u>Mastering Windows 11: Effective Solutions for When Your Mouse Icon Won't Show Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209812411-troubleshooting-crackling-sound-from-your-pcs-speakers-in-windows-117-all-you-need-to-know/"><u>Troubleshooting Crackling Sound From Your PC's Speakers in Windows 11/7 - All You Need To Know.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-corrected-youtube-volume-problems-in-windows-10/"><u>Troubleshooting the Corrected YouTube Volume Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-a-frozen-dns-server-a-users-guide-to-5-swift-resolutions/"><u>Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206965730-windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!</u></a></li>
 </ul></div>
 

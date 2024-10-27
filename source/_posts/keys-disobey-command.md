@@ -1,7 +1,7 @@
 ---
 title: Keys Disobey Command
-date: 2024-10-17T17:13:47.965Z
-updated: 2024-10-21T19:00:40.791Z
+date: 2024-10-24T16:06:23.454Z
+updated: 2024-10-27T16:07:51.142Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Update your drivers**
 
  The Windows 10 freezing problem can be caused by outdated drivers. So to fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -56,23 +63,9 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check to see if your computer still freezes randomly after updating the drivers. If the problem persists, you know your drivers weren’t to blame, and you should try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Clear your computer’s temp files
 
@@ -82,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
-2) Select all the files in the Temp folder and delete them.
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
-
 <!-- affiliate ads begin -->
 <a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
   <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -93,15 +82,19 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 <img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+2) Select all the files in the Temp folder and delete them.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
+
  If Windows 10 is still randomly freezing after clearing your temp files, try the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Adjust your virtual memory**
@@ -113,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
@@ -136,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -197,6 +191,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aa0c3690c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
  If the scan finds no problems, you know your system files aren’t the cause of Windows 10 randomly freezing, and you can move on to the next fix.
@@ -245,6 +246,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
 
  If you DO see errors, it’s possible they’re causing Windows to freeze, and you should consider upgrading your disk.
@@ -259,6 +267,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-into-bios-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re not fast enough, and the logo screen disappears before you hit the Setup key, just wait for Windows to finish starting up, then restart your computer and try again.
 
  2) Once in your BIOS setup, use the arrow keys on your keyboard to navigate to the main menu. Go to**Advanced** tab, and choose the **CPU Configuration** option.
@@ -269,34 +284,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 8: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -339,16 +333,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>[Updated] Discord Broadcast Mastery The Ultimate Guide for Novices and Pros</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-tips-capturing-class-notes-efficiently/"><u>[Updated] In 2024, Mac Tips Capturing Class Notes Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-steam-services-down-problem-connectivity-fixes-that-work/"><u>Beat the 'Steam Services Down' Problem – Connectivity Fixes That Work</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-g22-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia G22</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-display-fixing-monitor-no-signal-error-in-simple-steps-for-better-performance/"><u>No Display? Fixing Monitor No Signal Error in Simple Steps for Better Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-crimson-crash-simple-solutions-for-red-screen-troubleshooting/"><u>Overcome the Crimson Crash: Simple Solutions for Red Screen Troubleshooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-microsoft-store-access-troubles-it-works/"><u>Solving Your Microsoft Store Access Troubles – It Works</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-stable-usb-connections-no-more-drops/"><u>Step-by-Step Solution for Stable USB Connections - No More Drops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-solving-nier-automata-pc-game-crashes/"><u>Troubleshooting Tips: Solving Nier: Automata PC Game Crashes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-guiding-steps-for-harmonizing-sound-amplitude-in-vlc-playback/"><u>Updated Guiding Steps for Harmonizing Sound Amplitude in VLC Playback</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-filmora-alternative-no-crack-no-risk-just-results/"><u>Updated In 2024, Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>[Updated] Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-discovering-the-hottest-templates-for-social-media-vfx/"><u>[Updated] In 2024, Discovering the Hottest Templates for Social Media VFX</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unearthing-highlighted-online-dialogue/"><u>[Updated] Unearthing Highlighted Online Dialogue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/access-all-subtitles-top-10-free-tools-for-youtube-videos-for-2024/"><u>Access All Subtitles Top 10 Free Tools for YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/banish-sound-glitches-ultimate-guide-to-resolving-audio-stutters-in-windows-11-latest-tips/"><u>Banish Sound Glitches: Ultimate Guide to Resolving Audio Stutters in Windows 11 - Latest Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-installation-issue-solved-quick-fix-guide/"><u>BattlEye Installation Issue Solved: Quick Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/break-the-cycle-of-interruptions-remedies-to-prevent-your-pc-from-freezing/"><u>Break the Cycle of Interruptions: Remedies to Prevent Your PC From Freezing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-compatible-oculus-drivers-for-your-windows-operating-system-11-10-eight-seven/"><u>Download the Newest Compatible Oculus Drivers for Your Windows Operating System (11, 10, Eight, Seven)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-repair-restoring-function-to-malfunctioning-hp-keyboard/"><u>Effortless Repair: Restoring Function to Malfunctioning HP Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-smooth-media-streaming-fixing-cast-to-device-failures-on-windows-10/"><u>Ensuring Smooth Media Streaming: Fixing Cast to Device Failures on Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-streaming-fully-functional-for-xbox-one-devotees-after-recent-fix/"><u>Netflix Streaming Fully Functional for Xbox One Devotees After Recent Fix</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-for-hp-devices-free-driver-downloads-inside/"><u>Seamless Setup for HP Devices - Free Driver Downloads Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repair-unresponsive-spacebar-in-windows-11-computers/"><u>Step-by-Step Guide to Repair Unresponsive Spacebar in Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-nonfunctional-lenovo-laptop-camera-expert-advice/"><u>Troubleshooting a Nonfunctional Lenovo Laptop Camera - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-24-fixing-this-device-is-not-present-error-on-windows-11-8-and-7/"><u>Troubleshooting Code 24: Fixing 'This Device Is Not Present' Error on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-missing-hardware-alert-code-24-on-windows-os-versions-11-8-and-7/"><u>Understanding and Repairing the Missing Hardware Alert (Code 24) on Windows OS: Versions 11, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208380318-windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures</u></a></li>
 </ul></div>
 

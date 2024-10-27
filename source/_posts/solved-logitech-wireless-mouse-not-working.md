@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Logitech Wireless Mouse Not Working"
-date: 2024-10-15T18:30:04.438Z
-updated: 2024-10-21T17:46:30.625Z
+date: 2024-10-20T16:49:09.680Z
+updated: 2024-10-27T18:34:35.016Z
 tags:
   - win11
   - win10
@@ -53,16 +53,25 @@ To check Windows Build of your PC:
 
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
-2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
-3. Once finished, click**OK** to exit the window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
+3. Once finished, click**OK** to exit the window.
 
 To check the specs of your PC:
 
@@ -71,16 +80,10 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
@@ -89,28 +92,15 @@ To check the specs of your PC:
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Total War: ROME REMASTERED still crashes, please move on to **Fix 2** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -126,8 +116,29 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Steam as administrator
 
@@ -154,19 +165,6 @@ Here’s how:
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Allow Steam through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Steam client through the firewall to make sure that the connection isn’t lost.
@@ -177,25 +175,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
@@ -206,13 +198,6 @@ Here’s how:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean boot
 
  Another possible cause for the Total War: ROME REMASTERED crashing issue is software conflict. If this is the case, you should perform a clean boot. A clean boot restarts Windows with a minimal set of drivers and startup programs, allowing you to narrow down the programs and servicies so that you could potentially pinpoint the offender.
@@ -222,6 +207,14 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
@@ -254,16 +247,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-open-air-fb-audio-downloads/"><u>[Updated] 2024 Approved Open Air FB Audio Downloads</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/abbyy-anleitung-zur-elektronischen-rechnungsstellungsmethode-im-kontext-von-rechnungsabrechnungen-ein-praktischer-leitfaden/"><u>ABBYY-Anleitung Zur Elektronischen Rechnungsstellungsmethode Im Kontext Von Rechnungsabrechnungen: Ein Praktischer Leitfaden</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Plus With or Without Password</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-discover-the-powershell-release-running-under-windows-a-detailed-guide/"><u>How to Discover the PowerShell Release Running Under Windows #: A Detailed Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-f5-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco F5 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/oddworld-soulstorm-steps-to-solve-pc-installation-problems/"><u>Oddworld: Soulstorm - Steps to Solve PC Installation Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-power-dilemma-no-more-solve-your-controllers-charging-woes-here/"><u>PS4 Power Dilemma No More - Solve Your Controller's Charging Woes Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-weak-signature-algorithms-neterrcert-enhancing-your-browsers-security/"><u>Step-by-Step Fix for Weak Signature Algorithms (NET::ERR_CERT): Enhancing Your Browser's Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-for-a-quick-clean-boot-into-windows-11-os/"><u>The Ultimate Guide for a Quick Clean Boot Into Windows 11 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-the-persistent-error-code-0x800705b4-on-your-windows-10-system/"><u>Ultimate Fixes for the Persistent Error Code 0X800705b4 on Your Windows 10 System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/web-based-gratuitous-wmv-3g2/"><u>Web-Based Gratuitous WMV 3G2 콜리즈 - 무료 변환 프로그램</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-wallpapers-and-themes-to-personalize-mbp/"><u>[New] In 2024, Essential Wallpapers & Themes to Personalize MBP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-immersive-camera-review/"><u>[Updated] Complete Immersive Camera Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-check-who-unfollowed-me-on-instagram-in-2024/"><u>[Updated] How to Check Who Unfollowed Me on Instagram, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-livestreams-with-manycam-top-notch-software-for-digital-webcams-and-remote-recording/"><u>Enhance Your Livestreams with ManyCam: Top-Notch Software for Digital Webcams and Remote Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-photo-management-on-windows-11-correcting-invalid-registry-settings/"><u>Error-Free Photo Management on Windows 11: Correcting Invalid Registry Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-improve-interactivity-between-your-epson-scanner-and-printer/"><u>How to Improve Interactivity Between Your Epson Scanner and Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-11-environment/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 11 Environment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-se-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone SE If Youve Tried Everything</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Huawei P60?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-the-windows-host-process-and-rundll32-stop-errors/"><u>Resolving Issues with the Windows Host Process and Rundll32 Stop Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-11/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211961468-the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-the-potential-of-iphone-photos-through-motion-blur-for-2024/"><u>Unleashing the Potential of iPhone Photos Through Motion Blur for 2024</u></a></li>
 </ul></div>
 

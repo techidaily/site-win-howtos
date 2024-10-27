@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Troubleshooting 'Initialization Failed' In Age of Empires 3
-date: 2024-10-17T18:55:07.386Z
-updated: 2024-10-21T18:23:05.354Z
+date: 2024-10-25T16:50:05.383Z
+updated: 2024-10-27T16:45:04.617Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Check your headset**
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 3) Try your PS4 mic again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
@@ -100,10 +100,16 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
  4) After updating the driver, restart your computer, then try your PS4 mic and see if your problem is solved.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Check the PS4 settings**
@@ -126,42 +132,35 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Output to Headphones** , and select**All Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
 ### in Windows 10
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 1**
 
@@ -189,26 +188,33 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dee8cb09cc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -218,16 +224,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
@@ -257,18 +263,15 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/resolved-permanent-mouse-shutdown-mystery/"><u>[Resolved] Permanent Mouse Shutdown Mystery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-critical-issue-no-41-resolved/"><u>[Windows] Critical Issue No. 41 Resolved</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-motion-evaluation-2023/"><u>2024 Approved In-Depth Motion Evaluation 2023</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-game-muting-mystery-reviving-sounds-on-the-latest-windows-11-system/"><u>Anthem Game Muting Mystery: Reviving Sounds on the Latest Windows 11 System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-gratis-video-editing-tools-with-split-screen-features-compare-online-and-offline-solutions/"><u>Discover the Best Gratis Video Editing Tools with Split Screen Features - Compare Online & Offline Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/explore-the-thrill-of-digital-arabic-study-with-mondlys-help/"><u>Explore the Thrill of Digital Arabic Study with Mondly's Help</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-z50-ultra-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nubia Z50 Ultra Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mystery-of-undetected-sd-solved-here/"><u>Mystery of Undetected SD Solved Here</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhance-sound-clarity-with-dynamic-range-compression-techniques/"><u>New 2024 Approved Enhance Sound Clarity with Dynamic Range Compression Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-resolve-windows-10-system-crashes-or-freezes/"><u>Steps to Resolve Windows 10 System Crashes or Freezes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-digital-soundtrack-the-ultimate-dj-collection/"><u>Updated Digital Soundtrack The Ultimate DJ Collection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-snipping-video-time-a-youtube-editors-handbook/"><u>[New] 2024 Approved Snipping Video Time A YouTube Editors' Handbook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[New] 2024 Approved The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-collageknights-syncing-videos-across-devices/"><u>[New] CollageKnights Syncing Videos Across Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-kinetics-overview-2023/"><u>2024 Approved Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-unresponsive-usb-devices-and-descriptor-request-issues-resolved/"><u>Expert Tips for Repairing Unresponsive USB Devices and Descriptor Request Issues [Resolved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-scroll-wheel-issue-on-windows-10-laptop/"><u>How to Fix Unresponsive Scroll Wheel Issue on Windows 10 Laptop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-asus-rog-phone-8mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Asus ROG Phone 8Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211287030-innovative-solutions-stop-the-halt-on-your-hamachi-connection-now/"><u>Innovative Solutions: Stop the Halt on Your Hamachi Connection Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-hiccups-for-iphoneipad-users-troubleshooting-guide/"><u>Overcoming Common iCloud Hiccups for iPhone/iPad Users: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-glitch-beat-error-8007000e-now-with-simple-fixes/"><u>Windows Update Glitch? Beat Error 8007000E Now with Simple Fixes!</u></a></li>
 </ul></div>
 

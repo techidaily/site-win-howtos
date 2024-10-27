@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2024-10-16T17:22:22.006Z
-updated: 2024-10-21T17:40:46.958Z
+date: 2024-10-21T16:44:22.139Z
+updated: 2024-10-27T18:07:24.383Z
 tags:
   - win11
   - win10
@@ -39,22 +39,44 @@ When you pay the money and look forward to enjoying the game but find that the g
 
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
-3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
-4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
-5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
 
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Reinstall the Battle.net app
 
@@ -75,21 +97,14 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -102,20 +117,21 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
 
@@ -126,13 +142,6 @@ Reinstall the Battle.net can may help you solve the issue.
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus software is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Set the Windows Secondary Logon is set to automatic
 
@@ -146,10 +155,10 @@ Reinstall the Battle.net can may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
@@ -184,13 +193,6 @@ OR
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu1.jpg)
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -212,21 +214,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-catalyze-viewers-interest-tutorial-for-traffic-triumphs/"><u>[Updated] Catalyze Viewers' Interest Tutorial for Traffic Triumphs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost-for-2024/"><u>[Updated] The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!) For 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-hosting-and-joining-google-meet-your-free-comprehensive-guidebook/"><u>2024 Approved Hosting and Joining Google Meet Your Free, Comprehensive Guidebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>2024 Approved Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banishing-blackness-solutions-for-a-netflix-visual-glitch/"><u>Banishing Blackness: Solutions for a Netflix Visual Glitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-facing-microsoft-exchange-unreachable-in-outlook/"><u>Effective Solutions When Facing 'Microsoft Exchange Unreachable' In Outlook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-msxml3-error-eliminating-issue-0x887a0006-with-precision/"><u>Effortless Fix for MsXML3 Error - Eliminating Issue 0X887A0006 with Precision</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-epson-xp-420-driver-downloaded-and-updated-today/"><u>How to Get Your Epson XP-420 Driver Downloaded & Updated Today</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-inside-how-to-repair-your-unresponsive-dell-wireless-keyboard/"><u>Solutions Inside: How to Repair Your Unresponsive Dell Wireless Keyboard</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/"><u>Sony's PS5 DualSense Controller Excellence with New Chargers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-unresponsive-ps4-mic-a-gamers-guide/"><u>Step-by-Step Fix for Unresponsive PS4 Mic: A Gamer's Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/sync-your-speech-with-visuals-the-art-of-ppt-voiceovers-for-2024/"><u>Sync Your Speech with Visuals The Art of PPT Voiceovers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-opengl-errors-in-minecraft-effective-techniques-explored/"><u>Troubleshooting Common OpenGL Errors in Minecraft – Effective Techniques Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>[New] 2024 Approved Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>[New] In 2024, Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-achieving-peak-video-clarity-with-youtubes-tools/"><u>2024 Approved Achieving Peak Video Clarity with YouTube's Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-common-setbacks-the-ultimate-guide-to-addressing-there-was-a-problem-resetting-your-pc-on-windows-11/"><u>Conquer Common Setbacks: The Ultimate Guide to Addressing 'There Was a Problem Resetting Your PC' On Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-7-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 7 Safe and Legal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-eliminate-windows-10-typing-lags-step-by-step-solution/"><u>How to Eliminate Window's 10 Typing Lags - Step-by-Step Solution</u></a></li>
+<li><a href="https://discover-data.techidaily.com/imap2024/"><u>IMAPメールを守りたい？これがおすすめ！2024年快適なバックアップソフトウェア</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>In 2024, Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-http-503-service-temporarily-unavailable/"><u>Quick Solutions for Resolving HTTP 503 - Service Temporarily Unavailable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-league-of-legends-troubleshooting-download-delays/"><u>Speeding Up League of Legends: Troubleshooting Download Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-nonfunctioning-hp-laptop-camera-in-windows-10/"><u>Step-by-Step Solution for Nonfunctioning HP Laptop Camera in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-microsoft-wireless-display-on-windows-11-solutions-revealed/"><u>Troubleshooting Your Microsoft Wireless Display on Windows 11 - Solutions Revealed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-gross-revenue-for-a-mil-viewer-spectacle/"><u>Youtube's Gross Revenue for a Mil Viewer Spectacle</u></a></li>
 </ul></div>
 

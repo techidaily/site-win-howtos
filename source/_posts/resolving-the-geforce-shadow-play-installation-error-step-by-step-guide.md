@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GeForce Shadow Play Installation Error: Step-by-Step Guide"
-date: 2024-10-16T18:21:55.907Z
-updated: 2024-10-21T20:07:44.884Z
+date: 2024-10-22T17:10:49.594Z
+updated: 2024-10-27T16:33:39.658Z
 tags:
   - win11
   - win10
@@ -52,10 +52,16 @@ It’s very easy to tether your phone on Windows 10, do these:
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
@@ -63,6 +69,13 @@ It’s very easy to tether your phone on Windows 10, do these:
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
@@ -75,10 +88,10 @@ It’s very easy to tether your phone on Windows 10, do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I fix USB tethering not working on Windows 10?
@@ -102,32 +115,32 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8c158644f0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
@@ -142,37 +155,31 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .
 
@@ -181,13 +188,6 @@ Or click **Update All**  to automatically download and install the correct versi
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
@@ -212,16 +212,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet-for-2024/"><u>[New] Go Live on YouTube From a Phone, No Need for Huge Fans Yet for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gourmet-guides-leading-food-vloggers-online-for-2024/"><u>[Updated] Gourmet Guides Leading Food Vloggers Online for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-quickly-install-the-latest-intel-iris-plus-gvt-2397-graphics-driver-seamless-experience/"><u>Easy Steps to Quickly Install the Latest Intel Iris Plus GVT-2397 Graphics Driver - Seamless Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-lenses-to-screens-reviewing-nikon-d7500/"><u>From Lenses to Screens Reviewing Nikon D7500</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-select-proper-boot-device-error-during-windows-startup-a-simple-guide/"><u>How to Solve 'Select Proper Boot Device' Error During Windows Startup – A Simple Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-hurdles-in-windows-update-procedures/"><u>Overcoming Common Hurdles in Windows Update Procedures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-inaccessible-windows-installation-services/"><u>Overcoming The Challenge of Inaccessible Windows Installation Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-errors-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Errors with These Simple Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco C51 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-path-of-data-packets-expert-tips-for-implementing-tracert-command-in-windows/"><u>Unraveling the Path of Data Packets: Expert Tips for Implementing Tracert Command in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>[New] 2024 Approved The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[Updated] In 2024, How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-traveling-back-in-social-media-years-a-practical-fb-guide/"><u>[Updated] In 2024, Traveling Back in Social Media Years A Practical FB Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>2024 Approved Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>2024 Approved Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dota-2-fix-overcome-change-rendering-api-error-2024-in-a-flash/"><u>Dota 2 Fix: Overcome 'Change Rendering API' Error 2024 in a Flash!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-enablingdisabling-network-discovery-on-your-windows-10-pc/"><u>Guide: Enabling/Disabling Network Discovery on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210759329-how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-logitechs-unresponsive-vertical-scroll-on-your-device/"><u>How to Repair Logitech's Unresponsive Vertical Scroll on Your Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x90s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X90S without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/las-mejores-tecnicas-para-rescatar-fotografias-de-un-disco-duro-viejos-en-sistemas-operativos-windows/"><u>Las Mejores Técnicas Para Rescatar Fotografías De Un Disco Duro Viejos en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-right-clicks-on-a-windows-10-pc/"><u>Step-by-Step Solution for Non-Responsive Right Clicks on a Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-fixing-non-recognized-usb-devices-and-failed-resets-on-windows-1n/"><u>Step-by-Step Troubleshooting for Fixing Non-Recognized USB Devices and Failed Resets on Windows 1N</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-logitech-scroll-wheel/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Logitech Scroll Wheel</u></a></li>
 </ul></div>
 

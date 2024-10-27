@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: When Your Bluetooth Mouse Won't Work on a Windows Machine"
-date: 2024-10-20T16:06:13.903Z
-updated: 2024-10-21T20:07:01.730Z
+date: 2024-10-23T17:45:29.076Z
+updated: 2024-10-27T18:20:08.079Z
 tags:
   - win11
   - win10
@@ -34,34 +34,28 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -76,38 +70,31 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -130,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -163,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -174,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -202,18 +196,24 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-digital-dive-essential-recording-tactics-for-shows/"><u>[New] In 2024, Digital Dive Essential Recording Tactics for Shows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>[Updated] 2024 Approved Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-video-submission-on-facebook-from-your-gadgets/"><u>[Updated] In 2024, Navigating Video Submission on Facebook From Your Gadgets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-can-a-64gb-drive-manage-large-video-files/"><u>2024 Approved Can a 64GB Drive Manage Large Video Files?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-promises-the-art-of-the-podcast-prelude/"><u>2024 Approved Premier Promises The Art of the Podcast Prelude</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-the-0xc00amage-expert-fixes-to-your-windows-error-code-problems/"><u>Decoding the 0xC00amage: Expert Fixes to Your Windows Error Code Problems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-xs-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-ethernet-network-errors-for-windows-10-and-7-users/"><u>Guide to Repairing Ethernet Network Errors for Windows 10 and 7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-mousepad-on-windows-8-and-7-step-by-step-guide/"><u>How to Fix a Non-Responsive Laptop Mousepad on Windows 8 & 7: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-non-functional-dell-usb-ports/"><u>How to Troubleshoot and Repair Non-Functional Dell USB Ports</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-corsair-keyboard/"><u>Troubleshooting Guide: How To Fix a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-usb-connection-woes/"><u>Ultimate Guide: Solving Your USB Connection Woes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/voice-memo-savvy-tips-and-tricks-for-success-for-2024/"><u>Voice Memo Savvy Tips and Tricks for Success for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[Updated] 2024 Approved Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-engagement-boosting-marketing-on-telegram-platforms/"><u>2024 Approved Elevate Engagement Boosting Marketing on Telegram Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-premium-selection-top-5-budget-friendly-vecto-portals/"><u>2024 Approved Premium Selection – Top 5 Budget-Friendly Vecto Portals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 12 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-youtube-sound-output-issue-in-windows-11-environments/"><u>Diagnosing & Fixing the Youtube Sound Output Issue in Windows 11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/diving-into-shortened-terms-alias-and-application-lifecycle/"><u>Diving Into Shortened Terms: Alias & Application Lifecycle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-diagnosing-and-correcting-the-0x80072efd-glitch-in-windows-11-systems/"><u>Expert Advice on Diagnosing and Correcting the 0X80072EFD Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-fixes-for-miracast-not-recognized-on-this-device/"><u>Latest Fixes for 'Miracast Not Recognized on This Device'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-quick-remedies-for-easy-anti-cheat-troubles-in-apee-legends/"><u>Master the Quick Remedies for Easy Anti-Cheat Troubles in Apee Legends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-new-ios-16-a-step-by-step-guide-to-using-photo-cutout-on-your-iphone/"><u>Mastering the New iOS 16: A Step-by-Step Guide to Using Photo Cutout on Your iPhone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-beat-blend-benders-a-curated-list-of-highest-rated-audio-synchronization-editors-2023/"><u>New 2024 Approved Beat Blend Benders A Curated List of Highest-Rated Audio-Synchronization Editors, 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-red-magic-8s-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Red Magic 8S Pro.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-uploads-mastered-unveiling-5-effortless-techniques-for-accelerating-your-youtube-video-publishing/"><u>Speedy Uploads Mastered: Unveiling 5 Effortless Techniques for Accelerating Your YouTube Video Publishing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-high-fidelity-video-conversion-to-dvd-for-2024/"><u>Top Strategies for High-Fidelity Video Conversion to DVD for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-war-rome-remastered-how-to-fix-the-latest-game-crash-issues/"><u>Total War Rome Remastered - How To Fix The Latest Game Crash Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-arrow-keys-discover-easy-fixes-to-restore-functionality/"><u>Trouble with Arrow Keys? Discover Easy Fixes to Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-expired-semaphore-time-limit-error-0x80070079/"><u>Troubleshooting and Repairing the Expired Semaphore Time Limit (Error 0X80070079)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-pubg-loads-failure-for-in-game-structures/"><u>Troubleshooting PUBG Loads Failure for In-Game Structures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcome-the-extended-semaphore-connection-timeout-error-code-0x80070079/"><u>Troubleshooting: Overcome the Extended Semaphore Connection Timeout (Error Code 0X80070079)</u></a></li>
 </ul></div>
 

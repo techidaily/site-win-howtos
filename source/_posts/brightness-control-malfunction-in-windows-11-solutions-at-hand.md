@@ -1,7 +1,7 @@
 ---
 title: Brightness Control Malfunction in Windows 11 - Solutions at Hand
-date: 2024-10-17T18:02:07.586Z
-updated: 2024-10-21T20:11:17.637Z
+date: 2024-10-26T17:13:43.708Z
+updated: 2024-10-27T16:28:31.051Z
 tags:
   - win11
   - win10
@@ -52,31 +52,25 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -86,29 +80,38 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -120,10 +123,10 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
@@ -134,13 +137,6 @@ To run SFC:
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -179,22 +175,14 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>[New] 2024 Approved Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C51 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/dissecting-drama-introducing-chapters-to-video-content/"><u>Dissecting Drama Introducing Chapters to Video Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-steps-transforming-mkv-files-into-quicktime-mov-or-mp4-format-on-pc-and-mac/"><u>Easy Steps: Transforming MKV Files Into QuickTime MOV or MP4 Format on PC and Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-stuck-or-unresponsive-function-key-issues-on-your-dell-laptop-expert-tips-and-tricks/"><u>Fixing Stuck or Unresponsive Function Key Issues on Your Dell Laptop: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-overcome-the-windows-update-issue-x0x800704c7/"><u>How to Easily Overcome the Windows Update Issue: X0x800704C7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-hp-laptop-webcam-working-again-in-windows-10-a-comprehensive-guide/"><u>How to Get Your HP Laptop Webcam Working Again in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-function-keys-when-they-arent-responding/"><u>How To Restore Your Function Keys When They Aren't Responding</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-faster-periscope-streams/"><u>In 2024, The Ultimate Guide Faster Periscope Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/making-content-universal-how-to-insert-text-overlays-in-ig-stories/"><u>Making Content Universal: How to Insert Text Overlays in IG Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-digital-ink-repair-a-complete-tutorial-for-fixing-steelseries-x70-pen-issues/"><u>Mastering the Art of Digital Ink Repair: A Complete Tutorial for Fixing SteelSeries X70 Pen Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-master-your-setlist-top-dj-audio-repositories/"><u>New 2024 Approved Master Your Setlist Top DJ Audio Repositories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-wait-successful-troubleshooting-for-windows-10s-99-update-issue/"><u>Overcome the Endless Wait: Successful Troubleshooting for Windows 10'S 99% Update Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209178918-overcome-window-11s-touchscreen-woes-here-are-5-tips-for-quick-repairs/"><u>Overcome Window 11'S Touchscreen Woes? Here Are 5 Tips for Quick Repairs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-end-of-frustrating-input-delay-in-cyberpunk-2077-solutions-applied/"><u>The End of Frustrating Input Delay in Cyberpunk 2077 - Solutions Applied</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205247765-troubleshooting-and-solving-windows-11s-0x800705b4-update-issue-successfully/"><u>Troubleshooting and Solving Windows 11'S 0X800705b4 Update Issue Successfully!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-followers-to-fans-a-guide-to-thriving-instagram-presence-for-2024/"><u>[New] From Followers to Fans A Guide to Thriving Instagram Presence for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-top-tier-phone-apps-evolving-how-you-communicate/"><u>[New] The Top-Tier Phone Apps Evolving How You Communicate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-for-a-windows-computers-unresponsive-bluetooth-mouse/"><u>Common Fixes for A Windows Computer's Unresponsive Bluetooth Mouse</u></a></li>
+<li><a href="https://fox-that.techidaily.com/do-not-miss-alerts-get-essential-guidance-on-configuring-dnd-settings-for-iphones-to-receive-messages-and-calls/"><u>Do Not Miss Alerts: Get Essential Guidance on Configuring DND Settings for iPhones to Receive Messages and Calls!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a54-5g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A54 5G can't play MP4 video files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-overwatch-voice-chatting-fast-and-effective-solutions/"><u>Troubleshoot Overwatch Voice Chatting: Fast & Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-bluetooth-keyboard-connection-with-your-computer/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Bluetooth Keyboard Connection with Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80n2efd-problem-on-windows-11-solutions-unveiled/"><u>Troubleshooting the 0X80n2EFD Problem on Windows 11 – Solutions Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Touchpad Troubles? Reveal & Repair Guide Awaits
-date: 2024-10-19T18:58:57.959Z
-updated: 2024-10-21T17:15:20.474Z
+date: 2024-10-25T17:49:44.913Z
+updated: 2024-10-27T17:50:51.423Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 5. **[Repair corrupt files](#fix-4)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Show hidden devices in Device Manager
@@ -48,28 +48,37 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
 6. Check if**Touchpad** is in the Devices list now. If it does, click the toggle to**On** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-touchpad.jpg)  
- If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-touchpad.jpg)  
+ If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 ---
 
@@ -80,29 +89,37 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 1. On your keyboard, press **the Windows logo key** and **X** at the same time. Then select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
@@ -119,10 +136,10 @@ OR
 **[Option 2 – Automatically (recommended)](#option-2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
@@ -151,6 +168,13 @@ OR
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Configure the BIOS settings
 
@@ -182,13 +206,6 @@ Assigned BIOS hotkey
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Repair corrupt files
 
  If none of the above fixes work for you, you might want to consider**a holistic scan for a file check** on your PC. Because if your computer has corrupted system files or critical system files missing, your touchpad also won’t function properly.
@@ -198,13 +215,6 @@ Assigned BIOS hotkey
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
@@ -247,19 +257,14 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>[Updated] Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>[Updated] In 2024, Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/approach-consider-the-role-of-uncertainty-in-seismic-design/"><u>Approach: Consider the Role of Uncertainty in Seismic Design.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-the-thrill-in-hd-the-breakthrough-polaroid-xs-100i-review-for-2024/"><u>Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effiziente-methoden-mehrfach-computer-synchronisation-mit-google-drive/"><u>Effiziente Methoden: Mehrfach-Computer-Synchronisation Mit Google Drive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-acting-fixes-to-overcome-windows-update-error-0x80070652/"><u>Fast-Acting Fixes to Overcome Windows Update Error 0X80070652</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-troubleshooting-non-functional-right-click-on-your-mouse/"><u>Fixing Windows 10: Troubleshooting Non-Functional Right Click on Your Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-chrome-plugin-failure-to-load-errors-on-windows-10-an-expert-walkthrough/"><u>How To Fix 'Chrome Plugin Failure to Load' Errors On Windows 10: An Expert Walkthrough</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-secure-clear-image-collections/"><u>In 2024, Steps to Secure, Clear Image Collections</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-cinematic-edge-master-the-top-5-camera-skills/"><u>In 2024, The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-obs-desktop-sound-recording-problems/"><u>Step-by-Step Solutions for OBS Desktop Sound Recording Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-windows-10-computer/"><u>Troubleshooting Steps for a Non-Responsive Windows 10 Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-why-your-pc-wont-update-windows-easy-fixes-inside/"><u>Troubleshooting: Why Your PC Won't Update Windows – Easy Fixes Inside!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-best-full-screen-recorders-windows-and-macos-version/"><u>[New] Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[New] From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-actions-for-the-infamous-error-0x80071ac3-volume-issue/"><u>Corrective Actions for the Infamous Error 0X80071AC3: Volume Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchpad-functionality-when-scrolling-fails-in-windows-11/"><u>How to Restore Touchpad Functionality When Scrolling Fails in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-avs-video-editor-review-the-good-the-bad-and-the-ugly/"><u>New AVS Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-corrupted-windows-store-cache/"><u>Resolved: How to Fix Corrupted Windows Store Cache</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-wudfhostexe-cpu-load-in-windows-10-systems/"><u>Troubleshooting High wudfhost.exe CPU Load in Windows 10 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-10-18T18:35:46.420Z
-updated: 2024-10-21T21:35:59.049Z
+date: 2024-10-25T16:52:31.992Z
+updated: 2024-10-27T18:17:57.047Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -75,10 +82,10 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -111,32 +118,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -149,16 +143,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -190,20 +190,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[New] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording/"><u>[Updated] Elevating Sims 4 Chronicles Advanced Techniques for Precise Game Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-revolutionize-your-branding-strategy-with-access-to-a-vast-library-of-free-youtube-banners-for-2024/"><u>[Updated] Revolutionize Your Branding Strategy with Access to a Vast Library of Free YouTube Banners for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-czech-language-the-internet-advantage/"><u>Conquer Czech Language: The Internet Advantage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-tackle-and-fix-the-window-11-black-display-issue/"><u>Effective Ways to Tackle and Fix the Window 11 Black Display Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11s-low-memory-error-a-comprehensive-guide/"><u>Fixing Windows 11'S Low Memory Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-standard-to-supreme-mastering-sdr-to-hdr-video-upgrade/"><u>From Standard to Supreme Mastering SDR-to-HDR Video Upgrade</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/key-factors-to-assess-when-purchasing-a-lock-free-mobile-device/"><u>Key Factors to Assess When Purchasing a Lock-Free Mobile Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/latest-fixes-for-the-device-cant-cast-with-miracast-problem/"><u>Latest Fixes for the 'Device Can't Cast With Miracast' Problem</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastery-over-music-flow-the-art-of-audio-blending-for-2024/"><u>Mastery Over Music Flow The Art of Audio Blending for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-error-troubleshooting-failed-temp-folder-execution-and-setup-interruption/"><u>Resolve 'Access Denied' Error: Troubleshooting Failed Temp Folder Execution and Setup Interruption</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-trustinstaller-approval-your-guide-to-file-modification-authorization/"><u>Securing TrustInstaller Approval: Your Guide to File Modification Authorization</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-for-removing-macos-software-disentangling-from-macx-dvd-ripper-pro/"><u>Step-by-Step Instructions for Removing macOS Software: Disentangling From MacX DVD Ripper Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-review-of-knack-one-of-a-kind-protagonist-trapped-in-a-recycled-gaming-world/"><u>The Review of Knack: One-of-a-Kind Protagonist Trapped in a Recycled Gaming World</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-media-playback-errors-solved-correcting-missing-source-issues-efficiently/"><u>Windows Media Playback Errors Solved: Correcting Missing Source Issues Efficiently</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[New] Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-action-camera-guide-exploring-sj-cam-s6s-capabilities-for-2024/"><u>[New] Ultimate Action Camera Guide Exploring SJ-CAM S6's Capabilities for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discovering-10-prime-microphones-for-podcasting-for-2024/"><u>[Updated] Discovering 10 Prime Microphones for Podcasting for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[Updated] In 2024, The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gaming-on-record-the-pros-perspective/"><u>2024 Approved Gaming on Record The Pro's Perspective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-non-working-night-mode-in-windows-10-and-11-step-by-step-guide/"><u>How To Fix The Non-Working Night Mode in Windows 10 & 11 - Step by Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-defy-2-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-iphone-and-selfies-unite-our-top-8-gear-guide/"><u>In 2024, Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-system-preferences-how-organizations-control-windows-settings/"><u>Managing System Preferences: How Organizations Control Windows Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-wrong-letters-during-computer-inputs/"><u>Solving the Problem of Wrong Letters During Computer Inputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-nonfunctional-fn-key-issues-on-your-dell-laptop/"><u>Troubleshoot and Resolve Nonfunctional 'FN' Key Issues on Your Dell Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-solving-the-0x80070490-windows-updates-error-code/"><u>Ultimate Guide to Solving the 0X80070490 Windows Updates Error Code</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2024-10-17T20:06:38.337Z
-updated: 2024-10-21T21:09:30.583Z
+date: 2024-10-22T17:43:08.712Z
+updated: 2024-10-27T17:02:57.179Z
 tags:
   - win11
   - win10
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
@@ -71,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
@@ -79,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3\. Update your WiFi driver
@@ -101,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
@@ -157,22 +163,24 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-next-gen-streaming-enable-av1-codec-on-youtube-for-2024/"><u>[Updated] Next-Gen Streaming Enable AV1 Codec on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-12-proplus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme 12 Pro+ 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-high-msmpeng-cpu-usage-on-windows-11-step-by-step/"><u>Diagnosing and Solving High MsMpEng CPU Usage on Windows 11 – Step by Step</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-hard-drive-utilization-caused-by-microsofts-compatibility-feedback-on-windows-10/"><u>How to Fix Elevated Hard Drive Utilization Caused by Microsoft's Compatibility Feedback on Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-7-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 7 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-increasing-clarity-with-enhanced-youtube-videos/"><u>In 2024, Increasing Clarity with Enhanced YouTube Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210015030-no-more-windows-update-issues-solve-error-8007000e-in-minutes/"><u>No More Windows Update Issues - Solve Error 80#07000E in Minutes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pcm-pulse-code-modulation/"><u>PCM (Pulse Code Modulation)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-itel-p55plus-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Itel P55+ has been deleted</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-the-there-was-an-issue-restoring-your-pc-error-in-windows-11-step-by-step-fix/"><u>Resolve the 'There Was an Issue Restoring Your PC' Error in Windows 11 - Step-by-Step Fix</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/romantic-prose-crafting-conversations-in-rome/"><u>Romantic Prose: Crafting Conversations in Rome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/smooth-viewing-overcoming-freezing-problems-with-netflix-online-movie-service/"><u>Smooth Viewing: Overcoming Freezing Problems with Netflix Online Movie Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-rpc-server-cant-find-your-computer-issue-on-windows-step-by-step-guide/"><u>Solving the 'RPC Server Can't Find Your Computer' Issue on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-great-debate-who-outshines-the-other-tiktok-vs-snapchat-for-2024/"><u>The Great Debate Who Outshines the Other? - TikTok vs Snapchat for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-unexpected-device-powers-off-a-complete-solution-for-computer-stability-issues/"><u>Understanding Unexpected Device Powers Off: A Complete Solution for Computer Stability Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-creme-de-la-creme-of-mac-snipers-for-2024/"><u>[New] Discover the Crème De La Crème of Mac Snipers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solvedwhat-is-mse-and-why-microsoft-security-essentials-mssecesexe-high-disk-usage/"><u>[Solved]What Is MSE and Why Microsoft Security Essentials (msseces.exe) High Disk Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos/"><u>2024 Approved Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a23-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-guide-resolving-issues-with-your-stylus-on-xperia-devices/"><u>Complete Step-by-Step Guide: Resolving Issues with Your Stylus on Xperia Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-windows-error-the-case-of-the-d3dxx32dll-that-wont-load/"><u>Easy Fixes for Windows Error - The Case of the d3dxx_32.dll That Won't Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-broken-lenovo-f-key-with-ease/"><u>Expert Advice: Restoring Functionality to a Broken Lenovo F-Key with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-the-persistent-black-screen-when-bootinng-up-overwatch/"><u>Expert Tips and Fixes for the Persistent Black Screen when Bootinng Up Overwatch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-your-racetrack-roar-expert-solutions-for-restoring-sounds-in-forza-horizon-4/"><u>Get Back Your Racetrack Roar: Expert Solutions for Restoring Sounds in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-detecting-bluetooth-gadgets-on-your-windows-update/"><u>How to Enable Detecting Bluetooth Gadgets on Your Windows # Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ideal-images-finding-the-perfect-screen-moments-for-2024/"><u>Ideal Images Finding the Perfect Screen Moments for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-bring-your-memories-to-life-how-to-make-a-dvd-with-movie-making-software-for-2024/"><u>New Bring Your Memories to Life How to Make a DVD with Movie Making Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-voice-over-checklist-best-practices-for-final-cut-pro-for-2024/"><u>New The Ultimate Voice Over Checklist Best Practices for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-platforms-for-virtual-shows/"><u>Premium Platforms for Virtual Shows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-rpc-server-unreachable-issue-on-your-windows-pc/"><u>Resolving the 'RPC Server Unreachable' Issue on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-overcoming-geforce-experience-launch-failures/"><u>Step-by-Step Tutorial on Overcoming GeForce Experience Launch Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-solving-common-oculus-hardware-issues/"><u>Troubleshooting Tips: Solving Common Oculus Hardware Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-cutting-edge-technology-in-the-current-ipad-series/"><u>Unveiling the Cutting-Edge Technology in the Current iPad Series</u></a></li>
 </ul></div>
 

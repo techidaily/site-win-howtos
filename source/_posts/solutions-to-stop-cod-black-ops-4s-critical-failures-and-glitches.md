@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches
-date: 2024-10-20T21:38:45.134Z
-updated: 2024-10-21T20:42:35.595Z
+date: 2024-10-20T16:57:33.782Z
+updated: 2024-10-27T17:23:21.934Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -56,13 +50,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -72,6 +59,13 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -86,6 +80,13 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -115,6 +116,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -134,13 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -149,27 +150,26 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,16 +205,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-tips-for-maximizing-harvests-in-valheims-agriculture/"><u>[New] In 2024, Essential Tips for Maximizing Harvests in Valheim's Agriculture</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-animated-visuals-on-discord-without-nitro-subscription/"><u>[Updated] 2024 Approved Unlocking Animated Visuals on Discord without Nitro Subscription</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[Updated] Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/pc-ssd/"><u>「PC SSDデータ回収・復元ガイド - 手軽なステップバイステップツール」</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tech-picks-for-entering-and-thriving-in-the-metaverse/"><u>2024 Approved Top Tech Picks for Entering and Thriving in the Metaverse</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726029097895-amv/"><u>安全で簡単なAMVファイル交換ソフトとオンラインリポジトリ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-methods-to-resolve-windows-file-system-errors-and-enhance-stability/"><u>Essential Methods to Resolve Windows File System Errors and Enhance Stability</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-verdict-on-corsair-one-pro-elevating-gameplay-with-advanced-tech-and-design/"><u>Expert Verdict on Corsair One Pro: Elevating Gameplay with Advanced Tech & Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-and-fortify-explore-crashes-in-win/"><u>Fix and Fortify: Explore Crashes in Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-steam-store-not-loading-problem-tips-and-solutions-for-gamers/"><u>Solving 'Steam Store Not Loading' Problem: Tips & Solutions for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-nonresponsive-windows-key-on-windows-10-pcs/"><u>The Ultimate Fix for a Nonresponsive Windows Key on Windows 10 PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-content-cultivating-capital-your-videography-voyage/"><u>[New] Crafting Content, Cultivating Capital Your Videography Voyage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-chic-and-stylish-beauty-videos/"><u>2024 Approved Chic and Stylish Beauty Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009585133-battlefront-iis-shader-woes-master-quick-tweaks-for-smoother-gameplay/"><u>Battlefront II's Shader Woes? Master Quick Tweaks for Smoother Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209969663-dell-keyboard-woes-heres-how-to-get-it-working-again/"><u>Dell Keyboard Woes? Here’s How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-random-auto-shutdown-on-your-pc-a-step-by-step-solution/"><u>Diagnosing & Repairing Random Auto-Shutdown on Your PC: A Step-by-Step Solution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-computer/"><u>How to Restore Brightness Control Functionality on Your Windows 지대 11 Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-13-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 13 Pro Max Is Unlocked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-error-in-directx-a-complete-guide/"><u>Resolving the 'Unrecoverable Error' In DirectX: A Complete Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora-for-2024/"><u>Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-fixes-for-error-code-224003-unblock-your-video-files-now/"><u>Troubleshoot Fixes for 'Error Code 224003' - Unblock Your Video Files Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/two-finger-scroll-not-working-solved/"><u>Two Finger Scroll Not Working [Solved]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-potential-snapchats-business-toolkit-for-2024/"><u>Unlocking Potential Snapchat's Business Toolkit for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-over-sleep-mode-glitch-user-friendly-methods-to-keep-your-pc-awake-all-night-long/"><u>Win Over Sleep Mode Glitch: User-Friendly Methods to Keep Your PC Awake All Night Long!</u></a></li>
 </ul></div>
 

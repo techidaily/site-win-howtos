@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2024-10-17T20:03:49.081Z
-updated: 2024-10-21T16:17:55.403Z
+date: 2024-10-22T18:11:22.555Z
+updated: 2024-10-27T18:09:52.367Z
 tags:
   - win11
   - win10
@@ -50,16 +50,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
@@ -78,18 +78,33 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -102,34 +117,28 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -168,20 +177,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-tickletech-design-easy-entertaining-visuals/"><u>[New] 2024 Approved TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-captivate-audiences-and-gain-traction-with-youtube-shorts-for-2024/"><u>[New] How to Captivate Audiences and Gain Traction with YouTube Shorts for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-key-to-click-through-success-top-thumbnail-size-recommendations/"><u>[New] The Key to Click-Through Success Top Thumbnail Size Recommendations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>[New] Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clearing-the-glitch-enabling-and-repairing-hp-laptops-camera-for-seamless-video-calls-in-windows-11/"><u>Clearing the Glitch: Enabling and Repairing HP Laptop's Camera for Seamless Video Calls in Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341739768-exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fatal-error-no-more-step-by-step-fix-for-the-notorious-installation-issue-1603/"><u>Fatal Error No More: Step-by-Step Fix for the Notorious 'Installation Issue 1603'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-unavailable-code-24-for-windows-operating-systems-11-8-and-7/"><u>How to Resolve 'Device Unavailable (Code 24)' For Windows Operating Systems: 11, 8, and 7</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revisiting-youtubes-archive-two-proven-watch-strategies/"><u>In 2024, Revisiting Youtube's Archive Two Proven Watch Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-through-windows-setbacks-a-step-by-step-guide-for-resolving-error-0x80070643/"><u>Navigating Through Windows Setbacks: A Step-by-Step Guide for Resolving Error 0X80070643</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971364468-overcoming-common-challenges-in-intels-dptf-driver-setup-and-compatibility-woes-solved/"><u>Overcoming Common Challenges in Intel's DPTF Driver Setup and Compatibility Woes Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-1110-visual-glitches-the-guide-to-overcoming-picture-problems/"><u>Resolving Windows 11/10 Visual Glitches: The Guide to Overcoming Picture Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-windows-administrative-privileges-needed-errors-windows-11107/"><u>Understanding and Resolving Windows Administrative Privileges Needed Errors (Windows 11/10/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-update-progress-on-your-windows-11-pc-with-effective-fixes/"><u>Unlocking Update Progress on Your Windows 11 PC with Effective Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-timepiece-insight-on-price-points-launch-date-and-potential-tech-innovations/"><u>Upcoming Google Pixel Timepiece - Insight on Price Points, Launch Date & Potential Tech Innovations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-rank-the-best-fb-video-downloaders-heres-how/"><u>[New] Rank the Best FB Video Downloaders - Here's How</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-finest-4-sites-for-tones/"><u>[New] Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-express-yourself-accessibility-available-for-free/"><u>[Updated] 2024 Approved Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-complete-resource-lacking-response/"><u>Configuration Complete; Resource Lacking Response</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206639669-geforce-shadowplay-not-working-heres-how-to-get-it-up-and-running/"><u>GeForce ShadowPlay Not Working? Here's How to Get It Up and Running!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2vwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2Vwith/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y02t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y02T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-google-pixel-8-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Google Pixel 8 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-picture-warping-techniques-with-various-apps/"><u>In 2024, Mastering Picture Warping Techniques with Various Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dell-laptops-dead-keys-expert-fixes-for-non-responsive-buttons/"><u>Revive Your Dell Laptop's Dead Keys: Expert Fixes for Non-Responsive Buttons</u></a></li>
+<li><a href="https://facebook.techidaily.com/steering-away-from-sensational-selfies-sharing-at-meta/"><u>Steering Away From Sensational Selfies Sharing at Meta</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-innovative-lenovo-x1-fold-laptoptablet-hybrid-an-in-depth-review/"><u>The Innovative Lenovo X1 Fold Laptop/Tablet Hybrid - An In-Depth Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-usb-to-hdmi-adapter-connect-solving-common-issues/"><u>Why Won't My USB to HDMI Adapter Connect? Solving Common Issues</u></a></li>
 </ul></div>
 

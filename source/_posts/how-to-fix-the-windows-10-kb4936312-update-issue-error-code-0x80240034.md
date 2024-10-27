@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)"
-date: 2024-10-15T19:53:11.864Z
-updated: 2024-10-21T19:56:00.944Z
+date: 2024-10-26T16:27:55.004Z
+updated: 2024-10-27T18:09:12.824Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -72,38 +58,24 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
@@ -147,22 +119,15 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
@@ -172,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -203,15 +175,36 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -224,13 +217,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  2) Type **regedit** and press**Enter** . You may need to provide the administrative right to open, click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
@@ -268,11 +254,31 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -297,19 +303,22 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-maximizing-4k-imaging-top-lens-choices/"><u>[New] 2024 Approved Maximizing 4K Imaging Top Lens Choices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mental-marathon-best-trivia-videos-online/"><u>[New] In 2024, Mental Marathon Best Trivia Videos Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-youtube-studio-editing-handbook-for-2024/"><u>[New] The Ultimate YouTube Studio Editing Handbook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>[Updated] 2024 Approved Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-utilize-siri-speech-for-enhanced-content-on-tiktok-apps/"><u>[Updated] In 2024, How to Utilize Siri Speech for Enhanced Content on TikTok Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-left-click-on-computer-mice/"><u>Easy Fixes for a Non-Responsive Left Click on Computer Mice</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-90-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 90 FRP</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-exploring-vlcs-screen-recorder-features/"><u>In 2024, Exploring VLC's Screen Recorder Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209309001-livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastery-over-kernel32-faults/"><u>Mastery over Kernel32 Faults</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-how-to-fix-an-unresponsive-google-chrome-instance/"><u>Resolving the Issue: How to Fix an Unresponsive Google Chrome Instance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-malfunctioning-keys-preceding-user-logon/"><u>Solution for Malfunctioning Keys Preceding User Logon</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-getting-microsoft-print-to-pdf-feature-up-and-running-on-windows-1011/"><u>Step-by-Step: Getting Microsoft Print to PDF Feature Up and Running on Windows 10/11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transforming-trending-searches-into-video-concepts-for-2024/"><u>Transforming Trending Searches Into Video Concepts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-comprehensive-guide-to-superior-recordings-in-audacity/"><u>[New] 2024 Approved The Comprehensive Guide to Superior Recordings in Audacity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-curated-list-of-top-9-virtual-mic-recorder-systems-23/"><u>[Updated] Expertly Curated List of Top 9 Virtual Mic Recorder Systems ('23)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-your-lenovo-laptop-camera-stops-functioning/"><u>Effective Solutions for When Your Lenovo Laptop Camera Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-bad-image-error-on-your-windows-11windows-10-device/"><u>How to Correct a Bad Image Error on Your Windows 11/Windows 10 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-10-computers/"><u>How to Fix High Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-codec-driver-issues-under-windows-11/"><u>How To Fix IDT HD Audio Codec Driver Issues Under Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-a38-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo A38? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>In 2024, Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-aspect-ratios-for-video-production-for-2024/"><u>Optimal Aspect Ratios for Video Production for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-detected-errors-for-our-data-centers-in-halo-infinite-gameplay/"><u>Overcoming Detected Errors for Our Data Centers in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-6-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 6 Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-update-mishap-error-0xc19n0208-solution-explained/"><u>Resolving Windows 10'S Update Mishap - Error 0Xc19n0208 Solution Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-repair-tips-for-resolving-stubborn-usb-port-issues-effectively/"><u>Seamless Repair Tips for Resolving Stubborn USB Port Issues Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-effective-solutions-for-persistent-mouse-disconnection-issues/"><u>Solving the Dilemma: Effective Solutions for Persistent Mouse Disconnection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-using-too-much-power-optimize-your-pc-with-these-windows-10-tips/"><u>Svchost.exe Using Too Much Power? Optimize Your PC with These Windows 10 Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-crackling-sounds-from-speakers-on-microsoft-operating-systems/"><u>Troubleshooting Crackling Sounds From Speakers on Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-hackers-flock-to-chatgpt-platforms/"><u>Why Hackers Flock to ChatGPT Platforms?</u></a></li>
 </ul></div>
 

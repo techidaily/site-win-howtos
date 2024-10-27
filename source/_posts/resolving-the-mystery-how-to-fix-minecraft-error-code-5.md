@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Mystery: How to Fix Minecraft Error Code 5"
-date: 2024-10-20T17:01:57.392Z
-updated: 2024-10-21T17:52:21.278Z
+date: 2024-10-21T18:04:55.890Z
+updated: 2024-10-27T16:16:36.439Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Connect to the Destiny 2 server in another time
@@ -62,36 +62,37 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
@@ -103,21 +104,29 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -153,22 +162,21 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-7-dslr-cameras-for-vlogging/"><u>[New] Best 7 DSLR Cameras for Vlogging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-dissection-gopro-silver-hero4-model-insight/"><u>[New] Full Dissection GoPro Silver Hero4 Model Insight</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-learn-to-harness-funimates-downloading-power/"><u>[New] Learn to Harness Funimate's Downloading Power</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-ppt-recording-tactics-and-tricks/"><u>[Updated] Professional PPT Recording Tactics and Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciding-between-the-two-a-detailed-look-at-apple-watch-series-9-vs-fitbit-charge-6/"><u>Deciding Between the Two: A Detailed Look at Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-the-failed-to-initialize-problem-with-battleye-services/"><u>Effective Solutions to Fix the 'Failed To Initialize' Problem with BattlEye Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-32-bit-applications-print-driver-host-malfunctioning-issue/"><u>How to Fix: 32-Bit Application's Print Driver Host Malfunctioning Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-not-responding-in-windows-heres-how-you-can-repair-it-win1087/"><u>Laptop Trackpad Not Responding in Windows? Here's How You Can Repair It (Win10/8/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-ui-bugs-how-to-fix-failed-renderer-startups-after-applying-new-patches/"><u>Mastering UI Bugs: How to Fix Failed Renderer Startups After Applying New Patches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-bluetooth-not-found-on-windows-11-a-step-by-step-guide/"><u>Resolve 'Bluetooth Not Found' On Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/tecnicas-simplificadas-para-recuperar-datos-borrados-en-iphone-sin-respaldo/"><u>Técnicas Simplificadas Para Recuperar Datos Borrados en iPhone Sin Respaldo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-overcoming-unsupported-miracast-devices-errors/"><u>The Ultimate Guide to Overcoming Unsupported Miracast Devices Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-handheld-recording-gadgets/"><u>Top 15 Handheld Recording Gadgets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformez-votre-fichier-tous-types-en-film-mov-sans-frais-gratuit-avec-movavi/"><u>Transformez Votre Fichier Tous Types en Film MOV Sans Frais - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixed-keyboard-shortcut-windowsplusshiftpluss-issue-on-windows-11-and-10/"><u>Troubleshooting Fixed: Keyboard Shortcut Windows+Shift+S Issue on Windows 11 and 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restore-night-mode-functionality-in-windows-11/"><u>Troubleshooting Guide: How to Restore Night Mode Functionality in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nocostscreen-record-your-game-share-freely-2024/"><u>[New] NoCostScreen Record Your Game, Share Freely, 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scoping-out-superior-cloud-platforms-for-secure-storing/"><u>[New] Scoping Out Superior Cloud Platforms for Secure Storing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>[New] Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>[Updated] In 2024, Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-rookie-riches-profitable-sites-for-beginnere-buyouts/"><u>[Updated] In 2024, Rookie Riches Profitable Sites for Beginner'e Buyouts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-a-broken-spacebar-on-your-windows-10-pc-expert-tips-and-tricks/"><u>Dealing with a Broken Spacebar on Your Windows 10 PC – Expert Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/free-endless-archive-of-instagram-highlights-for-2024/"><u>FREE Endless Archive of Instagram Highlights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-windows-unable-to-access-sen-issue-resolved/"><u>Guide to Fixing 'Windows Unable to Access SEN' - Issue Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-eliminate-the-persistent-bright-scarlet-error-on-your-pc-windows-10-solution/"><u>How to Eliminate the Persistent Bright Scarlet Error on Your PC (Windows 10 Solution)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-aoc-monitor-with-windows-10-troubleshooting-tips/"><u>How to Repair an Unresponsive AOC Monitor with Windows 10: Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/remove-automatically-suggested-podcasts-from-your-spotify-playlist-for-2024/"><u>Remove Automatically Suggested Podcasts From Your Spotify Playlist for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-tips-for-d3derr-not-available-issue/"><u>Step-by-Step Troubleshooting Tips for 'D3DERR Not Available' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-windows-experience-fixing-dwms-impact-on-gpu-resources-in-win11-and-win10-a-5-step-guide/"><u>Streamline Your Windows Experience: Fixing DWM's Impact on GPU Resources in Win11 and Win10 – A 5-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-stuck-buttons-on-your-windows-keyboard/"><u>The Ultimate Solution for Stuck Buttons on Your Windows Keyboard</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-simplified-platform-for-content-creators-for-2024/"><u>Vimeo Simplified Platform for Content Creators for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/yahoo-mail-account-elimination-how-to-do-it-once-and-for-all/"><u>Yahoo! Mail Account Elimination: How to Do It Once and For All</u></a></li>
 </ul></div>
 

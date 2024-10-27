@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2024-10-17T19:56:21.724Z
-updated: 2024-10-21T20:12:42.664Z
+date: 2024-10-24T18:19:53.019Z
+updated: 2024-10-27T17:32:25.554Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
 
  LogMeIn Hamachi is a certain type of application that needs the Windows Management Instrumentation service (WMI)’s help to run properly in the Windows system.  
@@ -69,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap52.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Run Hamachi to check the problem is still there or not.
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap49.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Move to**Log On** tab, make sure**Local System account** and**Allow service to interact with desktop** box has been checked. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
@@ -139,6 +139,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -151,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
@@ -173,10 +179,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Create a startup to automatically restart the Hamachi service
@@ -204,17 +210,17 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap74.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click**Create Task** under the Actions menu.
 
@@ -225,13 +231,6 @@ exit
  Third, change the Configure into**Windows 10** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap77.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Click the**Triggers** tab, and click the**New…** button.
 
@@ -247,6 +246,13 @@ exit
  Click**OK** to save changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap79.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
 
@@ -271,6 +277,13 @@ OR
 
  You can download drivers from the manufacturer official website. Go to the website to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.). Then download the driver manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -285,13 +298,6 @@ OR
 
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -314,16 +320,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/restarts-computer-responds-to-games/"><u>[RESTARTS] Computer Responds to Games</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>[Updated] In 2024, Beyond the Screen Jaunt VR's Spectacular World</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-tracing-gaps-in-your-instagram-circle/"><u>2024 Approved Tracing Gaps in Your Instagram Circle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-error-code-24-device-missing-in-windows-1187-environments/"><u>Comprehensive Fixes for Error Code 24 - Device Missing in Windows 11/8/7 Environments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-wheel-running-smoothly-with-newest-driver-downloads-for-all-windows-versions/"><u>Get Your Logitech G29 Wheel Running Smoothly with Newest Driver Downloads for All Windows Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-turn-on-bluetooth-on-windows-7-solved/"><u>How to Turn on Bluetooth on Windows 7 [Solved]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/most-recent-compatible-amd-radeon-r5-drivers-for-windows-users-win-111087/"><u>Most Recent Compatible AMD Radeon R5 Drivers: For Windows Users (Win 11/10/8/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-non-compatible-device-drivers-on-windows-os-for-optimal-performance/"><u>Resolved: How To Correct Non-Compatible Device Drivers On Windows OS For Optimal Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-silent-issues-effective-solutions-for-your-acer-laptops-audio-problem/"><u>Resolving Silent Issues: Effective Solutions for Your Acer Laptop's Audio Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-chatgpt-with-whatsapp-for-top-tier-support/"><u>Uniting ChatGPT with WhatsApp for Top-Tier Support</u></a></li>
-<li><a href="https://win-tips.techidaily.com/44ov44kh44kk44or44o744ki44od44ox44ot44o844oj5pmc44gr55m655sf44gz44kl44cm44oj44op44kk44ow44ks5qsc5ye644gn44gn44gplus44gb44kt44cn5zwp6agm44gu6kej5rg65pa55rov.291/"><u>ファイル・アップロード時に発生する「ドライブを検出できません」問題の解決方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-blissful-bites-best-stress-busting-gaming-for-2024/"><u>[New] Blissful Bites Best Stress-Busting Gaming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-startup-blues-effective-ways-to-resolve-freezing-problems-in-your-windows-10-system/"><u>Beat Startup Blues: Effective Ways to Resolve Freezing Problems in Your Windows 10 System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-steps-upgrade-your-laptop-from-hdd-to-ssd-on-windows-710-without-a-full-reinstall/"><u>Easy Steps: Upgrade Your Laptop From HDD to SSD on Windows 7/10 Without a Full Reinstall</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-preventing-heat-in-w11-systems/"><u>Essential Steps for Preventing Heat in W11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-failed-to-update-messages-in-warframe-now-resolved/"><u>Expert Solutions to 'Failed to Update' Messages in Warframe – Now Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-non-responsive-huion-pen-instantly-with-these-5-tips/"><u>Fix Your Non-Responsive Huion Pen Instantly with These 5 Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-mpeg-to-swf-converter-by-movavi-streamline-your-video-downloads/"><u>Free Online MPEG to SWF Converter by Movavi - Streamline Your Video Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals/"><u>In 2024, Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-pairing-process-how-to-get-your-airpods-working-on-windows-11-latest-fixes/"><u>Master the Pairing Process: How to Get Your AirPods Working on Windows 11 – Latest Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-cursor-disappears-on-windows-11-solved/"><u>Mouse Cursor Disappears on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-a2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi A2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-virtual-webcams-and-live-software-discover-manycam-features/"><u>Top Virtual Webcams and Live Software: Discover ManyCam Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-directory-paths-for-optimal-site-functionality/"><u>Troubleshooting Invalid Directory Paths for Optimal Site Functionality</u></a></li>
 </ul></div>
 

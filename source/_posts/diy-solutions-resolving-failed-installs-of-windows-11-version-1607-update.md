@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2024-10-15T20:54:05.831Z
-updated: 2024-10-21T16:39:02.909Z
+date: 2024-10-20T16:34:42.637Z
+updated: 2024-10-27T16:12:05.151Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -94,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -111,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -132,30 +105,31 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -173,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -199,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -206,6 +180,19 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -216,6 +203,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -244,20 +238,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cut-the-cable-catch-the-game-10-best-streaming-apps-for-sport-and-football-watching-for-2024/"><u>[New] Cut the Cable, Catch the Game! 10 Best Streaming Apps for Sport and Football Watching for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-top-5-weightless-action-recording-units/"><u>[Updated] Prime Top 5 Weightless Action Recording Units</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-8-best-video-conferencing-software-for-small-business-safely/"><u>2024 Approved 8 Best Video Conferencing Software for Small Business Safely</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/find-the-start-button-on-windows-10/"><u>Find The Start Button on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-the-problem-of-non-existent-binkw32dll-on-your-system/"><u>Guide to Correcting The Problem of Non-Existent BinkW32.DLL on Your System</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strengthening-your-brand-with-high-quality-fb-covers/"><u>In 2024, Strengthening Your Brand with High-Quality FB Covers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-videopad-video-editor-review-pros-cons-and-alternatives/"><u>New 2024 Approved Videopad Video Editor Review Pros, Cons, and Alternatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-steam-missing-files-issue-regain-your-full-game-access/"><u>Solving the Steam Missing Files Issue: Regain Your Full Game Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-getting-your-windows-optical-drives-back-to-working-order/"><u>Step-by-Step Tutorial: Getting Your Windows Optical Drives Back to Working Order</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ditors-codex-innovations-in-youtube-video-formatting/"><u>The Editor's Codex Innovations in Youtube Video Formatting</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-premier-selection-of-consoles-for-enthusiastic-players-this-year/"><u>The Premier Selection of Consoles for Enthusiastic Players This Year</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-malfunctioning-shift-key-proven-fixes-you-can-apply-today/"><u>Troubleshooting a Malfunctioning Shift Key - Proven Fixes You Can Apply Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-a-hanging-or-stuck-windows-10-computer/"><u>Troubleshooting Tips for a Hanging or Stuck Windows 10 Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-wi-fi-not-showing-here-are-the-fixes-for-missing-connections/"><u>Windows 11 Wi-Fi Not Showing? Here Are the Fixes for Missing Connections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[New] 2024 Approved Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-in-class-androids-cloud-storage-companions/"><u>[New] Best in Class Android's Cloud Storage Companions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators/"><u>[New] In 2024, Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] In 2024, Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-understanding-aspect-ratio-regulations-on-twitter/"><u>2024 Approved Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficiencyinusingyourwebcamforcapturing-for-2024/"><u>EfficiencyInUsingYourWebcamForCapturing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-usb-connectivity-problems-a-guide-to-handling-unknown-devices-and-failed-port-resets/"><u>Fixing Windows 10 USB Connectivity Problems: A Guide to Handling Unknown Devices & Failed Port Resets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/halo-4-and-unreal-engine-4-overcoming-the-critical-2024-ue4-game-crash-issue/"><u>Halo 4 and Unreal Engine 4 - Overcoming the Critical 2024 UE4 Game Crash Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-windows-unable-to-find-play-source-issue/"><u>Troubleshooting Steps for the 'Windows - Unable to Find Play Source' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
 </ul></div>
 

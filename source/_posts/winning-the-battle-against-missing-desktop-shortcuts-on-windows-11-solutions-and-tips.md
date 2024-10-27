@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against Missing Desktop Shortcuts on Windows 11: Solutions and Tips"
-date: 2024-10-18T18:16:15.113Z
-updated: 2024-10-21T18:42:27.721Z
+date: 2024-10-22T16:26:50.788Z
+updated: 2024-10-27T16:28:47.690Z
 tags:
   - win11
   - win10
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
@@ -51,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click **Programs and Features** .
 
@@ -60,23 +80,16 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b650d50f878.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Download the latest version of your program from the its official website and install it on your computer.
 
 **7)** Launch your program and see if this fixes the error.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Reinstall the Microsoft Visual C++ Redistributable Packages
@@ -84,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
  The “side by side configuration is incorrect” error may occur because the Visual C++ Runtime on your computer is corrupted or missing. Reinstalling the Microsoft Visual C++ Redistributable Packages on your computer can help you restore the corrupted or missing Runtime. To do so:
 
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
@@ -104,28 +110,21 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Go to the[**Microsoft Visual C++ downloads website**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) to download the programs you have just uninstalled. Then install them on your computer.
 
 **7)** Restart your computer. If this method works for you, the error won’t bother you again.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Run system checks
 
@@ -139,16 +138,16 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Type “_**sfc /scannow**_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74672c10aa.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Wait for the scan to complete. Then check to see if the error is gone.
 
@@ -158,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 **6)**  Wait until the process completes. Then check to see if this fixes the error.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your system
 
@@ -178,6 +170,13 @@ To reset your Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c521d0cb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click **Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c8d75b01.png)
@@ -185,6 +184,13 @@ To reset your Windows 10:
 **3)** Select**Remove everything** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74e3feb5d0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Wait for the system to complete the resetting process.
 
@@ -207,16 +213,21 @@ To reset your Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pixelpreserve-a-comprehensive-screen-record-review/"><u>[New] 2024 Approved 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-itunes-video-management-made-simple/"><u>[New] 2024 Approved ITunes Video Management Made Simple</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capturewiz-windows-10s-snapshot-hero/"><u>[New] In 2024, CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bioshock-2-ultimate-remaster-enhanced-features-corrected-errors-and-optimized-playing-experience/"><u>BioShock 2 Ultimate Remaster: Enhanced Features, Corrected Errors & Optimized Playing Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digital-deciphers-chatgpt-and-google-translate-face-off/"><u>Digital Deciphers: ChatGPT & Google Translate Face-Off</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/game-gridlock-pc-issues-interrupt-playtime/"><u>Game Gridlock: PC Issues Interrupt Playtime</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fallout-4-performance-advanced-techniques-to-combat-lag-and-enjoy-flawless-gameplay/"><u>Mastering Fallout 4 Performance: Advanced Techniques to Combat Lag and Enjoy Flawless Gameplay</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-when-windows-1-1-volume-settings-stop-responding/"><u>Solved! How to Restore Functionality When Windows 1 1 Volume Settings Stop Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-chrome-error-a-simple-fix-for-errnamenotresolved/"><u>Solving Your Chrome Error: A Simple Fix for ERR_NAME_NOT_RESOLVED</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-completing-windows-11-v1803-a-guide-for-overcoming-feature-update-issues/"><u>Successfully Completing Windows 11 v1803: A Guide for Overcoming Feature Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-successful-reintegration-of-dxgidll/"><u>[PUBG] Successful Reintegration of Dxgi.dll</u></a></li>
+<li><a href="https://article-posts.techidaily.com/acid-pro-replacements-a-deep-dive-into-graphics-softwares-for-2024/"><u>ACID Pro Replacements A Deep Dive Into Graphics Softwares for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnose-and-rectify-common-television-glitches-with-simple-techniques/"><u>Diagnose and Rectify Common Television Glitches with Simple Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/direct-linking-of-youtube-content-to-facebook-feeds-via-autoplay-settings-for-2024/"><u>Direct Linking of YouTube Content to Facebook Feeds via Autoplay Settings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072efd-on-windows-11-understanding-causes-and-implementing-fixes-for-a-smooth-operating-experience/"><u>Error 0X80072EFD on Windows 11: Understanding Causes and Implementing Fixes for a Smooth Operating Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-guide-what-to-do-when-you-encounter-an-openal32dll-missing-error/"><u>Fix Guide: What to Do When You Encounter an OpenAL32.dll Missing Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-steam-content-servers-are-not-responding/"><u>Fixing the Issue: Why Steam Content Servers Are Not Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-non-operative-diagnostics-policy-service-step-by-step-guide/"><u>Fixing the Non-Operative Diagnostics Policy Service - Step by Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y36-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y36?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-retro-gaming-discover-why-this-arcade-machine-outshines-all-others-insider-review-zdnet/"><u>Mastering Retro Gaming: Discover Why This Arcade Machine Outshines All Others - Insider Review | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-updates-essential-guide-to-solving-error-code-0x800f0922-with-8-fixes/"><u>Mastering Windows 10 Updates: Essential Guide to Solving Error Code 0X800f0922 with 8 Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-pastimes-away-from-sports-stadiums-ranked/"><u>Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-missing-normalizdll-problem-a-step-by-step-guide/"><u>Solving the 'Missing Normaliz.dll' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-windows-system-failure-with-error-0xc0000005/"><u>Troubleshooting and Repairing Windows System Failure with Error 0XC0000005</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-discover-the-best-android-speech-to-text-programs-with-no-monthly-fees-for-2024/"><u>Updated Discover the Best Android Speech-to-Text Programs with No Monthly Fees for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Itel S23? | Dr.fone</u></a></li>
 </ul></div>
 

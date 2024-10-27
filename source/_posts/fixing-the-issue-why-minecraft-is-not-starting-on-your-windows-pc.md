@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2024-10-18T21:25:54.719Z
-updated: 2024-10-21T21:21:59.287Z
+date: 2024-10-26T16:01:25.430Z
+updated: 2024-10-27T16:56:20.919Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -65,29 +72,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
@@ -96,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -119,18 +113,18 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -156,22 +150,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[New] 2024 Approved Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>[New] Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[Updated] In 2024, From Beef to Brilliance Jake Paul’s Youtube Transformation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screening-your-gaming-a-nintendo-switch-tutorial/"><u>[Updated] Screening Your Gaming A Nintendo Switch Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivating-colors-in-photos-a-ps-masterclass/"><u>Captivating Colors in Photos A PS Masterclass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcome-livekernelevent-error-code-117/"><u>Comprehensive Guide: Overcome LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-problem-uncontrollable-repeated-mouse-clicks/"><u>Fixed Problem: Uncontrollable Repeated Mouse Clicks</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guida-facile-e-gratuita-per-scaricare-velocemente-il-lettore-dvd-regionale-tutto-quello-che-devi-sapere/"><u>Guida Facile E Gratuita per Scaricare Velocemente Il Lettore DVD Regionale - Tutto Quello Che Devi Sapere</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-tech-evaluations-by-tom-your-source-for-quality-computer-systems/"><u>Innovative Tech Evaluations by Tom: Your Source for Quality Computer Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rapid-resolution-of-logilda-dependency/"><u>Rapid Resolution of LogiLDA Dependency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-energetic-fluctuations-at-connection-node/"><u>Solution Implemented for Energetic Fluctuations at Connection Node</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-audio-trouble-heres-how-to-fix-the-mic-problem-permanently/"><u>SteelSeries Arctis 5 Audio Trouble? Here's How to Fix the Mic Problem Permanently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-continuous-white-screens-on-notebook-computers/"><u>Troubleshooting and Resolving Continuous White Screens on Notebook Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-loading-errors-how-to-restore-playability-of-games-on-windows-computers/"><u>Troubleshooting Loading Errors: How to Restore Playability of Games on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208388076-troubleshooting-made-easy-fix-windows-error-code-0xc0000098-in-minutes/"><u>Troubleshooting Made Easy: Fix Windows Error Code 0xC0000098 in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-10-red-screen-issue/"><u>[Fixed] Windows 10 Red Screen Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-driving-engagement-on-instagram-a-step-by-step-guide/"><u>[New] In 2024, Driving Engagement on Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>[Updated] TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/4k8k/"><u>「4Kと8Kの違いを理解して、スムーズなビッグファイルダウンロード方法を学ぶ！」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-problem-of-windows-10-failing-to-recognize-your-hdmi-connected-television/"><u>How to Solve the Problem of Windows 10 Failing to Recognize Your HDMI-Connected Television</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/survive-and-thrive-together-in-dying-light-a-deep-dive-into-first-person-co-op-gameplay/"><u>Survive and Thrive Together in Dying Light - A Deep Dive Into First-Person Co-Op Gameplay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/textual-transformations-the-photographers-guide-to-image-edits/"><u>Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-how-to-correcting-no-signal-detected-by-computermonitor-problems/"><u>The Ultimate How-To: Correcting No Signal Detected by Computer/Monitor Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-spontaneous-computer-shutdowns-effective-methods-revealed/"><u>Troubleshooting Spontaneous Computer Shutdowns - Effective Methods Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-the-stuck-sims-4-launch-expert-ways-to-get-back-in-action/"><u>Unstick the Stuck Sims 4 Launch - Expert Ways to Get Back in Action</u></a></li>
 </ul></div>
 

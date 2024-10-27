@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2024-10-19T20:30:32.422Z
-updated: 2024-10-21T17:58:35.677Z
+date: 2024-10-26T17:24:42.047Z
+updated: 2024-10-27T18:09:48.631Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Windows Update Troubleshooter
@@ -52,19 +58,26 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -86,6 +99,14 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
@@ -105,13 +126,6 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -122,22 +136,16 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
@@ -159,34 +167,15 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -210,20 +199,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/resolution-tackle-unseen-threat-to-your-pcs-performance-addressing-cpu-overloads-caused-by-shell-infrastructure/"><u>(Resolution) Tackle Unseen Threat to Your PC's Performance - Addressing CPU Overloads Caused by Shell Infrastructure</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-compare-and-contrast-best-6-hdmi-monitor-models-in-detail/"><u>[New] 2024 Approved Compare & Contrast Best 6 HDMI Monitor Models in Detail</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[New] Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamline-youtube-tweets-on-chrome-performance/"><u>[Updated] 2024 Approved Streamline YouTube Tweets on Chrome Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-yearly-recorder-real-time-social-media-events/"><u>2024 Approved Yearly Recorder Real-Time Social Media Events</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Oppo Find N3.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-disaster-systems-final-breach/"><u>Device Disaster: System's Final Breach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-when-your-logitech-mouse-scroll-doesnt-work-anymore/"><u>Easy Solutions for When Your Logitech Mouse Scroll Doesn't Work Anymore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-for-configuring-vpn-services-across-multiple-platforms-windows-mac-ios-android/"><u>Easy Tutorial for Configuring VPN Services Across Multiple Platforms (Windows, Mac, iOS, Android)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-nvidia-geforce-software-wont-start/"><u>How to Fix When Your NVIDIA GeForce Software Won't Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-library-classes-on-windows-11-systems-top-strategies/"><u>Troubleshooting Missing Library Classes on Windows 11 Systems - Top Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-unfreezing-issues-in-call-of-duty-vanguard/"><u>Troubleshooting Tips for Unfreezing Issues in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-non-functional-integrated-webcams-in-windows-os/"><u>Troubleshooting Tips: Resolving Non-Functional Integrated Webcams in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-scroll-bar-glitch-solved-stop-instant-top-scroll-in-file-explorer/"><u>Windows 11 Scroll Bar Glitch Solved: Stop Instant Top-Scroll in File Explorer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-video-integration-for-pc-and-android-users-explained/"><u>[New] In 2024, Facebook Video Integration for PC & Android Users Explained</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-clear-capture-top-microphones-for-cams-for-2024/"><u>[Updated] Clear Capture Top Microphones for Cams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-intelligence-vs-the-latest-tech-why-the-iphone-16-may-not-be-worth-it-insights-from-zdnet/"><u>Apple Intelligence Vs. The Latest Tech: Why the iPhone 16 May Not Be Worth It - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-key-errors-heres-what-you-need-to-know-and-how-to-solve-it/"><u>Backspace Key Errors? Here's What You Need to Know and How to Solve It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-wipe-out-all-message-data-from-your-iphone-once-and-forall/"><u>Effective Strategies: How to Wipe Out All Message Data From Your iPhone Once and ForAll</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-windows-10-not-responding-during-updates/"><u>Expert Tips for Resolving Windows 10 Not Responding During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-constant-unrecognized-usb-errors-a-complete-troubleshooting-guide/"><u>Fixing Constant 'Unrecognized USB' Errors: A Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-xvideo-downloader-app-quick-guide-to-transforming-xvideos-into-mp4-format-on-your-computer/"><u>Free XVideo Downloader App: Quick Guide to Transforming XVideos Into MP4 Format on Your Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-in-depth-investigation-are-you-best-off-with-inshot-app/"><u>In 2024, In-Depth Investigation Are You Best Off with InShot App?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-silent-netflix-a-guide/"><u>Quick Solutions for Resolving Silent Netflix: A Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>Updated In 2024, How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-auto-start-discover-the-reasons-behind-your-pcs-self-booting/"><u>Windows 11 Auto-Start: Discover the Reasons Behind Your PC's Self-Booting</u></a></li>
 </ul></div>
 

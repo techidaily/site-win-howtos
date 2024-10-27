@@ -1,7 +1,7 @@
 ---
 title: PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS
-date: 2024-10-20T16:43:02.615Z
-updated: 2024-10-21T19:50:34.681Z
+date: 2024-10-20T18:14:30.983Z
+updated: 2024-10-27T16:20:09.719Z
 tags:
   - win11
   - win10
@@ -39,16 +39,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 5. [**Update your device drivers**](#e)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Run Windows Update troubleshooter
@@ -63,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
 **3)** Find**Windows Update** and click**Run the troubleshooter** .
@@ -79,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **5)** Run your Windows Update again and see if your error is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### on Windows 11
@@ -100,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
@@ -136,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Double click**Cryptographic Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
@@ -144,28 +131,36 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
 
@@ -182,10 +177,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
@@ -196,20 +191,14 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
-**6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
 ## Method 5: Update your device drivers
 
@@ -231,13 +220,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -257,24 +239,22 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-your-guide-to-the-best-igtv-virtuosos/"><u>[New] 2024 Approved Your Guide to the Best IGTV Virtuosos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>[New] From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-directordocks-overview-detailed-reviews/"><u>[New] In 2024, DirectorDocks Overview – Detailed Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-what-is-svchostexe-netsvcs-and-fix-its-high-network-usage-issue/"><u>[Solved] What Is svchost.exe (Netsvcs) and Fix Its High Network Usage Issue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-master-list-of-vimeo-video-capturers/"><u>[Updated] 2024 Approved Master List of Vimeo Video Capturers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>[Updated] 2024 Approved Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-bridging-platforms-posting-igtv-on-facebook-efficiently-for-2024/"><u>[Updated] Bridging Platforms Posting IGTV on Facebook Efficiently for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-creating-captivating-inshot-edits-with-grace/"><u>[Updated] Creating Captivating Inshot Edits with Grace</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-methods-for-eliminating-user-accounts-in-windows-10/"><u>Comprehensive Methods for Eliminating User Accounts in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-malfunctioning-system-components-in-windows-11-pcs/"><u>Efficient Fixes for Malfunctioning System Components in Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-handling-and-correcting-critical-directx-error-situations/"><u>Expert Tips on Handling and Correcting Critical DirectX Error Situations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-open-apps-using-your-systems-default-admin-profile/"><u>How To Successfully Open Apps Using Your System's Default Admin Profile</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>In 2024, Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-activating-bluetooth-connectivity-in-windows-11-and-10/"><u>Step-by-Step Tutorial for Activating Bluetooth Connectivity in Windows 11 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-computers-fail-to-detect-audio-devices/"><u>Troubleshooting Steps When Computers Fail to Detect Audio Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210807114-usb-tethering-on-windows-10-easily/"><u>USB Tethering on Windows 10 Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1011-missing-visual-settings/"><u>Windows 10/11: Missing Visual Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-stuck-heres-how-you-can-get-your-computer-to-properly-power-off/"><u>Windows 11 Stuck? Here's How You Can Get Your Computer to Properly Power Off</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-full-body-kinetics-report-2023/"><u>[New] In 2024, Full Body Kinetics Report 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speed-capturing-screens-with-sound-for-2024/"><u>[New] Speed Capturing Screens With Sound for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-crafting-excellent-micro-photography-videos-step-by-step/"><u>2024 Approved Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-periscope-filming-made-easy-the-ultimate-how-to/"><u>2024 Approved Periscope Filming Made Easy The Ultimate How-To</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-listening-experience-into-a-learning-adventure-with-podcasts/"><u>2024 Approved Transform Your Listening Experience Into a Learning Adventure (With Podcasts)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-to-resolve-freezing-issues-with-windows-10-taskbar/"><u>Best Practices to Resolve Freezing Issues with Windows 10 Taskbar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-causes-and-solutions-for-mistyping-on-your-keyboard/"><u>Common Causes and Solutions for Mistyping on Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-google-chrome-black-screen-dilemma-a-step-by-step-guide/"><u>Easy Fixes for the Google Chrome Black Screen Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expanding-your-audience-on-youtube-step-by-step/"><u>Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-failed-user-profile-service-sign-in-problems-in-windows-11/"><u>How to Repair Failed User Profile Service Sign-In Problems in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-purchase-guide-essential-contemplations/"><u>PS5 Purchase Guide: Essential Contemplations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-personalization-feature-non-responsiveness-errors/"><u>Resolving Personalization Feature Non-Responsiveness Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-capabilities-on-your-windows-11-pc-effective-solutions/"><u>Restoring Audio Capabilities on Your Windows 11 PC: Effective Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/three-tactics-integrating-chatgpt-and-wolframalpha/"><u>Three Tactics: Integrating ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-error-code-5-access-is-denied-while-running-files-in-temp-folder/"><u>Troubleshooting Error Code 5: Access Is Denied While Running Files in Temp Folder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11/"><u>Troubleshooting Non-Functional USB Ports on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-secured-connection-not-established-in-mozilla-firefox/"><u>Troubleshooting Steps: Resolving 'Secured Connection Not Established' In Mozilla Firefox</u></a></li>
 </ul></div>
 

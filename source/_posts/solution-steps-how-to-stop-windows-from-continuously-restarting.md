@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2024-10-16T21:05:23.832Z
-updated: 2024-10-21T19:33:00.490Z
+date: 2024-10-24T17:55:49.360Z
+updated: 2024-10-27T17:10:23.314Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -59,15 +52,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -76,14 +76,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -94,10 +102,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -109,13 +117,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -159,18 +160,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[Updated] 2024 Approved Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-touchless-screens-learn-quick-fixes-for-activating-interactive-controls/"><u>Dealing with Touchless Screens? Learn Quick Fixes for Activating Interactive Controls!</u></a></li>
-<li><a href="https://games-able.techidaily.com/discreetly-stowing-steam-titles/"><u>Discreetly Stowing Steam Titles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-and-refreshing-your-computers-keyboard-functionality/"><u>Expert Tips: Restoring and Refreshing Your Computer's Keyboard Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-endless-loop-how-to-overcome-anthems-persistent-load-screen-issue/"><u>Fixing the Endless Loop: How to Overcome Anthem's Persistent Load Screen Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-connection-could-not-be-established-errors-in-firefox/"><u>How to Fix 'Connection Could Not Be Established' Errors in Firefox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-1ve-when-it-becomes-unresponsive/"><u>How to Fix Windows 1Ve When It Becomes Unresponsive?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-sound-back-addressing-windows-11-mutevolume-problems/"><u>How to Get Your Sound Back: Addressing Windows 11 Mute/Volume Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-elevate-visual-content-with-free-animation-text/"><u>In 2024, Elevate Visual Content with FREE Animation Text</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-how-to-add-and-record-audio-to-powerpoint/"><u>In 2024, How to Add & Record Audio to PowerPoint</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solve-your-usb-drive-access-issues-why-it-wont-open-on-windows/"><u>Solve Your USB Drive Access Issues: Why It Won't Open on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-overload-understanding-netservices-solutions-and-prevention/"><u>Svchost.exe Overload: Understanding Netservices, Solutions & Prevention</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-become-a-trendsetter-in-snapchat-innovate-with-dynamic-boomers/"><u>[Updated] 2024 Approved Become a Trendsetter in SnapChat Innovate with Dynamic Boomers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-direct-downloading-of-audio-content-from-vimeo-videos/"><u>[Updated] 2024 Approved Direct Downloading of Audio Content From Vimeo Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-instant-insight-snapshots-for-windows-enthusiasts-for-2024/"><u>[Updated] Instant Insight Snapshots for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-7-plus-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 7 Plus activation lock with a professional tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cast-to-device-not-working-on-windows-11-solved/"><u>Cast to Device Not Working on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-system-failed-to-initialize-on-windows-10-solved/"><u>Configuration System Failed to Initialize on Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-steps-when-your-hp-laptop-camera-fails-on-windows-11/"><u>Corrective Steps When Your HP Laptop Camera Fails on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-8024020-successful-troubleshooting-steps-for-windows-11-setup-issues/"><u>Error Code 8024020 - Successful Troubleshooting Steps for Windows 11 Setup Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202547685-expert-tips-for-a-cheating-free-gaming-experience-on-apex-legends-fix-those-errors/"><u>Expert Tips for a Cheating-Free Gaming Experience on Apex Legends - Fix Those Errors!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi K70E Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-casting-hurdles-a-step-by-step-guide-to-a-smooth-setup/"><u>Overcoming Windows 10 Casting Hurdles: A Step-by-Step Guide to a Smooth Setup</u></a></li>
+<li><a href="https://win-tips.techidaily.com/recupere-tus-contactos-de-gmail-con-facilidad-el-metodo-mas-sencillo-explicado/"><u>Recupere Tus Contactos De Gmail Con Facilidad: El Método Más Sencillo Explicado</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uninterrupted-routine-ensure-healthy-pet-habits-using-the-petsafe-six-meal-autofeeder/"><u>Uninterrupted Routine: Ensure Healthy Pet Habits Using the PetSafe Six Meal AutoFeeder</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?</u></a></li>
 </ul></div>
 

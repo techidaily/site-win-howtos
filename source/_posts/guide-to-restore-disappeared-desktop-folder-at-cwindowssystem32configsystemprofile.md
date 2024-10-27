@@ -1,7 +1,7 @@
 ---
 title: "Guide to Restore Disappeared Desktop Folder at C:\\Windows\\System32\\Config\\SystemProfile"
-date: 2024-10-15T18:10:54.582Z
-updated: 2024-10-21T20:32:04.758Z
+date: 2024-10-25T16:57:50.790Z
+updated: 2024-10-27T17:49:33.536Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -70,6 +83,13 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for Windows Updates
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep your computer running smoothly. Here is how to do it:
@@ -102,13 +122,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
  If no malware is detected, that means your problem is not caused by malware. Try the fix below.
@@ -126,6 +139,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -135,10 +155,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
@@ -153,13 +173,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
@@ -170,9 +183,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-114.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-120.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After your PC restarts, check if the issue has been resolved. If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
 
@@ -184,16 +211,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
@@ -206,13 +233,6 @@ OR
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-91.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click**Apply** .
 
@@ -240,13 +260,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
@@ -267,20 +280,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run the Command Prompt
@@ -333,24 +345,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-live-soundscapes-for-fans/"><u>[New] Prime Live Soundscapes for Fans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-flip-and-tilt-your-images-anywhere/"><u>[Updated] IPhone Photography Flip & Tilt Your Images Anywhere</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-image-magic-top-10-mobile-apps-with-stickers-on-iphones-and-androids/"><u>[Updated] Mastering Image Magic Top 10 Mobile Apps with Stickers on iPhones & Androids</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-role-of-b-roll-in-polishing-video-projects/"><u>[Updated] The Role of B-Roll in Polishing Video Projects</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-5-free-cross-border-calling-applications/"><u>Discover the Ultimate List of 5 Free Cross-Border Calling Applications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-oculus-tech-hiccups-how-to-tackle-hardware-errors/"><u>DIY Solutions for Oculus Tech Hiccups: How to Tackle Hardware Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-magic5-ultimate-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor Magic5 Ultimate without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y27s-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y27s Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-why-virtual-reality-lack-of-content/"><u>In 2024, Why Virtual Reality Lack of Content?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203247138-lost-the-icons-on-your-taskbar-revive-them-with-these-4-secrets-for-windows-11-users/"><u>Lost The ICONS on Your Taskbar? Revive Them with These 4 Secrets for Windows 11 Users!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/melodicmeasurement-reaction-to-tunes-for-2024/"><u>MelodicMeasurement Reaction to Tunes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-scroll-wheel-troubleshooting-tips-for-restoring-functionality-on-a-logitech-mouse/"><u>Overcoming Scroll Wheel Troubleshooting: Tips for Restoring Functionality on a Logitech Mouse.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-setbacks-in-installing-the-windows-10-may-2019-update-v1903/"><u>Resolved! Overcoming Setbacks in Installing the Windows 10 May 2019 Update (V1903)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-connection-errors-a-guide-to-reconnecting-with-a-distant-server/"><u>Solving Connection Errors: A Guide to Reconnecting with a Distant Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-overcoming-the-80072ee2-error-in-windows-updates/"><u>Step-by-Step Fixes for Overcoming the 80072EE2 Error in Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-correcting-the-rpc-server-unavailable-error-on-windows-machines/"><u>Step-by-Step Tips for Correcting the 'RPC Server Unavailable Error' On Windows Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-the-windows-update-failed-with-error-80244019/"><u>Troubleshooting Guide for Resolving the 'Windows Update Failed with Error 80244019'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-when-google-chrome-wont-respond/"><u>Troubleshooting Guide for When Google Chrome Won't Respond</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-driving-engagement-and-sales-a-step-by-step-guide-to-influencer-marketing/"><u>[New] In 2024, Driving Engagement and Sales A Step-by-Step Guide to Influencer Marketing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-nba-2k21-green-glitch/"><u>[SOLVED] NBA 2K21 Green Glitch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-labyrinth-luminaries-top-10-roguelike-highlights/"><u>[Updated] 2024 Approved Labyrinth Luminaries Top 10 Roguelike Highlights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-free-youtube-end-screen-resources-enhance-video-impact/"><u>[Updated] Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-on-pc-drivers-troubleshooting-techniques-for-windows-users/"><u>A Comprehensive Guide on PC Drivers: Troubleshooting Techniques for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/browser-blues-resolve-the-initializer-did-not-load-problem-with-ease-latest-fixes-2021/"><u>Browser Blues? Resolve the 'Initializer Did Not Load' Problem with Ease (Latest Fixes 2)021</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-repair-techniques-for-resolving-error-80e2-in-windows-update-process/"><u>Effortless Repair Techniques for Resolving Error 80E2 in Windows Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-binkw32dll-file-not-present-mistake-in-windows/"><u>Expert Tips for Correcting the binkw32.dll File Not Present Mistake in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-relaxed-riffs-20-country-songs-that-make-you-want-to-dance-and-chill-on-tiktok/"><u>In 2024, Relaxed Riffs 20 Country Songs That Make You Want to Dance and Chill on TikTok</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/indulge-in-the-best-youtube-binge-spots-for-anime-enthusiasts/"><u>Indulge in the Best YouTube Binge Spots for Anime Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204368891-step-by-step-solutions-eradicate-critical-error-scams-from-your-google-chrome-browser-now/"><u>Step-by-Step Solutions: Eradicate Critical Error Scams From Your Google Chrome Browser Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-recover-from-unresponsive-windows-10-software-issues/"><u>Steps to Recover From Unresponsive Windows 10 Software Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-your-pc-from-crashing-while-playing-nier-automata-effective-fixes-and-tips/"><u>Stop Your PC From Crashing While Playing Nier Automata: Effective Fixes & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/typing-triumph-over-tablet-trouble/"><u>Typing Triumph Over Tablet Trouble</u></a></li>
 </ul></div>
 

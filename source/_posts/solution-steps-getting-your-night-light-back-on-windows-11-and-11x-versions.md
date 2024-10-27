@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Getting Your Night Light Back on Windows 11 and 11X Versions"
-date: 2024-10-16T20:34:28.644Z
-updated: 2024-10-21T18:11:05.855Z
+date: 2024-10-23T16:41:50.079Z
+updated: 2024-10-27T17:02:08.315Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -51,45 +44,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -103,8 +75,29 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -117,8 +110,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -147,19 +162,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-mac-screenshot-strategy-revealed/"><u>[Updated] 2024 Approved The Ultimate Mac Screenshot Strategy Revealed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-comprehensive-analysis-of-syma-x5c-best-starter-drone-pick/"><u>2024 Approved Comprehensive Analysis of Syma X5C Best Starter Drone Pick</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-tips-for-non-detectable-usb-drives/"><u>Effortless Troubleshooting Tips for Non-Detectable USB Drives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eradicate-unwanted-on-screen-flashing-ultimate-fixes-for-a-steady-point/"><u>Eradicate Unwanted On-Screen Flashing: Ultimate Fixes for a Steady Point!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-woes-comprehensive-guide-to-troubleshoot-and-repair-it-on-windows/"><u>Error Code 31 Woes? Comprehensive Guide to Troubleshoot and Repair It on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-djis-aesthetics-first-20-no-cost-drone-vfx-trials-for-2024/"><u>Explore DJI's Aesthetics – First 20 No-Cost Drone VFX Trials for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-animation-software-roundup-windows-and-mac-compatible/"><u>Free Animation Software Roundup Windows and Mac Compatible</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/oculus-troubleshooting-masterclass-overcoming-hardware-challenges/"><u>Oculus Troubleshooting Masterclass: Overcoming Hardware Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-get-your-windows-10-spacebar-key-working-again/"><u>Quick Fixes to Get Your Windows 10 Spacebar Key Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-overcoming-could-not-complete-the-installation-in-windows/"><u>Quick-Fix Guide: Overcoming 'Could Not Complete The Installation' In Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/sony-vaio-driver-installation-tips-and-tricks-for-windows-users/"><u>Sony VAIO Driver Installation: Tips & Tricks for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/0-strategies-for-youtube-musicians-make-the-perfect-reaction-video-for-2024/"><u>Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-viral-fame-crafting-engaging-instagram-unboxing-videos/"><u>2024 Approved Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlining-google-meets-with-efficient-snap-photography-tips/"><u>2024 Approved Streamlining Google Meets with Efficient Snap Photography Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Lava Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enjoying-your-rides-with-ddpai-mini3-when-dashcams-get-entertaining/"><u>Enjoying Your Rides with DDPai Mini3: When Dashcams Get Entertaining!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-guide-6-ways-to-document-your-minecraft-experiences-for-2024/"><u>Expert Guide 6 Ways to Document Your Minecraft Experiences for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-effortless-solutions-to-clear-windows-error-code-31/"><u>Mastering Fixes: Effortless Solutions to Clear Windows Error Code 31</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209201603-resolving-high-cpu-usage-by-msmpengexe-on-windows-10-solved/"><u>Resolving High CPU Usage by MsMpEng.exe on Windows 10 - Solved!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-removing-the-white-canvas-in-microsoft-paint/"><u>Step-by-Step Guide: Removing the White Canvas in Microsoft Paint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-game-startup-replacing-lost-physxloaderdll-files/"><u>Troubleshoot Your Game Startup: Replacing Lost physxloader.dll Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-projector-not-responding-heres-the-solution/"><u>Windows 11 Projector Not Responding? Here's the Solution!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-snippets-get-high-quality-images-without-a-penny-paid-for-2024/"><u>YouTube Snippets Get High-Quality Images Without a Penny Paid for 2024</u></a></li>
 </ul></div>
 

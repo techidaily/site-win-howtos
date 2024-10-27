@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2024-10-15T17:34:31.948Z
-updated: 2024-10-21T20:43:06.953Z
+date: 2024-10-20T18:21:21.126Z
+updated: 2024-10-27T17:44:01.410Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -67,35 +74,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -115,24 +109,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -148,10 +136,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -162,16 +150,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -211,17 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[New] In 2024, The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-review-the-goofy-movie-vhs/"><u>[Updated] 2024 Approved Review The Goofy Movie VHS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-locate-the-best-bargains-on-gopro-cameras/"><u>[Updated] Locate the Best Bargains on GoPro Cameras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-loyalty-over-upgrades-why-i-prefer-my-apple-watch-series/"><u>Choosing Loyalty Over Upgrades: Why I Prefer My Apple Watch Series</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-playable-sources-detected-error-when-launching-apps-in-windows/"><u>How to Fix 'No Playable Sources Detected' Error When Launching Apps in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-missing-file-issue-easy-guide/"><u>How to Fix VCRUNTIME140.dll Missing File Issue - Easy Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a15-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A15 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-pause-on-progress-clearing-up-windows-update-error-code-0x80070002/"><u>No More Pause on Progress: Clearing Up Windows Update Error Code 0X80070002</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-added-tap-response-to-htc-display/"><u>SOLVED: Added Tap Response to HTC Display</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/techniques-for-optimizing-gopro-camera-battery-life-for-2024/"><u>Techniques for Optimizing GoPro Camera Battery Life for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-the-classic-shortcut-key-combo-work-troubleshooting-steps-inside/"><u>Why Isn't the Classic Shortcut Key Combo Work? Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tools-for-clear-images/"><u>[New] 2024 Approved Essential Tools for Clear Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-amusing-clip-loading-appraisal/"><u>[Updated] Amusing Clip Loading Appraisal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-diy-guide-screen-capture-and-sound-from-youtube/"><u>[Updated] In 2024, DIY Guide Screen Capture & Sound From YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-stars-in-seo-the-ultimate-list-of-chatgpt-enhancers-to-use-instantly/"><u>5 Stars in SEO: The Ultimate List of ChatGPT Enhancers to Use Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/8-fixes-for-windows-11-update-error-code-0x800f0922/"><u>8 Fixes for Windows 11 Update Error Code 0X800f0922</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-creating-auditory-immersion-with-canvas-soundscape-tools/"><u>In 2024, Creating Auditory Immersion with Canva's Soundscape Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-essential-gear-for-video-blogging-top-rated-camera-lenses-revealed/"><u>In 2024, Essential Gear for Video Blogging Top-Rated Camera Lenses Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-prime-sites-to-explore-glossy-golden-typography-designs/"><u>In 2024, Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-video-narratives-with-apple-harmony-for-2024/"><u>Infusing Video Narratives with Apple Harmony for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolve-error-code-0x800f0831-using-windows-updates/"><u>Quick Fix Guide: Resolve Error Code 0X800f0831 Using Windows Updates</u></a></li>
+<li><a href="https://article-files.techidaily.com/sharpfocusx7-size-your-photography-right/"><u>SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/technical-troubles-gameplay-disruptions-on-pc/"><u>Technical Troubles: Gameplay Disruptions on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-updating-to-windows-10-version-1607/"><u>Trouble with Updating to Windows 10 Version 1607?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-spacebar-issue-in-windows-11/"><u>Troubleshooting Guide: Fixing the Non-Responsive Spacebar Issue in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-minecraft-fails-to-start-on-windows-solutions-inside/"><u>Troubleshooting Guide: Why Minecraft Fails to Start on Windows - Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211532287-troubleshooting-non-functional-volume-buttons-in-windows-11-solved/"><u>Troubleshooting Non-Functional Volume Buttons in Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212225460-troubleshooting-total-war-rome-remastered-crashes-solved/"><u>Troubleshooting Total War Rome Remastered Crashes – Solved</u></a></li>
 </ul></div>
 

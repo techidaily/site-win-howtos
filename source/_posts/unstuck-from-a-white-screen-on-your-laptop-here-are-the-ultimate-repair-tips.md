@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2024-10-15T17:28:56.923Z
-updated: 2024-10-21T16:37:14.939Z
+date: 2024-10-20T16:56:23.657Z
+updated: 2024-10-27T16:13:39.092Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -67,10 +67,10 @@ Follow these:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
@@ -79,23 +79,16 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
@@ -110,6 +103,13 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -128,24 +128,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[New] 2024 Approved Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-comment-finder-you-should-try-for-2024/"><u>[New] YouTube Comment Finder You Should Try for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-presence-zooming-past-background-imperfections/"><u>[Updated] 2024 Approved Perfecting Presence Zooming Past Background Imperfections</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>[Updated] Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed/"><u>[Updated] In 2024, Shatter the Illusion True Viewers of Your Insta Posts Revealed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-potential-making-your-vids-go-viral-for-2024/"><u>[Updated] Unleash Potential Making Your Vids Go Viral for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sound-distortions-and-crackles-on-your-windows-device/"><u>Fixing Sound Distortions and Crackles on Your Windows Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connectivity-problems-dealing-with-a-non-reactive-dhcp-server/"><u>How to Resolve Connectivity Problems: Dealing with a Non-Reactive DHCP Server</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pacing-your-content-the-importance-of-regularity-in-a-successful-youtube-channel/"><u>In 2024, Pacing Your Content The Importance of Regularity in a Successful YouTube Channel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-speed-optimization-no-more-slowdowns/"><u>League of Legends Download Speed Optimization - No More Slowdowns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-game-interruptions-mastering-stability-in-total-war-rome-remastered/"><u>No More Game Interruptions: Mastering Stability in Total War: Rome Remastered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-windows-update-hurdle-tackling-the-0x80e0f0922-code-with-eight-proven-fixes/"><u>Overcome Windows Update Hurdle: Tackling the 0X80e0f0922 Code with Eight Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revived-windows-audio-win-1011-troubleshooting-guide/"><u>Revived Windows Audio: Win 10/11 Troubleshooting Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-magic-vs-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor Magic Vs 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-to-common-media-device-not-recognized-issues-correcting-missing-drivers/"><u>Solution to Common 'Media Device Not Recognized' Issues: Correcting Missing Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212111404-solve-overwatch-voice-chat-not-working-issues-easily/"><u>Solve Overwatch Voice Chat Not Working Issues. Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-cast-to-device-not-working-dilemma-on-your-windows-11-pc/"><u>Solving the 'Cast to Device Not Working' Dilemma on Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-hp-printer-software-for-windows-11-easy-download-guide/"><u>Updated HP Printer Software for Windows 11: Easy Download Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unveiling-authentic-identity-in-fb-messages/"><u>2024 Approved Unveiling Authentic Identity in FB Messages</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/can-you-get-quality-for-less-reviewing-the-standout-features-of-the-samsung-galaxy-a2/"><u>Can You Get Quality for Less? Reviewing the Standout Features of the Samsung Galaxy A2지</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Motorola Edge+ (2023).</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-error-code-31-issues-within-microsoft-windows/"><u>Effective Fixes for Handling Error Code 31 Issues Within Microsoft Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-videodxgkrnlfatalerror-on-windows/"><u>How to Fix Video_Dxgkrnl_Fatal_Error on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revolutionize-your-online-presence-with-manycams-advanced-live-video-and-virtual-camera-technology/"><u>Revolutionize Your Online Presence with ManyCam's Advanced Live Video and Virtual Camera Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-document-processing-top-gpt-chat-tools/"><u>Revolutionizing Document Processing: Top GPT Chat Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-input-not-supported-alerts-on-screen/"><u>Troubleshooting Guide: Resolving 'Input Not Supported' Alerts on Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-audio-devices-on-windows-7-systems/"><u>Troubleshooting Non-Functional Audio Devices on Windows 7 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-11f-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 11F 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

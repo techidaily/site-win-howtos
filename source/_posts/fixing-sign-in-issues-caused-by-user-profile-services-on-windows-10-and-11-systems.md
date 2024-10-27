@@ -1,7 +1,7 @@
 ---
 title: Fixing Sign-In Issues Caused by User Profile Services on Windows 10 and 11 Systems
-date: 2024-10-20T19:46:03.389Z
-updated: 2024-10-21T19:43:59.557Z
+date: 2024-10-24T16:23:28.380Z
+updated: 2024-10-27T18:28:25.591Z
 tags:
   - win11
   - win10
@@ -47,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 If this fix didn’t help, try the next fix.
@@ -63,24 +71,31 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -92,13 +107,6 @@ If this fix didn’t help, try the next fix.
 
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -107,13 +115,26 @@ If this fix didn’t help, try the next one.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
@@ -123,13 +144,6 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -144,10 +158,10 @@ If your problem persists, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
@@ -177,16 +191,20 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-regain-access-to-confidential-snapshots/"><u>[New] In 2024, Regain Access to Confidential Snapshots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-write-a-script-for-a-youtube-video/"><u>[Updated] How to Write a Script for a YouTube Video</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/apex-audio-streamer-androids-choice/"><u>Apex Audio Streamer, Android's Choice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-rumored-google-tv-streamer-estimated-price-arrival-date-and-technical-specs/"><u>Comprehensive Guide to Rumored Google TV Streamer - Estimated Price, Arrival Date & Technical Specs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210421278-expert-advice-on-handling-unavailable-dhcp-servers-get-connected-again/"><u>Expert Advice on Handling Unavailable DHCP Servers - Get Connected Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-internet-explorer-launch-issues-a-comprehensive-guide/"><u>Fixing Internet Explorer Launch Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-non-functional-scroll-wheel-on-your-logitech-mouse/"><u>How to Repair a Non-Functional Scroll Wheel on Your Logitech Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-solved-the-igfxem-module-malfunction-problem/"><u>How We Solved the Igfxem Module Malfunction Problem</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone without PIN</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>In 2024, Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722955725786-qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhancing-meeting-clarity-with-ms-teams-focus/"><u>[New] Enhancing Meeting Clarity with MS Teams Focus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dialing-up-engagement-youtube-thumbnails-that-convert/"><u>[New] In 2024, Dialing Up Engagement YouTube Thumbnails That Convert</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-the-art-of-online-conference-coordination/"><u>[New] Mastering the Art of Online Conference Coordination</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-reinstate-the-bluetooth-icon-in-your-windows-10-interface/"><u>Easy Fixes to Reinstate the Bluetooth Icon in Your Windows 10 Interface</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-thinkpad-t420s-driver-updates-compatible-with-windows-10/"><u>Free Download: ThinkPad T420s Driver Updates Compatible with Windows 10</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-to-hd-video-capture-how-to-use-your-macs-built-in-webcam-with-excellent-quality/"><u>Guide to HD Video Capture: How to Use Your Mac's Built-In Webcam with Excellent Quality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-htc-u23-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass HTC U23’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-netgear-nighthawk-c70er-top-tier-performance-from-a-reliable-wifi-hub/"><u>In-Depth Analysis of Netgear Nighthawk C70er: Top-Tier Performance From a Reliable WiFi Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-learn-the-easy-reset-procedure-to-bring-your-keyboard-back-to-life/"><u>Quick Fix: Learn the Easy Reset Procedure to Bring Your Keyboard Back to Life</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-xr21-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia XR21 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211749623-sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-troubleshooting-and-fixing-oddworld-soulstorm-for-stable-pc-gaming-experience/"><u>Solved: Troubleshooting and Fixing Oddworld: Soulstorm for Stable PC Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-sauce-for-a-peak-performance-ps4/"><u>The Secret Sauce for a Peak Performance PS4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unrecognized-hardware-error-code-24-in-windows-operating-systems/"><u>Troubleshooting: Unrecognized Hardware (Error Code 24) in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-the-infinite-load-screen-in-valorant-using-proven-strategies/"><u>Unstick the Infinite Load Screen in Valorant Using Proven Strategies</u></a></li>
 </ul></div>
 

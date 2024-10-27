@@ -1,7 +1,7 @@
 ---
 title: "Successfully Resolved: Diagnostic Services System Failure"
-date: 2024-10-19T19:58:41.751Z
-updated: 2024-10-21T20:11:01.390Z
+date: 2024-10-26T17:53:44.983Z
+updated: 2024-10-27T18:37:11.830Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -54,16 +61,16 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
@@ -73,20 +80,14 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Run the Network Diagnostics and see if it goes well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -111,10 +112,10 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
@@ -134,22 +135,15 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -190,19 +184,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-boosting-bank-balance-crafting-commercial-video-content-for-2024/"><u>[New] Boosting Bank Balance Crafting Commercial Video Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-sprinkle-new-colors-into-your-past-media-with-instagram/"><u>[New] How to Sprinkle New Colors Into Your Past Media with Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[New] In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-discovering-clarity-q500s-4k-adventure/"><u>[Updated] In 2024, Discovering Clarity Q500's 4K Adventure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cast-to-device-issues-on-windows-10-a-complete-guide/"><u>Fixing Cast To Device Issues On Windows 10: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-update-failed-error-code-0x800705b4-on-windows-11/"><u>How to Fix the 'Windows Update Failed' Error (Code: 0X800705b4) on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-titles-to-lengthen-viewing-times-within-limit-for-2024/"><u>Innovative Titles to Lengthen Viewing Times (Within Limit) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210014237-monitor-not-responding-fix-unsupported-signal-timings-now/"><u>Monitor Not Responding? Fix Unsupported Signal Timings Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-humor-in-minutes-kinemaster-techniques/"><u>The Art of Humor in Minutes KineMaster Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a18-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A18 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-minecrafts-error-5-with-these-simple-steps/"><u>Troubleshoot Minecraft's Error 5 with These Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-keyboard-light-feature-for-pc-and-mac-users/"><u>Troubleshooting Non-Functional Keyboard Light Feature for PC & MAC Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solvedyour-device-driver-is-not-compatible-in-wow/"><u>[SOLVED]Your Device Driver Is Not Compatible in WoW</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-sharing-excellence-twitch-live-to-your-facebook-circle-for-2024/"><u>[Updated] Sharing Excellence Twitch Live to Your Facebook Circle for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/96-off-for-lifetime-access-to-mondly-premium/"><u>96% OFF For Lifetime Access To Mondly Premium</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloading-the-linksys-ae1200-driver-made-easy-and-quick-for-all-users/"><u>Downloading the Linksys AE1200 Driver Made Easy & Quick for All Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-dxgkrnl-error-in-your-windows-videos/"><u>Effective Fixes for the Persistent Dxgkrnl Error in Your Window's Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-display-performance-by-tweaking-win1011s-hdmi-driver/"><u>Elevate Display Performance by Tweaking Win10/11's HDMI Driver</u></a></li>
+<li><a href="https://facebook.techidaily.com/has-someone-been-using-your-pc-is-someone-using-your-emails-heres-how-to-tell/"><u>Has Someone Been Using Your PC? Is Someone Using Your Emails? Here's How to Tell</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-create-compelling-content-for-facebook-reels-for-2024/"><u>How to Create Compelling Content for Facebook Reels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-malfunctioning-buttons-in-microsofts-latest-operating-systems/"><u>How to Repair Malfunctioning Buttons in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-showdown-choosing-between-the-m1-and-m2-models-the-ultimate-guide-zdnet-tech-reviews/"><u>IPad Showdown: Choosing Between the M1 and M2 Models - The Ultimate Guide | ZDNet Tech Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-beyond-windows-10-photos-8-excellent-image-viewing-options/"><u>New In 2024, Beyond Windows 10 Photos 8 Excellent Image Viewing Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-chromes-inaccessible-webpage-dilemma/"><u>Overcoming Chrome's Inaccessible Webpage Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-unintended-characters-while-typing/"><u>Solving the Issue of Unintended Characters While Typing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-the-ghostly-white-pixels-on-your-computer-monitor/"><u>Solving the Mystery of the Ghostly White Pixels on Your Computer Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-overcoming-opengl-hiccups-in-minecraft/"><u>Troubleshooting Techniques for Overcoming OpenGL Hiccups in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncover-the-solution-to-restore-gone-icons-on-your-windows-11-pc-easily/"><u>Uncover the Solution to Restore Gone Icons on Your Windows 11 PC Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-computer-restarts-causes-and-solutions-for-a-steady-performance/"><u>Unexpected Computer Restarts – Causes & Solutions for a Steady Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win11: Strategies for Lowering Provider Host CPU Load"
-date: 2024-10-17T18:03:27.144Z
-updated: 2024-10-21T20:57:21.355Z
+date: 2024-10-23T17:33:38.797Z
+updated: 2024-10-27T18:25:40.269Z
 tags:
   - win11
   - win10
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  Make sure that you**correctly plug the cables into the appropriate ports** . Make sure there are **no dust or obstacles** inside the ports that may prevent your device from working properly.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Check your mic boom**
@@ -89,15 +83,22 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
@@ -127,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
@@ -147,24 +134,24 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
-If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### in Windows 10
@@ -177,16 +164,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
@@ -210,13 +197,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### in Windows 11
 
  1) On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -225,9 +205,29 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
@@ -257,19 +257,18 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-youtube-phenomenon-forecast/"><u>[New] In 2024, YouTube Phenomenon Forecast</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-twitters-live-video-engagement/"><u>[Updated] Mastering the Art of Twitter's Live Video Engagement</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tailoring-the-perfect-video-recording-and-post-production-with-adobe-connect-for-2024/"><u>[Updated] Tailoring the Perfect Video Recording and Post-Production with Adobe Connect for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-pioneering-practices-for-type-in-ae-projects/"><u>2024 Approved Pioneering Practices for Type in AE Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722874445667-apple-music-continuous-playback-learn-how-to-pause-it-here/"><u>Apple Music Continuous Playback? Learn How to Pause It Here!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-beginner-drones-kids-edition-top-10-list/"><u>Best Beginner Drones - Kids' Edition Top 10 List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-free-webm-players-how-to-play-webm-video-files-for-2024/"><u>Best Free WebM Players How to Play WebM Video Files for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-in-ai-unraveling-the-5-major-variances-from-gpt-n35-to-gpt-4/"><u>Beyond Boundaries in AI: Unraveling the 5 Major Variances From GPT-N_3.5 to GPT-4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discovering-if-your-windows-device-is-under-group-policy-management-by-the-organization/"><u>Discovering If Your Windows Device Is Under Group Policy Management by the Organization</u></a></li>
-<li><a href="https://techidaily.com/enhancing-web-interactions-with-cookiebot-technology/"><u>Enhancing Web Interactions with Cookiebot Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-crackling-sounds-from-speakers-in-windows-operating-systems/"><u>How to Stop Crackling Sounds From Speakers in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-missing-dlls-and-classes-for-smooth-windows-11-operation/"><u>Resolving Missing DLLs and Classes for Smooth Windows 11 Operation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-excessive-disk-space-consumed-by-microsoft-compatibility-telemetry-on-windows-10/"><u>Resolving the Issue: Excessive Disk Space Consumed by Microsoft Compatibility Telemetry on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-skyrim-infinite-loading-a-complete-troubleshooting-walkthrough/"><u>Say Goodbye to Skyrim Infinite Loading: A Complete Troubleshooting Walkthrough</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-novices-nook-the-easiest-mc-dwellings-explored/"><u>[New] 2024 Approved Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-cost-free-creative-twitter-videos-to-gif-magic/"><u>[New] In 2024, Cost-Free Creative Twitter Videos to Gif Magic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-conquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[Updated] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>2024 Approved Unravel Media Complexity Transforming XML/TTML Into SRT Gold</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/encodeur-et-convertisseur-hevc-h265-options-premium-pour-plateformes-windows-11-et-mac/"><u>Encodeur Et Convertisseur HEVC H.265 : Options Premium Pour Plateformes Windows 11 Et Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo T2x 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-struggles-to-find-compatible-printer-drivers/"><u>Resolved: Windows Struggles to Find Compatible Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210300766-seamless-dual-display-setup-for-windows-7-users-no-more-unseen-screens/"><u>Seamless Dual Display Setup for Windows 7 Users - No More Unseen Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-restoring-ethernet-functionality-in-windows-11-and-windows-7-systems/"><u>Step-by-Step Guide to Restoring Ethernet Functionality in Windows 11 & Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-usb-device-recognition-and-descriptor-problems/"><u>Success Story: Overcoming USB Device Recognition and Descriptor Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unresponsive-mic-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Unresponsive Mic Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-get-your-ps4-controller-to-charge/"><u>Troubleshooting Guide: How to Get Your PS4 Controller to Charge</u></a></li>
 </ul></div>
 

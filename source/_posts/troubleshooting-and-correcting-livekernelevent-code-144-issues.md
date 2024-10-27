@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-10-19T16:49:48.312Z
-updated: 2024-10-21T19:35:36.508Z
+date: 2024-10-25T17:19:12.317Z
+updated: 2024-10-27T18:01:17.141Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ To rule out this as a possibility:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -56,36 +63,15 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -109,9 +95,23 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -120,13 +120,6 @@ To make sure you’ve this setting disabled:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
@@ -137,15 +130,28 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,14 +177,22 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/ce-34878-0-glitch-on-ps4-heres-how-you-can-easily-solve-it/"><u>CE-34878-0 Glitch on PS4? Here's How You Can Easily Solve It!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/does-bing-truly-challenge-google-unraveling-the-dynamics-insights-from-zdnet/"><u>Does Bing Truly Challenge Google? Unraveling the Dynamics - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-resolve-system-cannot-complete-task-due-to-limited-resources/"><u>Expert Tips to Resolve 'System Cannot Complete Task' Due to Limited Resources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-seamless-multimedia-elements-on-your-mac-screen/"><u>In 2024, Integrating Seamless Multimedia Elements on Your Mac Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-disk-readwrite-failures-expert-tips-for-unsticking-your-windows-n-drive/"><u>Overcome Disk Read/Write Failures: Expert Tips for Unsticking Your Windows N Drive</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-efficient-pdf-analysis-explore-navigate-with-these-6-cutting-edge-chatgpt-based-applications/"><u>Unleash Efficient PDF Analysis: Explore Navigate with These 6 Cutting-Edge ChatGPT-Based Applications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-to-restoring-touchpad-cursor-functionality/"><u>Windows 11 User's Guide to Restoring Touchpad Cursor Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-best-webcams-you-should-know/"><u>[New] 2024 Approved 10 Best Webcams You Should Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-potential-windows-update-database-error-detected-in-windows-11/"><u>[SOLVED] Potential Windows Update Database Error Detected in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-laptop-recording-with-top-screenrec-tools-for-2024/"><u>[Updated] Efficient Laptop Recording with Top ScreenRec Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp-for-2024/"><u>[Updated] Prolific Strategies for Broadcasting FB Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-thriving-in-the-economy-of-youtube-shorts-the-ultimate-guide/"><u>2024 Approved Thriving in the Economy of YouTube Shorts – The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detected-missing-windows-core-dll-for-apis/"><u>Detected Missing Windows Core DLL for APIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-typewriters-to-ticklers-unveiling-the-past-of-laptops-and-vpns-plus-ais-funny-side/"><u>From Typewriters to Ticklers: Unveiling the Past of Laptops and VPNs, Plus AI's Funny Side</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hosted-network-error-not-started-in-windows-pressenting-solutions-for-quick-fixes/"><u>Hosted Network Error 'Not Started' In Windows Pressenting Solutions for Quick Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nokia-c02-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nokia C02? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rapid-removal-of-ssgnature-backdrops-explained/"><u>In 2024, Rapid Removal of Ssgnature Backdrops Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leveraging-secondary-footage-for-enhanced-storytelling-for-2024/"><u>Leveraging Secondary Footage for Enhanced Storytelling for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterful-approaches-to-repair-your-unsuccessful-attempts-at-accessing-remote-server-resources/"><u>Masterful Approaches to Repair Your Unsuccessful Attempts at Accessing Remote Server Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quiet-car-chaos-heres-how-to-restore-audio-in-forza-horizon-4/"><u>Quiet Car Chaos? Here's How to Restore Audio in Forza Horizon 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reign-over-the-market-selecting-the-best-7-nft-enabling-services-for-2024/"><u>Reign Over the Market Selecting the Best 7 NFT-Enabling Services for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-future-without-d3d-implications-for-unreal/"><u>The Future Without D3D: Implications for Unreal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-input-not-recognized-on-your-monitor/"><u>Troubleshooting Guide: Resolving 'Input Not Recognized' On Your Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-application-initialization-errors-hex-code-0xc000007b/"><u>Troubleshooting Tips: Correcting Application Initialization Errors (Hex Code 0xC000007B)</u></a></li>
 </ul></div>
 

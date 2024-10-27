@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-10-16T21:27:05.300Z
-updated: 2024-10-21T17:42:09.486Z
+date: 2024-10-22T18:10:34.920Z
+updated: 2024-10-27T18:06:42.212Z
 tags:
   - win11
   - win10
@@ -43,10 +43,17 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
@@ -62,6 +69,13 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)  
 
  Find**Microsoft Xbox One controller** under catalog**Universal Serial Bus controllers** or**Microsoft Xbox One controller** .  
@@ -74,13 +88,6 @@ Follow the steps here to update your Xbox One controller software.
  Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
 
@@ -96,22 +103,15 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4\. Make sure your controller has fresh batteries
@@ -139,15 +139,19 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dissecting-the-potential-of-inshots-video-craft-for-2024/"><u>[New] Dissecting the Potential of InShot's Video Craft for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-zooming-in-a-comprehensive-tutorial-for-win11-enthusiasts-for-2024/"><u>[New] Zooming In A Comprehensive Tutorial for Win11 Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-insta-exiting-a-step-by-step-guide/"><u>[Updated] Mastering Insta Exiting A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/action-software-licenses-purchase-mirillis-official-e-commerce/"><u>Action! Software Licenses Purchase - Mirillis Official E-Commerce</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-unknown-usb-device-descriptor-request-failed-on-windows-a-step-by-step-guide/"><u>How to Fix the Error 'Unknown USB Device - Descriptor Request Failed' On Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-update-issue-error-8007000e/"><u>How to Resolve the Persistent Windows Update Issue: Error 8007000E</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-transferring-instagram-footage-to-pcmac-for-2024/"><u>Mastering the Art of Transferring Instagram Footage to PC/Mac for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-wudfhostexe-for-better-cpu-usage-on-your-windows-11-device/"><u>Optimizing wudfhost.exe for Better CPU Usage on Your Windows 11 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-code-24-restoring-missing-devices-on-your-windows-pc/"><u>Overcoming Code 24: Restoring Missing Devices on Your Windows PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-faceoff-exploring-differences-between-slim-and-regular-versions/"><u>PS5 Faceoff: Exploring Differences Between Slim and Regular Versions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-highlights-proven-techniques-for-business-engagement-for-2024/"><u>[New] Leveraging Highlights Proven Techniques for Business Engagement for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] 2024 Approved Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-unlock-exclusive-savings-official-secure-your-free-digiarty-mac-application-reduction-code-now/"><u>1. Unlock Exclusive Savings: [OFFICIAL] Secure Your Free Digiarty Mac Application Reduction Code Now!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>2024 Approved Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-the-frozen-screen-strategies-to-revive-your-computer/"><u>Defeating the Frozen Screen: Strategies to Revive Your Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-screen-record-on-android-for-2024/"><u>How to Screen Record on Android for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-skype-record-simplified-techniques-for-dual-os-recording/"><u>In 2024, Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-syncing-hurdles-for-your-xbox-one-controller-a-comprehensive-guide/"><u>Overcoming Syncing Hurdles for Your Xbox One Controller - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-when-the-microsoft-store-wont-open/"><u>Troubleshooting Guide for When the Microsoft Store Won't Open</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-functional-hdmi-connector-via-usb/"><u>Troubleshooting Guide: Fixing a Non-Functional HDMI Connector via USB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-resolving-loadlibrary-error-code-87/"><u>Troubleshooting Guide: Successfully Resolving LoadLibrary Error Code 87</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
 </ul></div>
 

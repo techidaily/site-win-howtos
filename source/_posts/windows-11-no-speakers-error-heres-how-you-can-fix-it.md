@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2024-10-16T17:59:51.319Z
-updated: 2024-10-21T17:11:28.687Z
+date: 2024-10-20T18:24:49.736Z
+updated: 2024-10-27T17:41:51.771Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Manually uninstall & reinstall the device driver**
@@ -70,30 +70,24 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Find**Sound, video, and game controllers** , then double-click on it to expand the list. Right-click on your audio device and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-uninstall-device-in-the-Device-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Restart your PC. After restarting, Windows should automatically re-install the sound driver. Assuming it installs the latest correct driver, this may resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Re-enable the device**
 
@@ -102,19 +96,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  1) On your keyboard, press the **Windows logo key + R keys** at the same time to invoke the Run box. Type**devmgmt.msc** hit Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Locate the**Sound, video, and game controllers** category in the list.
 
@@ -134,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2d) If the wizard tells you it can’t find any new hardware, click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-4.png)
@@ -142,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2f) Select the manufacturer and model of your sound card, then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-6.png)
@@ -149,19 +144,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  If you’re not sure what manufacturer and model to select, press the**Windows logo + R keys** simultaneously to open the Run box, type**dxdiag,** and hit Enter to open the DirectX Diagnostic Tool. Select the**Sound** tab and you should be able to see your sound card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
 
@@ -192,18 +174,17 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorous-horizons-in-the-virtual-realm-your-meme-making-map/"><u>[New] Humorous Horizons in the Virtual Realm - Your Meme-Making Map</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-get-more-followers-on-igtv-5-ways-for-2024/"><u>[Updated] How to Get More Followers on IGTV [5 Ways] for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[Updated] In 2024, OBS Recording Tech Breakdown Comparing Leading Screen Recorders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-how-to-address-and-fix-msvcr110dll-absence-issue/"><u>Comprehensive Solutions: How to Address and Fix MSVCR110.dll Absence Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-for-win32-app-crashing-problem-error-code-0x80070652/"><u>Effortless Remedies for Win32 App Crashing Problem (Error Code: 0X80070652)</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-accuracy-and-efficiency-of-windowed-discord-search/"><u>Enhancing Accuracy and Efficiency of Windowed Discord Search</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-access-public-phone-number-records-online/"><u>How to Access Public Phone Number Records Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-missing-device-warning-in-icu-software-expert-solutions/"><u>How to Fix the Missing Device Warning in ICU Software - Expert Solutions!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-audio-quality-integrating-srt-into-mp4-for-2024/"><u>Mastering Audio Quality Integrating SRT Into MP4 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722890455716-the-ultimate-tutorial-on-enhancing-your-photos-with-personal-ring-lights/"><u>The Ultimate Tutorial on Enhancing Your Photos with Personal Ring Lights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-peaceful-mode-in-windows-11/"><u>Unlocking Peaceful Mode in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-infographics-boosting-buzz-through-social-videos/"><u>[New] 2024 Approved Infographics Boosting Buzz Through Social Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellent-voice-capture-gadgets-top-7-list-2023/"><u>[New] Excellent Voice Capture Gadgets, Top 7 List 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-the-best-elgato-stream-decks-today/"><u>Comparing the Best Elgato Stream Decks Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-microsoft-antimalware-engine-overusing-resources-on-your-windows-11-pc/"><u>Comprehensive Solution for Microsoft Antimalware Engine Overusing Resources on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-professional-behringer-driver-software-free-download/"><u>Get Your Hands on Professional Behringer Driver Software - [Free Download]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-connectivity-how-to-ensure-flawless-bluetooth-pairing-on-your-windows-11-pc/"><u>Master Connectivity: How to Ensure Flawless Bluetooth Pairing on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-window-plus-shift-plus-s-hurdle-on-your-computer-running-windows-11-or-10/"><u>Overcome the 'Window + Shift + S' Hurdle on Your Computer Running Windows 11 or 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-selections-cutting-edge-iphone-tune-makers-for-2024/"><u>Prime Selections Cutting-Edge iPhone Tune Makers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-laptops-keyboard-tips-and-solutions/"><u>Resolving Issues with Your Laptop's Keyboard - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206824332-reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/step-by-step-inverting-iphone-video-order-for-2024/"><u>Step-by-Step Inverting iPhone Video Order for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creativity-start-with-8-designed-gpts/"><u>Unleash Creativity: Start with 8 Designed GPTs</u></a></li>
 </ul></div>
 

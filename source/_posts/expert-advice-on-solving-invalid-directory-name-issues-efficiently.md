@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2024-10-17T16:20:07.782Z
-updated: 2024-10-21T17:03:25.757Z
+date: 2024-10-22T16:03:09.824Z
+updated: 2024-10-27T18:01:30.383Z
 tags:
   - win11
   - win10
@@ -36,18 +36,18 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -63,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Roll back your network driver
 
@@ -81,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 6. Select the driver you’re going to restore, then click **Continue** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
@@ -100,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
@@ -121,22 +127,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 – Reset TCP/IP Configuration
 
@@ -161,26 +161,26 @@ Here’s how:
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
@@ -204,22 +204,16 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-digital-sculptors-playground-essential-tools-for-every-animator-for-2024/"><u>[New] Digital Sculptors’ Playground Essential Tools for Every Animator for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-eloquentaiartisan-the-ai-empowered-editor/"><u>[New] In 2024, EloquentAIArtisan The AI-Empowered Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-scanning-and-repairing-drive-stuck-issue-in-windows-10/"><u>[Solved] Scanning and Repairing Drive Stuck Issue in Windows 10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-insta-wonders-top-9-habits-of-influencers-and-stars-for-2024/"><u>[Updated] Insta Wonders Top 9 Habits of Influencers and Stars for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-thumbnails-unleashed-elevate-your-video-presence/"><u>[Updated] Thumbnails Unleashed Elevate Your Video Presence</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiartydvd-21/"><u>公式ブログを超えて：DigiartyソフトウェアによるDVDコピー技術解説 - 第21ページの専門知識</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-high-cpu-use-with-zoom-discover-these-6-strategies-now/"><u>Conquer High CPU Use with Zoom - Discover These 6 Strategies Now!</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/efficient-methods-for-converting-avi-files-to-the-compact-3gp-format/"><u>Efficient Methods for Converting AVI Files to the Compact 3GP Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-3-and-windows-11-compatibility-overcoming-unexpected-freezes-together/"><u>Fallout 3 & Windows 11 Compatibility – Overcoming Unexpected Freezes Together!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-11-bluetooth-missing-issue-quickly-and-easily/"><u>Fix Windows 11 Bluetooth Missing Issue. Quickly & Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-identifying-and-resolving-non-detecting-bluetooth-issues-on-windows-10-computers/"><u>Guide: Identifying & Resolving Non-Detecting Bluetooth Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-hdcp-errors-on-incompatible-monitors/"><u>How To Resolve HDCP Errors on Incompatible Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-reaction-to-valorant-freezes-reboot-call/"><u>Quick Reaction to Valorant Freezes: Reboot Call</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-0x800705b4-glitch-a-complete-guide-to-fixing-windows-10-updates/"><u>Resolving the 0X800705b4 Glitch: A Complete Guide to Fixing Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-11-update-conundrum-navigating-through-error-code-0x80240034/"><u>Resolving the Windows 11 Update Conundrum: Navigating Through Error Code 0X80240034</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-wrap-errors-in-windows-causes-solutions-and-prevention-tips/"><u>Understanding WRAP Errors in Windows: Causes, Solutions & Prevention Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-snapchat-earning-potential-step-by-step/"><u>[New] 2024 Approved Maximizing Snapchat Earning Potential Step by Step</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>[New] In 2024, Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-your-gopro-matchmaker-a-detailed-model-analysis-for-2024/"><u>[New] Your Gopro Matchmaker A Detailed Model Analysis for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/brighten-up-your-windows-11-interface-by-tweaking-the-taskbar-color-palette/"><u>Brighten Up Your Windows 11 Interface by Tweaking the Taskbar Color Palette</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-solutions-for-intermittent-connectivity-issues-with-wireless-mice-on-modern-operating-systems/"><u>Common Solutions for Intermittent Connectivity Issues with Wireless Mice on Modern Operating Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-activate-grid-in-google-meet-for-full-participant-display/"><u>In 2024, Activate Grid in Google Meet for Full-Participant Display</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-world-of-warcraft-lag-problems-for-seamless-quests-and-battles/"><u>Solving World of Warcraft Lag Problems for Seamless Quests and Battles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-elevated-cpu-use-due-to-audio-device-graph-isolation-on-windows/"><u>Step-by-Step Guide: Solving Elevated CPU Use Due to Audio Device Graph Isolation on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-netsvc-how-to-troubleshoot-and-reduce-high-svchostexe-network-activity/"><u>Understanding NETsvc: How to Troubleshoot & Reduce High Svchost.exe Network Activity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Asus ROG Phone 7? | Dr.fone</u></a></li>
 </ul></div>
 

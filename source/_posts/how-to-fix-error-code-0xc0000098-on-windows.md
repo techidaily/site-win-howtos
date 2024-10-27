@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000098 on Windows
-date: 2024-10-19T18:20:58.966Z
-updated: 2024-10-21T22:04:57.244Z
+date: 2024-10-23T17:08:57.722Z
+updated: 2024-10-27T17:56:07.749Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
  Error 651 occurs because of various reasons, such as the incorrect **Internet and IP configuration or the network card driver issue** . Although you may not be able to locate the exact cause of this problem, you can try the following methods to troubleshoot the problem and solve it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Restart your computer and modem**
 
  The network error 651 may be caused by your**PC or modem issue** , and there may be something wrong when connecting. So you can restart your modem and PC/laptop to regain the connection.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  5) Re- plug your modem with the power source, and turn it on.
 
  6) Turn on your PC.  After everything are working normally, try to connect again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Update your network card driver**
 
@@ -76,11 +90,25 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a00cda6fc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the network device to download the correct driver (you can do that with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_58e615dea0c7e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
@@ -106,16 +134,16 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3095cc11d0a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect to the network to see if your problem is solved.
 
@@ -139,27 +167,20 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click the dial up connection, and click select**Create Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a982ef43d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right click the**original dial up connection** , and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Try connecting to the network again to see if it works.
 
@@ -169,13 +190,6 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Set up a new connection or network** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309a6f1dad8.jpg)
@@ -184,38 +198,24 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309ad06313d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Select**Set up a new connection anyway** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b7a09937.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select**Broadband (PPPoE)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c351a71b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Reset TCP/IP on your Windows**
 
@@ -226,6 +226,13 @@ If the problem still persists, you can try the next solution below:
  1) Type**cmd** in the search box of the task bar. Right click**Command Prompt** (If you are using Windows 7, right click**cmd** ) to select**Run as administrator** . Then click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
@@ -242,19 +249,6 @@ netsh int ip reset reset.log
  1) Type**cmd** in the search box of the task bar. Right click**Command Prompt** (If you are using Windows 7, right click**cmd** ) to select**Run as administrator** . Then click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
@@ -283,22 +277,20 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-budgetclouds-vault-spaceful-large-data-sanctuary-for-2024/"><u>[New] BudgetCloud's Vault Spaceful Large Data Sanctuary for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-productivity-with-window-10-file-explorer-tricks/"><u>Boost Your Productivity with Window 10 File Explorer Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-dilemma-fixing-your-device-when-it-shows-as-plugged-in-but-not-charging-on-a-windows-pc-windows-710/"><u>Bypass the Dilemma: Fixing Your Device When It Shows as 'Plugged in but Not Charging' On a Windows PC (Windows 7/10)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-computing-eliminate-cannot-access-device-path-in-windows/"><u>Error-Free Computing: Eliminate 'Cannot Access Device Path' In Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/legal-landscapes-understanding-youtube-and-cc-divergences-for-2024/"><u>Legal Landscapes Understanding YouTube & CC Divergences for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-iphone-deletion-insights-and-tips-for-a-seamless-experience/"><u>Mastering iPhone Deletion: Insights and Tips for a Seamless Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-keyboard-fixes-a-step-by-step-reset-procedure/"><u>Mastering Keyboard Fixes: A Step-by-Step Reset Procedure</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nubia-z50-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nubia Z50 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-compatibility-between-shockwave-flash-and-google-chrome/"><u>Solution Steps for Compatibility Between Shockwave Flash and Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-your-unresponsive-dell-laptop-typing-pad/"><u>Solving the Mystery of Your Unresponsive Dell Laptop Typing Pad</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-cloning-windows-11-from-hdd-to-a-brand-new-ssd/"><u>Step-by-Step Guide: Cloning Windows 11 From HDD to a Brand New SSD</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-m34-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy M34 Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-stop-hearthstone-lag-with-easy-techniques/"><u>Troubleshoot and Stop Hearthstone Lag with Easy Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-sound-settings-solve-your-non-responsive-volume-issues/"><u>Troubleshooting Windows 11 Sound Settings: Solve Your Non-Responsive Volume Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/understanding-por-que-usage-vs-meaning/"><u>Understanding 'Por Que': Usage Vs. Meaning</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-text-to-video/"><u>What Is AI Text to Video?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-budget-pc-video-capture-tools-assessed/"><u>[Updated] In 2024, Budget PC Video Capture Tools Assessed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-in-depth-analysis-of-inshots-features-and-rankings/"><u>[Updated] In 2024, In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-reverse-the-norm-creative-methods-for-backward-youtube-watching/"><u>[Updated] Reverse the Norm Creative Methods for Backward Youtube Watching</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unregistered-class-errors-in-windows-11-efficiently/"><u>How to Fix Unregistered Class Errors in Windows 11 Efficiently</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 14 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-resolving-high-sound-levels-in-your-ps4-system/"><u>Identifying & Resolving High Sound Levels in Your PS4 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-s17-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo S17?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-error-8007000e-during-windows-updates/"><u>Mastering Fixes for Error 8007000E During Windows Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photographs-dancing-to-musical-rhythms/"><u>Photographs Dancing to Musical Rhythms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-failed-windows-10-may-2019-version-updates/"><u>Resolved: Troubleshooting Steps for Failed Windows 10 May 2019 Version Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixes-for-non-functional-hardware-connected-to-your-computer/"><u>Successfully Resolved: Fixes for Non-Functional Hardware Connected to Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-compressing-videos-in-final-cut-pro-x/"><u>The Ultimate Guide to Compressing Videos in Final Cut Pro X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-xs-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone XS?</u></a></li>
 </ul></div>
 

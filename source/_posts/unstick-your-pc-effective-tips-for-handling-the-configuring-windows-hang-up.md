@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up"
-date: 2024-10-18T22:09:43.230Z
-updated: 2024-10-21T21:41:23.995Z
+date: 2024-10-20T16:37:27.064Z
+updated: 2024-10-27T18:26:26.129Z
 tags:
   - win11
   - win10
@@ -74,6 +74,14 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -83,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
@@ -101,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Recreate a new PDF file
@@ -117,14 +131,14 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan your computer to detect issues
 
@@ -152,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -179,13 +193,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -221,6 +228,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -231,20 +245,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -269,24 +276,15 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>[New] In 2024, Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-15-premium-free-music-websites-every-videographer-needs-for-2024/"><u>[Updated] 15 Premium, Free Music Websites Every Videographer Needs for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-top-tier-content-guild-for-2024/"><u>[Updated] The Top Tier Content Guild for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crucial-specification-verify-your-pc-features-a-compatible-d3d11-gpu-to-function/"><u>Crucial Specification: Verify Your PC Features a Compatible D3D11 GPU to Function</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-intelligent-cpu-drivers-fast-simple-steps-inside/"><u>Download Intelligent CPU Drivers Fast - Simple Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-computers-touchpad-stops-functioning/"><u>Effective Fixes When Your Computer's Touchpad Stops Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-your-game-setup-errors-with-proven-solutions-from-origin-games-support/"><u>Eliminate Your Game Setup Errors with Proven Solutions From Origin Games Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-techniques-for-maintaining-your-windows-drive-how-to-execute-the-chkdsk-command-effectively/"><u>Essential Techniques for Maintaining Your Windows Drive: How to Execute the Chkdsk Command Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-xiaomi-civi-3-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Xiaomi Civi 3</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v29-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V29 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-troubleshooting-fixes-for-compatibility-issues-with-windows-11-8-and-7/"><u>Lenovo Mouse Pad Troubleshooting: Fixes for Compatibility Issues with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-basics-of-computer-maintenance-seamless-sata-ahci-controller-driver-updates-explained/"><u>Master the Basics of Computer Maintenance: Seamless SATA AHCI Controller Driver Updates Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-repair-of-your-touchscreen-for-windows-10-5-proven-techniques-to-get-back-control/"><u>Mastering the Repair of Your Touchscreen for Windows 10 - 5 Proven Techniques to Get Back Control</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-initializing-a-d3d-renderer-successfully/"><u>Overcoming the Challenge of Initializing a D3D Renderer Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-destiny-2s-launch-lag-tips-for-getting-past-initialization-hurdles/"><u>Resolving Destiny 2'S Launch Lag: Tips for Getting Past Initialization Hurdles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-0x800705b4-fault-during-windows-11-updates-a-comprehensive-guide/"><u>Resolving the 0X800705b4 Fault During Windows 11 Updates: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revitalizing-your-pc-with-sfc-and-dism-expert-windows-10-restoration-techniques/"><u>Revitalizing Your PC with SFC & DISM: Expert Windows 10 Restoration Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fixing-your-rtl8811au-driver-problems-easily/"><u>Step-by-Step Guide: Fixing Your RTL8811AU Driver Problems Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-key-malfunction-on-your-device/"><u>Troubleshooting Steps: Resolving the '@' Key Malfunction on Your Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-in-game-video-production-a-complete-guide-for-2024/"><u>[New] Streamlining In-Game Video Production A Complete Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-architecting-top-quality-canon-chrono-films/"><u>2024 Approved Architecting Top Quality Canon Chrono Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tricks-to-acquire-dry-stock-photography/"><u>2024 Approved Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-the-ultimate-solution-for-warframe-update-failed-issues/"><u>Fix It! The Ultimate Solution for 'Warframe Update Failed' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-incomplete-to-complete-wow-mastered-3d-visualization/"><u>From Incomplete to Complete: WoW Mastered 3D Visualization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdi-bus-error-driver-mismatch-causes-memory-integrity-issue/"><u>FTDI Bus Error: Driver Mismatch Causes Memory Integrity Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-your-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-classic-questline-versus-the-dynamic-strategy-for-2024/"><u>The Classic Questline versus the Dynamic Strategy for 2024</u></a></li>
 </ul></div>
 

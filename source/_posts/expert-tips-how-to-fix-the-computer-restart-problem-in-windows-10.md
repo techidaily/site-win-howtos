@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Fix the Computer Restart Problem in Windows 10"
-date: 2024-10-19T18:12:22.728Z
-updated: 2024-10-21T21:42:08.004Z
+date: 2024-10-24T16:23:08.693Z
+updated: 2024-10-27T17:02:46.726Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,22 +58,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -80,29 +86,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
-5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
+5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
@@ -113,13 +114,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -132,6 +126,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -165,21 +166,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-top-10-intriguing-zooid-entries/"><u>[Updated] Ultimate Guide Top 10 Intriguing Zooid Entries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-turing-test-top-five-innovative-approaches-to-evaluating-artifice-intelligence-today/"><u>Beyond the Turing Test: Top Five Innovative Approaches to Evaluating Artifice Intelligence Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-non-working-windows-key-errors-on-windows-10-devices/"><u>Diagnose and Fix Non-Working Windows Key Errors on Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-reducing-wudfhostexes-heavy-cpu-demand-on-windows-10/"><u>Effective Solutions for Reducing wudfhost.exe's Heavy CPU Demand on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/free-3d-film-converter-and-downloader-transform-and-save-your-favorite-films-as-mp4-or-mov-files/"><u>Free 3D Film Converter & Downloader: Transform and Save Your Favorite Films as MP4 or MOV Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-documenting-digital-dialogues/"><u>In 2024, Documenting Digital Dialogues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inventory-a-multitude-of-video-recorders/"><u>Inventory A Multitude of Video Recorders</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-drivers-for-your-hp-laserjet-pro-mfp-m127fn-download-and-installation-instructions/"><u>Latest Drivers for Your HP Laserjet Pro MFP M127FN - Download & Installation Instructions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros-for-2024/"><u>New The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-update-issues-a-step-by-step-guide/"><u>Resolving Windows 10 Update Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-wi-fi-connectivity-solutions-for-the-hidden-wi-fi-settings-in-windows-11/"><u>Restoring Wi-Fi Connectivity: Solutions for the Hidden Wi-Fi Settings in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210246674-squamous-cell-carcinoma-usually-appears-as-a-central-tumor-and-can-lead-to-local-obstruction-symptoms/"><u>Squamous Cell Carcinoma Usually Appears as a Central Tumor and Can Lead to Local Obstruction Symptoms.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-lost-vcruntime1n40dll-file-expert-tips-and-tricks/"><u>Troubleshooting the Lost VCRUNTIME1n40.dll File - Expert Tips & Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/trump-suspension-review-set-for-social-network/"><u>Trump Suspension Review Set for Social Network</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-sky-high-success-on-social-media-mastering-dji-drone-streams/"><u>[New] Sky-High Success on Social Media Mastering DJI Drone Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-equipment-starter-guide-for-beginners/"><u>[Updated] YouTube Equipment Starter Guide For Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/assessing-the-ip-rating-of-the-new-iphone-15-how-well-does-it-handle-moisture/"><u>Assessing the IP Rating of the New iPhone 15: How Well Does It Handle Moisture?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-gratuitement-votre-fichier-arw-au-format-jpeg-avec-une-solution-en-ligne-movavi/"><u>Convertissez Gratuitement Votre Fichier ARW Au Format JPEG Avec Une Solution en Ligne - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-tips-for-flawless-graphics-driver-updates-in-windows-11/"><u>Essential Tips for Flawless Graphics Driver Updates in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-minecraft-error-code-5/"><u>FIX Minecraft Error Code 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-failure-in-creating-a-directx-graphics-processing-unit-gpu/"><u>Fixing the Issue of Failure in Creating a DirectX Graphics Processing Unit (GPU)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-silent-issue-ultimate-guide-to-restoring-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Ultimate Guide to Restoring Audio in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-apply-the-feature-update-on-windows-11-v1607/"><u>How to Successfully Apply the Feature Update on Windows 11 V1607</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-horizons-in-media-grasping-the-fundamentals-of-screen-resolution-for-2024/"><u>New Horizons in Media Grasping the Fundamentals of Screen Resolution for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-data-integrity-issues-with-cyclic-redundancy-check-solutions/"><u>Overcoming Data Integrity Issues with Cyclic Redundancy Check Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-ai-secrets-to-accelerate-success/"><u>Proven AI Secrets to Accelerate Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-buttons-on-hp-laptops-expert-advice/"><u>Quick Fixes for Non-Responsive Buttons on HP Laptops: Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stuck-taskbars-on-windows-11-a-comprehensive-guide-to-effective-solutions/"><u>Resolving Stuck Taskbars on Windows 11: A Comprehensive Guide to Effective Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-instagram-filters/"><u>The Ultimate Guide to Instagram Filters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-automatic-repair-loop-solved/"><u>Windows 10 Automatic Repair Loop [Solved]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2024-10-17T18:03:51.907Z
-updated: 2024-10-21T16:49:07.900Z
+date: 2024-10-22T16:12:20.577Z
+updated: 2024-10-27T17:58:47.368Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 3. Click**Screen saver settings** at the bottom of the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
@@ -104,38 +104,33 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For Windows 7:**
 
 1. Open**Control Panel** .
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -149,22 +144,31 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
 
@@ -177,19 +181,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
@@ -218,22 +209,22 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-video-conference-set-ups-slack-and-filmora-guide/"><u>[Updated] 2024 Approved Optimizing Video Conference Set-Ups Slack & Filmora Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-evaluated-and-ranked-the-best-iphone-photo-watermarkers/"><u>[Updated] In 2024, Evaluated and Ranked The Best iPhone Photo Watermarkers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-insiders-guide-to-preserving-whatsapp-chat-history/"><u>[Updated] The Insider's Guide to Preserving WhatsApp Chat History</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-monotonous-to-magical-applying-video-effects-in-zoom/"><u>2024 Approved From Monotonous to Magical Applying Video Effects in Zoom</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-pen-and-touch-sensitivity-after-screen-malfunction/"><u>Expert Advice: Restoring Pen and Touch Sensitivity After Screen Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-dead-screen-to-battlefield-fortnite-launches/"><u>From Dead Screen to Battlefield: Fortnite Launches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-back-in-control-resolving-power-issues-with-your-ps4-controllers-battery/"><u>Get Back in Control - Resolving Power Issues with Your PS4 Controller's Battery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-night-light-feature-up-and-running-again-on-your-windows-1011-device/"><u>Getting the Night Light Feature Up and Running Again on Your Windows 10/11 Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a05s-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A05s by Name | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximize-your-gaming-experience-in-windows-11-with-these-key-optimization-techniques/"><u>Maximize Your Gaming Experience in Windows 11 with These Key Optimization Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-when-your-steam-store-wont-open-correctly/"><u>Quick Fixes when Your Steam Store Won't Open Correctly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-playback-issues-in-digital-videos/"><u>Repairing Playback Issues in Digital Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-consumption-by-wudfhostexe-on-windows-11/"><u>Resolving Excessive CPU Consumption by wudfhost.exe on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/securely-wipe-your-files-on-mac-using-stellar-file-erasers-basic-features-and-eradication-planning/"><u>Securely Wipe Your Files on Mac Using Stellar File Eraser's Basic Features and Eradication Planning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-animating-items-on-screen-tutorial-for-engaging-content/"><u>Techniques for Animating Items on Screen - Tutorial for Engaging Content</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 15 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-file-explorer-guide-enhance-your-organization-and-efficiency-skills/"><u>Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[Updated] How to Loop a YouTube Video The Ultimate Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-maximize-your-valorant-potential-try-this-costless-game-changer-today-for-2024/"><u>[Updated] Maximize Your Valorant Potential - Try This Costless Game Changer Today for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehve-solutions-for-stabilizing-robocop-rogue-city-when-running-on-pc-platforms/"><u>Comprehve Solutions for Stabilizing RoboCop: Rogue City When Running on PC Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-device-not-showing-up-via-bluetooth-in-windows-10/"><u>Diagnose & Repair: Device Not Showing Up via Bluetooth in Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y56-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y56 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone XS?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>In 2024, Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-livekernelevent-141-hardware-glitches-2024-edition/"><u>Overcoming LiveKernelEvent 141 Hardware Glitches, 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-issues-successful-steps-for-troubleshooting-steam-download-failures/"><u>Resolving Your Issues: Successful Steps for Troubleshooting Steam Download Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/settling-cldll-non-existence-in-devices/"><u>Settling ClDLL Non-Existence in Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-persistent-error-code-0x80072f8f-in-windows-10-and-11/"><u>Troubleshooting and Fixing the Persistent Error Code 0X80072F8f in Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-creation-of-d3d-device-after-failure/"><u>Troubleshooting Guide: Successful Creation of D3D Device After Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-your-driverpowerstatefailure-issue/"><u>Troubleshooting Tips to Fix Your DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-intermittent-system-power-failures-on-pcs/"><u>Understanding & Correcting Intermittent System Power Failures on PCs</u></a></li>
 </ul></div>
 

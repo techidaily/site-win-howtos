@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2024-10-14T21:05:41.974Z
-updated: 2024-10-21T17:39:37.564Z
+date: 2024-10-25T17:53:19.461Z
+updated: 2024-10-27T17:26:50.893Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ Follow these:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
@@ -71,10 +71,10 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -83,16 +83,30 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -102,19 +116,6 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -133,22 +134,17 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-engage-viewers-from-the-start-mobile-film-techniques-for-thumbnails-for-2024/"><u>[New] Engage Viewers From the Start Mobile Film Techniques for Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-omniimageai-holistic-editing-experience/"><u>[New] OmniImageAI Holistic Editing Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[Updated] In 2024, Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/warmup-needed-after-playing/"><u>[WARMUP] Needed After Playing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-is-av1-really-outdo-cooking-vp9/"><u>2024 Approved Is AV1 Really Outdo Cooking VP9?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209144841-biomarker-testing-is-essential-for-identifying-patients-who-will-benefit-from-targeted-therapy/"><u>Biomarker Testing Is Essential for Identifying Patients Who Will Benefit From Targeted Therapy.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-comprehensive-insights-and-reviews/"><u>Exploring Tom's Hardware: Comprehensive Insights and Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-applied-custom-setup-features-now-fully-functional-again/"><u>Fixes Applied: Custom Setup Features Now Fully Functional Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-locate-the-start-menu-in-windows-10-a-step-by-step-guide/"><u>How to Locate the 'Start' Menu in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 14 without Password?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-vintage-vision-iphone-x-posed-selfies/"><u>In 2024, Vintage Vision IPhone X Posed Selfies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/instant-subtitling-hacks-for-all-your-facebook-videos/"><u>Instant Subtitling Hacks for All Your Facebook Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/network-initialization-issue-resolved-in-dragon-ball-fighterz/"><u>Network Initialization Issue Resolved in Dragon Ball FighterZ</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlining-fb-message-transcription-with-expert-tips-for-2024/"><u>Streamlining FB Message Transcription with Expert Tips for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixing-the-critical-setup-failure-error-1603/"><u>Successfully Resolved: Fixing the Critical Setup Failure - Error 1603</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-jumpy-scroll-bars-in-windows-10-file-explorer-solutions-that-work/"><u>Troubleshooting Jumpy Scroll Bars in Windows 10 File Explorer: Solutions That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-why-cant-i-print-to-pdf-with-microsoft-heres-help/"><u>Windows 11 Update: Why Can't I Print to PDF with Microsoft? Here’s Help!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-leading-game-recorders-beyond-fbx-files/"><u>[New] 2024 Approved Leading Game Recorders Beyond FBX Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/orrected-non-existence-of-shorts-on-feeds/"><u>[New] Corrected Non-Existence of Shorts on Feeds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-evaluating-active-8-does-it-match-best-recording-standards/"><u>[Updated] In 2024, Evaluating Active 8 - Does It Match Best Recording Standards?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/brightness-adjustment-trouble-solving-windows-11-display-problems/"><u>Brightness Adjustment Trouble: Solving Windows 11 Display Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-world-of-streaming-gadgets-an-essential-overview/"><u>Demystifying the World of Streaming Gadgets: An Essential Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210932111-forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illustrator-tips-achieving-natural-motion-blur/"><u>Illustrator Tips Achieving Natural Motion Blur</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic-6-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic 6 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 14 to Android | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-class-not-registered-problems-easily/"><u>Troubleshooting Windows 11: Solving 'Class Not Registered' Problems Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-mice-issues-consistent-connectivity-for-windows-1011-systems/"><u>Winning Over Wi-Fi Mice Issues: Consistent Connectivity for Windows 10/11 Systems</u></a></li>
 </ul></div>
 

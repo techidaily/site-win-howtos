@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Solving Constant USB Drive Unplugging Problems
-date: 2024-10-20T19:16:56.988Z
-updated: 2024-10-21T19:22:21.826Z
+date: 2024-10-26T17:00:14.631Z
+updated: 2024-10-27T16:19:38.730Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
@@ -45,10 +52,10 @@ You may fail to install the 1607 update because the**Windows Update components**
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
@@ -68,32 +75,25 @@ You may fail to install the 1607 update because the**Windows Update components**
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
@@ -118,15 +118,22 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-using-youtube-on-iosandroid-devices/"><u>[New] The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-resolving-no-video-issue-on-sony-a6400-device/"><u>[Updated] Resolving No-Video Issue on Sony A6400 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/busting-through-effective-strategies-to-tackle-halo-4s-ue4-fatal-error-edition/"><u>Busting Through: Effective Strategies to Tackle Halo 4'S UE4 Fatal Error Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/finding-the-right-camera-to-support-windows-hello/"><u>Finding the Right Camera to Support Windows Hello</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-the-new-product-launches-with-samsungs-live-stream/"><u>How to Enjoy the New Product Launches with Samsung's Live Stream</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-c51-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco C51</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-the-high-cost-justified-in-depth-look-at-the-quality-and-features-of-ws-1002-ambient-weather-station-with-wifi/"><u>Is the High Cost Justified? In-Depth Look at the Quality and Features of WS-1002 Ambient Weather Station With WiFi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-freezes-in-windows-7-updates-expert-advice-edition-tip/"><u>Troubleshooting Freezes in Windows 7 Updates – Expert Advice Edition (Tip)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-restarting-your-bluetooth-stack-service/"><u>Troubleshooting Tips: Successfully Restarting Your Bluetooth Stack Service</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses-for-2024/"><u>[New] Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-select-your-dreams-best-vr-bike-trails/"><u>[Updated] Select Your Dreams Best VR Bike Trails</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts-for-2024/"><u>[Updated] Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banish-the-blur-7-proven-methods-for-a-sharper-iphone-snapshots/"><u>Banish the Blur: 7 Proven Methods for a Sharper iPhone Snapshots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-techniques-for-unfreezing-the-windows-11-taskbar-issue/"><u>Best Techniques for Unfreezing the Windows 11 Taskbar Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-blizzards-wow-lag-proven-strategies-for-smooth-gameplay/"><u>Combat Blizzard's Wow Lag: Proven Strategies for Smooth Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-iphone-images-jpeg-png-guided-conversion-to-pdfs-for-2024/"><u>From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Max 3 Ways To Unlock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202987997-mac-camera-issues-resolve-them-with-these-easy-techniques/"><u>Mac Camera Issues? Resolve Them with These Easy Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-fixing-unexpected-shutdowns-in-windows-11-step-by-step-strategies/"><u>Master the Art of Fixing Unexpected Shutdowns in Windows 11 – Step by Step Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-a-guide-to-repairing-unknown-usb-and-port-reset-faults-in-windows-11-systems/"><u>Mastering the Fix: A Guide to Repairing Unknown USB and Port Reset Faults in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-limited-memory-challenges-fixing-windows-10-errors/"><u>Overcoming Limited Memory Challenges: Fixing Windows 10 Errors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-urdu-skills-just-10-minsday/"><u>Quick Urdu Skills, Just 10 Mins/Day!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-unfreezing-your-laptops-trackpad-or-external-mouse/"><u>Step-by-Step Solutions: Unfreezing Your Laptop's Trackpad or External Mouse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-secret-of-superiority-in-photo-hue-modification-for-2024/"><u>The Secret of Superiority in Photo Hue Modification for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-to-quickly-correct-it/"><u>VCRUNTIME140.dll Not Found? Here's How to Quickly Correct It!</u></a></li>
 </ul></div>
 

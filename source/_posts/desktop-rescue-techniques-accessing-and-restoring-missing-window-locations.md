@@ -1,7 +1,7 @@
 ---
 title: "Desktop Rescue Techniques: Accessing and Restoring Missing Window Locations"
-date: 2024-10-19T19:56:25.951Z
-updated: 2024-10-21T22:14:30.586Z
+date: 2024-10-26T18:38:17.870Z
+updated: 2024-10-27T16:56:51.518Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Close unused apps and set high priority for PUBG
 
  Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
@@ -55,6 +62,13 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Lower your game resolution
 
@@ -80,22 +94,15 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -117,26 +124,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
-3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -160,16 +161,17 @@ So to tweak the settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>[New] Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-powerful-films-for-purpose-and-positivity/"><u>[Updated] 2024 Approved Powerful Films for Purpose and Positivity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-free-frame-flip-converting-tweets-into-tweenish-movies-for-2024/"><u>[Updated] Free Frame Flip Converting Tweets Into Tweenish Movies for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3d-lut-expertise-in-a-quick-learning-journey/"><u>3D LUT Expertise in a Quick Learning Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-rid-of-the-unsettling-red-screen-problems-in-windows-11/"><u>How to Get Rid of the Unsettling Red Screen Problems in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-11-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 11 Pro online without jailbreak</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-overcoming-hurdles-in-your-latest-windows-11-system-update/"><u>Solved! Overcoming Hurdles in Your Latest Windows 11 System Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-overcoming-bluetooth-mouse-connection-problems-in-windows/"><u>Step-by-Step Resolution: Overcoming Bluetooth Mouse Connection Problems in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transformez-gratuitement-un-fichier-voc-en-format-wmv-sur-internet-avec-convertisseur-video-easy-webmovavi/"><u>Transformez Gratuitement Un Fichier VOC en Format WMV Sur Internet Avec Convertisseur Vidéo Easy - Webmovavi</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209521615-unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-tips-and-tricks-for-designing-memorable-discord-pfps/"><u>[Updated] In 2024, Tips and Tricks for Designing Memorable Discord PFPs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simplicity-in-action-constructing-an-intuitive-youtube-signup-page/"><u>[Updated] Simplicity in Action Constructing an Intuitive YouTube Signup Page</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-guide-to-final-cut-pro-for-film-professionals/"><u>2024 Approved Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-practical-solutions-for-gpeditmsc-not-found-crisis/"><u>3 Practical Solutions for Gpedit.msc Not Found Crisis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromatic-mastery-image-transformation-techniques-for-2024/"><u>Chromatic Mastery Image Transformation Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-guide-getting-your-lenovo-laptop-camera-back-online/"><u>DIY Repair Guide: Getting Your Lenovo Laptop Camera Back Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-way-to-update-and-fix-driver-issues-with-usb-serial-conversion-tools/"><u>Easy Way to Update and Fix Driver Issues with USB-Serial Conversion Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-fix-the-persistent-kb40240034-glitch-in-windows-10/"><u>Expert Solutions to Fix the Persistent KB40240034 Glitch in Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-hello-for-free-around-the-globe-our-ultimate-selection-of-international-call-apps-without-cost/"><u>Say Hello for Free Around the Globe: Our Ultimate Selection of International Call Apps Without Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-tablet-charging-problems-what-if-the-device-says-fully-charged-but-wont-turn-on/"><u>Solving Tablet Charging Problems: What If the Device Says Fully Charged But Won't Turn On?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-fixing-the-persistent-error-0x800f020b-after-xerox-software-update-on-windows-computers/"><u>Ultimate Solution: Fixing the Persistent Error 0X800f020b After Xerox Software Update on Windows Computers</u></a></li>
 </ul></div>
 

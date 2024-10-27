@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-10-18T16:26:52.198Z
-updated: 2024-10-21T22:16:40.199Z
+date: 2024-10-23T18:25:06.545Z
+updated: 2024-10-27T18:22:57.096Z
 tags:
   - win11
   - win10
@@ -39,6 +39,19 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -54,13 +67,6 @@ the picture was taken by: Article\_86
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -80,16 +86,16 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -101,16 +107,10 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
@@ -129,26 +129,26 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] 2024 Approved The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-hulu-live-anywhere-a-practical-how-to-manual-for-2024/"><u>[New] Capturing Hulu Live Anywhere - A Practical How-To Manual for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-screen-capturing-top-5-mac-alternatives-excluding-bandicam/"><u>[Updated] 2024 Approved Elite Screen Capturing Top 5 Mac Alternatives Excluding Bandicam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-conversation-replication-techniques/"><u>Chatbot Conversation Replication Techniques</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-optimize-your-site-with-cutting-edge-automation/"><u>Cookiebot-Driven Solutions: Optimize Your Site with Cutting-Edge Automation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solution-to-overcome-problem-0x800f0831-using-windows-update-feature/"><u>Effortless Solution to Overcome Problem 0X800F0831 Using Windows Update Feature</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortless-techniques-to-extract-and-print-messages-on-android-phones/"><u>Effortless Techniques to Extract and Print Messages on Android Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-computers-startup-eliminate-slow-boot-issues-on-windows-7/"><u>Enhance Your Computer's Startup: Eliminate Slow Boot Issues on Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-wow-experience-by-eliminating-latency-problems/"><u>Enhance Your WoW Experience by Eliminating Latency Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209587395-fast-solutions-for-windows-installation-problems-now-fixed/"><u>Fast Solutions for Windows Installation Problems - Now Fixed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/integrating-xbox-one-joystick-into-your-pc-gameplay/"><u>Integrating Xbox One Joystick Into Your PC Gameplay</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb-for-2024/"><u>Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-the-stalled-windows-update-feature-step-by-step-solutions/"><u>Reactivate the Stalled Windows Update Feature – Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-unsuccessful-feature-updates-in-windows-11-version-1803/"><u>Resolved: Troubleshooting Steps for Unsuccessful Feature Updates in Windows 11 (Version 1803)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-pc-bypassing-quick-fixes-for-windows-cannot-install/"><u>Streamline Your PC: Bypassing Quick Fixes for 'Windows Cannot Install'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-crash-problems-in-pc-version-solutions-inside/"><u>Troubleshooting R-Type Final 2 Crash Problems in PC Version - Solutions Inside</u></a></li>
-<li><a href="https://win-docs.techidaily.com/zdnet-unveils-game-changing-flash-drive-to-breathe-new-life-into-your-old-iphone/"><u>ZDNet Unveils Game-Changing Flash Drive to Breathe New Life Into Your Old iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ensuring-privacy-in-zoom-meetings-by-recording/"><u>[New] In 2024, Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-the-hurdles-in-teredos-network-connection-process/"><u>Deciphering the Hurdles in Teredo's Network Connection Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discerning-divergence-360-video-vs-virtual-reality/"><u>Discerning Divergence 360° Video Vs. Virtual Reality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-9-destinations-for-gratis-early-childhood-education-games/"><u>Discover the Ultimate 9 Destinations for Gratis Early Childhood Education Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elegant-exteriors-discover-the-best-websites-for-your-laptops-look/"><u>Elegant Exteriors Discover the Best Websites for Your Laptop's Look</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208360473-get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips.</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y78t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-with-destiny-2-servers-when-theyre-down/"><u>How to Restore Connectivity with Destiny 2 Servers When They're Down</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instaloops-unlocked-the-addictive-power-of-instagrams-boomers-for-2024/"><u>InstaLoops Unlocked The Addictive Power of Instagram's Boomers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-the-troublesome-windows-error-understanding-and-fixing-0x8000ffff/"><u>Overcoming the Hurdle of the Troublesome Windows Error: Understanding and Fixing 0X8000FFFF</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-building-errors-resolved-load-up-without-interruption/"><u>PUBG Building Errors Resolved: Load Up Without Interruption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/red-screen-resolved-step-by-step-fix-for-common-software-glitches/"><u>Red Screen Resolved: Step-by-Step Fix for Common Software Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-update-error-0xc1900208-step-by-step-tutorial/"><u>Resolve Your Windows 11 Update Error (0xC1900208) - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-a-persistent-laptop-displaying-only-a-white-screen/"><u>Resolved: How to Fix a Persistent Laptop Displaying Only a White Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201338798-spacebar-key-stuck-or-unresponsive-in-windows-11-heres-what-to-do/"><u>Spacebar Key Stuck or Unresponsive in Windows 11? Here's What to Do</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-your-ipad-wont-pair-with-wi-fi-at-home-or-work/"><u>The Ultimate Fix for When Your iPad Won't Pair with Wi-Fi at Home or Work</u></a></li>
 </ul></div>
 

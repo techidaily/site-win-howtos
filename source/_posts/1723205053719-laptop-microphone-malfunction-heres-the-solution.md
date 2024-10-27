@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2024-10-20T18:02:28.381Z
-updated: 2024-10-21T19:31:38.447Z
+date: 2024-10-21T17:45:24.337Z
+updated: 2024-10-27T16:16:52.601Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Read on this small guide and follow to solve the problem on your Windows.
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
  Since the error message tells you that the service is not running, the first quick solution is to check the service status in the Services window.
@@ -63,10 +70,10 @@ Follow these steps：
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
@@ -75,6 +82,13 @@ Follow these steps：
 
 6) Run the Network Diagnostics and see if it goes well.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
  This problem could happen due to the service doesn’t have access to run properly. You can easily fix it by giving the services administrator privilege.
@@ -82,13 +96,6 @@ Follow these steps：
  1) Type**cmd** in the search box from the Start menu. Then right-click on**Command Prompt** or**cmd.exe** to select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d600a418d0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type the following commands and press**Enter** after each.
 
@@ -106,6 +113,13 @@ net localgroup Administrators /add localservice
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Reinstall your network adapters
 
  This error could be also caused by your malfunctioned network adapters. You can try to reinstall your network adapters to solve it.
@@ -117,22 +131,15 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
@@ -151,13 +158,6 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -184,16 +184,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-through-the-top-10-making-magic-on-youtube/"><u>[Updated] 2024 Approved Navigating Through the Top 10 Making Magic on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-essentials-for-a-powerful-metaverse-experience-top-7-for-2024/"><u>[Updated] The Essentials for a Powerful Metaverse Experience (Top 7) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breaking-free-from-windows-1-solutions-for-incessant-re-starting-issues/"><u>Breaking Free From Windows 1지원택: Solutions for Incessant Re-Starting Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-non-responsive-keyboard-buttons-on-your-hp-laptop/"><u>Easy Fixes for Non-Responsive Keyboard Buttons on Your HP Laptop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-downloading-latest-drivers-for-your-lenovo-x1-carbon-on-windows-11windows-n7/"><u>Easy Guide: Downloading Latest Drivers for Your Lenovo X1 Carbon on Windows 11/Windows N7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-completed-what-to-do-when-your-device-refuses-to-start/"><u>Expert Guide Completed: What to Do When Your Device Refuses to Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-issues-when-the-system-cant-find-them/"><u>How To Fix Windows Update Issues When The System Can't Find Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-lost-d3dx943dll-on-windows-a-step-by-step-guide-to-quick-repair/"><u>Restore Lost d3dx9_43.dll on Windows: A Step-by-Step Guide to Quick Repair</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/syncopation-and-screenplay-directing-music-videos-with-ios-for-2024/"><u>Syncopation & Screenplay Directing Music Videos with iOS for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-your-storage-with-a-thorough-review-of-western-digital-data-lifeguard/"><u>Unlocking the Potential of Your Storage with a Thorough Review of Western Digital Data Lifeguard</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-simplify-video-editing-on-mac-mkvtoolnix-2023-guide-for-2024/"><u>Updated Simplify Video Editing on Mac MKVtoolnix 2023 Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>[New] No Experience? No Obstacle The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-m6-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco M6 Pro 5G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrected-non-hid-interactive-capability-in-touch-screen/"><u>Corrected Non-HID Interactive Capability in Touch Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-overcoming-the-challenge-of-an-unresponsive-backspace-button/"><u>Fix It! Overcoming the Challenge of an Unresponsive Backspace Button</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds-for-2024/"><u>Going Against the Tide of Tradition Innovative Techniques for YT Rewinds for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-computer-when-it-gets-stuck-during-windows-setup/"><u>How to Fix Your Computer When It Gets Stuck During Windows Setup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c67-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C67 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-minecraft-crashes-stemming-from-outdated-or-corrupted-windows-vga-drivers/"><u>Step-by-Step Solutions for Minecraft Crashes Stemming From Outdated or Corrupted Windows VGA Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/supported-disc-compatibility-understanding-your-dvd-players-capabilities/"><u>Supported Disc Compatibility: Understanding Your DVD Player's Capabilities</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/utilizing-cookiebot-technology-for-advanced-web-behavior-tracking-and-conversion-optimization/"><u>Utilizing Cookiebot Technology for Advanced Web Behavior Tracking & Conversion Optimization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unseen Second Monitor on Modern OSes (Win11/10)
-date: 2024-10-18T21:35:36.850Z
-updated: 2024-10-21T18:23:51.819Z
+date: 2024-10-24T17:20:11.720Z
+updated: 2024-10-27T17:40:42.496Z
 tags:
   - win11
   - win10
@@ -41,24 +41,10 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-pc-screen-only.jpg)
 2. Disconnect all the external monitors (unplug the cables) and power off your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Reconnect all the monitors and power on your computer.
 4. Press the**Windows logo key** and the**P key** again. And click**Extend** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-extend.jpg)
 5. See if your third monitor is working now. If not, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check Multiple Monitors settings
 
@@ -66,47 +52,58 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 2. Here you can confirm if all of your displays are detected. If not, click on the**Multiple displays** section and select**Detect** .  
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-display-detect.jpg)
 3. If yes, drag the three monitors to match your display configuration. (You can click**Identify** if you don’t know which screen is which.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Alternatively, you can right-click on your desktop and select**NVIDIA Control Panel** to double-check your settings.
 5. Go to**Display** \>**Set up multiple displays** , and make sure you’ve checked all the displays. You can also drag the icons here.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/control-panel-set-up.png)
 
  If your 3rd monitor remains not detected after basic troubleshooting, the culprit might be your graphics drivers. You can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your graphics card
 
 1. On your keyboard, press the**Windows logo key** and the**R key** (Win+R) to open the Run command window. Then enter**devmgmt.msc** in the box and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run.jpg)
 2. Expand Display adapters. Right-click your graphics card driver and select**Disable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable.jpg)
 3. Wait for about 5 seconds for the device to be disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click the graphics driver again and select**Enable device** .
 5. Your third monitor should be detected right now.
 
 **Note:** If you have two graphics cards under Display adapters, you can disable NVIDIA or AMD cards and enable them back.  
   
  If it doesn’t work for you this way, you can just disable your Intel card and let NVIDIA or AMD card driver do the job. Then reconnect your third monitor to check if it’s working now.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -153,16 +150,23 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Check if your third monitor can be detected now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Rollback your graphics driver
 
@@ -176,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 4. Restart your computer for the changes to take effect.
 
 > **Note:** _If the_ **_Roll Back Driver_**   _option is grayed out, it means there is no driver version that Windows can roll back to. This doesn’t mean it’s impossible to roll back the driver, just that you won’t be able to do it from the built-in option. You can download a previous graphics driver from the manufacturer’s website for your graphics card and install it manually, or try the following fix._
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6\. Repair your PC
 
@@ -207,23 +204,23 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -306,22 +303,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-red-screen-of-death/"><u>[SOLVED] How To Fix Red Screen of Death</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-earning-potential-unlocked-profitable-strategies-for-youtube-on-fb/"><u>2024 Approved Earning Potential Unlocked Profitable Strategies for YouTube on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>2024 Approved Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-ineteresourcenotfound-error-in-your-projects/"><u>How to Address the INET_E_RESOURCE_NOT_FOUND Error in Your Projects</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-recommended-asmrists-for-nighttime-calmness/"><u>In 2024, Top Recommended ASMRists for Nighttime Calmness</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/intelligent-web-surfing-next-gen-site-search-tech/"><u>Intelligent Web Surfing: Next-Gen Site Search Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/sieben-der-fuhrenden-software-losungen-zur-videobearbeitung-auf-windows-systemen-versione-1110/"><u>Sieben Der Führenden Software-Lösungen Zur Videobearbeitung Auf Windows-Systemen (Versione 11/10)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-excellence-building-a-robust-online-footprint-across-facebook-twitter-instagram-and-youtube/"><u>Social Media Excellence: Building a Robust Online Footprint Across Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-device-detection-errors-a-guide-for-bluetooth-in-windows-10/"><u>Solving Device Detection Errors: A Guide for Bluetooth in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-11-usb-connectivity-issues-quick-fixes-and-tips/"><u>Solving Windows 11 USB Connectivity Issues: Quick Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correct-chromes-errnetworkchanged-or-similar-issues/"><u>Step-by-Step Guide to Correct Chrome's ERR_NETWORK_CHANGED or Similar Issues</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-get-your-non-responsive-chrome-back-on-track/"><u>Troubleshooting: Get Your Non-Responsive Chrome Back on Track</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-telemetry-overwhelms-storage-on-your-windows-10-machine/"><u>Troubleshooting: Microsoft Telemetry Overwhelms Storage on Your Windows 10 Machine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unpacking-consumer-interest-in-apple-xr-devices-visionpro-freight-timelines-as-a-demand-indicator-the-exclusive-report/"><u>Unpacking Consumer Interest in Apple XR Devices: VisionPro Freight Timelines as a Demand Indicator - The Exclusive Report</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-unresponsive-file-explorer-on-your-windows-11-system-solution/"><u>Winning Against Unresponsive File Explorer on Your Windows 11 System [Solution]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44ot44oh44kq5yaf5a6544ks44kr44k544k44oe44kk44k644gz44kl44gf44kb44gu5bcc6zaa55qe44gq5oml5rov/"><u>ビデオ内容をカスタマイズするための専門的な手法</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-dual-screen-optimization-using-safaris-picture-in-picture/"><u>[New] 2024 Approved Dual Screen Optimization Using Safari’s Picture In Picture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simultaneous-video-documentation/"><u>[New] In 2024, Simultaneous Video Documentation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>[Updated] 2024 Approved Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-definitive-list-of-win10s-top-video-capture-software-for-2024/"><u>[Updated] The Definitive List of Win10's Top Video Capture Software for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-intels-wi-fi-6-network-failure-addressed/"><u>AX201: Intel's Wi-Fi 6 Network Failure Addressed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancement-alert-new-gpu-prerequisite-d3d11-compatibility-required-by-game-software/"><u>Enhancement Alert: New GPU Prerequisite - D3D11 Compatibility Required by Game Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-update-failed-error-code-0x800f0922-on-windows-10/"><u>Expert Tips for Overcoming the 'Update Failed' Error (Code 0X800f0922) on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208637048-fixing-the-issue-how-to-resolve-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: How to Resolve Windows Update Error Code 0X8007001f</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ation-in-action-youtube-split-screen-techniques/"><u>Innovation in Action YouTube Split-Screen Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-damaged-system-files-in-windows-10-and-11-step-by-step-guide/"><u>Repairing Damaged System Files in Windows 10 & 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-bulk-printing-and-cut-expenses-snag-huge-savings-with-the-elegoo-neptune-3plus-enjoy-80-off-now/"><u>Revolutionize Bulk Printing and Cut Expenses: Snag Huge Savings with the Elegoo Neptune 3+ - Enjoy $80 Off Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/stay-productive-on-the-go-plugables-foldable-laptoptablet-stand-pt-standx-in-depth-review-and-benefits/"><u>Stay Productive on the Go: Plugable's Foldable Laptop/Tablet Stand (PT-STANDX) – In-Depth Review and Benefits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-common-dll-has-stopped-working-in-windows-bid-error-goodbye/"><u>Step-by-Step Fix for 'Common DLL Has Stopped Working' In Windows: Bid Error Goodbye</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-fix-tips-for-overcoming-the-absence-of-hardware-drivers-in-windows-7-setup/"><u>Successful Fix Tips for Overcoming the Absence of Hardware Drivers in Windows 7 Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-the-kb4056892-hurdle-windows-10-update-installation-tips/"><u>Successfully Overcoming the KB4056892 Hurdle - Windows 10 Update Installation Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-how-warren-buffett-abandons-his-sole-indian-bet-with-paytms-downfall/"><u>ZDNet Exclusive: How Warren Buffett Abandons His Sole Indian Bet with Paytm's Downfall</u></a></li>
 </ul></div>
 

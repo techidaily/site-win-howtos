@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-10-14T20:49:28.422Z
-updated: 2024-10-21T16:58:07.421Z
+date: 2024-10-24T17:25:10.487Z
+updated: 2024-10-27T17:44:52.711Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
@@ -59,10 +66,10 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
@@ -70,19 +77,6 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -112,6 +106,19 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -121,6 +128,13 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -140,13 +154,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
@@ -154,10 +161,16 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -173,13 +186,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -208,20 +214,16 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quick-windows-surfing-guide-unveiled/"><u>[New] 2024 Approved Quick Windows Surfing Guide Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transcend-media-limits-selecting-top-alternatives-from-flv-to-youtubes/"><u>[New] Transcend Media Limits Selecting Top Alternatives From FLV to YouTubes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unleash-creativity-in-instagram-with-looping-tricks/"><u>[New] Unleash Creativity in Instagram with Looping Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-black-and-white-to-richness-embracing-hdrs-power-for-2024/"><u>[Updated] From Black and White to Richness Embracing HDR's Power for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-evolution-interactive-dialogue-unleashed/"><u>ChatGPT's Evolution: Interactive Dialogue Unleashed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-eliminating-excessive-cpu-demand-from-svchostexe-in-windows-10-complete-walkthrough/"><u>Diagnosing and Eliminating Excessive CPU Demand From Svchost.exe in Windows 10 [Complete Walkthrough]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-for-a-rogue-computer-cursor/"><u>Effortless Remedies for a Rogue Computer Cursor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-when-your-surface-is-connected-but-wont-charge/"><u>Fixes & Solutions: When Your Surface Is Connected but Won't Charge</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gigabyte-ethernet-driver-installation-guide-secure-it-today/"><u>Gigabyte Ethernet Driver Installation Guide – Secure It Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-pc-when-it-refuses-to-power-down-in-windows-10/"><u>How to Fix Your PC When It Refuses to Power Down in Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-mobile-montages-androidios-screenshot-wonders/"><u>In 2024, Top 8 Mobile Montages Android/iOS Screenshot Wonders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-troubles-in-windows-87-discover-the-quick-fix/"><u>Lenovo Mouse Pad Troubles in Windows 8/7? Discover the Quick Fix!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/logitech-lifesaver-unplugging-troubleshooting/"><u>Logitech Lifesaver: Unplugging Troubleshooting</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g34-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G34 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triumphing-with-troubleshooting-a-faulty-nvidia-setup/"><u>Triumphing with Troubleshooting a Faulty NVIDIA Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-efficient-windows-11-recorders-to-ace-your-content/"><u>[Updated] 2024 Approved Efficient Windows 11 Recorders to Ace Your Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors-for-2024/"><u>[Updated] Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-digital-dialogue-the-leading-web-based-text-to-speech-apps/"><u>Enhance Your Digital Dialogue The Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-repeated-disconnections-in-usb-ports-and-drives-expert-tips/"><u>Overcoming Repeated Disconnections in USB Ports and Drives: Expert Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974604384-quick-guide-to-updating-your-brother-mfc-7360n-printer-software-on-windows-systems/"><u>Quick Guide to Updating Your Brother MFC-7360N Printer Software on Windows Systems!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-overcoming-code-24-issue-in-windows-operating-systems/"><u>Solutions for Overcoming Code 24 Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-wi-fi-has-been-turned-off-error-solutions-proven-effective/"><u>Troubleshooting the 'Wi-Fi Has Been Turned Off' Error: Solutions Proven Effective</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-ace-2-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus Ace 2 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-windows-11-audio-troubles-a-step-by-step-guide-to-restoring-volume-control/"><u>Unstuck Windows 11 Audio Troubles: A Step-by-Step Guide to Restoring Volume Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-touchpad-scroll-not-working-heres-how-to-fix-it/"><u>Windows 11 Touchpad Scroll Not Working? Here's How to Fix It!</u></a></li>
 </ul></div>
 

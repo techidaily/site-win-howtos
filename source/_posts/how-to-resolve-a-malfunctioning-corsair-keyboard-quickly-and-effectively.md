@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2024-10-19T16:06:18.082Z
-updated: 2024-10-21T16:00:58.484Z
+date: 2024-10-22T17:12:52.123Z
+updated: 2024-10-27T17:57:56.122Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -51,25 +44,25 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 3. Click**Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -78,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
@@ -102,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ---
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -130,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -145,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -171,22 +166,20 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-essential-guide-to-implementing-filters-in-media/"><u>[New] 2024 Approved Essential Guide to Implementing Filters in Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-create-captivating-yt-thumbnails-fast-for-2024/"><u>[Updated] Create Captivating YT Thumbnails Fast for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-exploring-5-engaging-book-promo-videos/"><u>[Updated] In 2024, Exploring 5 Engaging Book Promo Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-transform-your-broadcasts-5-advanced-recording-methods-web-for-2024/"><u>[Updated] Transform Your Broadcasts 5 Advanced Recording Methods Web for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-issues-in-win-10-and-11-now-solved/"><u>Audio Issues in Win 10 & 11, Now Solved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-phasmophobias-endless-90-load-screen-challenge-in-202e/"><u>Bypassing Phasmophobia's Endless 90% Load Screen Challenge in 202E</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-steps-for-reactivating-your-inactive-policy-management-system/"><u>Comprehensive Steps for Reactivating Your Inactive Policy Management System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-to-fix-skype-video-not-working-on-windows-11/"><u>Easy to Fix Skype Video Not Working on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-laptops-touch-pad-up-and-running-again-tips-for-windows-1187-users/"><u>Get Your Laptop's Touch Pad Up & Running Again! Tips for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-devices-in-windows-11-a-comprehensive-guide/"><u>How to Enable Windows Hello Authentication on Incompatible Devices in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-issues-at-login-how-to-restore-functionality/"><u>Keyboard Issues at Login – How to Restore Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/next-generation-qi2-wireless-charging-comes-to-iphone-13-and-14-with-ios-1veer-update/"><u>Next-Generation Qi2 Wireless Charging Comes to iPhone 13 and 14 with iOS 1Veer Update</u></a></li>
-<li><a href="https://games-able.techidaily.com/pocket-friendly-mothers-for-all-star-gamers-pcs/"><u>Pocket-Friendly Mothers for All-Star Gamers' PCs</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/simplify-your-footage-the-ultimate-guide-to-video-montages-using-movavi-software/"><u>Simplify Your Footage: The Ultimate Guide to Video Montages Using Movavi Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-pick-ultimate-google-cardboard-virtual-reality-experiences/"><u>Top Pick Ultimate Google Cardboard Virtual Reality Experiences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-the-red-exclusion-mark-on-network-symbols/"><u>Troubleshooting Guide for the Red Exclusion Mark on Network Symbols</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboard-backspace-issue/"><u>Troubleshooting Guide: Fixing the Keyboard Backspace Issue</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-new-frontier-in-recording-captureking-review/"><u>[New] 2024 Approved The New Frontier in Recording 'CaptureKing' Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-videography-a-comparative-analysis-between-tiktok-and-snap/"><u>[New] Mastering the Art of Videography A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simple-tips-for-capturing-google-voice-conversations/"><u>[New] Simple Tips for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ergonomic-insights-designing-offices-that-empower-workers-outputs/"><u>[Updated] In 2024, Ergonomic Insights Designing Offices That Empower Workers' Outputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-restore-windows-store-functionality-by-fixing-cache-corruption/"><u>Complete Guide to Restore Windows Store Functionality by Fixing Cache Corruption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-no-cost-movie-streamers-available-online-now/"><u>Discover the Best No-Cost Movie Streamers Available Online Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-and-completing-failing-updates-on-windows/"><u>Expert Tips for Restoring and Completing Failing Updates on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-caller-id-changers-and-their-enchanting-alternatives/"><u>In 2024, Best Caller ID Changers & Their Enchanting Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-renderer-startup-challenge-the-latest-fixes-from-2021/"><u>Overcoming the Renderer Startup Challenge: The Latest Fixes From 2021</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/registratori-dello-schermo-migliori-per-windows-registra-intero-o-parte-dello-schermo/"><u>Registratori Dello Schermo Migliori per Windows: Registra Intero O Parte Dello Schermo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-audio-problems-clear-your-speakers-on-windows-platforms-step-by-step-guide/"><u>Solving Audio Problems: Clear Your Speakers on Windows Platforms - Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-the-pc-reset-failure-on-windows-10/"><u>Step-by-Step Guide: Overcoming the PC Reset Failure on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-game-installation-failures-on-steam/"><u>Troubleshooting Steps for Resolving Game Installation Failures on Steam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-libeay32dll-not-detected-problems/"><u>Troubleshooting Tips for 'libeay32.dll' Not Detected Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revive Your Windows 7 Audio Service - Expert Tips and Fixes to Bring Back Sounds!
-date: 2024-10-19T16:46:11.023Z
-updated: 2024-10-21T19:04:14.674Z
+date: 2024-10-23T16:35:13.332Z
+updated: 2024-10-27T18:32:04.420Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -44,37 +51,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -89,21 +83,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -117,14 +106,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -153,21 +150,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>[New] Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-megadatasky-affordable-space-for-big-files/"><u>[Updated] 2024 Approved MegaDataSky - Affordable Space for Big Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-adobes-power-for-creating-lifelike-3d-text-in-photos/"><u>[Updated] Adobe's Power for Creating Lifelike 3D Text in PHOTOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/all-checks-passed-just-a-non-responsive-component/"><u>All Checks Passed: Just a Non-Responsive Component</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-a70-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from A70.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixer-upper-explorerexe-stability/"><u>Fixer Upper: Explorer.exe Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-connectivity-problems-with-aoc-displays-under-windows-11-environments/"><u>Fixing Connectivity Problems with AOC Displays Under Windows 11 Environments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-deleting-youtube-comments/"><u>In 2024, Deleting YouTube Comments</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-battle-a-compilation-of-superior-fps-games/"><u>In 2024, Elite Battle A Compilation of Superior FPS Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nba-2k21s-ultimate-green-glitch-now-fixed/"><u>NBA 2K21's Ultimate Green Glitch: Now Fixed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011s-outdated-password-hurdle/"><u>Overcoming Windows 10/11'S Outdated Password Hurdle</u></a></li>
-<li><a href="https://facebook.techidaily.com/report-facebook-users-are-buying-300-oculus-quest-2-headsets-to-reset-hacked-accounts/"><u>Report: Facebook Users Are Buying $300 Oculus Quest 2 Headsets to Reset Hacked Accounts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-pc-wont-read-or-play-a-dvd/"><u>Step-by-Step Fixes for When Your Windows PC Won't Read or Play a DVD</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-high-quality-avi-compression-techniques-for-windows-10-users/"><u>Step-by-Step Tutorial: High-Quality AVI Compression Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-error-0x80070091-during-windows-11-system-restore-solved/"><u>Troubleshooting and Correcting Error 0X80070091 During Windows 11 System Restore - Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restart-diagnostics-policy-service/"><u>Troubleshooting Guide: Restart Diagnostics Policy Service</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-best-10-virtual-world-games-on-ios-and-android/"><u>[New] Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-delays-in-combat-master-the-techniques-to-overcome-high-ping-in-street-fighter-6-for-pc-gamers/"><u>No More Delays in Combat! Master the Techniques to Overcome High Ping in Street Fighter 6 for PC Gamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-laptop-assessment-revolutionary-advances-in-superior-portable-computing/"><u>Razer Blade Stealth 13 Laptop Assessment: Revolutionary Advances in Superior Portable Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unable-to-start-application-issue-error-0xc000007b-explained-and-fixed/"><u>Resolving the 'Unable to Start Application' Issue: Error 0xC000007B Explained and Fixed</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-paste-feature-efficacy-in-win-11/"><u>Restoring Paste Feature Efficacy in Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synching-made-simple-combine-the-power-of-oura-and-strava-for-enhanced-health-tracking-step-by-step-setup-instructions/"><u>Synching Made Simple: Combine the Power of Oura and Strava for Enhanced Health Tracking - Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-unresponsive-function-key-issues/"><u>Troubleshooting: How to Fix Unresponsive Function Key Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-mse-insights-into-microsoft-security-essentials-and-its-impact-on-disk-utilization/"><u>Understanding MSE: Insights Into Microsoft Security Essentials & Its Impact on Disk Utilization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide"
-date: 2024-10-15T20:26:10.635Z
-updated: 2024-10-21T21:22:23.622Z
+date: 2024-10-22T18:12:20.403Z
+updated: 2024-10-27T16:37:25.564Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -65,16 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -90,10 +84,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -105,10 +99,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -133,17 +127,18 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-film-techniques-on-youtube-by-future-visionaries-for-2024/"><u>[Updated] Essential Film Techniques on YouTube by Future Visionaries for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-film-like-a-pro-with-macbook-webcam-tutorial-for-2024/"><u>[Updated] Film Like a Pro with MacBook Webcam Tutorial for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-memetic-artistry-codes/"><u>2024 Approved Top 10 Memetic Artistry Codes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-persistent-timeout-errors-during-online-file-transfers/"><u>Expert Advice: Fixing Persistent Timeout Errors During Online File Transfers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/inoperable-hardware-catastrophic-failure/"><u>Inoperable Hardware: Catastrophic Failure</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-solutions-to-resolve-your-dvd-players-pink-screen-issue/"><u>Quick Solutions to Resolve Your DVD Player's Pink Screen Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-error-code-1053-unresponsive-service-timeout-issues/"><u>Solutions for Error Code 1053: Unresponsive Service Timeout Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-resolving-a-malfunctioning-computer-touchpad-problem/"><u>Step-by-Step Tips for Resolving a Malfunctioning Computer Touchpad Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-hogwarts-legacy-game-launch-failures-essential-fixes-players/"><u>Troubleshoot Your Hogwarts Legacy Game Launch Failures: Essential Fixes Players</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unpacking-the-phenomenal-features-of-the-docooler-usb-2n-with-12mp-a-true-gem-or-just-hype/"><u>Unpacking the Phenomenal Features of the Docooler USB 2.n with 12MP – A True Gem or Just Hype?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-lively-film-reader-assessment/"><u>[New] 2024 Approved Lively Film Reader Assessment</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-directly-delivering-tiktok-videos-to-twitters-feed-for-2024/"><u>[New] Directly Delivering TikTok Videos to Twitter's Feed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-initiate-your-facebook-analysis-journey/"><u>[New] In 2024, Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-expert-advice-on-engaging-with-facebook-live-streams/"><u>[Updated] In 2024, Expert Advice on Engaging with Facebook Live Streams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-runtime-broker-causing-high-cpu-spikes-in-windows-11/"><u>Diagnosing and Repairing the Runtime Broker Causing High CPU Spikes in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-inability-of-windows-to-locate-printer-drivers-fixed/"><u>Guide to Overcome Inability of Windows to Locate Printer Drivers [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restarting-your-windows-update-service-problems-solved/"><u>Guide to Restarting Your Windows Update Service – Problems Solved!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-11-says-audio-output-not-detected/"><u>How to Restore Audio Functionality When Windows 11 Says 'Audio Output Not Detected'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-power-mastering-the-addition-of-video-descriptions/"><u>Instagram's Power Mastering the Addition of Video Descriptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-detecting-peripherals-on-a-windows-lnkskrns-pc-via-bluetooth/"><u>Resolving Non-Detecting Peripherals on a Windows ˈlɪnkskrɪn's PC via Bluetooth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-windows-update-problem-0x80n007001f/"><u>Step-by-Step Solution for Overcoming Windows Update Problem 0X80n007001f</u></a></li>
 </ul></div>
 

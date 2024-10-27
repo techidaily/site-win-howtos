@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2024-10-19T16:04:24.557Z
-updated: 2024-10-21T19:48:39.306Z
+date: 2024-10-26T17:01:24.188Z
+updated: 2024-10-27T17:05:37.903Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -67,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -83,25 +69,11 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -113,9 +85,23 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
@@ -133,19 +119,33 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
@@ -170,18 +170,18 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-free-rotate-and-merge-videos-on-android/"><u>[New] How to Free Rotate and Merge Videos on Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-the-best-vr-experience-in-drone-aerial-sports/"><u>[Updated] 2024 Approved Unlocking the Best VR Experience in Drone Aerial Sports</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-profile-perfection-101-expert-strategies-for-facebook-biography-enhancement/"><u>[Updated] In 2024, Profile Perfection 101 Expert Strategies for Facebook Biography Enhancement</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-supercharge-your-smartphones-video-quality/"><u>[Updated] Supercharge Your Smartphone's Video Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/centralized-management-of-windows-settings-within-corporate-environments/"><u>Centralized Management of Windows Settings Within Corporate Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ensuring-seamless-updates-on-windows-overcoming-service-not-running-issues/"><u>Ensuring Seamless Updates on Windows: Overcoming Service Not Running Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-livekernelevent-code-144-issue-efficiently/"><u>How to Resolve LiveKernelEvent Code 144 Issue Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-error-with-writing-to-addressed-memory-location-how-to-fix/"><u>Resolved: Error with Writing to Addressed Memory Location - How to Fix?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-addressing-unknown-peripheral-device-error-missing-descriptors-handled-effectively/"><u>Successfully Addressing Unknown Peripheral Device Error: Missing Descriptors Handled Effectively</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-14-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 14 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-lowering-desktop-window-manager-resource-demand-on-windows-11-systems/"><u>Troubleshooting Techniques for Lowering Desktop Window Manager Resource Demand on Windows 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/upcoming-windows-11-security-enhancement-auto-encryption-feature-now-available/"><u>Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/vivid-twitter-visuals-the-journey-to-full-hd-viewing-for-2024/"><u>Vivid Twitter Visuals The Journey to Full HD Viewing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-key-strategies-for-navigating-complex-youtube-discussions/"><u>[New] Key Strategies for Navigating Complex YouTube Discussions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-for-attaching-tunes-in-instagram-media/"><u>[New] Step-by-Step for Attaching Tunes in Instagram Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-building-personalized-instagram-feed-outlines/"><u>[Updated] In 2024, Building Personalized Instagram Feed Outlines</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-memetic-mayhem-the-20-most-shared-gems/"><u>[Updated] Memetic Mayhem The 20 Most Shared Gems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[Updated] Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-hdmi-connectivity-problems-on-your-windows-10-pc/"><u>Diagnosing and Repairing HDMI Connectivity Problems on Your Windows 10 PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-beyond-basic-top-10-hidden-whatsapp-features/"><u>In 2024, Go Beyond Basic Top 10 Hidden WhatsApp Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>In 2024, Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-initiating-the-hosted-network-feature-in-windows-11/"><u>Resolved: Issues with Initiating the Hosted Network Feature in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-a-broken-or-unresponsive-apple-mouse/"><u>Step-by-Step Solution for a Broken or Unresponsive Apple Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-if-your-torrent-download-fails/"><u>Troubleshooting Steps if Your Torrent Download Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-managed-system-preferences-in-windows-environments/"><u>Understanding Managed System Preferences in Windows Environments</u></a></li>
 </ul></div>
 

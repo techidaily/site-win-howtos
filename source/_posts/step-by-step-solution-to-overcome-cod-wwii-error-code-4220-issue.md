@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Overcome COD WWII Error Code 4220 Issue
-date: 2024-10-14T20:05:42.990Z
-updated: 2024-10-21T16:59:55.651Z
+date: 2024-10-26T16:03:21.915Z
+updated: 2024-10-27T17:25:17.422Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Stop CPU / GPU overclocking
 
  you may encounter the “Error 0x887A0006” error message if you’re overclocking your CPU or GPU during the game. The increasing CPU / GPU speed may crash the game.
@@ -66,10 +73,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -98,13 +105,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
@@ -112,6 +112,20 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -121,33 +135,32 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
@@ -178,10 +191,26 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Then click the**File** tab and select**Save As…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Notepad-save-file-1.png)
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
 
@@ -206,13 +235,6 @@ If this fix doesn’t work for you, try the next fix, below.
 
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Change the power plan of your PC
 
  Most PCs are configured as **Balanced** , which may limit the operating capacity of your graphics card and CPU. If the power plan of your PC is a **Power saver**  or **Balanced** , the game may not run properly due to limited performance, and it may even crash with Error 0x887A0006.
@@ -233,21 +255,14 @@ If this fix doesn’t work for you, try the next fix, below.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
@@ -276,21 +291,24 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>[New] Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-10-best-webcams-a-buyers-guide/"><u>[Updated] 10 Best Webcams | A Buyer’s Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-racer-cutting-edge-gaming-selection/"><u>[Updated] Elite Racer Cutting-Edge Gaming Selection</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-make-a-group-chat-on-skype-for-windows-and-mac-for-2024/"><u>[Updated] How to Make a Group Chat on Skype [For Windows and Mac] for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-iphone-photo-blurring-4-techniques-explored/"><u>[Updated] Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-strategies-for-measuring-igtv-popularity-indicators/"><u>[Updated] Strategies for Measuring IGTV Popularity Indicators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/achieve-professional-finishes-avoid-blisters-and-pimples-in-your-3d-prints/"><u>Achieve Professional Finishes: Avoid Blisters & Pimples in Your 3D Prints</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x80071ac3-explained-how-to-clean-up-corrupt-volume-data/"><u>Error 0X80071AC3 Explained: How to Clean Up Corrupt Volume Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-blue-screen-error-permanently/"><u>Fixing the Windows 10 Blue Screen Error Permanently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-bluetooth-connection-errors-for-paired-devices-not-communicating/"><u>Resolving Windows 11 Bluetooth Connection Errors for Paired Devices Not Communicating</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-rendering-engine-initialization-error-the-2021-edition/"><u>Solving the 'Rendering Engine Initialization Error - The 2021 Edition'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-incompatible-drivers-on-your-pc-effective-strategies-and-tips/"><u>Troubleshooting Incompatible Drivers on Your PC – Effective Strategies and Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-3-and-its-impact-on-drone-photography/"><u>Ultimate Guide: DJI Mavic 3 and Its Impact on Drone Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-frustrating-twitch-error-4000/"><u>Understanding and Fixing the Frustrating Twitch Error 4000</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unpredicted-keystroke-pause/"><u>Unpredicted Keystroke Pause</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-pc-video-editors-similar-to-gopro-quik-top-picks-for-2024/"><u>Updated PC Video Editors Similar to GoPro Quik Top Picks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>[New] 2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] In 2024, Master the NFT Market Leading Generators for Digital Masters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-11-stuck-in-airplane-mode/"><u>[SOLVED] Windows 11 Stuck In Airplane Mode</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-show-your-appreciation-budget-friendly-video-closings/"><u>[Updated] Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-trending-picture-tales-history-revealed/"><u>2024 Approved Trending Picture Tales History Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-display-issues-now-with-miracast-support-after-driver-patch/"><u>Fix Your Display Issues - Now with Miracast Support After Driver Patch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-mic-issue-on-windows-10-computers/"><u>Fixing a Non-Responsive Mic Issue on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-the-most-out-of-wow-by-correcting-incompatible-device-drivers-easily/"><u>Get the Most Out of WoW by Correcting Incompatible Device Drivers Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-install-latest-drivers-for-your-lenovo-t420-windows-laptop/"><u>How to Seamlessly Install Latest Drivers for Your Lenovo T420 Windows Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-errcachemiss-problems-on-chrome-efficiently/"><u>How to Troubleshoot and Fix ERR_CACHE_MISS Problems on Chrome Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-fixes-to-overcome-unexpected-csgo-shutdowns/"><u>Immediate Fixes to Overcome Unexpected CSGO Shutdowns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-action-anytime-anywhere-our-ultimate-12-stream-service/"><u>In 2024, Live Action Anytime, Anywhere - Our Ultimate 12-Stream Service</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hing-a-dominant-biz-channel-key-tips-and-hacks/"><u>Launching a Dominant Biz Channel Key Tips & Hacks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smooth-strategy-perfecting-your-instagram-grid-for-2024/"><u>Smooth Strategy Perfecting Your Instagram Grid for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-when-shutting-down-windows-10-on-desktop-is-ineffective/"><u>Solution Guide for When Shutting Down Windows 10 on Desktop Is Ineffective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correct-a-d3derrnotavailable-issue/"><u>Step-by-Step Solutions to Correct a D3DERR_NotAvailable Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-guide-how-to-resolve-windows-7s-sluggish-startup-woes/"><u>Tech Guide: How to Resolve Windows 7'S Sluggish Startup Woes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-best-android-edits-for-2024/"><u>Unleash Creativity Best Android Edits for 2024</u></a></li>
 </ul></div>
 

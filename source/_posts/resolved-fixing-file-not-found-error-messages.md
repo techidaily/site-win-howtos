@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing 'File Not Found' Error Messages"
-date: 2024-10-17T18:12:29.139Z
-updated: 2024-10-21T17:55:27.091Z
+date: 2024-10-20T16:24:21.334Z
+updated: 2024-10-27T17:20:40.562Z
 tags:
   - win11
   - win10
@@ -36,18 +36,18 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Roll back your network driver
 
  If updating your network driver didn’t cut it, you can try restoring it to see if it resolves the error. Before you do that, make sure you do a back up of the driver first.
@@ -77,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 7. Wait until the restore is successful, and click**OK** .
@@ -90,25 +105,19 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/services.msc_.jpg)
 2. Locate the **DHCP Client**  service in the services list, then right-click on it and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -121,22 +130,15 @@ Here’s how:
 2. Type **ipconfig /registerdns** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reset TCP/IP Configuration
 
@@ -161,10 +163,10 @@ Here’s how:
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
@@ -190,17 +192,15 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[New] 2024 Approved Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-leading-free-switch-game-reproducers-for-2024/"><u>[New] Leading Free Switch Game Reproducers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banish-troublesome-glitches-proven-methods-to-correct-0x80072efd-mishaps-on-your-windows-11-machine/"><u>Banish Troublesome Glitches: Proven Methods to Correct 0X80072EFD Mishaps on Your Windows 11 Machine</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elite-soundtrack-choices-for-film-and-vlogs-for-2024/"><u>Elite Soundtrack Choices for Film & Vlogs for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-file-explorer-problem-in-windows-10-step-by-step-solution/"><u>Fixing the Unresponsive File Explorer Problem in Windows 10 - Step by Step Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-razr-40-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Razr 40 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macavchdmkvwmvmp4-app/"><u>Mac影片格式多元化變更器，一鍵上手：AVCHD/MKV/WMV/MP4圖形編解碼的全能功力 - 官方APP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-touchpad-navigation-resolve-stuckunresponsive-scroll-wheel-issues/"><u>Mastering Touchpad Navigation: Resolve Stuck/Unresponsive Scroll Wheel Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-impact-of-intelligent-systems-on-psychological-support-and-well-being-improvement/"><u>Navigating the Impact of Intelligent Systems on Psychological Support and Well-Being Improvement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10-systems/"><u>Resolve Excessive CPU Consumption Caused by wudfhost.exe on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac539-yamahaaturbosound-ii-sound-module-based-on-the-ymf768ymu768-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r145/"><u>YAC539 - Yamaha'aturboSound II Sound Module Based on the YMF768/YMU768 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-achieving-professional-quality-with-instagrams-virtual-screens-for-2024/"><u>[Updated] Achieving Professional Quality with Instagram's Virtual Screens for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beaten-black-box-blues-correcting-your-obs-video-snapshots-issue/"><u>Beaten Black Box Blues: Correcting Your OBS Video Snapshots Issue</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guide-to-recovering-deleted-files-with-chkdsk-choose-the-right-method/"><u>Guide to Recovering Deleted Files with CHKDSK: Choose the Right Method</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-make-a-3d-text-effect-in-photoshop/"><u>In 2024, How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210867618-lenovo-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Lenovo Keyboard Malfunction? Here’s What You Can Do to Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-usb-flash-drive-that-wont-connect/"><u>Quick Fixes for a USB Flash Drive That Won’t Connect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotlight-control-on-lock-screen-onoff-guide-for-windows-users/"><u>Spotlight Control on Lock Screen: On/Off Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-and-windows-11-overcoming-high-cpu-usage-problems-easily/"><u>svchost.exe and Windows 11: Overcoming High CPU Usage Problems Easily</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-x7-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find X7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-i-take-a-full-page-screenshot-in-safari-solutions-inside/"><u>Why Can't I Take a Full Page Screenshot in Safari? Solutions Inside</u></a></li>
 </ul></div>
 

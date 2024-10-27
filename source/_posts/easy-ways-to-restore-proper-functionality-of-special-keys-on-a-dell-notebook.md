@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2024-10-20T21:22:09.126Z
-updated: 2024-10-21T17:05:52.336Z
+date: 2024-10-21T16:55:30.294Z
+updated: 2024-10-27T17:30:11.533Z
 tags:
   - win11
   - win10
@@ -45,20 +45,27 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -76,22 +83,15 @@ Here’s how to do it:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -104,10 +104,10 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
@@ -122,10 +122,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
@@ -159,20 +159,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ecoding-earnings-for-content-producers-on-short-form-platform/"><u>[New] Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transforming-viral-tiktok-sounds-into-personalized-calls-for-2024/"><u>[New] Transforming Viral TikTok Sounds Into Personalized Calls for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-monetize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits5-and-rising-economic-growtheconomic-growth6-over-the-next-six-months-to-d107/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits[^5] and Rising Economic Growth[economic Growth[^6]] over the Next Six Months to Drive Further Gains.</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/comment-deplacer-un-ssd-de-windows-10-vers-un-nouveau-pc-guide-simple/"><u>Comment Déplacer Un SSD De Windows 10 Vers Un Nouveau PC : Guide Simple</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208722915-diagnosing-and-repairing-when-you-cant-watch-netflix-solutions-inside/"><u>Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-common-issues-with-torrents-that-wont-download-a-step-by-step-guide/"><u>Fixing Common Issues with Torrents that Won't Download - A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-f04-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy F04 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-no-battery-registered-problem-swiftly-easy-methods-inside/"><u>Solve 'No Battery Registered' Problem Swiftly: Easy Methods Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-performance-and-style-inside-look-at-the-corsair-one-pro-rig/"><u>The Perfect Blend of Performance & Style: Inside Look at the Corsair One Pro Rig</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo Find X7 Ultra Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangling-code-24-errors-correcting-device-not-present-messages-in-windows-1187-systems/"><u>Untangling Code 24 Errors: Correcting 'Device Not Present' Messages in Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webcam-mastery-how-to-transform-your-video-recording/"><u>WebCam Mastery How to Transform Your Video Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-arent-my-typed-characters-deleting-solving-the-stuck-backspace-issue/"><u>Why Aren't My Typed Characters Deleting? Solving the Stuck Backspace Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-woes-learn-to-sync-an-inactive-controller-with-ease/"><u>Xbox One Woes? Learn to Sync an Inactive Controller with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-share-with-impact-tiktok-videos-on-twitter/"><u>[New] Share with Impact TikTok Videos on Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-upload-custom-length-video-for-youtube/"><u>[New] Upload Custom-Length Video for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-11-best-free-youtube-name-generators-you-should-try/"><u>2024 Approved 11 Best Free YouTube Name Generators You Should Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-the-touchpad-cursor-problem-in-windows-11/"><u>Diagnosing and Correcting the Touchpad Cursor Problem in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-launching-apps-on-windows-11/"><u>Efficiently Launching Apps on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-sims-4-wont-open-issue/"><u>How to Fix Sims 4 Won’t Open Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implementing-stunning-visual-effects-on-zoom-calls-for-2024/"><u>Implementing Stunning Visual Effects on Zoom Calls for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-note-30-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Note 30 5G Unlock Without Password</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-innovating-realms-history-of-vr/"><u>In 2024, Innovating Realms History of VR</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y200-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y200 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-transition-in-openai-raises-gpt-concerns/"><u>Leadership Transition in OpenAI Raises GPT Concerns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-non-responsive-google-chrome-issues/"><u>Resolved: How to Fix Non-Responsive Google Chrome Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-lenovo-keyboard/"><u>Troubleshooting Tips: How to Fix a Non-Responsive Lenovo Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/urgent-attention-required-lidadll-mia/"><u>Urgent Attention Required: Lida.dll MIA</u></a></li>
 </ul></div>
 

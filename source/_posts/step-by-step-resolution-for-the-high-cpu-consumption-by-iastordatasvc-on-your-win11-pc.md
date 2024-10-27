@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC
-date: 2024-10-19T16:07:50.136Z
-updated: 2024-10-21T21:35:50.212Z
+date: 2024-10-25T18:15:31.314Z
+updated: 2024-10-27T16:12:21.371Z
 tags:
   - win11
   - win10
@@ -57,22 +57,21 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -82,16 +81,10 @@ If that didn’t help, try the next fix below.
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
@@ -103,10 +96,10 @@ If that didn’t help, try the next fix below.
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -119,20 +112,27 @@ If that didn’t help, try the next fix below.
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -173,6 +173,13 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
@@ -180,10 +187,10 @@ If you want to make Origin always run as administrator, take these steps:
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
@@ -204,29 +211,22 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -247,20 +247,22 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pulling-fun-on-pedal-power/"><u>[New] In 2024, Pulling Fun on Pedal Power</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>2024 Approved Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-editing-with-magix-vpx-features-on-steroids-for-2024/"><u>Advanced Editing with Magix VPX Features on Steroids for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-mobvoi-ticwatch-e2-critique-are-you-getting-your-moneys-worth/"><u>Budget-Friendly Mobvoi TicWatch E2 Critique – Are You Getting Your Money's Worth?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-teredo-tunneling-errors-strategies-for-effective-troubleshooting/"><u>Deciphering Teredo Tunneling Errors: Strategies for Effective Troubleshooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-eliminating-screen-flickering-in-valorant/"><u>Effective Solutions for Eliminating Screen Flickering in VALORANT</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-red-screen-problems-on-your-windows-1-0-device/"><u>How to Resolve Red Screen Problems on Your Windows 1 0 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-solutions-to-revive-your-unresponsive-logitech-keyboard/"><u>Immediate Solutions to Revive Your Unresponsive Logitech Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nocturnal-pc-error-wake-refusal-in-windows/"><u>Nocturnal PC Error - Wake Refusal in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-windows-event-log-services-connection-problems/"><u>Overcoming Issues with Windows Event Log Services Connection Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-chrome-draining-your-cpu-power-a-complete-fix-guide/"><u>Say Goodbye to Chrome Draining Your CPU Power: A Complete Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-cannot-initialize-directx-graphics-driver-error/"><u>Solution Steps: Fixing 'Cannot Initialize DirectX Graphics Driver' Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-fixed-youtube-sounds-problem-under-windows-11-system/"><u>Troubleshooting the Fixed YouTube Sounds Problem Under Windows 11 System</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/usb-backup-fehlerbehebung-wie-sie-einen-fehlgeschlagenen-system-sicherungsversuch-auf-windows-111087-umgehen/"><u>USB-Backup Fehlerbehebung: Wie Sie Einen Fehlgeschlagenen System-Sicherungsversuch Auf Windows 11/10/8/7 Umgehen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-mouse-software-refresh-for-winx-7-and-newer-versions/"><u>USB-Mouse Software Refresh for WINX 7 & Newer Versions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-best-free-downloaders-for-facebook-links/"><u>[Updated] 2024 Approved The Best Free Downloaders for Facebook Links</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement/"><u>[Updated] In 2024, A Visual Guide to Subtitling Techniques for Effective Dialogue Placement</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-sites-enhanced-personalization-and-engagement/"><u>Cookiebot-Enabled Sites: Enhanced Personalization & Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-resolve-non-functional-ethernet-networking-in-windows-107/"><u>Easy Steps to Resolve Non-Functional Ethernet Networking in Windows 10/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-yellow-tint-reviving-true-colors-on-laptops/"><u>Fixing Yellow Tint: Reviving True Colors on Laptops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hefteigenschaften-korrigieren-und-videos-von-dvds-mittels-handbrake-unter-windows-11-reparieren/"><u>Hefteigenschaften Korrigieren Und Videos Von DVDs Mittels Handbrake Unter Windows 11 Reparieren</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-printer-driver-not-found-error-on-windows-systems/"><u>How to Fix 'Printer Driver Not Found' Error on Windows Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-a-step-by-step-tutorial-starting-and-joining-a-zoom-meeting-on-android/"><u>In 2024, A Step-by-Step Tutorial Starting & Joining a Zoom Meeting on Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone SE? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-6s-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 6s Apple ID and Apple Pay</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>In 2024, The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-limitations-for-personalizing-your-computer-navigating-it-rules-on-windows/"><u>Overcoming Limitations for Personalizing Your Computer: Navigating IT Rules on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-typing-issues-on-your-keyboard-are-now-fixed/"><u>Resolved: Typing Issues on Your Keyboard Are Now Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-ineterr-missing-resource-issue-a-step-by-step-guide/"><u>Resolving the [InetErr] Missing Resource Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-dealing-with-a-computer-that-cant-shut-down-windows-10/"><u>Solved! Dealing with a Computer That Can't Shut Down Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-disconnected-bluetooth-keypad-on-laptopdesktop/"><u>Solving the Problem of a Disconnected Bluetooth Keypad on Laptop/Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-left-and-right-arrow-keys-stop-responding-quick-remedies/"><u>What to Do When Left and Right Arrow Keys Stop Responding: Quick Remedies!</u></a></li>
 </ul></div>
 

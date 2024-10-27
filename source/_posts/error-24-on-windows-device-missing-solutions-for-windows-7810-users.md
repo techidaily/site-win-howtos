@@ -1,7 +1,7 @@
 ---
 title: Error 24 on Windows (Device Missing) – Solutions for Windows 7/8/10 Users
-date: 2024-10-15T17:57:09.634Z
-updated: 2024-10-21T17:54:15.036Z
+date: 2024-10-23T17:12:17.073Z
+updated: 2024-10-27T18:01:45.291Z
 tags:
   - win11
   - win10
@@ -80,6 +80,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -87,13 +94,6 @@ OR
 **3)**  Restart your computer.
 
  If your problem still exists after you update your computer, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan for malware on your computer
 
@@ -108,6 +108,13 @@ OR
 **2)** Run**Malwarebytes,** and then click the**Scan Now button** to start scanning your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
@@ -130,6 +137,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
@@ -151,10 +165,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
@@ -162,13 +176,6 @@ OR
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety reasons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-114.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Click**Restart** and wait for your computer to restart.
 
@@ -184,6 +191,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
@@ -191,6 +205,13 @@ OR
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-89.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
@@ -204,13 +225,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-115.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
@@ -220,13 +234,6 @@ OR
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and check if this has resolved your problem.
 
@@ -243,6 +250,13 @@ OR
 **2)** Type**msconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
@@ -262,13 +276,6 @@ OR
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run the Command Prompt
 
  Corrupted or damaged system files may also cause this issue. If that’s the problem for you, running the Command Prompt can help. Follow the instructions below:
@@ -281,13 +288,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
 
  This process could take several minutes. Please wait for it to be complete.
@@ -298,16 +298,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to be complete. Then, restart your computer to see if this fix worked for you.
 
@@ -333,24 +333,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-copypaste-on-win-11-os/"><u>[FIXED]: Copy/Paste on Win 11 OS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-100plus-cool-gaming-channel-names-for-every-gamer/"><u>[New] 2024 Approved 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-techniques-for-storing-lol-matches/"><u>[New] 2024 Approved Key Techniques for Storing LOL Matches</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] In 2024, Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[New] In 2024, In-Depth Tutorial for Immaculate 3D Shapes Perfect Circles, Spheres</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725285351451-dvd/"><u>「すべてのDVDダビングを手軽に！最適解決方法第二部」</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/continuous-media-gatherers/"><u>Continuous Media Gatherers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-fortnites-graphics-card-compatibility-issues-on-windows/"><u>How to Fix Fortnite's Graphics Card Compatibility Issues on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-service-issues-comprehensive-guide/"><u>How to Fix Windows Update Service Issues: Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>How to recover old music from your Xiaomi 14 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-intel-rapid-storage-technology-rst-malfunction-in-windows-11-systems/"><u>How to Resolve Intel Rapid Storage Technology (RST) Malfunction in Windows 11 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-install-updated-drivers-for-your-blue-snowball-on-a-windows-pc/"><u>How to Seamlessly Install Updated Drivers for Your Blue Snowball on a Windows PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-urban-landscapes-the-gotrapress-review-of-a-swift-and-compact-electric-scooter/"><u>Navigating Urban Landscapes: The Gotrapress Review of a Swift and Compact Electric Scooter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-with-creating-a-directx-graphics-device/"><u>Resolved: Issue with Creating a DirectX Graphics Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-restoring-hearing-capabilities-in-acer-computers-with-no-volume/"><u>Solved: Restoring Hearing Capabilities in Acer Computers with No Volume</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-reducing-high-cpu-usage-by-svchostexe-in-windows-10-systems/"><u>Step-by-Step Guide to Reducing High CPU Usage by svchost.exe in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-malfunction-in-windows/"><u>Top 6 Solutions for Resolving werfault.exe Malfunction in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/twelve-south-compass-pro-review/"><u>Twelve South Compass Pro Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-text-duplication-issue/"><u>Windows 11 Text Duplication Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2022-tips-how-to-fix-fallout-4-lag-issue/"><u>[2022 Tips] How to Fix Fallout 4 Lag Issue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[New] 2024 Approved Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[Updated] 2024 Approved Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>[Updated] In 2024, Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722857299227-affordable-iphone-and-ipod-chatting-apps-enjoy-unlimited-texting/"><u>Affordable iPhone & iPod Chatting Apps - Enjoy Unlimited Texting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10s-sluggish-shutdown-troubles/"><u>How to Fix Windows 10'S Sluggish Shutdown Troubles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-unexpected-display-interruptions-in-windows-11/"><u>How to Stop Unexpected Display Interruptions in Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhance-web-presentations-top-12-html5-video-platforms/"><u>In 2024, Enhance Web Presentations Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-solutions-to-common-problems-with-the-kodi-media-player/"><u>In-Depth Solutions to Common Problems with the Kodi Media Player</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-enabling-closed-captions-on-a-stubborn-roku-player/"><u>Mastering the Art of Enabling Closed Captions on a Stubborn Roku Player</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/reviewing-vlc-as-a-multimedia-recorder/"><u>Reviewing VLC as a Multimedia Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-driverpowerstatefailure-a-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

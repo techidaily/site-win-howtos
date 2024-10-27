@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag"
-date: 2024-10-15T17:24:21.887Z
-updated: 2024-10-21T16:24:28.160Z
+date: 2024-10-23T17:01:02.178Z
+updated: 2024-10-27T17:48:42.037Z
 tags:
   - win11
   - win10
@@ -34,20 +34,27 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
 
@@ -55,26 +62,27 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
@@ -85,10 +93,10 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -97,23 +105,9 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -122,13 +116,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** Click on**Change Permissions**.
 
@@ -139,15 +126,28 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
 
@@ -172,20 +172,18 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-complete-breakdown-the-android-adaptation-of-lightroom-app/"><u>[New] Complete Breakdown The Android Adaptation of Lightroom App</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-examining-the-reasons-behind-instant-facebook-content-revocation/"><u>[New] In 2024, Examining the Reasons Behind Instant Facebook Content Revocation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cinematography-secrets-unveiled-by-youtube-pros/"><u>[Updated] 2024 Approved Cinematography Secrets Unveiled by YouTube Pros</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dissecting-the-specifications-apples-m1-pro-versus-m1-max/"><u>[Updated] Dissecting the Specifications Apple’s M1 Pro Versus M1 Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-iconic-image-reimagining-tools-visualmorph-v2/"><u>[Updated] Iconic Image Reimagining Tools VisualMorph V2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-error-28-in-windows-device-manager-diagnosis-and-solutions-revealed/"><u>Decode Error 28 in Windows Device Manager: Diagnosis and Solutions Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/embrace-tranquility-top-10-stress-free-games/"><u>Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-list-of-top-rated-imessage-games-for-iphone-and-android-users/"><u>Essential List of Top-Rated iMessage Games for iPhone & Android Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixation-guide-eliminating-unwanted-cursor-blink-on-screen/"><u>Fixation Guide: Eliminating Unwanted Cursor Blink on Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-systemprofile-desktop-inaccessible-issue-in-windows/"><u>Fixing the ‘SystemProfile Desktop Inaccessible’ Issue in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-i-fixed-my-disconnected-equipment-attached-to-the-computer-network/"><u>How I Fixed My Disconnected Equipment Attached to the Computer Network</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-remedies-to-restore-functionality-of-hp-laptops-stickyunresponsive-buttons/"><u>Quick Remedies to Restore Functionality of HP Laptop's Sticky/Unresponsive Buttons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205006815-resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-is-now-how-ai-powered-assistants-such-as-chatgpt-are-reshaping-smartwatches/"><u>The Future Is Now: How AI-Powered Assistants Such as ChatGPT Are Reshaping Smartwatches</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-ui-a-journey-with-the-taskbar-through-time/"><u>Windows UI: A Journey with the Taskbar Through Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/our-ultimate-checklist-for-channel-buying-success/"><u>[New] Your Ultimate Checklist for Channel Buying Success</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>About Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restoring-system-files-on-windows-10-using-sfc-and-dism-utilities/"><u>Comprehensive Guide to Restoring System Files on Windows 10 Using SFC & DISM Utilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-remedies-to-prevent-your-computer-from-going-into-sleep-mode/"><u>Effortless Remedies to Prevent Your Computer From Going Into Sleep Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-resource-protection-error-step-by-step-guide/"><u>Fixing 'Windows Resource Protection Error' – Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-a60-music-recovery-recover-deleted-music-from-itel-a60-by-fonelab-android-recover-music/"><u>Itel A60 Music Recovery - Recover Deleted Music from Itel A60</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorola-one-hyper-assessment-an-impressive-mid-tier-device-with-a-dynamic-appeal/"><u>Motorola One Hyper Assessment: An Impressive Mid-Tier Device with a Dynamic Appeal</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-free-video-editors-for-mp4-videos-for-2024/"><u>New The Ultimate List 10 Free Video Editors for MP4 Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-10s-audio-rendering-challenges-in-youtube-a-fix-guide/"><u>Overcome Windows 10'S Audio Rendering Challenges in YouTube - A Fix Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-writing-hurdles-in-corporate-memos-aided-by-gpt/"><u>Overcoming Writing Hurdles in Corporate Memos, Aided by GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access!</u></a></li>
 </ul></div>
 

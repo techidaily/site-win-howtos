@@ -1,7 +1,7 @@
 ---
 title: Resolving WD My Passport Ultra Detection Issues in Windows Environments
-date: 2024-10-15T18:08:55.001Z
-updated: 2024-10-21T21:37:41.360Z
+date: 2024-10-23T18:15:18.709Z
+updated: 2024-10-27T16:07:16.153Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -50,26 +50,28 @@ Both fixes below work in Windows 10, 8 and 7.
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
-2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
- Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -90,14 +92,15 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Check and see if your Lenovo touchpad is back to life again. ?
 
 ---
 
@@ -124,19 +127,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-advanced-techniques-for-preserving-lol-skirmishes/"><u>[New] 2024 Approved Advanced Techniques for Preserving LOL Skirmishes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-recorder-alternatives-in-depth-review-and-top-picks/"><u>[New] Screen Recorder Alternatives In-Depth Review & Top Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-android-melody-manual-best-free-youtube-downloader-tools/"><u>[Updated] In 2024, Android Melody Manual Best Free YouTube Downloader Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-productivity-boosters-while-binge-listening-to-podcasts/"><u>2024 Approved Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-v2-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor Magic V2?</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/how-to-fix-iphone-app-download-hangs-after-moving-data-solutions-explored/"><u>How to Fix iPhone App Download Hangs After Moving Data – Solutions Explored</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-display-repair-how-to-solve-the-persistent-white-screen-problem/"><u>Laptop Display Repair: How to Solve the Persistent White Screen Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pubg-effective-strategies-to-combat-and-prevent-game-lags/"><u>Mastering PUBG: Effective Strategies to Combat and Prevent Game Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-system-addressing-the-audio-device-graphs-impact-on-cpu-load-in-windows/"><u>Optimizing Your System: Addressing the Audio Device Graph's Impact on CPU Load in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-fixes-and-tips-for-overcoming-error-1603-fatal-installation-issue/"><u>Successful Fixes & Tips for Overcoming Error 1603 - Fatal Installation Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-bootstrapper-keeps-crashing-on-startup/"><u>Troubleshooting Steps When Your Bootstrapper Keeps Crashing on Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-strategies-resolve-unknown-usb-device-and-port-reset-errors-on-windows-10/"><u>Troubleshooting Strategies: Resolve 'Unknown USB Device' And Port Reset Errors on Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-trailblaze-the-gaming-frontier-samsung-edition/"><u>[New] 2024 Approved Trailblaze the Gaming Frontier Samsung Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essence-of-depth-crafting-3d-text-art/"><u>[New] The Essence of Depth Crafting 3D Text Art</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-essential-checklist-for-creating-stellar-titles/"><u>[Updated] In 2024, The Essential Checklist for Creating Stellar Titles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mx340-driver-download-for-windows-1187/"><u>Canon MX340 Driver Download for Windows 11/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-rectify-resolving-issues-with-compromised-filesystems-in-windows-11/"><u>Diagnose & Rectify: Resolving Issues with Compromised Filesystems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-game-library-is-inaccessible-due-to-steam-network-connection-failures/"><u>Effective Fixes for When Your Game Library Is Inaccessible Due to Steam Network Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-responding-to-hanging-windows-10-issues-quickly-and-effectively/"><u>Expert Guide: Responding to Hanging Windows 10 Issues Quickly and Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-new-nvidia-drivers-instantly-fresh-installation-and-updates-available/"><u>Get New Nvidia Drivers Instantly - Fresh Installation and Updates Available</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-the-hidden-or-missing-wi-fi-features-in-windows-11/"><u>How to Recover the Hidden or Missing Wi-Fi Features in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/phonic-finesse-master-english-with-twisters/"><u>Phonic Finesse: Master English With Twisters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivating-the-windows-update-feature-efficiently/"><u>Reactivating the Windows Update Feature Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-slow-reaction-times-in-windows-10-keyboards/"><u>Troubleshooting and Resolving Slow Reaction Times in Windows 10 Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-issue-when-your-keyboards-backspace-function-isnt-responding/"><u>Troubleshooting Guide: Fixing the Issue When Your Keyboard's 'Backspace' Function Isn't Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-restarts-in-windows-11-made-easy/"><u>Troubleshooting Persistent Restarts in Windows 11 Made Easy</u></a></li>
 </ul></div>
 

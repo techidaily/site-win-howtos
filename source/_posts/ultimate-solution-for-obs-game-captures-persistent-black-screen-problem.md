@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2024-10-16T21:34:53.671Z
-updated: 2024-10-21T21:25:08.033Z
+date: 2024-10-21T18:39:44.200Z
+updated: 2024-10-27T17:51:25.569Z
 tags:
   - win11
   - win10
@@ -81,25 +81,11 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -110,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -132,6 +111,19 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -139,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -151,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -169,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
  2) Click **System** .
@@ -176,6 +168,19 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -194,6 +199,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -232,16 +244,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-auditory-aesthetics-guide-media-sound-choices/"><u>[New] In 2024, Auditory Aesthetics Guide Media Sound Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[New] Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevate-presentations-add-youtube-in-google-slides/"><u>[Updated] Elevate Presentations - Add YouTube in Google Slides</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mpgmpegflv-movavi/"><u>簡便體驗MPG/MPEG動態視頻在線自由FLV轉换 - Movavi的智能解决方案</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-frozen-screens-expert-advice-for-thawing-out-stalled-devices/"><u>Conquering Frozen Screens: Expert Advice for Thawing Out Stalled Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdr-unveiled-insightful-guide-for-professionals/"><u>In 2024, Quantum HDR Unveiled Insightful Guide for Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-event-id-1000-malfunction-in-microsofts-latest-windows-systems-7-8-and-10/"><u>Mastering the Fix of Event ID 1000 Malfunction in Microsoft's Latest Windows Systems: 7, 8 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-repairing-a-non-responsive-touchscreen-on-windows-10-5-methods/"><u>Troubleshooting Tips: Repairing a Non-Responsive Touchscreen on Windows 10 (5 Methods)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-non-responsive-s-pen-in-your-galaxy-note-series/"><u>Ultimate Troubleshooting Tips for Non-Responsive S Pen in Your Galaxy Note Series</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>[Updated] How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-pro-3-the-latest-in-action-cameras-from-ion/"><u>2024 Approved Exploring the Pro 3 - The Latest in Action Cameras From ION</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-methods-for-getting-your-hands-on-free-html5-videos-for-mac-and-pc-users/"><u>Best Methods for Getting Your Hands on Free HTML5 Videos for Mac & PC Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/best-tools-for-extracting-fb-content-1-5-overview-for-2024/"><u>Best Tools for Extracting FB Content #1-5 Overview for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-battleye-install-errors-ensuring-seamless-anti-cheat-functionality-on-your-pc/"><u>Conquering BattlEye Install Errors: Ensuring Seamless Anti-Cheat Functionality on Your PC</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/drm-free-conversion-guide-how-to-extract-drm-from-ebook-files/"><u>DRM-Free Conversion Guide: How to Extract DRM From Ebook Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-the-error-code-0x80070426-a-comprehensive-repair-tutorial-for-windows-11-users/"><u>Eliminate the Error Code 0X80070426: A Comprehensive Repair Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-update-issues-effortlessly-tackling-error-0x80070652/"><u>Fixing Microsoft Update Issues Effortlessly: Tackling Error 0X80070652</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-hamachi-stopped-working-problem-a-step-by-step-guide/"><u>Fixing the 'Hamachi Stopped Working' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-settings-menu-when-it-fails-to-respond/"><u>Guide to Restoring Settings Menu When It Fails to Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x80071ac3-when-your-storage-device-is-marked-as-corrupt/"><u>How to Fix Error Code 0X80071AC3 - When Your Storage Device Is Marked as Corrupt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-improve-speaker-output-and-increase-volume-on-a-windows-desktop-or-laptop/"><u>How to Improve Speaker Output & Increase Volume on a Windows Desktop or Laptop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-finest-9-mic-recorders-web-based-edition/"><u>In 2024, The Finest 9 Mic Recorders, Web-Based Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-asus-rog-phone-8-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Asus ROG Phone 8 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-absent-battery-icon-issue-on-your-windows-11-pc-a-step-by-step-guide/"><u>Resolving the Absent Battery Icon Issue on Your Windows 11 PC – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-making-your-minecraft-lan-multiplayer-work-perfectly/"><u>Step-by-Step Solution: Making Your Minecraft LAN Multiplayer Work Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-installed-issue-on-windows-10-and-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device Installed' Issue on Windows 10 & 11</u></a></li>
 </ul></div>
 

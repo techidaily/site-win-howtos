@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2024-10-18T17:37:21.116Z
-updated: 2024-10-21T19:50:16.830Z
+date: 2024-10-26T18:00:56.338Z
+updated: 2024-10-27T18:34:01.181Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -52,25 +59,11 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -88,6 +81,13 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -97,13 +97,6 @@ Now try to install Windows Updates now.
  Then type **ncpa.cpl**  in it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
 
@@ -124,6 +117,13 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -148,10 +148,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -168,18 +168,18 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -202,20 +202,21 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/1715859851303-new-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[New] Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles.</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-ios-photo-and-video-shows-from-ix-to-ios12-for-2024/"><u>[New] Premium iOS Photo & Video Shows From IX to IOS12 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expert-tips-for-recording-fan-favorite-sports-games-for-2024/"><u>[Updated] Expert Tips for Recording Fan-Favorite Sports Games for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-start-to-mastering-io-screen-recording/"><u>[Updated] Quick Start to Mastering IO Screen Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-igfxem-problems-for-improved-system-performance/"><u>Diagnose & Repair igfxEM Problems for Improved System Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cant-open-geforce-experience-a-comprehensive-solution/"><u>Fixing 'Can't Open GeForce Experience': A Comprehensive Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-library-loading-failures-dealing-with-error-87-incorrect-parameter-issue/"><u>Fixing Library Loading Failures: Dealing with Error 87 - Incorrect Parameter Issue</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos-for-2024/"><u>From Closed to Open Mastering SRT Files in macOS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-and-solve-dhcp-server-offline-connectivity-problems/"><u>How to Address and Solve 'DHCP Server Offline' Connectivity Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970851338-mediatek-chipset-drivers-download-and-install-usb-vcom-driver-now/"><u>MediaTek Chipset Drivers: Download and Install USB VCOM Driver Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-reducing-disk-impact-of-compatibility-telemetry-services/"><u>Optimizing Windows 11: Reducing Disk Impact of Compatibility Telemetry Services</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-realme-gt-5-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Realme GT 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-a-detailed-guide-to-turning-on-bluetooth-in-windows-7/"><u>Solving the Puzzle: A Detailed Guide to Turning On Bluetooth in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-win11-shutdown-spike/"><u>Troubleshooting Win11 Shutdown Spike</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unfinished-business-key-ps4-functions-yet-to-debut-on-ps5/"><u>Unfinished Business: Key PS4 Functions Yet to Debut on PS5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-manipulate-sound-rate-in-youtube-playback/"><u>[New] In 2024, Manipulate Sound Rate in YouTube Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-study-simplified-hdr-mastery/"><u>[New] In-Depth Study Simplified HDR Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-video-using-vimeo-record-for-live-captures/"><u>[Updated] In 2024, Streamline Video Using Vimeo Record for Live Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>[Updated] Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-motorola-razr-40-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Razr 40 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-the-second-server-problems-heres-how-to-resolve-them-efficiently/"><u>Destiny the Second Server Problems? Here's How to Resolve Them Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-tricks-to-unfreeze-and-optimize-your-windows-11-taskbar-experience/"><u>Effective Tricks to Unfreeze and Optimize Your Windows 11 Taskbar Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-nova-y71-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Huawei Nova Y71 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-guide-to-final-cut-pro-for-film-professionals/"><u>In 2024, Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-strategies-to-fix-frame-rate-drops-and-lags-in-world-of-warcraft/"><u>In-Depth Strategies to Fix Frame Rate Drops and Lags in World of Warcraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-dns-failure-discover-4-effortless-solutions-for-restoring-connectivity/"><u>Overcome DNS Failure: Discover 4 Effortless Solutions for Restoring Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/preventing-automatic-startups-tips-and-tricks-for-windows-11-users/"><u>Preventing Automatic Startups: Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-fix-bluetooth-stack-service-not-starting-problem/"><u>Resolving Issues: How to Fix 'Bluetooth Stack Service Not Starting' Problem</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-most-popular-online-video-editors-for-chromebook-users/"><u>Updated 2024 Approved The Most Popular Online Video Editors for Chromebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wi-fi-troubleshooting-guide-reactivating-wi-fi-on-all-devices/"><u>Wi-Fi Troubleshooting Guide: Reactivating Wi-Fi on All Devices</u></a></li>
 </ul></div>
 

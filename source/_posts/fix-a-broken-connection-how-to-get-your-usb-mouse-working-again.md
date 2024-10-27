@@ -1,7 +1,7 @@
 ---
 title: "Fix a Broken Connection: How to Get Your USB Mouse Working Again"
-date: 2024-10-18T18:46:15.569Z
-updated: 2024-10-21T16:46:41.723Z
+date: 2024-10-25T18:11:14.011Z
+updated: 2024-10-27T18:29:06.811Z
 tags:
   - win11
   - win10
@@ -40,10 +40,16 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -55,26 +61,27 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -89,15 +96,16 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -124,16 +132,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-video-to-gif-conversion-with-tiktok-apps/"><u>[New] In 2024, Mastering Video-to-GIF Conversion with TikTok Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>[Updated] 2024 Approved Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-windows-update-troubles-with-a-proven-cure-for-error-code-0x80240017/"><u>Beating Windows Update Troubles with a Proven Cure for Error Code 0X80240017</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208765679-dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-guide-to-add-transitions-in-kinemaster/"><u>Detailed Guide to Add Transitions in Kinemaster</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-make-your-cursor-stand-still-once-and-for-all/"><u>How To Make Your Cursor Stand Still Once And For All</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-realme-narzo-60x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme Narzo 60x 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-privilege-errors-in-steam-games-a-complete-solution/"><u>Overcoming Privilege Errors in Steam Games - A Complete Solution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>The Magic of Time Expansion A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208807663-urgent-fix-required-enable-local-authorization-defenses-now/"><u>Urgent Fix Required: Enable Local Authorization Defenses Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webpbmp-movavi/"><u>オンラインでの自由なWEBP画像からBMPへの変換 - Movaviサービス</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>[New] From Flash Photography to Sustained Videography Your Pixiz Adventure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>[New] In 2024, The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-gear-to-minimize-camera-movement/"><u>[New] Pro Gear to Minimize Camera Movement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-troubleshooting-made-easy-youtube-shorts-edition/"><u>[Updated] 2024 Approved Troubleshooting Made Easy YouTube Shorts Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-finest-racing-games-roundup-top-5/"><u>[Updated] Finest Racing Games Roundup (Top 5)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-is-youtube-premium-worth-it-a-user-guide/"><u>[Updated] Is YouTube Premium Worth It A User Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-repairing-print-to-pdf-feature-issues-in-windows-11-by-microsoft/"><u>A Comprehensive Guide to Repairing 'Print to PDF' Feature Issues in Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-not-responding-heres-how-you-can-solve-this-problem/"><u>Backspace Not Responding? Here’s How You Can Solve This Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-slowdown-effective-fixes-for-fallout-4-stutter/"><u>Beat the Slowdown: Effective Fixes for Fallout 4 Stutter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-buffering-problems-for-good-with-these-kodi-tweaks/"><u>End Buffering Problems for Good with These Kodi Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-battleye-service-launch-problems-seamless-operation-restored/"><u>Fix Implemented for BattlEye Service Launch Problems - Seamless Operation Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212052937-fixing-volume-control-icons-in-windows-11-with-helpful-illustrations/"><u>Fixing Volume Control Icons in Windows 11 with Helpful Illustrations.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-effortless-techniques-to-share-igtv-in-stories/"><u>In 2024, Effortless Techniques to Share IGTV in Stories</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience/"><u>In 2024, Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-hurdles-a-users-guide-to-fixing-microsoft-dp-adapter-issues-on-windows-11/"><u>Overcoming Connection Hurdles: A User's Guide to Fixing Microsoft DP Adapter Issues on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977601395-rapid-setup-of-lexars-usb-driver-download-in-a-snap/"><u>Rapid Setup of Lexar's USB Driver - Download in a Snap!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-the-instruction-at-0xreferenced-memory-at-0x-the-memory-could-not-be-written/"><u>SOLVED: The Instruction at 0Xreferenced Memory at 0X. The Memory Could Not Be Written</u></a></li>
 </ul></div>
 

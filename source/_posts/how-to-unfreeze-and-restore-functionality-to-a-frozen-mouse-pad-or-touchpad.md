@@ -1,7 +1,7 @@
 ---
 title: How to Unfreeze and Restore Functionality to a Frozen Mouse Pad or Touchpad
-date: 2024-10-18T17:09:41.089Z
-updated: 2024-10-21T19:56:10.371Z
+date: 2024-10-20T17:42:01.542Z
+updated: 2024-10-27T16:01:59.968Z
 tags:
   - win11
   - win10
@@ -37,26 +37,52 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
@@ -85,26 +111,13 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -131,24 +144,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-soaring-high-with-q500s-4k-vision/"><u>[New] In 2024, Soaring High with Q500's 4K Vision</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>[New] Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-proven-techniques-for-perfecting-video-aspect-ratios/"><u>2024 Approved Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-top-10-live-streamers-android-and-iphone-edition/"><u>Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-circumventing-the-persistent-windows-10-0x800f0922-update-hurdle/"><u>Guide To Circumventing The Persistent Windows 10 0X800f0922 Update Hurdle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disabled-issue/"><u>How To Fix Bluetooth Disabled Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-d3dx942dll-missing-or-not-found-errors/"><u>How to Fix d3dx9_42.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>In 2024, Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repair-strategies-to-tackle-errors-and-enhance-your-vr-experience/"><u>Mastering Oculus Repair Strategies to Tackle Errors and Enhance Your VR Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-repair-methods-for-windows-startup-issues/"><u>Mastering the Technique: Repair Methods for Windows Startup Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-errors-in-your-application/"><u>Resolved: Fixing 'Insufficient System Resources' Errors in Your Application</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-shift-key-failure-expert-troubleshooting-tips/"><u>Solving 'Shift Key Failure': Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a15-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A15 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-steam-issues-for-a-smooth-run-of-tiny-tinas-wonderlands-on-windows/"><u>Troubleshooting and Solving Steam Issues for a Smooth Run of Tiny Tina's Wonderlands on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-print-to-pdf-issues-on-windows-10-and-11/"><u>Troubleshooting Microsoft Print to PDF Issues on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-maximize-your-reach-learn-how-to-make-viral-reaction-videos-with-filmora/"><u>Updated 2024 Approved Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-conference-room-to-youtube-google-meet-broadcasting/"><u>[New] In 2024, From Conference Room to Youtube Google Meet Broadcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelpilot-studio-direct-access-screen-recorder/"><u>[New] PixelPilot Studio Direct-Access Screen Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[Updated] 2024 Approved Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen-for-2024/"><u>[Updated] Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-error-in-google-chrome-easily-fix-errnamenotresolved/"><u>Bypass the ERROR in Google Chrome – Easily Fix 'ERR_NAME_NOT_RESOLVED'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-renderer-cant-start-error-updates/"><u>Bypassing the 'Renderer Can't Start' Error Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chagpts-ai-intuition-unchanged-assertion-by-openai/"><u>ChaGPT's AI Intuition: Unchanged Assertion by OpenAI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-managing-excessive-cpu-load-caused-by-wudfhostexe-on-windows-11/"><u>Effective Solutions for Managing Excessive CPU Load Caused by WUDFHost.exe on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-nvidia-web-helper-error-no-disk-found-expert-strategies-for-successful-recovery/"><u>Fixing the Nvidia Web Helper Error - No Disk Found: Expert Strategies for Successful Recovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726227175474-h264-h264/"><u>H.264 코덱 소개: 이해를 깊이 어울리기 위한 H264 형식, 영상 파일 열기 및 재생에 대한 지침</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-high-definition-content-with-youtubes-av1-feature/"><u>In 2024, Unleash High-Definition Content with YouTube’s AV1 Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-social-medias-shadowy-side-spotting-fake-likes-for-2024/"><u>Navigating Social Media's Shadowy Side Spotting Fake Likes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-gaming-experience-in-world-of-warcraft-by-syncing-device-drivers-correctly/"><u>Optimize Your Gaming Experience in World of Warcraft by Syncing Device Drivers Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-solving-unidentified-usb-and-descriptor-issues/"><u>The Ultimate Guide to Solving Unidentified USB & Descriptor Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-network-interference-with-party-chatting-solutions/"><u>Troubleshooting Network Interference with Party Chatting Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreals-future-concern-over-d3d-loss/"><u>Unreal's Future: Concern Over D3D Loss</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/alkhtoat-alashl-lnskh-storagesphere-winduz-2008-r2-fhs-shaml/"><u>الخطوات الأسهل لنسخ StorageSphere WINDUZ 2008 (R2): فحص شامل</u></a></li>
 </ul></div>
 

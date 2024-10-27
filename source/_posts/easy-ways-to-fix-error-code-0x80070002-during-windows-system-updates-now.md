@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Fix Error Code 0X80070002 During Windows System Updates - Now!
-date: 2024-10-15T17:36:37.330Z
-updated: 2024-10-21T19:12:29.352Z
+date: 2024-10-21T17:07:46.545Z
+updated: 2024-10-27T18:17:16.755Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Check the Date and Time settings**
 
  This may sound unbelievable as a solution to fix 0x80070002 error code, but it does work for many Windows users. One of the major causes of the error is the incorrect time/date settings, so it’s necessary to make sure that your computer’s time synchronizes with the Internet time server.
@@ -58,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
@@ -96,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
@@ -127,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
@@ -144,19 +158,6 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -177,10 +178,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
@@ -201,21 +202,22 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
@@ -240,19 +242,6 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
@@ -260,13 +249,6 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 7) Restart your computer and try again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -315,22 +297,24 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-novices-nook-the-easiest-mc-dwellings-explored-for-2024/"><u>[New] Novice's Nook The Easiest MC Dwellings Explored for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-keyboard-backlight-not-working-on-macwindows/"><u>[Solved] Keyboard Backlight Not Working on Mac/Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-strategies-for-profitable-youtube-videos/"><u>[Updated] 2024 Approved Essential Strategies for Profitable YouTube Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-the-art-of-channel-creation-on-youtube/"><u>[Updated] 2024 Approved Mastering the Art of Channel Creation on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/astro-a40-audio-troubles-heres-how-you-can-make-your-mic-work-again/"><u>Astro A40 Audio Troubles? Here's How You Can Make Your Mic Work Again</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-endless-credential-entry-alerts-in-windows/"><u>Circumventing Endless Credential Entry Alerts in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203846114-enhanced-protection-alert-local-security-agencys-shield-active-update-today/"><u>Enhanced Protection Alert: Local Security Agency's Shield Active - Update Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-inaccessible-issue-on-systemprofile-a-step-by-step-guide/"><u>Fixing the Desktop Inaccessible Issue on SystemProfile: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204839201-how-to-overcome-the-cannot-install-updates-message-error-0x8007001f-explained/"><u>How To Overcome The 'Cannot Install Updates' Message - Error 0X8007001F Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-register-a-missing-class-on-windows-11-solution-inside/"><u>How to Successfully Register a Missing Class on Windows 11 (Solution Inside)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-nvidia-quadro-graphics-drivers-for-optimal-performance-in-windows-11/"><u>How to Update Your NVIDIA Quadro Graphics Drivers for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-14-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 14 Pro SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-leverage-youtubes-potential-through-strategic-backlinking/"><u>In 2024, Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-premium-mac-and-pc-fullscreen-recording-apps/"><u>In 2024, Premium Mac & PC Fullscreen Recording Apps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/indulge-in-the-best-youtube-binge-spots-for-anime-enthusiasts/"><u>Indulge in the Best YouTube Binge Spots for Anime Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-of-error-0x800705b4-in-updating-your-windows-11-system/"><u>Overcoming the Obstacle of Error 0X800705B4 in Updating Your Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-laptops-touchpad-in-windows-1087-a-step-by-step-troubleshooting-guide-to-success/"><u>Reviving Your Laptop's Touchpad in Windows 10/8/7: A Step-by-Step Troubleshooting Guide to Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-masterful-tag-utilization-boosting-video-performance/"><u>[New] 2024 Approved Masterful Tag Utilization Boosting Video Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-evaluating-magix-multimedia-software/"><u>[New] In 2024, Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-analysis-razers-hd-webcam/"><u>[Updated] 2024 Approved In-Depth Analysis Razer's HD Webcam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>[Updated] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-solve-your-windows-11s-persistent-0x800705b4-update-problem/"><u>Complete Walkthrough: Solve Your Windows 11'S Persistent 0X800705B4 Update Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-how-to-correctly-address-opengl-errors-in-minecraft/"><u>Expert Tips on How to Correctly Address OpenGL Errors in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-usb-connection-loss-step-by-step-guide/"><u>Fixing Persistent USB Connection Loss - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-update-error-code-802e4019-step-by-step-solution-guide/"><u>Fixing Windows Update Error Code 802E4019: Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo F25 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-g54-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola G54 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ineteresourceerror-fixed-master-the-approach-to-rectify-missing-files/"><u>INET_E_RESOURCE_ERROR Fixed! Master the Approach to Rectify Missing Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-a-guide-with-toms-insights/"><u>Mastering Hardware: A Guide with Tom's Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-unity-correcting-initialization-issues-related-to-graphics/"><u>Mastering Unity: Correcting Initialization Issues Related to Graphics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/privacy-first-the-leading-storywatchers/"><u>Privacy-First The Leading Storywatchers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-and-fix-crashed-epic-games-launcher-window/"><u>Stop & Fix Crashed Epic Games Launcher Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-winodwss-error-code-eb-step-by-step-instructions/"><u>Troubleshooting and Solving Winodws's Error Code Eb - Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-starting-hosted-networks-on-windows-11/"><u>Troubleshooting: Successfully Starting Hosted Networks on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-2024-cd-gear-guide-unmatched-performance-reviews/"><u>Ultimate 2024 CD Gear Guide: Unmatched Performance Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-if-there-is-a-red-x-on-the-wireless-network-icon/"><u>What to Do if There Is a Red X on the Wireless Network Icon</u></a></li>
 </ul></div>
 

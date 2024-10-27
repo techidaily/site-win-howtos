@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2024-10-19T17:31:29.112Z
-updated: 2024-10-21T20:46:25.161Z
+date: 2024-10-24T17:31:03.865Z
+updated: 2024-10-27T16:58:30.962Z
 tags:
   - win11
   - win10
@@ -39,39 +39,39 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
@@ -89,14 +89,22 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -125,16 +133,19 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cultivating-a-commercial-community-earnings-through-fb-engagement-for-2024/"><u>[Updated] Cultivating a Commercial Community Earnings Through FB Engagement for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs-for-2024/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ensure-clarity-leading-downloader-software-for-youtubers/"><u>Ensure Clarity Leading Downloader Software for YouTubers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-39-explained-effective-solutions-for-your-cd-and-dvd-player-issues/"><u>Error Code #39 Explained: Effective Solutions for Your CD and DVD Player Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-monitor-resolution-adjustment-hurdles-now-solved/"><u>Expert Tips for Overcoming Monitor Resolution Adjustment Hurdles – Now Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-microsoft-flight-simulator-2020-update-issues/"><u>Fixes for Microsoft Flight Simulator 2020 Update Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-functional-spacebar-key-on-windows-11-pcs/"><u>How to Fix a Non-Functional Spacebar Key on Windows 11 PCs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-enhance-creativity-in-video-editing-these-7-sources/"><u>In 2024, Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/iphone-to-ipad-a-guide-to-moving-songs-without-spending-a-dime-6-solutions/"><u>IPhone to iPad: A Guide to Moving Songs Without Spending a Dime - 6 Solutions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-fixes-to-fasten-tiktok-video-speed-for-2024/"><u>Quick Fixes to Fasten TikTok Video Speed for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-the-mystery-of-inaccessible-content-is-finally-solved/"><u>Update: The Mystery of 'Inaccessible Content' Is Finally Solved</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-scripts-across-eight-film-categories/"><u>[New] Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comparing-top-titles-magix-video-pro-x-among-others/"><u>[Updated] 2024 Approved Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210348631-bypass-the-missing-bluetooth-hurdle-on-windows-10-effective-tips-and-tricks-inside/"><u>Bypass the 'Missing Bluetooth' Hurdle on Windows 10: Effective Tips & Tricks Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decrease-system-load-in-windows-11-by-tackling-svchostexes-excessive-cpu-utilization-a-practical-guide/"><u>Decrease System Load in Windows 11 by Tackling svchost.exe's Excessive CPU Utilization - A Practical Guide</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effortless-guide-crafting-your-own-portable-windows-11-installation-media-via-usb-best-methods-revealed/"><u>Effortless Guide: Crafting Your Own Portable Windows 11 Installation Media via USB - Best Methods Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-digital-board-usage-during-web-conferences-on-diverse-devices/"><u>Essential Tips for Digital Board Usage During Web Conferences on Diverse Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-mic-working-again-how-to-resolve-microsoft-teams-sound-issues-in-windows-1110/"><u>Get Your Mic Working Again: How to Resolve Microsoft Teams Sound Issues in Windows 11/10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/horizon-zero-dawn-upgrade-unlocking-enhanced-speed-and-performance-potential/"><u>Horizon Zero Dawn Upgrade: Unlocking Enhanced Speed and Performance Potential</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-league-of-legends-lag-speedy-solutions-for-downloads-and-more/"><u>Overcome League of Legends Lag: Speedy Solutions for Downloads and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-problems-solutions-for-your-computer-failed-to-boot/"><u>Overcoming Startup Problems: Solutions for 'Your Computer Failed to Boot'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-pairing-problems-with-windows-11-bluetooth-devices-tips-and-tricks/"><u>Troubleshoot Pairing Problems with Windows 11 Bluetooth Devices, Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-network-latency-in-counter-strike-global-offensive/"><u>Troubleshooting High Network Latency in Counter-Strike Global Offensive</u></a></li>
 </ul></div>
 

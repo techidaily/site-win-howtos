@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Nonfunctional Audio Levels in Windows 11
-date: 2024-10-20T19:47:49.257Z
-updated: 2024-10-21T19:25:22.704Z
+date: 2024-10-20T16:13:08.174Z
+updated: 2024-10-27T17:13:34.543Z
 tags:
   - win11
   - win10
@@ -43,23 +43,16 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
 
@@ -79,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -93,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 5) Check your laptop camera to see if the problem is resolved. If yes, then great! If the issue still remains, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your camera driver
 
@@ -105,15 +98,16 @@ To do so:
 2. Double-click on either   **Cameras** or**Imaging devices** to reveal your camera device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
 3. Right-click on**your camera device** and click**Uninstall device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
-4. Click **Yes**   to confirm the uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
+4. Click **Yes**   to confirm the uninstall.
 
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
@@ -121,14 +115,21 @@ To do so:
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
 8. Check your camera and see if it’s working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,19 +152,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-supercharging-instagram-videos-on-the-go-mobile/"><u>[New] Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unlocking-screen-capture-mastery-on-iphone-7/"><u>[Updated] Unlocking Screen Capture Mastery on iPhone 7</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-grayscale-to-glamour-professional-color-adjustment/"><u>2024 Approved From Grayscale to Glamour Professional Color Adjustment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-video-editing-top-5-apps/"><u>2024 Approved The Ultimate Guide to iPhone Video Editing Top 5 Apps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-t2x-5g-frp-bypass-by-drfone-android/"><u>About Vivo T2x 5G FRP Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-activating-bluetooth-on-your-pc-with-windows-11-and-10/"><u>Effortless Guide: Activating Bluetooth on Your PC with Windows 11 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-issue-solutions-for-error-code-0xc1900208/"><u>Fixing the Windows 11 Update Issue: Solutions for Error Code 0xC1900208</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-v27-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo V27 Pro.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-non-responsive-dolby-systems-on-window-10/"><u>Step-by-Step Guide: Repairing Non-Responsive Dolby Systems on Window 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-functionality-to-windows-11s-stuck-start-menu/"><u>Step-by-Step: Restoring Functionality to Windows 11'S Stuck Start Menu</u></a></li>
-<li><a href="https://article-posts.techidaily.com/strategies-for-a-rising-number-of-youtubers-fans-for-2024/"><u>Strategies for a Rising Number of Youtubers' Fans for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-d3d9-device-creation-issues/"><u>Troubleshooting Guide: Resolving Failed D3D9 Device Creation Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-clipcutter-plus/"><u>[New] In 2024, ClipCutter Plus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-sierras-cloud-storage-for-effortless-documentdrive-access/"><u>[New] Mastering Sierra's Cloud Storage for Effortless Document/Drive Access</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-image-makeovers-on-the-house/"><u>[Updated] Channel Image Makeovers on the House</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-a-collage-on-iphone/"><u>[Updated] How to Make a Collage on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-a-pathway-to-instagram-affordability-through-partnerships/"><u>[Updated] In 2024, Crafting a Pathway to Instagram Affordability Through Partnerships</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-guide-for-amateurs-and-pros-on-windows-11-video-creation/"><u>[Updated] In 2024, The Ultimate Guide for Amateurs & Pros on Windows 11 Video Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful-in-2024/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crack-the-code-of-warframe-update-malfunctions-now-corrected/"><u>Crack the Code of Warframe Update Malfunctions - Now Corrected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-update-issue-error-code-80erase00-step-by-step-guide/"><u>Fix Windows Update Issue: Error Code 80Erase00 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-spotify-automatic-startup/"><u>Guide to Turn Off Spotify Automatic Startup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-with-ease-enhanced-menu-toggle-for-facebook-linkedin-and-youtube-integration/"><u>Navigate with Ease: Enhanced Menu Toggle for Facebook, LinkedIn & YouTube Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-critical-errors-in-cxfreeze-with-minimal-hassle/"><u>Resolving Critical Errors in Cx_Freeze with Minimal Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-inactive-night-light-on-your-windows-10-or-11-device-easily/"><u>Solve the Problem of Inactive Night Light on Your Windows 10 or 11 Device Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2024-10-14T17:32:16.091Z
-updated: 2024-10-21T17:42:04.925Z
+date: 2024-10-21T16:44:43.648Z
+updated: 2024-10-27T16:14:21.786Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,6 +55,13 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -69,13 +76,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -88,7 +88,21 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Relaunch Chrome to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -99,22 +113,8 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -133,17 +133,17 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -180,20 +180,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-is-broadcasting-facebook-videos-a-reality-yet/"><u>2024 Approved Is Broadcasting Facebook Videos a Reality Yet?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-instagram-gurus-playbook-5-game-changing-strategies-and-outcomes/"><u>2024 Approved The Instagram Guru’s Playbook 5 Game Changing Strategies and Outcomes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/demystifying-the-livekernelevent-error-144-tips-to-get-your-system-running-smoothly-again/"><u>Demystifying the LiveKernelEvent Error 144 – Tips to Get Your System Running Smoothly Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-mysterious-source-error-code-31-on-your-pc/"><u>Effective Fixes for the Mysterious Source Error (Code 31) on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-failed-to-connect-to-ens-errors/"><u>How to Overcome 'Windows Failed to Connect to ENS' Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-keyboards-with-sticky-keys-dilemma/"><u>How to Resolve Windows Keyboards with Sticky Keys Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mic-errors-all-cleared-on-discord/"><u>Mic Errors: All Cleared on Discord</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-stars-with-offworld-trading-company-a-critical-guide-to-dominating-intergalactic-commerce/"><u>Navigating the Stars with Offworld Trading Company: A Critical Guide to Dominating Intergalactic Commerce</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsung-gear-360-alternatives-updated-list-2023-for-2024/"><u>Samsung Gear 360 Alternatives Updated List 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-noise-issues-in-pc-speakers-running-windows-117/"><u>Solution for Noise Issues in PC Speakers Running Windows 11/7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-edge-40-neo-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Edge 40 Neo Android SIM Unlock APK</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-british-tv-series-streaming-on-netflix-today/"><u>Top British TV Series Streaming on Netflix Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-fixing-your-samsung-blu-ray-player-issues/"><u>Troubleshooting Guide: Fixing Your Samsung Blu-Ray Player Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-reconnect-your-media-on-a-windows-pc/"><u>Troubleshooting Steps to Reconnect Your Media on a Windows PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915231907-ultimate-trick-for-protecting-text-documents-with-strong-passwords-learn-today/"><u>Ultimate Trick for Protecting Text Documents with Strong Passwords - Learn Today!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-viewer-interest-with-accurate-time-stamping/"><u>[New] 2024 Approved Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-vida-edits-with-ease-a-user-centric-perspective-review/"><u>[Updated] 2024 Approved Vida Edits with Ease A User-Centric Perspective Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-pinnacle-photo-narrative-directors-set/"><u>2024 Approved Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/9-impactful-gains-from-linguistic-diversification/"><u>9 Impactful Gains From Linguistic Diversification</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211296326-cracking-down-on-code-224003-unlock-your-stuck-videos/"><u>Cracking Down on Code 224003 - Unlock Your Stuck Videos!</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zur-datenubereinstimmung-wie-man-zwei-ordner-synchronisiert/"><u>Effiziente Strategien Zur Datenübereinstimmung: Wie Man Zwei Ordner Synchronisiert</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-keyboard-malfunctions-in-your-hp-notebook-now/"><u>Effortless Fixes for Keyboard Malfunctions in Your HP Notebook – Now</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-differences-in-vimeo-and-youtube-services/"><u>Exploring Differences in Vimeo & YouTube Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-miracast-working-a-guide-on-fixing-graphics-driver-incompatibilities/"><u>How to Get Miracast Working: A Guide on Fixing Graphics Driver Incompatibilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/modern-troubleshooting-tactics-overcoming-oculus-errors-in-the-new-age/"><u>Modern Troubleshooting Tactics: Overcoming Oculus Errors in the New Age</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-update-hiccup-a-detailed-fix-for-error-0x8024200d/"><u>Overcoming Microsoft Update Hiccup: A Detailed Fix for Error 0X8024200D</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-pc-using-built-in-tools-a-deep-dive-into-windows-10s-sfc-and-dism-features/"><u>Revive Your PC Using Built-In Tools: A Deep Dive Into Windows 10'S SFC and DISM Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-airpods-and-windows-11-connectivity-woes-expert-advice-from-2024/"><u>Solve Your AirPods and Windows 11 Connectivity Woes: Expert Advice From 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s17-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S17 Pro Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-stop-asus-laptop-screen-flashes/"><u>Troubleshooting: Stop ASUS Laptop Screen Flashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-code-28-faults-within-the-windows-device-manager/"><u>Understanding & Repairing 'Code 28' Faults Within the Windows Device Manager</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-10-video-editing-tools-for-young-creators-free-and-paid-options/"><u>Updated In 2024, Top 10 Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the KB4056892 Error for Smooth Windows 10 Updates - Solved
-date: 2024-10-20T21:25:29.083Z
-updated: 2024-10-21T20:33:11.717Z
+date: 2024-10-26T16:40:30.586Z
+updated: 2024-10-27T16:35:46.854Z
 tags:
   - win11
   - win10
@@ -43,47 +43,13 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap788.png)
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Restarting Windows Update service**
 
@@ -94,21 +60,14 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **`C:\Windows\SoftwareDistribution\DataStore`**  
 
@@ -126,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
  When all the files are deleted, you shall see “This folder is empty”.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
@@ -148,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
 ### **Fix 4: Running System File Checker**
@@ -159,15 +125,23 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 2. In Command Prompt, type the following command and press **Enter**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When this command operation is completed, close Command Prompt.
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install the update KB4056892 for your Windows system, try downloading it from Microsoft Update Catalog manually.
@@ -182,10 +156,26 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
 3. Type**KB4056892**  and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap803.png)
 4. In the list of search results, select right update for your operating system and click **Download**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
@@ -193,6 +183,19 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 See if you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -222,20 +225,18 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-cutting-edge-recording-nintendo-switch-edition/"><u>[New] Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-sonic-boom-the-guide-to-musical-snapchat-videos/"><u>[Updated] In 2024, Sonic Boom The Guide to Musical Snapchat Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battleye-setup-overcoming-previous-failures-with-these-proven-fixes/"><u>BattlEye Setup: Overcoming Previous Failures with These Proven Fixes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bite-sized-video-specialist-for-2024/"><u>Bite-Sized Video Specialist for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-keystroke-response-in-winos-and-11-7-techniques/"><u>Enhancing Keystroke Response in WINOS & 11: #7 Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-computer-hardware-with-toms-guidance/"><u>Expert Insights Into Computer Hardware with Tom's Guidance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-microphone-functionality-on-windows-10-systems/"><u>Expert Tips: Restoring Microphone Functionality on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-ensure-a-smooth-shut-down-process-in-windows-10-issues-fixed/"><u>How to Ensure a Smooth Shut Down Process in Windows 10 [ISSUES FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/important-note-ensure-your-system-has-a-directx-11-gpu-before-installation/"><u>Important Note: Ensure Your System Has a DirectX 11 GPU Before Installation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-meizu-21-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Meizu 21 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721462113834-overcome-these-6-prevalent-iphone-13-glitches-expert-fixing-guides-inside/"><u>Overcome These 6 Prevalent iPhone 13 Glitches - Expert Fixing Guides Inside!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-driver-errors-for-jetpro400-in-windows-108/"><u>Rectify Driver Errors: For JetPro400 in Windows 10/8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-ce-34878-0-issue-on-your-playstation-4-a-step-by-step-guide/"><u>Solving the CE-34878-0 Issue on Your PlayStation 4: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-incorrect-parameter-mistake-for-windows-library-loading-error-87/"><u>Understanding and Fixing the 'Incorrect Parameter' Mistake for Windows Library Loading (Error 87)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-my-usb-mouse-working-discover-simple-fixes-to-restore-functionality/"><u>Why Isn't My USB Mouse Working? Discover Simple Fixes to Restore Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>[New] Latest Overhaul Sony's S6500 HD & BD Player Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unmatched-hd-capture-selecting-the-best-recorder-brands-for-2024/"><u>[New] Unmatched HD Capture Selecting the Best Recorder Brands for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unraveling-the-science-of-motion-without-contact/"><u>[New] Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[Updated] In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-25-secrets-for-effective-win10-use/"><u>[Updated] Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bid-farewell-to-the-never-ending-reboots-fixing-windows-11-issues-effortlessly/"><u>Bid Farewell to the Never-Ending Reboots: Fixing Windows 11 Issues Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/civilization-vi-no-compatible-graphics-device-found-solved/"><u>Civilization VI No Compatible Graphics Device Found [SOLVED]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smirk-studio-memomaker/"><u>In 2024, Smirk Studio MemoMaker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-10-budget-friendly-image-editing-apps-for-smartphones/"><u>In 2024, Top 10 Budget-Friendly Image Editing Apps for Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-persistent-problem-of-error-0x800704cf-in-windows-systems/"><u>Solving the Persistent Problem of Error 0X800704CF in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-mend-non-functioning-fn-key-issues-in-lenovo-devices/"><u>Step-by-Step Guide to Mend Non-Functioning FN Key Issues in Lenovo Devices</u></a></li>
 </ul></div>
 

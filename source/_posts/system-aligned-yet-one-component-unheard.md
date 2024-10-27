@@ -1,7 +1,7 @@
 ---
 title: System Aligned, Yet One Component Unheard
-date: 2024-10-14T20:34:17.438Z
-updated: 2024-10-21T21:51:56.033Z
+date: 2024-10-23T17:13:50.811Z
+updated: 2024-10-27T17:04:39.511Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
@@ -67,23 +74,9 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Add a printer** in the menu bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait for your Windows to search your printer.
 
@@ -95,16 +88,16 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Reinstall your printer driver
 
@@ -112,20 +105,27 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae170cd9723f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
@@ -134,13 +134,6 @@ Now you should reinstall your printer to your computer.
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Update your printer driver
 
@@ -161,6 +154,13 @@ Now you should reinstall your printer to your computer.
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
@@ -189,24 +189,21 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-video-quality-comparison-mirrorless-or-dslr-cameras/"><u>[New] 2024 Approved Video Quality Comparison Mirrorless or DSLR Cameras?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-battle-royale-in-vr-choosing-between-oculus-htc-vive-and-ps-vr/"><u>[New] Battle Royale in VR Choosing Between Oculus, HTC Vive & PS VR</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-quintessential-20-anime-openers-sounds/"><u>[Updated] 2024 Approved Quintessential 20 Anime Openers' Sounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unboxing-essentials-selecting-audio-that-complements-videos/"><u>2024 Approved Unboxing Essentials Selecting Audio that Complements Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-hassles-resolving-issues-with-my-ipad-and-printer-pairing/"><u>Connecting Hassles: Resolving Issues with My iPad and Printer Pairing</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-high-refresh-gaming-displays/"><u>Exclusive High-Refresh Gaming Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-are-my-steam-server-connections-down/"><u>Fixing the Issue: Why Are My Steam Server Connections Down?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-upstart-hiccups-steps-for-a-smooth-boot-process/"><u>Fixing Windows 11 Upstart Hiccups: Steps for a Smooth Boot Process</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-pro-m404n-driver-version-installed-easily-online/"><u>Get the Newest HP LaserJet Pro M404n Driver Version Installed Easily Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/graphic-geniuses-discover-the-best-10-free-sketch-for-mac-for-2024/"><u>Graphic Geniuses Discover the Best 10 Free Sketch for Mac for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-update-or-installation-glitch-tips-for-resolving-error-0x80070643/"><u>How to Overcome Window's Update or Installation Glitch: Tips for Resolving Error 0X80070643</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206718516-laptop-mouse-malfunctions-heres-how-to-restore-functionality-and-beat-the-lag/"><u>Laptop Mouse Malfunctions? Here's How to Restore Functionality and Beat the Lag!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-innovative-audio-editing-implementing-and-designing-keyframes-in-adobe-premiere-pro-mac-for-2024/"><u>New Innovative Audio Editing Implementing and Designing Keyframes in Adobe Premiere Pro (Mac) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-a-seamless-minecraft-adventure-overcoming-performance-lags/"><u>Quick Solutions for a Seamless Minecraft Adventure: Overcoming Performance Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-sonys-dualshock-4-mic-problems/"><u>Step-by-Step Solutions for Fixing Sony's DualShock 4 Mic Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/system-rests-to-cool-down-post-gaming/"><u>System Rests to Cool Down Post-Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-lenovos-laptop-camera-functionality/"><u>Troubleshooting Tips: Restore Your Lenovo's Laptop Camera Functionality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-spinner-top-10-tools-to-rotate-and-flip-videos/"><u>Updated Free Video Spinner Top 10 Tools to Rotate and Flip Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210659244-why-isnt-my-razer-keyboard-lighting-up-solutions-inside/"><u>Why Isn't My Razer Keyboard Lighting Up? Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-directvid-snapper-for-video-calls/"><u>[New] 2024 Approved DirectVid Snapper for Video Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-watchers-workshop-advanced-guide-to-live-tv-broadcasting-via-windows-pc/"><u>[New] The Watcher's Workshop Advanced Guide to Live TV Broadcasting via Windows PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-the-secrets-to-free-youtube-intros-for-2024/"><u>[New] Unlocking the Secrets to FREE YouTube Intros for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-passion-an-essential-guide-to-10-motivational-films/"><u>[Updated] Ignite Passion An Essential Guide to 10 Motivational Films</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-dollars-and-sense-profit-driven-techniques-for-fb-video-content/"><u>2024 Approved Dollars and Sense Profit-Driven Techniques for FB Video Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-solution-resolving-issues-with-your-xbox-one-controller-guide/"><u>Complete Step-by-Step Solution: Resolving Issues with Your Xbox One Controller (Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-language-of-windows-updates/"><u>Decoding the Language of Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-broken-pcdevice-a-step-by-nstep-repair-guide/"><u>Easy Fixes for Your Broken PC/Device: A Step-by-nStep Repair Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-dxgi-device-hung-errors-quick-solutions-and-tips/"><u>Effortless Fixes for DXGI Device Hung Errors: Quick Solutions & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-not-supported-error-in-miracast-with-a-simple-graphics-driver-update/"><u>Fix the Not Supported Error in Miracast with a Simple Graphics Driver Update</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-minecraft-expert-tips-for-resolving-local-network-glitches/"><u>Mastering Minecraft: Expert Tips for Resolving Local Network Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-service-failures-steps-and-fixes-unveiled/"><u>Overcoming Windows Update Service Failures: Steps and Fixes Unveiled</u></a></li>
+<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-update-and-installation-issues-error-code-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update and Installation Issues (Error Code 0X80070643)</u></a></li>
 </ul></div>
 

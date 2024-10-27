@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-10-16T19:55:56.959Z
-updated: 2024-10-21T17:46:59.602Z
+date: 2024-10-21T17:10:30.031Z
+updated: 2024-10-27T16:55:05.068Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -82,16 +75,16 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -124,13 +117,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
@@ -148,18 +134,33 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
@@ -189,20 +190,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unbeatable-video-popularity-tracker-in-youtube-arena/"><u>[New] Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206100989-solved-airdrop-not-working-quickly-and-easily/"><u>[SOLVED] AirDrop Not Working | Quickly & Easily.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-efficient-methods-for-nvidia-screen-recording/"><u>[Updated] In 2024, Efficient Methods for NVIDIA Screen Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-permanent-name-shift-on-google-meet-devices/"><u>[Updated] Permanent Name Shift on Google Meet Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-voice-memo-techniques-an-in-depth-walkthrough/"><u>2024 Approved Voice Memo Techniques An In-Depth Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-resolving-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips on Resolving a Malfunctioning USB-HDMI Adapter</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-razr-40-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Razr 40 Ultra to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-illumination-restoration-tips-for-mac-and-windows-users/"><u>Keyboard Illumination Restoration Tips for Mac and Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-rocket-league-game-crashes-essential-advice-for-gamers/"><u>Prevent Rocket League Game Crashes - Essential Advice for Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-unintended-characters-on-your-keyboard/"><u>Solved: How to Fix Unintended Characters on Your Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-elevation-requests-in-windows-fixes-for-win11-win10-and-win7-error-messages/"><u>Troubleshooting Elevation Requests in Windows: Fixes for Win11, Win10 & Win7 Error Messages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repairing-your-mouse-when-the-left-click-fails/"><u>Troubleshooting Guide: Repairing Your Mouse When the Left-Click Fails</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-effective-web-page-optimization-strategies/"><u>Unlocking the Secrets of Effective Web Page Optimization Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-does-your-windows-11-pc-boot-alone-exploring-possible-causes-and-solutions/"><u>Why Does Your Windows 11 PC Boot Alone? Exploring Possible Causes and Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-alternatives-to-game-bar-for-video-recording/"><u>[New] 2024 Approved Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-deleted-and-found-again-streaming-yts-forgotten-videos-for-2024/"><u>[Updated] Deleted and Found Again Streaming YT’s Forgotten Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-ultimate-list-of-the-most-effective-no-cost-tiktok-to-mp3-apps-6/"><u>[Updated] In 2024, Ultimate List of the Most Effective, No-Cost TikTok To MP3 Apps (6)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-revolutionize-viewing-experience-the-best-yt-reaction-methods-for-2024/"><u>[Updated] Revolutionize Viewing Experience The Best YT Reaction Methods for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-frozen-google-chrome-browser-tips-and-solutions/"><u>Fixing a Frozen Google Chrome Browser - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-network-setup-errors-for-an-optimal-dragon-ball-fighterz-gaming-experience/"><u>Fixing Network Setup Errors for an Optimal Dragon Ball FighterZ Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-turn-your-png-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Turn Your PNG Images Into JPEG Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-missing-fixservice-registry-entry-issue-in-windows-10/"><u>Resolving 'Missing' FixService Registry Entry Issue in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-free-keyboard-mastery-classes-for-every-age-group/"><u>Top 12 Free Keyboard Mastery Classes for Every Age Group</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It's Missing)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellung-verlorener-dateien-unter-windows-eine-umfassende-anleitung/"><u>Wiederherstellung Verlorener Dateien Unter Windows: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-keyboard-latency-issues-now-fixed/"><u>Windows 11 Keyboard Latency Issues - Now Fixed</u></a></li>
 </ul></div>
 

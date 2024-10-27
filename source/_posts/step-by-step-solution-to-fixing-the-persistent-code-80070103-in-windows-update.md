@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2024-10-14T22:00:55.912Z
-updated: 2024-10-21T17:15:31.041Z
+date: 2024-10-22T16:46:00.642Z
+updated: 2024-10-27T17:28:32.370Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Open Network & Internet settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
@@ -69,13 +62,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-5.jpg)
@@ -83,6 +69,13 @@ When you fail to access another computer of the same network, or when you cannot
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Reset TCP/IP
 
@@ -112,13 +105,6 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Reinstall the network adapter
 
  If all the methods above ended nowhere, you should reinstall the network adapter in case it’s corrupted and causes the 0x800704cf error.
@@ -126,6 +112,13 @@ netsh int ip reset
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
@@ -144,16 +137,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Delete all the devices one by one under Network adapters.
@@ -172,6 +159,19 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -181,10 +181,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Accounts** .
@@ -201,13 +201,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
 ---
@@ -219,6 +212,13 @@ netsh int ip reset
 **1)** Type**troubleshoot** in the search box and click**Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
@@ -238,13 +238,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
 ---
@@ -258,15 +251,22 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
@@ -337,20 +337,24 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/archive-of-awe-high-quality-gif-preservation-for-tweeters-for-2024/"><u>Archive of Awe High-Quality GIF Preservation for Tweeters for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/baffled-by-sudden-computer-turnoffs-heres-how-you-can-fix-them/"><u>Baffled by Sudden Computer Turnoffs? Here's How You Can Fix Them!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-60-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo 60 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clear-explanation-on-how-to-overcome-livekernelevent-anomaly-sigma-117/"><u>Clear Explanation on How to Overcome LiveKernelEvent Anomaly Sigma-117</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-spacebar-issue-on-windows-10/"><u>Fixing a Non-Functional Spacebar Issue on Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-discord-screen-sharing-problem-with-no-display-a-step-by-step-guide/"><u>How to Fix Discord Screen Sharing Problem with No Display - A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-air-and-airpods-synchronization-guide-a-comprehensive-how-to/"><u>Macbook Air & AirPods Synchronization Guide - A Comprehensive How-To</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-why-your-ps4-controllers-arent-charging-and-how-to-get-them-back-on-track/"><u>Mastering the Fix: Why Your PS4 Controllers Aren't Charging (and How to Get Them Back on Track)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-incompatible-display-resolution-causes-unsupported-screen-refresh-rate/"><u>Solution: Incompatible Display Resolution Causes Unsupported Screen Refresh Rate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-to-your-needs-a-guide-on-implementing-generative-pre-training-gpt/"><u>Tailoring ChatGPT to Your Needs: A Guide on Implementing Generative Pre-Training (GPT)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-guide-to-modifying-files-with-trusty-installer-permission/"><u>The Guide to Modifying Files with Trusty Installer Permission</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-keyboards-in-windows-1178/"><u>Troubleshooting Non-Responsive Keyboards in Windows 11/7/8</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-p/"><u>Updated In 2024, Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-make-money-on-periscope-if-you-are-new-to-this-space-for-2024/"><u>[New] How to Make Money on Periscope if You Are New to This Space for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>[Updated] Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-error-80070n00e-efficiently-correct-windows-update-issues-now/"><u>Bypass Error 80070N00E: Efficiently Correct Windows Update Issues Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-down-on-error-code-0x80072ee7-in-your-windows-store/"><u>Cracking Down on Error Code 0X80072EE7 in Your Windows Store</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicles-a-short-history-lesson/"><u>Electric Vehicles: A Short History Lesson</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-rapid-solutions-for-laptops-with-dead-batteries/"><u>Expert Advice: Rapid Solutions for Laptops with Dead Batteries</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fixing-startup-glitches-a-guide-for-troubled-players-of-farming-simulator-22/"><u>Fixing Startup Glitches: A Guide for Troubled Players of Farming Simulator 22</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-error-code-0x80072ee7-issue-with-windows-store-a-step-by-step-guide/"><u>Fixing the 'Error Code 0X80072EE7' Issue with Windows Store – A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100A Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-pc-based-video-editing-tips-for-youtube-success/"><u>In 2024, PC-Based Video Editing Tips for YouTube Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-accelerator-eliminating-slow-connection-woes/"><u>League of Legends Download Accelerator: Eliminating Slow Connection Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-function-fn-key-malfunction-fast-and-simple-solutions/"><u>Lenovo Function (Fn) Key Malfunction: Fast and Simple Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-vrijetijdige-conversie-van-ppm-naar-bmp-met-movavi-gebruik-ons-gratis-werkspoor/"><u>Online Vrijetijdige Conversie Van PPM Naar BMP Met Movavi - Gebruik Ons Gratis Werkspoor!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-painless-setup-of-your-samsung-m2070-drivers-a-comprehensive-guide/"><u>Quick and Painless Setup of Your Samsung M2070 Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-0x80072fed-issue-step-by-step-solutions/"><u>Resolving Windows 10'S 0X80072FED Issue: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-animated-logo-creators-for-stunning-brand-identities/"><u>Top 10 Free Animated Logo Creators for Stunning Brand Identities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-adapting-to-organization-imposed-windows-system-settings-policies/"><u>Understanding and Adapting to Organization-Imposed Windows System Settings Policies</u></a></li>
 </ul></div>
 

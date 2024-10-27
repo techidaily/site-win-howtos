@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Vanishing Cursor in Windows 11'S Touchpad
-date: 2024-10-15T20:48:53.562Z
-updated: 2024-10-21T18:31:47.498Z
+date: 2024-10-24T16:01:17.321Z
+updated: 2024-10-27T18:43:02.909Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -65,10 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -84,10 +84,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -99,10 +99,16 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -127,20 +133,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-download-free-tools-for-converting-fb-video-to-premium-mp4-quality/"><u>[New] Download-Free Tools for Converting FB Video to Premium MP4 Quality</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-ensuring-tiktok-authenticity-pre-upload-rights-confirmation-for-2024/"><u>[New] Ensuring TikTok Authenticity Pre-Upload Rights Confirmation for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] In 2024, The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>[Updated] The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-annoying-keeps-showing-up-a-comprehveiw-on-solving-usb-recognition-problems/"><u>Beat the Annoying Keeps Showing Up: A Comprehveiw on Solving USB Recognition Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-troubleshooting-and-repairing-your-malfunctioning-xbox-one-controller/"><u>Complete Guide: Troubleshooting and Repairing Your Malfunctioning Xbox One Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-backspace-key-isnt-functioning-correctly/"><u>How to Resolve When Your Backspace Key Isn't Functioning Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-damaged-registry-entries-in-windows-10-and-11-a-step-by-step-guide/"><u>Repairing Damaged Registry Entries in Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-your-iphone-now-discover-the-best-6-antivirus-solutions-available-today/"><u>Secure Your iPhone Now! Discover the Best 6 Antivirus Solutions Available Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-nplus1-access-denied-when-listing-items-inside-containers-issue-easy-steps-and-tips/"><u>Solving Windows N+1: Access Denied When Listing Items Inside Containers Issue - Easy Steps and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-the-livekernelevent-code-117-issue/"><u>Step-by-Step Guide: Resolving the LiveKernelEvent Code 117 Issue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-freenocams-webcam-capturing-capabilities-for-2024/"><u>Unlocking FreenoCam's Webcam Capturing Capabilities for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vidverse-app-critique-digest/"><u>VidVerse App Critique Digest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-usb-ports-not-working-in-windows-1011/"><u>[Fixed] USB Ports Not Working in Windows 10/11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-messvid-grabber-for-social-media/"><u>[New] MessVid Grabber for Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-cinematic-expedition-through-border-techniques/"><u>[Updated] 2024 Approved Elevating Your Cinematic Expedition Through Border Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diy-creating-captivating-image-based-collage/"><u>DIY Creating Captivating Image-Based Collage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dji-phantom-4-complete-review/"><u>DJI Phantom 4 Complete Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-usb-hdmi-connection-wont-connect/"><u>Expert Solutions for When Your USB-HDMI Connection Won't Connect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-corrupted-windows-store-cache-step-by-step-solutions/"><u>Fixing a Corrupted Windows Store Cache: Step-by-Step Solutions</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Pro Data Completely | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-your-steam-games-after-missing-file-issues-fixed/"><u>Guide To Restoring Your Steam Games After Missing File Issues [FIXED]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12plus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/porating-cards-and-annotations-in-youtube-content-for-2024/"><u>Incorporating Cards and Annotations in YouTube Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-your-pc-when-it-gets-stuck-at-boot-up/"><u>Resolved: Fixes for Your PC When It Gets Stuck at Boot Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-internet-explorers-page-display-problems-for-a-smooth-browsing-experience/"><u>Resolving Internet Explorer's Page Display Problems for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unreachable-steam-content-services/"><u>Step-by-Step Solutions for Unreachable Steam Content Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-corrupt-or-unsupported-images-in-windows-11-and-windows-10/"><u>Troubleshooting Corrupt or Unsupported Images in Windows 11 & Windows 10</u></a></li>
 </ul></div>
 

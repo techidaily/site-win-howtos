@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot a Black ASUS Camera on Windows 11 Systems
-date: 2024-10-18T18:51:52.800Z
-updated: 2024-10-21T20:46:30.335Z
+date: 2024-10-21T16:59:32.310Z
+updated: 2024-10-27T18:07:45.771Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -61,21 +54,22 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
@@ -87,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the power troubleshooter
@@ -114,28 +108,15 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -153,14 +134,14 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
- Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
 ### Fix 4: Update your battery driver
 
@@ -175,6 +156,19 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 **2)** Run Driver Easy and click**Scan Now.** Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -192,16 +186,16 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
@@ -237,18 +231,19 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>[New] Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-start-making-movies-8-best-film-cameras-under-300/"><u>[Updated] Start Making Movies 8 Best Film Cameras Under $300</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aufgabenplane-effektiv-organisieren-und-kopieren-sie-die-entsprechende-datei-ins-netzlaufwerk-in-windows-10/"><u>Aufgabenpläne Effektiv Organisieren Und Kopieren Sie Die Entsprechende Datei Ins Netzlaufwerk in Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversao-perfeita-de-audio-para-formato-wav-ferramenta-simples-e-pratica/"><u>Conversão Perfeita De Audio Para Formato WAV - Ferramenta Simples E Prática</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-hard-drive-access-problems-in-windows-10/"><u>Expert Tips for Fixing Hard Drive Access Problems in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-incompatibility-issues-update-your-device-driver-on-windows-operating-system/"><u>Fixing Incompatibility Issues: Update Your Device Driver on Windows Operating System</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-swap-periscope-for-success-best-replacements-for-iphoneandroid/"><u>In 2024, Swap Periscope for Success Best Replacements for iPhone/Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-rectifying-vexing-screen-rippling-in-valorant-games/"><u>In-Depth Techniques for Rectifying Vexing Screen Rippling in VALORANT Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llama-local-ization-guide-how-to-install-and-use-it-yourself/"><u>Llama ˈLocal-Ization' Guide: How to Install and Use It Yourself</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-access-denied-hurdle-comprehensive-troubleshooting-guide-solved/"><u>Overcome Your Windows 10 'Access Denied' Hurdle - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-the-inoperative-touchpad-scroll-in-windows-10-devices/"><u>Step-by-Step Guide: Fixing the Inoperative Touchpad Scroll in Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-initial-blackout-in-monster-hunter-world/"><u>Troubleshooting Guide: Fixing the Initial Blackout in Monster Hunter: World</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>[Updated] The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profit-strategies-for-beauty-streams/"><u>2024 Approved Profit Strategies for Beauty Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-fallouts-multi-media-journey/"><u>Embark on Fallout’s Multi-Media Journey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-enabling-and-displaying-bluetooth-drivers-via-device-manager/"><u>Guide: Enabling and Displaying Bluetooth Drivers via Device Manager</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-vivo-y36i-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y36i Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-reorient-an-inverted-laptop-display-back-to-normal/"><u>How To Correctly Reorient An Inverted Laptop Display Back To Normal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-correct-the-troublesome-0x80072efd-error-encountered-in-windows-10/"><u>How to Easily Correct the Troublesome 0X80072EFD Error Encountered in Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Passcode Screen?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-hdr-image-creation-with-photoshop-secrets-for-2024/"><u>Pro HDR Image Creation with Photoshop Secrets for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/phone-cinematography-crafting-perfect-youtube-thumbnails-for-2024/"><u>Smartphone Cinematography Crafting Perfect YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-balance-of-serene-visuals-for-2024/"><u>The Balance of Serene Visuals for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-cursor-problems-on-windows-11-solutions-inside/"><u>Troubleshooting the Invisible Mouse Cursor Problems on Windows 11 – Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Tips: Resolving HP Laptop Webcam Issues on Windows 10</u></a></li>
 </ul></div>
 

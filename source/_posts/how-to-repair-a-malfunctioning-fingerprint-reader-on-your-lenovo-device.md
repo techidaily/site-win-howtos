@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Fingerprint Reader on Your Lenovo Device
-date: 2024-10-17T19:07:14.976Z
-updated: 2024-10-21T20:25:10.848Z
+date: 2024-10-26T16:00:40.692Z
+updated: 2024-10-27T18:06:47.155Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 4. **[Re-enroll your fingerprints](#F4)**
 5. **[Restore system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the fingerprint scanner
 
  Before addressing the fingerprint reader not working problem, you might want to check the fingerprint scanner for possible hardware issues.
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 2. **Check if there’re any scratches on the sensor.** If it’s been badly scratched, then send it to a trustworthy computer repair shop or the computer vendor for repair. If the sensor is in good condition but the fingerprint reader doesn’t work, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your fingerprint reader driver
 
@@ -92,25 +78,33 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/addorremoveprograms.jpg)
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
-4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
 5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
@@ -120,6 +114,13 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Re-enroll your fingerprints
 
 1. On your keyboard, press**the Windows logo key** and type**sign-in** , then click on**Sign-in options** .  
@@ -127,13 +128,6 @@ Here’s how:
 2. Scroll down to**Windows Hello** , and click**Set up** under the**Fingerprint** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5039662fee.jpg)
 3. Follow the on-screen instructions to set up the fingerprint login.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Don’t forget to test if the fingerprint reader works normally this time.
 
@@ -145,10 +139,10 @@ Here’s how:
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
@@ -170,6 +164,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 Check your computer to see if the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files. To **run the SFC scan** :
@@ -178,18 +179,18 @@ Check your computer to see if the issue is fixed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -220,17 +221,20 @@ Check your computer to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-myvidhub-testing-a-quest-for-more-features/"><u>[New] 2024 Approved MyVidHub Testing A Quest for More Features?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-crafting-captivating-online-titles-simplified/"><u>[New] Crafting Captivating Online Titles Simplified</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-pc-cam-solutions-10-picks-on-windows-10/"><u>[New] In 2024, Essential PC Cam Solutions - 10 Picks on Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-top-methods-for-remotely-podcasting-success/"><u>[Updated] In 2024, The Top Methods for Remotely Podcasting Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/cut-to-impress-top-tier-online-photo-editing-skills/"><u>Cut to Impress Top-Tier Online Photo Editing Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-geforce-experience-launch-failures-step-by-step-resolution-tips/"><u>Dealing with GeForce Experience Launch Failures: Step-by-Step Resolution Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enlarge-rdr2-games-pagefile-a-quick-solution-for-out-of-memory-alerts/"><u>Enlarge RDR2 Game's Pagefile: A Quick Solution for 'Out of Memory' Alerts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-win-shift-and-s-button-problems-a-step-by-step-fix-for-windows-1110-users/"><u>Resolving Win, Shift, and S Button Problems: A Step-by-Step Fix for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-the-challenge-of-unreachable-steam-game-libraries/"><u>Solution Found: Overcoming the Challenge of Unreachable Steam Game Libraries</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-to-state-of-the-art-3d-illumination-in-game-rooms/"><u>Upgrade to State-of-the-Art 3D Illumination in Game Rooms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/63207672-new-in-2024-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[New] In 2024, Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-conversion-wizardry-from-youtube-to-igtv/"><u>[New] Video Conversion Wizardry From Youtube to IGTV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-tackle-the-windows-11-update-error-0xc190n0028-a-users-manual/"><u>Effective Solutions to Tackle the Windows 11 Update Error 0XC190n0028: A User's Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhance-experience-using-your-logitech-webcam-properly/"><u>Enhance Experience Using Your Logitech Webcam Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-keyboard-responsiveness-on-your-windows-11-pc-a-comprehensive-guide-to-solving-latency-problems/"><u>Enhancing Keyboard Responsiveness on Your Windows 11 PC - A Comprehensive Guide to Solving Latency Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-fix-windows-11-update-failure-error-code-0xc1e90208/"><u>How to Successfully Fix Windows 11 Update Failure (Error Code: 0XC1e90208)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-1011s-update-error-decode-and-fix-error-0x802errordescription-solutionkeyword/"><u>How to Successfully Repair Windows 10/11'S Update Error: Decode and Fix Error 0X802([error_description]) [Solution_keyword]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-top-5-facebook-videos-that-hook-us-all/"><u>In 2024, Top 5 Facebook Videos That Hook Us All</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-spanish-accents-techniques-for-precision-pronunciation/"><u>Mastering Spanish Accents: Techniques for Precision Pronunciation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-effective-solutions-for-when-your-wifi-stops-working/"><u>Quick and Effective Solutions for When Your WiFi Stops Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-correct-a-non-working-lenovo-biometric-device-fast/"><u>Step-by-Step: Correct a Non-Working Lenovo Biometric Device Fast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-gaming-world-upgrade-to-a-superior-experience-with-asus-970-pro-gpu/"><u>Transform Your Gaming World: Upgrade to a Superior Experience with ASUS 970 Pro GPU</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windowsmacos-execute-and-enjoy-srt-files/"><u>Windows/macOS Execute and Enjoy SRT Files</u></a></li>
 </ul></div>
 

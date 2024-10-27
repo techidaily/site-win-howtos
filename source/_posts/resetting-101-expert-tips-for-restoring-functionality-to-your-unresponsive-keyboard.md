@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2024-10-19T17:52:26.686Z
-updated: 2024-10-21T19:07:17.846Z
+date: 2024-10-24T18:13:55.515Z
+updated: 2024-10-27T16:04:05.759Z
 tags:
   - win11
   - win10
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 ---
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -81,34 +81,28 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -128,6 +122,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -142,13 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -166,16 +166,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -211,20 +211,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-time-cameo-evaluation/"><u>[New] 2024 Approved Quick-Time Cameo Evaluation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-9-live-game-streaming-platform-you-should-know/"><u>[New] In 2024, Top 9 Live Game Streaming Platform You Should Know</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-directing-traffic-from-tiktok-to-twitter/"><u>[Updated] Directing Traffic From TikTok to Twitter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-professional-macbook-webcam-capture-techniques-guide/"><u>[Updated] In 2024, Professional MacBook Webcam Capture Techniques Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customer-care-at-movavi-help-desk-seamless-tech-support/"><u>Customer Care at Movavi Help Desk - Seamless Tech Support</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-reducing-msmpengineexes-extreme-memory-consumption-in-windows-10/"><u>Effective Solutions for Reducing MsMpEngine.exe's Extreme Memory Consumption in Windows 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-at-an-unbeatable-price-just-for-students-and-teachers-for-2024/"><u>Final Cut Pro at an Unbeatable Price Just for Students & Teachers for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X5 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-errors-dvd-plays-smoothly-again-on-windows/"><u>Overcoming Compatibility Errors: DVD Plays Smoothly Again on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-mac-computer-mouse-connectivity-and-functionality/"><u>Resolving Issues with Mac Computer Mouse Connectivity and Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-missing-openal32dll-file-not-found-issue-on-your-computer/"><u>Resolving the 'Missing openal32.dll' File Not Found Issue on Your Computer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-science-behind-optimal-instagram-timings-for-2024/"><u>The Science Behind Optimal Instagram Timings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unable-to-install-new-features-in-windows-10-1607-common-problems-and-solutions/"><u>Unable to Install New Features in Windows 10 1607 - Common Problems and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-and-resolving-random-computers-restarts-and-shutdowns/"><u>Unraveling and Resolving Random Computers Restarts & Shutdowns</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bite-sized-tips-for-aspiring-video-editors/"><u>[New] 2024 Approved Bite-Sized Tips for Aspiring Video Editors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-quintessential-writes-for-diverse-cinematic-fields/"><u>[Updated] 2024 Approved Quintessential Writes for Diverse Cinematic Fields</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-animators-artistry-archives-for-2024/"><u>[Updated] Animator's Artistry Archives for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerated-approaches-to-transferring-iphone-files-to-computer/"><u>2024 Approved Accelerated Approaches to Transferring iPhone Files to Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>2024 Approved Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tips-and-tricks-for-plugging-in-the-ultimate-diy-electric-vehicle-charger-setup/"><u>Complete Tips and Tricks for Plugging In: The Ultimate DIY Electric Vehicle Charger Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-the-irqlnotlessorequal-fault-error-code-0xc00000005-in-microsoft-operating-systems/"><u>Comprehensive Fixes for the 'IRQL_NOT_LESS_OR_EQUAL' Fault (Error Code 0XC0지0000005) in Microsoft Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-taskbar-visibility-issue-solutions-inside/"><u>How to Fix Windows 10 Taskbar Visibility Issue - Solutions Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-resolve-the-wpcapdll-file-not-found-problem-on-your-computer/"><u>How To Quickly Resolve The 'WPCapDLL File Not Found' Problem On Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-reports-no-installed-speakers-or-headphones/"><u>How to Restore Audio Functionality When Windows Reports No Installed Speakers or Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-hurdles-a-fix-for-broken-right-click-buttons/"><u>Overcoming Windows 10 Hurdles: A Fix for Broken Right-Click Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-non-responsive-keyboard-functionality-restored/"><u>Resolved Issue: Non-Responsive Keyboard Functionality Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-error-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the Mystery of Error 0xC0000098 in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-digital-renaissance-embracing-the-metamate-spirit-at-facebook/"><u>The Digital Renaissance: Embracing the Metamate Spirit at Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-your-non-responsive-bluetooth-mouse-on-windows/"><u>Troubleshooting Guide: How to Repair Your Non-Responsive Bluetooth Mouse on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-correcting-the-rpc-service-failure-on-windows-computers/"><u>Troubleshooting Tips for Correcting the RPC Service Failure on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206096917-troubleshooting-tips-resolving-a-warframe-update-failure-fix-your-game/"><u>Troubleshooting Tips: Resolving a 'Warframe Update Failure' - Fix Your Game!</u></a></li>
 </ul></div>
 

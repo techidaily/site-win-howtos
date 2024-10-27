@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How To Restore Brightness Settings in Windows 11"
-date: 2024-10-17T20:04:54.135Z
-updated: 2024-10-21T19:51:10.417Z
+date: 2024-10-20T18:03:23.357Z
+updated: 2024-10-27T18:13:45.067Z
 tags:
   - win11
   - win10
@@ -39,18 +39,18 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Unmake recent changes
 
  If your touchpad cursor disappears all of a sudden, you’ll first need to recall if any recent changes to your computer caused the problem. For instance, recent Windows updates, touchpad-related driver updates, new software programs added, new hardware devices added, etc.
 
  If you don’t recall any recent changes made to your computer, the latest Windows update(s) and touchpad-related driver are always the first places you should be looking at. Here is how you can unmake the changes to see if it helps to bring back your touchpad cursor:
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.1 Uninstall Windows Update(s)
 
@@ -61,33 +61,26 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 3. Click **View installed updates** on the right pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the **Uninstall**  button to remove the latest Windows update patch before the touchpad cursor disappears.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
 
- See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
 
 ### 1.2 Uninstall touchpad-related driver
 
@@ -97,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-77.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the older touchpad driver to be installed by Microsoft automatically.
 
@@ -121,21 +107,35 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-79.png)
 
  When the touchpad feature is turned off or on by the function key(s), there’s usually a notification that tells you such on your screen, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-81.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see such a message on your computer, and your touchpad cursor remains missing, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall conflicting software
@@ -147,13 +147,6 @@ To do so:
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click your remote control or screen recording software, then **Uninstall** .  
@@ -179,6 +172,13 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -199,18 +199,18 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 2. Select**Bluetooth & devices** , and see if you can find a**Touchpad** card on the right side pane:  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-82.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see a Touchpad tab here, it’s possible that your touchpad hardware is currently not recognized by your computer, which is also why none of the above troubleshooting helps to bring its cursor back.
 
  In that case, you’ll have to consider resetting or reinstalling your computer for the touchpad cursor disappearing problem to be fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset your computer
 
@@ -242,17 +242,18 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-leveraging-windows-media-player-your-cd-conversion-companion/"><u>[New] In 2024, Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-software-choices-for-tweeting-vids/"><u>[New] Pinnacle Software Choices for Tweeting Vids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-streams-from-obs-to-fb-directly-for-2024/"><u>[Updated] Elevate Your Streams From OBS to FB Directly for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lightning-fast-retrieval-of-vanished-reddit-discussions/"><u>[Updated] Lightning-Fast Retrieval of Vanished Reddit Discussions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-recovering-access-on-your-locked-ipad/"><u>A Step-by-Step Guide to Recovering Access on Your Locked iPad</u></a></li>
-<li><a href="https://fox-access.techidaily.com/from-srt-to-subc-efficient-conversion-tactics/"><u>From SRT to SUBC Efficient Conversion Tactics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-tackle-and-solve-svchostexe-causing-high-cpu-use-on-your-windows/"><u>How to Tackle and Solve svchost.exe Causing High CPU Use on Your Windows #</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-windows-11-update-issue-error-code-0x8020390541/"><u>Resolved: Fixing the Windows 11 Update Issue - Error Code 0X80^20390541</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solution-resolving-steams-disk-write-failed-issue-without-a-hitch/"><u>Simple Solution: Resolving Steam's 'Disk Write Failed' Issue Without a Hitch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-applications-on-your-windows-10-pc/"><u>Step-by-Step Guide: Removing Applications on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-failures-fixing-error-0x80072f8f-on-win10win11/"><u>Troubleshooting Windows Update Failures - Fixing Error 0X80072F8F on Win10/Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone X Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-demystifying-the-instagram-selfie-process/"><u>[New] 2024 Approved Demystifying the Instagram Selfie Process</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>[New] Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-carbon-footprint-reduction-in-the-cityscape-revolution-for-2024/"><u>[Updated] Carbon Footprint Reduction in the Cityscape Revolution for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comprehensive-list-of-zoom-transcription-software-freepaid/"><u>[Updated] In 2024, Comprehensive List of Zoom Transcription Software (Free/Paid)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-cut-technique-making-your-vlog-more-engaging/"><u>[Updated] Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience/"><u>2024 Approved Navigating Technical Hurdles for a Smooth Live Broadcast Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-commonplace-channel-titles-finding-uniqueness-with-filmora-for-2024/"><u>Avoid Commonplace Channel Titles Finding Uniqueness with Filmora for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-compelling-video-content-using-windows-photos-and-story-remix-for-2024/"><u>Craft Compelling Video Content Using Windows Photos & Story Remix for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-steelseries-arctis-5-headset-microphone-expert-advice/"><u>Diagnosing and Repairing Your SteelSeries Arctis 5 Headset Microphone: Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-copy-paste-functionality-isnt-working-on-windows-11/"><u>Fixing the Issue: Why Copy-Paste Functionality Isn't Working on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/method-for-connecting-wireless-earbuds-like-airpods-to-a-nintendo-switch-gaming-system/"><u>Method for Connecting Wireless Earbuds Like AirPods to a Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/touch-deficit-on-hid-certified-device-rectified/"><u>Touch Deficit on HID-Certified Device Rectified</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-printscreen-key-fails-on-win10win11-systems/"><u>Troubleshooting Tips for When Your PrintScreen Key Fails on Win10/Win11 Systems</u></a></li>
 </ul></div>
 

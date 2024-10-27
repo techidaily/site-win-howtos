@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2024-10-19T17:23:54.850Z
-updated: 2024-10-21T19:56:11.010Z
+date: 2024-10-22T16:59:06.009Z
+updated: 2024-10-27T16:18:36.698Z
 tags:
   - win11
   - win10
@@ -43,18 +43,18 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 2: Disconnect the power cable for a while**
 
  First, shut down your computer. Then disconnect the power cable (If you are using a laptop computer, you can also remove the battery.). Then hold the power button down for about 10 seconds. After that, restart your computer and see if the issue resolves. This method has worked for other users who run into this problem like you.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3: Disable driver signature enforcement**
 
@@ -84,6 +84,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
@@ -93,13 +100,6 @@ Follow the steps below:
  5) Check the box next to**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click the **OK** button to confirm the uninstall.
 
@@ -117,6 +117,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -124,20 +131,13 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -151,13 +151,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
@@ -167,13 +160,6 @@ Follow the steps below:
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
@@ -189,9 +175,23 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -214,19 +214,21 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>[New] In 2024, Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-itel-a05s-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Itel A05s to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/compatible-cameras-list-for-windows-hello/"><u>Compatible Cameras List for Windows Hello</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-items-in-your-nintendo-switch-box-a-complete-guide/"><u>Essential Items in Your Nintendo Switch Box - A Complete Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-the-ultimate-guide/"><u>Exploring Hardware with Tom: The Ultimate Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-print-to-pdf-not-working-in-windows-11/"><u>How To Resolve 'Print to PDF Not Working' In Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-a-fatal-exception-handler-error-on-windows/"><u>How to Troubleshoot and Fix a Fatal Exception Handler Error on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-note-30-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Note 30 5G FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-optimal-webcam-use-and-recording-techniques-for-macbook/"><u>In 2024, Optimal Webcam Use and Recording Techniques for MacBook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-resource-allocation-in-complex-system-environments/"><u>Optimizing Resource Allocation in Complex System Environments</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids/"><u>Pajama Plots Performed A Critical Study of Bedtime Storytelling Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-audio-on-steam-effective-and-swift-methods-for-gamers/"><u>Revive Audio on Steam: Effective & Swift Methods for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-side-by-side-assembly-errors-in-windows-10-systems-diy/"><u>Troubleshooting & Resolving Side-by-Side Assembly Errors in Windows 10 Systems [DIY]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>[Updated] From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-bending-reality-a-short-history-of-virtual-space/"><u>[Updated] In 2024, Bending Reality A Short History of Virtual Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-to-enhancing-colors-in-photoshop/"><u>[Updated] Quick Guide to Enhancing Colors in Photoshop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instantaneous-identification-in-the-social-media-jungle/"><u>2024 Approved Instantaneous Identification in the Social Media Jungle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-and-selfies-unite-our-top-8-gear-guide/"><u>2024 Approved Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-diagnose-and-cure-your-pcs-persistent-black-screen-on-windows-11/"><u>Guide to Diagnose & Cure Your PC's Persistent Black Screen on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-incompatibility-challenges-in-ftdi-systems-for-enhanced-memory-reliability/"><u>Overcoming Incompatibility Challenges in FTDI Systems for Enhanced Memory Reliability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-challenges-fixing-a-malfunctioning-keyboard-before-logging-in/"><u>Overcoming Startup Challenges: Fixing a Malfunctioning Keyboard Before Logging In</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-n55-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo N55 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-windows-10-screens-touch-sensitivity-with-these-5-proven-strategies/"><u>Revive Your Windows 10 Screen's Touch Sensitivity with These 5 Proven Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210242492-stop-the-interruptions-solve-your-pcs-unintended-sleep-problems-now/"><u>Stop the Interruptions: Solve Your PC's Unintended Sleep Problems Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-turmoil-unstable-computer-games-on-windows/"><u>Tech Turmoil: Unstable Computer Games on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unifying-lenovo-with-windows-10-bt-driver/"><u>Unifying Lenovo with Windows 10 BT Driver</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-everything-about-final-cut-pro-90-days-free-trial-here/"><u>Updated In 2024, Everything About Final Cut Pro 90 Days FREE Trial Here</u></a></li>
 </ul></div>
 

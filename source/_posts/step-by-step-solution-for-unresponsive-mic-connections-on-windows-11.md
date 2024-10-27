@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-10-20T22:20:56.840Z
-updated: 2024-10-21T16:06:17.407Z
+date: 2024-10-20T16:02:15.573Z
+updated: 2024-10-27T17:51:06.779Z
 tags:
   - win11
   - win10
@@ -43,29 +43,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -85,18 +78,24 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -132,10 +131,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -143,10 +142,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -156,6 +155,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,24 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-club-anthems-expertly-curated-dj-vids-downloads-for-2024/"><u>[Updated] Club Anthems Expertly Curated DJ Vids Downloads for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-funny-images-on-giphy/"><u>[Updated] Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerate-your-websites-videos-top-tips-for-quick-and-efficient-compression-strategies/"><u>Accelerate Your Website's Videos: Top Tips for Quick and Efficient Compression Strategies</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dive-into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-airdrop-issues-instantly-simple-steps-to-restore-functionality/"><u>Fix AirDrop Issues Instantly: Simple Steps to Restore Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210610262-fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-cinematic-creating-charismatic-clips-with-wmm/"><u>In 2024, From Concept to Cinematic Creating Charismatic Clips with WMM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leading-tools-top-6-fb-lite-video-extractors-for-2024/"><u>Leading Tools TOP 6 FB Lite Video Extractors for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-connectivity-expert-advice-to-resolve-bluetooth-not-pairing-in-windows-11-latest-strategies/"><u>Master the Art of Connectivity: Expert Advice to Resolve Bluetooth Not Pairing in Windows 11 (Latest Strategies)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-airpod-connectivity-easy-steps-to-sync-with-windows-11-in-the-new-year/"><u>Mastering AirPod Connectivity: Easy Steps to Sync with Windows 11 in the New Year!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools-for-2024/"><u>Maximizing iPhone Video Clarity Top 4 Fixes Using Premiere Pro's HDR Tools for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-6-best-free-online-imovie-alternatives/"><u>New 2024 Approved 6 Best Free Online iMovie Alternatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205500214-razer-keyboard-issues-why-isnt-it-lights-up-solutions-inside/"><u>Razer Keyboard Issues - Why Isn't It Lights Up? Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-correctly-address-the-problem-encountered-while-resetting-message-in-windows-11/"><u>Solved! How to Correctly Address the 'Problem Encountered While Resetting' Message in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/taskbar-missing-4-tips-for-icons-missing-from-taskbar-on-windows-11/"><u>Taskbar Missing? 4 Tips for Icons Missing From Taskbar on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-microphone-on-your-laptop-solved/"><u>Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-addressing-driver-power-issues-in-windows-systems/"><u>Troubleshooting Made Simple: Addressing Driver Power Issues in Windows Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-secrets-of-content-creators-finding-free-music/"><u>[New] 2024 Approved Secrets of Content Creators Finding Free Music</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-comparing-instagrams-latest-features-reels-vs-stories/"><u>[Updated] In 2024, Comparing Instagram's Latest Features Reels Vs Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] In 2024, Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-internet-radio-streaming-made-easy-your-recording-guidebook/"><u>[Updated] Internet Radio Streaming Made Easy Your Recording Guidebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-in-depth-analysis-cutzone-pro-review-unveiled/"><u>2024 Approved In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-wacom-device-malfunctions-and-how-to-resolve-them-quickly/"><u>Common Wacom Device Malfunctions and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-11x-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11X 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10-not-booting-due-to-recent-updates/"><u>How to Overcome Windows 10 Not Booting Due to Recent Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-elevated-permission-error-in-windows-11-10-and-7/"><u>How to Resolve the 'Elevated Permission' Error in Windows 11, 10 and 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-problem-setting-up-a-virtual-router-on-windows-11-guide/"><u>Resolved Problem: Setting Up a Virtual Router on Windows 11 (Guide)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shadowy-sheen-visual-puzzle/"><u>Shadowy Sheen: Visual Puzzle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-auto-boot-puzzle-for-windows-10-systems/"><u>Solving the Auto-Boot Puzzle for Windows 10 Systems</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-the-key-fails-to-respond/"><u>Troubleshooting Tips: When the '@' Key Fails to Respond</u></a></li>
 </ul></div>
 

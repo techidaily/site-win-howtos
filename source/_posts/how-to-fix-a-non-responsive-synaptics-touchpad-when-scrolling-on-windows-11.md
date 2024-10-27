@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2024-10-17T16:48:58.850Z
-updated: 2024-10-21T17:11:25.560Z
+date: 2024-10-26T16:21:05.175Z
+updated: 2024-10-27T17:50:43.918Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -52,19 +45,32 @@ Both fixes below work in Windows 10, 8 and 7.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
@@ -94,10 +100,10 @@ Both fixes below work in Windows 10, 8 and 7.
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -125,24 +131,17 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>[New] 2024 Approved Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-speedy-windowed-image-viewer/"><u>[New] In 2024, Speedy Windowed Image Viewer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-terraria-modifications-guide/"><u>[Updated] In 2024, Advanced Terraria Modifications Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-co-singers-capturing-hearts-online/"><u>[Updated] In 2024, Co-Singers Capturing Hearts Online</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-invalid-directory-names-effective-troubleshooting-strategies/"><u>Bypassing Invalid Directory Names: Effective Troubleshooting Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-windows-camera-issue-error-0xa00f4292-explained/"><u>Comprehensive Solution for Windows Camera Issue - Error 0xA00F4292 Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-new-worlds-startup-challenge-solutions-to-bypass-easy-anti-cheat-troubles/"><u>Defeating New World's Startup Challenge: Solutions to Bypass Easy Anti-Cheat Troubles</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202518646-effortless-file-management-with-stellars-mac-erase-toolkit-standard-plan-included/"><u>Effortless File Management with Stellar's Mac Erase Toolkit: Standard Plan Included!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g13-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G13 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-disabled-local-authentication-layers-securely/"><u>How To Reactivate Disabled Local Authentication Layers Securely</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-installation-errors-with-windows-1ns-version-1607-upgrade/"><u>How to Resolve Installation Errors with Windows 1N's Version 1607 Upgrade</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ideal-video-editor-unleashed-for-vimeo-videos-for-2024/"><u>Ideal Video Editor Unleashed for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-windows-update-halted-at-zero-percent-dilemma/"><u>Quick Fixes: Resolving the Windows Update Halted at Zero Percent Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-missing-d3dcompiler43dll-file-error-on-your-pc/"><u>Resolve 'Missing' D3DCompiler_43.dll File Error on Your PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scrutinizing-high-quality-brightness-in-hd-imaging-for-2024/"><u>Scrutinizing High-Quality Brightness in HD Imaging for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-cache-miss-errors-errcachemiss-in-your-chrome-browser/"><u>Troubleshooting Cache Miss Errors (ERR_CACHE_MISS) in Your Chrome Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-secrets-eradicating-ue4s-deadly-grips-from-your-halo-4-experience/"><u>Unlock the Secrets: Eradicating UE4's Deadly Grips From Your Halo 4 Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[Updated] 2024 Approved Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-current-drone-applications-vs-future-technological-paradigm-for-2024/"><u>[Updated] Current Drone Applications vs Future Technological Paradigm for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-splitting-vision-assessing-splitcams-camera-excellence/"><u>[Updated] In 2024, Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-20-non-copyrighted-pubg-image-sequences/"><u>[Updated] Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[Updated] The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-free-online-screen-recorders-for-2024/"><u>[Updated] Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-mastery-in-video-production-via-videoleap/"><u>2024 Approved Close-Up Mastery in Video Production via Videoleap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-windows-11s-0x8072efd-issue/"><u>Effective Solutions for Resolving Windows 11'S 0X80#72EFD Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-wired-internet-issues-on-your-pc-running-windows-11-or-7/"><u>Expert Tips for Fixing Wired Internet Issues on Your PC Running Windows 11 or 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-file-by-stellar-guide/"><u>Get Rid of corrupt Excel File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-account-woes-fix-user-profile-service-hiccups-in-windows-11/"><u>Mastering Microsoft Account Woes: Fix User Profile Service Hiccups in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-policy-service-failure-and-restart-guide/"><u>Resolving the Issue: Policy Service Failure and Restart Guide</u></a></li>
 </ul></div>
 

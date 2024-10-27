@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2024-10-18T20:04:04.229Z
-updated: 2024-10-21T21:40:52.878Z
+date: 2024-10-25T17:15:51.939Z
+updated: 2024-10-27T17:36:19.079Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,13 +60,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -77,19 +77,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -115,11 +102,25 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -130,22 +131,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -156,10 +151,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -169,13 +164,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -211,24 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-midnight-marauder-vs-daylight-defender-black-vs-silver-for-2024/"><u>[New] Midnight Marauder Vs Daylight Defender Black vs Silver for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-of-human-computer-conversation-systems/"><u>[New] The Future of Human-Computer Conversation Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-cutting-down-the-wait-quick-time-lapse-on-iphone/"><u>[Updated] 2024 Approved Cutting Down the Wait Quick Time-Lapse on iPhone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[Updated] In 2024, Feast of Fame Top 30 Show Titles to Sizzle Viewership</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personal-growth-reflections-for-digital-platforms/"><u>2024 Approved Personal Growth Reflections for Digital Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-sign-in-error-messages-caused-by-user-profile-service-in-windows-operating-systems/"><u>Addressing Sign-In Error Messages Caused by User Profile Service in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-failure-heres-how-to-restore-its-functionality/"><u>Corsair Keyboard Failure? Here's How to Restore Its Functionality!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-system-file-not-installed/"><u>Critical System File Not Installed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-pc-gaming-experience-solutions-to-frame-rate-decreases-in-f1-2021-racing-simulator/"><u>Enhancing PC Gaming Experience - Solutions to Frame Rate Decreases in F1 2021 Racing Simulator</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p55-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel P55 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-dysfunction-heres-how-to-restore-its-functionality/"><u>HP Laptop USB Dysfunction? Here’s How to Restore Its Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-failed-graphics-init/"><u>No More Failed Graphics Init</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208645794-overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-10s-0x80072efd-mistake-a-step-by-step-guide/"><u>Resolve Windows 10'S 0X80072EFD Mistake: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-when-windows-cant-locate-the-right-printer-driver-fixed/"><u>Solution for When Windows Can’t Locate the Right Printer Driver [FIXED]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-reality-of-now-vrs-evolution-and-challenges/"><u>The Reality of Now VR's Evolution and Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-role-of-msda80dll-in-your-system-and-its-necessity/"><u>The Role of MSDA80DLL in Your System and Its Necessity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/verbesserung-und-wiederherstellung-hochauflosender-bilder-4k/"><u>Verbesserung Und Wiederherstellung Hochauflösender Bilder (4K,</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-unwanted-keep-restarting-dilemma/"><u>Winning Against Windows 10'S Unwanted Keep Restarting Dilemma</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-picks-for-fb-film-downloads-8-edition-23/"><u>[Updated] 2024 Approved Top Picks for FB Film Downloads #8 Edition '23</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-zoom-picture-resolution-simple-upgrades-for-2024/"><u>[Updated] Enhancing Zoom Picture Resolution Simple Upgrades for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/all-you-need-to-know-about-valheim-seeds-and-the-best-valheim-seeds/"><u>All You Need to Know About Valheim Seeds & The Best Valheim Seeds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-home-efficiency-top-6-strategies-using-chatgpt/"><u>Enhancing Home Efficiency: Top 6 Strategies Using ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-icue-resolving-undetected-device-errors-easily/"><u>Fix Your ICUE: Resolving Undetected Device Errors Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-lodged-windows-keyboard-characters-effectively/"><u>How to Resolve Lodged Windows Keyboard Characters Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s17-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S17 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211612497-pdf-wont-print-discover-fast-solutions-now/"><u>PDF Won't Print? Discover Fast Solutions Now!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pioneering-video-structuring-methods-on-youtube-for-2024/"><u>Pioneering Video Structuring Methods on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tailoring-a-multi-purpose-remote-for-your-home-entertainment-system-with-simple-steps/"><u>Tailoring a Multi-Purpose Remote for Your Home Entertainment System with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-werfaultexe-error-on-your-pc-a-step-by-step-guide/"><u>Troubleshooting the werFault.exe Error on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-frame-rate-drops-and-delays-in-fallout-4-gaming/"><u>Ultimate Guide: Overcoming Frame Rate Drops and Delays in Fallout 4 Gaming</u></a></li>
 </ul></div>
 

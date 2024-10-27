@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2024-10-20T17:09:23.089Z
-updated: 2024-10-21T21:54:18.021Z
+date: 2024-10-25T17:55:41.413Z
+updated: 2024-10-27T17:12:13.128Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable your touchpad
 
  If your touchpad isn’t working at all, it may be disabled. You can connect an external mouse to your computer, and follow these steps to enable your touchpad:
@@ -52,25 +45,27 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. In the view of**Category** , click**Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -81,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
@@ -101,6 +89,14 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 2. In the**Pointers** tab, under**Scheme** , select a different pointer from the drop-down menu. You can change your mouse pointer to a solid black one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
@@ -121,10 +117,16 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
@@ -153,24 +155,21 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-champion-avc-player-for-seamless-viewing/"><u>[New] In 2024, Champion AVC Player for Seamless Viewing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-snapback-success-the-secrets-to-loops-on-instagram/"><u>[New] Snapback Success The Secrets to Loops on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-skills-editing-blurring-and-background-removal/"><u>[Updated] The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-valheims-seed-varieties/"><u>2024 Approved Unlocking the Potential of Valheim's Seed Varieties</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cant-locate-your-sd-card-here-to-guide-you/"><u>Can't Locate Your SD Card? Here to Guide You!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/chkdsk/"><u>CHKDSK後のファイル損失に対して、どう処理するべきか？</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-and-tricks-for-resolving-windows-10-taskbar-freeze-issues/"><u>Expert Tips and Tricks for Resolving Windows 10 Taskbar Freeze Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-unresponsive-function-keys/"><u>How to Troubleshoot Unresponsive Function Keys</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavippm-to-jpeg/"><u>Movaviプロアプリを使った無料PPM to JPEGコンバーターオンラインチェンジャー</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quelling-irregular-beats-soundcard-irq-solutions/"><u>Quelling Irregular Beats: Soundcard IRQ Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208231970-resolve-error-code-8007000e-on-windows-updates-fast-and-effective-solutions/"><u>Resolve Error Code 8007000E on Windows Updates: Fast and Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-restore-flash-player-functionality-on-google-chrome/"><u>Resolved: How to Restore Flash Player Functionality on Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-prompt-fixes-for-error-1053-non-responsive-services/"><u>Resolved: Prompt Fixes for 'Error 1053' - Non-Responsive Services</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-itel-a60s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Itel A60s with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-ps4-microphone-problems-top-fixes-for-optimal-audio-performance/"><u>Solving PS4 Microphone Problems: Top Fixes for Optimal Audio Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-microsoft-wi-fi-display-adapter-on-windows-11/"><u>Troubleshooting Guide: Fixing Connection Issues with Microsoft Wi-Fi Display Adapter on Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeos-lifesaver-for-free-video-editors/"><u>Vimeo's Lifesaver for Free Video Editors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/webm-tv/"><u>WebM 영상을 원료 공개된 인터넷 기회를 통해 쉽게 변환: 모바일에서 TV로</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-techniques-for-funimate-video-extraction/"><u>[New] 2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revitalizing-a-frozen-obs-video-source-feed/"><u>[New] Revitalizing a Frozen OBS Video Source Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-with-audio-files-for-2024/"><u>[Updated] Harmonizing YouTube Content with Audio Files for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/03629439-2024-approved-channel-elevation-strategy-quickly-reach-your-10k-view-quota/"><u>2024 Approved Channel Elevation Strategy – Quickly Reach Your 10K View Quota!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blueprint-for-an-intriguing-videography-script/"><u>Blueprint for an Intriguing Videography Script</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enablingdisabling-the-touch-typing-feature-a-guide-for-windows-10-users/"><u>Enabling/Disabling the Touch Typing Feature: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-the-spotlight-overcoming-the-challenge-of-a-non-illuminated-razer-keyboard/"><u>In The Spotlight: Overcoming the Challenge of a Non-Illuminated Razer Keyboard</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistica-comparativa-50-palabras-inglesas-espanolas/"><u>Lingüística Comparativa: 50 Palabras Inglesas-Españolas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimize-capture-smooth-screenshots-with-dell-models-for-2024/"><u>Optimize Capture Smooth Screenshots with Dell Models for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-devices-critical-failure-the-red-screen-blueprint/"><u>Resolving Your Device's Critical Failure: The Red Screen Blueprint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-broken-huion-pen-top-5-quick-fixes-for-immediate-relief/"><u>Revive Your Broken Huion Pen - Top 5 Quick Fixes for Immediate Relief</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-configuration-yet-device-remains-quiet/"><u>Successful Configuration, Yet Device Remains Quiet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-connection-effective-ways-to-resolve-internet-disconnection-errors/"><u>Troubleshoot Your Connection: Effective Ways to Resolve Internet Disconnection Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-what-to-do-when-your-dell-keyboard-stops-responding/"><u>Troubleshooting Tips: What to Do When Your Dell Keyboard Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-website-access-denied-errors-http-403/"><u>Ultimate Guide: Resolving Website Access Denied Errors (HTTP 403)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-10-20T18:31:33.878Z
-updated: 2024-10-21T19:20:19.529Z
+date: 2024-10-25T17:02:07.784Z
+updated: 2024-10-27T17:45:51.562Z
 tags:
   - win11
   - win10
@@ -43,22 +43,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -85,13 +78,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -117,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -128,6 +114,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -150,26 +143,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,21 +199,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-indulge-in-these-15-influencer-led-tiktok-recipes-that-are-a-hit-online-for-2024/"><u>[New] Indulge in These 15 Influencer-Led TikTok Recipes That Are a Hit Online for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unmissable-worlds-that-define-gaming/"><u>[Updated] 2024 Approved Unmissable Worlds That Define Gaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-how-can-you-transform-an-epub-into-a-pdf-without-costing-you-anything/"><u>1. How Can You Transform an EPUB Into a PDF Without Costing You Anything?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-language-barriers-select-top-8-free-srt-tools/"><u>2024 Approved Unlocking Language Barriers Select Top 8 Free SRT Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressed-non-functional-keys-on-the-keyboard/"><u>Addressed: Non-Functional Keys on the Keyboard</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-powered-roleplay-top-6-gpt-methods-to-elevate-your-dandd-experience/"><u>AI-Powered Roleplay: Top 6 GPT Methods to Elevate Your D&D Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-wireless-keyboards-failing-discover-quick-fixes-for-common-issues/"><u>Dell Wireless Keyboards Failing? Discover Quick Fixes for Common Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/endless-skies-of-tamriel-fixing-the-looped-load-screens-in-skyim/"><u>Endless Skies of Tamriel? Fixing the Looped Load Screens in Skyim</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/forza-horizon-znd-vocal-issues-resolved-sound-back-with-these-fixes/"><u>Forza Horizon ˈznd Vocal Issues Resolved – Sound Back with These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100i</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-sc2-device-unavailable-issue-now-fixed/"><u>Resolved: SC2 Device Unavailable Issue Now Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-fixing-bluetooth-pairing-issues-on-windows-10-for-a-seamless-experience/"><u>The Definitive Guide to Fixing Bluetooth Pairing Issues on Windows 10 for a Seamless Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-pathway-to-smoother-gameplay-maximizing-fps-to-120-on-the-playstation-5/"><u>The Pathway to Smoother Gameplay: Maximizing FPS to 120 on the PlayStation 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting Guide: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-hidden-gems-the-surprising-highlight-of-apples-latest-let-loose-event-at-just-349/"><u>Unveiling Hidden Gems: The Surprising Highlight of Apple's Latest 'Let Loose' Event at Just $349</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[New] 2024 Approved Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-recording-your-screen-and-videos-on-android/"><u>[New] Recording Your Screen & Videos on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-list-of-serene-smartphone-games/"><u>[New] The Ultimate List of Serene Smartphone Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-10-best-alternatives-to-vimeo-cameo-video-editor/"><u>[Updated] 10 Best Alternatives to Vimeo Cameo Video Editor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-seo-approaches-for-soaring-in-youtube-video-popularity/"><u>[Updated] Masterful SEO Approaches for Soaring in YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-windows-wizardry-for-swift-image-editing/"><u>2024 Approved Window's Wizardry for Swift Image Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-follow-instructions-turning-on-bluetooth-for-your-windows-7-operating-system/"><u>Easy-to-Follow Instructions: Turning On Bluetooth for Your Windows 7 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209717563-error-free-updates-ahead-conquer-windows-update-glitch-0x80070002-with-ease/"><u>Error-Free Updates Ahead! Conquer Windows Update Glitch 0X80070002 With Ease!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/increasing-iphone-phone-call-volume-effective-solutions-explored/"><u>Increasing iPhone Phone Call Volume: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-651-repairs-simple-strategies-for-a-smooth-windows-experience/"><u>Mastering Error 651 Repairs: Simple Strategies for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-black-screen-dilemma-with-your-asus-webcam-in-windows-11/"><u>Solving the Black Screen Dilemma with Your ASUS Webcam in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-problems-with-steam-store-ultimate-guide/"><u>Solving Your Problems with Steam Store: Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-disappearance-of-cursor-on-windows-10-devices/"><u>Troubleshooting: Persistent Disappearance of Cursor on Windows 10 Devices</u></a></li>
 </ul></div>
 

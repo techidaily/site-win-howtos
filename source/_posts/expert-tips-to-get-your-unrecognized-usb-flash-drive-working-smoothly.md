@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Unrecognized USB Flash Drive Working Smoothly
-date: 2024-10-23T17:25:01.807Z
-updated: 2024-10-27T16:11:20.574Z
+date: 2024-10-27T10:36:14.391Z
+updated: 2024-11-01T16:00:49.771Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
  If your keyboard has an**On/Off** switch, make sure it’s set to**On** . Try turning off your keyboard and then turning it on to see if that fixes your problem.
 
  **Make sure your Bluetooth keyboard is discoverable and in range of the PC you need to connect to.** Remove other USB devices as these might interfere with Bluetooth connections.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Check your PC
 
@@ -96,19 +103,6 @@ Here’s how it works:
 
  Try reconnecting your Bluetooth keyboard. If the issue persists, there’s another fix to try.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Remove and re-pair your Bluetooth keyboard
 
  If your Bluetooth keyboard is paired but not connected, try to remove your keyboard, then pair it again. This will create a new connection between your keyboard and computer. Here’s how to do it:
@@ -119,33 +113,33 @@ Here’s how it works:
 2. In Windows Settings, click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/settings-devices.jpg)
 3. Under**Bluetooth & other devices** , select your Bluetooth keyboard and click**Remove device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-keyboard.jpg)
-4. Click**Yes** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-keyboard.jpg)
+4. Click**Yes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-device-yes.jpg)
 5. Wait a few seconds. Then re-add your Bluetooth keyboard.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/add-bluetooth.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### in Windows 11
@@ -158,6 +152,13 @@ Here’s how it works:
 4. Click**Bluetooth** and choose your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Add-a-device-Bluetooth.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if your problem has been resolved. If not, move on to the next fix.
 
 ## Fix 5: Restart Bluetooth Support Service
@@ -168,23 +169,16 @@ Check if your problem has been resolved. If not, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-services.msc_.jpg)
 2. In Services, locate**Bluetooth Support Service** . If it isn’t running, right-click on it and select**Start** ; if the status is running, right-click the service and select**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-support-service-restart.jpg)
 3. After that, right-click the service and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-support-service-properties.jpg)
 4. In the pop-up window, change the**Startup type** to**Automatic** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-startup-automatic.jpg)
@@ -192,6 +186,13 @@ Check if your problem has been resolved. If not, move on to the next fix.
  Once done, restart your computer and try connecting your Bluetooth keyboard again.
 
 If this method doesn’t work for you, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Run the Bluetooth troubleshooter
 
@@ -203,13 +204,6 @@ If this method doesn’t work for you, continue to the next fix.
 2. In Windows Settings, click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/settings-update-security.jpg)
 3. Select**Troubleshoot** , then click**Additional troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/troubleshoot-additional-troubleshooters.jpg)
 4. Under**Find and fix other problems** , select**Bluetooth** and click**Run the troubleshooter** .  
@@ -227,16 +221,23 @@ If this method doesn’t work for you, continue to the next fix.
 4. Scroll down and click on the**Run** button next to**Bluetooth** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Run.jpg)
 5. Wait for the on-screen instructions to troubleshoot your issues.
 
  After the process is finished, try to connect your Bluetooth keyboard to your computer. If the issue remains, try the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Test your Bluetooth keyboard on another computer
 
@@ -264,18 +265,18 @@ If this method doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-video-reach-through-title-and-tag-synergy/"><u>[New] 2024 Approved Maximizing Video Reach Through Title & Tag Synergy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-audio-options-dilemma-podcasts-against-youtube/"><u>[New] Audio Options Dilemma Podcasts Against YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps/"><u>[New] Craft Your Own Cinematic Magic Making Slow Motion Video From Photo Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-becoming-an-economic-force-a-guide-to-earning-on-youtube-for-2024/"><u>[Updated] Becoming an Economic Force A Guide to Earning on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-y56-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo Y56 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-screen-failure-on-dell-laptops-a-comprehensive-walkthrough/"><u>Expert Advice: Fixing Screen Failure on Dell Laptops - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-applicationexe-error-how-to-resolve-the-program-crash/"><u>Fixing 'Application.exe' Error: How to Resolve the Program Crash</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-of-origin-not-starting-up-in-windows-11-environments/"><u>Fixing the Issue of Origin Not Starting Up in Windows 11 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-fn-keys-a-guide-for-asus-notebook-users/"><u>How to Repair Unresponsive Fn Keys: A Guide for ASUS Notebook Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-error-0x80070426-on-your-windows-11-system-efficiently/"><u>How to Resolve the 'Error 0X80070426' On Your Windows 11 System Efficiently</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/les-secrets-pour-un-souvenir-parfait-decouvrez-des-astuces-pour-filmer-un-mariage-en-succes-avec-les-meilleurs-experts-video-devenements-de-coiffure-nuptial56/"><u>Les Secrets Pour Un Souvenir Parfait : Découvrez Des Astuces Pour Filmer Un Mariage en Succès Avec Les Meilleurs Experts Vidéo D'Événements De Coiffure Nuptiale</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/miracast-and-graphics-driver-support-overcoming-the-compatibility-challenge/"><u>Miracast and Graphics Driver Support: Overcoming the Compatibility Challenge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win10-tackling-excessive-cpu-waste/"><u>Win10: Tackling Excessive CPU Waste</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[New] Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-unseen-windows-11-techniques/"><u>2024 Approved The Unseen Windows 11 Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-pcs-gameplay-top-tips-for-enhancing-gaming-on-windows-11/"><u>Boost Your PC's Gameplay: Top Tips for Enhancing Gaming on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-twitchs-code-effective-strategies-for-resolving-error-4nn/"><u>Deciphering Twitch's Code: Effective Strategies for Resolving Error 4Nn</u></a></li>
+<li><a href="https://article-posts.techidaily.com/engineering-an-emotional-movie-segment/"><u>Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-essential-media-driver-now-detected-on-your-pc/"><u>Resolved: Essential Media Driver Now Detected on Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-narzo-60-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme Narzo 60 Pro 5G FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-twitter-management-apps-essential-software-and-utilities/"><u>Top-Rated Twitter Management Apps: Essential Software & Utilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-error-code-0x80070426-in-windows-11-step-by-step-solutions/"><u>Troubleshooting Error Code 0X80070426 in Windows 11: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-output-errors-in-microsoft-windows-what-to-do-next/"><u>Troubleshooting Sound Output Errors in Microsoft Windows - What to Do Next?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-construction-lab-for-2024/"><u>Video Construction Lab for 2024</u></a></li>
 </ul></div>
 

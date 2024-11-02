@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-10-20T16:02:15.573Z
-updated: 2024-10-27T17:51:06.779Z
+date: 2024-10-28T19:46:00.718Z
+updated: 2024-11-02T07:05:42.383Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -78,6 +71,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -85,16 +85,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -115,6 +109,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -130,23 +131,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -156,20 +143,33 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,22 +205,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-secrets-of-content-creators-finding-free-music/"><u>[New] 2024 Approved Secrets of Content Creators Finding Free Music</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-comparing-instagrams-latest-features-reels-vs-stories/"><u>[Updated] In 2024, Comparing Instagram's Latest Features Reels Vs Stories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] In 2024, Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-internet-radio-streaming-made-easy-your-recording-guidebook/"><u>[Updated] Internet Radio Streaming Made Easy Your Recording Guidebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-in-depth-analysis-cutzone-pro-review-unveiled/"><u>2024 Approved In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-wacom-device-malfunctions-and-how-to-resolve-them-quickly/"><u>Common Wacom Device Malfunctions and How to Resolve Them Quickly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-11x-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11X 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10-not-booting-due-to-recent-updates/"><u>How to Overcome Windows 10 Not Booting Due to Recent Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-elevated-permission-error-in-windows-11-10-and-7/"><u>How to Resolve the 'Elevated Permission' Error in Windows 11, 10 and 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-problem-setting-up-a-virtual-router-on-windows-11-guide/"><u>Resolved Problem: Setting Up a Virtual Router on Windows 11 (Guide)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/shadowy-sheen-visual-puzzle/"><u>Shadowy Sheen: Visual Puzzle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-auto-boot-puzzle-for-windows-10-systems/"><u>Solving the Auto-Boot Puzzle for Windows 10 Systems</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-the-key-fails-to-respond/"><u>Troubleshooting Tips: When the '@' Key Fails to Respond</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extreme-sports-face-off-comparing-hero5-black-to-session/"><u>[Updated] Extreme Sports Face-Off Comparing Hero5 Black to Session</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>2024 Approved Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mkvmov/"><u>複数種フォーマットビデオ効率的な一括変換テクニック: MP4、MKV、MOVへのチェインコンバータ</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-se-2020-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone SE (2020) Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits/"><u>Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4amp3windows-11/"><u>M4AからMP3への変換:Windows 11で効率的な方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pick-the-perfect-flv-editor-discover-our-top-10-choices-for-windows-users-and-online-platforms/"><u>Pick the Perfect FLV Editor: Discover Our Top 10 Choices for Windows Users and Online Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-backdrops-for-effective-virtual-gatherings-for-2024/"><u>Prime Backdrops for Effective Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-successfully-viewing-iso-images-using-an-android-phone/"><u>Quick Guide: Successfully Viewing ISO Images Using an Android Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-sirius-satellite-radio-channel-pack-to-your-kodi-matrix/"><u>Step-by-Step Guide to Adding the Sirius Satellite Radio Channel Pack to Your Kodi Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-configuring-chains-of-darkness-for-kodi-with-matrix-support/"><u>Step-by-Step Tutorial: Configuring Chains of Darkness for Kodi with Matrix Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-hardware-selection-trustworthy-advice-from-toms-tech-hub/"><u>Ultimate Guide to Hardware Selection | Trustworthy Advice From Tom's Tech Hub</u></a></li>
 </ul></div>
 

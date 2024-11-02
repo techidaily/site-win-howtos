@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers
-date: 2024-10-26T17:05:22.343Z
-updated: 2024-10-27T16:47:00.469Z
+date: 2024-10-28T03:40:39.842Z
+updated: 2024-11-02T02:20:19.132Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ Now your print to PDF should work properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2: Enable there are no comma in the file name you enter
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-6.jpg)
@@ -88,10 +81,10 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### in Windows 11
@@ -108,20 +101,27 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Find**Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -142,19 +142,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
@@ -162,13 +149,6 @@ Now your print to PDF should work properly.
  5) Click **The printer that I want isn’t listed** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Tick on **Add a local printer or network printer with manual settings** . Then click **Next** .
 
@@ -178,16 +158,16 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Set Manufacturer **Microsoft** and Printers be **Microsoft Print to PDF** . Click **Next**  to go on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Tick on **Replace the current driver** . Then click **Next** .
 
@@ -196,6 +176,13 @@ Now your print to PDF should work properly.
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  11) You have restored the Microsoft Print to PDF. Click **Finish**  to complete the process.
  You can use it properly now.
@@ -206,26 +193,26 @@ Now your print to PDF should work properly.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and click **Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Find **Microsoft Print to PDF** and click on it.
@@ -235,6 +222,13 @@ Now your print to PDF should work properly.
  5) Click on the button**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
@@ -279,22 +273,18 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps/"><u>[Updated] In 2024, Effortless Spotify-to-YouTube Playlist Conversion 5 Must-Have Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-spotify-advertising-successfully-for-2024/"><u>[Updated] Navigating Spotify Advertising Successfully for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-enhance-visual-stories-utilizing-storyremix-in-windows-11-video-editing/"><u>2024 Approved Enhance Visual Stories Utilizing StoryRemix in Windows 11 Video Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-valorant-glitches-via-system-reboot/"><u>Addressing Valorant Glitches via System Reboot</u></a></li>
-<li><a href="https://article-posts.techidaily.com/breakthrough-ideas-to-amplify-brand-impact-on-reddit-for-2024/"><u>Breakthrough Ideas to Amplify Brand Impact on Reddit for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-sd-monitors-in-a-hdcp-required-environment/"><u>Dealing with SD Monitors in a HDCP Required Environment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-brother-mfc-l2740dw-drivers-step-by-step-for-windows-users/"><u>Download & Install Brother MFC-L2740DW Drivers: Step by Step for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effectively-reducing-svchostexes-impact-on-your-system-speed-in-windows-11/"><u>Effectively Reducing svchost.exe's Impact on Your System Speed in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microphone-issues-solutions-for-non-functional-mic-on-windows-11/"><u>Fixing Microphone Issues: Solutions for Non-Functional Mic on Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-phone-apps-to-boost-audio-speed/"><u>In 2024, Essential Phone Apps to Boost Audio Speed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>In 2024, Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-evaluating-the-cable-modem-capabilities-of-netgears-c3700-router-model/"><u>In-Depth Analysis: Evaluating the Cable Modem Capabilities of Netgear's C3700 Router Model</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202771406-pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-2024-release-complete-troubleshooting-steps-for-launch-issues/"><u>PUBG 2024 Release: Complete Troubleshooting Steps for Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-unstucking-your-lenovos-fn-keys-in-no-time/"><u>Solving the Problem: Unstucking Your Lenovo's FN Keys in No Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-miracast-streaming-solved-graphics-driver-incompatibility-problems/"><u>Unlock Miracast Streaming - Solved Graphics Driver Incompatibility Problems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/video-color-correction-for-youtube-beauty/"><u>Video Color Correction for YouTube Beauty</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigating-through-an-absent-obs-camera-input/"><u>[New] 2024 Approved Navigating Through an Absent OBS Camera Input</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today/"><u>[Updated] Facebook's Unique Media The Top iOS Downloader Tools Revealed Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-leading-6-platforms-for-profitable-businesses-online/"><u>[Updated] Leading 6 Platforms for Profitable Businesses Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/check-for-software-conflicts/"><u>Check for Software Conflicts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-conversion-techniques-for-changing-mts-videos-to-mp4-using-windows-or-macos-devices/"><u>Easy Conversion Techniques for Changing .mts Videos to .mp4 Using Windows or macOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-flipping-videos-like-pros-on-tiktok/"><u>Easy Guide to Flipping Videos Like Pros on TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-convert-wmv-files-to-mp3-without-spending-a-penny/"><u>Effortless Guide: Convert WMV Files to MP3 Without Spending a Penny</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/extending-your-video-length-on-instagram-tips-from-16-secs-up-to-2-hrs/"><u>Extending Your Video Length on Instagram: Tips From 16 Secs. Up to 2 Hrs.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-losmovies-video-grabber-download-content-from-losmovies-without-hesitation/"><u>Free LosMovies Video Grabber: Download Content From LosMovies Without Hesitation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/freshly-ground-black-pepper-to-taste/"><u>Freshly Ground Black Pepper, to Taste</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>In 2024, Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/multi-format-ebook-converter-seamless-transformation-from-kfx-to-epub-mobi-and-more/"><u>Multi-Format eBook Converter - Seamless Transformation From KFX to EPUB, MOBI & More!</u></a></li>
 </ul></div>
 

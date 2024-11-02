@@ -1,7 +1,7 @@
 ---
 title: Solution for 'Not Plugged In' Error on AMD HD Audio Devices
-date: 2024-10-23T16:39:22.990Z
-updated: 2024-10-27T17:43:52.403Z
+date: 2024-10-29T20:17:27.511Z
+updated: 2024-11-02T12:57:08.700Z
 tags:
   - win11
   - win10
@@ -81,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -112,24 +112,31 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -156,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -166,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -182,10 +189,10 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -197,13 +204,6 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -232,22 +232,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-itop-insider-review-top-notch-screencast-software-compared/"><u>[New] In 2024, ITop Insider Review Top-Notch Screencast Software Compared</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-nostalgic-gaming-empathetic-3ds-on-android-devices/"><u>[New] Nostalgic Gaming Empathetic 3DS on Android Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-success-with-instagrams-business-platform/"><u>[Updated] In 2024, Unlocking Success with Instagram's Business Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-cash-cascade-the-monetary-movements-of-a-meme-star/"><u>2024 Approved Cash Cascade The Monetary Movements of a Meme Star</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/como-incorporar-libdvdcss-al-software-handbrake-en-macwindows-11-procedimiento-detallado-para-copiar-dvd/"><u>Cómo Incorporar Libdvdcss Al Software HandBrake en Mac/Windows 11 - Procedimiento Detallado Para Copiar DVD</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-geforce-experience-fails-to-load-settings-correctly/"><u>Effective Solutions for When GeForce Experience Fails to Load Settings Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-persistent-144-livekernelevent-glitch/"><u>Expert Tips for Correcting the Persistent 144 LiveKernelEvent Glitch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-scoop-deciphering-the-google-podcast-app/"><u>Full Scoop Deciphering the Google Podcast App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/handling-temporary-failures-in-reaching-windows-smartscreen-for-safety-checks/"><u>Handling Temporary Failures in Reaching Windows SmartScreen for Safety Checks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-unspecified-error-error-code-0x80004005-expert-solutions-revealed/"><u>Overcoming 'Unspecified Error' (Error Code 0X80004005): Expert Solutions Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/recapture-image-purity-with-these-premium-photo-editors-online/"><u>Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/remedy-for-erroneous-character-input-on-keyboards/"><u>Remedy for Erroneous Character Input on Keyboards</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/spin-the-web-advanced-tips-for-video-orientation-in-youtube-for-2024/"><u>Spin the Web Advanced Tips for Video Orientation in YouTube for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-windows-11-update-installation-hurdles-a-comprehensive-guide/"><u>Successfully Overcoming Windows 11 Update Installation Hurdles – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-steam-server-not-reachable-issue/"><u>Troubleshooting Guide: How To Fix 'Steam Server Not Reachable' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-uac-requirements-handling-elevated-permissions-on-windows-versions/"><u>Understanding UAC Requirements: Handling Elevated Permissions on Windows Versions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[New] 2024 Approved Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-address-webview-compatibility-for-fb-streaming/"><u>[Updated] In 2024, Address WebView Compatibility for FB Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-pc-sound-experience-on-windows-issues-addressed-and-solved/"><u>Enhancing PC Sound Experience on Windows: Issues Addressed & Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-repair-your-lenovo-keyboard-when-it-stops-responding/"><u>Fixes & Solutions: How to Repair Your Lenovo Keyboard When It Stops Responding</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-instantly-no-hassle/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly - No Hassle!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-print-screen-feature-back-on-your-pc-tips-for-windows-11-and-10-users/"><u>Getting the Print Screen Feature Back on Your PC - Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-video-recorders-head-on-screen-viewing/"><u>In 2024, Prime Video Recorders Head-On Screen Viewing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-fixing-svchostexe-high-cpu-drain-issue/"><u>Optimizing Windows 11 Performance: Fixing svchost.exe High CPU Drain Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-failed-hosted-network-setup-on-windows-11/"><u>Resolved: Troubleshooting Failed Hosted Network Setup on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-microsoft-error-0x800f0831-with-windows-patches/"><u>Step-by-Step Solution for Microsoft Error 0X800F0831 with Windows Patches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dell-camera-issues-in-windows-a-comprehensive-solution/"><u>Troubleshooting Dell Camera Issues in Windows - A Comprehensive Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-success-how-to-resolve-twitch-error-code-4000/"><u>Troubleshooting Success: How to Resolve Twitch Error Code 4000</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-icomclass-unveiling-the-secrets-of-application-identifiers/"><u>Understanding IComClass: Unveiling the Secrets of Application Identifiers</u></a></li>
+<li><a href="https://techidaily.com/will-edge-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Edge 2023 play AVCHD mts files?</u></a></li>
 </ul></div>
 

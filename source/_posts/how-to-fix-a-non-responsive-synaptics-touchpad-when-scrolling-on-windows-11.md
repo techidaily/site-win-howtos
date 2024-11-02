@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2024-10-26T16:21:05.175Z
-updated: 2024-10-27T17:50:43.918Z
+date: 2024-10-26T18:43:16.842Z
+updated: 2024-11-01T18:41:04.371Z
 tags:
   - win11
   - win10
@@ -45,32 +45,19 @@ Both fixes below work in Windows 10, 8 and 7.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
@@ -97,13 +84,21 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -131,17 +126,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[Updated] 2024 Approved Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-current-drone-applications-vs-future-technological-paradigm-for-2024/"><u>[Updated] Current Drone Applications vs Future Technological Paradigm for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-splitting-vision-assessing-splitcams-camera-excellence/"><u>[Updated] In 2024, Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-20-non-copyrighted-pubg-image-sequences/"><u>[Updated] Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[Updated] The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-free-online-screen-recorders-for-2024/"><u>[Updated] Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-mastery-in-video-production-via-videoleap/"><u>2024 Approved Close-Up Mastery in Video Production via Videoleap</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-windows-11s-0x8072efd-issue/"><u>Effective Solutions for Resolving Windows 11'S 0X80#72EFD Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-wired-internet-issues-on-your-pc-running-windows-11-or-7/"><u>Expert Tips for Fixing Wired Internet Issues on Your PC Running Windows 11 or 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-file-by-stellar-guide/"><u>Get Rid of corrupt Excel File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-account-woes-fix-user-profile-service-hiccups-in-windows-11/"><u>Mastering Microsoft Account Woes: Fix User Profile Service Hiccups in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-policy-service-failure-and-restart-guide/"><u>Resolving the Issue: Policy Service Failure and Restart Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-video-shape-dimensions/"><u>[New] In 2024, Facebook Video Shape Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[New] Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-ultimate-15-stop-motion-film-collection/"><u>[Updated] Unveiling the Ultimate 15 Stop-Motion Film Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iuwlleeuuplusobqplusmthewkmplusockus4juobioociplusodleocoplusodqplusocvplusodvowkueaendrml6xmnkzoqp7niyjjgrxjgqtjg4jjgafjgyrjgznjgznjgohjgi0i/"><u>動画に魅力を与えるフィルター効果:日本語版サイトでおすすめ」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/isomkv/"><u>簡単な手順でISOファイルからMKVへの変換方法を学ぶ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-latest-in-apple-macos-versions/"><u>Decoding the Latest in Apple macOS Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-functionality-with-the-newly-integrated-google-gemini-on-ios-insights/"><u>Enhancing iPhone Functionality with the Newly Integrated Google Gemini on iOS - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-methods-how-to-easily-change-your-3gpp-recordings-into-mp3-format/"><u>Free Methods: How To Easily Change Your 3GPP Recordings Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-solutions-for-transforming-your-avi-audio-clips-into-high-quality-wav-files/"><u>Free Solutions for Transforming Your AVI Audio Clips Into High-Quality WAV Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-downloading-private-vimeo-content-onto-your-computer/"><u>Guide: Downloading Private Vimeo Content Onto Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-bulk-extract-audio-from-videos-on-windows-11-top-tips-and-tools/"><u>How to Bulk Extract Audio From Videos on Windows 11: Top Tips and Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-change-your-dvd-music-into-mp3-format-a-4-step-guide/"><u>How to Effortlessly Change Your DVD Music Into MP3 Format: A 4-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-engage-your-audience-in-live-discord-streams-easily/"><u>How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-0xc10100be-video-playback-issue/"><u>How to Resolve the 0xC10100BE Video Playback Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-7-hd-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 7 HD Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pros-and-cons-the-ultimate-guide-to-the-garmin-forerunner-marathon-gps-watch/"><u>Pros and Cons: The Ultimate Guide to the Garmin Forerunner Marathon GPS Watch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turboupload-the-ultimate-guide-to-fast-youtube-video-rendering-for-2024/"><u>TurboUpload The Ultimate Guide to Fast YouTube Video Rendering for 2024</u></a></li>
 </ul></div>
 

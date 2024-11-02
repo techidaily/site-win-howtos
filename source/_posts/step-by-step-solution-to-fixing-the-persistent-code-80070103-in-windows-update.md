@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2024-10-22T16:46:00.642Z
-updated: 2024-10-27T17:28:32.370Z
+date: 2024-10-27T11:09:47.413Z
+updated: 2024-11-02T11:27:12.384Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Reset TCP/IP
 
  TCP/IP is a suite of rules that allow computers to communicate on a network. So if there’s something wrong with the[TCP/IP](https://en.wikipedia.org/wiki/Internet%5Fprotocol%5Fsuite) settings, the 0x800704cf error may occur. To see if that’s the case, you can simply do a reset.
@@ -84,6 +77,13 @@ When you fail to access another computer of the same network, or when you cannot
 **1)** Type**cmd** in the search box. Then, right-click**Command Prompt** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Yes** when you’re prompted to continue.
 
@@ -105,6 +105,13 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Reinstall the network adapter
 
  If all the methods above ended nowhere, you should reinstall the network adapter in case it’s corrupted and causes the 0x800704cf error.
@@ -112,13 +119,6 @@ netsh int ip reset
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
@@ -132,16 +132,16 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Delete all the devices one by one under Network adapters.
 
@@ -153,24 +153,24 @@ netsh int ip reset
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you fail to access the Microsoft Store on Windows 10 or 11, this 0x800704cf error will appear. It implies you’re not connected to the Internet, even though you are, as you can use the browser and other applications normally. But don’t worry; here’s a list of fixes that can help.
 
 1. **[Sign in with Microsoft account](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Sign in with Microsoft account
 
@@ -181,10 +181,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Accounts** .
@@ -212,13 +212,6 @@ netsh int ip reset
 **1)** Type**troubleshoot** in the search box and click**Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
@@ -251,30 +244,49 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
@@ -337,24 +349,21 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-make-money-on-periscope-if-you-are-new-to-this-space-for-2024/"><u>[New] How to Make Money on Periscope if You Are New to This Space for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>[Updated] Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-error-80070n00e-efficiently-correct-windows-update-issues-now/"><u>Bypass Error 80070N00E: Efficiently Correct Windows Update Issues Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-down-on-error-code-0x80072ee7-in-your-windows-store/"><u>Cracking Down on Error Code 0X80072EE7 in Your Windows Store</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-vehicles-a-short-history-lesson/"><u>Electric Vehicles: A Short History Lesson</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-rapid-solutions-for-laptops-with-dead-batteries/"><u>Expert Advice: Rapid Solutions for Laptops with Dead Batteries</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fixing-startup-glitches-a-guide-for-troubled-players-of-farming-simulator-22/"><u>Fixing Startup Glitches: A Guide for Troubled Players of Farming Simulator 22</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-error-code-0x80072ee7-issue-with-windows-store-a-step-by-step-guide/"><u>Fixing the 'Error Code 0X80072EE7' Issue with Windows Store – A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100A Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-pc-based-video-editing-tips-for-youtube-success/"><u>In 2024, PC-Based Video Editing Tips for YouTube Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-accelerator-eliminating-slow-connection-woes/"><u>League of Legends Download Accelerator: Eliminating Slow Connection Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-function-fn-key-malfunction-fast-and-simple-solutions/"><u>Lenovo Function (Fn) Key Malfunction: Fast and Simple Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-vrijetijdige-conversie-van-ppm-naar-bmp-met-movavi-gebruik-ons-gratis-werkspoor/"><u>Online Vrijetijdige Conversie Van PPM Naar BMP Met Movavi - Gebruik Ons Gratis Werkspoor!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-painless-setup-of-your-samsung-m2070-drivers-a-comprehensive-guide/"><u>Quick and Painless Setup of Your Samsung M2070 Drivers - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-0x80072fed-issue-step-by-step-solutions/"><u>Resolving Windows 10'S 0X80072FED Issue: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-animated-logo-creators-for-stunning-brand-identities/"><u>Top 10 Free Animated Logo Creators for Stunning Brand Identities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-adapting-to-organization-imposed-windows-system-settings-policies/"><u>Understanding and Adapting to Organization-Imposed Windows System Settings Policies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secure-your-contents-success-with-proper-srt-upload-methods-to-social-media/"><u>[New] Secure Your Content's Success with Proper SRT Upload Methods to Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-virtual-diary-dos-and-donts-for-consistent-content/"><u>[New] Virtual Diary Dos & Don'ts for Consistent Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-infinite-visual-fidelity-premium-hdmi-21-gaming-displays-ps5/"><u>[Updated] Infinite Visual Fidelity Premium HDMI 2.1 Gaming Displays (PS5)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-simplify-video-annotation-adding-titles-and-captions-via-photos-win-11/"><u>[Updated] Simplify Video Annotation Adding Titles & Captions via Photos Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-when-windows-10-version-1607-wont-install-properly/"><u>Common Fixes When Windows 10 Version 1607 Won't Install Properly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-tactics-for-effective-handc-facebook-promos/"><u>Essential Tactics for Effective H&C Facebook Promos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-screen-behavior-in-your-windows-11-machine/"><u>How to Stop Erratic Screen Behavior in Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-microsofts-print-to-pdf-problems-in-windows-10-and-11/"><u>How to Troubleshoot and Resolve Microsoft's Print to PDF Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Apple iPhone 7?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://article-files.techidaily.com/leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-broken-hp-laptop-buttons-with-easy-troubleshooting-steps/"><u>Revive Broken HP Laptop Buttons with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-inactive-windows-update-functionality-on-pcs/"><u>Solution for Inactive Windows Update Functionality on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-for-when-right-click-stops-working-on-windows-10-computers/"><u>The Definitive Solution for When Right Click Stops Working on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-bluetooth-appears-invisible-on-pcs-device-list/"><u>Troubleshooting Guide: Bluetooth Appears Invisible on PC's Device List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vectors-for-novices-uncover-essentials-types-and-applications/"><u>Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
 </ul></div>
 

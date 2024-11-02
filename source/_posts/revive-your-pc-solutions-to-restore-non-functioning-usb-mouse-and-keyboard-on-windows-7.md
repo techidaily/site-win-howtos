@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-10-25T16:52:31.992Z
-updated: 2024-10-27T18:17:57.047Z
+date: 2024-10-28T08:12:36.821Z
+updated: 2024-11-02T12:23:43.434Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -65,10 +72,10 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -82,10 +89,10 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -122,13 +129,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -147,21 +147,15 @@ OR
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -190,17 +184,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[New] Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-action-camera-guide-exploring-sj-cam-s6s-capabilities-for-2024/"><u>[New] Ultimate Action Camera Guide Exploring SJ-CAM S6's Capabilities for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discovering-10-prime-microphones-for-podcasting-for-2024/"><u>[Updated] Discovering 10 Prime Microphones for Podcasting for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[Updated] In 2024, The Complete SDR to HDR Upgrade Blueprint</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gaming-on-record-the-pros-perspective/"><u>2024 Approved Gaming on Record The Pro's Perspective</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-non-working-night-mode-in-windows-10-and-11-step-by-step-guide/"><u>How To Fix The Non-Working Night Mode in Windows 10 & 11 - Step by Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-defy-2-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Defy 2 Phone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-iphone-and-selfies-unite-our-top-8-gear-guide/"><u>In 2024, Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/managing-system-preferences-how-organizations-control-windows-settings/"><u>Managing System Preferences: How Organizations Control Windows Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-wrong-letters-during-computer-inputs/"><u>Solving the Problem of Wrong Letters During Computer Inputs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-nonfunctional-fn-key-issues-on-your-dell-laptop/"><u>Troubleshoot and Resolve Nonfunctional 'FN' Key Issues on Your Dell Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-solving-the-0x80070490-windows-updates-error-code/"><u>Ultimate Guide to Solving the 0X80070490 Windows Updates Error Code</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[Updated] Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5lia55uu556t54s277ya44oa44km44og5yuv55s744oa44km44oz44ot44o844oj5oml6acg5yig5p6q44cn/"><u>「一目瞭然：ダウム動画ダウンロード手順分析」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-easy-guide-mastering-movie-downloads-from-onionplay/"><u>1. Easy Guide: Mastering Movie Downloads From OnionPlay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>2024 Approved Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-systematic-upgrade-procedures-for-macos-sierra-users/"><u>2024 Approved Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027763931-2024-dvd/"><u>2024年度用 DVDイメージファイルを正しく開くためのガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Xiaomi Redmi K70 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-f15-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy F15 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-google-podcast-upload/"><u>Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027966760-mxf/"><u>MXFファイルがわからず、どうやってプレーヤーに読み込めるようにする？</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-redirected-find-your-way-to-wonderfox-faster-than-ever-before/"><u>Page Redirected! Find Your Way to WonderFox Faster Than Ever Before.</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-dvd-playback-issues-effective-ways-to-eliminate-skips-and-freezing/"><u>Solving DVD Playback Issues: Effective Ways to Eliminate Skips and Freezing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-screen-recording-on-multiple-electronics/"><u>Step-by-Step Guide to Screen Recording on Multiple Electronics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-tools-for-effortless-conversion-from-webm-to-mp4/"><u>Top-Rated Tools for Effortless Conversion From WebM to MP4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/visual-impact-expert-guide-to-crop-your-instagram-content/"><u>Visual Impact Expert Guide to Crop Your Instagram Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028426626-youtube/"><u>YouTubeへの一枚画像投稿方法：詳細ガイド</u></a></li>
 </ul></div>
 

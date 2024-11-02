@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2024-10-22T16:59:06.009Z
-updated: 2024-10-27T16:18:36.698Z
+date: 2024-10-26T20:44:31.088Z
+updated: 2024-11-02T06:36:22.005Z
 tags:
   - win11
   - win10
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 2: Disconnect the power cable for a while**
 
@@ -70,6 +70,13 @@ Follow the steps below:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 4: Update the USB driver**
 
  If the USB driver is missing or corrupted, this issue can occur. To fix the issue, you can update the USB driver.
@@ -84,13 +91,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
@@ -102,6 +102,13 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
 
  6) Click the **OK** button to confirm the uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **After uninstalling the drivers, update the drivers.**
 
@@ -117,25 +124,11 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -155,11 +148,25 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **OK** button.
 
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
@@ -176,22 +183,21 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -214,21 +220,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>[Updated] From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-bending-reality-a-short-history-of-virtual-space/"><u>[Updated] In 2024, Bending Reality A Short History of Virtual Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-to-enhancing-colors-in-photoshop/"><u>[Updated] Quick Guide to Enhancing Colors in Photoshop</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instantaneous-identification-in-the-social-media-jungle/"><u>2024 Approved Instantaneous Identification in the Social Media Jungle</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-and-selfies-unite-our-top-8-gear-guide/"><u>2024 Approved Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-diagnose-and-cure-your-pcs-persistent-black-screen-on-windows-11/"><u>Guide to Diagnose & Cure Your PC's Persistent Black Screen on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-incompatibility-challenges-in-ftdi-systems-for-enhanced-memory-reliability/"><u>Overcoming Incompatibility Challenges in FTDI Systems for Enhanced Memory Reliability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-startup-challenges-fixing-a-malfunctioning-keyboard-before-logging-in/"><u>Overcoming Startup Challenges: Fixing a Malfunctioning Keyboard Before Logging In</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-n55-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo N55 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-windows-10-screens-touch-sensitivity-with-these-5-proven-strategies/"><u>Revive Your Windows 10 Screen's Touch Sensitivity with These 5 Proven Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210242492-stop-the-interruptions-solve-your-pcs-unintended-sleep-problems-now/"><u>Stop the Interruptions: Solve Your PC's Unintended Sleep Problems Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-turmoil-unstable-computer-games-on-windows/"><u>Tech Turmoil: Unstable Computer Games on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unifying-lenovo-with-windows-10-bt-driver/"><u>Unifying Lenovo with Windows 10 BT Driver</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-everything-about-final-cut-pro-90-days-free-trial-here/"><u>Updated In 2024, Everything About Final Cut Pro 90 Days FREE Trial Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-brightness-control-not-working/"><u>[Solved] Windows 10 Brightness Control Not Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-windows-video-chat-apps-7-1-for-2024/"><u>[Updated] Premier Windows Video Chat Apps #7-#1 for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sharpen-your-focus-tips-for-zooming-inout-on-instagram-stories-for-2024/"><u>[Updated] Sharpen Your Focus Tips for Zooming In/Out on Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-strategy-sketches-plotting-the-market-map-for-2024/"><u>[Updated] Strategy Sketches Plotting the Market Map for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-and-explore-top-wins11-apps-and-games-guide/"><u>Elevate and Explore Top Wins11 Apps & Games Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-dark-to-light-wow-shines-with-complete-3d-acceleration/"><u>From Dark to Light: WoW Shines with Complete 3D Acceleration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-seamlessly-convert-your-dall-e-3-webp-artwork-into-jpg-or-png-versions/"><u>How to Seamlessly Convert Your DALL-E 3 WebP Artwork Into JPG or PNG Versions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-video-tools-for-twitter-sharing/"><u>In 2024, Streamlined Video Tools for Twitter Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-chrome-plugin-failed-to-load-issue-in-windows-10/"><u>Resolved: Fixing the 'Chrome Plugin Failed to Load' Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-obsidian-gaming-screen-problem/"><u>Resolved: How to Fix the Obsidian Gaming Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-management/"><u>Understanding msdia80.dll: Importance and Management</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidmendermagic-rapid-repair-of-videos/"><u>VidMenderMagic: Rapid Repair of Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Restore Disappeared Desktop Folder at C:\\Windows\\System32\\Config\\SystemProfile"
-date: 2024-10-25T16:57:50.790Z
-updated: 2024-10-27T17:49:33.536Z
+date: 2024-10-26T00:31:20.948Z
+updated: 2024-11-02T02:45:13.011Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -83,13 +70,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for Windows Updates
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep your computer running smoothly. Here is how to do it:
@@ -126,6 +106,13 @@ OR
 
  If no malware is detected, that means your problem is not caused by malware. Try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  Some services or programs running on your computer may conflict with certain applications on your computer resulting in application errors. To see if that’s the problem for you, try performing a clean boot. Here is how:
@@ -139,13 +126,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -153,13 +133,6 @@ OR
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
@@ -177,28 +150,28 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety reasons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-114.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)** Click**Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After your PC restarts, check if the issue has been resolved. If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
@@ -211,16 +184,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
@@ -248,6 +221,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Restart your computer and check if this has resolved your problem.
 
  If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
@@ -268,6 +248,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
@@ -280,20 +267,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
- Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
-
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
 ### Fix 5: Run the Command Prompt
 
@@ -316,6 +297,13 @@ OR
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -345,22 +333,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-driving-engagement-and-sales-a-step-by-step-guide-to-influencer-marketing/"><u>[New] In 2024, Driving Engagement and Sales A Step-by-Step Guide to Influencer Marketing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-nba-2k21-green-glitch/"><u>[SOLVED] NBA 2K21 Green Glitch</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-labyrinth-luminaries-top-10-roguelike-highlights/"><u>[Updated] 2024 Approved Labyrinth Luminaries Top 10 Roguelike Highlights</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-free-youtube-end-screen-resources-enhance-video-impact/"><u>[Updated] Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-on-pc-drivers-troubleshooting-techniques-for-windows-users/"><u>A Comprehensive Guide on PC Drivers: Troubleshooting Techniques for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/browser-blues-resolve-the-initializer-did-not-load-problem-with-ease-latest-fixes-2021/"><u>Browser Blues? Resolve the 'Initializer Did Not Load' Problem with Ease (Latest Fixes 2)021</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-repair-techniques-for-resolving-error-80e2-in-windows-update-process/"><u>Effortless Repair Techniques for Resolving Error 80E2 in Windows Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-binkw32dll-file-not-present-mistake-in-windows/"><u>Expert Tips for Correcting the binkw32.dll File Not Present Mistake in Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-relaxed-riffs-20-country-songs-that-make-you-want-to-dance-and-chill-on-tiktok/"><u>In 2024, Relaxed Riffs 20 Country Songs That Make You Want to Dance and Chill on TikTok</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/indulge-in-the-best-youtube-binge-spots-for-anime-enthusiasts/"><u>Indulge in the Best YouTube Binge Spots for Anime Enthusiasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204368891-step-by-step-solutions-eradicate-critical-error-scams-from-your-google-chrome-browser-now/"><u>Step-by-Step Solutions: Eradicate Critical Error Scams From Your Google Chrome Browser Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-recover-from-unresponsive-windows-10-software-issues/"><u>Steps to Recover From Unresponsive Windows 10 Software Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-your-pc-from-crashing-while-playing-nier-automata-effective-fixes-and-tips/"><u>Stop Your PC From Crashing While Playing Nier Automata: Effective Fixes & Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/typing-triumph-over-tablet-trouble/"><u>Typing Triumph Over Tablet Trouble</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-grab-mastery-for-windows-users-3-techniques/"><u>[Updated] Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/critically-acclaimed-phone-and-desktop-video-calls-list/"><u>Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears/"><u>Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-for-enhancing-video-quality-on-your-computer/"><u>Simple Methods for Enhancing Video Quality on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-vob-files-to-mp3-format-with-no-hassle/"><u>Simple Steps: Converting VOB Files to MP3 Format with No Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-transforming-240p-content-to-stunning-1080p/"><u>Step-by-Step Tutorial for Enhancing Video Quality: Transforming 240P Content to Stunning 1080P</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-se-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone SE and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-unresponsive-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing the Unresponsive Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-broadcasting-made-easy-with-manycam-top-software-for-digital-webcams/"><u>Virtual Broadcasting Made Easy with ManyCam – Top Software for Digital Webcams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
 </ul></div>
 

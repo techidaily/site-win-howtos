@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2024-10-25T17:55:41.413Z
-updated: 2024-10-27T17:12:13.128Z
+date: 2024-10-26T11:14:40.420Z
+updated: 2024-11-02T08:03:13.637Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable your touchpad
 
  If your touchpad isn’t working at all, it may be disabled. You can connect an external mouse to your computer, and follow these steps to enable your touchpad:
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. Under**Devices and Printers** , click**Mouse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
@@ -90,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -115,19 +122,6 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
@@ -155,21 +149,18 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-techniques-for-funimate-video-extraction/"><u>[New] 2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-revitalizing-a-frozen-obs-video-source-feed/"><u>[New] Revitalizing a Frozen OBS Video Source Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-with-audio-files-for-2024/"><u>[Updated] Harmonizing YouTube Content with Audio Files for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/03629439-2024-approved-channel-elevation-strategy-quickly-reach-your-10k-view-quota/"><u>2024 Approved Channel Elevation Strategy – Quickly Reach Your 10K View Quota!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blueprint-for-an-intriguing-videography-script/"><u>Blueprint for an Intriguing Videography Script</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enablingdisabling-the-touch-typing-feature-a-guide-for-windows-10-users/"><u>Enabling/Disabling the Touch Typing Feature: A Guide for Windows 10 Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 8S Pro+ Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-the-spotlight-overcoming-the-challenge-of-a-non-illuminated-razer-keyboard/"><u>In The Spotlight: Overcoming the Challenge of a Non-Illuminated Razer Keyboard</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistica-comparativa-50-palabras-inglesas-espanolas/"><u>Lingüística Comparativa: 50 Palabras Inglesas-Españolas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/optimize-capture-smooth-screenshots-with-dell-models-for-2024/"><u>Optimize Capture Smooth Screenshots with Dell Models for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-devices-critical-failure-the-red-screen-blueprint/"><u>Resolving Your Device's Critical Failure: The Red Screen Blueprint</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-broken-huion-pen-top-5-quick-fixes-for-immediate-relief/"><u>Revive Your Broken Huion Pen - Top 5 Quick Fixes for Immediate Relief</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-configuration-yet-device-remains-quiet/"><u>Successful Configuration, Yet Device Remains Quiet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-connection-effective-ways-to-resolve-internet-disconnection-errors/"><u>Troubleshoot Your Connection: Effective Ways to Resolve Internet Disconnection Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-what-to-do-when-your-dell-keyboard-stops-responding/"><u>Troubleshooting Tips: What to Do When Your Dell Keyboard Stops Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-website-access-denied-errors-http-403/"><u>Ultimate Guide: Resolving Website Access Denied Errors (HTTP 403)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[New] 2024 Approved Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ps3-playback-a-comprehensible-methodology/"><u>[New] In 2024, PS3 Playback A Comprehensible Methodology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings-for-2024/"><u>[New] Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-correcting-app-start-up-error-error-code-0xc000007b/"><u>Comprehensive Guide to Correcting App Start-Up Error [Error Code 0xC000007B]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-proplus-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro+ 5G has native HEVC support?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-stylus-working-again-5-rapid-repair-techniques/"><u>Get Your Huion Stylus Working Again: 5 Rapid Repair Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-words-to-pictures-easy-photo-text-editing-tips/"><u>In 2024, Adding Words to Pictures Easy Photo Text Editing Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-fixing-google-chromes-black-screen-dilemma/"><u>Resolving the Issue: A Step-by-Step Guide to Fixing Google Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/en-your-content-for-unlimited-youtube-exposure-for-2024/"><u>Sharpen Your Content for Unlimited YouTube Exposure for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-3-exploring-the-latest-edit-tools-with-room-for-perfection/"><u>The Evolution of DALL-E 3: Exploring the Latest Edit Tools with Room for Perfection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-for-addressing-spikes-in-cpu-usage-due-to-windows-audio-graph-component/"><u>Tips for Addressing Spikes in CPU Usage Due to Windows Audio Graph Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-warframe-game-updates-that-wont-install/"><u>Troubleshooting Tips: Fixing 'Warframe' Game Updates That Won't Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208952957-uninterrupted-workflow-on-windows-11-how-your-files-remain-unchanged-post-bootup/"><u>Uninterrupted Workflow on Windows 11: How Your Files Remain Unchanged Post Bootup</u></a></li>
 </ul></div>
 

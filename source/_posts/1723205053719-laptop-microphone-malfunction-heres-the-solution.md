@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2024-10-21T17:45:24.337Z
-updated: 2024-10-27T16:16:52.601Z
+date: 2024-10-25T20:59:57.396Z
+updated: 2024-11-02T13:01:47.580Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -43,10 +50,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 3. [Reinstall your all network adapters](#solution3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
@@ -65,29 +72,36 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
-6) Run the Network Diagnostics and see if it goes well.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6) Run the Network Diagnostics and see if it goes well.
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -113,13 +127,6 @@ net localgroup Administrators /add localservice
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Reinstall your network adapters
 
  This error could be also caused by your malfunctioned network adapters. You can try to reinstall your network adapters to solve it.
@@ -129,13 +136,6 @@ net localgroup Administrators /add localservice
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
@@ -184,15 +184,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>[New] No Experience? No Obstacle The Ultimate Guide to Profits on Reddit</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-m6-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco M6 Pro 5G Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrected-non-hid-interactive-capability-in-touch-screen/"><u>Corrected Non-HID Interactive Capability in Touch Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-it-overcoming-the-challenge-of-an-unresponsive-backspace-button/"><u>Fix It! Overcoming the Challenge of an Unresponsive Backspace Button</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds-for-2024/"><u>Going Against the Tide of Tradition Innovative Techniques for YT Rewinds for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-computer-when-it-gets-stuck-during-windows-setup/"><u>How to Fix Your Computer When It Gets Stuck During Windows Setup</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c67-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C67 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-minecraft-crashes-stemming-from-outdated-or-corrupted-windows-vga-drivers/"><u>Step-by-Step Solutions for Minecraft Crashes Stemming From Outdated or Corrupted Windows VGA Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/supported-disc-compatibility-understanding-your-dvd-players-capabilities/"><u>Supported Disc Compatibility: Understanding Your DVD Player's Capabilities</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/utilizing-cookiebot-technology-for-advanced-web-behavior-tracking-and-conversion-optimization/"><u>Utilizing Cookiebot Technology for Advanced Web Behavior Tracking & Conversion Optimization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-instagram-video-exposure-for-2024/"><u>[New] Maximizing Instagram Video Exposure for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-most-reliable-speech-capture-for-ipads-3/"><u>[New] Most Reliable Speech Capture for iPads #3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-practices-for-efficient-slide-capture/"><u>[Updated] 2024 Approved Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-intellectual-property-rules-for-instagram-beats/"><u>[Updated] 2024 Approved Intellectual Property Rules for Instagram Beats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-convert-kits-transforming-youtube-vids-into-text/"><u>[Updated] Premier Convert Kits Transforming YouTube Vids Into Text</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essentials-of-hosting-a-zoom-event-via-android/"><u>[Updated] The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-series-9-versus-fitbit-charge-6-a-comparative-review/"><u>Apple Watch Series 9 versus Fitbit Charge 6: A Comparative Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-problems-heres-how-to-make-it-functional-once-more/"><u>Corsair Keyboard Problems? Here's How to Make It Functional Once More</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-the-myth-is-faster-always-better/"><u>Debunking the Myth: Is Faster Always Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-and-solving-the-persistent-black-monitor-issue-on-windows-11-computers/"><u>Demystifying and Solving the Persistent Black Monitor Issue on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-erratic-behavior-of-bluetooth-mice-for-windows-11-and-10-users/"><u>Fixing Erratic Behavior of Bluetooth Mice for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y27s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y27s with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-get-your-diagnostic-policy-service-running-again/"><u>Resolved: How to Get Your Diagnostic Policy Service Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-servers-not-available-in-destiny-2/"><u>Step-by-Step Solutions: Overcoming 'Servers Not Available' In Destiny 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-dock-on-a-windows-10-system-solutions-and-tips/"><u>Successfully Pairing Microsoft Wireless Dock on a Windows 10 System: Solutions and Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-how-to-fix-windows-11-store-error-code-0x80073cf9/"><u>Troubleshooting Step-by-Step: How to Fix Windows 11 Store Error Code 0X80073CF9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-to-eliminate-window-10s-flickering-display-dilemma/"><u>Troubleshooting Techniques to Eliminate Window 10'S Flickering Display Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-gaming-fixes-eliminate-screen-distortion-and-enjoy-seamless-play/"><u>Valorant Gaming Fixes: Eliminate Screen Distortion & Enjoy Seamless Play</u></a></li>
 </ul></div>
 

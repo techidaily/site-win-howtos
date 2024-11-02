@@ -1,7 +1,7 @@
 ---
 title: "Remedies for a Broken '@' Key: A Comprehensive Fix Guide"
-date: 2024-10-23T18:07:23.611Z
-updated: 2024-10-27T17:08:53.621Z
+date: 2024-10-30T10:54:38.360Z
+updated: 2024-11-02T01:25:01.650Z
 tags:
   - win11
   - win10
@@ -76,13 +76,6 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
@@ -96,13 +89,20 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
 
@@ -114,43 +114,52 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
@@ -161,21 +170,14 @@ To do so:
 16. Click**OK** and then click**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
@@ -200,24 +202,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-inject-harmony-into-ppt-decks/"><u>[New] In 2024, Inject Harmony Into PPT Decks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-essential-guide-for-live-facebook-streams-pcmaclaptop/"><u>[New] In 2024, The Essential Guide for Live Facebook Streams (PC/Mac/Laptop)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-through-collective-media-on-messenger/"><u>[New] Navigating Through Collective Media on Messenger</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-tips-for-optimal-online-vhs-photo-enhancement-for-2024/"><u>[New] Top Tips for Optimal Online VHS Photo Enhancement for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-language-of-interaction-engaging-viewers-on-youtube/"><u>2024 Approved The Language of Interaction Engaging Viewers on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-be-gone-expert-tips-for-seamless-connectivity-on-your-windows-10-system/"><u>Bluetooth Woes Be Gone! Expert Tips for Seamless Connectivity on Your Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-the-unspecified-error-code-0x80004005-a-step-by-step-guide/"><u>Deciphering the Unspecified Error (Code 0X80004005): A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeat-pc-game-lag-in-oddworld-soulstorm-with-these-proven-troubleshooting-steps/"><u>Defeat PC Game Lag in Oddworld: Soulstorm with These Proven Troubleshooting Steps!</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevate-your-digital-presence-with-cutting-edge-cookiebot-technology-solutions/"><u>Elevate Your Digital Presence with Cutting-Edge Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-unsupported-input-detected-on-display-screen/"><u>Error: Unsupported Input Detected on Display Screen</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-device-working-again-on-windows-11/"><u>How to Get Your Microsoft Wireless Display Device Working Again on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-difficulties-with-destiny-amoor-game-servers/"><u>How To Overcome Connection Difficulties with Destiny Amoor Game Servers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-cinema-teasers-compilation/"><u>In 2024, Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-standard-add-ons/"><u>Navigating ChatGPT's Standard Add-Ons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-your-network-instructions-for-enabling-lsa-guardrails/"><u>Securing Your Network: Instructions for Enabling LSA Guardrails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-to-overcome-insufficient-resources-error-message/"><u>Solutions to Overcome 'Insufficient Resources' Error Message</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/5-channels-for-aspiring-stock-professionals/"><u>Top 15 Channels for Aspiring Stock Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-windows-10-startup-issues-fixed/"><u>Troubleshooting Persistent Windows 10 Startup Issues [FIXED]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-pastimes-pairing-with-your-favorite-audio-shows/"><u>[New] Ideal Pastimes Pairing with Your Favorite Audio Shows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fires-sound-alteration-tactics/"><u>2024 Approved Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bibliothek-dvd-filme-zu-iphones-konvertieren-effiziente-methoden-erklart/"><u>Bibliothek DVD Filme Zu iPhones Konvertieren – Effiziente Methoden Erklärt!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-current-applications-to-future-drone-horizons-for-2024/"><u>From Current Applications to Future Drone Horizons for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-game-boy-pen-troubles-in-depth-fixing-techniques-for-seamless-play-on-classic-consoles/"><u>Navigate Through Game Boy Pen Troubles: In-Depth Fixing Techniques for Seamless Play on Classic Consoles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-elements-are-electric-vehicles-reliable-in-intensely-cold-or-hot-weather/"><u>Navigating the Elements: Are Electric Vehicles Reliable in Intensely Cold or Hot Weather?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opencl-dll-access-resolution-approach/"><u>OpenCL DLL Access: Resolution Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-cure-for-lidadll-absence/"><u>Quick Cure for Lida.dll Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging-for-2024/"><u>Step-by-Step Path Turning GIFs Into Stickers Across Social Media Messaging for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-mute-mode-restoring-sound-to-netflix-watching/"><u>Troubleshoot Mute Mode: Restoring Sound to Netflix Watching</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-solutions-for-lenovo-keyboards-that-wont-respond/"><u>Troubleshooting and Repair Solutions for Lenovo Keyboards That Won't Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-icue-doesnt-recognize-your-device/"><u>Troubleshooting Tips for When ICUE Doesn't Recognize Your Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlock-the-secrets-of-automatic-youtube-videos-on-fb/"><u>Unlock the Secrets of Automatic YouTube Videos on FB</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-the-essential-reasons-to-upgrade-your-device-to-ios-153-immediately/"><u>Urgent Update: The Essential Reasons to Upgrade Your Device to iOS 15.3 Immediately!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289634237-winxvideo-ai/"><u>Winxvideo AI로 최고의 비디오 제공을 보장하세요</u></a></li>
 </ul></div>
 

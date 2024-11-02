@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Unshutdown Windows 11 on Your Laptop or Desktop
-date: 2024-10-21T16:13:27.009Z
-updated: 2024-10-27T16:32:49.846Z
+date: 2024-10-27T00:33:57.112Z
+updated: 2024-11-02T04:48:48.390Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,6 +62,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -63,34 +77,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -105,15 +105,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -123,6 +123,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -130,19 +137,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -170,24 +164,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos-for-2024/"><u>[New] The Art of Inverted Investigation Finding True Sources on Instagram Photos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-max-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro Max activation lock without Apple ID</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ease-your-way-through-windows-ndis-issues/"><u>Ease Your Way Through Windows NDIS Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-no-battery-found-issue-swift-solutions/"><u>Effortlessly Resolve 'No Battery Found' Issue – Swift Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-immediately-address-the-service-unavailable-error-http-503/"><u>How To Immediately Address The 'Service Unavailable' Error: HTTP 503</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 to Roku? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-v30t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme V30T Data? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-content-delivery-spectrum-vimeo-and-youtube-reviewed/"><u>In 2024, The Content Delivery Spectrum Vimeo & YouTube Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-secure-connection-couldnt-be-established-errors-in-mozilla-firefox/"><u>Resolving 'Secure Connection Couldn't Be Established' Errors in Mozilla Firefox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-your-iphones-volume-troubleshooting-tips-for-no-sound/"><u>Restore Your iPhone's Volume: Troubleshooting Tips for No Sound</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-to-overcome-the-rpc-server-unreachable-problem-on-windows-pcs/"><u>Solutions to Overcome the 'RPC Server Unreachable' Problem on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-updates-just-wont-work/"><u>Step-by-Step Fixes for When Your Windows Updates Just Won't Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-logitech-g930-sound-cuts/"><u>Troubleshooting Guide: Addressing Logitech G930 Sound Cuts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-initialization-errors-of-the-graphics-engine-latest-patches-reviewed/"><u>Troubleshooting Initialization Errors of the Graphics Engine - Latest Patches Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-startups-examining-the-self-activation-of-windows-10-machines/"><u>Unexpected Startups: Examining the Self-Activation of Windows 10 Machines</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevating-your-edit-mastering-lut-application-in-adobe-pro/"><u>[New] 2024 Approved Elevating Your Edit Mastering LUT Application in Adobe Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-highly-accelerate-your-systems-performance-overcoming-excess-cpu-usage-caused-by-shell-infrastructures/"><u>[Resolved] Highly Accelerate Your System's Performance – Overcoming Excess CPU Usage Caused by Shell Infrastructures!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>[Updated] 2024 Approved Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>[Updated] Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-cinematic-capture-tool-for-2024/"><u>[Updated] Facebook Cinematic Capture Tool for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-self-portraits-for-social-media-success/"><u>[Updated] Self-Portraits for Social Media Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/circlesmiths-arsenal-for-2024/"><u>Circlesmith's Arsenal for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210129341-decode-and-defeat-error-0x887a0006-effortless-solutions-inside/"><u>Decode and Defeat Error 0X887A0006: Effortless Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-10-solved/"><u>How To Restore Vanished Desktop Icons In Windows 10 (Solved!)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverses-most-social-spaces-for-friends/"><u>In 2024, Metaverse's Most Social Spaces for Friends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-the-windows-update-held-at-0-dilemma/"><u>Quick Solutions: Resolving the 'Windows Update Held at 0%' Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-update-issues/"><u>Resolved: How To Fix Windows Update Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-dramatic-hdr-portraits-explained-for-2024/"><u>The Art of Dramatic HDR Portraits Explained for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-video-playback-sounds-dealing-with-audiorenderer-issues-in-windows-11/"><u>The Ultimate Fix for Video Playback Sounds: Dealing With AudioRenderer Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210457685-troubleshoot-your-microsoft-screen-mirroring-on-windows-10-solved/"><u>Troubleshoot Your Microsoft Screen Mirroring on Windows 10 - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-playback-problems-on-youtube-with-windows-10/"><u>Troubleshooting Audio Playback Problems on YouTube with Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-correcting-error-code-28-in-windows-device-manager-for-seamless-operation/"><u>Ultimate Guide: Correcting Error Code 28 in Windows Device Manager for Seamless Operation</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-next-gen-phone-integration/"><u>Unveiling Windows 11'S Next-Gen Phone Integration</u></a></li>
 </ul></div>
 

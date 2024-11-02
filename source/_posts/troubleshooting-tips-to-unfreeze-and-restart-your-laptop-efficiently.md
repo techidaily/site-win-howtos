@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2024-10-20T17:41:10.437Z
-updated: 2024-10-27T17:14:45.811Z
+date: 2024-10-28T23:26:23.232Z
+updated: 2024-11-02T08:43:57.821Z
 tags:
   - win11
   - win10
@@ -43,22 +43,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -82,10 +75,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -97,13 +90,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -123,18 +109,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -144,6 +136,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -156,6 +155,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,17 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-ten-pillars-of-meme-creation-for-2024/"><u>[New] The Ten Pillars of Meme Creation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bridge-the-gap-in-scanner-printer-interface-epson/"><u>Bridge the Gap in Scanner-Printer Interface (Epson)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-htc-u23-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from HTC U23 Pro?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-neo-5-se-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT Neo 5 SE Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207863980-pdf-printing-problems-quick-fixes-to-get-your-document-out/"><u>PDF Printing Problems? Quick Fixes to Get Your Document Out</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-to-perfect-gamer-channel-headers/"><u>Step-By-Step Guide to Perfect Gamer Channel Headers</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-transferring-data-from-hdds-to-ssds-in-windows-11-using-secure-boot-feature/"><u>Step-by-Step Guide: Transferring Data From HDDs to SSDs in Windows 11 Using Secure Boot Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-the-infamous-red-screen-problem-a-complete-fix-guide/"><u>Tackling the Infamous 'Red Screen' Problem: A Complete Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-tips-for-utilizing-chatgpt-in-crafting-video-game-narratives/"><u>Top 6 Tips for Utilizing ChatGPT in Crafting Video Game Narratives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-epson-scan-communication-issues/"><u>Unlocking Epson Scan Communication Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-desactiver-onedrive-efficacement-les-5-meilleures-methodes/"><u>« Comment Désactiver OneDrive Efficacement : Les 5 Meilleures Méthodes »</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202363408-fixed-microsoft-store-wont-open/"><u>[Fixed] Microsoft Store Won’t Open</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-is-itops-performance-worth-your-investment/"><u>[New] Is ITop's Performance Worth Your Investment?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-premier-live-streaming-platforms-revealed-for-2024/"><u>[New] Premier Live Streaming Platforms Revealed for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>[Updated] 2024 Approved Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-leading-websites-for-superior-vector-images/"><u>[Updated] In 2024, Leading Websites for Superior Vector Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-hiding-issue-resolved-appears-back-in-windows-device-manager/"><u>Bluetooth Hiding Issue Resolved - Appears Back in Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conclusion-non-supportive-stance-from-drivers-on-opengl/"><u>Conclusion: Non-Supportive Stance From Drivers on OpenGL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curing-infinite-loading-woes-in-the-elder-scrolls-v-skyrim-explained/"><u>Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-repairing-the-error-0x80070643-during-windows-update-process/"><u>Easy Steps for Repairing the Error 0X80070643 During Windows Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-dragon-ball-fighterzs-network-initialization-failure/"><u>Guide to Fixing Dragon Ball FighterZ's Network Initialization Failure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-art-of-youtube-shorts-filming-and-editing-made-simple/"><u>In 2024, The Art of YouTube Shorts Filming and Editing Made Simple</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-to-wma-transformation-on-the-web-cost-free-with-movavis-services/"><u>MP3 to WMA Transformation on the Web – Cost-Free with Movavi's Services</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-to-professional-level-gaming-on-a-budget-with-the-asus-rog-strix-xg27wcs-featuring-27-inches-va-technology-and-rapid-180hz-refresh-rate/"><u>Step Up to Professional-Level Gaming on a Budget With The Asus ROG Strix XG27WCS – Featuring 27 Inches, VA Technology, and Rapid 180Hz Refresh Rate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-to-restore-ethernet-functionality-on-pcs-runs-windows-11-or-7/"><u>Step-by-Step Fixes to Restore Ethernet Functionality on PCs Runs Windows 11 or 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-spark-10-4g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Spark 10 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-usage-by-svchostexe-on-your-windows-10-device-guide/"><u>Winning the Battle Against High-CPU Usage by svchost.exe on Your Windows 10 Device [Guide]</u></a></li>
 </ul></div>
 

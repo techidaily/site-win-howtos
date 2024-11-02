@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Correct Windows Update Failure 0X80070002 Fast
-date: 2024-10-23T16:08:45.907Z
-updated: 2024-10-27T17:48:16.273Z
+date: 2024-10-31T10:00:00.445Z
+updated: 2024-11-01T17:35:37.014Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
@@ -87,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -102,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
 ---
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -128,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  2) Type**services.msc** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
@@ -145,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
  If you don’t want to delete this folder, you can also rename it with**SoftwareDistributionOld** .
@@ -165,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  2) Type**services.msc** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
@@ -181,13 +181,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -211,6 +204,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
@@ -221,33 +221,20 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and try again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -268,16 +255,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -285,6 +266,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -309,19 +297,20 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-swing-mastery-kit/"><u>2024 Approved Swing Mastery Kit</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-how-substance-meets-design-in-our-comprehensive-fitbit-charge-4-critique/"><u>Discovering How Substance Meets Design in Our Comprehensive Fitbit Charge 4 Critique</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-copy-and-paste-functionality-on-your-windows-11-pc/"><u>How to Enable Copy and Paste Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-cpu-usage-for-wudfhostexe-to-improve-performance-in-windows-nt/"><u>How to Optimize CPU Usage for wudfhost.exe to Improve Performance in Windows nT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo A58 4G</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-narzo-60x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme Narzo 60x 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-expertise-continuous-video-play-for-2024/"><u>IPhone Expertise Continuous Video Play for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210152643-personalized-treatment-plans-based-on-genomic-profiling-are-becoming-the-standard-in-lung-cancer-care/"><u>Personalized Treatment Plans Based on Genomic Profiling Are Becoming the Standard in Lung Cancer Care.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-minecraft-delays-top-tips-for-optimal-performance/"><u>Say Goodbye to Minecraft Delays: Top Tips for Optimal Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-the-kernel-event-error-144-on-your-system/"><u>Step-by-Step Guide: Fixing the Kernel Event Error 144 on Your System</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-ultimate-showdown-of-2011-how-email-marketing-outperforms-seo-with-stats-and-tools-by-massmail-software/"><u>The Ultimate Showdown of 2011: How Email Marketing Outperforms SEO with Stats and Tools by Massmail Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-top-10-budget-friendly-online-digital-audio-workstations-daws-for-2024/"><u>Updated Discovering Top 10 Budget-Friendly Online Digital Audio Workstations (DAWs) for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-quality-assurance-examining-apps-with-vll/"><u>Virtual Quality Assurance Examining Apps with VLL</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-advanced-techniques-using-jump-cuts-effectively/"><u>[New] In 2024, Advanced Techniques Using Jump Cuts Effectively</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-gear-vr-latest-phone-compatibility-guide-for-2024/"><u>[Updated] Gear VR Latest Phone Compatibility Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-bandicam-uncovered-a-critical-review-for-tech-enthusiasts/"><u>2024 Approved Bandicam Uncovered A Critical Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-converting-your-mp4-files-to-wmv-with-handbrake-step-by-step-tutorials/"><u>Effortlessly Converting Your MP4 Files to WMV with Handbrake - Step-by-Step Tutorials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-the-newly-resurrected-blamo-repo-on-kodi-leia-krypton-installation-guide/"><u>Experience the Newly Resurrected Blamo Repo on Kodi (Leia, Krypton) - Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-integrating-a-book-collection-into-your-plex-media-server/"><u>Guide: Successfully Integrating a Book Collection Into Your Plex Media Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-chop-your-footage-into-sections-using-shotcut-the-comprehensive-walkthrough/"><u>How to Effortlessly Chop Your Footage Into Sections Using Shotcut - The Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/integrating-youtube-videos-into-your-powerpoint-presentations-a-step-by-step-guide/"><u>Integrating YouTube Videos Into Your PowerPoint Presentations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-full-screen-recording-on-windows-10-and-11-a-step-by-step-tutorial/"><u>Mastering the Art of Full-Screen Recording on Windows 10 and 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movmpeg-3/"><u>MOVフォーマットへのMPEG変換: 効果的な3方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-eliminate-lag-for-smoother-gaming-experience/"><u>Rainbow Six Siege Troubleshooting: Eliminate Lag for Smoother Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-common-issues-repairing-dvd-playback-when-it-keeps-skipping-and-freezing/"><u>Solving Common Issues: Repairing DVD Playback When It Keeps Skipping and Freezing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95812617-9781616409630-the-supermarket-sorceress/"><u>The Supermarket Sorceress | Free Book</u></a></li>
+<li><a href="https://solve-news.techidaily.com/unveiling-the-ultimate-macx-dvd-ripper-pro-history-benefits-and-detailed-overview/"><u>Unveiling the Ultimate MacX DVD Ripper Pro: History, Benefits, and Detailed Overview</u></a></li>
 </ul></div>
 

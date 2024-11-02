@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Overcoming Oculus Hardware Failures"
-date: 2024-10-21T16:40:18.576Z
-updated: 2024-10-27T17:27:21.094Z
+date: 2024-10-27T06:14:48.928Z
+updated: 2024-11-01T21:14:25.111Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -66,25 +73,11 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap465-1.png)
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### If you’re using Windows 11
 
@@ -92,11 +85,32 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 2. From the left navigation panel, select**System** . Find**Troubleshoot** and click on it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -107,16 +121,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  net stop bits  
@@ -155,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
@@ -171,16 +179,17 @@ Now, you can follow the steps below to download Windows updates manually:
 2. Click **View update history** to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download that update and install it manually.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
@@ -191,20 +200,13 @@ Now, you can follow the steps below to download Windows updates manually:
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -232,24 +234,24 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-select-the-best-free-mobile-video-platforms-of-2023/"><u>[Updated] 2024 Approved Select the Best Free Mobile Video Platforms of 2023</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-banish-annoying-ads-instantly-with-these-7-best-android-tools/"><u>2024 Approved Banish Annoying Ads Instantly with These 7 Best Android Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/desktop-capture-the-windows-user-guide-for-2024/"><u>Desktop Capture The Windows User Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-steps-to-correct-the-error-of-missing-d3dcompiler43dll-file/"><u>Detailed Steps to Correct the Error of Missing d3dcompiler_43.dll File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-when-your-sims-4-game-doesnt-start-up/"><u>Expert Tips for Fixing When Your Sims 4 Game Doesn't Start Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-issue-of-screen-flashing-on-windows-11/"><u>Fixing the Persistent Issue of Screen Flashing on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-red-magic-8s-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nubia Red Magic 8S Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-spark-10-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Tecno Spark 10 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/introducing-scrolling-upgrade-add-a-source-scrollbar-feature-in-your-emeditor-experience/"><u>Introducing Scrolling Upgrade: Add a Source Scrollbar Feature in Your EmEditor Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-steam-updates-tips-and-tricks-for-seamless-downloading-success/"><u>Mastering Steam Updates: Tips and Tricks for Seamless Downloading Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-errors-when-starting-playables-on-pc-the-ultimate-fix-guide/"><u>Overcoming Errors When Starting Playables on PC - The Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/random-key-interruption/"><u>Random Key Interruption</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-budget-conscious-3d-printer-picks-featuring-sla-fdm-and-sub-250-models/"><u>Top Budget-Conscious 3D Printer Picks : Featuring SLA, FDM & Sub-$250 Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-responsive-aoc-usb-monitors-in-windows-11-effective-solutions/"><u>Troubleshoot Non-Responsive AOC USB Monitors in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-problems-with-destiny-2-servers-tips-and-tricks/"><u>Troubleshooting Access Problems with Destiny 2 Servers - Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-10-install-error-80240020-a-step-by-step-solution/"><u>Troubleshooting Guide for Windows 10 Install Error 80240020: A Step-by-Step Solution</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-essentials-reversing-video-clips-in-minutes-for-2024/"><u>Updated Final Cut Pro Essentials Reversing Video Clips in Minutes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207319593-why-is-my-mouse-right-click-not-working-in-windows-10-solutions-inside/"><u>Why Is My Mouse Right Click Not Working in Windows 10? Solutions Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>[New] 2024 Approved 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-sparkle-and-shine-tips-to-preserve-your-snapstreak/"><u>[New] Sparkle and Shine Tips to Preserve Your Snapstreak</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-become-a-periscope-expert-with-our-full-guide-for-2024/"><u>[Updated] Become a Periscope Expert with Our Full Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-streamlining-your-iphones-gif-experience-from-savings-to-showtime/"><u>2024 Approved Streamlining Your iPhone's GIF Experience - From Savings to Showtime</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-usb-to-hdmi-adapters-a-step-by-nstep-guide/"><u>Fixing Issues with USB to HDMI Adapters: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-message-when-logging-into-windows-user-profile-service/"><u>Fixing the Critical Error Message When Logging Into Windows User Profile Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-troubleshoot-and-repair-a-non-functional-igfx-em-driver/"><u>Fixing the Issue: How to Troubleshoot and Repair a Non-Functional iGFX EM Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-activate-a-turned-off-wireless-connection-solutions-and-tips/"><u>How to Activate a Turned Off Wireless Connection - Solutions and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-expand-your-playnite-digital-library-on-windows-pcs/"><u>How to Expand Your Playnite Digital Library on Windows PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-master-control-over-video-velocity-on-snapchat-app/"><u>In 2024, Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kernel32dll-troubleshooting-guide/"><u>Kernel32.dll: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-microsoft-projector-adapter-connections-in-windows-10-environments/"><u>Overcoming Issues With Microsoft Projector Adapter Connections in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-resolving-sound-distortion-on-logitech-g93n-wireless-for-pcmac/"><u>Quick Guide: Resolving Sound Distortion on Logitech G93n Wireless for PC/Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-samsung-galaxy-a15-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Samsung Galaxy A15 5G has been deleted.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-exclusive-list-of-elite-christian-streaming-services-for-2024/"><u>The Exclusive List of Elite Christian Streaming Services for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-non-supported-video-input-timings-on-displays/"><u>Troubleshooting Guide: Addressing Non-Supported Video Input Timings on Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intel-rapid-storage-technology-when-it-stops-working-in-windows-11/"><u>Troubleshooting Intel Rapid Storage Technology When It Stops Working in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinct-features-of-home-theater-and-stereo-sound-receivers/"><u>Unraveling the Distinct Features of Home Theater & Stereo Sound Receivers</u></a></li>
 </ul></div>
 

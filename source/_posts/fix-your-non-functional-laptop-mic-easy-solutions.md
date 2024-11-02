@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2024-10-24T18:19:53.019Z
-updated: 2024-10-27T17:32:25.554Z
+date: 2024-10-27T09:05:02.597Z
+updated: 2024-11-02T08:22:16.718Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
 
  LogMeIn Hamachi is a certain type of application that needs the Windows Management Instrumentation service (WMI)’s help to run properly in the Windows system.  
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Run Hamachi to check the problem is still there or not.
 
 ---
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Move to**Log On** tab, make sure**Local System account** and**Allow service to interact with desktop** box has been checked. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
@@ -103,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
@@ -125,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  11) Run Hamachi to check the problem.  
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Check your antivirus software
 
@@ -139,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -161,9 +148,29 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap66.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
@@ -177,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 6) Run Hamachi to check the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Create a startup to automatically restart the Hamachi service
 
@@ -210,13 +210,6 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
@@ -239,6 +232,13 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap82.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Click the**Actions** tab and click the**New…** button.
 
  11) Set Action into**Start a program** .  
@@ -246,13 +246,6 @@ exit
  Click**OK** to save changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap79.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
 
@@ -278,10 +271,10 @@ OR
  You can download drivers from the manufacturer official website. Go to the website to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.). Then download the driver manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -295,6 +288,13 @@ OR
  1)[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/04/network1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
@@ -320,20 +320,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-blissful-bites-best-stress-busting-gaming-for-2024/"><u>[New] Blissful Bites Best Stress-Busting Gaming for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-startup-blues-effective-ways-to-resolve-freezing-problems-in-your-windows-10-system/"><u>Beat Startup Blues: Effective Ways to Resolve Freezing Problems in Your Windows 10 System</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-steps-upgrade-your-laptop-from-hdd-to-ssd-on-windows-710-without-a-full-reinstall/"><u>Easy Steps: Upgrade Your Laptop From HDD to SSD on Windows 7/10 Without a Full Reinstall</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-preventing-heat-in-w11-systems/"><u>Essential Steps for Preventing Heat in W11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-failed-to-update-messages-in-warframe-now-resolved/"><u>Expert Solutions to 'Failed to Update' Messages in Warframe – Now Resolved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-non-responsive-huion-pen-instantly-with-these-5-tips/"><u>Fix Your Non-Responsive Huion Pen Instantly with These 5 Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-mpeg-to-swf-converter-by-movavi-streamline-your-video-downloads/"><u>Free Online MPEG to SWF Converter by Movavi - Streamline Your Video Downloads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals/"><u>In 2024, Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-pairing-process-how-to-get-your-airpods-working-on-windows-11-latest-fixes/"><u>Master the Pairing Process: How to Get Your AirPods Working on Windows 11 – Latest Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mouse-cursor-disappears-on-windows-11-solved/"><u>Mouse Cursor Disappears on Windows 11 [Solved]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-a2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi A2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-virtual-webcams-and-live-software-discover-manycam-features/"><u>Top Virtual Webcams and Live Software: Discover ManyCam Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-directory-paths-for-optimal-site-functionality/"><u>Troubleshooting Invalid Directory Paths for Optimal Site Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-veiled-side-of-instagram-stories-what-youre-not-seeing/"><u>[New] 2024 Approved The Veiled Side of Instagram Stories What You're Not Seeing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-becoming-a-meet-maestro-chat-techniques-unveiled-for-2024/"><u>[New] Becoming a Meet Maestro Chat Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>[New] Choose Right GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-final-word-on-vegaspro-2019-for-2024/"><u>[New] The Final Word on VegasPro 2019 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameo-dvd/"><u>「Gameo DVD処理入門 - 安全かつ簡単なコピー方法を学ぶ」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-best-practices-in-updating-your-social-network-backdrop/"><u>2024 Approved Best Practices in Updating Your Social Network Backdrop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-review-insights-acevideo-editor-2023-edition/"><u>2024 Approved Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apple-prores-mp4-avi-wmv/"><u>Apple ProRes 動画の MP4 / AVI / WMV への完全高品質変換方法</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-selling-vr-games-on-oculus-devices/"><u>Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/craft-personalized-phone-alerts-from-songs-the-ultimate-walkthrough-for-iphones-and-android-devices/"><u>Craft Personalized Phone Alerts From Songs: The Ultimate Walkthrough for iPhones and Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-you-can-explore-instagram-profiles-anonymously/"><u>Discover How You Can Explore Instagram Profiles Anonymously</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-of-8-best-free-video-rotator-software-for-pc-users-both-offline-and-online/"><u>Discover the Ultimate List of 8 Best Free Video Rotator Software for PC Users, Both Offline & Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-transforming-webm-videos-into-mpeg-4-format/"><u>Easy Guide to Transforming WebM Videos Into MPEG-4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-to-converting-dss-files-into-high-quality-mp3s/"><u>Effortless Guide to Converting DSS Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-methods-for-syncing-video-captions-effortlessly/"><u>Effortless Methods for Syncing Video Captions Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-android/"><u>FLACファイルプレイヤーのセットアップ: Androidデバイス向けガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-ways-to-transcode-webm-files-into-mp3-audio-format-both-online-and-offline/"><u>Free Ways to Transcode WebM Files Into MP3 Audio Format Both Online and Offline</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-today-to-tomorrow-the-drone-evolution-story/"><u>From Today to Tomorrow The Drone Evolution Story</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-metaverse-and-omniverse-distinctions/"><u>In 2024, Exploring the Metaverse and Omniverse Distinctions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-10-22T18:10:34.920Z
-updated: 2024-10-27T18:06:42.212Z
+date: 2024-10-29T06:24:51.804Z
+updated: 2024-11-01T18:35:30.162Z
 tags:
   - win11
   - win10
@@ -43,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
@@ -70,10 +63,10 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2)  
@@ -88,6 +81,13 @@ Follow the steps here to update your Xbox One controller software.
  Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
 
@@ -107,16 +107,16 @@ With Pro version: Click **Update All**  to automatically download and install th
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -139,19 +139,20 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-highlights-proven-techniques-for-business-engagement-for-2024/"><u>[New] Leveraging Highlights Proven Techniques for Business Engagement for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] 2024 Approved Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-unlock-exclusive-savings-official-secure-your-free-digiarty-mac-application-reduction-code-now/"><u>1. Unlock Exclusive Savings: [OFFICIAL] Secure Your Free Digiarty Mac Application Reduction Code Now!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>2024 Approved Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-the-frozen-screen-strategies-to-revive-your-computer/"><u>Defeating the Frozen Screen: Strategies to Revive Your Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-screen-record-on-android-for-2024/"><u>How to Screen Record on Android for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-skype-record-simplified-techniques-for-dual-os-recording/"><u>In 2024, Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-syncing-hurdles-for-your-xbox-one-controller-a-comprehensive-guide/"><u>Overcoming Syncing Hurdles for Your Xbox One Controller - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-when-the-microsoft-store-wont-open/"><u>Troubleshooting Guide for When the Microsoft Store Won't Open</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-functional-hdmi-connector-via-usb/"><u>Troubleshooting Guide: Fixing a Non-Functional HDMI Connector via USB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-resolving-loadlibrary-error-code-87/"><u>Troubleshooting Guide: Successfully Resolving LoadLibrary Error Code 87</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reach-new-heights-top-7-applications-turning-your-art-into-nfts-for-2024/"><u>[Updated] Reach New Heights Top 7 Applications Turning Your Art Into NFTs for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-14-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 14 iCloud Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-apple-tv-4k-series-third-gen-model-evaluation/"><u>Comprehensive Apple TV 4K Series - Third Gen Model Evaluation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-understanding-winx-dvd-ripper-key-faqs-for-optimal-usage/"><u>Comprehensive Guide to Understanding WinX DVD Ripper - Key FAQs for Optimal Usage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-7-cameras-elevating-interactive-learning-vlogs-and-tutorials-for-2024/"><u>Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-analysis-ergonomic-furnitures-impact-on-efficiency/"><u>In 2024, A Comprehensive Analysis Ergonomic Furniture's Impact on Efficiency</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-new-windows-11-innovations/"><u>In 2024, Inside the New Windows 11 Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slice-and-edit-youtube-content-fast-with-the-youtube-shorten-technique/"><u>Slice & Edit YouTube Content Fast with the YouTube Shorten Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-how-to-resolve-shadowplays-audio-recording-glitch/"><u>Solution Found: How to Resolve ShadowPlay's Audio Recording Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adjusting-your-youtube-videos-aspect-ratio-perfectly/"><u>Step-by-Step Guide: Adjusting Your YouTube Videos' Aspect Ratio Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/tailored-web-experiences-powered-by-advanced-cookiebot-solutions/"><u>Tailored Web Experiences Powered by Advanced Cookiebot Solutions</u></a></li>
 </ul></div>
 

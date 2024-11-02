@@ -1,7 +1,7 @@
 ---
 title: "Efficient Tips: Reactivating the Windows Upgrade Feature When It's Not Working"
-date: 2024-10-26T17:58:58.475Z
-updated: 2024-10-27T17:30:18.234Z
+date: 2024-10-25T23:27:05.369Z
+updated: 2024-11-01T19:08:11.634Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Here are some solutions that have helped people resolve the same error. You don�
 3. [Re-enable touch screen](https://tools.techidaily.com/drivereasy/download/)
 4. [Update touch screen driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Force a shut down and restart
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
@@ -49,10 +56,10 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
@@ -68,49 +75,42 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
 3. Double click**Human Interface Devices** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
 
@@ -127,10 +127,10 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
@@ -153,20 +153,22 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-visual-voyage-through-youtubes-2017-data-deluge-for-2024/"><u>[New] A Visual Voyage Through Youtube's 2017 Data Deluge for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-by-step-instagram-videos-that-wow-viewers/"><u>[New] In 2024, Step-by-Step Instagram Videos that Wow Viewers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-integrate-insta-tweet-and-snap-a-comprehensive-guide-for-2024/"><u>[Updated] Integrate Insta, Tweet & Snap A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photography-toolkit-a-comprehensive-app-analysis/"><u>[Updated] Photography Toolkit A Comprehensive App Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-audio-element-in-instagram-storytelling/"><u>2024 Approved Perfecting the Audio Element in Instagram Storytelling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-to-overcome-installation-setbacks-solving-error-1603/"><u>Complete Guide to Overcome Installation Setbacks: Solving Error 1603</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-when-your-lenovo-fingerprint-recognition-stops-working/"><u>Effortless Fixes for When Your Lenovo Fingerprint Recognition Stops Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-crackling-sounds-from-pc-speakers-on-windowss/"><u>Expert Advice: Eliminating Crackling Sounds From PC Speakers on Windowss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-dirty-volume-problem-with-code-0x80071ac3-on-your-pc/"><u>Fixing the Dirty Volume Problem with Code 0X80071AC3 on Your PC</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-60-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo 60 Pro 5G Lock Screen Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-released-thunderbolt-3-support-for-your-lenovo-thinkpad-update-guide/"><u>Newly Released Thunderbolt 3 Support for Your Lenovo ThinkPad – Update Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-no-cost-replacements-for-adobe-creative-suite-on-windows-pcs/"><u>Top No-Cost Replacements for Adobe Creative Suite on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-and-prevent-error-0x8000ffff-from-crashing-your-windows-system/"><u>Top Strategies to Overcome and Prevent Error 0X8000ffff From Crashing Your Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-woes-heres-how-to-fix-connection-issues/"><u>Xbox One Controller Woes? Here’s How to Fix Connection Issues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-best-ff-browser-add-ons-for-fb-videos/"><u>[New] In 2024, Best FF Browser Add-Ons for FB Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-guide-for-thriving-youtube-channels-with-cp/"><u>2024 Guide for Thriving YouTube Channels with CP</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969379361-effortless-install-of-nvidia-geforce-rtx-drivers-for-windows-10-direct-download-page/"><u>Effortless Install of NVIDIA GeForce RTX Drivers for Windows 10 - Direct Download Page</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-to-rectify-typing-issues-on-your-pc-for-windows-11-7-and-8/"><u>Essential Tips to Rectify Typing Issues on Your PC - For Windows 11, 7, and 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-no-battery-found-issue-instantly-simple-solutions/"><u>Fix 'No Battery Found' Issue Instantly - Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-ftdi-sync-errors-dealing-with-memory-integrity-loss-from-mismatched-drivers/"><u>Handling FTDI Sync Errors: Dealing with Memory Integrity Loss From Mismatched Drivers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-in-3d-color-grading-with-custom-luts/"><u>In 2024, Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-transforming-video-into-melody-cutting-edge-audio-retrieval-in-multimedia/"><u>New 2024 Approved Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/nouvelle-version-de-abbyy-finereader-15-facilitez-la-digitisation-rapide-et-efficace-les-informations-essentielles/"><u>Nouvelle Version De ABBYY FineReader 15 : Facilitez La Digitisation Rapide Et Efficace - Les Informations Essentielles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-with-initializing-3d-device-components-in-directx/"><u>Overcoming Challenges with Initializing 3D Device Components in DirectX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steams-inaccessible-game-servers/"><u>Resolving Steam's Inaccessible Game Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-ue4-madness-how-to-resolve-the-notorious-unreal-process-has-crashed-issue-in-outriders/"><u>Say Goodbye to UE4 Madness: How to Resolve the Notorious 'Unreal Process Has Crashed' Issue in Outriders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y77t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y77t Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-processor-usage-linked-to-windows-sound-device-graph-issue/"><u>Troubleshooting High Processor Usage Linked to Windows Sound Device Graph Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-get-your-lenovo-fingerprint-sensor-working-again/"><u>Troubleshooting Tips to Get Your Lenovo Fingerprint Sensor Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-astro-a40s-unresponsive-mic-solutions-revealed/"><u>Troubleshooting Your Astro A40's Unresponsive Mic - Solutions Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-tackling-videodxgkrnlfatalerror-on-your-pc-with-windows/"><u>Ultimate Guide: Tackling Video_Dxgkrnl_Fatal_Error on Your PC with Windows</u></a></li>
 </ul></div>
 

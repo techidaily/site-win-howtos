@@ -1,7 +1,7 @@
 ---
 title: "Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now"
-date: 2024-10-24T17:17:57.203Z
-updated: 2024-10-27T18:13:34.408Z
+date: 2024-10-29T18:53:27.851Z
+updated: 2024-11-02T11:37:23.367Z
 tags:
   - win11
   - win10
@@ -47,23 +47,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then see if the Local Security Authority Protection is still off.
@@ -73,10 +73,10 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-25.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
@@ -94,15 +94,16 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
@@ -124,21 +125,20 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
@@ -155,6 +155,14 @@ Then see if the Local Security Authority Protection is still off.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -182,20 +190,20 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-the-value-of-sns-hdr-in-a-crowded-market/"><u>[New] Evaluating the Value of SNS HDR in a Crowded Market</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamline-communications-with-these-best-5-capture-tools/"><u>[Updated] In 2024, Streamline Communications with These Best 5 Capture Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>2024 Approved Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-overcome-minecraft-lan-play-connectivity-errors/"><u>Effective Ways to Overcome Minecraft LAN Play Connectivity Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 11 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lsa-safety-measures-fully-operational-again-secure-your-system-now/"><u>LSA Safety Measures Fully Operational Again - Secure Your System Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-a-look-at-how-nba-2k21s-green-glitch-was-conquered/"><u>Overcoming Challenges: A Look at How NBA 2K21’s Green Glitch Was Conquered</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-premiere-pro-blueprints-best-free-2023-for-2024/"><u>Prime Premiere Pro Blueprints - Best Free 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-freezing-taskbars-in-windows-11-most-efficient-methods/"><u>Resolving Freezing Taskbars in Windows 11 – Most Efficient Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-interactions-today-with-top-9-chatgpt-tool-enhancements/"><u>Revolutionize Your Interactions Today with Top 9 ChatGPT Tool Enhancements</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-sims-4-not-launching-problem-effective-solutions/"><u>Solving the 'Sims 4 Not Launching' Problem: Effective Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-allure-of-moderation-exploring-the-exceptional-qualities-and-power-dynamics-in-the-google-pixel-5/"><u>The Allure of Moderation: Exploring the Exceptional Qualities & Power Dynamics in the Google Pixel 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-correct-windows-11-bluetooth-connection-issues-easily/"><u>Troubleshoot and Correct Windows 11 Bluetooth Connection Issues Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-midgard-the-tribal-clashes/"><u>Troubleshooting and Solutions for Midgard: The Tribal Clashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-filming-friends-directly-share-videos-on-twitter/"><u>[New] 2024 Approved Filming Friends Directly Share Videos on Twitter</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-masterclass-for-srt-editing-in-macos-for-2024/"><u>[New] Masterclass for SRT Editing in macOS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid/"><u>[Updated] Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmv-mp45/"><u>無料WMV-MP4変換技術トップ5ヒント</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhanced-performance-with-updated-nvidia-geforce-210-drivers-on-windows-10/"><u>Enhanced Performance with Updated NVIDIA GeForce 210 Drivers on Windows 10</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gratuite-de-la-conversion-oma-a-ligne-movavi-un-guide-complet/"><u>Gratuité De La Conversion OMA À Ligne - Movavi: Un Guide Complet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-privileges-fixing-and-preventing-missing-steam-file-problems/"><u>Mastering Privileges: Fixing and Preventing Missing Steam File Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-the-most-frequent-chatgpt-mishaps-a-guide-to-quick-fixes/"><u>Overcoming the Most Frequent ChatGPT Mishaps – A Guide to Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-psp-video-transcoder-apps-perfect-companion-for-reviving-your-vintage-psp/"><u>Top-Rated PSP Video Transcoder Apps: Perfect Companion for Reviving Your Vintage PSP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-recording-your-pc-gaming-sessions-with-unlimited-options/"><u>Ultimate Guide to Recording Your PC Gaming Sessions with Unlimited Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vudu-disc-upload-transforming-physical-media-into-digital-movie-collections/"><u>Vudu Disc Upload: Transforming Physical Media Into Digital Movie Collections</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-media-converter-mp4-to-mp3-transformation/"><u>Windows 10 Media Converter - MP4 to MP3 Transformation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wonderfox-your-premier-destination-for-engaging-and-informative-soft-news/"><u>WonderFox: Your Premier Destination for Engaging and Informative Soft News</u></a></li>
 </ul></div>
 

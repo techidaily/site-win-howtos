@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2024-10-20T16:34:42.637Z
-updated: 2024-10-27T16:12:05.151Z
+date: 2024-10-29T16:05:48.833Z
+updated: 2024-11-02T11:35:37.236Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -106,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -124,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -141,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -156,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -166,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -182,16 +189,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -203,13 +204,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -238,16 +232,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[New] 2024 Approved Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-in-class-androids-cloud-storage-companions/"><u>[New] Best in Class Android's Cloud Storage Companions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators/"><u>[New] In 2024, Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] In 2024, Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-understanding-aspect-ratio-regulations-on-twitter/"><u>2024 Approved Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/efficiencyinusingyourwebcamforcapturing-for-2024/"><u>EfficiencyInUsingYourWebcamForCapturing for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-usb-connectivity-problems-a-guide-to-handling-unknown-devices-and-failed-port-resets/"><u>Fixing Windows 10 USB Connectivity Problems: A Guide to Handling Unknown Devices & Failed Port Resets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halo-4-and-unreal-engine-4-overcoming-the-critical-2024-ue4-game-crash-issue/"><u>Halo 4 and Unreal Engine 4 - Overcoming the Critical 2024 UE4 Game Crash Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-windows-unable-to-find-play-source-issue/"><u>Troubleshooting Steps for the 'Windows - Unable to Find Play Source' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-through-the-best-screen-recorders-for-teaching/"><u>[New] In 2024, Navigating Through the Best Screen Recorders for Teaching</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-video-capturing-duel-obs-challenges-shadowgl/"><u>[New] In 2024, Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-30-heatsinks-for-ssds-high-performance-benchmarking-and-top-picks/"><u>Comprehensive Review of 30 Heatsinks for SSDs - High Performance Benchmarking and Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/customize-your-video-flow-a-camtasia-tutorial-on-speed-adjustment-for-2024/"><u>Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-unexpected-startup-problems-in-windows-11-systems/"><u>Diagnosing and Solving Unexpected Startup Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-troubleshoot-and-fix-android-file-transfer-problems/"><u>Effective Strategies to Troubleshoot and Fix Android File Transfer Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-not-registered-errors-for-windows-10-applications-effective-solutions/"><u>Fixing 'Not Registered' Errors for Windows 10 Applications: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-cyclic-redundancy-check-errors-in-your-system-a-comprehensive-guide/"><u>How to Fix Cyclic Redundancy Check Errors in Your System: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-12plus-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 12+ 5G Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-sticky-or-broken-fn-keys-expert-advice-for-dell-laptop-users/"><u>Overcoming Sticky or Broken Fn Keys: Expert Advice for Dell Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-11-blue-screen-problem/"><u>Solving the Windows 11 Blue Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-unresponsive-microphones-in-windows-10-systems/"><u>Step-by-Step Repair for Unresponsive Microphones in Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-getting-your-corsair-void-pro-drivers-installed-on-windows/"><u>Step-by-Step Tutorial: Getting Your Corsair Void Pro Drivers Installed on Windows!</u></a></li>
 </ul></div>
 

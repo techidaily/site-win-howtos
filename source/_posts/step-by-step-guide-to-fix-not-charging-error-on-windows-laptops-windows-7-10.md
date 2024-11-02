@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix 'Not Charging' Error on Windows Laptops (Windows 7, 10)
-date: 2024-10-25T16:18:12.040Z
-updated: 2024-10-27T16:49:22.251Z
+date: 2024-10-27T21:14:26.084Z
+updated: 2024-11-01T20:47:19.827Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -45,10 +58,17 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -63,23 +83,9 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -88,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -108,13 +107,34 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -126,16 +146,16 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -149,25 +169,11 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -196,18 +202,19 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-fair-assessment-unveiling-recordcasts-capabilities-for-2024/"><u>[New] A Fair Assessment Unveiling RecordCast's Capabilities for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-gadget-guidance-getting-into-googles-video-conference/"><u>[Updated] Gadget Guidance Getting Into Google's Video Conference</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>[Updated] Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connectivity-solutions-how-to-address-and-fix-a-broken-server-link/"><u>Connectivity Solutions: How to Address and Fix a Broken Server Link</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/direct-send-from-camera-roll-your-easy-to-follow-guide-for-2024/"><u>Direct Send From Camera Roll Your Easy-to-Follow Guide for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-move-your-windows-11-system-to-an-ssd-comprehensive-tutorial-on-both-approaches/"><u>How to Move Your Windows 11 System to an SSD - Comprehensive Tutorial on Both Approaches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-6s-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 6s Plus In Easy Steps | Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m34-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M34 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860457247-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010-for-2024/"><u>Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10). For 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-troubleshooting-fixing-problems-on-windows-10-8-and-7/"><u>Laptop Trackpad Troubleshooting: Fixing Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-high-performance-tech-by-toms-hardware-professionals/"><u>The Ultimate Guide to High-Performance Tech by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-unable-to-connect-to-remote-server-issues/"><u>Troubleshooting Steps: Resolving 'Unable to Connect to Remote Server' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-peripheral-troubles-restoring-mouse-and-keyboard-functionality-on-windows-7-computers/"><u>USB Peripheral Troubles: Restoring Mouse and Keyboard Functionality on Windows 7 Computers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-money-matters-choosing-best-stocks-yts-guide/"><u>[New] 2024 Approved Money Matters Choosing Best Stocks YTs Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-beginners-guide-to-interpreting-facebook-metrics/"><u>[New] In 2024, Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-5-ps1-emulation-software-on-modern-computers/"><u>[Updated] In 2024, Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/converting-personal-memories-from-stillness-to-motion/"><u>Converting Personal Memories From Stillness to Motion</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-bluetooth-keyboard-drivers-on-windows-11-step-by-step/"><u>Download Logitech Bluetooth Keyboard Drivers on Windows 11 - Step by Step</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-magic-5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor Magic 5</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unmatched-choice-our-top-8-no-cost-high-quality-video-software/"><u>In 2024, Unmatched Choice Our Top 8 No-Cost, High-Quality Video Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-your-mp4-files-into-high-quality-wav-format-using-the-latest-audacity-software/"><u>Step-by-Step Tutorial: Transforming Your MP4 Files Into High-Quality WAV Format Using the Latest Audacity Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-comprehensive-walkthrough-for-dvd-content-transfer-between-pcs-and-macs/"><u>The Comprehensive Walkthrough for DVD Content Transfer Between PCs and Macs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-xvid-to-mp4-converter-software-simple-steps-for-windows-users/"><u>Top Rated No-Cost Xvid to Mp4 Converter Software - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-downloading-high-quality-flac-songs/"><u>Top Strategies for Downloading High-Quality FLAC Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
 </ul></div>
 

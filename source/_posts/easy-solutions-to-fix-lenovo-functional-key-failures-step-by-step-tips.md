@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-10-23T17:55:47.605Z
-updated: 2024-10-27T16:12:05.025Z
+date: 2024-10-26T18:18:06.727Z
+updated: 2024-11-02T09:05:06.508Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -57,17 +64,17 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -81,16 +88,17 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -113,22 +121,15 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -163,17 +164,17 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-imovie-smoothly-incorporate-online-videos-soundtracks/"><u>[New] 2024 Approved IMovie Smoothly Incorporate Online Videos' Soundtracks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-tricks-for-capturing-your-google-meeting-experience-flawlessly/"><u>[New] In 2024, Top Tricks for Capturing Your Google Meeting Experience Flawlessly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effortlessdataback-take/"><u>2024 Approved EffortlessDataback Take</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-night-light-feature-in-windows-11/"><u>Fixing the Issue: How to Restore Night Light Feature in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-device-driver-issue-step-by-step-guide-for-windows-answer/"><u>Fixing the Missing Device Driver Issue: Step-by-Step Guide for Windows [Answer]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-critical-failures-and-fatal-mistakes-in-call-of-duty-black-ops-4/"><u>How to Resolve Critical Failures & Fatal Mistakes in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-k70-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi K70 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dxgkrnl-fatal-error-in-videos-on-windows-systems/"><u>Resolving the DXGKRNL Fatal Error in Videos on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-the-logitech-g230-microphone-fixed/"><u>Solving Common Issues with the Logitech G230 Microphone [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-web-connection-woes-tips-to-address-the-err-internet-disconnected-message/"><u>Solving Your Web Connection Woes: Tips to Address the 'ERR INTERNET DISCONNECTED' Message</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-no-sound-issues-with-your-beyond-the-wire-microphone/"><u>Troubleshooting Guide: How To Repair 'No Sound' Issues With Your Beyond The Wire Microphone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[New] 2024 Approved Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-for-powerpoint-voiceover-excellence/"><u>[Updated] In 2024, Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avchd-mp4windows-1011/"><u>AVCHDへの変換: MP4ファイルをWindows 10/11環境下でオンラインツールと無料ソフトウェアを使用してどうやったらいいか</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-calcium-ion-caplus-and-potassium-ion-kplus/"><u>Comparing Calcium Ion (Ca+) and Potassium Ion (K+):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-for-installing-the-kodi-magic-content-extension-by-no-limits-quick-and-easy-steps-inside/"><u>Comprehensive Walkthrough for Installing the Kodi Magic Content Extension by No Limits - Quick & Easy Steps Inside!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>In 2024, In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-spotlight-top-twitters/"><u>Social Media Spotlight Top Twitters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
 </ul></div>
 

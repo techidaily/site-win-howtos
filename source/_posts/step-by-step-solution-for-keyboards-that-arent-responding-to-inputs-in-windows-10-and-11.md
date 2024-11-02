@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-10-21T17:10:30.031Z
-updated: 2024-10-27T16:55:05.068Z
+date: 2024-10-27T18:52:38.569Z
+updated: 2024-11-02T03:37:11.750Z
 tags:
   - win11
   - win10
@@ -74,19 +74,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -117,12 +104,33 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -135,33 +143,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -190,18 +184,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-alternatives-to-game-bar-for-video-recording/"><u>[New] 2024 Approved Exploring Alternatives to Game Bar for Video Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-deleted-and-found-again-streaming-yts-forgotten-videos-for-2024/"><u>[Updated] Deleted and Found Again Streaming YT’s Forgotten Videos for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-ultimate-list-of-the-most-effective-no-cost-tiktok-to-mp3-apps-6/"><u>[Updated] In 2024, Ultimate List of the Most Effective, No-Cost TikTok To MP3 Apps (6)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-revolutionize-viewing-experience-the-best-yt-reaction-methods-for-2024/"><u>[Updated] Revolutionize Viewing Experience The Best YT Reaction Methods for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-frozen-google-chrome-browser-tips-and-solutions/"><u>Fixing a Frozen Google Chrome Browser - Tips & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-network-setup-errors-for-an-optimal-dragon-ball-fighterz-gaming-experience/"><u>Fixing Network Setup Errors for an Optimal Dragon Ball FighterZ Gaming Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-converter-turn-your-png-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Turn Your PNG Images Into JPEG Format with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-missing-fixservice-registry-entry-issue-in-windows-10/"><u>Resolving 'Missing' FixService Registry Entry Issue in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-12-free-keyboard-mastery-classes-for-every-age-group/"><u>Top 12 Free Keyboard Mastery Classes for Every Age Group</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It's Missing)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiederherstellung-verlorener-dateien-unter-windows-eine-umfassende-anleitung/"><u>Wiederherstellung Verlorener Dateien Unter Windows: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-keyboard-latency-issues-now-fixed/"><u>Windows 11 Keyboard Latency Issues - Now Fixed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-perfect-harmony-how-to-add-audio-content-in-adobe-premiere/"><u>[New] 2024 Approved Perfect Harmony How To Add Audio Content in Adobe Premiere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-engagement-share-tiktoks-on-twitter/"><u>[New] Enhancing Engagement Share TikToks on Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ghoul-gags-generator/"><u>[Updated] Ghoul Gags Generator</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g73-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G73 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-time-sensitive-issues-with-error-1053-enhancing-service-communication-and-availability/"><u>Correcting Time-Sensitive Issues with Error 1053: Enhancing Service Communication and Availability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-annoying-usb-keeps-disconnecting-a-step-by-step-solution/"><u>Fixing the Annoying 'USB Keeps Disconnecting': A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-typing-issues-why-and-how-to-fix-key-malfunctions/"><u>Fixing Typing Issues: Why and How to Fix @ Key Malfunctions</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/how-governments-are-going-paperless-with-digital-identity-verification-solutions/"><u>How Governments Are Going Paperless with Digital Identity Verification Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-0x80240034-update-error/"><u>How to Fix the Windows 11 0X80240034 Update Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-issues-when-wireless-connectivity-is-disabled/"><u>How To Resolve Issues When Wireless Connectivity Is Disabled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>In 2024, Excellent Video & Picture Capture for iPhones & Androids Here!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-gamified-learning-educational-youtubers-to-subscribe/"><u>In 2024, Gamified Learning Educational YouTubers to Subscribe</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-lava-yuva-2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Lava Yuva 2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-unintended-letter-selection-when-typing/"><u>Resolved Issue: Unintended Letter Selection When Typing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-combat-computer-stalling-and-restore-performance/"><u>Step-by-Step Tutorial: Combat Computer Stalling and Restore Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206478583-stop-laptop-frustrations-charge-that-battery-in-no-time-with-these-fixes/"><u>Stop Laptop Frustrations: Charge That Battery in No Time with These Fixes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-mac-owners-discover-top-8-no-cost-4k-viewers/"><u>Windows Mac Owners - Discover Top 8 No-Cost 4K Viewers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-10-23T18:25:06.545Z
-updated: 2024-10-27T18:22:57.096Z
+date: 2024-10-28T04:47:58.536Z
+updated: 2024-11-02T00:04:12.471Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -61,6 +48,13 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -75,6 +69,13 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -86,16 +87,23 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -106,15 +114,22 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
@@ -133,22 +148,8 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +188,24 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ensuring-privacy-in-zoom-meetings-by-recording/"><u>[New] In 2024, Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-the-hurdles-in-teredos-network-connection-process/"><u>Deciphering the Hurdles in Teredo's Network Connection Process</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discerning-divergence-360-video-vs-virtual-reality/"><u>Discerning Divergence 360° Video Vs. Virtual Reality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-9-destinations-for-gratis-early-childhood-education-games/"><u>Discover the Ultimate 9 Destinations for Gratis Early Childhood Education Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elegant-exteriors-discover-the-best-websites-for-your-laptops-look/"><u>Elegant Exteriors Discover the Best Websites for Your Laptop's Look</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208360473-get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips.</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y78t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-with-destiny-2-servers-when-theyre-down/"><u>How to Restore Connectivity with Destiny 2 Servers When They're Down</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instaloops-unlocked-the-addictive-power-of-instagrams-boomers-for-2024/"><u>InstaLoops Unlocked The Addictive Power of Instagram's Boomers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-the-troublesome-windows-error-understanding-and-fixing-0x8000ffff/"><u>Overcoming the Hurdle of the Troublesome Windows Error: Understanding and Fixing 0X8000FFFF</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-building-errors-resolved-load-up-without-interruption/"><u>PUBG Building Errors Resolved: Load Up Without Interruption</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/red-screen-resolved-step-by-step-fix-for-common-software-glitches/"><u>Red Screen Resolved: Step-by-Step Fix for Common Software Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-update-error-0xc1900208-step-by-step-tutorial/"><u>Resolve Your Windows 11 Update Error (0xC1900208) - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-a-persistent-laptop-displaying-only-a-white-screen/"><u>Resolved: How to Fix a Persistent Laptop Displaying Only a White Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201338798-spacebar-key-stuck-or-unresponsive-in-windows-11-heres-what-to-do/"><u>Spacebar Key Stuck or Unresponsive in Windows 11? Here's What to Do</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-your-ipad-wont-pair-with-wi-fi-at-home-or-work/"><u>The Ultimate Fix for When Your iPad Won't Pair with Wi-Fi at Home or Work</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windowsmac-meeting-record-skype-guide/"><u>[New] Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/46ver/"><u>「乃木坂46」楽曲フルver.無料ダウンロード方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030670934-3/"><u>連続して3枚のビデオを効果的に一画面表示するテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5a6m5ywo44k544kv44oq44o844oz44os44kz44o844oh44kj44oz44kw44gn44gn44ga44cb44gd44gu5y6f5zug44ks6kqs5pio44gx44gplus44gz/"><u>完全スクリーンレコーディングできず、その原因を説明します</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/chatcam-video-saver-app-for-2024/"><u>ChatCam Video Saver App for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-gpt4all-a-comprehensive-guide/"><u>Exploring the Capabilities of GPT4All – A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guaranteeing-unhindered-printer-usage-on-windows-11/"><u>Guaranteeing Unhindered Printer Usage on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-pro-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Pro Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-new-frontiers-in-file-browsing-insights-into-upcoming-search-innovations-by-copernic/"><u>Navigating New Frontiers in File Browsing: Insights Into Upcoming Search Innovations by Copernic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028866954-nhk/"><u>NHKオンデマンドコンテンツを効果的に保存するための手引き</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-ultra-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Ultra Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-rated-free-wmv-video-joiner-programs/"><u>Updated 2024 Approved Top-Rated Free WMV Video Joiner Programs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029828019-wavmp3/"><u>WAV形式へのMP3ファイル変換手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030393316-youtube/"><u>YouTube動画のサムネイルアイコンを取得する究極ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030030122-youtubeiphone/"><u>YouTubeからiPhoneへ: 個人用動画保存とダウンロードの手順</u></a></li>
 </ul></div>
 

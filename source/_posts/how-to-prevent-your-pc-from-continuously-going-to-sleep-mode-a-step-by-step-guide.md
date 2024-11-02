@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2024-10-22T16:12:20.577Z
-updated: 2024-10-27T17:58:47.368Z
+date: 2024-10-27T08:55:44.922Z
+updated: 2024-11-02T13:19:19.557Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -76,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -93,16 +93,29 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 3. Click**Screen saver settings** at the bottom of the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -112,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 3. Click the**Change screen saver** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
@@ -124,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 5. Check to see if your computer keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -146,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
@@ -159,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 3. In the right pane, double-click on**Attributes** to modify it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
@@ -209,22 +215,24 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[Updated] How to Loop a YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-maximize-your-valorant-potential-try-this-costless-game-changer-today-for-2024/"><u>[Updated] Maximize Your Valorant Potential - Try This Costless Game Changer Today for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehve-solutions-for-stabilizing-robocop-rogue-city-when-running-on-pc-platforms/"><u>Comprehve Solutions for Stabilizing RoboCop: Rogue City When Running on PC Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-device-not-showing-up-via-bluetooth-in-windows-10/"><u>Diagnose & Repair: Device Not Showing Up via Bluetooth in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y56-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y56 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone XS?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>In 2024, Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-livekernelevent-141-hardware-glitches-2024-edition/"><u>Overcoming LiveKernelEvent 141 Hardware Glitches, 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-issues-successful-steps-for-troubleshooting-steam-download-failures/"><u>Resolving Your Issues: Successful Steps for Troubleshooting Steam Download Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/settling-cldll-non-existence-in-devices/"><u>Settling ClDLL Non-Existence in Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-persistent-error-code-0x80072f8f-in-windows-10-and-11/"><u>Troubleshooting and Fixing the Persistent Error Code 0X80072F8f in Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-creation-of-d3d-device-after-failure/"><u>Troubleshooting Guide: Successful Creation of D3D Device After Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-your-driverpowerstatefailure-issue/"><u>Troubleshooting Tips to Fix Your DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-intermittent-system-power-failures-on-pcs/"><u>Understanding & Correcting Intermittent System Power Failures on PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>[New] In 2024, Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>[New] Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-reality-of-youtubes-fast-subscribe-technique/"><u>[New] The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-6-best-video-grabbers-for-mac/"><u>2024 Approved 6 Best Video Grabbers for Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-second-stories-explained-well-for-2024/"><u>5-Second Stories Explained Well for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-remote-recording-a-step-by-step-guide/"><u>In 2024, Efficient Remote Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-your-image-picsart-bg-erasure-technique/"><u>In 2024, Unveiling Your Image Picsart Bg Erasure Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movwindows-113/"><u>MOV動画が効率よくWindows 11上でどのように再生可能か、その3つの方法を解説する</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3wavdavinci-resolve/"><u>MP3、WAVファイル読み込みに失敗するDaVinci Resolveでのトラブルシューティング方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimized-titles-for-syncing-your-iphone-asteroids-with-the-p90x3-workout-regimen/"><u>Optimized Titles for Syncing Your iPhone Asteroids with the P90X3 Workout Regimen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-not-found-no-more-navigate-with-ease-using-wonderfoxs-advanced-solutions/"><u>Page Not Found No More! Navigate with Ease Using WonderFox's Advanced Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pctwitch-live-stream/"><u>PC上のTwitch Live Stream確認・記録・保管ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pcavi4/"><u>PC用のベスト無料Avi圧縮ソフト4推薦品</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pcaudacity/"><u>PCでAudacityを活用した上等なサウンドレコーディングと代替ソリューション</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-techniques-for-removing-the-last-thirty-seconds-on-pc-video-editing-tips-inside/"><u>Quick & Simple Techniques for Removing the Last Thirty Seconds on PC - Video Editing Tips Inside!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-setup-how-to-easily-install-the-newest-drivers-for-intel-iris-540-chipset/"><u>Quick Setup: How to Easily Install the Newest Drivers for Intel Iris 540 Chipset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shrink-your-videos-a-step-by-step-guide-to-achieving-less-than-50mb-sizes-on-pcs/"><u>Shrink Your Videos: A Step-by-Step Guide to Achieving Less than 50MB Sizes on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/survivals-tightrope-ranking-the-top-8-zombie-adventures-for-2024/"><u>Survival's Tightrope Ranking the Top 8 Zombie Adventures for 2024</u></a></li>
 </ul></div>
 

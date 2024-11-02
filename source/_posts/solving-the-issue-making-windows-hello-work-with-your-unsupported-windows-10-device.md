@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Making Windows Hello Work with Your Unsupported Windows 10 Device"
-date: 2024-10-26T16:19:03.952Z
-updated: 2024-10-27T17:13:03.429Z
+date: 2024-10-27T20:10:43.390Z
+updated: 2024-11-02T10:56:19.672Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -45,14 +52,28 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -65,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
@@ -80,20 +94,13 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
@@ -102,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -116,22 +130,8 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -156,22 +156,21 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-path-to-making-popular-twitch-channels/"><u>[New] The Path to Making Popular Twitch Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives/"><u>[Updated] 2024 Approved Immortalize Instants with Ease Dive Into Gratis Cloud Services & Paid Alternatives</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-remove-youtube-videos-for-2024/"><u>[Updated] How to Remove YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-woes-unveiled-top-issues-with-ai-chatbots/"><u>ChatGPT Woes Unveiled - Top Issues with AI Chatbots</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/complete-review-of-logitechs-advanced-4k-video-camera/"><u>Complete Review of Logitech's Advanced 4K Video Camera</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-no-rest-for-the-wicked-game-crashing-issues-on-your-computer/"><u>Diagnosing and Repairing 'No Rest for the Wicked' Game Crashing Issues on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-your-compromised-windows-store-cache/"><u>How to Repair and Restore Your Compromised Windows Store Cache</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-broken-logitech-mouse-scroll-wheel-step-by-step-solution/"><u>How To Restore Functionality of Your Broken Logitech Mouse Scroll Wheel | Step by Step Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager in Windows 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-installation-error-code-80240020-a-step-by-step-solution/"><u>Overcoming Windows 10 Installation Error Code 80240020 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-to-enable-wifi-hotspot-via-usb-on-windows-11/"><u>Quick and Simple Guide to Enable WiFi Hotspot via USB on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-failure-of-group-policy-client-login-issues-on-windows/"><u>Resolved: Fixing Failure of Group Policy Client Login Issues on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredo-connectivity-issue-now-resolved/"><u>Teredo Connectivity Issue – Now Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-hacks-for-uninterrupted-gaming-eliminate-lag-in-minecraft-today/"><u>Ultimate Hacks for Uninterrupted Gaming: Eliminate Lag in Minecraft Today!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-capture-top-10-windows-11-cam-recorders/"><u>[New] 2024 Approved Cutting-Edge Capture Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[New] In 2024, Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-excellent-tech-for-high-definition-recording-for-2024/"><u>[New] Unveiling the Excellent Tech for High-Definition Recording for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-the-nuances-of-twitters-video-policies/"><u>[Updated] 2024 Approved Navigating the Nuances of Twitter's Video Policies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-experience-achieved-solutions-for-insurgency-sandstorm-stability-issues/"><u>Crash-Free Gaming Experience Achieved – Solutions for Insurgency: Sandstorm Stability Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-fixing-media-not-recognized-in-windows-environment/"><u>DIY Solutions for Fixing Media Not Recognized in Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gaming-performance-with-the-recent-update-of-nvidia-geforce-210-drivers-for-windows-10/"><u>Enhance Gaming Performance with the Recent Update of Nvidia GeForce 210 Drivers for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208810066-eradicate-your-valorant-screen-shake-or-tear-problem-now/"><u>Eradicate Your Valorant Screen Shake or Tear Problem Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-keyboard-glitch-how-to-restore-spacebar-functionality-in-windows-11/"><u>Fixing the Keyboard Glitch: How to Restore Spacebar Functionality in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-pairing-problems-with-bluetooth-devices-on-windows-10-tips/"><u>How to Overcome Pairing Problems with Bluetooth Devices on Windows 10 - Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-latvian-like-a-native-a-daily-dedication/"><u>Learn Latvian Like a Native: A Daily Dedication</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/searching-for-windows-hello-camera-fit/"><u>Searching for Windows Hello Camera Fit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silencing-netflixs-noise-issues-simple-steps-to-perfect-playback/"><u>Silencing Netflix's Noise Issues: Simple Steps to Perfect Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-windows-10s-persistent-error-0xc1900208-during-updates-effective-solutions-unveiled/"><u>Tackling Windows 10'S Persistent Error 0Xc1900208 During Updates – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-undetected-wi-fi-on-your-windows-11-device/"><u>Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10-video-editing-software-best-imovie-alternatives/"><u>Updated In 2024, Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
 </ul></div>
 

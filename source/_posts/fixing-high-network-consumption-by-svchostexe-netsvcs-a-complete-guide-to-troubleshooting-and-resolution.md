@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2024-10-22T18:11:22.555Z
-updated: 2024-10-27T18:09:52.367Z
+date: 2024-10-29T02:12:09.897Z
+updated: 2024-11-02T06:40:11.618Z
 tags:
   - win11
   - win10
@@ -41,30 +41,38 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,32 +87,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -116,22 +118,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -177,18 +165,19 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-rank-the-best-fb-video-downloaders-heres-how/"><u>[New] Rank the Best FB Video Downloaders - Here's How</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-finest-4-sites-for-tones/"><u>[New] Unveiling the Finest 4 Sites for Tones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-express-yourself-accessibility-available-for-free/"><u>[Updated] 2024 Approved Express Yourself, Accessibility Available for Free</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/configuration-complete-resource-lacking-response/"><u>Configuration Complete; Resource Lacking Response</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206639669-geforce-shadowplay-not-working-heres-how-to-get-it-up-and-running/"><u>GeForce ShadowPlay Not Working? Here's How to Get It Up and Running!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2vwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2Vwith/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y02t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y02T</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-google-pixel-8-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Google Pixel 8 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-picture-warping-techniques-with-various-apps/"><u>In 2024, Mastering Picture Warping Techniques with Various Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-dell-laptops-dead-keys-expert-fixes-for-non-responsive-buttons/"><u>Revive Your Dell Laptop's Dead Keys: Expert Fixes for Non-Responsive Buttons</u></a></li>
-<li><a href="https://facebook.techidaily.com/steering-away-from-sensational-selfies-sharing-at-meta/"><u>Steering Away From Sensational Selfies Sharing at Meta</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-innovative-lenovo-x1-fold-laptoptablet-hybrid-an-in-depth-review/"><u>The Innovative Lenovo X1 Fold Laptop/Tablet Hybrid - An In-Depth Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-wont-my-usb-to-hdmi-adapter-connect-solving-common-issues/"><u>Why Won't My USB to HDMI Adapter Connect? Solving Common Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-top-7-adblocker-apps-for-android-users/"><u>[New] 2024 Approved Unveiling Top 7 AdBlocker Apps for Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-armies-united-exploring-the-ultimate-7-strategy-wars/"><u>[New] In 2024, Armies United Exploring the Ultimate 7 Strategy Wars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-process-to-record-movies-on-multiple-platforms-for-2024/"><u>[Updated] Step-By-Step Process to Record Movies on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-opposite-end-video-retrospective-techniques/"><u>[Updated] YouTube's Opposite End Video Retrospective Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-loop-creating-impactful-content-for-instagram/"><u>2024 Approved Mastering the Art of Loop Creating Impactful Content for Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-essentials-for-dominating-instagram-stories/"><u>2024 Approved The Essentials for Dominating Instagram Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-windows-device-malfunctions-caused-by-driver-power-failures/"><u>Effective Solutions for Fixing Windows Device Malfunctions Caused by Driver Power Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-non-functional-right-click-on-your-mouse-in-windows-10/"><u>Fixing the Issue of Non-Functional Right-Click on Your Mouse in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971191414-hp-stream-driver-installation-made-simple-download-today/"><u>HP Stream Driver Installation Made Simple – Download Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-stand-out-in-the-digital-realm-selecting-unique-youtube-channel-names/"><u>In 2024, Stand Out in the Digital Realm Selecting Unique YouTube Channel Names</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-how-to-restore-functionality-of-your-lenovos-unresponsive-keys/"><u>Solution Guide: How to Restore Functionality of Your Lenovo's Unresponsive Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-persistent-bluetooth-compatibility-challenges-on-windows-10/"><u>Ultimate Fixes for Persistent Bluetooth Compatibility Challenges on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-total-war-rome-remastered-say-goodbye-to-crashes/"><u>Ultimate Fixes for Total War: Rome Remastered - Say Goodbye to Crashes!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

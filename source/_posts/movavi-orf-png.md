@@ -1,7 +1,7 @@
 ---
 title: 以 Movavi 專業力量快速在網路上自由地改變 ORF 成 PNG 格式 - 完美的影像數字化方法
-date: 2024-09-11 11:59:24
-updated: 2024-09-13 12:23:52
+date: 2024-10-30T00:04:08.251Z
+updated: 2024-11-02T07:58:16.669Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
@@ -191,6 +191,13 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
 
 Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完整閱讀該篇指南，請按一下下方的連結。
@@ -204,6 +211,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 缺點：
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -226,6 +240,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -253,6 +274,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
@@ -269,11 +297,25 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 佈局過於簡單，可能會使初學者困惑
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -300,6 +342,13 @@ Movavi Photo Editor
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
 ## 常見問題集
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
 
@@ -363,6 +412,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -393,11 +449,31 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] In 2024, Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-swift-and-simple-mac-images-identifying-the-best-5-screenshot-methods-for-2024/"><u>[New] Swift & Simple Mac Images Identifying the Best 5 Screenshot Methods for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-essential-guide-to-signing-up-for-twitter/"><u>[New] The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-immediate-youtube-earnings-projections/"><u>[Updated] Immediate YouTube Earnings Projections</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-apps-for-professional-video-editing-on-androidpc/"><u>[Updated] In 2024, Essential Apps for Professional Video Editing on Android/PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-the-blue-screen-of-death-mastering-halo-4s-ue4-error-fixes/"><u>Banishing the Blue Screen of Death: Mastering Halo 4'S UE4 Error Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-driver-conflicts-in-ftdi-systems-a-guide-on-restoring-memory-reliability/"><u>Dealing with Driver Conflicts in FTDI Systems – A Guide on Restoring Memory Reliability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-persistent-reboot-cycles-on-your-windows-11-pc/"><u>Guide To Resolving Persistent Reboot Cycles On Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-airpods-connection-woes-on-windows-computers-latest-tips-for-202-1/"><u>How to Solve AirPods Connection Woes on Windows Computers (Latest Tips for 202 1)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improve-frame-rates-and-speed-a-step-by-step-guide-to-fixing-lag-in-minecraft/"><u>Improve Frame Rates and Speed: A Step-by-Step Guide to Fixing Lag in Minecraft</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-zoom-videos-essential-3-part-methodology/"><u>In 2024, Optimizing Zoom Videos Essential 3-Part Methodology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-time-editing-selecting-the-best-software/"><u>Prime-Time Editing Selecting the Best Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-displays-lacking-hdcp-support-for-better-streaming-quality/"><u>Troubleshooting Displays Lacking HDCP Support for Better Streaming Quality</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-premier-virtual-communities-where-strangers-become-friends/"><u>Updated In 2024, The Premier Virtual Communities Where Strangers Become Friends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
+</ul></div>
+

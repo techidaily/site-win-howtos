@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2024-10-23T18:37:07.835Z
-updated: 2024-10-27T18:03:34.081Z
+date: 2024-10-30T12:21:25.487Z
+updated: 2024-11-01T22:55:46.608Z
 tags:
   - win11
   - win10
@@ -43,9 +43,32 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 1. On your keyboard, press **the Windows logo key**  **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and   **R**  at the same time, then type**devmgmt.msc** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on**Keyboards** \>**your keyboard device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
 3. Click**Power Management** and check**the box** before**Allow this device to wake the computer** and then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e19bdf16d.png)
 4. Repeat this fix with your other keyboard devices
@@ -55,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  Make your computer go to sleep, then try to wake it up to see if the**Windows 10 or 11 won’t wake from sleep** problem is fixed. If not, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -67,22 +97,8 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
@@ -95,21 +111,29 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste **powercfg.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
-3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
+3. Click **Change settings that are currently unavailable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before **Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still no joy? Please move on to**Fix 4** , below.
 
@@ -127,39 +151,25 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 3. Again, try to put your PC to sleep and wake it up to see if it functions properly. If yes, then you’ve resolved the issue! If it’s still not waking up, you should try**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Tweak power settings
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then type **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -169,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
@@ -193,10 +196,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -224,20 +227,19 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-effortless-media-transfer-twitter-videos-on-whatsapp/"><u>[New] 2024 Approved Effortless Media Transfer Twitter Videos on WhatsApp</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-making-the-most-of-your-phones-camera-in-video-production/"><u>[Updated] 2024 Approved Making the Most of Your Phone's Camera in Video Production</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>[Updated] In 2024, Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-innovative-mac-screen-capture-methods-and-software/"><u>[Updated] Innovative Mac Screen Capture Methods & Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-shot-selection-mastery-making-every-frame-count-on-youtube/"><u>[Updated] Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-zero-to-hero-3-proven-strategies-for-livestream-success-on-youtube/"><u>2024 Approved From Zero to Hero 3 Proven Strategies for Livestream Success on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-eliminating-digital-rights-management-from-e-books-and-apps/"><u>Complete Guide to Eliminating Digital Rights Management From E-Books and Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cursor-that-wont-quit-ultimate-solutions-for-non-stop-blinks/"><u>Cursor That Won’t Quit: Ultimate Solutions for Non-Stop Blinks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-battery-issues-on-your-acer-device-when-it-wont-charge/"><u>Diagnosing Battery Issues on Your Acer Device – When It Won’t Charge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enablingrestoring-touch-and-stylus-functionality-for-non-responsive-displays/"><u>Enabling/Restoring Touch & Stylus Functionality for Non-Responsive Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-hp-laptop-keyboard-issues-fast-simple-solutions/"><u>Fix HP Laptop Keyboard Issues Fast - Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-functioning-keyboard-on-your-dell-laptop/"><u>How to Fix a Non-Functioning Keyboard on Your Dell Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-and-update-glitches-on-steam-platforms/"><u>Overcoming Installation and Update Glitches on Steam Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-speaker-distortion-issues-on-windows-10-and-7/"><u>Resolving Speaker Distortion Issues on Windows 10 and 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-character-potential-with-gpt-and-visionary-ai-tools/"><u>Unlocking Character Potential with GPT and Visionary AI Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-presence-filmmaking-with-filmora-for-2024/"><u>[New] Elevate Your YouTube Presence Filmmaking with Filmora for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[New] In 2024, How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-identify-10-shadowy-instagram-story-observers/"><u>[New] In 2024, Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-12-steps-fixing-hidden-fb-video-issues/"><u>[New] In 2024, Unlocking 12 Steps Fixing Hidden FB Video Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-xcover-7-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy XCover 7 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-fb-chronicles-with-complimentary-extension-tools-for-2024/"><u>Elevate Your FB Chronicles with Complimentary Extension Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-night-light-feature-issues-on-windows-11/"><u>Fixing the Night Light Feature Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-touchpad-visibility-in-windows-11-systems/"><u>Guide to Restoring Touchpad Visibility in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-uploading-and-converting-movies-on-your-motorola-smartphone/"><u>Guide to Uploading and Converting Movies on Your Motorola Smartphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-solutions-for-windows-11-users/"><u>Keyboard Malfunction Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-training-with-whoop-and-apple-watch-a-perfect-duo-for-competitive-athletes-zdnet/"><u>Maximizing Training with Whoop and Apple Watch: A Perfect Duo for Competitive Athletes | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-issues-in-fortnite/"><u>Overcoming Launch Issues in Fortnite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-persistent-boot-issues-on-your-desktop-or-laptop/"><u>Solving Persistent Boot Issues on Your Desktop or Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-recommendations-for-preservation/"><u>Understanding msdia80.dll: Importance and Recommendations for Preservation</u></a></li>
 </ul></div>
 

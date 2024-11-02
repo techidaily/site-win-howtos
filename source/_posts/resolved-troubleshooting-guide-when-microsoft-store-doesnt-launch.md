@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-10-26T18:12:15.378Z
-updated: 2024-10-27T18:36:52.425Z
+date: 2024-10-27T02:48:43.493Z
+updated: 2024-11-01T19:10:36.405Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 4. [**Install the latest patch**](#F4)
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device drivers
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third-party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -54,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  2) Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
@@ -82,14 +75,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d917b99e3.jpg)
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair EasyAntiCheat
 
@@ -103,20 +102,33 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
 
-6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
 ### Fix 4: Install the latest patch
 
  Developers of Epic Games keep releasing patches to help fix game bugs and improve overall gaming experience. So it’s always recommended you install the latest patch and then restart your computer to see if it fixes the**Fortnite not launching** issue.
 
  If all else fails, then you might want to contact **[Epic Games Help Center](https://epicgames.helpshift.com/a/fortnite/)**  for assistance in further troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -155,18 +167,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -200,19 +212,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shape-viral-memes-using-adobe/"><u>[New] Shape Viral Memes Using Adobe</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-steps-to-activate-windows-11-hdr-automatically/"><u>[Updated] Steps to Activate Windows 11 HDR Automatically</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-seo-companies-in-warsaw-your-ultimate-guide-with-seo-powersuite-solutions/"><u>Best SEO Companies in Warsaw: Your Ultimate Guide with SEO PowerSuite Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-back-the-beat-solutions-for-unresponsive-audio-equipment/"><u>Bringing Back the Beat: Solutions for Unresponsive Audio Equipment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-in-class-number-8-online-image-weaver/"><u>In 2024, Best in Class Number 8 Online Image Weaver</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-lagging-keys-fixing-keyboard-delays-in-windows-11-easily/"><u>Overcome Lagging Keys: Fixing Keyboard Delays in Windows 11 Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-pcs-unexpected-off-switch-during-gaming-comprehensive-guide-for-windows-users/"><u>Resolving Your PC's Unexpected Off Switch During Gaming - Comprehensive Guide for Windows Users.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-the-0x80070490-issue-in-windows-updater-solved/"><u>Step-by-Step Solution for Overcoming the 0X80070490 Issue in Windows Updater [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-logitech-scroll-wheel-stops-responding/"><u>Step-by-Step Solutions for When Your Logitech Scroll Wheel Stops Responding</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-selection-premium-photo-and-document-scanners-of-2024/"><u>The Ultimate Selection: Premium Photo and Document Scanners of 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-what-to-try-if-your-torrent-download-has-stopped/"><u>Troubleshooting Steps: What To Try If Your Torrent Download Has Stopped</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wireless-mouse-not-working-master-the-fixes-for-a-smooth-experience-on-windows-1110/"><u>Wireless Mouse Not Working? Master the Fixes for a Smooth Experience on Windows 11/10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-essential-directory-of-free-online-music-libraries-explore-these-15-channels/"><u>Your Essential Directory of Free Online Music Libraries: Explore These 15 Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-steady-craft-fights-against-camera-jiggles/"><u>[New] Steady Craft Fights Against Camera Jiggles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos-for-2024/"><u>[Updated] Streamlining Content Acquisition 5 Ways to Download IGTV on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-fixing-the-blackout-a-comprehensive-guide-to-resolving-youtube-video-display-issues/"><u>1. Fixing the Blackout: A Comprehensive Guide to Resolving YouTube Video Display Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-free-conversion-guide-transforming-gsm-audio-files-into-mp3-format/"><u>1. Free Conversion Guide: Transforming GSM Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-what-is-t-series-income-on-youtube/"><u>2024 Approved What Is T Series Income on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-hp-stream-11-power-efficient-portable-computing-solution/"><u>Discover the HP Stream 11 - Power Efficient, Portable Computing Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027478579-gif/"><u>GIFを循環表示するための作り方：無限ループ化ガイド</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-quality-radio-dramatic-works-for-2024/"><u>Highest Quality Radio Dramatic Works for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-say-i-love-you-in-hungarian/"><u>How To Say I Love You In Hungarian</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-9-no-cost-online-tools-to-make-your-own-movies/"><u>In 2024, 9 No-Cost Online Tools to Make Your Own Movies</u></a></li>
+<li><a href="https://techidaily.com/is-your-huawei-nova-y91-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Huawei Nova Y91 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-effective-solutions-for-audio-problems-in-the-it-takes-two-game-on-pc/"><u>Overcoming Silence: Effective Solutions for Audio Problems in the It Takes Two Game on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-free-tools-and-techniques-for-cutting-webm-videos-offline-or-online/"><u>Ultimate Guide: Free Tools & Techniques for Cutting WebM Videos Offline or Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-kodi-masterclass-comprehensive-tutorials-from-basics-to-advanced-usage/"><u>Ultimate Kodi Masterclass – Comprehensive Tutorials From Basics to Advanced Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-nrg-files-comprehensive-tutorial-on-employing-a-nrg-file-extractor-tool/"><u>Unlocking NRG Files: Comprehensive Tutorial on Employing a NRG File Extractor Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtubemkv-youtubemkv/"><u>YouTubeビデオファイルのMKVへの直接ダウンロード手順 - YouTubeビデオをMKVに変換ガイド</u></a></li>
 </ul></div>
 

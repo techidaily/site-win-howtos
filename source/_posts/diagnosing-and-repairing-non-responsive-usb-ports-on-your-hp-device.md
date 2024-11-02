@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2024-10-24T18:10:53.986Z
-updated: 2024-10-27T17:39:31.486Z
+date: 2024-11-01T03:46:43.425Z
+updated: 2024-11-02T01:06:39.546Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,13 +60,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,10 +79,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -90,6 +90,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,18 +116,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -132,22 +139,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -199,19 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>[New] 2024 Approved Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-seamless-streaming-tackle-instagram-video-woes/"><u>[New] Seamless Streaming Tackle Instagram Video Woes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-video-production-mastering-the-use-of-obs-and-zoom/"><u>[Updated] Streamlining Video Production Mastering the Use of OBS & Zoom</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-your-creativity-editing-and-revamping-youtube-clips-in-wmm/"><u>2024 Approved Unlock Your Creativity Editing and Revamping YouTube Clips in WMM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-network-configuration-fixed-now-running-smoothly/"><u>Dragon Ball FighterZ Network Configuration Fixed - Now Running Smoothly</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effective-techniques-for-disabling-pop-up-ads-in-the-chrome-app-on-your-android-device/"><u>Effective Techniques for Disabling Pop-Up Ads in the Chrome App on Your Android Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-scroll-functionality-of-your-touchpad-in-windows-11-solved/"><u>Enhance Scroll Functionality of Your Touchpad in Windows 11 (Solved)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-how-to-troubleshoot-and-fix-parameter-issues/"><u>Expert Solutions: How to Troubleshoot and Fix Parameter Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-fix-resetting-your-computer-failed-error-messages-on-windows-11/"><u>Guide: Fix 'Resetting Your Computer Failed' Error Messages on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>In 2024, Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-obs-configurations-on-frugal-devices/"><u>In 2024, Top OBS Configurations on Frugal Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016102236-say-goodbye-to-headphone-noise-easy-solutions-inside/"><u>Say Goodbye to Headphone Noise – Easy Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-troubleshooting-tips-for-resolving-binkw32dll-errors/"><u>The Ultimate Troubleshooting Tips for Resolving binkw32.dll Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-crashes-due-to-faulty-video-card-drivers-in-windows-a-comprehhemed-solution/"><u>Troubleshooting Minecraft Crashes Due to Faulty Video Card Drivers in Windows: A Comprehhemed Solution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>[New] How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-decoding-youtubes-algorithm-the-role-of-keyword-optimization/"><u>[New] In 2024, Decoding YouTube's Algorithm The Role of Keyword Optimization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-delighted-user-registration-walkthrough/"><u>[New] In 2024, Delighted User Registration Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-logilda-missing-dll-quickly/"><u>Fix LogiLDA Missing DLL Quickly</u></a></li>
+<li><a href="https://facebook.techidaily.com/free-apps-via-tracking-facebook-instagram-notifications-explored/"><u>Free Apps via Tracking: Facebook, Instagram Notifications Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>In 2024, The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-usb-device-not-detected-error/"><u>Resolved: How to Fix 'USB Device Not Detected' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-consumption-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry: Excessive Storage Consumption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-problems-with-minecrafts-lan-gaming-mode/"><u>Solving Common Problems with Minecraft's LAN Gaming Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/start-streaming-on-youtube-with-an-introductory-obs-course-for-2024/"><u>Start Streaming on Youtube with an Introductory OBS Course for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-car-fm-transmitter-spotlight-on-suminds-bt70b-model/"><u>The Ultimate Guide to Choosing the Perfect Car FM Transmitter: Spotlight on Sumind's BT70B Model</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-ps4-mic-problems-with-these-expert-tips/"><u>Troubleshoot and Solve PS4 Mic Problems with These Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-step-by-step-tutorial-cropping-footage-with-davinci-resolve/"><u>Ultimate Step-by-Step Tutorial: Cropping Footage with DaVinci Resolve</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-of-livekernelevent-error-117-and-learn-how-to-correct-it/"><u>Unravel the Mystery of LiveKernelEvent Error 117 and Learn How to Correct It</u></a></li>
 </ul></div>
 

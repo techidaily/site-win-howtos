@@ -1,7 +1,7 @@
 ---
 title: Fix the 'Overwatch Error' - Recover Your Lost Rendering Device
-date: 2024-10-25T18:39:57.091Z
-updated: 2024-10-27T18:04:35.044Z
+date: 2024-10-27T10:31:47.779Z
+updated: 2024-11-02T10:48:40.305Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1 – Is it a driver issue?
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -81,6 +74,20 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 2. Click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 6. Select the driver you’re going to restore, then click **Continue** .
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
@@ -105,24 +112,18 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/services.msc_.jpg)
 2. Locate the **DHCP Client**  service in the services list, then right-click on it and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -138,18 +139,19 @@ Here’s how:
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. In the command promopt window, type the following commands and press**Enter** after each:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * Type **netsh winsock reset** and press**Enter** .  
    * Type **netsh int ip reset** and press**Enter** .  
    * Type **ipconfig /release** and press**Enter** .  
@@ -157,6 +159,13 @@ Here’s how:
    * Type **ipconfig /flushdns** and press**Enter** .
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
 
@@ -166,19 +175,6 @@ Here’s how:
 2. Right click the Internet Connection you’re using and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
@@ -203,17 +199,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-basics-of-weaving-a-narrative-thread-for-2024/"><u>[New] Basics of Weaving a Narrative Thread for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-complete-circular-imaging-and-its-distinct-characteristics/"><u>[Updated] 2024 Approved Complete Circular Imaging and Its Distinct Characteristics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-sky-vistas-yuneec-breezes-high-def-adventure-for-2024/"><u>[Updated] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/communication-breakthrough-ai-engaging-in-real-time-dialogue/"><u>Communication Breakthrough: AI Engaging in Real-Time Dialogue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/copy-and-paste-error-solutions-for-windows-11-users-a-complete-fixer/"><u>Copy & Paste Error Solutions for Windows 11 Users: A Complete Fixer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-resolve-your-aoc-display-connectivity-issues-with-windows-11-systems/"><u>Expert Tips to Resolve Your AOC Display Connectivity Issues with Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-11-audio-issues-a-step-by-step-guide-to-restoring-volume-functionality/"><u>Fix Windows 11 Audio Issues: A Step-by-Step Guide to Restoring Volume Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identified-absence-of-api-dll-l1-1/"><u>Identified Absence of API DLL L1-1</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-creative-entrepreneurs-handbook-in-design/"><u>In 2024, The Creative Entrepreneur's Handbook in Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-vanished-desktop-shortcuts-in-windows-10-solutions-revealed/"><u>Restore Vanished Desktop Shortcuts in Windows 10 – Solutions Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/romer-powerflash-solar-flashlight-review-a-trustworthy-light-source-that-never-fades-in-nature/"><u>Romer PowerFlash Solar Flashlight Review - A Trustworthy Light Source That Never Fades in Nature</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-screenrecord-tips-and-tricks-on-a-laptop-for-2024/"><u>Top 10 ScreenRecord Tips and Tricks on a Laptop for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-strategies-that-convert-followers-into-fortune-on-instagram/"><u>[New] In 2024, Strategies That Convert Followers Into Fortune on Instagram</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-widi-chipset-version/"><u>Accelerate WiDi Chipset Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cell-proliferation/"><u>Cell Proliferation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-imo-app-overview-a-user-friendly-guide/"><u>Comprehensive Imo App Overview: A User-Friendly Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/designing-approachable-404-error-webpages-with-ease-through-massmail-solutions/"><u>Designing Approachable 404-Error Webpages with Ease Through MassMail Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visuals-on-tiktok-the-digit-editing-guide/"><u>Enhancing Visuals on TikTok The Digit Editing Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-and-lower-high-cpu-usage-by-svchostexe-on-windows-11/"><u>How to Optimize and Lower High CPU Usage by svchost.exe on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-audio-renderer-malfunctions-when-watching-youtube-on-windows-11/"><u>How to Resolve Audio Renderer Malfunctions When Watching YouTube on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-facebook-for-video-sharing-tips/"><u>In 2024, Navigating Facebook for Video Sharing Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>In 2024, Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726028709359-kodi-kodi/"><u>Kodiヘルプ＆ガイド - Kodiの使い方を学ぶ</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-adding-disneyplus-as-an-addon-in-kodi-version-20-and-19/"><u>Step-by-Step Tutorial: Adding Disney+ as an Addon in Kodi Version 20 & 19</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-are-function-fn-keys-unresponsive-on-asus-laptops/"><u>Troubleshooting Fixes: Why Are Function (Fn) Keys Unresponsive on Asus Laptops?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intense-directx-malfunctions-for-smooth-performance/"><u>Troubleshooting Intense DirectX Malfunctions for Smooth Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-self-booting-phenomenon-causes-and-solutions/"><u>Windows 11 Self-Booting Phenomenon - Causes & Solutions</u></a></li>
 </ul></div>
 

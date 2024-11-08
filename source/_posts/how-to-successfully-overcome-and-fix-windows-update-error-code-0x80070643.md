@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Overcome and Fix Windows Update Error Code 0X80070643
-date: 2024-10-24T17:47:45.289Z
-updated: 2024-10-27T17:07:10.489Z
+date: 2024-11-01T20:47:26.399Z
+updated: 2024-11-08T07:10:24.047Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Run Windows Update troubleshooter**
@@ -50,29 +50,22 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Restart the Windows Update service**
 
@@ -82,28 +75,15 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
@@ -114,10 +94,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  Please paste it in the address bar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. **Delete** all the files in the folder   **Download** .  
@@ -149,6 +129,13 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Running System File Checker**
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you see the error code 0xc1900208, it may be caused by some corruption error. Running System File Checker may help you resolve this issue. Here is how to do it:
@@ -159,6 +146,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
@@ -171,13 +166,6 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
@@ -188,6 +176,13 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -215,15 +210,24 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>[Updated] Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-download-facebook-videos-swiftly-discover-the-top-10-android-downloader-tools/"><u>2024 Approved Download Facebook Videos Swiftly Discover the Top 10 Android Downloader Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-replacing-the-lost-msvcr110dll-file/"><u>Comprehensive Guide to Replacing the Lost MSVCR110.dll File</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-bard-ai-enhancements-revealed-at-google-io-2023-the-top-7-innovations-you-cant-miss/"><u>Explore Bard AI Enhancements Revealed at Google I/O 2023 - The Top 7 Innovations You Can't Miss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-failure-of-touchpad-scrolling-functionality-in-windows-10/"><u>Fixing the Failure of Touchpad Scrolling Functionality in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hassle-free-methods-to-fix-windows-update-error-identified-by-0x80070n52/"><u>Hassle-Free Methods to Fix Windows Update Error - Identified by 0X80070n52</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-the-hp-laptop-touchpad-not-responding-correctly/"><u>Overcoming Common Problems with the HP Laptop Touchpad Not Responding Correctly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-improve-your-channels-meta-description-powerfully/"><u>[New] Improve Your Channel's Meta Description Powerfully</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-gross-earnings-of-youtube-luminaries/"><u>[Updated] In 2024, Global Gross Earnings of YouTube Luminaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[Updated] Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-era-of-mac-os-embracing-big-sur/"><u>[Updated] The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-complication-mastering-the-fix-for-msxml3-protocol-error-0x887a0006/"><u>Bypass Complication: Mastering the Fix for Msxml3 Protocol Error (0X887A0006)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone SE</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212281469-cant-get-your-pdf-to-print-quick-tips-for-a-smooth-printout/"><u>Can't Get Your PDF to Print? Quick Tips for a Smooth Printout</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-lava-blaze-2-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Lava Blaze 2 Pro using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-gt-3-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme GT 3?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-startup-cycle-on-your-pc-with-windows-11-or-10-solutions/"><u>Overcome the Endless Startup Cycle on Your PC with Windows 11 or 10 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-challenges-of-hp-deskjet-d1360-printer-drivers-on-latest-windows-versions-a-user-guide/"><u>Overcoming Installation Challenges of HP Deskjet D1360 Printer Drivers on Latest Windows Versions: A User Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-device-not-accessible-message-on-windows/"><u>Resolved: How to Fix the 'Device Not Accessible' Message on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-entrypointnotfoundexception-on-your-pc-a-step-by-step-guide/"><u>Resolving 'EntryPointNotFoundException' On Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-vcruntime140dll-absence-error-on-windows-pcs-effortlessly/"><u>Solve Your 'VCRUNTIME140.dll' Absence Error on Windows PCs Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-resolving-undetected-hard-drive-issues-now-fixed/"><u>Step-by-Step Solutions: Resolving Undetected Hard Drive Issues (Now Fixed)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-correct-sudden-stops-in-sound-from-logitech-g930/"><u>Troubleshooting Guide: How to Correct Sudden Stops in Sound From Logitech G930</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-asus-rog-gt-c5300-review-ultimate-wireless-perfection-for-hardcore-gamers-and-gadget-geeks/"><u>Unveiling The Asus ROG GT-C5300 Review: Ultimate Wireless Perfection for Hardcore Gamers & Gadget Geeks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warzone-microphonevoice-communication-problems-solved-for-both-desktop-and-gaming-systems/"><u>Warzone Microphone/Voice Communication Problems Solved for Both Desktop and Gaming Systems</u></a></li>
 </ul></div>
 

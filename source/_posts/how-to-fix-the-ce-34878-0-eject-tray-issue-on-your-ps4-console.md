@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2024-10-23T16:09:35.527Z
-updated: 2024-10-27T17:30:46.572Z
+date: 2024-11-01T23:55:42.287Z
+updated: 2024-11-07T23:01:44.830Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  There are common fixes and more complicated ones. You don’t need to try them all but it’s recommended to try the common fixes first. If these can’t help, try other fixes one by one to find the one that works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Common fixes
 
 * Use another USB port.
@@ -51,13 +58,6 @@ If none of these work, you can move to the next method.
 5. Download the firmware which has given by iCUE at launch.
 6. Install firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Disable other related devices
 
  There’s one thing you can try is to shut down other programs which are related to Corsair and its iCUE. This may be because other third-party programs may interfere with Corsair and cause the problem.
@@ -68,30 +68,25 @@ If none of these work, you can move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 4. Click**View** and choose**Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open Control Panel and click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall.jpg)
 7. Uninstall Corsair Utility Engine.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Connect your keyboard back to PC.
@@ -127,10 +122,10 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -156,18 +151,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-tips-incorporating-video-from-youtube-into-google-presentations/"><u>[Updated] 2024 Approved Quick Tips Incorporating Video From YouTube Into Google Presentations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/cal-asmr-series-to-experience/"><u>Critical ASMR Series to Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-fix-windows-crashing-issue-error-0xc00000e9-explained-and-resolved/"><u>Expert Advice: How to Fix Windows Crashing Issue - Error 0Xc00#000e9 Explained and Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-ace-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Ace 2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-quickly-enhance-your-gaming-updating-the-nvidia-gtx-1660-gpu-drivers-with-ease/"><u>How to Quickly Enhance Your Gaming: Updating the NVIDIA GTX 1660 GPU Drivers with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo T2 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/rapidrun-framefrozen-capture-for-2024/"><u>RapidRun FrameFrozen Capture for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-crashes-in-oddworld-soulstorm-on-windows-computers/"><u>Resolving Crashes in Oddworld: Soulstorm on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-touchpad-problems-effective-solutions-for-scroll-functionality/"><u>Resolving Windows 11 Touchpad Problems - Effective Solutions for Scroll Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212125458-warframe-update-problems-heres-how-you-can-successfully-resolve-them/"><u>Warframe Update Problems? Here's How You Can Successfully Resolve Them</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-full-scrutiny-the-dji-inspire-1-experience/"><u>[New] Full Scrutiny The DJI Inspire 1 Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-the-potential-of-time-extension-for-2024/"><u>[Updated] Unlocking the Potential of Time Extension for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configurations-correct-however-device-is-disconnected/"><u>Configurations Correct; However, Device Is Disconnected</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-8-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 8 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-a-halted-steam-system-upgrade-glitch-easily/"><u>How to Overcome a Halted Steam System Upgrade Glitch Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/important-update-to-run-the-software-you-must-have-a-gpu-that-compatible-with-d3d11/"><u>Important Update: To Run the Software, You Must Have a GPU that Compatible with D3D11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sculpting-soundscapes-the-fading-trick/"><u>Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-why-is-my-mouse-pointer-constantly-flashing/"><u>Ultimate Guide - Why Is My Mouse Pointer Constantly Flashing?</u></a></li>
 </ul></div>
 

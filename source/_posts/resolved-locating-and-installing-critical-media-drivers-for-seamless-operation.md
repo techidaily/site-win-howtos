@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2024-10-28T00:12:22.541Z
-updated: 2024-11-01T20:38:41.742Z
+date: 2024-11-05T16:17:00.868Z
+updated: 2024-11-08T08:46:43.401Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -62,6 +62,19 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -70,16 +83,10 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
@@ -93,23 +100,9 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -123,17 +116,17 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -146,6 +139,14 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
@@ -186,16 +187,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/background-video-recording-solutions/"><u>Background Video Recording Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-editing-and-joining-multiple-videos-across-different-services-including-youtube/"><u>Comprehensive Tutorial: Editing and Joining Multiple Videos Across Different Services, Including YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-swf-files-to-wmv-format-with-no-cost-two-simple-methods/"><u>Convert SWF Files to WMV Format with No Cost: Two Simple Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-your-social-media-sounds-for-free-leak-free-mp3s-from-facebook-without-any-bothering-ads-or-signs/"><u>Convert Your Social Media Sounds for FREE: Leak-Free MP3s From Facebook without Any Bothering Ads or Signs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-void-mic-trouble-heres-how-you-can-repair-it-easily/"><u>Corsair Void Mic Trouble? Here's How You Can Repair It Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cprmdvd/"><u>CPRM保護が解除されたDVDから容易にコピー・リッピングする方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-srt-tools-the-leading-eight-uncovered-for-2024/"><u>Free SRT Tools The Leading Eight Uncovered for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reimagining-photography-toolwiz-photosapps-full-on-review/"><u>In 2024, Reimagining Photography Toolwiz PhotosApp's Full-On Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/recording-with-precision-perfecting-ios-device-features-on-youtube/"><u>Recording with Precision Perfecting iOS Device Features on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unplug-and-replay-twitch-livestream-techniques-for-2024/"><u>[Updated] Unplug and Replay Twitch Livestream Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-tv-experience-watching-fb-content-seamlessly/"><u>2024 Approved Enhancing TV Experience Watching Fb Content Seamlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-prime-tech-for-quick-clear-video-reports/"><u>2024 Approved Prime Tech for Quick, Clear Video Reports</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210170474-9781838219123-angels-and-you/"><u>ANGELS AND YOU | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-communicative-function-of-epson-equipment/"><u>Enhancing Communicative Function of Epson Equipment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-cannot-start-device-error-for-dvdcd-rom-in-windows-11-a-step-by-step-troubleshooting-tutorial/"><u>Fix 'Windows Cannot Start Device' Error for DVD/CD-ROM in Windows 지원(11): A Step-by-Step Troubleshooting Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-yuva-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Yuva 2 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>In 2024, Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-safeguard-against-youtube-prohibitions/"><u>In 2024, How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-macbook-mixer-dynamic-perfect-streams-in-5-steps/"><u>In 2024, The MacBook-Mixer Dynamic Perfect Streams in 5 Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-gaming-trouble-learn-how-to-fix-common-setup-problems/"><u>Origin Gaming Trouble? Learn How to Fix Common Setup Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revitalize-your-pc-with-these-simple-steps-for-a-comprehensive-hardware-and-software-reboot-in-windows-10/"><u>Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-audio-not-detected-issue-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Solving the 'Audio Not Detected' Issue: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-your-device-always-going-dormant-quick-and-effective-fixes-for-a-better-experience/"><u>Stop Your Device Always Going Dormant - Quick and Effective Fixes for a Better Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-server-connectivity-issues/"><u>Troubleshooting Guide: Resolving Steam Server Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-malfunctioning-peripherals-how-to-get-usb-mouse-and-keyboard-functioning-again-in-windows-7/"><u>Troubleshooting Tips for Malfunctioning Peripherals: How to Get USB Mouse and Keyboard Functioning Again in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fix-guide-for-overcoming-error-0x80070426-on-windows-11-systems/"><u>Ultimate Fix Guide for Overcoming 'Error 0X80070426' On Windows 11 Systems</u></a></li>
 </ul></div>
 

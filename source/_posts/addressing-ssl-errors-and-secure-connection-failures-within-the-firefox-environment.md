@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2024-10-25T22:17:13.382Z
-updated: 2024-11-01T21:32:37.002Z
+date: 2024-11-05T01:49:51.944Z
+updated: 2024-11-08T02:23:39.014Z
 tags:
   - win11
   - win10
@@ -32,19 +32,19 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
 2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
 
@@ -53,26 +53,26 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
@@ -95,10 +95,10 @@ You can update your drivers automatically with either the [**Free**](https://too
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -127,21 +127,19 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-streaming-athletic-games-real-time/"><u>[New] 2024 Approved Best Practices for Streaming Athletic Games Real-Time</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-soundwave-success-adding-audio-to-your-instastory/"><u>[New] 2024 Approved Soundwave Success Adding Audio to Your InstaStory</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>[New] 2024 Approved Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-transcribe-a-youtube-video-free/"><u>[New] How to Transcribe a YouTube Video [FREE]</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-twitter-archives-a-comprehensive-guide/"><u>[Updated] 2024 Approved Navigating Twitter Archives A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-meizu-21-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Meizu 21 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y56-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y56 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-video-extraction-a-step-by-step-guide/"><u>Mastering YouTube Video Extraction A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-mp4-files-to-3gp-format-online-and-offline/"><u>Step-by-Step Guide: Converting MP4 Files to 3GP Format Online and Offline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-mastering-video-editing-techniques-in-windows-11/"><u>Step-by-Step Guide: Mastering Video Editing Techniques in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-quick-conversion-from-aiffaif-to-flac-without-quality-loss/"><u>Step-by-Step Tutorial for Quick Conversion From AIFF/AIF to FLAC without Quality Loss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enable-offline-accessibility-on-your-youtube-content/"><u>Step-by-Step Tutorial: Enable Offline Accessibility on Your YouTube Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-how-to-seamlessly-convert-ogg-to-wav-without-cost-top-solutions/"><u>The Ultimate Guide: How to Seamlessly Convert OGG to WAV Without Cost - Top Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-free-asmr-audio-files-expert-guide-on-quality-sources-and-secure-download-tips/"><u>Top 10 Free ASMR Audio Files : Expert Guide on Quality Sources & Secure Download Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-9-tips-and-tricks-for-resolving-errors-in-adobe-premiere-pro/"><u>Top 9 Tips and Tricks for Resolving Errors in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-3-simple-methods-to-burn-your-favorite-videos-to-dvd-on-windows-and-mac/"><u>Updated 2024 Approved 3 Simple Methods to Burn Your Favorite Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-system-interrupts-high-cpu-usage-on-windows-11/"><u>[Solved] System Interrupts High CPU Usage on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-convertor-list-best-5-online-gif-to-video-apps/"><u>[Updated] In 2024, Essential Convertor List Best 5 Online GIF to Video Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>[Updated] In 2024, Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-key-methods-to-customize-song-speed-on-spotify/"><u>[Updated] In 2024, Key Methods to Customize Song Speed on Spotify</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-removing-inaudible-voices-from-obs-recording/"><u>[Updated] In 2024, Removing Inaudible Voices From OBS Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>2024 Approved Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>2024 Approved Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95695543-9780008240462-a-tree-in-your-pocket/"><u>A Tree in Your Pocket | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-message-0x887a0006-in-no-time-easy-solutions-inside/"><u>Fixing Error Message 0X887A0006 in No Time - Easy Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-installation-failure-resolving-error-code-80240020/"><u>How to Fix Windows 10 Installation Failure: Resolving Error Code 80240020</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-8-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-high-svchostexe-cpu-consumption-in-windows-11-comprehensive-guide/"><u>Resolving High svchost.exe CPU Consumption in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208649201-resolving-windows-10-installation-issue-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 10 Installation Issue: Fixing Error Code 80240020 Once and for All!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-pairing-your-xbox-one-controller-when-it-wont-connect/"><u>Step-by-Step Tips for Pairing Your Xbox One Controller When It Won't Connect</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] | Windows Could Not Complete The Installation | Quickly & Easily"
-date: 2024-09-11T23:31:50.267Z
-updated: 2024-09-17T22:26:00.579Z
+date: 2024-11-04T17:05:56.667Z
+updated: 2024-11-08T01:00:41.170Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 3. Make sure that you have saved your files and data, then click**Restart** to enter Safe Mode.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58eef72fb629f.png)
@@ -64,27 +64,14 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![Windows 11 - Open Windows PowerShell as an Administrator](https://www.drivereasy.com/wp-content/uploads/2017/04/win11-powershell.exe_.jpg)
 5. Then type this command**`msdt.exe -id MaintenanceDiagnostic`** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will see a troubleshooting window pop up. Click**Next** to let the troubleshooting run.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58eefb3102fcf.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the troubleshooter detects some problem with your system, then follow the instructions to get it repaired.
@@ -95,22 +82,8 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58eeff920bcfd.jpg)
 2. Still, if you see the notification telling you that something needs to be changed in your system, do as the system tells you to do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. When the troubleshooting process finishes, you need to boot into a normal mood. Repeat step 1). Then go to the**Boot** tab and empty the box for**Safe boot** . Click**Apply** and**OK** to save and exit. Restart your computer into normal mode.  
 ![Windows 11 - Normal boot](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-System-Configuration-Do-not-go-into-Safe-boot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Restart WMI Provider Host Service
 
@@ -122,8 +95,22 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef1c683ff0b.jpg)
 3. Now press the**Windows logo key** to open the Start menu, then type**cmd** . Right-click**Command Prompt** from the list of results and select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 4. In the Command Prompt window, type in the following commands and press**Enter** after each command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 net stop iphlpsvc
 
@@ -149,13 +136,43 @@ Restart your PC after the commands.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef23078e4b3.png)
 2. Click the**View** button on top and then **Show Analytic and Debug Logs** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef237e03311.jpg)
 3. On the left pane, follow the path: **Applications and Service Logs > Microsoft > Windows > WMI Activity > Operational** log. Mark down the**latest** items listed as**Error** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_58ef283a89775.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time, then type**taskmgr** and hit Enter to open the Task Manager.  
 ![how to open Task Manager](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 5. Go to the Details tab. Find the processes with matching IDs as seen in Event Viewer in the PID column. When you locate such a process, you can uninstall the program or disable its service as you like.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/03/2020-03-25_18-18-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
@@ -198,5 +215,26 @@ There are two ways you can update and install your drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-ensuring-flawless-sending-of-large-videos-from-iphone-to-mac-pc/"><u>[New] Ensuring Flawless Sending of Large Videos From iPhone to Mac PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>[New] In 2024, A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>[New] The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-core-strategies-for-amplifying-your-digital-footprint-newbies-style-for-2024/"><u>5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/decouvrez-les-5-techniques-rapides-pour-localiser-la-corbeille-egaree-sous-windows-11/"><u>Découvrez Les 5 Techniques Rapides Pour Localiser La Corbeille Égarée Sous Windows 11!</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-foddian-gamings-past/"><u>Delving Into Foddian Gaming's Past</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-of-2d-animation-programs-compare-free-vs-paid-versions-for-your-project-needs/"><u>Discover the Ultimate List of 2D Animation Programs: Compare Free Vs. Paid Versions for Your Project Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mod-to-avi-conversion-no-cost-use-moveavis-online-tool/"><u>Easy MOD to AVI Conversion - No Cost, Use MoveAVi's Online Tool!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-tool-from-avi-to-m4a-movavi/"><u>Free Online Conversion Tool From AVI to M4A - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-webm-files-to-m4v-format-effortless-video-editing/"><u>Free Online Converter: Change WebM Files to M4V Format - Effortless Video Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-play-7t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor Play 7T</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-free-conversion-dalla-raw-foto-al-png-senza-costi-convertire-online-con-efficienza/"><u>Movavi Free Conversion: Dalla RAW Foto Al PNG Senza Costi - Convertire Online Con Efficienza</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-asf-to-mov-file-transformation-a-cost-free-solution-by-movevideo/"><u>Online ASF to MOV File Transformation: A Cost-Free Solution by MoveVIdeo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-listening-experience-on-movavi-mp3-player-advanced-setup-guide/"><u>Optimize Your Listening Experience on Movavi Mp3 Player - Advanced Setup Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-data-insights-and-personalization-with-state-of-the-art-cookiebot-solutions/"><u>Revolutionizing Data Insights and Personalization with State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-voc-in-formato-avi-liberamente-online-utilizzando-movavi-gratuitamente/"><u>Trasforma I Tuoi File VOC in Formato AVI Liberamente Online Utilizzando Movavi, Gratuitamente!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-youtubes-inner-workings-your-path-to-success/"><u>Unlocking YouTube's Inner Workings Your Path to Success</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-noisy-to-nice-a-comprehensive-guide-to-audio-post-production-in-fcpx-for-2024/"><u>Updated From Noisy to Nice A Comprehensive Guide to Audio Post-Production in FCPX for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-wav-online/"><u>무료 WMA-WAV 변환 서비스 - 컴퓨터를 사용하여 Online</u></a></li>
+</ul></div>
 

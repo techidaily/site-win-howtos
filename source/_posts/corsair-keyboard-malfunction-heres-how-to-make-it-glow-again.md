@@ -1,7 +1,7 @@
 ---
 title: Corsair Keyboard Malfunction? Here's How to Make It Glow Again!
-date: 2024-10-25T17:41:15.050Z
-updated: 2024-10-27T18:38:42.678Z
+date: 2024-11-05T07:40:59.554Z
+updated: 2024-11-08T08:54:39.762Z
 tags:
   - win11
   - win10
@@ -58,44 +58,30 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
- Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 ### Fix 4: Update your keyboard driver
 
@@ -127,7 +113,21 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -140,16 +140,23 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -160,13 +167,6 @@ If this method didn’t work for you, check out the last fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -189,24 +189,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-showcasing-the-best-of-image-integration-in-frames-for-24/"><u>[New] Showcasing the Best of Image Integration in Frames for '24</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-sounds-unveiled-first-steps-using-auditions-fade-in-feature-for-2024/"><u>[New] Sounds Unveiled First Steps Using Audition's Fade In Feature for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-fidelity-in-mac-screen-and-audio-recording/"><u>[New] Ultimate Fidelity in Mac Screen & Audio Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-professional-editing-techniques-for-obs-studio-success/"><u>[Updated] 2024 Approved Professional Editing Techniques for OBS Studio Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-master-the-art-of-live-sound-capture-on-the-internet/"><u>[Updated] Master the Art of Live Sound Capture on the Internet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dive-into-the-world-of-speed-2024s-top-free-car-racing-titles/"><u>Dive Into the World of Speed: 2024'S Top Free Car Racing Titles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-to-fix-amd-catalyst-control-center-cannot-be-started/"><u>Easy to Fix AMD Catalyst Control Center Cannot Be Started</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-user-journeys-through-extended-reality-and-spatial-computing-at-work-a-strategic-guide-by-zdnet/"><u>Enhancing User Journeys Through Extended Reality and Spatial Computing at Work - A Strategic Guide by ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-successfully-connecting-bluetooth-gadgets-to-windows-10-this-year/"><u>Expert Advice: Successfully Connecting Bluetooth Gadgets to Windows 10 This Year</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-how-to-fix-your-pc-when-it-gets-stuck-on-initial-boot-display/"><u>Fixed: How to Fix Your PC When It Gets Stuck on Initial Boot Display</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FRP Locks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-application-print-driver-host-failure-for-older-windows-versions/"><u>How to Repair 'Application Print Driver Host Failure' For Older Windows Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-device-recognition-issues-bluetooth-setup-fixed-in-windows-11/"><u>Overcoming Device Recognition Issues: Bluetooth Setup Fixed in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-missing-power-sources-in-electronics-easy-tips/"><u>Solving the Mystery of Missing Power Sources in Electronics: Easy Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-adjust-image-sizes-in-windowsmac-os/"><u>Step-by-Step Tutorial: Adjust Image Sizes in Windows/Mac OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-excessive-sound-on-your-ps4-console-troubleshooting-steps/"><u>Tackling Excessive Sound on Your PS4 Console: Troubleshooting Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-touchpad-integrity-with-quick-fixes/"><u>Unlock Touchpad Integrity with Quick Fixes!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-instant-hd-fb-content-downloader/"><u>[New] 2024 Approved Instant HD FB Content Downloader</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-streamlining-picture-shading-with-adobe-tools/"><u>[New] In 2024, Streamlining Picture Shading with Adobe Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>[New] Strategic Playlist Formation Your Guide to YouTube Mastery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-8-trending-facebook-video-hits-for-2024/"><u>[New] Top 8 Trending Facebook Video Hits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leveraging-patient-stories-a-guide-to-powerful-videography/"><u>[Updated] Leveraging Patient Stories A Guide to Powerful Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synchronized-screenshots-pc-or-cloud-perfection/"><u>[Updated] Synchronized Screenshots PC or Cloud Perfection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pcs-display-from-randomly-twinkling-on-windows-10/"><u>How to Stop Your PC's Display From Randomly Twinkling on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-mkv-player-apps-windows-pc/"><u>In 2024, Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205006815-resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-missing-desktop-icons-problem-on-windows-11-expert-tips-included/"><u>Resolve Your Missing Desktop Icons Problem on Windows 11 – Expert Tips Included</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-zoom-cannot-start-video-issues/"><u>Top 5 Solutions for Resolving 'Zoom Cannot Start Video' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-problems-installing-missing-devices-on-windows-1011/"><u>Troubleshooting Audio Problems: Installing Missing Devices on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functioning-keys-on-windows-11-keyboards/"><u>Troubleshooting Non-Functioning Keys on Windows 11 Keyboards</u></a></li>
 </ul></div>
 

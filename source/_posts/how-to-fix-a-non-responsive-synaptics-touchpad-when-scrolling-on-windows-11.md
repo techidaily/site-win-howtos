@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2024-10-26T18:43:16.842Z
-updated: 2024-11-01T18:41:04.371Z
+date: 2024-11-07T02:07:04.099Z
+updated: 2024-11-08T06:12:40.530Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -45,25 +52,25 @@ Both fixes below work in Windows 10, 8 and 7.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -86,20 +93,13 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -126,22 +126,24 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-video-shape-dimensions/"><u>[New] In 2024, Facebook Video Shape Dimensions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[New] Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-ultimate-15-stop-motion-film-collection/"><u>[Updated] Unveiling the Ultimate 15 Stop-Motion Film Collection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/iuwlleeuuplusobqplusmthewkmplusockus4juobioociplusodleocoplusodqplusocvplusodvowkueaendrml6xmnkzoqp7niyjjgrxjgqtjg4jjgafjgyrjgznjgznjgohjgi0i/"><u>動画に魅力を与えるフィルター効果:日本語版サイトでおすすめ」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/isomkv/"><u>簡単な手順でISOファイルからMKVへの変換方法を学ぶ</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-latest-in-apple-macos-versions/"><u>Decoding the Latest in Apple macOS Versions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-functionality-with-the-newly-integrated-google-gemini-on-ios-insights/"><u>Enhancing iPhone Functionality with the Newly Integrated Google Gemini on iOS - Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-methods-how-to-easily-change-your-3gpp-recordings-into-mp3-format/"><u>Free Methods: How To Easily Change Your 3GPP Recordings Into MP3 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-solutions-for-transforming-your-avi-audio-clips-into-high-quality-wav-files/"><u>Free Solutions for Transforming Your AVI Audio Clips Into High-Quality WAV Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-downloading-private-vimeo-content-onto-your-computer/"><u>Guide: Downloading Private Vimeo Content Onto Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-bulk-extract-audio-from-videos-on-windows-11-top-tips-and-tools/"><u>How to Bulk Extract Audio From Videos on Windows 11: Top Tips and Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-change-your-dvd-music-into-mp3-format-a-4-step-guide/"><u>How to Effortlessly Change Your DVD Music Into MP3 Format: A 4-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-engage-your-audience-in-live-discord-streams-easily/"><u>How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-0xc10100be-video-playback-issue/"><u>How to Resolve the 0xC10100BE Video Playback Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-7-hd-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 7 HD Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pros-and-cons-the-ultimate-guide-to-the-garmin-forerunner-marathon-gps-watch/"><u>Pros and Cons: The Ultimate Guide to the Garmin Forerunner Marathon GPS Watch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/turboupload-the-ultimate-guide-to-fast-youtube-video-rendering-for-2024/"><u>TurboUpload The Ultimate Guide to Fast YouTube Video Rendering for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-become-a-visionary-creator-optimal-camera-lens-selection-for-2024/"><u>[New] Become a Visionary Creator Optimal Camera Lens Selection for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-apex-legends-solo-play-tips-and-platform-preference-guide-for-2024/"><u>[Updated] Apex Legends Solo Play Tips & Platform Preference Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-best-5-rapid-setup-techniques-for-home-cinematography-for-2024/"><u>[Updated] Best 5 Rapid Setup Techniques for Home Cinematography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/0mp4/"><u>「0円で最適なMP4圧縮技術によりファイルサイズの大幅な軽減を実現」</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canvascartoons-detailed-scrutiny-and-handbooks-24-for-2024/"><u>CanvasCartoons Detailed Scrutiny & Handbooks '24 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-y100i-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo Y100i.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-diagnose-and-fix-when-your-razer-keyboard-wont-illuminate/"><u>Expert Advice: Diagnose and Fix When Your Razer Keyboard Won't Illuminate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-key-windows-update-elements-solutions-proven-effective/"><u>Fixing Key Windows Update Elements - Solutions Proven Effective</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-webm-and-m4v-files-without-fuss-use-movavi/"><u>Free Online Converter: Convert WebM & M4V Files Without Fuss - Use Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-12-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme 12 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-err-internet-disconnecting-tips-and-strategies/"><u>Overcoming the Challenge of ERR Internet Disconnecting – Tips & Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208878757-print-to-pdf-malfunctioning-in-windows-11-here-are-the-fixes/"><u>Print to PDF Malfunctioning in Windows 11? Here Are the Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pwm-pulse-width-modulation/"><u>PWM (Pulse Width Modulation)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invalid-value-in-registry-errors-during-photo-viewing-on-windows-10/"><u>Resolving 'Invalid Value in Registry' Errors During Photo Viewing on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumph-over-failed-nvidia-installer-errors/"><u>Triumph Over Failed NVIDIA Installer Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-free-guide-repairing-stuck-or-unresponsive-keys-on-your-hp-laptop/"><u>Trouble-Free Guide: Repairing Stuck or Unresponsive Keys on Your HP Laptop</u></a></li>
 </ul></div>
 

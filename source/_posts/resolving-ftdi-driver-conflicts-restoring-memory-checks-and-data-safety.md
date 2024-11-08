@@ -1,7 +1,7 @@
 ---
 title: "Resolving FTDI Driver Conflicts: Restoring Memory Checks and Data Safety"
-date: 2024-10-19T18:29:12.392Z
-updated: 2024-10-21T19:13:20.156Z
+date: 2024-11-01T04:10:34.132Z
+updated: 2024-11-08T07:56:26.520Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -61,10 +54,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
@@ -78,41 +71,40 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -125,6 +117,14 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
@@ -139,6 +139,14 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -164,22 +172,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>[New] Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-building-a-solid-foundation-for-authenticity-in-design/"><u>2024 Approved Building a Solid Foundation for Authenticity in Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211465317-dell-laptop-keyboards-that-wont-work-solutions-at-your-fingertips/"><u>Dell Laptop Keyboards That Won't Work - Solutions at Your Fingertips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-bring-back-your-missing-windows-a-step-by-step-guide/"><u>Easily Bring Back Your Missing Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005803331-forza-horizon-5-stability-issues-heres-how-to-stop-it-from-freezing/"><u>Forza Horizon 5 Stability Issues? Here's How to Stop It From Freezing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-unresponsiveness-at-boot-time/"><u>How to Overcome Windows 11 Unresponsiveness at Boot Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-usb-port-issues-for-a-smooth-windows-1011-experience/"><u>How to Repair USB Port Issues for a Smooth Windows 10/11 Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-elite-7-camcorders-for-winter-sports-enthusiasts/"><u>In 2024, Elite 7 Camcorders for Winter Sports Enthusiasts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterclass-diagnosing-and-restoring-functionality-to-unresponsive-shift-buttons/"><u>Masterclass: Diagnosing & Restoring Functionality to Unresponsive Shift Buttons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterclass-fixing-the-failed-cast-feature-between-your-devices-in-windows-11/"><u>Masterclass: Fixing the Failed Cast Feature Between Your Devices in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-monster-hunters-start-up-the-mysterious-all-black-screen-problem/"><u>Resolving Monster Hunter's Start-Up: The Mysterious All-Black Screen Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-accessing-and-using-androids-quick-setting-features/"><u>The Ultimate How-To: Accessing and Using Android's Quick Setting Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-mac-maintenance-tools-of-2022-a-comprehensive-review/"><u>Top-Ranking Mac Maintenance Tools of 2022: A Comprehensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enable-your-devices-wi-fi-functionality/"><u>Troubleshooting Guide: Enable Your Device's Wi-Fi Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-of-free-apple-music-access-a-comprehensive-guide-for-students-zdnet/"><u>Unlocking the Secrets of Free Apple Music Access: A Comprehensive Guide for Students | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-explorer-down-fix-now/"><u>Windows Explorer Down – Fix Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>[New] Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-androids-free-video-chat-alternatives-top-list/"><u>[Updated] In 2024, Android's Free Video Chat Alternatives Top List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-14-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 14 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/academic-allies-premier-educators-on-youtube/"><u>Academic Allies Premier Educators on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcome-user-profile-service-failure-sign-in-problems-in-windows/"><u>Comprehensive Guide to Overcome User Profile Service Failure Sign In Problems in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-nonfunctional-blue-light-filter-in-your-newest-windows-os/"><u>How to Repair the Nonfunctional Blue Light Filter in Your Newest Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-constant-crashes-in-monster-hunter-world-pc-version/"><u>How to Resolve Constant Crashes in Monster Hunter: World PC Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-pocos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Pocos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-troublesome-0x800704cf-a-comprehensive-fix-for-your-windows-systems-network-issue/"><u>Overcome the Troublesome 0X800704CF: A Comprehensive Fix for Your Windows System's Network Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-get-the-scroll-wheel-working-again-on-your-logitech-mouse/"><u>Quick Fixes to Get the Scroll Wheel Working Again on Your Logitech Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-understanding-unintentional-auto-start-in-windows-11/"><u>Unraveling the Mystery: Understanding Unintentional Auto-Start in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-10-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 10 [Fixed]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nary-artisan-merging-sights-and-sounds/"><u>Visionary Artisan Merging Sights and Sounds</u></a></li>
 </ul></div>
 

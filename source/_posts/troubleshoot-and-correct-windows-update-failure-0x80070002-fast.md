@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Correct Windows Update Failure 0X80070002 Fast
-date: 2024-10-31T10:00:00.445Z
-updated: 2024-11-01T17:35:37.014Z
+date: 2024-10-31T18:30:27.713Z
+updated: 2024-11-08T01:41:01.790Z
 tags:
   - win11
   - win10
@@ -62,9 +62,23 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
@@ -73,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -91,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
@@ -100,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ---
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -122,16 +129,16 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
@@ -159,16 +166,16 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
@@ -188,9 +195,29 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -204,13 +231,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
@@ -220,13 +240,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
@@ -255,10 +268,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -266,13 +279,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -297,20 +303,20 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-advanced-techniques-using-jump-cuts-effectively/"><u>[New] In 2024, Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-gear-vr-latest-phone-compatibility-guide-for-2024/"><u>[Updated] Gear VR Latest Phone Compatibility Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-bandicam-uncovered-a-critical-review-for-tech-enthusiasts/"><u>2024 Approved Bandicam Uncovered A Critical Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-converting-your-mp4-files-to-wmv-with-handbrake-step-by-step-tutorials/"><u>Effortlessly Converting Your MP4 Files to WMV with Handbrake - Step-by-Step Tutorials</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-the-newly-resurrected-blamo-repo-on-kodi-leia-krypton-installation-guide/"><u>Experience the Newly Resurrected Blamo Repo on Kodi (Leia, Krypton) - Installation Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-integrating-a-book-collection-into-your-plex-media-server/"><u>Guide: Successfully Integrating a Book Collection Into Your Plex Media Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-chop-your-footage-into-sections-using-shotcut-the-comprehensive-walkthrough/"><u>How to Effortlessly Chop Your Footage Into Sections Using Shotcut - The Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/integrating-youtube-videos-into-your-powerpoint-presentations-a-step-by-step-guide/"><u>Integrating YouTube Videos Into Your PowerPoint Presentations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-full-screen-recording-on-windows-10-and-11-a-step-by-step-tutorial/"><u>Mastering the Art of Full-Screen Recording on Windows 10 and 11 - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movmpeg-3/"><u>MOVフォーマットへのMPEG変換: 効果的な3方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-eliminate-lag-for-smoother-gaming-experience/"><u>Rainbow Six Siege Troubleshooting: Eliminate Lag for Smoother Gaming Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-common-issues-repairing-dvd-playback-when-it-keeps-skipping-and-freezing/"><u>Solving Common Issues: Repairing DVD Playback When It Keeps Skipping and Freezing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95812617-9781616409630-the-supermarket-sorceress/"><u>The Supermarket Sorceress | Free Book</u></a></li>
-<li><a href="https://solve-news.techidaily.com/unveiling-the-ultimate-macx-dvd-ripper-pro-history-benefits-and-detailed-overview/"><u>Unveiling the Ultimate MacX DVD Ripper Pro: History, Benefits, and Detailed Overview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>[New] 2024 Approved Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[New] Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>[New] The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-ps3-emulators-your-gateway-to-classic-games-for-2024/"><u>[Updated] Top Ps3 Emulators Your Gateway to Classic Games for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-adventure-essentials-top-10-gopro-protectors-reviewed/"><u>2024 Approved Adventure Essentials - Top 10 GoPro Protectors Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-rectifying-youtube-sound-malfunctions-caused-by-an-audio-renderer-error-on-windows-10/"><u>Addressing and Rectifying YouTube Sound Malfunctions Caused by an Audio Renderer Error on Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-chatgpt-unveiling-4-impressive-qualities-of-the-claude-ai-chatbot/"><u>Beyond ChatGPT: Unveiling 4 Impressive Qualities of the Claude AI Chatbot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unstable-display-resolving-screen-flickering-on-windows-11/"><u>How to Fix Unstable Display: Resolving Screen Flickering on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-solved-the-system-event-notifier-service-connection-error-in-windows/"><u>How We Solved the System Event Notifier Service Connection Error in Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-hiding-touchpad-on-windows-11-with-usb-mouse-connection/"><u>Step-by-Step Instructions for Hiding Touchpad on Windows 11 with USB Mouse Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-lagging-keyboard-inputs-on-windows-10-systems/"><u>Step-by-Step Solution for Lagging Keyboard Inputs on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-installation-errors-fast-and-effectively/"><u>Troubleshoot Windows Installation Errors Fast and Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-thawing-out-your-unresponsive-pc/"><u>Ultimate Guide: Thawing Out Your Unresponsive PC</u></a></li>
 </ul></div>
 

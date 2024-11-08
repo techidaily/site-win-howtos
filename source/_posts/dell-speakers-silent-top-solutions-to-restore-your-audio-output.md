@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2024-10-31T18:32:50.796Z
-updated: 2024-11-02T11:03:24.060Z
+date: 2024-11-04T21:45:11.992Z
+updated: 2024-11-07T23:25:28.378Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -61,10 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -81,29 +74,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -142,6 +128,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -150,20 +143,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,19 +199,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-revolutionizing-your-viewing-the-zoom-effectiveness/"><u>[New] Revolutionizing Your Viewing The Zoom Effectiveness</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>[Updated] 2024 Approved Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-techniques-for-verbal-note-taking-expertise/"><u>[Updated] Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-right-virtual-helper-alexa-vs-google-assistant/"><u>Choosing the Right Virtual Helper: Alexa Vs. Google Assistant</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-ideal-whatsapp-ringtone-ios-and-android-guide/"><u>In 2024, Crafting the Ideal WhatsApp Ringtone - iOS & Android Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>New In 2024, Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-operational-capacity-in-flawed-usb-serial-cables-windows/"><u>Restore Operational Capacity in Flawed USB-Serial Cables, Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-top-rated-free-tools-for-dividing-your-videos-into-sections/"><u>The Ultimate List of Top-Rated Free Tools for Dividing Your Videos Into Sections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-free-substitutes-to-camstudio-on-windows-platforms/"><u>Top 5 Free Substitutes to CamStudio on Windows Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-no-cost-video-merge-apps-with-zero-watermarks/"><u>Top 5 No-Cost Video Merge Apps with Zero Watermarks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-reducing-size-of-mp4-videos-across-all-devices-and-web-services/"><u>Ultimate Guide: Reducing Size of MP4 Videos Across All Devices & Web Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-converting-blu-ray-discs-to-optimized-mkv-format-for-enhanced-streaming-experience/"><u>Ultimate Tutorial on Converting Blu-Ray Discs to Optimized MKV Format for Enhanced Streaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-4k-resolution-a-complete-guide-to-upgrading-your-videos-to-ultra-high-definition/"><u>Understanding 4K Resolution: A Complete Guide to Upgrading Your Videos to Ultra High Definition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/visual-virtue-essential-resources-for-adding-frames-to-images-for-2024/"><u>Visual Virtue Essential Resources for Adding Frames to Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unleash-your-typographic-vision-in-after-effects-mastery/"><u>[New] In 2024, Unleash Your Typographic Vision in After Effects Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-google-chrome-black-screen-problem/"><u>[Solved] How to Fix Google Chrome Black Screen Problem</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-childhood-wings-5-best-drone-companions-for-2024/"><u>[Updated] Childhood Wings 5 Best Drone Companions for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>[Updated] In 2024, Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-offright-how-to-register-with-youtube/"><u>[Updated] Starting Offright How to Register With YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[Updated] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-instant-subscriber-growth-trackers/"><u>2024 Approved Instant Subscriber Growth Trackers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-ethernet-malfunctions-on-your-windows-laptop-or-desktop/"><u>Easy Fixes for Ethernet Malfunctions on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevate-audio-quality-in-podcasts-using-garageband-for-2024/"><u>Elevate Audio Quality in Podcasts Using GarageBand for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/empowerment-in-film-a-selection-of-inspiring-titles/"><u>Empowerment in Film A Selection of Inspiring Titles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-the-ultimate-fixes-for-kodis-buffering-glitches/"><u>No More Interruptions: The Ultimate Fixes for Kodi's Buffering Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-troubleshoot-and-optimize-using-system-refreshreset-features/"><u>Windows 11 Users' Guide: Troubleshoot and Optimize Using System Refresh/Reset Features</u></a></li>
 </ul></div>
 

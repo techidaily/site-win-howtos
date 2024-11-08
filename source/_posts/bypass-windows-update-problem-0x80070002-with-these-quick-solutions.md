@@ -1,7 +1,7 @@
 ---
 title: Bypass Windows Update Problem 0X80070002 with These Quick Solutions!
-date: 2024-09-10T22:12:11.153Z
-updated: 2024-09-17T21:32:48.392Z
+date: 2024-11-05T21:01:08.878Z
+updated: 2024-11-07T21:25:09.252Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -92,6 +99,13 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -101,6 +115,13 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -121,10 +142,16 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -142,10 +169,16 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
@@ -153,13 +186,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -186,5 +212,24 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mystery-behind-missing-facebook-video-suggests/"><u>[Updated] 2024 Approved Mystery Behind Missing Facebook Video Suggests</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-adjust-your-screen-with-confidence-and-ease-iphone/"><u>[Updated] Adjust Your Screen with Confidence and Ease (iPhone)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>[Updated] Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-comprehensively-curated-list-15-prime-gear-for-gopro/"><u>2024 Approved Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academias-dilemma-human-writing-vs-ai-assisted-paperwork/"><u>Academia’s Dilemma: Human Writing Vs. AI-Assisted Paperwork</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-connectivity-woes-ultimate-guide-to-pairing-airpods-with-windows-computers/"><u>Beat Connectivity Woes: Ultimate Guide to Pairing AirPods with Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fallout-4-lag-dilemma-expert-tips-and-tricks-to-boost-your-gaming-experience/"><u>Fallout 4 Lag Dilemma: Expert Tips and Tricks to Boost Your Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-no-device-found-error-on-your-computer-step-by-step-guide/"><u>Fixing the 'No Device Found' Error on Your Computer - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-insight-guide-to-efficiently-use-google-docs-speech-to-text-for-2024/"><u>Full Insight Guide to Efficiently Use Google Docs Speech-to-Text for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>Innovation in Minimization The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-the-windows-update-failed-0x80070652-issue/"><u>Quick Solutions for Resolving the 'Windows Update Failed' 0X80070652 Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-troubleshooting-of-service-failure-timeout-issue-code-1053/"><u>Successful Troubleshooting of Service Failure Timeout Issue (Code 1053)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-no-device-drivers-found-errors-in-windows-7-installation/"><u>The Ultimate Solution for 'No Device Drivers Found' Errors in Windows 7 Installation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-camon-30-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Camon 30 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/worlds-beyond-borders-best-10-mmo-adventures-for-free-for-2024/"><u>Worlds Beyond Borders Best 10 MMO Adventures for Free for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Solving PUBG Buildings Not Loading Problems
-date: 2024-10-21T18:44:42.658Z
-updated: 2024-10-27T16:03:40.913Z
+date: 2024-11-03T08:50:33.029Z
+updated: 2024-11-07T17:52:45.783Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ Before start using the methods, you should check your connection first.
 5. [Use Microsoft Store troubleshoot](#m4)
 6. [Reset Microsoft Store from settings](#m5)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1\. Run Fortect to repair error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix Windows errors. It is tailored to your specific system and is working in a private and automatic way.
@@ -45,23 +58,30 @@ Before start using the methods, you should check your connection first.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Correct your time and location
 
@@ -76,10 +96,10 @@ Before start using the methods, you should check your connection first.
 5. Open the Microsoft Store to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Use the WSReset tool
@@ -91,10 +111,17 @@ Before start using the methods, you should check your connection first.
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Disable the Proxy connection
@@ -106,13 +133,6 @@ Before start using the methods, you should check your connection first.
 
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
 4. Run the Microsoft Store and check the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Use Microsoft Store troubleshoot
 
@@ -127,13 +147,6 @@ Before start using the methods, you should check your connection first.
 
 5. Run the Microsoft Store to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 6: Reset Microsoft Store from settings
 
  If the above settings can’t fix the problem, you can reset the Microsoft Store to default to solve the problem.
@@ -143,28 +156,15 @@ Before start using the methods, you should check your connection first.
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
 5. Run the Microsoft Store to check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
@@ -186,24 +186,21 @@ Before start using the methods, you should check your connection first.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pushing-the-boundaries-of-screen-recording-with-recmeister/"><u>[New] Pushing the Boundaries of Screen Recording with Recmeister</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[Updated] Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286258868-digiarty/"><u>「スピーディなオンライン収入開始 - Digiartyアフィリエイトプログラムへの早期参加」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-118/"><u>💻Windows 11の最高スクリーンレコーダー：画面キャプチャの達人8つを紹介しよう！</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-crafting-popular-vlogging-narratives-for-2024/"><u>A Roadmap to Crafting Popular Vlogging Narratives for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits-and-rising-economic-growth-over-the-next-six-months-to-drive-further-gain149/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits and Rising Economic Growth over the Next Six Months to Drive Further Gains</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/create-compelling-images-on-iphone-with-these-10-principles/"><u>Create Compelling Images on iPhone with These 10 Principles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cache-miss-errors-quickly-in-google-chrome-for-a-smooth-web-experience/"><u>Fixing 'Cache Miss' Errors Quickly in Google Chrome for a Smooth Web Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolving-google-chromes-critical-error-scam/"><u>Fixing the Issue: A Step-by-Step Guide to Resolving Google Chrome's 'Critical Error Scam'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-audio-hardware-detection-failures-on-windows-11-computers/"><u>How to Fix Audio Hardware Detection Failures on Windows 11 Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x00000078-phase0exception/"><u>How to Fix STOP 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-failed-to-create-d3d-device-error-on-windows-solution-guide/"><u>How to Fix the Failed to Create D3D Device Error on Windows – Solution Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>In 2024, Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-error-code-5-explained-quick-fixes-for-a-smooth-gaming-experience/"><u>Minecraft Error Code 5 Explained – Quick Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/obs-game-capturing-woes-fix-that-perplexing-black-screen-issue-today/"><u>OBS Game Capturing Woes? Fix That Perplexing Black Screen Issue Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-revive-and-restart-an-unresponsive-pc/"><u>Step-by-Step Strategies to Revive and Restart an Unresponsive PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-zte-nubia-flip-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from ZTE Nubia Flip 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-deadly-glitches-in-black-ops-4/"><u>Troubleshooting Tips: Overcoming Deadly Glitches in Black Ops 4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-power-play-essential-10-motivational-films/"><u>[New] Power Play Essential 10 Motivational Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beat-the-sickening-of-virtual-reality-for-2024/"><u>[Updated] Beat the Sickening of Virtual Reality for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[Updated] In 2024, Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/archive-exploration-for-social-media-insight/"><u>Archive Exploration for Social Media Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-face-alteration-apps-iphoneios-devices/"><u>Elite Face Alteration Apps, iPhone/iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-windows-experience-eliminating-entry-point-not-found-issues/"><u>Error-Free Windows Experience: Eliminating Entry Point Not Found Issues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-resolving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>In 2024, Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-error-resolution-eliminating-the-0xc0000098-bug-effectively-and-efficiently/"><u>Mastering Windows Error Resolution: Eliminating the 0xC0000098 Bug Effectively and Efficiently</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-add-and-custom-slack-emoji-wondershare-filmora-for-2024/"><u>New How to Add and Custom Slack Emoji-Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-shockwave-flash-crashes-in-google-chrome/"><u>Resolving Shockwave Flash Crashes in Google Chrome</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/share-tunes-mp3-from-fb/"><u>Share Tunes MP3 From FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-podcast-rss-feeds-a-practical-approach/"><u>Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-notorious-windows-error-code-0x80n704cf/"><u>Troubleshooting and Fixing the Notorious Windows Error Code 0X80n704CF</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dxgkrnl-critical-failures-for-smooth-video-playback-on-windows-systems/"><u>Troubleshooting Dxgkrnl Critical Failures for Smooth Video Playback on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-sudden-halt-of-vpn-hamachi-services/"><u>Troubleshooting Guide: Resolving the Sudden Halt of VPN Hamachi Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209749523-why-isnt-my-usb-mouse-working-expert-tips-for-quick-laptop-fixes/"><u>Why Isn't My USB Mouse Working? Expert Tips for Quick Laptop Fixes</u></a></li>
 </ul></div>
 

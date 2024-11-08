@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2024-11-01T11:13:18.456Z
-updated: 2024-11-01T18:40:48.336Z
+date: 2024-11-03T07:53:09.356Z
+updated: 2024-11-08T01:19:28.123Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-uninstall-device-in-the-Device-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Restart your PC. After restarting, Windows should automatically re-install the sound driver. Assuming it installs the latest correct driver, this may resolve the problem.
@@ -83,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate the**Sound, video, and game controllers** category in the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Sound-video-and-game-controllers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see this category in your list, continue with step 2a) below. Otherwise, skip to[step 3](#step3) .
 
@@ -108,33 +108,26 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2d) If the wizard tells you it can’t find any new hardware, click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2e) You should now see a list of hardware types. Scroll down until you see **Sound, video and game controllers** . Select it and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2f) Select the manufacturer and model of your sound card, then click **Next** .
 
@@ -145,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
@@ -156,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  3) Expand the**Sound, video and game controllers** category, right-click on your audio device, and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Disable-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once again, right-click your audio device and select**Enable device** .
 
@@ -180,16 +180,20 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-the-secrets-of-snapchat-boomerang-tricks/"><u>[New] Unlocking the Secrets of Snapchat Boomerang Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-basic-tale-design-principles/"><u>[Updated] Basic Tale Design Principles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-trailblaze-the-gaming-frontier-samsung-edition-for-2024/"><u>[Updated] Trailblaze the Gaming Frontier Samsung Edition for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-layout-layers-elevating-your-youtube-videos/"><u>2024 Approved Layout Layers Elevating Your YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-ranked-mac-pro-video-maker-plus-audio/"><u>2024 Approved Top-Ranked Mac Pro Video Maker Plus Audio</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212440566-bring-out-the-hidden-touchpad-showcase-it/"><u>Bring Out the Hidden Touchpad, Showcase It!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-common-challenges-with-geforce-experience-a-step-by-nstep-guide/"><u>Overcoming Common Challenges with GeForce Experience: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/quick-content-in-a-facebook-frame/"><u>Quick Content in a Facebook Frame</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-device-detection-issues-with-bluetooth-on-windows-10/"><u>Troubleshooting Guide: Fixing Device Detection Issues with Bluetooth on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-camera-issues-on-hp-laptops-with-windows-11/"><u>Troubleshooting Guide: Resolving Camera Issues on HP Laptops with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-d3derr-not-available-errors-on-your-pc/"><u>Troubleshooting Tips for Fixing D3DERR Not Available Errors on Your PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-amplify-your-storytelling-seamlessly-insert-music-into-youtube-videos/"><u>[New] Amplify Your Storytelling Seamlessly Insert Music Into YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-demystify-the-screen-time-analyze-your-posts-viewership/"><u>[New] In 2024, Demystify the Screen Time Analyze Your Post's Viewership</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-recording-movies-best-practices-with-windows-11/"><u>[New] In 2024, Recording Movies Best Practices with Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[New] Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-video-impact-on-youtube-top-video-formats/"><u>2024 Approved Maximizing Video Impact on YouTube – Top Video Formats</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-and-cost-effective-samsung-galaxy-s1eevaluation-a-small-device-with-big-features/"><u>Compact & Cost-Effective Samsung Galaxy S1eEvaluation: A Small Device with Big Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210522294-fix-windows-update-error-code-8007000e-fast-simple-solutions/"><u>Fix Windows Update Error Code 8007000E Fast - Simple Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-bad-image-issue-in-windows-11-and-10-a-step-by-step-guide/"><u>Fixing the 'Bad Image' Issue in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-on-handling-and-repairing-opengl-problems-in-minecraft/"><u>Masterclass on Handling and Repairing OpenGL Problems in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208916600-no-more-waiting-fortnite-kicks-off/"><u>No More Waiting: Fortnite Kicks Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/obs-and-instagram-integration-the-essential-how-to-manual-for-2024/"><u>OBS and Instagram Integration The Essential How To Manual for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-non-responsive-letters-in-keyboards-for-windows-11-users/"><u>Resolve Non-Responsive Letters in Keyboards for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-amoebas/"><u>Section Amoebas!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-connection-issues-with-your-xbox-one-controller/"><u>Troubleshooting: Fixing Connection Issues with Your Xbox One Controller</u></a></li>
 </ul></div>
 

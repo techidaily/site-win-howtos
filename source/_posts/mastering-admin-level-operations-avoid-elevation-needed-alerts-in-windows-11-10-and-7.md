@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin-Level Operations: Avoid 'Elevation Needed' Alerts in Windows 11, 10 & 7"
-date: 2024-10-29T04:48:32.305Z
-updated: 2024-11-02T06:13:15.874Z
+date: 2024-11-07T07:46:49.381Z
+updated: 2024-11-08T01:33:03.728Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -55,16 +48,29 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -83,19 +89,19 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
@@ -109,10 +115,10 @@ If this fix didn’t help, try the next fix.
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
@@ -125,13 +131,6 @@ If this fix didn’t help, try the next one.
 
 If your problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -139,6 +138,13 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -179,20 +185,24 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-free-cam-software-showdown-best-alternative-to-expensive-options/"><u>[New] Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-zooming-ahead-best-practices-for-screenshares-for-2024/"><u>[New] Zooming Ahead Best Practices for Screenshares for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-6-homework-assistance-apps-for-both-kids-and-guardians/"><u>Best 6 Homework Assistance Apps for Both Kids & Guardians</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80073cf9-decoded-your-guide-to-fixing-windows-10-store-issues/"><u>Error Code 0X80073CF9 Decoded: Your Guide to Fixing Windows 10 Store Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-the-essence-recording-conversations-on-whatsapp-efficiently/"><u>In 2024, Capturing the Essence Recording Conversations on WhatsApp Efficiently</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-blueprint-for-virtual-business-growth/"><u>In 2024, The Blueprint for Virtual Business Growth</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11f-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11F 5G Phone FRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-how-to-correct-livekernelevent-error-117/"><u>Mastering the Art of Troubleshooting: How to Correct LiveKernelEvent Error 117</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-glitches-in-windows-11-effective-solutions/"><u>Overcoming HP Laptop Webcam Glitches in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-lost-volume-control-addressing-the-no-audio-output-installed-warning-in-modern-windows-os/"><u>Quick Fixes for Lost Volume Control: Addressing the 'No Audio Output Installed' Warning in Modern Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-valorants-tearing-issue-a-comprehensive-guide/"><u>Resolving Valorant's Tearing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-unable-to-establish-directx12-graphics-device-a-step-by-step-guide/"><u>Solving the Issue of 'Unable to Establish DirectX12 Graphics Device' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolve-errors-when-modules-cant-be-located/"><u>Troubleshooting: Resolve Errors When Modules Can't Be Located</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-fps-levels-in-delayed-footage/"><u>Ultimate FPS Levels in Delayed Footage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-samsung-smart-tvs-remote-access-features/"><u>Ultimate Guide: Mastering Samsung Smart TV's Remote Access Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-tools-5-leading-ps2-emulator-apps/"><u>[New] In 2024, Essential Android Tools 5 Leading PS2 Emulator Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>[Updated] 2024 Approved Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-how-to-remove-image-background-in-photopea/"><u>[Updated] How to Remove Image Background In Photopea</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-windows-10-two-monitor-blankness/"><u>Addressing Windows 10 Two-Monitor Blankness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-innovation-on-bing-by-microsoft-discover-the-exciting-changes-coming-your-way/"><u>AI Innovation on Bing by Microsoft: Discover the Exciting Changes Coming Your Way</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-m34-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy M34 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-unresponsive-usb-connections-on-windows-11-systems/"><u>Diagnosing and Repairing Unresponsive USB Connections on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-windows-notorious-error-0x800704cf/"><u>Effective Strategies for Resolving Windows' Notorious Error 0X800704CF</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-mysterious-black-screen-issue-on-google-chrome-a-comprehensive-guide/"><u>Fixing the Mysterious Black Screen Issue on Google Chrome: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-system-crashes-on-launch-and-startup/"><u>How to Fix Windows 10 System Crashes on Launch and Startup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f04-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F04 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-unique-instagrams-with-flawless-image-borders/"><u>In 2024, Crafting Unique Instagrams with Flawless Image Borders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-missing-dynamic-libraries-for-opencl/"><u>Solving Missing Dynamic Libraries for OpenCL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-nvidia-shares-arent-working/"><u>Troubleshooting Steps When Your Nvidia Shares Aren't Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutorial-on-acquiring-trustee-rights-from-trustedinstaller-for-file-edits/"><u>Tutorial on Acquiring Trustee Rights From TrustedInstaller for File Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-power-to-revive-your-windows-10-taskbar-expert-tips-and-tricks/"><u>Unlock the Power to Revive Your Windows 10 Taskbar - Expert Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-blu-ray-drm-for-personal-use-without-violating-copyright-laws/"><u>Unlocking Blu-Ray DRM for Personal Use Without Violating Copyright Laws</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
 </ul></div>
 

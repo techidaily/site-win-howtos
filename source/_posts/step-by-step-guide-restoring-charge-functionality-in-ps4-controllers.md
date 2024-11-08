@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Charge Functionality in PS4 Controllers"
-date: 2024-09-13T16:18:45.926Z
-updated: 2024-09-18T01:42:18.579Z
+date: 2024-11-01T01:06:14.046Z
+updated: 2024-11-07T22:07:57.258Z
 tags:
   - win11
   - win10
@@ -47,6 +47,19 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -61,9 +74,23 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -78,6 +105,13 @@ Follow these:
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -120,18 +154,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>[Updated] In 2024, Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-in-live-streaming-integrating-dslr-into-your-digital-space-for-2024/"><u>[Updated] Masterclass in Live Streaming Integrating DSLR Into Your Digital Space for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-windows-11-video-mastery-utilizing-the-movie-maker-interface/"><u>[Updated] Windows 11 Video Mastery Utilizing the Movie Maker Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gif-mkv-movavi/"><u>在線GIF-MKV無限升級 - 以 Movavi 改版器助力媒體交換</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-os-specific-drivers-update-with-ease-windows-10-81-7/"><u>Accelerate OS-Specific Drivers Update with Ease: Windows 10, 8.1, 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-slack-and-discord-which-is-the-ultimate-team-communication-tool/"><u>Comparing Slack and Discord – Which Is the Ultimate Team Communication Tool?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-wma-vers-webm-pour-une-meilleure-qualite-video-convertissez-sans-frais-a-laide-de-movavi/"><u>Conversion De Fichiers Audio WMA Vers WEBM Pour Une Meilleure Qualité Vidéo - Convertissez Sans Frais À L'aide De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-mp4-versie-wmv-online-convertisseur-video-rapide-de-movavi/"><u>Gratuit MP4 Versie WMV Online - Convertisseur Vidéo Rapide De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a70-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A70 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>In 2024, Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y200e-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y200e 5G FRP Without Computer</u></a></li>
+</ul></div>
 

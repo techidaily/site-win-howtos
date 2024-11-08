@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-10-27T09:01:30.234Z
-updated: 2024-11-01T22:21:07.118Z
+date: 2024-11-05T22:33:28.805Z
+updated: 2024-11-08T02:34:11.449Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -51,6 +58,14 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
@@ -61,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -81,16 +89,10 @@ Follow these steps to reset your Winsock Catalog:
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **netsh winsock reset**
@@ -113,26 +115,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -148,16 +143,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -171,15 +166,15 @@ Restart your computer to see if the error has gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -205,18 +200,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[New] Funimate on Your Phone Unzipping the APK Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-secret-language-of-success-top-20-market-phrases/"><u>[New] The Secret Language of Success - Top 20 Market Phrases</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-learn-to-fast-forward-faster-in-snapchat-simple-and-quick/"><u>In 2024, Learn to Fast-Forward Faster in Snapchat, Simple & Quick</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-troubleshooting-fixing-error-0x8024401c-in-windows-update-for-users-of-windows-1011/"><u>In-Depth Troubleshooting: Fixing Error 0X8024401c in Windows Update for Users of Windows 10/11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mpeg2-video-compression-made-easy-with-virtualdub-download/"><u>New In 2024, MPEG2 Video Compression Made Easy with VirtualDub Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-resetting-failed-mishaps-in-windows-10-recovery-options-solutions-that-work/"><u>Overcoming Resetting Failed Mishaps in Windows 10 Recovery Options: Solutions That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-issues-with-pvpnets-stalled-kernel-update/"><u>Quick Fix Guide: Resolving Issues with PvP.net's Stalled Kernel Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rectified-mouse-constantly-performing-double-click-actions/"><u>Rectified: Mouse Constantly Performing Double Click Actions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-six-solutions-to-prevent-your-airpods-from-auto-switching-across-iphone-and-mac/"><u>Top Six Solutions to Prevent Your AirPods From Auto-Switching Across iPhone and Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-glow-up-the-best-three-highlight-ideas-for-2024/"><u>[New] Instagram Glow Up The Best Three Highlight Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-online-event-replay-collectors/"><u>[Updated] 2024 Approved Online Event Replay Collectors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-best-ps1-emulators-for-pc/"><u>[Updated] 5 Best PS1 Emulators for PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-instant-impact-or-rapid-rhythm-youtube-shorts-vs-tiktok-for-quick-content-for-2024/"><u>[Updated] Instant Impact or Rapid Rhythm YouTube Shorts Vs. TikTok for Quick Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>[Updated] Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/4-powerful-techniques-to-back-up-all-files-on-your-windows-10-system/"><u>4 Powerful Techniques to Back Up All Files on Your Windows 10 System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgidll-anomaly-eliminated-for-smooth-pubg-play/"><u>Dxgi.dll Anomaly: Eliminated for Smooth PUBG Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/impairment-of-apoptosis/"><u>Impairment of Apoptosis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v27e-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V27e Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-pc-connected-heres-how-you-fixed-it/"><u>Monster Hunter World PC Connected? Here’s How You Fixed It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-slow-shutdown-woes-in-windows-11-effective-strategies-inside/"><u>Overcome Slow Shutdown Woes in Windows 11 – Effective Strategies Inside</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-the-issue-when-steam-bootstrapper-fails-to-start/"><u>Solution Found: Fixing the Issue When Steam Bootstrapper Fails to Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-errors-how-to-successfully-reinstall-geforce-shadow-play/"><u>Solving Errors: How to Successfully Reinstall GeForce Shadow Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-start-menu-button-failures-in-windows-11-a-step-by-step-guide/"><u>Solving Windows Start Menu Button Failures in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wacom-digitizer-unrecognized-driver-on-new-windows-11-pcs/"><u>Troubleshooting: Wacom Digitizer Unrecognized Driver on New Windows 11 PCs</u></a></li>
 </ul></div>
 

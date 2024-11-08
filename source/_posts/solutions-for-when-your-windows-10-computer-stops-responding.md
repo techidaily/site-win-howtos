@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your Windows 10 Computer Stops Responding
-date: 2024-09-16T18:30:44.428Z
-updated: 2024-09-18T00:54:24.381Z
+date: 2024-11-07T00:53:43.678Z
+updated: 2024-11-07T23:10:29.180Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -61,10 +68,25 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
@@ -73,6 +95,14 @@ Follow these:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -98,12 +128,20 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/dvd-2024/"><u>【高效選用】新版 DVD 播放器軟件 - 2024 好用且功能優異的免費版本</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-hues-harmonized-implementing-color-strategies/"><u>2024 Approved Hues Harmonized Implementing Color Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/downloadless-video-sizing-application-adjust-video-length-and-quality-costlessly-on-the-internet/"><u>Downloadless Video Sizing Application - Adjust Video Length and Quality Costlessly on the Internet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fullvejledning-til-nytestegrepene-i-obs-virtual-camera-2024-en-kompleks-guide/"><u>Fullvejledning Til Nytestegrepene I OBS Virtual Camera 2024: En Kompleks Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-omzettingen-van-gif-bestanddeelnissen-online-zeiken-vanavi/"><u>Gratis Omzettingen Van Gif-Bestanddeelnissen Online - Zeiken Vanavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>In 2024, A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-discover-the-best-no-cost-soundtracks-for-video-production/"><u>In 2024, Discover the Best No-Cost Soundtracks for Video Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-seas-of-change-altering-your-iphones-location-and-language-options/"><u>Navigating Through the Seas of Change: Altering Your iPhone's Location and Language Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scarica-converti-ritratto-orf-su-jpg-senza-costi-con-moviesnap/"><u>Scarica Converti Ritratto Orf Su JPG Senza Costi Con MovieSnap</u></a></li>
+<li><a href="https://article-tips.techidaily.com/snapedit-a-beginners-guide-to-photo-mastery-for-2024/"><u>Snapedit A Beginner's Guide to Photo Mastery for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-footage-expert-video-editing-for-sony-camcorder-users/"><u>Updated 2024 Approved Transform Your Footage Expert Video Editing for Sony Camcorder Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-poco-c65-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Poco C65? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Security Maintenance Complete: Reactivating Community-Based Protection Systems"
-date: 2024-10-16T16:05:00.231Z
-updated: 2024-10-21T20:28:13.295Z
+date: 2024-11-03T18:37:14.392Z
+updated: 2024-11-07T20:35:46.512Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -48,13 +41,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -75,10 +61,10 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -86,6 +72,13 @@ To rule out this as a possibility:
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -97,6 +90,13 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
@@ -105,9 +105,23 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -125,13 +139,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
@@ -139,13 +146,6 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,21 +171,20 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-exploring-visual-storytelling-creating-time-lapse-videos-on-ipad/"><u>[New] 2024 Approved Exploring Visual Storytelling Creating Time-Lapse Videos on iPad</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-videovault-annual-review-of-top-screen-recorders/"><u>[New] VideoVault Annual Review of Top Screen Recorders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[Updated] In 2024, Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/avatar-asymmetry-artistry-sketching-distorted-images/"><u>Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/beyondbasics-futurecameraspost-mycam-for-2024/"><u>BeyondBasics FutureCamerasPost-MyCam for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-windows-driver-power-state-error-fixes/"><u>Easy Solutions for Windows Driver Power State Error Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-a-frozen-window-10-screen/"><u>Effective Solutions for Resolving a Frozen Window 10 Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-black-screen-fixes-a-step-by-step-guide/"><u>Google Chrome Black Screen Fixes - A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-new-mouse-drivers-easy-and-swift-for-windows-7/"><u>Install New Mouse Drivers: Easy & Swift for Windows 7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-timing-on-mobile-top-10-apps-for-couples-special-day/"><u>Mastering Timing on Mobile Top 10 Apps for Couple's Special Day</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-top-5-free-m4a-file-editors-you-need-for-2024/"><u>New The Top 5 Free M4A File Editors You Need for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overload-incident-at-networking-interface/"><u>Resolved: Overload Incident at Networking Interface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-keyboard-arrow-keys-malfunction-effective-troubleshooting-tips/"><u>Solving Keyboard Arrow Keys Malfunction: Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-your-pc-doesnt-recognize-the-hard-disk/"><u>Troubleshooting Guide: When Your PC Doesn't Recognize the Hard Disk</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-windows-10-touchscreen-issues-using-these-5-methods/"><u>Ultimate Guide: Repairing Windows 10 Touchscreen Issues Using These 5 Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-to-stellar-custom-shorts-thumbnails-for-2024/"><u>[New] Step-by-Step to Stellar Custom Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tiktok-dominance-on-twitter-the-top-share-list/"><u>[Updated] In 2024, TikTok Dominance on Twitter The Top Share List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-elites-choice-top-6-superior-4k-dslr-powerhouses/"><u>2024 Approved Elite's Choice Top 6 Superior 4K DSLR Powerhouses</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-on-windows-10-heres-how-to-fix-it/"><u>Bluetooth Woes on Windows 10? Here's How to Fix It</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-pad-issues-in-windows-solutions-for-win11-win8-and-win7-users-fixed/"><u>Laptop Pad Issues in Windows: Solutions for Win11, Win8, and Win7 Users [FIXED]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s17-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S17 Phone Now with These Tips</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/quick-format-functionality-does-it-erase-data-permanently/"><u>Quick Format Functionality: Does It Erase Data Permanently?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/see-event-may-27-1940-the-united-states-raises-tariffs-again-on-many-goods-from-countries-still-in-world-war-ii-relating-to-interest-rates-as-it-shows-the-i46/"><u>See Event [May 27, 1940]: The United States Raises Tariffs Again on Many Goods From Countries Still in World War II, Relating to 'Interest Rates' As It Shows the Intersection of Fiscal and Monetary Policy Impacting Markets.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-the-common-windows-cannot-find-dll-problems/"><u>Step-by-Step Solutions to the Common 'Windows Cannot Find' DLL Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-tab-trouble-successfully-solved/"><u>Surface Tab Trouble - Successfully Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-casting-issues-from-your-pc-to-a-second-screen-on-windows-11-solutions/"><u>Troubleshooting Casting Issues From Your PC to a Second Screen on Windows 11: Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-successfully-turning-on-bluetooth-in-windows-1110/"><u>Troubleshooting Tips for Successfully Turning On Bluetooth in Windows 11/10</u></a></li>
 </ul></div>
 

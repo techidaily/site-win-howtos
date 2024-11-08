@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2024-10-29T16:05:48.833Z
-updated: 2024-11-02T11:35:37.236Z
+date: 2024-11-07T04:29:04.742Z
+updated: 2024-11-07T18:02:21.015Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -113,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -124,6 +117,19 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -138,16 +144,16 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -164,10 +170,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -189,10 +195,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -232,20 +238,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-through-the-best-screen-recorders-for-teaching/"><u>[New] In 2024, Navigating Through the Best Screen Recorders for Teaching</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-video-capturing-duel-obs-challenges-shadowgl/"><u>[New] In 2024, Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-30-heatsinks-for-ssds-high-performance-benchmarking-and-top-picks/"><u>Comprehensive Review of 30 Heatsinks for SSDs - High Performance Benchmarking and Top Picks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/customize-your-video-flow-a-camtasia-tutorial-on-speed-adjustment-for-2024/"><u>Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-unexpected-startup-problems-in-windows-11-systems/"><u>Diagnosing and Solving Unexpected Startup Problems in Windows 11 Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-troubleshoot-and-fix-android-file-transfer-problems/"><u>Effective Strategies to Troubleshoot and Fix Android File Transfer Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-not-registered-errors-for-windows-10-applications-effective-solutions/"><u>Fixing 'Not Registered' Errors for Windows 10 Applications: Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-cyclic-redundancy-check-errors-in-your-system-a-comprehensive-guide/"><u>How to Fix Cyclic Redundancy Check Errors in Your System: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-12plus-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 12+ 5G Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-sticky-or-broken-fn-keys-expert-advice-for-dell-laptop-users/"><u>Overcoming Sticky or Broken Fn Keys: Expert Advice for Dell Laptop Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-windows-11-blue-screen-problem/"><u>Solving the Windows 11 Blue Screen Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-unresponsive-microphones-in-windows-10-systems/"><u>Step-by-Step Repair for Unresponsive Microphones in Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-getting-your-corsair-void-pro-drivers-installed-on-windows/"><u>Step-by-Step Tutorial: Getting Your Corsair Void Pro Drivers Installed on Windows!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-utilizing-free-clip-art-for-graphic-designs/"><u>[New] 2024 Approved Utilizing Free Clip Art for Graphic Designs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-beginners-guide-to-premium-gopro-accessories/"><u>[New] Beginner’s Guide to Premium GoPro Accessories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-microscreenmugger-assessment-report-for-2024/"><u>[New] MicroScreenMugger Assessment Report for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-what-is-the-best-frame-rate-for-slow-motion-video/"><u>[Updated] What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>2024 Approved Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-8-criteria-when-expanding-your-4k-setup/"><u>2024 Approved Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-fastest-contender-in-depth-analysis-and-performance-check-on-the-fire-tv-cube/"><u>Amazon's Fastest Contender: In-Depth Analysis and Performance Check on the Fire TV Cube</u></a></li>
+<li><a href="https://location-social.techidaily.com/digital-decorum-for-chatbots-tips-for-siri-and-similar-platforms/"><u>Digital Decorum for Chatbots: Tips for Siri and Similar Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-update-issue-code-0xc1900208-complete-guide/"><u>Fixing Windows 10 Update Issue Code 0xC1900208 - Complete Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-masterful-seo-approaches-for-soaring-in-youtube-video-popularity/"><u>In 2024, Masterful SEO Approaches for Soaring in YouTube Video Popularity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-crimescreen-a-complete-guide-to-solutions/"><u>Overcoming Windows 10 CRIMESCREEN - A Complete Guide to Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/problematic-update-for-windows-11-version-1607-resolution-guide/"><u>Problematic Update for Windows 11 Version 1607 - Resolution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-sound-quality-problems-with-these-windows-tweaks/"><u>Resolve Your PC's Sound Quality Problems with These Windows Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-plugged-in-not-charging-solved/"><u>Surface Plugged In Not Charging [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-handling-and-resolving-driverpowerstatefailure-problems-efficiently/"><u>The Ultimate Fix: Handling and Resolving DRIVER_POWER_STATE_FAILURE Problems Efficiently</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Successfully Elevate Permissions: Addressing 'Operation Requires Elevation' On Windows Platforms"
-date: 2024-09-11T02:24:07.550Z
-updated: 2024-09-18T02:59:27.064Z
+date: 2024-11-01T07:34:45.606Z
+updated: 2024-11-08T05:34:47.799Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
@@ -73,6 +80,13 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -104,13 +118,6 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -128,16 +135,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -146,13 +147,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -160,6 +154,13 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**WindowsUpdate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
@@ -172,6 +173,13 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -192,5 +200,19 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-create-captivate-independent-animation-innovations/"><u>[New] Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-10-proven-techniques-for-skyrocketing-social-media-supporters/"><u>[New] In 2024, 10 Proven Techniques for Skyrocketing Social Media Supporters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-logitech-4k-pro-webcam-complete-specifications-and-features-for-2024/"><u>[Updated] Logitech 4K Pro Webcam Complete Specifications & Features for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-next-level-designers-post-acid-tools-explored/"><u>[Updated] Next-Level Designers Post-ACID Tools Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/come-eccellente-strategie-di-mixaggio-audio-video-top-3/"><u>Come Eccellente: Strategie Di Mixaggio Audio-Video Top 3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descubre-las-mejores-tecnicas-para-tomar-screenshots-de-google-maps-sin-costo-alguno-guia-paso-a-paso/"><u>Descubre Las Mejores Técnicas Para Tomar Screenshots De Google Maps Sin Costo Alguno - Guía Paso a Paso</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-in-sight-concealing-posts-with-archive-function/"><u>Privacy in Sight: Concealing Posts with Archive Function</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211241403-9798869207548-spiritual-blindness/"><u>Spiritual Blindness | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-five-critical-considerations-for-acquiring-used-and-revamped-laptops/"><u>The Five Critical Considerations for Acquiring Used and Revamped Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-11-effektivte-metoder-for-omskiftning-fra-ts-til-mp4-format-windows-mac-and-online-optimering/"><u>Top 11 Effektivte Metoder for Omskiftning Fra TS Til MP4-Format - Windows, Mac & Online Optimering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-alternatives-a-inshot-para-windows-optimizar-tus-snapshots-en-la-pc/"><u>Top Alternatives a Inshot Para Windows: Optimizar Tus Snapshots en La PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vice-o-nahravkach-obrazovych-soustaveni-s-vlc-media-player-refreshed-tutorial/"><u>Více O Nahrávkách Obrazových Soustavení S VLC Media Player - Refreshed Tutorial</u></a></li>
+</ul></div>
 

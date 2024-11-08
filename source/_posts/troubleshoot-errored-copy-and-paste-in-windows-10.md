@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Errored Copy and Paste in Windows 10
-date: 2024-10-14T19:04:45.114Z
-updated: 2024-10-21T20:26:28.648Z
+date: 2024-11-06T20:50:03.185Z
+updated: 2024-11-07T20:21:52.955Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ After removing all these devices, check if the error still persists.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2\. Shut down your computer and cool it down for several hours
 
  Once _**A disk read error occurred**_ pops upon your Windows 10, you need to shut down your computer and cool it down for a few hours like 5-8 hrs to give it a rest. After cooling down, turn on your computer to see if you can access Windows 10 normally.
@@ -83,10 +90,10 @@ After removing all these devices, check if the error still persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/3-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** For different computers, the option to reset BIOS could also be **Load Fail-Safe Defaults** ,**Apply Default** ,**Load BIOS Defaults** ,**Load Default Settings** ,**Load Setup Default** ,**Factory settings** , etc.
@@ -107,18 +114,18 @@ After removing all these devices, check if the error still persists.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5\. Test RAM memory
 
  RAM(Random Access Memory) problem brings about various issues. As the RAM memory test is easy and non-destructive, you may as well do a complete test for RAM memory to fix the disk error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/4-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * If you’ve added new RAM memory to computer recently, try to remove it and leave only one RAM. Then restart computer to check if the error still occurs.
 * Leave one RAM module on one slot and restart computer. If the disk read error still occurs, move the RAM to the other slot and start computer again.
@@ -126,13 +133,6 @@ After removing all these devices, check if the error still persists.
  Now you can see if you can boot into Windows again. If not, don’t give up here, you can try the next fix to solve the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6\. Fix MBR and Fix Boot
 
@@ -164,13 +164,6 @@ exit
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Bonus Tips
 
  If you run into computer problems randomly, there might be something wrong with your drivers. Missing or outdated drivers can cause many issues. If you want to have better computer experience and prevent potential problems, it’s recommended to keep your drivers update to date.
@@ -196,6 +189,13 @@ exit
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-drivers-with-driver-easy-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -223,16 +223,18 @@ exit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-methodology-for-erasing-canvas-backdrops/"><u>[New] Step-by-Step Methodology for Erasing Canvas Backdrops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/best-hd-video-playback-the-essential-apps-for-android-for-2024/"><u>Best Hd Video Playback The Essential Apps for Android for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/chrome-in-crisis-heres-how-to-restore-your-browser-from-a-total-blackout/"><u>Chrome in Crisis? Here’s How to Restore Your Browser From a Total Blackout</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-solution-for-high-resource-drainage-of-msmpengexe-on-windows-10-operating-system/"><u>Efficient Solution for High Resource Drainage of MsMpEng.exe on Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-of-mic-issues-welcome-back-to-discord/"><u>End of Mic Issues, Welcome Back to Discord</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel S23</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-harmony-a-color-grading-journey/"><u>In 2024, Crafting Visual Harmony A Color Grading Journey</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>In 2024, Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-players-handbook-fixing-problematic-game-configurations-and-enjoying-uninterrupted-play/"><u>Origin Player's Handbook: Fixing Problematic Game Configurations and Enjoying Uninterrupted Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/screen-shutdown-unexpected-blackout/"><u>Screen Shutdown: Unexpected Blackout</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-pip-like-a-pro-mastering-picture-in-picture-video-editing-in-final-cut-pro-for-2024/"><u>Updated PiP Like a Pro Mastering Picture-in-Picture Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-content-tweeting-videos-on-snapchat/"><u>[Updated] 2024 Approved Streamlining Content Tweeting Videos on Snapchat</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1-importieren-von-iphone-fotos-auf-windows-11-fonebackup-tipps-and-tricks/"><u>1. Importieren Von iPhone-Fotos Auf Windows 11 - FoneBackup Tipps & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2022s-guide-to-seamless-gaming-eliminating-fallout-4-latency-for-a-smoother-play/"><u>2022'S Guide to Seamless Gaming: Eliminating Fallout 4 Latency for a Smoother Play</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-list-10-best-zero-price-desktop-recorder-apps/"><u>Essential List 10 Best Zero-Price Desktop Recorder Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-when-its-stuck-on-100-a-step-by-step-guide/"><u>How to Fix Windows Update When It's Stuck on 100% – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-encyclopedia-on-hand-pose-identification-systems/"><u>In 2024, An Encyclopedia on Hand Pose Identification Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-cost-no-hassle-discover-7-premium-free-online-fax-services/"><u>No Cost, No Hassle: Discover 7 Premium-Free Online Fax Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-resolve-service-started-failure-on-windows-login-screen/"><u>Steps to Correctly Resolve Service Started Failure on Windows Login Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-to-your-non-responsive-number-keys/"><u>Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-non-responsive-laptop-backlit-keyboards/"><u>Troubleshooting Guide: Restoring Functionality of Non-Responsive Laptop Backlit Keyboards</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-setup-instructions-for-free-new-corsair-gaming-mouse-firmware/"><u>Ultimate Setup Instructions for [FREE] New Corsair Gaming Mouse Firmware</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
 </ul></div>
 

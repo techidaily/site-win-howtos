@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixes for Unresponsive Touchpad Scrolling Issues"
-date: 2024-09-12T20:52:43.185Z
-updated: 2024-09-18T00:56:18.678Z
+date: 2024-10-31T19:02:38.582Z
+updated: 2024-11-07T17:44:43.548Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -68,6 +75,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)**  Press and hold the**Xbox button** on the console until it completely shuts down. (It can take about**10** seconds.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
 
@@ -85,16 +99,16 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Select the controller you are using.
 
@@ -109,10 +123,16 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
@@ -134,5 +154,23 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhancing-social-media-presence-with-professional-slideshow-making/"><u>[New] In 2024, Enhancing Social Media Presence with Professional Slideshow Making</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-simultaneous-screen-and-camera-capture-guide/"><u>[Updated] 2024 Approved Simultaneous Screen & Camera Capture Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-through-the-premier-10-image-stock-websites/"><u>[Updated] Navigating Through the Premier 10 Image Stock Websites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-10-best-vr-videos-on-youtube-to-have-immersive-experience/"><u>2024 Approved 10 Best VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-solving-error-0x800f020b-after-updating-your-xerox-printer-on-a-windows-machine/"><u>Expert Tips for Solving 'Error 0X800F020B' After Updating Your Xerox Printer on a Windows Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-mojangs-minecraft-crashes-caused-by-outdated-graphics-drivers-in-windows/"><u>How to Fix Mojang's Minecraft Crashes Caused by Outdated Graphics Drivers in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-social-networking-videos-your-ultimate-guide-for-appletv-users/"><u>In 2024, Navigating Social Networking Videos Your Ultimate Guide for AppleTV Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-quora-network-for-llm-and-bot-entry/"><u>Navigating the Quora Network for LLM & Bot Entry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/playstation-4-fix-step-by-step-guide-to-correcting-the-ce-34878-0-mistake-solved/"><u>PlayStation 4 Fix: Step-by-Step Guide to Correcting the CE-34878-0 Mistake [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-the-voice-of-your-games-fixing-steelseries-arctis-5-microphone-woes/"><u>Revive the Voice of Your Games: Fixing SteelSeries Arctis 5 Microphone Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209384215-solve-your-lenovo-mouse-pad-problems-on-pc-windows-10-to-7-solutions-included/"><u>Solve Your Lenovo Mouse Pad Problems on PC: Windows 10 to 7 Solutions Included</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211875962-support-your-argument-with-historical-examples-or-current-breakthroughs-driven-by-problem-solvers/"><u>Support Your Argument with Historical Examples or Current Breakthroughs Driven by Problem Solvers.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-2024-handbook-to-diagnose-and-repair-bluetooth-connection-failures-on-windows-10-devices/"><u>The 2024 Handbook to Diagnose and Repair Bluetooth Connection Failures on Windows 10 Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-attractive-performer-with-remarkable-battery-life-a-deep-dive-into-the-moto-g-power/"><u>The Attractive Performer with Remarkable Battery Life - A Deep Dive Into the Moto G Power</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-your-phones-full-potential-with-these-ios-vr-titles/"><u>Unlock Your Phone's Full Potential with These iOS VR Titles</u></a></li>
+</ul></div>
 

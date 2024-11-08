@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2024-10-31T01:46:52.675Z
-updated: 2024-11-02T11:30:02.709Z
+date: 2024-11-07T01:09:00.396Z
+updated: 2024-11-07T17:31:37.559Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -103,14 +110,27 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
@@ -125,16 +145,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
@@ -152,10 +166,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change processor affinity
@@ -168,22 +182,8 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -206,24 +206,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>[New] 2024 Approved Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[New] 2024 Approved Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-speeding-up-tiktok-videos-the-ultimate-guide-for-2024/"><u>[New] Speeding Up TikTok Videos The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discreetly-discovering-content-how-to-read-instagram-stories-privately-on-pcandroidios/"><u>[Updated] 2024 Approved Discreetly Discovering Content How to Read Instagram Stories Privately on PC/Android/iOS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-choices-top-30-mac-videograbbers-reviewed/"><u>[Updated] 2024 Approved Pinnacle Choices Top 30 Mac Videograbbers Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>[Updated] From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-access-windows-photos-view/"><u>2024 Approved Instant Access Windows Photos View</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-windows-10-upstart-hiccups-and-fatal-system-errors-a-comprehensive-guide/"><u>Eliminating Windows 10 Upstart Hiccups and Fatal System Errors - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-keys-in-windows-a-complete-guide/"><u>Fixing Sticky Keyboard Keys in Windows: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-1068-on-windows-solved/"><u>How to Fix Error 1068 on Windows [SOLVED]</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-tecno-spark-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Spark 10 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-windows-update-error-0x80070002-successfully/"><u>How to Overcome the Persistent Windows Update Error 0X80070002 Successfully!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-disconnection-woes-expert-advice-for-unreliable-computer-mice/"><u>Overcoming Persistent Disconnection Woes: Expert Advice for Unreliable Computer Mice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silence-the-crackle-a-guide-to-fixing-audio-issues-on-your-pc-for-windows-users-versions-107/"><u>Silence the Crackle: A Guide to Fixing Audio Issues on Your PC - For Windows Users (Versions 10/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-sticky-keys-on-pcs-running-windows-operating-systems-step-by-step-instructions/"><u>Solving the Problem of Sticky Keys on PCs Running Windows Operating Systems: Step-by-Step Instructions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-advanced-features-in-apple-watch-series-4/"><u>The Ultimate Guide to the Advanced Features in Apple Watch Series ‪4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-device-not-recognized-by-icue-expert-solutions-to-common-issues/"><u>Troubleshoot 'Device Not Recognized by ICUE': Expert Solutions to Common Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-when-your-smart-home-hub-fails-what-you-can-do/"><u>Troubleshoot & Repair: When Your Smart Home Hub Fails – What You Can Do</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-pixels-master-color-correction-techniques-11-steps-for-2024/"><u>Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-warzone-wonders-your-a-list-of-top-7-fps-adventures/"><u>[New] 2024 Approved Warzone Wonders - Your A-List of Top 7 FPS Adventures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-drones-to-dream-innovative-editing-approaches/"><u>[New] Drones to Dream Innovative Editing Approaches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[Updated] 2024 Approved Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-space-best-practices-for-tiktok-videos/"><u>[Updated] Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detecting-and-setting-up-additional-monitors-on-windows-7-problem-free/"><u>Detecting and Setting Up Additional Monitors on Windows 7: Problem-Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-guide-for-newbies-visual-fidelity-in-videos/"><u>Essential Guide for Newbies Visual Fidelity in Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-resolution-horizons-an-in-depth-look-at-the-asus-mg28uq-for-2024/"><u>High-Resolution Horizons An In-Depth Look at the ASUS MG28UQ for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-lost-sound-controls-volume-icons-on-windows-10-visual-instructions-included/"><u>How to Restore Your Lost Sound Controls (Volume Icons) on Windows 10 - Visual Instructions Included</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>In 2024, Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-resolving-damaged-driver-issues-instantly/"><u>Quick and Simple Guide: Resolving Damaged Driver Issues Instantly</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-5-powerful-tools-for-enhancing-your-mkv-file-metadata/"><u>Top 5 Powerful Tools for Enhancing Your MKV File Metadata</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-techniques-to-captivate-viewers-with-facebook-covers-for-2024/"><u>Top Techniques to Captivate Viewers with Facebook Covers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-dealing-with-hanging-screens-in-windows-10-operating-system/"><u>Top Tips for Dealing With Hanging Screens in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-fixing-no-miracast-support-on-this-device/"><u>Top Tips for Fixing 'No Miracast Support on This Device'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-essentials-effortless-solutions-for-fixing-call-of-duty-black-ops-4-bugs/"><u>Troubleshooting Essentials: Effortless Solutions for Fixing Call of Duty Black Ops 4 Bugs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-no-bootable-device-found-dilemma/"><u>Ultimate Guide: Solving the 'No Bootable Device Found' Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-11s-troublesome-update-issue-code-0x800705b4-explained/"><u>Winning Against Windows 11'S Troublesome Update Issue: Code 0X800705b4 Explained</u></a></li>
 </ul></div>
 

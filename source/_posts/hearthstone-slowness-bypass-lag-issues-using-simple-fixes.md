@@ -1,7 +1,7 @@
 ---
 title: Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes!
-date: 2024-10-29T13:28:12.782Z
-updated: 2024-11-01T17:46:03.872Z
+date: 2024-11-01T16:28:57.472Z
+updated: 2024-11-07T19:53:06.194Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
 5. [**Delete the log.config file**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Modify your graphics card settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check if your PC meets the minimum system requirements for Hearthstone
 
  This**Hearthstone lagging**  issue may occur if your PC fails to meet the minimum system requirements for Hearthstone. Here we list out the both **the minimum requirements** and **the recommended specifications**  (if you’re looking for a smoother and more enjoyable gaming experience) specifications forHearthstone.
@@ -63,24 +50,24 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c259e1420374.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a4a55650e.jpg)
 3. Click the **Display** tab and you can check what **graphics card**  your PC is using.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a60f5ce60.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’d probably have to upgrade your hardware if any of the above-mentioned item fails to meet its minimum requirement.
 
@@ -96,16 +83,10 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and**a 30-day money back guarantee** . You’ll be prompted to upgrade when you click**Update All** .)  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a24566c60.jpg)
@@ -124,23 +105,9 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c271845e6c0c.jpg)
 4. Click**Done** once it’s finished.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Relaunch Hearthstone and hopefully the**Hearthstone lagging** problem has been fixed by now. If it still lingers on, don’t worry. There’re 3 more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: AdjustBlizzard settings
 
@@ -151,14 +118,14 @@ As it turns out, having Blizzard running in background when playing a game contr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c750aa1fa.jpg)
 3. Run Hearthstone again and see if the lagging has been reduced.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the log.config file
 
@@ -195,19 +162,28 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 1. On your keyboard, press**the Windows logo key** and type**amd** . Then click on **AMD Settings**  .![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d5ccb16f0.png)
 2. Click**Gaming** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d74add3bc.jpg)
 3. Click**Global Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d7388bd4a.jpg)
 4. Modify the settings as follows:  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d705b7f8b.jpg)
 5. Launch Hearthstone and check if the**Hearthstone lagging** issue has been solved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Modify Intel graphics card settings**
 1. On your keyboard, press**the Windows logo key** and type**control** . Then click on **Control Panel**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25dd5c35ea9.png)
@@ -216,6 +192,14 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 3. Click**3D** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25de8e6aa96.jpg)
 4. Make sure you’ve modified the following features as follows:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **Application Optimal Mode** :**Enable** ;  
    * **Custom Settings**  ;  
    * **Anti-Aliasing: Use Application Settings**  ;  
@@ -223,6 +207,13 @@ You can also modify your graphics card settings for reduced lag and smoother gam
    * **Vertical Sync** :**Application Settings** .Finally, click**Apply** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25dcd3325b9.jpg)
 5. Launch Hearthstone and check if the**Hearthstone lagging** issue has been solved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -246,22 +237,22 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/pubg-journey-to-stability-dxgidll-restored/"><u>[PUBG] Journey to Stability - Dxgi.dll Restored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cursor-continuous-display-troubles-learn-how-to-fix-it-now/"><u>Cursor Continuous Display Troubles? Learn How to Fix It Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-offer-alert-get-an-apple-watch-series-10-at-only-99-with-a-preorder-from-best-buy-the-step-by-step-tutorial-zdnet/"><u>Exclusive Offer Alert! Get an Apple Watch Series 10 at Only $99 with a Preorder From Best Buy – The Step-by-Step Tutorial | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-virtual-gaming-benefits-and-drawbacks/"><u>Exploring Virtual Gaming: Benefits and Drawbacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-function-keys-for-optimal-usage/"><u>How to Fix Malfunctioning Function Keys for Optimal Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rescue-your-windows-mail-app-from-the-clutches-of-0x800713f/"><u>How to Rescue Your Windows Mail App From the Clutches of 0X800713F</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone with Broken Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-repairing-windows-11-and-10-os-errors-by-correcting-system-files/"><u>Master the Art of Repairing Windows 11 & 10 OS Errors by Correcting System Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-conquering-twitchs-notorious-error-4ntry/"><u>Step-by-Step Strategies: Conquering Twitch's Notorious Error 4Ntry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722885613255-the-newest-apple-audio-gizmo-revealed-predictions-on-price-tag-drop-date-and-specs/"><u>The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-symbols-on-windows-10-solved/"><u>Troubleshooting Missing Desktop Symbols on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-access-to-your-start-menu-on-windows-10-made-easy/"><u>Unlocking Access to Your Start Menu on Windows 10 Made Easy</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-k11x-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo K11x Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-dialogue-potential-the-threefold-use-of-chatgpt-wolfram-plugin/"><u>Unraveling Dialogue Potential: The Threefold Use of ChatGPT-Wolfram Plugin</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] In 2024, Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-reimagine-virtual-participation-google-meets-customizable-screenscape/"><u>[New] Reimagine Virtual Participation Google Meet's Customizable Screenscape</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-social-synergy-connecting-the-two-giants/"><u>[Updated] 2024 Approved Social Synergy Connecting the Two Giants</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-years-top-makeup-vloggers/"><u>[Updated] The Ultimate Guide to Year's Top Makeup Vloggers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-where-custom-visuals-for-youtube-live-and-breathe/"><u>2024 Approved Where Custom Visuals for YouTube Live and Breathe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-for-resolving-windows-10s-0x800705b4-error-on-patch-day/"><u>Complete Solution for Resolving Windows 10'S 0X800705B4 Error on Patch Day</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disabling-unnecessary-processes-in-windows-10/"><u>Disabling Unnecessary Processes in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-steam-error-could-not-connect-to-the-steam-network/"><u>Fix Steam Error: Could Not Connect to the Steam Network</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-high-svchostexe-cpu-consumption-in-windows-11-a-complete-guide/"><u>Resolving High svchost.exe CPU Consumption in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-star-citizen-errors-enjoy-smooth-gaming-on-windows-today/"><u>Say Goodbye to Star Citizen Errors – Enjoy Smooth Gaming on Windows Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mute-mystery-reactivating-sound-in-google-chrome/"><u>Solve the Mute Mystery: Reactivating Sound in Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-your-pc-wont-power-down-in-windows-10/"><u>Solving the Problem: Your PC Won't Power Down in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-update-error-code-0x8024401c-on-windows-11-a-complete-guide/"><u>Solving the Windows Update Error Code 0X802^4401c on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-windows-11-persistent-restart-issue/"><u>Step-by-Step Fix for Windows 11 Persistent Restart Issue</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-convert-videos-for-playstation-portable-psp-models-psp-20003000gops3/"><u>Ultimate Guide: Convert Videos for PlayStation Portable (PSP) Models - PSP 2000/3000/Go/PS3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-for-the-common-ce-34878-0-error-code-in-ps4-gaming-systems/"><u>Ultimate Troubleshooting for the Common CE-34878-0 Error Code in PS4 Gaming Systems</u></a></li>
 </ul></div>
 

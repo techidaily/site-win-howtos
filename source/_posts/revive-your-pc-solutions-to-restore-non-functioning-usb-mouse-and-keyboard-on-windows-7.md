@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-10-28T08:12:36.821Z
-updated: 2024-11-02T12:23:43.434Z
+date: 2024-11-04T08:10:19.425Z
+updated: 2024-11-08T08:38:57.564Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 * [**Tips: Keyboard maintenance**](#tips)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
@@ -72,10 +72,10 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -89,10 +89,10 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -143,19 +143,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -184,24 +184,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[Updated] Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5lia55uu556t54s277ya44oa44km44og5yuv55s744oa44km44oz44ot44o844oj5oml6acg5yig5p6q44cn/"><u>「一目瞭然：ダウム動画ダウンロード手順分析」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-mastering-movie-downloads-from-onionplay/"><u>1. Easy Guide: Mastering Movie Downloads From OnionPlay</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>2024 Approved Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-systematic-upgrade-procedures-for-macos-sierra-users/"><u>2024 Approved Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027763931-2024-dvd/"><u>2024年度用 DVDイメージファイルを正しく開くためのガイド</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Xiaomi Redmi K70 ?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi 13 Ultra?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-f15-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy F15 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-google-podcast-upload/"><u>Mastering the Art of Google Podcast Upload</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027966760-mxf/"><u>MXFファイルがわからず、どうやってプレーヤーに読み込めるようにする？</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/page-redirected-find-your-way-to-wonderfox-faster-than-ever-before/"><u>Page Redirected! Find Your Way to WonderFox Faster Than Ever Before.</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-dvd-playback-issues-effective-ways-to-eliminate-skips-and-freezing/"><u>Solving DVD Playback Issues: Effective Ways to Eliminate Skips and Freezing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-screen-recording-on-multiple-electronics/"><u>Step-by-Step Guide to Screen Recording on Multiple Electronics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-tools-for-effortless-conversion-from-webm-to-mp4/"><u>Top-Rated Tools for Effortless Conversion From WebM to MP4</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/visual-impact-expert-guide-to-crop-your-instagram-content/"><u>Visual Impact Expert Guide to Crop Your Instagram Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028426626-youtube/"><u>YouTubeへの一枚画像投稿方法：詳細ガイド</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elite-file-sender-mp4-to-social/"><u>[New] 2024 Approved Elite File Sender MP4 to Social</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-keeping-consistent-pacing-in-obs-broadcasts/"><u>[Updated] 2024 Approved Keeping Consistent Pacing in OBS Broadcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-winning-over-viewers-a-comprehensive-guide-to-growing-followers/"><u>2024 Approved Winning Over Viewers A Comprehensive Guide to Growing Followers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-how-your-workplace-influences-your-windows-experience-understanding-managed-settings-dynamics/"><u>Discover How Your Workplace Influences Your Windows Experience: Understanding Managed Settings Dynamics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-issues-with-unresponsive-laptop-pointing-devices/"><u>Expert Tips for Resolving Issues with Unresponsive Laptop Pointing Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-struggles-with-finding-appropriate-printer-drivers-solution/"><u>Fix: Windows Struggles with Finding Appropriate Printer Drivers - SOLUTION</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung ?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-camon-20-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Camon 20 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-error-0x800f0831-enhance-your-system-with-windows-update/"><u>Step-by-Step Solution for Error 0X800f0831: Enhance Your System with Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-issues-when-enumerating-objects-in-windows-10-a-step-by-step-fix/"><u>Troubleshooting Access Issues When Enumerating Objects in Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncovering-the-start-button-functionality-on-microsofts-latest-os-windows-11/"><u>Uncovering the Start Button Functionality on Microsoft's Latest OS, Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions
-date: 2024-10-18T19:25:23.256Z
-updated: 2024-10-21T17:01:32.756Z
+date: 2024-11-05T19:44:01.490Z
+updated: 2024-11-07T23:37:21.788Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -64,6 +71,13 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -75,13 +89,6 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
@@ -89,16 +96,10 @@ Follow these:
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -117,13 +118,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -131,10 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -156,18 +150,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-live-tv-saving-made-simple-with-free-software-tools/"><u>[New] Live TV Saving Made Simple with Free Software Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-photo-realism-in-artwork-illustrator-motion-magic-for-2024/"><u>[New] Photo Realism in Artwork Illustrator Motion Magic for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/"><u>[Updated] In 2024, The Best of YT A Deep Dive Into Music Dance Clips, '23</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-custom-ringtone-ideas-for-christian-lifestyle/"><u>2024 Approved Custom Ringtone Ideas for Christian Lifestyle</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>In 2024, Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incompatibility-issues-leading-to-ftdi-bus-system-memory-integrity-failure/"><u>Incompatibility Issues Leading to FTDI Bus System Memory Integrity Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-sound-issues-solve-unresponsive-microphone-problems-now/"><u>Laptop Sound Issues? Solve Unresponsive Microphone Problems Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-offline-setup-path-of-win11/"><u>Navigating the Offline Setup Path of Win11</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/page-cannot-be-retrieved-error-message-404/"><u>Page Cannot Be Retrieved – Error Message 404</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-overview-fixing-malfunctioning-function-keys-on-your-dell-laptop-system/"><u>Solution Overview: Fixing Malfunctioning Function Keys on Your Dell Laptop System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dx11-v100-glitch-in-wwe-2k-battlegrounds-step-by-step-guide/"><u>Solving the DX11 v10.0 Glitch in WWE 2K Battlegrounds: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/net-framework-35-and-error-0x800f081f-how-to-successfully-overcome-this-hurdle/"><u>.NET Framework 3.5 and Error 0X800F081F: How to Successfully Overcome This Hurdle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-interactive-link-integration-for-instagram-users-for-2024/"><u>[New] Interactive Link Integration for Instagram Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cross-platform-comparison-iphone-vs-android-youtube-viewing-for-2024/"><u>[Updated] Cross-Platform Comparison IPhone vs Android YouTube Viewing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-picks-the-top-5-professional-drone-brands/"><u>[Updated] Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-windows-8-audio-shows/"><u>2024 Approved Premier Windows 8 Audio Shows</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204439897-fixing-the-cannot-reach-dhcp-server-error-now-solved/"><u>Fixing the 'Cannot Reach DHCP Server' Error - Now Solved!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977852768-get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-sincronizar-carpetas-entre-computadores/"><u>Guía Paso a Paso Para Sincronizar Carpetas Entre Computadores</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-access-the-starting-point-mastering-the-windows-11-interface/"><u>How To Access the Starting Point: Mastering the Windows 11 Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-restoring-proper-functionality-of-lenovos-special-feature-keys/"><u>Quick Guide to Restoring Proper Functionality of Lenovo's Special Feature Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-receiving-miracast-not-supported-by-your-device-a-step-by-step-tutorial/"><u>Solutions for Receiving Miracast Not Supported by Your Device - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-hurdles-of-qualification-understanding-teredos-shortcomings/"><u>The Hurdles of Qualification: Understanding Teredo's Shortcomings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubled-by-stuck-buttons-solve-your-windows-keyboard-issues-here/"><u>Troubled by Stuck Buttons? Solve Your Windows Keyboard Issues Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Fallout 4'S Performance Problems"
-date: 2024-10-17T18:22:07.155Z
-updated: 2024-10-21T17:47:30.186Z
+date: 2024-11-06T20:19:45.190Z
+updated: 2024-11-07T21:17:00.709Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -57,15 +50,15 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -85,22 +78,15 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -108,6 +94,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
 
@@ -119,6 +112,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -148,20 +148,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-video-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Video Capture</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories/"><u>[New] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[New] Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effortless-youtube-playback-downloading-content-to-idevices/"><u>[Updated] Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-the-issues-behind-persistent-black-screens/"><u>Addressing and Repairing the Issues Behind Persistent Black Screens</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-13-ultra-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi 13 Ultra has native HEVC support?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-0x80240034-glitch-a-complete-guide/"><u>Fixing the Windows 11 Update 0X80240034 Glitch: A Complete Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-accelerate-channels-youtubes-top-collaborative-growth-tips/"><u>In 2024, Accelerate Channels YouTube's Top Collaborative Growth Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keys-disobey-command/"><u>Keys Disobey Command</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/malware-mayhem-spot-and-skip-googles-misleading-bard-app/"><u>Malware Mayhem: Spot and Skip Google's Misleading Bard App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-effective-solutions-for-when-your-mouse-icon-wont-show-up/"><u>Mastering Windows 11: Effective Solutions for When Your Mouse Icon Won't Show Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209812411-troubleshooting-crackling-sound-from-your-pcs-speakers-in-windows-117-all-you-need-to-know/"><u>Troubleshooting Crackling Sound From Your PC's Speakers in Windows 11/7 - All You Need To Know.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-corrected-youtube-volume-problems-in-windows-10/"><u>Troubleshooting the Corrected YouTube Volume Problems in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-a-frozen-dns-server-a-users-guide-to-5-swift-resolutions/"><u>Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206965730-windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-tv-saving-made-simple-with-free-software-tools-for-2024/"><u>[New] Live TV Saving Made Simple with Free Software Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-threefold-approach-to-crafting-advertising-content-that-resonates-on-fb-for-2024/"><u>[Updated] A Threefold Approach to Crafting Advertising Content that Resonates on FB for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>2024 Approved Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-fixes-for-audio-services-not-responding-windows-10/"><u>Best Fixes for Audio Services Not Responding Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001834335-easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-common-error-of-application-exe-stoppage/"><u>Effective Fixes for the Common Error of Application Exe Stoppage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-a-glitched-warframe-game-version-upgrade-error/"><u>Expert Advice: Correcting a Glitched Warframe Game Version Upgrade Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disappearance-from-windows-device-manager/"><u>How to Fix Bluetooth Disappearance From Windows Device Manager</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-beginners-shooting-companion-top-cameras-reviewed/"><u>In 2024, Beginner's Shooting Companion Top Cameras Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-google-pixel-fold-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Google Pixel Fold</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-mobile-suit-zetas-stability-pc-freezing-solutions-update-for-gamers-202/"><u>Mastering Mobile Suit Zeta's Stability: PC Freezing Solutions Update for Gamers (202</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206322202-nba-2k21-green-error-patched-and-solutions-unveiled/"><u>NBA 2K21 Green Error Patched and Solutions Unveiled!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/primevideos-leaders-twitters-best-liked-and-most-watched-content-for-2024/"><u>PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-call-of-duty-wwii-mistake-code-4220-a-complete-fix-guide/"><u>Resolving Call of Duty: WWII Mistake Code 4220 - A Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Step-by-Step Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-classes-on-windows-11-effective-solutions-proven-to-work/"><u>Troubleshooting Missing Classes on Windows 11: Effective Solutions Proven to Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-windows-11-registry-entries/"><u>Ultimate Guide: Repairing Damaged Windows 11 Registry Entries</u></a></li>
 </ul></div>
 

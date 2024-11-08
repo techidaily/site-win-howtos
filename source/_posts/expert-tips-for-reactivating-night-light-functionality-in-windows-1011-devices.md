@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Reactivating Night Light Functionality in Windows 10/11 Devices
-date: 2024-10-16T17:19:57.302Z
-updated: 2024-10-21T17:38:26.369Z
+date: 2024-11-03T07:41:51.898Z
+updated: 2024-11-07T16:27:02.279Z
 tags:
   - win11
   - win10
@@ -58,31 +58,50 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -112,21 +131,14 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
@@ -150,21 +162,16 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-convenient-tutorial-snapchat-installation-macos-style/"><u>[New] In 2024, Convenient Tutorial Snapchat Installation macOS-Style</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-premier-media-mover-mp4-to-fb/"><u>[New] In 2024, Premier Media Mover MP4-to-FB</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-uncomplicated-gameplay-saving-in-warframe/"><u>[Updated] 2024 Approved Uncomplicated Gameplay Saving in Warframe</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/affordable-hd-action-cameras-for-extreme-exposure-for-2024/"><u>Affordable HD Action Cameras for Extreme Exposure for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-recover-d3dcompiler47dll-error-on-your-system/"><u>Comprehensive Solution: Recover D3DCOMPILER_47.dll Error on Your System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-bypassing-destiny-2s-stuck-loading-screen-problem/"><u>Expert Tips for Bypassing Destiny 2'S Stuck Loading Screen Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-black-screen-issue/"><u>How to Fix Windows 11 Black Screen Issue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-40i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 40i Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revamping-fps-in-minecraft-steps-to-eliminate-lag-and-enjoy-smooth-play/"><u>Revamping FPS in Minecraft: Steps to Eliminate Lag and Enjoy Smooth Play</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-wacom-intuos-pro-drivers-on-windows-11/"><u>Simple Steps: Installing the Wacom Intuos Pro Drivers on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-cs2-performance-issues-tips-to-boost-your-frame-rate-and-eliminate-stutter/"><u>Solving CS2 Performance Issues: Tips to Boost Your Frame Rate and Eliminate Stutter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-download-0-bytes-8-best-fixes/"><u>Steam Download 0 Bytes | 8 Best Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-windows-update-error-code-80070103-expert-advice-and-tips/"><u>Understanding and Solving Windows Update Error Code 80070103: Expert Advice & Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-woes-a-step-by-step-fix-guide-for-error-0x8024402c/"><u>Winning Against Windows Woes: A Step-by-Step Fix Guide for Error 0X8024402C</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ream-makers-the-online-marvel-experience/"><u>[New] Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-humorhub-easy-login-easy-signup/"><u>[New] HumorHub Easy Login, Easy Signup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>2024 Approved Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dissecting-inshot-an-elite-video-editor-examined/"><u>Dissecting InShot An Elite Video Editor Examined</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-user-profile-service-sign-in-errors-on-windows-1011-computers/"><u>Effective Fixes for the User Profile Service Sign-In Errors on Windows 10/11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-past-windows-11-freezing-point-update-solutions-unveiled/"><u>Getting Past Windows 11 Freezing Point: Update Solutions Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>In 2024, The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-the-right-system-build/"><u>Maximizing Gameplay - The Right System Build</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-failure-error-0x8024800c/"><u>Resolving Windows Update Failure (Error 0X8024800C)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-setup-hanging-issues-on-your-laptop-or-desktop/"><u>Solutions for Resolving Windows Setup Hanging Issues on Your Laptop or Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-when-your-pc-gets-stuck-during-windows-10-shutdown/"><u>Solved! Resolving the Issue When Your PC Gets Stuck During Windows 10 Shutdown</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging PS4 Controller: Quick Fixes & Tips"
-date: 2024-10-23T18:27:18.294Z
-updated: 2024-10-27T17:04:02.943Z
+date: 2024-11-03T06:31:36.515Z
+updated: 2024-11-08T02:59:15.445Z
 tags:
   - win11
   - win10
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -97,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
 
@@ -125,30 +125,23 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
@@ -185,6 +178,13 @@ Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -205,24 +205,20 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-influencers-roadmap-instagram-edition/"><u>[New] 2024 Approved The Influencer's Roadmap Instagram Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-realities-of-youtube-view-calculation/"><u>[New] The Realities of YouTube View Calculation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-skyrim-infinite-loading-screen-issue/"><u>[Solved] Skyrim Infinite Loading Screen Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-0x80070002-easily/"><u>[Solved] Windows Update Error 0X80070002 | Easily!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-list-of-non-game-bar-recording-tools/"><u>[Updated] The Ultimate List of Non-Game Bar Recording Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-endurance-top-8-settings-tweaks-that-enhance-battery-performance-insights-from-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Settings Tweaks That Enhance Battery Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mp4mpgm4v-to-ogg-format-for-free-with-movavis-online-tool/"><u>Convert MP4/MPG/M4V to Ogg Format for Free with Movavi's Online Tool</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lava-yuva-3-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Yuva 3 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-mouse-keeps-disconnecting/"><u>How To Fix Mouse Keeps Disconnecting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-error-code-80240020-and-ensure-a-smooth-installation-experience/"><u>How to Fix Windows 10 Error Code 80240020 and Ensure a Smooth Installation Experience</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/navigate-through-windows-11s-best-practices-for-imports-for-2024/"><u>Navigate Through Windows 11'S Best Practices for Imports for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-print-process-advanced-photoshop-tips-and-tricks/"><u>Navigating the Print Process: Advanced Photoshop Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-fixing-insufficient-system-resources-error-to-fulfill-your-request/"><u>Solved: Fixing 'Insufficient System Resources' Error to Fulfill Your Request</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-windows-update-hanging-on-100/"><u>Solved: How to Fix Windows Update Hanging on 100%</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-enabling-bluetooth-connectivity-in-windows-7/"><u>Step-by-Step Guide: Enabling Bluetooth Connectivity in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamlining-scannerprinter-connection-for-optimal-performance/"><u>Streamlining Scanner/Printer Connection for Optimal Performance</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-labyrayer-deciphered-insights-from-facebooks-openness-hub/"><u>The Social Labyrayer Deciphered: Insights From Facebook’s Openness Hub</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-windows-11-taskbar-freezing-a-comprehensive-fix-list/"><u>Winning Strategies Against Windows 11 Taskbar Freezing: A Comprehensive Fix List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-likes-to-leads-top-30-tactics-for-social-media-success/"><u>[New] In 2024, From Likes to Leads Top 30 Tactics for Social Media Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximize-video-visibility-on-facebook-via-youtube/"><u>[New] In 2024, Maximize Video Visibility on Facebook via YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>2024 Approved A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guide-to-lenovos-screen-recording-process/"><u>2024 Approved Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-livestream-champions-weighing-up-winners-between-obs-studio-and-bandicam/"><u>2024 Approved Livestream Champions Weighing Up Winners Between OBS Studio and Bandicam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>2024 Approved The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-how-to-perform-a-cmos-or-bios-factory-reset-successfully/"><u>DIY Solutions: How To Perform a CMOS or BIOS Factory Reset Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-windows-updates-overcome-error-8007000e-effortlessly/"><u>Error-Free Windows Updates: Overcome Error 8007000E Effortlessly!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-video-maker-how-to-make-facebook-video/"><u>Facebook Video Maker How to Make Facebook Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-problems-with-microsoft-wireless-display-on-windows-11/"><u>How to Overcome Connection Problems with Microsoft Wireless Display on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-establish-a-connection-when-your-remote-server-is-unreachable/"><u>How to Successfully Establish a Connection When Your Remote Server Is Unreachable</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-top-10-curated-list-of-superior-vector-portals/"><u>In 2024, A Top 10 Curated List of Superior Vector Portals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-correcting-disk-write-failures-on-steam-platform/"><u>Master the Art of Correcting Disk Write Failures on Steam Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-restore-copypaste-functionality-on-windows-11/"><u>Step-by-Step Solutions to Restore Copy/Paste Functionality on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-unsuccessful-1607-feature-update-on-windows-amoled39b7f/"><u>Troubleshooting Steps for the Unsuccessful 1607 Feature Update on Windows Amoled_39b7f</u></a></li>
 </ul></div>
 

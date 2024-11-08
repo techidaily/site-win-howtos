@@ -1,7 +1,7 @@
 ---
 title: Overcome Your Screen's Resistance to Current Input Sync Settings – Solved!
-date: 2024-10-25T18:01:26.543Z
-updated: 2024-10-27T18:10:44.586Z
+date: 2024-11-06T20:27:36.125Z
+updated: 2024-11-08T08:56:58.693Z
 tags:
   - win11
   - win10
@@ -47,21 +47,37 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap13-1.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap281.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path **C:\\Windows\\SoftwareDistribution\\DataStore** and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap282.png)
 4. Delete all the files and folders in the folder **DataStore**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap283.png)
 5. Copy the path **C:\\Windows\\SoftwareDistribution\\Download** and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap284.png)
 6. Delete all the files and folders in the folder   **Download**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap285.png)
 7. In the Services window, right click **Windows Update** and select **Start**  .  
@@ -78,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/1-2.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    1. Dism /Online /Cleanup-Image /ScanHealth  
          * When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
          ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.jpg)  
@@ -95,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
          ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap28.jpg)  
           It may take several minutes for this command operation to be completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
          * The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
          ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap27.jpg)  
@@ -109,20 +111,13 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 3. Close the Command Prompt when the restore operation completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the System File checker**
@@ -140,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  See if you can perform a Windows update or not. If this fix works, then you won’t see this error. If not, you may need to download updates from**Microsoft Update Catalog** manually to resolve this annoying problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Download updates from Microsoft Update Catalog manually**
 
  If this annoying issue persists, try downloading the updates you failed to install from[**Microsoft Update Catalog**](http://www.catalog.update.microsoft.com/home.aspx) and install them manually.
@@ -147,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 1. On your keyboard, press   **the Windows Logo Key**  and type **Windows Update** , and then press **Enter**  to open Windows Update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap292.png)
 2. Click **View update history**   to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download the update and install it manually.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap293.png)
 3. Follow the instructions below to view your system type:  
@@ -174,10 +169,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 8. Double-click the downloaded file and follow the on-screen instructions to install the update.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if you this issue persists. If it works , you won’t see this error again. If not, try performing an in-place upgrade.
@@ -192,20 +187,34 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 3. Double-click the downloaded file to open the media creation tool. Click **Yes**  when you’re prompted for permission.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap295.png)
 4. Click **Accept**  when you see the window below.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap305.png)
 5. Select**Upgrade this PC now** and click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap304.png)
 6. Follow the on-screen instruction to perform an in-place upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After upgrading your Windows system, see if you can perform a Windows update. In most cases, you won’t get this annoying issue after upgrading your Windows system.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -235,15 +244,21 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-spark-the-flame-top-10-motivational-films-for-you/"><u>[Updated] 2024 Approved Spark the Flame Top 10 Motivational Films for You</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-probing-into-verified-selfies-significance-in-modern-social-media/"><u>[Updated] In 2024, Probing Into Verified Selfies' Significance in Modern Social Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>[Updated] Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-microsoft-display-adapter-to-windows-10-successfully-a-comprehensive-fix/"><u>Connect Microsoft Display Adapter to Windows 10 Successfully – A Comprehensive Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-how-to-bypass-preparing-to-configure-windows-dilemma/"><u>Fixed! How to Bypass 'Preparing to Configure Windows' Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pc-from-continuously-restarting-on-win-11-and-win-10/"><u>How to Stop Your PC From Continuously Restarting on Win 11 and Win 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g04-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G04 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-tutorial-on-starting-your-pc-with-an-hp-usb-drive-in-windows-11/"><u>Ultimate Tutorial on Starting Your PC with an HP USB Drive in Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/velocity-victories-olympics-year-2022/"><u>Velocity Victories Olympics, Year 2022</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-curbing-unwanted-processes/"><u>Windows 10: Curbing Unwanted Processes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[New] Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-advanced-chatrooms-with-private-invites-for-2024/"><u>[Updated] Advanced Chatrooms with Private Invites for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-suggestions-elite-iphone-ringtones-developers/"><u>2024 Approved Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>2024 Approved Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-winrars-summation-anomalies-with-six-fixes/"><u>Addressing WinRAR's Summation Anomalies with Six Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artistic-arrangement-adopting-the-best-photo-frame-apps/"><u>Artistic Arrangement Adopting the Best Photo Frame Apps</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comparing-dvd-back-up-tools-vs-dvd-ripping-applications-key-differences-explained/"><u>Comparing DVD Back-Up Tools Vs. DVD Ripping Applications: Key Differences Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-frozen-screens-expert-advice-for-thawing-out-stalled-devices/"><u>Conquering Frozen Screens: Expert Advice for Thawing Out Stalled Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-ethernet-card-drivers-compatible-with-windows-1087-systems-download/"><u>Latest HP Ethernet Card Drivers: Compatible with Windows 10/8/7 Systems Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-event-id-1000-malfunction-in-microsofts-latest-windows-systems-7-8-and-10/"><u>Mastering the Fix of Event ID 1000 Malfunction in Microsoft's Latest Windows Systems: 7, 8 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-windows-11-login-loop-get-access-now/"><u>Quick Remedies for Windows 11 Login Loop - Get Access Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/reignite-your-consoles-zest-with-these-tips/"><u>Reignite Your Console's Zest with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restart-your-night-light-on-windows-1011-systems/"><u>Troubleshooting Guide: How to Restart Your Night Light on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-non-responsive-s-pen-in-your-galaxy-note-series/"><u>Ultimate Troubleshooting Tips for Non-Responsive S Pen in Your Galaxy Note Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updating-your-monitor-unsupported-displays-in-current-setup/"><u>Updating Your Monitor: Unsupported Displays in Current Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2024-10-26T18:05:52.474Z
-updated: 2024-11-02T01:18:49.625Z
+date: 2024-11-03T18:23:09.919Z
+updated: 2024-11-08T03:41:41.511Z
 tags:
   - win11
   - win10
@@ -40,23 +40,16 @@ When you pay the money and look forward to enjoying the game but find that the g
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
@@ -64,6 +57,13 @@ When you pay the money and look forward to enjoying the game but find that the g
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Reinstall the Battle.net app
 
@@ -84,20 +84,20 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -112,6 +112,13 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
 
@@ -133,25 +140,18 @@ Reinstall the Battle.net can may help you solve the issue.
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -182,16 +182,16 @@ OR
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -215,19 +215,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-bluetooth-not-detecting-devices-on-windows-10/"><u>[Fixed] Bluetooth Not Detecting Devices on Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-least-expensive-cloud-storage-plans/"><u>[New] Discovering the Least Expensive Cloud Storage Plans</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-guide-to-aiseesofts-screencasting-features/"><u>[Updated] 2024 Approved Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-examining-splitcam-top-video-recorder-in-2024/"><u>[Updated] Examining SplitCam Top Video Recorder, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-lightweight-action-cameras-for-backpacking-or-hiking/"><u>2024 Approved Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-narzo-60-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme Narzo 60 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-address-twitchs-error-4/"><u>Effective Strategies to Address Twitch's Error 4 #</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-5-on-minecraft-here-are-your-fixes/"><u>Error Code 5 on Minecraft? Here Are Your Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-installation-failed-fast-solutions/"><u>Fixing 'Windows Installation Failed' – Fast Solutions!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-visual-storytelling-techniques/"><u>In 2024, Steady Visual Storytelling Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tomorrows-reality-progress-in-virtual-worlds/"><u>In 2024, Tomorrow's Reality Progress in Virtual Worlds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-guide-to-tackling-windows-1astererror-0xc1900208-during-updates/"><u>Resolved Guide to Tackling Windows 1asterError 0Xc1900208 During Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212128151-troubleshooting-endless-loads-how-to-unstick-your-valorant-gameplay/"><u>Troubleshooting Endless Loads - How to Unstick Your Valorant Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-buying-virtual-reality-games-on-the-meta-oculus-quest-2-platform/"><u>Ultimate Guide to Buying Virtual Reality Games on the Meta (Oculus) Quest 2 Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-post-production-hues-with-expertise/"><u>[New] Navigating Post-Production Hues with Expertise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-vsx-screen-grabber-insight-detailed-overview/"><u>2024 Approved VSX Screen Grabber Insight Detailed Overview</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beanteqs-bitwatch-s1-plus-evaluation-an-intriguing-affordable-smart-timepiece/"><u>Beantéq's Bitwatch S1 Plus Evaluation: An Intriguing Affordable Smart Timepiece</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unresponsive-mic-on-steelseries-arctis-headset-model-5/"><u>Diagnosing and Repairing the Unresponsive Mic on SteelSeries Arctis Headset Model 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-navigation-keys-on-your-keypad-with-ease/"><u>How to Repair Broken Navigation Keys on Your Keypad with Ease</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-expert-roundup-iphone-vs-android-top-10-music-editing-applications/"><u>New In 2024, Expert Roundup IPhone Vs. Android – Top 10 Music Editing Applications</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/sauvegarde-de-courriels-imap-dans-microsoft-outlook-guide-des-deux-methodes-cles/"><u>Sauvegarde De Courriels IMAP Dans Microsoft Outlook : Guide Des Deux Méthodes Clés</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-overcoming-aw-snap-problems-on-google-chrome/"><u>Solutions for Overcoming 'Aw, Snap!' Problems on Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-elevated-cpu-usage-attributed-to-wudfhostexe-in-window-10-environments/"><u>Troubleshooting Elevated CPU Usage Attributed to WUDFHost.exe in Window 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-icons-on-windows-10-fixes-and-solutions/"><u>Troubleshooting Missing Desktop Icons on Windows 10 – Fixes & Solutions</u></a></li>
 </ul></div>
 

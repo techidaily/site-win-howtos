@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up"
-date: 2024-10-20T16:37:27.064Z
-updated: 2024-10-27T18:26:26.129Z
+date: 2024-11-03T23:05:50.719Z
+updated: 2024-11-08T04:33:59.942Z
 tags:
   - win11
   - win10
@@ -54,7 +54,23 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
 #### 2\. Make sure your printer driver is up-to-date
@@ -75,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -91,10 +107,16 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
@@ -108,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -131,14 +140,14 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Scan your computer to detect issues
 
@@ -164,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -228,13 +230,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -245,10 +240,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
@@ -276,15 +278,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlining-in-game-video-production-a-complete-guide-for-2024/"><u>[New] Streamlining In-Game Video Production A Complete Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-architecting-top-quality-canon-chrono-films/"><u>2024 Approved Architecting Top Quality Canon Chrono Films</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tricks-to-acquire-dry-stock-photography/"><u>2024 Approved Tricks to Acquire Dry Stock Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-it-the-ultimate-solution-for-warframe-update-failed-issues/"><u>Fix It! The Ultimate Solution for 'Warframe Update Failed' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-incomplete-to-complete-wow-mastered-3d-visualization/"><u>From Incomplete to Complete: WoW Mastered 3D Visualization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ftdi-bus-error-driver-mismatch-causes-memory-integrity-issue/"><u>FTDI Bus Error: Driver Mismatch Causes Memory Integrity Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-your-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-classic-questline-versus-the-dynamic-strategy-for-2024/"><u>The Classic Questline versus the Dynamic Strategy for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-blueprint-of-visual-communication-instavideo-marketing-mastery/"><u>[New] 2024 Approved The Blueprint of Visual Communication InstaVideo Marketing Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-convert-live-facebook-videos-to-mp3s-on-the-fly-for-2024/"><u>[New] Convert Live Facebook Videos to MP3s on the Fly for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pioneering-sites-for-downloading-text-aesthetics/"><u>[New] In 2024, Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevating-engagement-the-complete-guide-to-youtubing-and-fb-posting/"><u>[Updated] In 2024, Elevating Engagement The Complete Guide to YouTubing and FB Posting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solution-for-error-driver-failed-due-to-incorrect-user-settings/"><u>Expert Solution for Error 'Driver Failed Due to Incorrect User Settings'</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-m34-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy M34 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-latency-in-key-presses-a-guide-for-windows-11-users/"><u>Fixing Latency in Key Presses: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208114989-how-to-fix-hosted-network-not-starting-issue-in-windows-11-solutions-proven-effective/"><u>How to Fix 'Hosted Network Not Starting' Issue in Windows 11 - Solutions Proven Effective!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-0x8070002-trouble-during-windows-updates/"><u>How To Overcome The 0X80#70002 Trouble During Windows Updates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>In 2024, Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-f5-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco F5 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-single-track-dvd-backup-transfer-your-dvds-in-mpeg2-format/"><u>Quick and Easy Single-Track DVD Backup: Transfer Your DVDs in MPEG2 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recover-your-vanished-desktop-shortcuts-in-windows-nx-a-comprehensive-guide/"><u>Recover Your Vanished Desktop Shortcuts in Windows nX: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-laptop-keys-not-working-hp-quickly-and-easily/"><u>SOLVED: Laptop Keys Not Working HP. Quickly & Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-to-overcome-windows-10-taskbar-hitches-an-in-depth-guide/"><u>Top Techniques to Overcome Windows 10 Taskbar Hitches: An In-Depth Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-youtubes-srt-files-three-easy-methods-for-2024/"><u>Unlocking YouTube’s SRT Files Three Easy Methods for 2024</u></a></li>
 </ul></div>
 

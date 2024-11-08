@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-10-26T18:18:06.727Z
-updated: 2024-11-02T09:05:06.508Z
+date: 2024-11-06T06:30:22.040Z
+updated: 2024-11-07T16:55:40.912Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -64,16 +64,23 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -89,13 +96,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
@@ -106,6 +106,13 @@ To do so:
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -124,13 +131,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -164,17 +164,18 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[New] 2024 Approved Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-for-powerpoint-voiceover-excellence/"><u>[Updated] In 2024, Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avchd-mp4windows-1011/"><u>AVCHDへの変換: MP4ファイルをWindows 10/11環境下でオンラインツールと無料ソフトウェアを使用してどうやったらいいか</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-calcium-ion-caplus-and-potassium-ion-kplus/"><u>Comparing Calcium Ion (Ca+) and Potassium Ion (K+):</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-for-installing-the-kodi-magic-content-extension-by-no-limits-quick-and-easy-steps-inside/"><u>Comprehensive Walkthrough for Installing the Kodi Magic Content Extension by No Limits - Quick & Easy Steps Inside!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>In 2024, In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/social-media-spotlight-top-twitters/"><u>Social Media Spotlight Top Twitters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-integrating-subtitles-into-your-vimeo-projects-for-2024/"><u>[Updated] Integrating Subtitles Into Your Vimeo Projects for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-comprehensive-visuals-what-sets-360-apart/"><u>2024 Approved Comprehensive Visuals What Sets 360° Apart?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-streaming-devices-apple-tv-4k-versus-roku-ultra/"><u>Comparing Streaming Devices: Apple TV 4K Versus Roku Ultra</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-hamachi-service-stopped-working-issue/"><u>Effective Fixes for 'Hamachi Service Stopped Working' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-wd-my-passport-ultra-not-showing-up-on-your-windows-device/"><u>Effective Fixes for WD My Passport Ultra Not Showing Up on Your Windows Device</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-file-examination-in-win1011-with-new-tool-integration/"><u>Elevate File Examination in Win10/11 with New Tool Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-fixed-unable-to-write-data-to-0x-referenced-location-in-memory/"><u>Error Fixed: Unable to Write Data to 0X Referenced Location in Memory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-abortion-2-stuck-on-startup-solutions-to-get-you-playing-again/"><u>Red Dead Redemption Abortion 2 Stuck on Startup? Solutions to Get You Playing Again</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/six-secrets-to-masterful-mov-saving-in-windows-11/"><u>Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-blue-tick-the-path-to-authenticating-your-identity-on-the-renamed-social-platform/"><u>Unlocking the Blue Tick: The Path to Authenticating Your Identity on the Renamed Social Platform</u></a></li>
 </ul></div>
 

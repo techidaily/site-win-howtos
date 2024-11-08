@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Optimizing Your Minecraft Gameplay Experience
-date: 2024-10-26T23:03:04.678Z
-updated: 2024-11-02T07:59:29.288Z
+date: 2024-10-31T17:51:13.554Z
+updated: 2024-11-08T03:33:49.224Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 1. [**Force a shutdown and restart your Surface**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your battery driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Force a shutdown and restart your Surface
 
  This **plugged in, not charging** issue may only be a glitch which can be easily fixed by forcing a shutdown and restart your Surface.
@@ -45,10 +38,16 @@ To do so:
 2. Press the power button to turn on your Surface.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Charge Surface again to see if the**plugged in, not charging** problem has been resolved. If yes, then great! But if the message still pops up, you should try **Fix 2** , below.
@@ -56,10 +55,16 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your battery driver
@@ -76,13 +81,20 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c4632e244.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully the**Surface plugged in, not charging** problem has been resolved.
@@ -109,22 +121,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-screen-selection-simplified-find-the-best-display-for-xbox-series-x-for-2024/"><u>[Updated] Screen Selection Simplified - Find the Best Display for Xbox Series X for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6-essential-steps-for-dealing-with-werfaultexe-application-hiccups-in-windows/"><u>6 Essential Steps for Dealing with WerFault.exe Application Hiccups in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/courteous-conversations-with-voice-controlled-tech-siri-gpt/"><u>Courteous Conversations with Voice-Controlled Tech (Siri, GPT)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-installation-error-of-windows-11s-version-1607-feature-update/"><u>Fixing the Installation Error of Windows 11'S Version 1607 Feature Update</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-motorola-moto-g73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G73 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-3-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme GT 3 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a23-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A23 5G Is Unlocked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-file-conversions-the-ultimate-guide-to-switching-to-pdf/"><u>Mastering File Conversions: The Ultimate Guide to Switching to PDF</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-final-cut-pro-with-ease-an-insiders-guide/"><u>Navigating Final Cut Pro with Ease An Insider's Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silent-speakers-now-harmonious-with-their-laptop/"><u>Silent Speakers, Now Harmonious with Their Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-essential-tips-for-using-file-explorer-on-windows-10/"><u>Simplify Your Experience: Essential Tips for Using File Explorer on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-nonfunctioning-hp-laptop-cameras-in-windows-11-devices/"><u>Step-by-Step Solutions for Nonfunctioning HP Laptop Cameras in Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/text-duplication-anomaly-in-win-11/"><u>Text Duplication Anomaly in Win 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-missing-desktop-icon-woes-on-windows-10-systems-easy-fixes-and-expert-tips/"><u>Troubleshooting Missing Desktop Icon Woes on Windows 10 Systems: Easy Fixes and Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-monitor-without-video-output-problem/"><u>Troubleshooting Tips: How to Fix a Monitor Without Video Output Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027540573-windows-11/"><u>Windows 11で効果的な動画連携手順【簡単ガイド】</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac560-yamahaaturbosound-ii-sound-module-based-on-the-ymf794eplusymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-108/"><u>YAC560 - Yamaha'aturboSound II Sound Module Based on the YMF794E+/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-non-operational-logitech-mouse-mystery/"><u>[Solved] Non-Operational Logitech Mouse Mystery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-social-media-presence-with-professional-slideshow-making/"><u>[Updated] 2024 Approved Enhancing Social Media Presence with Professional Slideshow Making</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>[Updated] Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dissecting-the-live-stream-realm-twitch-versus-youtube/"><u>[Updated] Dissecting the Live-Stream Realm Twitch Versus YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-malfunction-heres-how-you-can-fix-it/"><u>Destiny 2 Voice Chat Malfunction? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-techniques-for-repairing-your-pcs-touch-display-on-windows-10/"><u>Five Effective Techniques for Repairing Your PC's Touch Display on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-that-constant-flicker-a-guide-to-halting-the-blinking-cursor/"><u>Fix That Constant Flicker: A Guide to Halting the Blinking Cursor</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10s-update-hurdle-solving-error-code-0xc1900208/"><u>How to Overcome Windows 10'S Update Hurdle – Solving Error Code 0Xc1900208</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/icue-no-device-found-effective-techniques-for-issue-resolution/"><u>ICUE 'No Device Found': Effective Techniques for Issue Resolution</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-note-50-frp-bypass-by-drfone-android/"><u>In 2024, About Realme Note 50 FRP Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-non-charging-problem-when-device-is-connected-to-windows-7-or-10/"><u>Resolving the Non-Charging Problem When Device Is Connected to Windows 7 or 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixes-for-non-operational-peripheral-devices/"><u>Successfully Resolved: Fixes for Non-Operational Peripheral Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-6-best-free-dvd-ripper-programs-in-italia-per-il-clip-di-dvd-o-filmino/"><u>Top 6 Best Free DVD Ripper Programs in Italia per Il Clip Di DVD O Filmino</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-international-conversations-with-these-top-5-free-calling-solutions/"><u>Unlock International Conversations with These Top 5 Free Calling Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208220498-usb-connection-issues-beat-device-descriptor-request-failed-with-our-expert-tips/"><u>USB Connection Issues? Beat 'Device Descriptor Request Failed' With Our Expert Tips</u></a></li>
 </ul></div>
 

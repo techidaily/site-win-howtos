@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-10-31T02:28:07.893Z
-updated: 2024-11-01T23:48:38.988Z
+date: 2024-11-05T01:10:53.022Z
+updated: 2024-11-08T08:08:24.870Z
 tags:
   - win11
   - win10
@@ -44,6 +44,19 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -66,31 +79,17 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -106,6 +105,13 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -136,15 +142,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -172,20 +178,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-a-comprehensive-approach-to-live-video-on-websites/"><u>[Updated] 2024 Approved A Comprehensive Approach to Live Video on Websites</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-ghostly-glance-at-fb-sequences/"><u>[Updated] In 2024, Ghostly Glance at Fb Sequences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastery-in-gameye-advanced-recording-tips-for-2024/"><u>[Updated] Mastery in GamEye Advanced Recording Tips for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/elucrante-the-importance-of-xinput13dll-in-devices/"><u>Elucrante: The Importance of XINPUT1_3.dll in Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80004005-in-email-clients-identifying-and-correcting-the-hidden-undefined-problems-successfully/"><u>Error Code 0X80004005 in Email Clients - Identifying and Correcting the Hidden Undefined Problems Successfully</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-achieving-stunning-light-conditions-with-an-iphone/"><u>In 2024, Achieving Stunning Light Conditions with an iPhone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-role-of-analytics-in-achieving-igtv-viral-status/"><u>In 2024, The Role of Analytics in Achieving IGTV Viral Status</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-adobe-shockwave-flash-support-for-a-smooth-experience-on-chrome/"><u>Reviving Adobe Shockwave Flash Support for a Smooth Experience on Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-fix-lenovo-mouse-pad-issues-on-windows-10-8-and-7/"><u>Solution Guide: Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-mystery-of-the-dead-astro-a40-microphone-diagnosis-and-remedies/"><u>Solve the Mystery of the Dead Astro A40 Microphone: Diagnosis & Remedies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782773-9781620551363-the-future-of-human-experience/"><u>The Future of Human Experience | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-a2-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi A2 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-for-fixing-monitor-display-issues/"><u>Ultimate Troubleshooting Steps for Fixing Monitor Display Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-experts-are-choosing-ios-177-over-ios-18-this-week-insights-from-zdnets-latest-analysis/"><u>Why Experts Are Choosing iOS 17.7 Over iOS 18 This Week - Insights From ZDNet's Latest Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-disappearing-mice-in-windows-11-solved/"><u>Winning the Battle Against Disappearing Mice in Windows 11 [Solved]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-capture-to-share-streamlining-logitech-webcam-recordings-for-2024/"><u>[New] From Capture to Share Streamlining Logitech Webcam Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-godslayer-chronicles-ragnarok-dawn/"><u>[Updated] Godslayer Chronicles Ragnarok Dawn</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos/"><u>[Updated] Instant Annotation Text Overlaying on Images & Videos Using Windows Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chroma-chronicles-expertise-in-color-crafting/"><u>2024 Approved Chroma Chronicles Expertise in Color Crafting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-the-silent-gameplay-of-forza-horizon-4-audiophiles-guide-to-restoring-audio/"><u>Cracking the Silent Gameplay of Forza Horizon 4: Audiophile's Guide to Restoring Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-blackout-hardware-catastrophe/"><u>Error Blackout: Hardware Catastrophe</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebooks-shift-to-short-videos-a-look-into-2023-trends-for-2024/"><u>Facebook's Shift to Short Videos A Look Into 2023 Trends for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-slow-motion-capture-with-phantom-lens/"><u>In 2024, Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/ios-and-android-a-tutorial-for-saving-twitters-animations-for-2024/"><u>IOS and Android A Tutorial for Saving Twitter's Animations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-guide-how-to-eliminate-error-code-0x887a0006/"><u>Quick Troubleshooting Guide: How to Eliminate Error Code 0X887A0006!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-hello-device-compatibility-issues-in-windows-11/"><u>Resolving Windows Hello Device Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-is-my-dell-laptops-keyboard-failing/"><u>Troubleshooting Fixes: Why Is My Dell Laptop's Keyboard Failing?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-uncover-your-windows-10-taskbar-no-more-hidden/"><u>Troubleshooting Tips: Uncover Your Windows 10 Taskbar (No More Hidden)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-invitations-top-video-creation-apps-for-mobile-devices/"><u>Updated In 2024, Elevate Your Invitations Top Video Creation Apps for Mobile Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206851400-windows-update-glitch-beat-error-8007000e-now-with-simple-fixes/"><u>Windows Update Glitch? Beat Error 8007000E Now with Simple Fixes</u></a></li>
 </ul></div>
 

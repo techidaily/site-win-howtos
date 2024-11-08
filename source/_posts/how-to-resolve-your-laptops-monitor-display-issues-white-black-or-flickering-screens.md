@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your Laptop's Monitor Display Issues - White, Black, or Flickering Screens
-date: 2024-10-19T22:14:45.728Z
-updated: 2024-10-21T18:47:35.351Z
+date: 2024-11-05T21:01:07.574Z
+updated: 2024-11-07T17:47:05.898Z
 tags:
   - win11
   - win10
@@ -50,12 +50,35 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -64,13 +87,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -81,13 +97,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -96,29 +105,23 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -127,23 +130,18 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -159,15 +157,16 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
-If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
+If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 ---
 
@@ -192,22 +191,20 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-sky-hd-photography-websites/"><u>[New] Explore the Best Sky HD Photography Websites</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-learn-to-craft-unique-audio-experiences-with-tiktok-vocal-adjustments/"><u>[Updated] 2024 Approved Learn to Craft Unique Audio Experiences with TikTok Vocal Adjustments</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snap-protection-android-and-mac-app-recommendations/"><u>[Updated] Snap Protection Android & Mac App Recommendations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-humor-kinemaster-for-memes/"><u>[Updated] Unleashing Humor KineMaster for Memes</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>2024 Approved Evaluating Top 6 Choices 4K Youtube-to-MP3 Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-audio-alchemists-handbook-creating-custom-auditory-alerts-on-android-phones/"><u>2024 Approved The Audio Alchemist's Handbook Creating Custom Auditory Alerts on Android Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-the-challenge-of-a-non-charging-ps4-controller/"><u>Expert Tips: Overcoming the Challenge of a Non-Charging PS4 Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-pubg-game-running-in-202-new-solutions-for-startup-problems/"><u>Get Your PUBG Game Running in 202# New Solutions for Startup Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978484399-hassle-free-installation-your-essential-hp-drivers-await/"><u>Hassle-Free Installation: Your Essential HP Drivers Await!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-transitioning-photos-from-physical-to-digital-storage/"><u>In 2024, Transitioning Photos From Physical to Digital Storage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quiet-your-ps4-identifying-the-reasons-behind-fan-loudness-and-how-to-address-them/"><u>Quiet Your PS4: Identifying the Reasons Behind Fan Loudness & How to Address Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-ps4s-audio-a-step-by-step-guide-to-fixing-the-internal-microphone/"><u>Revive Your PS4's Audio: A Step-by-SteP Guide to Fixing the Internal Microphone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012418783-trouble-with-fall-guys-heres-how-to-stop-it-from-crashing-at-launch/"><u>Trouble with Fall Guys? Here’s How to Stop It From Crashing at Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-errored-copy-and-paste-in-windows-10/"><u>Troubleshoot Errored Copy and Paste in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-lenovo-mouse-pad-on-pc-effective-solutions-for-windows-systems/"><u>Troubleshoot Lenovo Mouse Pad on PC: Effective Solutions for Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211449896-troubleshoot-missing-bluetooth-on-windows-11-simple-solutions/"><u>Troubleshoot Missing Bluetooth on Windows 11 - Simple Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-shutdowns-in-windows-10-pro/"><u>Unexpected Shutdowns in Windows 10 Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-disruptive-beats-curated-list-of-music-mutators/"><u>[New] 2024 Approved Disruptive Beats Curated List of Music Mutators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-racing-cameras-clash-is-black-hero-4-or-ghost-s-better/"><u>[New] In 2024, Racing Cameras Clash Is Black Hero 4 or Ghost-S Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-device-not-migrated-error-in-windows-10/"><u>How to Fix 'Device Not Migrated' Error in Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-personalized-and-accessible-video-conclusions-downloads/"><u>In 2024, Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-turn-your-webcam-into-a-broadcast-device-with-vlc/"><u>In 2024, Turn Your Webcam Into a Broadcast Device with VLC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/painting-pictures-perfectly-adobe-color-correction-basics/"><u>Painting Pictures Perfectly Adobe Color Correction Basics</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/preventing-your-emails-from-being-truncated-mastering-full-length-messages-with-gmail-and-massmail/"><u>Preventing Your Emails From Being Truncated: Mastering Full-Length Messages with Gmail & MassMail</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-games-at-a-budget-with-superior-refresh-tech/"><u>Quality Games at a Budget with Superior Refresh Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-network-outage-at-connection-terminal/"><u>Resolved: Network Outage at Connection Terminal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlining-windows-10-resource-use/"><u>Streamlining Windows 10 Resource Use</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-scroll-issues-with-touchpad-in-windows-10/"><u>Troubleshooting Scroll Issues with Touchpad in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-computer-that-wont-boot-up/"><u>Troubleshooting Tips: How to Fix a Computer That Won't Boot Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now</u></a></li>
 </ul></div>
 

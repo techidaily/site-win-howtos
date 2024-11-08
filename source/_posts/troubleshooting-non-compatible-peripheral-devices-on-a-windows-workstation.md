@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Compatible Peripheral Devices on a Windows Workstation
-date: 2024-10-24T18:18:28.306Z
-updated: 2024-10-27T17:11:16.999Z
+date: 2024-11-06T01:05:38.029Z
+updated: 2024-11-08T08:08:39.600Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -80,19 +73,33 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
@@ -119,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -150,17 +150,18 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/op-5-youtube-creators-subscription-leaders/"><u>[New] Top 5 YouTube Creators Subscription Leaders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-eclipsing-fears-in-your-first-10-videos/"><u>[Updated] 2024 Approved Eclipsing Fears in Your First 10 Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ergonomic-insights-designing-offices-that-empower-workers-outputs-for-2024/"><u>[Updated] Ergonomic Insights Designing Offices That Empower Workers' Outputs for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-troubleshoot-mute-audio-in-tweeted-vids/"><u>[Updated] In 2024, Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-dell-laptops-pitch-dark-monitor-heres-how-you-can-help-it-full-guide/"><u>Dealing with Dell Laptop's Pitch Dark Monitor? Here’s How You Can Help It (Full Guide)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/discover-top-6-mac-capture-software-selections/"><u>Discover Top 6 Mac Capture Software Selections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-an-endless-loop-resolving-the-stuck-infinite-load-of-valorant/"><u>Fixing an Endless Loop: Resolving the Stuck Infinite Load of Valorant</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instagrams-secure-livestream-your-silent-journey/"><u>Instagram's Secure Livestream Your Silent Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-methods-to-resolve-high-gpu-demand-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Methods to Resolve High GPU Demand by the Desktop Window Manager on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-razer-mechanical-keyboard/"><u>Troubleshooting Guide: Fixing a Non-Responsive Razer Mechanical Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-get-your-corsair-illuminated-keyboard-working-again/"><u>Troubleshooting Guide: How to Get Your Corsair Illuminated Keyboard Working Again</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-m6-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco M6 Pro 5G Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>[New] Inside the Studio How Magix Video Pro X Simplifies Production</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-successful-vocal-sessions-for-video-content-for-2024/"><u>[New] Secrets to Successful Vocal Sessions for Video Content for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seo/"><u>音楽エンコードに秀でたソリューションを発見する：SEO適した選び方ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fix-for-error-0x80072f8f-windows-1110-edition/"><u>Comprehensive Fix for Error 0X80072F8F: Windows 11/10 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-lol-downloads-fixing-slow-update-issues/"><u>How to Speed Up LoL Downloads: Fixing Slow Update Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-defeating-dark-pixels-an-all-inclusive-guide-to-fixing-your-dells-black-display/"><u>Master the Art of Defeating Dark Pixels: An All-Inclusive Guide to Fixing Your Dell's Black Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-threats-in-generative-ai-future-security-risks/"><u>Rising Threats in Generative AI: Future Security Risks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-dealing-with-common-errors-in-windows-sound-enhancements/"><u>Step-by-Step Fix: Dealing With Common Errors in Windows Sound Enhancements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-crc-problems-a-guide-to-mend-your-data-accuracy/"><u>Troubleshooting CRC Problems – A Guide to Mend Your Data Accuracy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-errors-on-windows-pcs-unable-to-find-right-printer-driver-solutions/"><u>Troubleshooting Errors on Windows PCs: Unable to Find Right Printer Driver Solutions</u></a></li>
 </ul></div>
 

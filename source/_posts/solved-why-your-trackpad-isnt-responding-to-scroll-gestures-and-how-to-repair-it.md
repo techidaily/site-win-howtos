@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2024-10-26T11:14:40.420Z
-updated: 2024-11-02T08:03:13.637Z
+date: 2024-11-02T20:47:34.828Z
+updated: 2024-11-07T22:49:22.275Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. [**Update your touchpad driver**](#t4)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable your touchpad
@@ -54,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. Under**Devices and Printers** , click**Mouse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
@@ -68,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
@@ -101,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Update your touchpad driver
 
  A missing or outdated touchpad driver may also stop your touchpad from working properly. There are two ways to update your touchpad driver:**manually** and**automatically** .
@@ -125,6 +124,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -149,18 +155,20 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[New] 2024 Approved Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ps3-playback-a-comprehensible-methodology/"><u>[New] In 2024, PS3 Playback A Comprehensible Methodology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings-for-2024/"><u>[New] Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-correcting-app-start-up-error-error-code-0xc000007b/"><u>Comprehensive Guide to Correcting App Start-Up Error [Error Code 0xC000007B]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-proplus-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro+ 5G has native HEVC support?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-huion-stylus-working-again-5-rapid-repair-techniques/"><u>Get Your Huion Stylus Working Again: 5 Rapid Repair Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-words-to-pictures-easy-photo-text-editing-tips/"><u>In 2024, Adding Words to Pictures Easy Photo Text Editing Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-fixing-google-chromes-black-screen-dilemma/"><u>Resolving the Issue: A Step-by-Step Guide to Fixing Google Chrome's Black Screen Dilemma</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/en-your-content-for-unlimited-youtube-exposure-for-2024/"><u>Sharpen Your Content for Unlimited YouTube Exposure for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-3-exploring-the-latest-edit-tools-with-room-for-perfection/"><u>The Evolution of DALL-E 3: Exploring the Latest Edit Tools with Room for Perfection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tips-for-addressing-spikes-in-cpu-usage-due-to-windows-audio-graph-component/"><u>Tips for Addressing Spikes in CPU Usage Due to Windows Audio Graph Component</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-warframe-game-updates-that-wont-install/"><u>Troubleshooting Tips: Fixing 'Warframe' Game Updates That Won't Install</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208952957-uninterrupted-workflow-on-windows-11-how-your-files-remain-unchanged-post-bootup/"><u>Uninterrupted Workflow on Windows 11: How Your Files Remain Unchanged Post Bootup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-examining-youtubes-workflow-after-content-submission-for-2024/"><u>[New] Examining YouTube's Workflow After Content Submission for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-zooming-through-efficient-meeting-coordination-tips/"><u>[Updated] In 2024, Zooming Through Efficient Meeting Coordination Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-issues-with-unresponsive-led-lighting-in-corsair-keyboards/"><u>Expert Advice on Resolving Issues with Unresponsive LED Lighting in Corsair Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fix-solutions-to-stop-cs-go-from-keep-crashing/"><u>Fast Fix Solutions To Stop CS: GO From Keep Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-no-playable-sources-error-in-media-player-for-windows-complete-guide/"><u>Fixing 'No Playable Sources' Error in Media Player for Windows - Complete Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 8T FRP?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-excel-as-a-data-expert-top-5-strategies-revealed-on-zdnet/"><u>How To Excel as a Data Expert: Top 5 Strategies Revealed on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-tablet-malfunction-and-get-back-on-track/"><u>How to Resolve Wacom Tablet Malfunction and Get Back on Track</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-boot-failures-in-windows-11-due-to-system-upgrades/"><u>Mastering Boot Failures in Windows 11 Due to System Upgrades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-release-wonderfox-image-transformer-v11-from-videos-to-still-images/"><u>New Release: WonderFox Image Transformer v1.1 - From Videos to Still Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshoot-your-game-setup-on-origin/"><u>Resolving Issues: Troubleshoot Your Game Setup on Origin</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-upside-down-display-on-windows-10/"><u>Resolving Upside-Down Display on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-conversations-unleash-privacy-first-ai-chatting-powered-by-duckduckgo-and-enhanced-with-chatgpt-technology/"><u>Secure Your Conversations: Unleash Privacy-First AI Chatting Powered by DuckDuckGo & Enhanced with ChatGPT Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-10-28T04:47:58.536Z
-updated: 2024-11-02T00:04:12.471Z
+date: 2024-11-02T19:48:53.665Z
+updated: 2024-11-07T22:29:16.640Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,13 +55,6 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -69,13 +69,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -88,17 +81,10 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -117,23 +103,17 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -144,12 +124,32 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -188,24 +188,16 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-windowsmac-meeting-record-skype-guide/"><u>[New] Windows/Mac Meeting Record - Skype Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/46ver/"><u>「乃木坂46」楽曲フルver.無料ダウンロード方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030670934-3/"><u>連続して3枚のビデオを効果的に一画面表示するテクニック</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5a6m5ywo44k544kv44oq44o844oz44os44kz44o844oh44kj44oz44kw44gn44gn44ga44cb44gd44gu5y6f5zug44ks6kqs5pio44gx44gplus44gz/"><u>完全スクリーンレコーディングできず、その原因を説明します</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/chatcam-video-saver-app-for-2024/"><u>ChatCam Video Saver App for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-gpt4all-a-comprehensive-guide/"><u>Exploring the Capabilities of GPT4All – A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guaranteeing-unhindered-printer-usage-on-windows-11/"><u>Guaranteeing Unhindered Printer Usage on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-pro-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Pro Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-new-frontiers-in-file-browsing-insights-into-upcoming-search-innovations-by-copernic/"><u>Navigating New Frontiers in File Browsing: Insights Into Upcoming Search Innovations by Copernic</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028866954-nhk/"><u>NHKオンデマンドコンテンツを効果的に保存するための手引き</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-ultra-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Ultra Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-rated-free-wmv-video-joiner-programs/"><u>Updated 2024 Approved Top-Rated Free WMV Video Joiner Programs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029828019-wavmp3/"><u>WAV形式へのMP3ファイル変換手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030393316-youtube/"><u>YouTube動画のサムネイルアイコンを取得する究極ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030030122-youtubeiphone/"><u>YouTubeからiPhoneへ: 個人用動画保存とダウンロードの手順</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>[Updated] In 2024, Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unrivaled-selection-of-top-10-mobile-video-calling-apps/"><u>[Updated] Unrivaled Selection of Top 10 Mobile Video Calling Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-elegance-in-your-hand-comprehensive-review-of-samsungs-galaxy-s10e/"><u>Affordable Elegance in Your Hand - Comprehensive Review of Samsung's Galaxy S10e</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-list-of-budget-friendly-online-editors/"><u>Comprehensive List of Budget-Friendly Online Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/console-like-conundrums-computer-gaming-issues/"><u>Console-Like Conundrums: Computer Gaming Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-instructions-setting-up-bluetooth-in-windows-operating-systems-11-and-10/"><u>Easy Instructions: Setting Up Bluetooth in Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/imessages-shielded-communication-understanding-apples-proactive-approach-to-prevent-future-cyber-threats-zdnet-analysis/"><u>IMessage's Shielded Communication: Understanding Apple's Proactive Approach to Prevent Future Cyber Threats | ZDNet Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-nvidias-silent-challenge-expert-tips-to-fix-your-hd-audio-no-sound-woes/"><u>Overcoming Nvidia's Silent Challenge: Expert Tips to Fix Your HD Audio No Sound Woes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-installing-device-drivers-on-windows-7-made-easy/"><u>Troubleshooting Tips: Installing Device Drivers on Windows 7 Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-freezes-randomly-solved/"><u>Windows 11 Freezes Randomly [Solved]</u></a></li>
 </ul></div>
 

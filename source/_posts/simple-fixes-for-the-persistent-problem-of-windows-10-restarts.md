@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for the Persistent Problem of Windows 10 Restarts
-date: 2024-10-23T16:18:20.073Z
-updated: 2024-10-27T17:55:37.642Z
+date: 2024-11-05T08:37:37.455Z
+updated: 2024-11-07T18:10:45.312Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **2: Check screen saver settings**
@@ -52,20 +52,27 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0c511d9193.png) and click **Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by**Category** , click **Appearance and Personalization** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492ca22a4c0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Change screen saver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
@@ -95,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a3ff32d61.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **Other options**
@@ -139,17 +139,16 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-keyboard-lag-windows-11/"><u>[SOLVED] Keyboard Lag Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[Updated] 2024 Approved Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-future-of-quick-text-conversion-from-srt/"><u>[Updated] 2024 Approved The Future of Quick Text Conversion From SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-displays-ranked-1-to-5-ps5/"><u>2024 Approved High-End Displays Ranked #1 to #5 (PS5)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-fresh-drivers-for-your-hp-laserjet-pro-m506-printer/"><u>Easy Installation Guide: Fresh Drivers for Your HP LaserJet Pro M506 Printer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-print-screen-functionality-on-windows-11-and-10/"><u>Fixing the Issue: How to Restore Print Screen Functionality on Windows 11 and 10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-13-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 13 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-innovations-in-smart-homes-for-202/"><u>Leading Innovations in Smart Homes for 202</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-comprehensive-methods-to-resolve-error-0x80072fed-in-windows-10/"><u>Master the Fix: Comprehensive Methods to Resolve Error 0X80072FED in Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-video-styles-explored/"><u>Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-unable-to-remove-usb-drive-errors-on-windows-1087/"><u>Resolving 'Unable to Remove USB Drive' Errors on Windows 10/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-0x800f0831-quickly-with-the-help-of-windows-updates/"><u>Troubleshooting Code 0X800F0831 Quickly with the Help of Windows Updates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-tricks-to-document-league-of-legends-games-efficiently/"><u>[New] Top Tricks to Document League of Legends Games Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-solve-oddworld-soulstorm-freezing-on-desktop-pc/"><u>Expert Tips to Prevent and Solve Oddworld: Soulstorm Freezing on Desktop PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion-for-2024/"><u>Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-restore-missing-bluetooth-in-windows-10-devices/"><u>Quick Solutions to Restore Missing Bluetooth in Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-audio-output-not-detected-problem-on-your-windows-pc/"><u>Solving the 'Audio Output Not Detected' Problem on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-mic-not-working-solved/"><u>SteelSeries Arctis 5 Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-inaccessible-photos-due-to-corrupted-registry-in-windows-11/"><u>Step-by-Step Guide to Fix Inaccessible Photos Due to Corrupted Registry in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-hearts-an-approach-to-encourage-sign-ups/"><u>Winning Hearts An Approach to Encourage Sign-Ups</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/qsync-windows-1110/"><u>スムーズに動く Qsync 同期：Windows 11と10の操作ファイル指南</u></a></li>
 </ul></div>
 

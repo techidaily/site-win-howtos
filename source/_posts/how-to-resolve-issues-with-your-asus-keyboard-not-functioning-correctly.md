@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2024-10-26T19:25:35.634Z
-updated: 2024-11-02T04:36:58.568Z
+date: 2024-11-02T23:56:37.830Z
+updated: 2024-11-08T04:08:02.102Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -50,33 +43,20 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -86,15 +66,22 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
@@ -107,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -125,18 +119,18 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -173,18 +167,18 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-50plus-overlays-for-engaging-media-content/"><u>[New] Top 50+ Overlays for Engaging Media Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flacalac-3/"><u>人気の自由版 FLAC/ALAC 変換ソフトウェア 上位3つ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-solving-recurring-error-messages-in-4k-video-downloader-software/"><u>Expert Tips for Solving Recurring Error Messages in 4K Video Downloader Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-stable-running-of-back-4-blood-game-on-your-pc/"><u>Fixes for Stable Running of 'Back 4 Blood' Game on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flv-mp42/"><u>FLV形式への変換: MP4を手動で変換する2つの効果的な方法</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-turn-on-video-crop-functionality-in-lightworks-a-detailed-walkthrough/"><u>How To Turn On Video Crop Functionality In Lightworks - A Detailed Walkthrough</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-gopro-max-vs-hero-11-a-video-quality-showdown/"><u>In 2024, GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nokia-g22-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nokia G22 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a79-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A79 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581592909-learn-tagalog-online-in-just-10-minutes-a-day/"><u>Learn Tagalog Online in Just 10 Minutes a Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-wireless-speakers-the-ultimate-buyers-guide/"><u>Top Rated Affordable Wireless Speakers : The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-2024-hotlist-best-free-streaming-platforms-on-roku/"><u>Unveiling the 2024 Hotlist: Best Free Streaming Platforms on Roku</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensure-safety-with-on-demand-activation-of-local-security-authority-features/"><u>Ensure Safety with On-Demand Activation of Local Security Authority Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-tutorial-why-your-media-wont-load-and-what-to-do-about-it-on-windows/"><u>Error Resolution Tutorial: Why Your Media Won't Load and What To Do About It On Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-connectivity-glitches-when-windows-11-doesnt-recognize-your-headphones/"><u>Fixing Audio Connectivity Glitches: When Windows 11 Doesn't Recognize Your Headphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-connection-issues-how-to-get-steam-online-again/"><u>Fixing Connection Issues: How to Get Steam Online Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-lenovo-mouse-compatibility-problems-with-windows-10-8-or-7-step-by-step-guide/"><u>Fixing Lenovo Mouse Compatibility Problems with Windows 10, 8 or 7 – Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-a-movie-on-pc-mac-and-smartphones/"><u>How to Record a Movie on PC, Mac, and Smartphones?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/neterrcertweaksignaturealgorithm-error-on-your-site-expert-tips-for-a-stronger-signature-fix/"><u>NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error on Your Site? Expert Tips for a Stronger Signature Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-0x800f081f-a-step-by-step-guide-for-successful-net-framework-35-installation/"><u>Resolving Error 0X800F081F: A Step-by-Step Guide for Successful .NET Framework 3.5 Installation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-comprehensive-blueprint-for-vimeo-video-logging-for-2024/"><u>The Comprehensive Blueprint for Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/transform-slideshow-into-video-for-2024/"><u>Transform Slideshow Into Video for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-gone-bluetooth-icons-in-your-latest-windows-11-update/"><u>Troubleshooting a Gone Bluetooth Icons in Your Latest Windows 11 Update</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-audible-tweets-within-social-media-videos/"><u>Unveiling Audible Tweets Within Social Media Videos</u></a></li>
 </ul></div>
 

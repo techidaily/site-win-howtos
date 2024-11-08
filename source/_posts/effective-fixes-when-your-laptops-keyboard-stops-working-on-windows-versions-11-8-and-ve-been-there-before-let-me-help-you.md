@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You."
-date: 2024-10-23T16:53:36.322Z
-updated: 2024-10-27T16:38:14.748Z
+date: 2024-11-01T06:31:56.814Z
+updated: 2024-11-07T23:22:30.268Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,13 +46,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -81,10 +67,32 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -94,27 +102,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -128,6 +123,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -137,13 +145,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -168,24 +169,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-hisense-50-inch-4k-ultra-hd-hdr-television-comprehensive-review/"><u>Budget-Friendly Hisense 50 Inch 4K Ultra HD HDR Television - Comprehensive Review</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-analyzing-the-features-of-the-fitbit-versa-2-the-ultimate-active-lifestyle-companion/"><u>Comprehensive Guide: Analyzing the Features of the Fitbit Versa 2 - The Ultimate Active Lifestyle Companion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dll-installer-not-executed-for-crtdll/"><u>DLL Installer Not Executed for crt.dll</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-update-hiccups-conquering-error-0x800705b-and-related-codes/"><u>Fixing Windows Update Hiccups: Conquering Error 0X800705b and Related Codes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-activate-a-virtual-wifi-hotspot-in-windows-11-fixed/"><u>How to Activate a Virtual WiFi Hotspot in Windows 11 (Fixed)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-play-7t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Play 7T Phone? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-htc-u23-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your HTC U23 Phone Hassle-Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-30-psd-text-files-unrestricted-zero-price/"><u>In 2024, Top 30 PSD Text Files Unrestricted, Zero Price</u></a></li>
-<li><a href="https://win-dash.techidaily.com/nvidia-quadro-driver-update-direct-download-links-for-windows-10-users/"><u>NVIDIA Quadro Driver Update: Direct Download Links for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212441035-pdf-wont-print-out-check-these-rapid-remedies/"><u>PDF Won't Print Out? Check These Rapid Remedies!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-overcoming-startup-problems-with-amd-catalyst-utility/"><u>Quick Fix Guide: Overcoming Startup Problems with AMD Catalyst Utility</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/subforsub-usage-does-it-enhance-youtube-fan-count-safely-for-2024/"><u>Subforsub Usage Does It Enhance YouTube Fan Count Safely for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-non-functional-function-key-issues-on-asus-computers/"><u>Troubleshooting Fixes for Non-Functional Function Key Issues on Asus Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-timeout-problems-when-downloading-content/"><u>Troubleshooting Tips: Overcoming 'Timeout' Problems When Downloading Content</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-correcting-win1011s-audacity-audio-failures/"><u>Understanding & Correcting Win10/11's Audacity Audio Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-code-31-issues-in-windows-computers/"><u>Understanding and Solving Code 31 Issues in Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/your-rendering-device-has-been-lost-overwatch-error-fix/"><u>Your Rendering Device Has Been Lost Overwatch Error Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comparative-study-pre-and-post-vegaspro-19/"><u>[New] A Comparative Study Pre and Post-VegasPro '19</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-amplify-aspirations-top-10-motivation-movies/"><u>[New] Amplify Aspirations Top 10 Motivation Movies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[New] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs-for-2024/"><u>[New] Unleash Your Potential Detailed Guide for PS4 Recordings with OBS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-11/"><u>[SOLVED] Copy and Paste Not Working on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-s17e-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from S17e</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-isolating-unfamiliar-users-in-win-11/"><u>Effective Strategies for Isolating Unfamiliar Users in Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fhss-changes-the-carrier-frequency-rapidly-according-to-a-pseudorandom-sequence-known-to-both-ends-of-the-communication-link/"><u>FHSS Changes the Carrier Frequency Rapidly According to a Pseudorandom Sequence Known to Both Ends of the Communication Link.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-ravbg64exe-realtek-hd-audio-background-process-high-cpu-usage-issue/"><u>Fix ravbg64.exe (Realtek HD Audio Background Process) High CPU Usage Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-audio-issue-in-forza-horizon-4-now-with-full-restored-sound/"><u>Fixed: Audio Issue in Forza Horizon 4 - Now with Full Restored Sound</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-halt-your-jumpy-cursor-a-comprehensive-fix-guide/"><u>How to Halt Your Jumpy Cursor - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-filming-high-quality-camera-stabilizers-guide/"><u>In 2024, Precision in Filming High-Quality Camera Stabilizers Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-due-to-faulty-graphics-driver-software-in-windows/"><u>Resolving Minecraft Crashes Due to Faulty Graphics Driver Software in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-fixing-the-video-card-restart-issue-successfully/"><u>Solution Guide: Fixing the Video Card Restart Issue Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-0-halted-windows-update-problem-easily/"><u>Solve the 0% Halted Windows Update Problem Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-a-computer-thats-frozen-while-installing-windows/"><u>Step-by-Step Guide: Fixing a Computer That's Frozen While Installing Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-find-x7-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Find X7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2024-10-26T19:19:31.716Z
-updated: 2024-11-02T08:21:16.668Z
+date: 2024-11-06T08:49:04.246Z
+updated: 2024-11-07T19:52:27.079Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -61,10 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -92,10 +85,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -122,6 +115,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -143,27 +143,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,18 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-budget-friendly-skydrive-solution-for-bulk-files/"><u>[New] 2024 Approved Budget-Friendly SkyDrive Solution for Bulk Files</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-asuss-proart-pa-329q-a-comprehensive-evaluation-of-a-top-tier-monitoring-solution/"><u>2024 Approved Asus’s ProArt PA 329Q A Comprehensive Evaluation of a Top-Tier Monitoring Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-release-a-stuck-window-updates-on-legacy-oss-like-windows-seven-updated-tips-and-techniques-for-better-user-experience-in-the-year-2024-helpful-tips-148/"><u>How To Release A Stuck Window Updates On Legacy OSs Like WIndows Seven - Updated Tips And Techniques For Better User Experience In The Year 2024 (Helpful Tips & Guide)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-not-detected-errors-in-your-realtek-network-adapter/"><u>How to Resolve 'Not Detected' Errors in Your Realtek Network Adapter</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-lite-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 90 Lite to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/latest-tricks-to-optimize-your-minecraft-experience-say-goodbye-to-lag/"><u>Latest Tricks to Optimize Your Minecraft Experience: Say Goodbye to Lag!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-access-filepath-errors-in-windows-without-a-hitch/"><u>Overcome the Challenge: Access File/Path Errors in Windows Without a Hitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-issues-in-windows-files-and-folders-quickly/"><u>Resolve 'Access Denied' Issues in Windows Files & Folders Quickly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/558394-9781583942925-spiritual-bypassing/"><u>Spiritual Bypassing | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-how-to-access-and-utilize-the-wayback-machine-for-historical-web-data/"><u>Step-by-Step Instructions on How to Access and Utilize the Wayback Machine for Historical Web Data</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007610330-troubleshooting-guide-fixing-hp-monitor-issues-solved/"><u>Troubleshooting Guide: Fixing HP Monitor Issues - Solved</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206405765-you-dont-have-permission-to-access-solved/"><u>You Don't Have Permission to Access [SOLVED]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capturing-honesty-a-comprehensive-guide-to-insta-self-verification-for-2024/"><u>[New] Capturing Honesty A Comprehensive Guide to Insta Self-Verification for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-classic-rogelikes-vs-roguelites-dynamics/"><u>[New] In 2024, Classic Rogelikes Vs. Roguelites' Dynamics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transform-your-stream-embrace-obs-for-youtube-and-twitch/"><u>[Updated] Transform Your Stream Embrace OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-choice-the-10-free-cross-platform-video-calling-tools-for-2024/"><u>[Updated] Ultimate Choice The 10 Free, Cross-Platform Video Calling Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>2024 Approved Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088571-battleye-service-up-and-running-learn-from-our-initial-hiccups/"><u>BattlEye Service Up and Running - Learn From Our Initial Hiccups!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208118591-conquering-the-blue-screen-of-death-fix-your-windows-0xc0000098-error-today/"><u>Conquering the Blue Screen of Death: Fix Your Windows 0xC0000098 Error Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0xc00jnz1-comprehensive-solutions-to-correct-this-windows-glitch/"><u>Error 0xC00jnz1: Comprehensive Solutions to Correct This Windows Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-google-meet-audio-how-to-restore-microphone-function-in-windows-1011/"><u>Fixing Your Google Meet Audio: How to Restore Microphone Function in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hosted-network-startup-problems-on-windows-10-a-comprehensive-solution/"><u>Hosted Network Startup Problems on Windows 10: A Comprehensive Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-usb-port-on-your-hp-laptop-expert-guide/"><u>How to Repair an Unresponsive USB Port on Your HP Laptop - Expert Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-broken-character-on-your-computerphonetablet/"><u>How To Restore The Broken '@' Character On Your Computer/Phone/Tablet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-overcoming-black-or-blank-screens-on-your-windows-11-pc/"><u>Step-by-Step Tips: Overcoming Black or Blank Screens on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gptbot-saga-ai-evolution-and-its-contentious-internet-stance/"><u>The GPTBot Saga - AI Evolution & Its Contentious Internet Stance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-pixel-watch-2-into-a-wireless-bluetooth-mouse-with-simple-tricks-learn-how-on-zdnet/"><u>Transform Your Pixel Watch 2 Into a Wireless Bluetooth Mouse with Simple Tricks! Learn How on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204377228-xbox-one-headset-malfunction-heres-your-ultimate-fix-guide/"><u>Xbox One Headset Malfunction? Here's Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/avi-ogg-movavi/"><u>앱에서 AVI 소스를 OGG로 쉽게 바꾸기 - Movavi</u></a></li>
 </ul></div>
 

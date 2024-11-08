@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GeForce Shadow Play Installation Error: Step-by-Step Guide"
-date: 2024-10-22T17:10:49.594Z
-updated: 2024-10-27T16:33:39.658Z
+date: 2024-11-01T20:30:18.856Z
+updated: 2024-11-07T21:24:42.309Z
 tags:
   - win11
   - win10
@@ -51,31 +51,11 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
@@ -88,10 +68,10 @@ It’s very easy to tether your phone on Windows 10, do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I fix USB tethering not working on Windows 10?
@@ -115,19 +95,6 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -137,10 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
@@ -151,43 +118,70 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
@@ -212,22 +206,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>[New] 2024 Approved The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[Updated] In 2024, How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-traveling-back-in-social-media-years-a-practical-fb-guide/"><u>[Updated] In 2024, Traveling Back in Social Media Years A Practical FB Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>2024 Approved Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>2024 Approved Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dota-2-fix-overcome-change-rendering-api-error-2024-in-a-flash/"><u>Dota 2 Fix: Overcome 'Change Rendering API' Error 2024 in a Flash!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-enablingdisabling-network-discovery-on-your-windows-10-pc/"><u>Guide: Enabling/Disabling Network Discovery on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210759329-how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-logitechs-unresponsive-vertical-scroll-on-your-device/"><u>How to Repair Logitech's Unresponsive Vertical Scroll on Your Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x90s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X90S without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/las-mejores-tecnicas-para-rescatar-fotografias-de-un-disco-duro-viejos-en-sistemas-operativos-windows/"><u>Las Mejores Técnicas Para Rescatar Fotografías De Un Disco Duro Viejos en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-right-clicks-on-a-windows-10-pc/"><u>Step-by-Step Solution for Non-Responsive Right Clicks on a Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-fixing-non-recognized-usb-devices-and-failed-resets-on-windows-1n/"><u>Step-by-Step Troubleshooting for Fixing Non-Recognized USB Devices and Failed Resets on Windows 1N</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-logitech-scroll-wheel/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Logitech Scroll Wheel</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-15-must-read-tiktok-favorites/"><u>[New] Top 15 Must-Read TikTok Favorites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10-for-2024/"><u>[Updated] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-freepaid-audio-cleanup-tools-for-higher-video-quality/"><u>[Updated] In 2024, Free/Paid Audio-Cleanup Tools for Higher Video Quality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevating-video-marketing-understanding-keywords-on-platforms-like-youtube/"><u>2024 Approved Elevating Video Marketing Understanding Keywords on Platforms Like YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a24-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A24 without App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-x8b-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor X8b Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-correct-the-mute-problem-with-netflix-content/"><u>Easy Steps to Correct the Mute Problem with Netflix Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transfer-and-itunes-drm-stripping-tips-for-your-favorite-mood-boosting-content/"><u>Effortless Transfer and iTunes DRM Stripping Tips for Your Favorite Mood-Boosting Content</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-laptop-speaker-distortion-for-a-crystal-clear-audio-experience-guide/"><u>Fix Windows Laptop Speaker Distortion for a Crystal Clear Audio Experience [GUIDE]</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-yuva-2-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Yuva 2 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opencl-dll-deficiency-solutions-explored/"><u>OpenCL DLL Deficiency: Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-http-error-403-forbidden-a-step-by-step-guide/"><u>Resolving the HTTP Error 403: Forbidden - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-high-gpu-consumption-in-windows-5-effective-fixes-for-desktop-window-manager-issues/"><u>Slash High GPU Consumption in Windows: 5 Effective Fixes for Desktop Window Manager Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-no-audio-output-device-found-problem-on-windows-11-a-comprehensive-guide/"><u>Solving 'No Audio Output Device Found' Problem on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/start-here-how-to-set-up-and-use-bluetooth-with-your-iphone/"><u>Start Here: How to Set Up and Use Bluetooth with Your iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-reactivating-deactivated-wireless-functionality/"><u>Step-by-Step Resolution for Reactivating Deactivated Wireless Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-resolving-audio-services-failed-on-windows-11/"><u>Top Solutions for Resolving 'Audio Services Failed' On Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsticking-a-frozen-pc-windows-navigate-and-shut-down-procedure/"><u>Unsticking a Frozen PC: Windows Navigate and Shut Down Procedure</u></a></li>
 </ul></div>
 

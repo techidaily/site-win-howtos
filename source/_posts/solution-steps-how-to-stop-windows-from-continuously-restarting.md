@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2024-11-01T02:33:58.415Z
-updated: 2024-11-01T19:47:15.191Z
+date: 2024-11-04T02:32:53.903Z
+updated: 2024-11-08T02:58:04.566Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -54,6 +54,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -61,6 +68,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -70,25 +84,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
@@ -102,19 +115,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -140,10 +140,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -169,20 +169,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-win11-restarts-without-warning/"><u>[FIXED] Win11 Restarts Without Warning</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-fullscreen-image-of-page-layout/"><u>[New] 2024 Approved Fullscreen Image of Page Layout</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-guesting-without-glitches-live-tiktok-conversations/"><u>[New] Guesting Without Glitches Live TikTok Conversations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-13-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 13 Pro 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-the-problematic-scenario-of-no-xinput13dll-found/"><u>Addressing the Problematic Scenario of No XINPUT1_3.dll Found</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-the-blurry-typeface-dilemma-optimizing-visuals-for-windows-11/"><u>Decode the Blurry Typeface Dilemma: Optimizing Visuals for Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-aesthetic-elements-in-podcast-art/"><u>Decoding Aesthetic Elements in Podcast Art</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-tips-for-devices-not-working-with-the-main-computer/"><u>Diagnosis and Repair Tips for Devices Not Working with the Main Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-usb-port-reset-failures-on-your-windows-11-computer/"><u>Effective Solutions for Fixing USB Port Reset Failures on Your Windows 11 Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-disclosure-unpacking-the-dji-inspire-1-for-2024/"><u>Full Disclosure Unpacking the DJI Inspire 1 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-optimal-windows-11-recovery-with-built-in-tools-sfc-and-dism-explained/"><u>Guide to Optimal Windows 11 Recovery with Built-In Tools: SFC & DISM Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782417-9781591437703-rebel-angels-in-exile/"><u>Rebel Angels in Exile | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005292320-steam-sign-in-woes-heres-how-you-can-solve-them/"><u>Steam Sign-In Woes? Here's How You Can Solve Them!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-issues-for-windows-11-and-7-users-fix-crackling-sounds/"><u>Troubleshooting Audio Issues for Windows 11 & 7 Users - Fix Crackling Sounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-6-video-techniques-that-grab-eyes/"><u>Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-future-filming-top-15-video-cameras-to-watch/"><u>2024 Approved Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-writing-why-chatbot-solutions-may-not-meet-the-needs-of-content-authors/"><u>AI and Writing: Why Chatbot Solutions May Not Meet the Needs of Content Authors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-common-errors-top-5-strategies-to-restore-touchscreen-functionality-on-windows-11/"><u>Avoid Common Errors: Top 5 Strategies to Restore Touchscreen Functionality on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-night-mode-problems-step-by-step-solution/"><u>How to Resolve Windows 11 Night Mode Problems – Step-by-Step Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hunt-down-these-10-vectors-stock-image-websites-for-2024/"><u>Hunt Down These 10 Vectors Stock Image Websites for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-instant-restoration-for-missing-snaps/"><u>In 2024, Instant Restoration for Missing Snaps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-performance-optimization/"><u>OpenGL Performance Optimization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x8024402c-issue-a-step-by-step-guide-to-repairing-windows-updates/"><u>Resolving the 0X8024402c Issue: A Step-by-Step Guide to Repairing Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-svchostexe-causing-excessive-cpu-use-in-windows-10-a-step-by-step-guide/"><u>Resolving the Issue of svchost.exe Causing Excessive CPU Use in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-stop-your-mouse-from-erratic-motion/"><u>Troubleshooting Guide: Stop Your Mouse From Erratic Motion</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-to-win-efficiently-handling-app-issues-in-windows-11/"><u>Zero-to-Win: Efficiently Handling App Issues in Windows 11</u></a></li>
 </ul></div>
 

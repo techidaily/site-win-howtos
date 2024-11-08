@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Broken or Damaged Windows Store Cache: A Comprehensive Guide"
-date: 2024-10-26T16:56:36.559Z
-updated: 2024-10-27T16:29:33.288Z
+date: 2024-11-01T00:25:51.779Z
+updated: 2024-11-07T19:10:01.196Z
 tags:
   - win11
   - win10
@@ -47,20 +47,33 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -73,10 +86,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -87,13 +100,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -101,6 +107,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
@@ -108,10 +128,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -121,13 +141,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -162,18 +175,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-decoding-cloud-service-price-structures/"><u>[New] 2024 Approved Decoding Cloud Service Price Structures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-perfecting-zoom-sound-a-dual-strategy-approach/"><u>[New] Perfecting Zoom Sound A Dual Strategy Approach</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-dynamic-book-summary-vids/"><u>[Updated] In 2024, Dynamic Book Summary Vids</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-screen-recording-mi-11-edition/"><u>[Updated] In 2024, Mastering Screen Recording Mi 11 Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-mastering-sound-design-adding-audio-enhancements-to-videos-seamlessly/"><u>2024 Approved Mastering Sound Design Adding Audio Enhancements to Videos Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-visual-angle-in-windows-configuration/"><u>Altering Visual Angle in Windows Configuration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bring-back-windows-11-sound-via-drivers/"><u>Bring Back Windows 11 Sound via Drivers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/how-to-resolve-non-responsive-battlenet-launcher-in-windows-environments/"><u>How to Resolve Non-Responsive Battle.net Launcher in Windows Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-screen-mirroring-glitches-in-windows-10-environments/"><u>How to Resolve Screen Mirroring Glitches in Windows 10 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-cannot-write-to-issue-at-specific-0x-memory-slot/"><u>How We Overcame the 'Cannot Write To' Issue at Specific 0X Memory Slot</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-epic-martial-arts-arcade-classics-revisited/"><u>In 2024, Epic Martial Arts Arcade Classics Revisited</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/requirement-unlocked-only-certain-gpus-can-run-this-engine-check-compatibility-with-d3d11/"><u>Requirement Unlocked: Only Certain GPUs Can Run This Engine - Check Compatibility with D3D11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-bluetooth-on-your-computers-system-manager/"><u>Step-by-Step Solution: Restoring Bluetooth on Your Computer's System Manager</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-virtual-hubs-for-scouting-sponsorship-opportunities-on-youtube/"><u>[New] Virtual Hubs for Scouting Sponsorship Opportunities on Youtube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones-for-2024/"><u>[Updated] Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>2024 Approved Top TikTok Edits Mastering Your Cut Lists</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-complete-collection-of-109-vital-croatian-phrases-to-boost-your-travels/"><u>A Complete Collection of 109 Vital Croatian Phrases to Boost Your Travels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-modern-setup-hosts-insights-definitions-and-solutions-to-performance-problems/"><u>Demystifying Modern Setup Hosts: Insights, Definitions, & Solutions to Performance Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/disassembling-new-controller-firmware-on-series-xs/"><u>Disassembling New Controller Firmware on Series X/S</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-fix-driver-related-reboot-failures-in-the-windows-operating-environment/"><u>How to Address and Fix Driver-Related Reboot Failures in the Windows Operating Environment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-outage-how-to-identify-and-resolve-streaming-problems/"><u>Netflix Outage – How to Identify and Resolve Streaming Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-when-your-hp-laptops-webcam-fails-to-work-under-windows/"><u>Quick Solutions for When Your HP Laptop's Webcam Fails to Work Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-destiny-2-server-unavailability-a-step-by-step-guide/"><u>Solving Destiny 2 Server Unavailability: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-when-bootmgr-goes-missing/"><u>Step-by-Step Troubleshooting: When Bootmgr Goes Missing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-icue-solving-the-mystery-of-missing-hardware-detection/"><u>Troubleshooting ICUE: Solving the Mystery of Missing Hardware Detection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Tips: Fixing Astro A40 Microphone Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-for-unpairing-problems-in-windows-10-tips/"><u>Ultimate Troubleshooting Steps for Unpairing Problems in Windows 10 (Tips )</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-mouse-cursor-vanishes-how-to-restore-it-effectively/"><u>Windows 11 Mouse Cursor Vanishes: How to Restore It Effectively</u></a></li>
 </ul></div>
 

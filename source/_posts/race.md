@@ -1,7 +1,7 @@
 ---
 title: Race
-date: 2024-09-12T23:22:48.806Z
-updated: 2024-09-17T22:11:09.806Z
+date: 2024-10-31T18:43:01.989Z
+updated: 2024-11-07T23:09:07.240Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
@@ -77,28 +84,54 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9) See if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
 
@@ -130,29 +163,22 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -190,5 +216,26 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transform-photos-create-masterpieces-with-leading-apps/"><u>[New] Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-perfect-screen-recording-toolkit-systematic-how-to-manual/"><u>[Updated] 2024 Approved The Perfect Screen Recording Toolkit Systematic How-To Manual</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-add-shimmer-to-photos-illustrators-motion-blur-guide-for-2024/"><u>[Updated] Add Shimmer to Photos Illustrator's Motion Blur Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/orf-png-movavi/"><u>「手軽に無料で高品位ORF PNG変換 - Movavi」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sculpting-images-a-beginners-guide-to-pics-distortion/"><u>2024 Approved Sculpting Images A Beginner's Guide to Pics Distortion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4b-wav-movavi/"><u>無限制網路下載改變 M4B到 WAV - 使用 Movavi 音頻轉換器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-aif-vers-m4r-en-ligne-guide-complet-par-movavi/"><u>Conversion Gratuite De Fichiers AIF Vers M4R en Ligne - Guide Complet Par Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-veloce-di-mkv-a-mp4-su-internet-gratuito-via-movavi-scambio-formati-senza-costo/"><u>Conversione Veloce Di MKV a MP4 Su Internet Gratuito via Movavi - Scambio Formati Senza Costo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converte-i-file-mp4-nel-formato-avi-utilizzando-lestesa-gamma-di-funzionalita-gratuite-online-di-movavi/"><u>Converte I File MP4 Nel Formato AVI Utilizzando L'Estesa Gamma Di Funzionalità Gratuite Online Di Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-guide-for-hp-officejet-pro-asterisk-8610-driver-on-windows-os-7-vista-xp-8-and-10/"><u>Download & Update Guide for HP Officejet Pro Asterisk 8610 Driver on Windows OS (7, Vista, XP, 8, and 10)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-de-png-para-gif-com-o-movavi/"><u>Gratuito Online Converter De Imagens - De PNG Para GIF Com O Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>In 2024, Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-maximize-story-exposure-with-linked-fb-profile/"><u>In 2024, Maximize Story Exposure with Linked FB Profile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movaviin-tanimak-ve-uygulamalari-tum-detaylari/"><u>Movavi'in Tanımak Ve Uygulamaları: Tüm Detayları</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-10-typical-apple-pay-troubles/"><u>Quick Fixes for 10 Typical Apple Pay Troubles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-webm-au-format-avi-convertisseur-video-en-ligne-facile/"><u>Trier Gratuitement Un Fichier WebM Au Format AVI - Convertisseur Vidéo en Ligne Facile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-screen-driver-compatibility-for-win10-win8-and-win7-operating-systems/"><u>Troubleshooting and Fixing HP Screen Driver Compatibility for Win10, Win8 & Win7 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221656347-ai-10/"><u>가장 우수하고 유용한 AI 합성도어 소프트와 프로그램: 10대 권장 목록</u></a></li>
+</ul></div>
 

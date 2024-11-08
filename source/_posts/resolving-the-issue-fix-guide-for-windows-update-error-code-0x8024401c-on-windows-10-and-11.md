@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11"
-date: 2024-10-22T18:15:14.352Z
-updated: 2024-10-27T16:23:00.209Z
+date: 2024-11-02T23:34:33.960Z
+updated: 2024-11-07T23:30:25.083Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ net start cryptsvc
 
  If it is, then you’ve solved your problem. But if not, you may need to…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Modify your Windows setting in the registry
 
  This issue can also be fixes by adjusting a Windows Update setting in the registry. Here is how:
@@ -75,6 +82,14 @@ net start cryptsvc
 2. Type “regedit” in the Run box and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
@@ -84,31 +99,32 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
@@ -122,20 +138,26 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
@@ -148,26 +170,12 @@ To do so:
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
@@ -199,15 +207,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-composing-captivating-cutting-edge-synopses/"><u>[Updated] 2024 Approved Composing Captivating Cutting-Edge Synopses</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>[Updated] Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-quick-intro-to-instagram-video-chat-for-2024/"><u>[Updated] Quick Intro to Instagram Video Chat for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-the-classic-start-menu-in-modern-windows-10-systems/"><u>Reviving the Classic Start Menu in Modern Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-keyboards-where-the-number-pad-doesnt-respond/"><u>Solution Guide for Keyboards Where the Number Pad Doesn’t Respond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-media-disconnected-issues-on-your-windows-computer-troubleshooting-steps/"><u>Solving 'Media Disconnected' Issues on Your Windows Computer - Troubleshooting Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-steam-store-access-problems/"><u>Step-by-Step Solutions: Overcoming Steam Store Access Problems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-strategies-for-troubleshooting-powerpoint-video-playback-glitches-your-definitive-resource/"><u>Step-by-Step Strategies for Troubleshooting PowerPoint Video Playback Glitches: Your Definitive Resource</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-audiovisual-editing-software-essential-specifications-core-capabilities-and-consumer-choices/"><u>Updated In 2024, Audiovisual Editing Software Essential Specifications, Core Capabilities, and Consumer Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-your-watch-experience-with-faster-instagram-videos/"><u>[New] In 2024, Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-youtube-partnership-aim-for-a-10k-views-target/"><u>[New] In 2024, Unlock YouTube Partnership Aim for a 10K Views Target</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-10/"><u>[SOLVED] Copy and Paste Not Working on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-tips-for-sub4sub-beginners-review-our-complete-guide/"><u>[Updated] Pro Tips for Sub4sub Beginners - Review Our Complete Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/alternative-windows-filmmakers-for-2024/"><u>Alternative Windows Filmmakers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-fixing-error-1067-stop-unexpected-process-exits-on-your-windows-system/"><u>Deciphering and Fixing 'Error 1067': Stop Unexpected Process Exits on Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-freezing-issues-with-the-windows-10-taskbar/"><u>Easy Solutions for Resolving Freezing Issues with the Windows 10 Taskbar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-asus-webcam-black-screen-windows-11-issue/"><u>Fix ASUS Webcam Black Screen Windows 11 Issue</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/yourself-from-fringe-a-youtube-video-fix-guide/"><u>Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-corrupted-image-issues-on-your-windows-1011-system/"><u>How to Overcome Corrupted Image Issues on Your Windows 10/11 System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-create-vintage-videos-a-comprehensive-tutorial/"><u>In 2024, How to Create Vintage Videos A Comprehensive Tutorial</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>New In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-lenovo-mouse-pad-issues-across-windows-systems-expert-solutions-for-win-1187/"><u>Overcome Lenovo Mouse Pad Issues Across Windows Systems - Expert Solutions for WIN 11/8/7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/proven-techniques-efficiently-cleaning-up-your-photos-by-eliminating-unwanted-elements/"><u>Proven Techniques: Efficiently Cleaning Up Your Photos by Eliminating Unwanted Elements</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-a78-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after A78 has been deleted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-port-reset-failed-error-a-comprehensive-guide-to-troubleshoot-your-usb-devices-on-windows-10/"><u>Solving the Port Reset Failed Error: A Comprehensive Guide to Troubleshoot Your USB Devices on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-aesthetics-incorporating-visual-effects-in-videos-pcmobile/"><u>Streamlined Aesthetics Incorporating Visual Effects in Videos (PC/Mobile)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-error-code-1000-on-various-windows-systems/"><u>Understanding & Resolving Error Code 1000 on Various Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-enigma-finding-harmony-with-acer-keyboard-issues/"><u>Windows Enigma: Finding Harmony with Acer Keyboard Issues</u></a></li>
 </ul></div>
 

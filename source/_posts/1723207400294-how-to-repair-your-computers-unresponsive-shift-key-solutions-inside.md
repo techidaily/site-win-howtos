@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2024-10-31T16:18:45.909Z
-updated: 2024-11-02T04:52:13.166Z
+date: 2024-11-02T04:17:40.473Z
+updated: 2024-11-08T01:22:15.187Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -64,16 +57,16 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -96,10 +89,10 @@ Follow these:
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -119,10 +112,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -130,6 +123,13 @@ Follow these:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,24 +150,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/no-pierdas-tu-contenido-como-hacer-una-copia-de-seguridad-perfecta-de-cualquier-dvd-en-menos-de-5-minutos/"><u>¡No Pierdas Tu Contenido! Cómo Hacer Una Copia De Seguridad Perfecta De Cualquier DVD en Menos De 5 Minutos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] In 2024, Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-leap-forward-in-editing-embrace-xp-movie-maker-for-2024/"><u>[Updated] Leap Forward in Editing Embrace XP Movie Maker for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-framework-for-adding-media-to-youtube-compilations/"><u>[Updated] The Essential Framework for Adding Media to YouTube Compilations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-9-mic-technology-advances-a-deep-dive-analysis-for-2024/"><u>[Updated] Top 9 Mic Technology Advances A Deep Dive Analysis for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-two-versatile-techniques-for-securely-downloading-movies-from-gomovies/"><u>1. Easy Guide: Two Versatile Techniques for Securely Downloading Movies From GoMovies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/19-free-top-gardening-programs-for-video-enthusiasts-get-started/"><u>19 Free Top Gardening Programs for Video Enthusiasts - Get Started !</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026733869-mp4/"><u>MP4ファイル回転設定のテクニック４種類（パソコン向け）</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/personalized-whatsapp-tones-on-iphoneandroid-devices-for-2024/"><u>Personalized WhatsApp Tones on iPhone/Android Devices for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tell-your-circle-about-our-best-free-iphone-video-conversion-tools-a-must-for-everyone/"><u>Tell Your Circle About Our Best Free iPhone Video Conversion Tools – A Must for Everyone!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/through-virtual-lenses-a-historical-view/"><u>Through Virtual Lenses A Historical View</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-best-time-lapse-recording-tools-compatible-with-windows-and-macos/"><u>Top 5 Best Time-Lapse Recording Tools: Compatible with Windows & macOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-avi-to-dvd-converter-software-for-windows-11-users/"><u>Top-Rated Avi to Dvd Converter Software for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-free-media-transcoder-convert-videos-without-cost/"><u>Top-Rated Free Media Transcoder: Convert Videos Without Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/watching-yify-movies-seamlessly-on-ios-devices-and-ps5-without-extra-codecs/"><u>Watching YIFY Movies Seamlessly on iOS Devices & PS5 Without Extra Codecs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tsmtsm2tm2ts/"><u>すばやく簡単：TS/MTS/M2T動画を一度に高品質M2TS変換！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027406070-pc/"><u>ダブルPCに同じライセンスキーを割り当てる方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-youtube-experience-with-a-structured-watch-later-plan/"><u>[New] 2024 Approved Enhancing YouTube Experience with a Structured Watch Later Plan</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-phone-snapchat-screen-records-for-2024/"><u>[New] The Ultimate Guide to Phone Snapchat Screen Records for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts-for-2024/"><u>Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/creative-steps-to-obliviate-win-11s-taskbar-button/"><u>Creative Steps to Obliviate Win 11'S Taskbar Button</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-servers-not-available-errors-in-destiny-2/"><u>Expert Advice: Dealing with 'Servers Not Available' Errors in Destiny 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-boot-solutions-overcoming-sluggishness-on-windows-7-systems/"><u>Fast Boot Solutions: Overcoming Sluggishness on Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-unfreeze-file-explorer-on-windows-11/"><u>Fixes and Solutions: How to Unfreeze File Explorer on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-hp-copilotplus-laptop-boosted-my-remote-work-efficiency-a-test-run-review-zdnet/"><u>How the HP Copilot+ Laptop Boosted My Remote Work Efficiency - A Test Run Review | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-the-blue-screen-error-0xc00000e9-in-windows/"><u>How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-decorate-your-windows-11-photos-app-add-aesthetic-filters-plus-audio-streams/"><u>In 2024, Decorate Your Windows 11 Photos App Add Aesthetic Filters + Audio Streams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>In 2024, Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-update-recovery-avoid-the-error-code-0x80070643-and-get-your-system-running-smoothly-again/"><u>Mastering Windows Update Recovery: Avoid the 'Error Code 0X80070643' And Get Your System Running Smoothly Again</u></a></li>
 </ul></div>
 

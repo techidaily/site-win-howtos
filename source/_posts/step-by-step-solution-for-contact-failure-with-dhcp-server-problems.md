@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Contact Failure with DHCP Server' Problems
-date: 2024-10-25T16:01:18.200Z
-updated: 2024-10-27T16:15:45.120Z
+date: 2024-11-04T04:12:56.568Z
+updated: 2024-11-08T02:29:55.469Z
 tags:
   - win11
   - win10
@@ -72,6 +72,19 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ``
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -81,18 +94,18 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -103,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -118,18 +138,18 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -138,16 +158,22 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -173,13 +199,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -187,13 +206,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -232,21 +244,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-building-a-viral-instagram-film-empire/"><u>[New] In 2024, Step-by-Step Building a Viral Instagram Film Empire</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-list-of-sites-to-download-stylish-text-files-for-2024/"><u>[New] Ultimate List of Sites to Download Stylish Text Files for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-superior-5-social-sites-redefining-connectivity/"><u>[Updated] In 2024, Superior 5 Social Sites, Redefining Connectivity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-perfecting-your-hulu-capture-pc-macios-android-tips/"><u>[Updated] Perfecting Your Hulu Capture PC, Mac/iOS, Android Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-redefining-cinematic-boundaries-with-360-video/"><u>[Updated] Redefining Cinematic Boundaries with 360 Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-charge-problems-with-your-playstation-4-control-pad/"><u>Diagnosing and Fixing Charge Problems with Your PlayStation 4 Control Pad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-d3d-configuration-fixes-overcoming-initialization-errors/"><u>DirectX D3D Configuration Fixes: Overcoming Initialization Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exhaustive-troubleshooting-steps-to-get-your-astro-a40-mic-up-and-running-again/"><u>Exhaustive Troubleshooting Steps to Get Your Astro A40 Mic Up and Running Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-proper-functionality-of-keyboards-fn-key-in-dell-computers/"><u>How to Restore Proper Functionality of Keyboard's Fn Key in Dell Computers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-hot-30i-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Hot 30i FRP Bypass</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-linux-on-windows-top-wsl-2-tips-and-tricks/"><u>Optimize Linux on Windows: Top WSL 2 Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sd-unheard-of-find-the-way-out/"><u>SD Unheard Of? Find the Way Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedy-windows-7-booting-tips-and-tricks-to-try-now/"><u>Speedy Windows 7 Booting: Tips and Tricks to Try Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-smart-7-hd-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Smart 7 HD Location | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-techniques-to-captivate-viewers-with-facebook-covers/"><u>Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-errcachemiss-issue-on-google-chrome/"><u>Understanding and Repairing the ERR_CACHE_MISS Issue on Google Chrome</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-which-is-the-better-gopro-for-pro-video-max-or-hero-11/"><u>[Updated] In 2024, Which Is The Better GoPro for Pro Video? Max or Hero 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-guide-capturing-youtube-live-on-multiple-devices/"><u>[Updated] Step-by-Step Guide Capturing YouTube Live on Multiple Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-expert-picks-top-mac-editors-for-cinema-professionals/"><u>2024 Approved Expert Picks Top Mac Editors For Cinema Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-to-correct-the-windows-update-malfunction-0x8024401c-on-win-10-and-11/"><u>Complete Walkthrough to Correct the Windows Update Malfunction 0X8024401C on Win 10 & 11</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhanced-conversion-rates-with-our-cutting-edge-cookiebot-technology/"><u>Enhanced Conversion Rates with Our Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintain-macbook-usage-despite-a-closed-lid-expert-hacks-and-tricks/"><u>Maintain MacBook Usage Despite a Closed Lid: Expert Hacks and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-1011-a-comprehensive-fix-for-error-0x8024401c-during-updates/"><u>Mastering Windows 10/11: A Comprehensive Fix for Error 0X8024401c During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-a-vanishing-cursor-on-your-windows-11-touchpad/"><u>Resolving the Issue of a Vanishing Cursor on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-non-functional-bluetooth-mouse-issues-on-windows/"><u>Troubleshooting Guide: Resolving Non-Functional Bluetooth Mouse Issues on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-user-profile-service-failure-during-sign-in-on-windows-11/"><u>Troubleshooting Steps: Resolving 'User Profile Service' Failure During Sign-In on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-ultimate-digital-hangout-vote-here/"><u>Your Ultimate Digital Hangout - Vote Here</u></a></li>
 </ul></div>
 

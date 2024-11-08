@@ -1,7 +1,7 @@
 ---
 title: "Successfully Resolved: Diagnostic Services System Failure"
-date: 2024-10-26T17:53:44.983Z
-updated: 2024-10-27T18:37:11.830Z
+date: 2024-11-04T16:10:48.690Z
+updated: 2024-11-08T05:26:41.862Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -48,6 +41,13 @@ Read on this small guide and follow to solve the problem on your Windows.
 1. [Check the Diagnostics Policy Service in the Services window](#solution1)
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
@@ -61,13 +61,6 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
@@ -80,14 +73,14 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
-6) Run the Network Diagnostics and see if it goes well.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6) Run the Network Diagnostics and see if it goes well.
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -112,10 +105,10 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
@@ -130,16 +123,16 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
@@ -158,6 +151,13 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -184,24 +184,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solvedyour-device-driver-is-not-compatible-in-wow/"><u>[SOLVED]Your Device Driver Is Not Compatible in WoW</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-sharing-excellence-twitch-live-to-your-facebook-circle-for-2024/"><u>[Updated] Sharing Excellence Twitch Live to Your Facebook Circle for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/96-off-for-lifetime-access-to-mondly-premium/"><u>96% OFF For Lifetime Access To Mondly Premium</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloading-the-linksys-ae1200-driver-made-easy-and-quick-for-all-users/"><u>Downloading the Linksys AE1200 Driver Made Easy & Quick for All Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-dxgkrnl-error-in-your-windows-videos/"><u>Effective Fixes for the Persistent Dxgkrnl Error in Your Window's Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-display-performance-by-tweaking-win1011s-hdmi-driver/"><u>Elevate Display Performance by Tweaking Win10/11's HDMI Driver</u></a></li>
-<li><a href="https://facebook.techidaily.com/has-someone-been-using-your-pc-is-someone-using-your-emails-heres-how-to-tell/"><u>Has Someone Been Using Your PC? Is Someone Using Your Emails? Here's How to Tell</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-create-compelling-content-for-facebook-reels-for-2024/"><u>How to Create Compelling Content for Facebook Reels for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-malfunctioning-buttons-in-microsofts-latest-operating-systems/"><u>How to Repair Malfunctioning Buttons in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ipad-showdown-choosing-between-the-m1-and-m2-models-the-ultimate-guide-zdnet-tech-reviews/"><u>IPad Showdown: Choosing Between the M1 and M2 Models - The Ultimate Guide | ZDNet Tech Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-beyond-windows-10-photos-8-excellent-image-viewing-options/"><u>New In 2024, Beyond Windows 10 Photos 8 Excellent Image Viewing Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-chromes-inaccessible-webpage-dilemma/"><u>Overcoming Chrome's Inaccessible Webpage Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-unintended-characters-while-typing/"><u>Solving the Issue of Unintended Characters While Typing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-the-ghostly-white-pixels-on-your-computer-monitor/"><u>Solving the Mystery of the Ghostly White Pixels on Your Computer Monitor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-overcoming-opengl-hiccups-in-minecraft/"><u>Troubleshooting Techniques for Overcoming OpenGL Hiccups in Minecraft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uncover-the-solution-to-restore-gone-icons-on-your-windows-11-pc-easily/"><u>Uncover the Solution to Restore Gone Icons on Your Windows 11 PC Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-computer-restarts-causes-and-solutions-for-a-steady-performance/"><u>Unexpected Computer Restarts – Causes & Solutions for a Steady Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-step-by-step-guide-for-font-integration-in-ae/"><u>[New] In 2024, Step-by-Step Guide for Font Integration in AE</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>[New] The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-ce-3-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord CE 3 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolve-no-download-problems-with-torrents/"><u>Guide to Resolve No-Download Problems with Torrents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-vanished-desktop-symbols-in-windows-11-fixed/"><u>How to Recover Vanished Desktop Symbols in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-the-quick-selection-tool-windows-plus-shift-plus-s-in-windows-11-and-earlier-versions/"><u>How to Restore Functionality of the Quick Selection Tool (Windows + Shift + S) in Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>In 2024, Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/iphone-versus-samsung-phone-debate-a-comparison-that-guides-your-purchase-decision-successfully/"><u>IPhone Versus Samsung Phone Debate: A Comparison That Guides Your Purchase Decision Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206521094-solved-why-wont-my-hp-laptop-recognize-usb-devices-a-step-by-step-guide-to-repairing-usb-connectivity-issues/"><u>Solved! Why Won’t My HP Laptop Recognize USB Devices? A Step-by-Step Guide to Repairing USB Connectivity Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices/"><u>Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-honor-play-7t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor Play 7T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-mts-video-editors-top-picks/"><u>Updated Best MTS Video Editors Top Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204999935-why-isnt-my-razer-keyboard-responding-solving-the-mystery/"><u>Why Isn't My Razer Keyboard Responding? Solving the Mystery!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-lacks-screen-contrast-slider/"><u>Windows Lacks Screen Contrast Slider</u></a></li>
 </ul></div>
 

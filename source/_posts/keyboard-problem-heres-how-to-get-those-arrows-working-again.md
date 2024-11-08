@@ -1,7 +1,7 @@
 ---
 title: Keyboard Problem? Here's How to Get Those Arrows Working Again!
-date: 2024-09-16T18:47:32.689Z
-updated: 2024-09-18T00:51:32.452Z
+date: 2024-11-05T02:19:00.019Z
+updated: 2024-11-07T16:40:04.508Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
 3. Click**Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
@@ -60,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -89,18 +104,25 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -113,16 +135,16 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
@@ -148,5 +170,21 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-advanced-recording-alternatives-to-fbx-frameworks/"><u>[New] Exploring Advanced Recording Alternatives to FBX Frameworks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-passionate-communicator-evaluation-revision-viii/"><u>[New] Passionate Communicator Evaluation - Revision VIII</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[New] The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubers-essential-camera-guidebook/"><u>[New] YouTubers' Essential Camera Guidebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-dat-mp4-datmp4/"><u>2024 年度推荐：六款最佳 DAT转换为 MP4 视频编解码器 - DAT到MP4转换软件选型指南</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1724766755589-dvdiphone/"><u>高画質から安全に再生可能:ジャニーズDVDをiPhoneへの完璧移行方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivos-avi-a-gifs-online-sin-coste-guia-rapida-y-eficaz/"><u>Convertir Archivos Avi a Gifs Online Sin Coste - Guía Rápida Y Eficaz</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/formato-de-archivos-free-online-converted-from-asf-to-avi-by-movavi-guia-paso-a-paso-y-mejores-practicas/"><u>Formato De Archivos FREE Online Converted From ASF to AVI by [Movavi]: Guía Paso a Paso Y Mejores Prácticas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-gebaseerd-apng-to-gif-konverter-professioneel-online-en-in-al-limit-zuverheffend-movavi/"><u>Gratuit Gebaseerd APNG-to-GIF Konverter: Professioneel, Online En In Al Limit Zuverheffend - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/take-your-videos-to-the-next-level-1080p-video-editing-solutions-for-2024/"><u>Take Your Videos to the Next Level 1080P Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-free-mac-video-transcoding-tools-the-ultimate-guide/"><u>Top 15 Free Mac Video Transcoding Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-to-flac-web-audioshift/"><u>バーチャル・ディジタル・オーディオ移行:無料WMA to FLAC Web変換ツール – AudioShift</u></a></li>
+</ul></div>
 

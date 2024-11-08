@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2024-10-29T17:58:36.219Z
-updated: 2024-11-02T01:16:14.192Z
+date: 2024-11-05T08:59:24.370Z
+updated: 2024-11-08T08:07:09.618Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -65,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
@@ -91,26 +91,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -126,11 +106,25 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -156,20 +150,24 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-roi-with-effective-animated-social-media-campaigns/"><u>[New] 2024 Approved Mastering ROI with Effective Animated Social Media Campaigns</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-audio-recording-101-from-youtube-playback-to-files-for-2024/"><u>[New] Audio Recording 101 From YouTube Playback To Files for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm44k544og44o844k644gq5yih44kk5oqc44gn5yuv55s75yi25l2cic0g44gk5yun44kb44gu44ot44oh44kq57eo6zug44oe44o844or5lia6kan44cn/"><u>「スムーズな切り抜き動画制作 - お勧めのビデオ編集ツール一覧」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cda-to-wav/"><u>初心者にもわかるCDA to WAV変換テクニックガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ac3-to-wav-file-transformation-tutorial-how-to-do-it-seamlessly-on-the-web-or-your-desktop/"><u>AC3 to WAV File Transformation Tutorial - How to Do It Seamlessly on the Web or Your Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oneplus-ace-2-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From OnePlus Ace 2 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/androidflac/"><u>Android上で高品質オーディオを楽しむためのFLAC再生手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-free-and-paid-software-for-transforming-videos-into-3gp-and-3g2-formats/"><u>Best Free and Paid Software for Transforming Videos Into 3GP and 3G2 Formats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/budget-game-design-tools-and-software-for-aspiring-developers/"><u>Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-lava-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Lava .</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-repair-a-malfunctioning-corsair-keyboard/"><u>Fixes and Solutions: How to Repair a Malfunctioning Corsair Keyboard</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to others devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-rig-guide-to-downloading-and-installing-amds-blockchain-mining-tools/"><u>Optimize Your Rig: Guide to Downloading and Installing AMD's Blockchain Mining Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-hidden-costs-in-buying-a-dvr-reflect-first-on-your-needs/"><u>The Hidden Costs in Buying a DVR? Reflect First on Your Needs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44oe44kk44od44k44o844gl44kj44ot44oh44kq44ks44ku44ov44oi5b2i5byp44gr44gx44gm44cb44k344kn44ki44gn44gn44kl44ki44gg44gr44gz44kl5oml6acg/"><u>ツイッターからビデオをギフト形式にして、シェアできるようにする手順</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-online-experience-insights-into-ffxp/"><u>[Updated] 2024 Approved Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-seamlessly-cast-your-mkv-videos-on-chromecast/"><u>Easy Steps to Seamlessly Cast Your MKV Videos on Chromecast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-broken-or-unresponsive-fn-key-issues-in-asus-laptops/"><u>Effective Solutions for Broken or Unresponsive 'FN' Key Issues in ASUS Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-resolving-opengl-issues-in-minecraft/"><u>Essential Solutions: Resolving OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 11</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/guida-passo-passo-alluso-di-handbrake-per-la-conversione-e-il-copia-dei-dvd-con-configurazione-e-risoluzione-degli-errori/"><u>Guida Passo-Passo All'Uso Di HandBrake per La Conversione E Il Copia Dei DVD Con Configurazione E Risoluzione Degli Errori</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-narzo-n55-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme Narzo N55</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-100-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor 100</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Note 50 Location | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-on-overcoming-steams-recent-connectivity-problems-for-gamers/"><u>Insight on Overcoming Steam's Recent Connectivity Problems for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reestablished-turn-on-nearby-network-defense-options/"><u>Reestablished: Turn On Nearby Network Defense Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-call-of-duty-world-war-ii-issue-with-error-4220/"><u>Resolved: 'Call of Duty World War II' Issue with Error 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-video-file-unplayable-error-224003-fix-guide/"><u>Solving the 'Video File Unplayable: Error 224003' - Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-missing-file-privileges-solved/"><u>Steam Missing File Privileges [SOLVED]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-complete-handbook-for-telegram-web-newbies/"><u>The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-mystery-of-missing-l-a-noire-for-pc-its-here-and-ready-to-play/"><u>The Mystery of Missing L. A. Noire for PC? It's Here and Ready to Play</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-resolve-common-netflix-connectivity-issues/"><u>Troubleshooting: How To Resolve Common Netflix Connectivity Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10-winx-mediatrans-iphoneipadipodpc/"><u>Windows (10)に正式サポート WinX MediaTrans - iPhone/iPad/iPodの高度なデータ管理およびバックアップソフト！スムーズなPC間転送を実現。</u></a></li>
 </ul></div>
 

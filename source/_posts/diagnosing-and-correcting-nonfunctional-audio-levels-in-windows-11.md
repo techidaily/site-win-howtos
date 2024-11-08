@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Nonfunctional Audio Levels in Windows 11
-date: 2024-10-31T19:04:36.347Z
-updated: 2024-11-01T21:12:14.491Z
+date: 2024-11-02T19:45:39.021Z
+updated: 2024-11-07T16:25:59.378Z
 tags:
   - win11
   - win10
@@ -39,39 +39,34 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 1. On your keyboard, press the Windows logo key and type camera. Then click on**Camera privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
-3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
+3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
@@ -91,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -122,16 +110,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
@@ -158,14 +153,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-analyzing-the-full-range-of-obs-studios-capabilities/"><u>[New] Analyzing the Full Range of OBS Studio's Capabilities</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-go-beyond-stills-with-vimeo-animations-a-gif-guide/"><u>[New] Go Beyond Stills with Vimeo Animations A GIF Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-clip-perfection-achieved-through-blended-methodologies/"><u>[New] In 2024, Clip Perfection Achieved Through Blended Methodologies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] 2024 Approved AE Text Preset Collection The Best of Both Worlds</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-extracting-youtube-songs-safely-a-free-guide-explored/"><u>[Updated] In 2024, Extracting YouTube Songs Safely A Free Guide Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>[New] The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-take-full-page-screen-images/"><u>2024 Approved Take Full-Page Screen Images</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-dell-g3-gaming-performance-with-driver-updates/"><u>Boost Your Dell G3 Gaming Performance with Driver Updates</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/expert-tips-for-seamlessly-shifting-your-iphone-games-to-a-new-device/"><u>Expert Tips for Seamlessly Shifting Your iPhone Games to a New Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-wd-my-passport-ultra-detection-issues-in-windows-a-step-by-step-solution/"><u>Fixing 'WD My Passport Ultra' Detection Issues in Windows - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-logitech-keyboard-to-work-with-windows-10-a-step-by-step-guide/"><u>Getting Your Logitech Keyboard to Work with Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unregistered-classes-in-windows-10-a-comprehensive-fix/"><u>How to Resolve Unregistered Classes in Windows 10 – A Comprehensive Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pricing-outline-the-cost-to-film-melodies-visually/"><u>In 2024, Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-cost-free-graphic-designs-for-2024/"><u>Navigating the World of Cost-Free Graphic Designs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-solutions-resolving-lack-of-audio-on-netflix/"><u>Quick & Easy Solutions: Resolving Lack of Audio on Netflix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-xerox-printing-issue-fix-windows-error-code-0x800f020b/"><u>Solving the Xerox Printing Issue: Fix Windows Error Code 0X800F020B</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-game-source-loading-problems-in-windows-systems/"><u>Step-by-Step Solutions for Fixing Game Source Loading Problems in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-to-stop-your-laptop-from-continuously-hanging-up/"><u>Step-by-Step Tips to Stop Your Laptop From Continuously Hanging Up</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-playback-import-tunes-into-inshot/"><u>Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-complete-guide-to-restoring-your-rockstar-games-launcher-functionality/"><u>The Complete Guide to Restoring Your Rockstar Games Launcher Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-mystery-behind-visionpros-unexpected-failures-and-your-contingency-plan-insights-by-zdnet/"><u>Understanding the Mystery Behind VisionPro's Unexpected Failures & Your Contingency Plan - Insights by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangling-file-explorer-hiccups-on-windows-11-effective-fixes-unveiled/"><u>Untangling File Explorer Hiccups on Windows 11 - Effective Fixes Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-hosted-wi-fi-trouble-no-more-issue-solved/"><u>Windows 10 Hosted Wi-Fi Trouble No More – Issue Solved!</u></a></li>
 </ul></div>
 

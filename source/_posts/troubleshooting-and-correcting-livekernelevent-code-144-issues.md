@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-10-26T21:33:38.215Z
-updated: 2024-11-02T05:52:50.271Z
+date: 2024-11-01T19:55:48.821Z
+updated: 2024-11-07T21:02:11.802Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,18 +60,18 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -102,16 +95,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -121,36 +114,37 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -177,19 +171,20 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-10-best-fitness-channels-for-yogis-for-2024/"><u>[New] 10 Best Fitness Channels for Yogis for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfected-frames-select-software-and-websites-of-the-year-2023/"><u>[New] Perfected Frames Select Software & Websites of the Year, 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-textgrabber-on-android-now-features-live-translation-available-at-no-cost/"><u>ABBYY TextGrabber on Android Now Features Live Translation, Available at No Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015429486-apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/configuration-complete-one-resource-still-silent/"><u>Configuration Complete; One Resource Still Silent</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-224003-master-these-simple-fixes-for-seamless-video-views/"><u>Error Code 224003 - Master These Simple Fixes for Seamless Video Views</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-high-graphics-load-from-dwm-in-windows-11-a-comprehensive-guide/"><u>Fixing High Graphics Load From DWM in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-microsoft-store-error-code-0x80073cf9-a-step-by-step-guide/"><u>How to Overcome the Windows 10 Microsoft Store Error Code 0X80073CF9: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-civi-3-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Civi 3 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-itel-p55-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Itel P55? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-tenfold-video-recording-tricks-on-your-windows-11-system/"><u>In 2024, Tenfold Video Recording Tricks on Your Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scrolls-in-windows-11-solutions-and-fixes/"><u>Troubleshooting Unresponsive Touchpad Scrolls in Windows 11 - Solutions & Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-borderlands-3-a-guide-to-fixing-launch-failures/"><u>Unlocking Borderlands 3: A Guide to Fixing Launch Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-mouse-cursor-vanishes-troubleshooting-and-fixes/"><u>Windows 11 Mouse Cursor Vanishes: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ounteract-bot-visitors-for-real-audience-growth-for-2024/"><u>[New] Counteract Bot Visitors for Real Audience Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-structuring-videos-for-maximum-impact-on-youtube/"><u>[New] Structuring Videos for Maximum Impact on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[Updated] Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-economical-microphones-catered-to-vloggers/"><u>[Updated] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-fresh-off-the-press-film-review-and-complementary-options/"><u>2024 Approved Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-camera-malfunctions-on-hp-devices-with-windows-11/"><u>Guide to Fixing Camera Malfunctions on HP Devices with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-corrupt-system-files-on-windows-10-and-11-with-ease/"><u>How to Recover Corrupt System Files on Windows 10 & 11 with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-steams-missing-file-issue-a-comprehensive-guide-solved/"><u>Overcoming Steam's Missing File Issue - A Comprehensive Guide [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-high-volume-sounds-a-guide-for-windows-11-users-with-low-audio-output/"><u>Restoring High-Volume Sounds: A Guide for Windows 11 Users with Low Audio Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-usb-failures-unraveling-the-descriptor-request-failed-issue/"><u>Solving the Mystery of USB Failures: Unraveling the 'Descriptor Request Failed' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-a-guide-for-resolving-photo-display-issues-in-windows-n/"><u>Troubleshooting Invalid Registry Values: A Guide for Resolving Photo Display Issues in Windows N</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/3gp3g2-movavi/"><u>オンラインで変換フリー: 3GPを3G2に変更する方法 - Movavi</u></a></li>
 </ul></div>
 

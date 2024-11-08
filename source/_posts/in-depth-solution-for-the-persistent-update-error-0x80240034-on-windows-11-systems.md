@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2024-10-26T18:00:56.338Z
-updated: 2024-10-27T18:34:01.181Z
+date: 2024-11-02T06:58:30.547Z
+updated: 2024-11-08T07:07:19.488Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -81,13 +74,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -106,6 +92,13 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -119,10 +112,10 @@ Double-click on your active Network Adapter.
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
@@ -148,10 +141,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -169,10 +162,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
@@ -180,6 +173,13 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -202,21 +202,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-manipulate-sound-rate-in-youtube-playback/"><u>[New] In 2024, Manipulate Sound Rate in YouTube Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-study-simplified-hdr-mastery/"><u>[New] In-Depth Study Simplified HDR Mastery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-video-using-vimeo-record-for-live-captures/"><u>[Updated] In 2024, Streamline Video Using Vimeo Record for Live Captures</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>[Updated] Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-motorola-razr-40-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Razr 40 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/destiny-the-second-server-problems-heres-how-to-resolve-them-efficiently/"><u>Destiny the Second Server Problems? Here's How to Resolve Them Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-tricks-to-unfreeze-and-optimize-your-windows-11-taskbar-experience/"><u>Effective Tricks to Unfreeze and Optimize Your Windows 11 Taskbar Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-nova-y71-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Huawei Nova Y71 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-guide-to-final-cut-pro-for-film-professionals/"><u>In 2024, Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-strategies-to-fix-frame-rate-drops-and-lags-in-world-of-warcraft/"><u>In-Depth Strategies to Fix Frame Rate Drops and Lags in World of Warcraft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-dns-failure-discover-4-effortless-solutions-for-restoring-connectivity/"><u>Overcome DNS Failure: Discover 4 Effortless Solutions for Restoring Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/preventing-automatic-startups-tips-and-tricks-for-windows-11-users/"><u>Preventing Automatic Startups: Tips and Tricks for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-fix-bluetooth-stack-service-not-starting-problem/"><u>Resolving Issues: How to Fix 'Bluetooth Stack Service Not Starting' Problem</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-most-popular-online-video-editors-for-chromebook-users/"><u>Updated 2024 Approved The Most Popular Online Video Editors for Chromebook Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-troubleshooting-guide-reactivating-wi-fi-on-all-devices/"><u>Wi-Fi Troubleshooting Guide: Reactivating Wi-Fi on All Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hastyhit-freezevidsnapshot/"><u>[New] HastyHit FreezeVidSnapshot</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-non-retweeted-video-tweet-guide-for-iphone-and-android-users/"><u>[Updated] In 2024, Non-Retweeted Video Tweet Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>2024 Approved Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adding-captions-to-videos-using-microsoft-photos-windows-11-for-2024/"><u>Adding Captions to Videos Using Microsoft Photos (Windows 11) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-inclusive-vsco-lens-manual-for-2024/"><u>All-Inclusive VSCO Lens Manual for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203546122-boost-your-wow-experience-eliminate-latency-problems-today/"><u>Boost Your WoW Experience: Eliminate Latency Problems Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-data-transfer-overcoming-challenges-with-cyclic-redundancy-check/"><u>Error-Free Data Transfer: Overcoming Challenges with Cyclic Redundancy Check</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-bluetooth-missing-from-windows-device-manager-solutions/"><u>Fix: Bluetooth Missing From Windows Device Manager - Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reestablish-audio-hardware-on-your-pc-after-a-missing-output-device-warning/"><u>How to Reestablish Audio Hardware on Your PC After a Missing Output Device Warning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-drawing-experience-addressing-wacom-pen-failures-on-win11-and-win10/"><u>Optimizing Your Drawing Experience: Addressing Wacom Pen Failures on Win11 & Win10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unleash-the-power-of-chicken8-content-seamless-video-collection-awaits-at-your-fingertips/"><u>Unleash the Power of Chicken8 Content: Seamless Video Collection Awaits at Your Fingertips!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Itel P40 | Dr.fone</u></a></li>
 </ul></div>
 

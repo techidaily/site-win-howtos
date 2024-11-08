@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2024-10-25T17:10:06.222Z
-updated: 2024-10-27T18:19:28.782Z
+date: 2024-11-06T08:59:40.112Z
+updated: 2024-11-07T16:20:58.737Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -78,13 +71,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -92,10 +78,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -116,11 +102,25 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -132,10 +132,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -154,16 +160,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,24 +205,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[New] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-feature-update-to-1903-fails/"><u>[SOLVED] Windows Feature Update to 1903 Fails</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-terraria-customization-choices/"><u>[Updated] In 2024, Best Terraria Customization Choices</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728469880424-windows-10/"><u>簡単なステップで Windows 10 の誤起動ドライブを修正:解決ガイド</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-parents-comprehensive-manual-understanding-and-navigating-chatgpt-and-ai-generation/"><u>A Parent's Comprehensive Manual: Understanding & Navigating ChatGPT & AI Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-conversations-demystified-exploring-the-8-problematic-areas-of-gpt/"><u>AI Conversations Demystified: Exploring the 8 Problematic Areas of GPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-resolving-the-windows-11-update-error-code-0x800f0-problem-solving-crafting-an-argumentative-essay-a-step-by-step-guide-to-analytical-w97/"><u>Effective Strategies: Resolving the Windows 11 Update Error Code 0X800f0 [Problem-Solving]: Crafting an Argumentative Essay - A Step-by-Step Guide to Analytical Writing.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208522822-effortless-solutions-for-the-sudden-loss-of-bluetooth-on-windows-10/"><u>Effortless Solutions for the Sudden Loss of Bluetooth on Windows 10!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-efficiency-using-10-plugin-solutions-based-on-chatgpt-for-pdfs/"><u>Enhance Efficiency Using 10 Plugin Solutions Based on ChatGPT for PDFs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/d-your-reach-effective-youtube-campaigns/"><u>Expand Your Reach Effective YouTube Campaigns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-repairing-and-optimizing-io-device-performance/"><u>Expert Advice on Repairing and Optimizing I/O Device Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-nvidia-graphics-overlay-issues-solutions-and-tips/"><u>Fixing NVIDIA Graphics Overlay Issues: Solutions & Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-pubg-gameplay-avoid-incomplete-buildings-issue/"><u>Optimizing Your PUBG Gameplay: Avoid Incomplete Buildings Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-critical-error-and-preventing-halo-4-game-crashes-on-unreal-engine-4-release/"><u>Resolving the Critical Error and Preventing Halo 4 Game Crashes on Unreal Engine 4 Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-windows-bad-graphics-drivers-causing-frequent-minecraft-game-crashes/"><u>Solve Window's Bad Graphics Drivers Causing Frequent Minecraft Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-resolved-error-0xc1900208-in-your-windows-10-updates/"><u>Successfully Resolved: Error 0xC1900208 in Your Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-total-war-rome-remastered-heres-how-you-can-stabilize-it/"><u>Trouble with Total War: Rome Remastered? Here's How You Can Stabilize It</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-gt-5-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from GT 5 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-magic-of-photo-cleanse-picsart-bg-removal-for-2024/"><u>Unveiling the Magic of Photo Cleanse Picsart Bg Removal for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guiding-you-through-youtubes-view-limitations/"><u>[New] Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[Updated] 2024 Approved Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] 2024 Approved Voice Customization Leaders Beyond Echo Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>[Updated] Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>[Updated] Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205575779-a-step-by-step-solution-for-dealing-with-apex-legends-easy-anti-cheat-bugs-no-more-unfair-gameplay/"><u>A Step-by-Step Solution for Dealing with Apex Legends Easy Anti-Cheat Bugs – No More Unfair Gameplay!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-updating-your-usb-to-serial-converter-ch340-drivers-on-win10/"><u>Easy Steps: Updating Your USB-to-Serial Converter (CH340) Drivers on Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-your-fortnite-experience-on-mac-but-keep-an-eye-out/"><u>Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/freeze-fixation-finished-in-seconds-for-gamers/"><u>Freeze Fixation Finished in Seconds for Gamers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-cannot-reach-dhcp-server-problem/"><u>How to Overcome 'Cannot Reach DHCP Server' Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-street-fighter-6-from-freezing-or-crashing-on-your-computer/"><u>How to Prevent Street Fighter 6 From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-a-non-responsive-task-manager-problem-easily/"><u>How to Recover From a Non-Responsive Task Manager Problem Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>In 2024, The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-when-your-dns-server-isnt-answering-back/"><u>Quick Remedies for When Your DNS Server Isn't Answering Back</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unknown-usb-device-detected-on-windows-11-a-step-by-step-guide/"><u>Resolving 'Unknown USB Device Detected' On Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/semaphore-timeout-exceeded-correcting-the-problem-for-error-code-0x80070079/"><u>Semaphore Timeout Exceeded - Correcting the Problem for Error Code 0X80070079</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustworthiness-from-trustedinstaller-before-altering-files/"><u>Steps to Obtain Trustworthiness From TrustedInstaller Before Altering Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-it-manual-what-to-do-when-your-xbox-pen-stops-working/"><u>The Ultimate Fix It Manual: What to Do When Your Xbox Pen Stops Working</u></a></li>
 </ul></div>
 

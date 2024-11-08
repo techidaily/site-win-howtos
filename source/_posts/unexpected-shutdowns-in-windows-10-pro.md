@@ -1,7 +1,7 @@
 ---
 title: Unexpected Shutdowns in Windows 10 Pro
-date: 2024-10-18T17:34:26.211Z
-updated: 2024-10-21T21:38:32.854Z
+date: 2024-11-01T07:01:14.458Z
+updated: 2024-11-08T08:27:23.272Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,13 +51,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -78,6 +64,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
@@ -85,10 +79,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -105,14 +99,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -130,15 +131,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -162,20 +164,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive-for-2024/"><u>[New] Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ace-virtual-imagery-ideal-google-meet-screens/"><u>[Updated] 2024 Approved Ace Virtual Imagery Ideal Google Meet Screens</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exclusive-high-end-computer-choices/"><u>2024 Approved Exclusive High-End Computer Choices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-s17-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from S17</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-ways-to-clean-up-memory-dump-data-in-windows-10/"><u>Effective Ways to Clean Up Memory Dump Data in Windows 10</u></a></li>
-<li><a href="https://win-top.techidaily.com/exploring-alternatives-to-dropbox-selective-sync-and-mastering-its-usage-for-efficient-file-management/"><u>Exploring Alternatives to Dropbox Selective Sync and Mastering Its Usage for Efficient File Management</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-device-not-migrated-error-in-windows-10/"><u>How to Fix 'Device Not Migrated' Error in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-12-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus 12 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamlining-windows-10-resource-use/"><u>Streamlining Windows 10 Resource Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-computer-that-wont-boot-up/"><u>Troubleshooting Tips: How to Fix a Computer That Won't Boot Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-professional-behringer-driver-packs-free-downloads-to-enhance-your-mixing-skills/"><u>Unlock Professional Behringer Driver Packs – Free Downloads to Enhance Your Mixing Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/updating-drivers-to-fix-not-recognized-errors-on-your-computer-system/"><u>Updating Drivers to Fix 'Not Recognized' Errors on Your Computer System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210472940-wacom-tablet-woes-heres-how-to-get-it-working-again/"><u>Wacom Tablet Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-hidden-treasures-grab-em-all-for-free-for-2024/"><u>[New] TikTok's Hidden Treasures Grab 'Em All for Free for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027159929-pc/"><u>高品質ビデオのPC上で効果的な圧縮技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/angiogenesis-and-invasion/"><u>Angiogenesis and Invasion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenging-astrology-can-ai-like-chatgpt-deliver-more-precise-predictions-than-horoscopes/"><u>Challenging Astrology: Can AI Like ChatGPT Deliver More Precise Predictions than Horoscopes?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-stabilizing-your-heart-of-iron-iv-experience/"><u>Effective Solutions for Stabilizing Your Heart of Iron IV Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-incompatibile-ftdi-drivers-can-cause-memory-integrity-failures-in-systems/"><u>How Incompatibile FTDI Drivers Can Cause Memory Integrity Failures in Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-14-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-msodll-file-absent-issues-on-your-computer/"><u>How to Resolve mso.dll File Absent Issues on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-windows-error-code-0x8024200d-and-restore-updates-guide/"><u>How to Successfully Resolve Windows Error Code 0X8024200D and Restore Updates [GUIDE]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-p55plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel P55+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-lan-not-connecting-expert-tips-for-a-seamless-multiplayer-experience/"><u>Minecraft LAN Not Connecting? Expert Tips for a Seamless Multiplayer Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-fallout-4-delays-with-these-2022-optimization-hacks/"><u>Overcome Fallout 4 Delays with These 2022 Optimization Hacks</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-40i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 40i without backup.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-the-unusual-black-out-on-google-chrome-expert-tips-and-tricks/"><u>Troubleshoot the Unusual Black Out on Google Chrome: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

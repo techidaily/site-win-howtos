@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolve the Blue Screen of Death (Error Code 0XC00000E9)"
-date: 2024-09-14T01:12:14.768Z
-updated: 2024-09-17T21:37:17.145Z
+date: 2024-11-02T21:32:25.484Z
+updated: 2024-11-07T21:03:46.342Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-help.jpg)
 2. Select**About Firefox** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-firefox.jpg)
 3. Firefox will check for updates and download them automatically. When the download is complete, click**Restart to Update Firefox** .  
 
@@ -110,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 2. Next to**Time range to clear** , select**Everything** . Under**History** , select all the entries. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-clear-recent-history.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Safari:**
 
 1. On your Mac, open Safari and select**History > Clear History** .
@@ -117,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-clear-history.jpg)
 
  After clearing your browser’s cache and cookies, check if error code 224003 is resolved. If not, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable all extensions
 
@@ -135,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-extensions.jpg)
 2. Disable all extensions by clicking the switch icon next to them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-disable-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Edge:**
 
@@ -155,7 +169,28 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 1. Open the**Safari** menu and select**Preferences…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-preferences.jpg)
 2. Click**Extensions** , then deselect the checkbox next to all extensions.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-disable-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After disabling all extensions, reopen your browser and play the video to check if the error code 224003 is fixed. If the problem has gone, try enabling extensions one by one to find the culprit.
 
@@ -168,6 +203,14 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 1. At the top right, click**More > Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-settings.jpg)
 2. Select System. Then turn off**Use hardware acceleration when available** and click**Relaunch** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-hardware-acceleration.jpg)
 
 **Edge:**
@@ -177,13 +220,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 2. Under System, turn off**Use hardware acceleration when available** and click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-hardware-acceeration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Firefox:**
 
@@ -232,13 +268,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox-2.jpg)
 4. Click**Finish** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-finish.jpg)
 
 **Safari:**
@@ -258,10 +287,10 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 2. Click the**Repair** button to start the repair process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-repair.jpg)
@@ -270,10 +299,10 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-video-repair-select-save-repaired-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -295,5 +324,26 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>[New] Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-photo-edits-skewed-caption-creation-for-2024/"><u>[Updated] Photo Edits Skewed Caption Creation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disconnected-from-blizzard-network/"><u>Disconnected From Blizzard Network</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-your-content-creation-with-these-top-12-cameras-for-2024/"><u>Enhance Your Content Creation with These Top 12 Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-solving-windows-media-player-connection-errors-effectively/"><u>Guide: Solving Windows Media Player Connection Errors Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-aoc-usb-monitor-not-detected-problems-on-windows-11-systems/"><u>How to Resolve 'AOC USB Monitor Not Detected' Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-p55-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel P55 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/proven-methods-for-defrosting-a-sluggish-computer-screen/"><u>Proven Methods for Defrosting a Sluggish Computer Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ultimate-guide-to-overcome-the-red-screen-error/"><u>Resolved: Ultimate Guide to Overcome the Red Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-minecraft-lan-play-hurdles/"><u>Step-by-Step Guide: Overcoming Minecraft LAN Play Hurdles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-canon-g9x-mark-ii-timeless-travel-companion-with-a-modern-twist/"><u>The Canon G9X Mark II: Timeless Travel Companion with a Modern Twist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-complete-guide-to-fixing-installation-problems-with-the-windows-1903-feature-update/"><u>The Complete Guide to Fixing Installation Problems with the Windows 1903 Feature Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-internet-explorer-not-responding/"><u>Troubleshooting Steps: Resolving 'Internet Explorer Not Responding'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-pc-fixing-the-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Your PC: Fixing the Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-best-unnoticed-speech-to-text-on-mac-for-2024/"><u>Uncovering the Best Unnoticed Speech to Text on Mac for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unmatched-quality-the-premier-4k-mirrorless-choices/"><u>Unmatched Quality The Premier 4K Mirrorless Choices</u></a></li>
+</ul></div>
 

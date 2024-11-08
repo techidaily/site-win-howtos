@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2024-10-31T12:21:59.311Z
-updated: 2024-11-01T16:35:24.554Z
+date: 2024-11-03T06:05:46.798Z
+updated: 2024-11-07T17:48:31.292Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -44,21 +37,28 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -76,21 +76,7 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3\. Update your WiFi driver
 
@@ -111,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now Microsoft will detect the update for you automatically.
 
  However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
@@ -127,6 +120,14 @@ Now Microsoft will detect the update for you automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
@@ -157,22 +158,18 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners/"><u>[New] In 2024, Effortless YouTube Live with Step-by-Step OBS Guide for Beginners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-ultimate-social-media-analysis-manual-for-decoding-ig-engagement-and-more/"><u>[New] Ultimate Social Media Analysis Manual for Decoding IG Engagement and More</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-lens-wisdom-stunning-image-secrets/"><u>[Updated] IPhone Lens Wisdom Stunning Image Secrets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-effective-youtube-banners-for-2024/"><u>[Updated] The Ultimate Guide to Effective YouTube Banners for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-childrens-movies-available-on-disneyplus-for-young-viewers-in-july-2024/"><u>Best Children's Movies Available on Disney+ for Young Viewers in July 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-mpow-bluetooth-drivers-for-windows-1187-easy-guide/"><u>Download and Update MPOW Bluetooth Drivers for Windows 11/8/7: Easy Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-conversion-techniques-from-mp4-to-flv-video-file-types/"><u>Effortless Conversion Techniques From MP4 to FLV Video File Types</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-dvd-to-psp-movie-transfers-your-guide-to-enjoying-dvd-content-on-ps4/"><u>Effortless DVD-to-PSP Movie Transfers: Your Guide to Enjoying DVD Content on PS4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-techniques-to-separate-singing-voices-from-background-music/"><u>Free Techniques to Separate Singing Voices From Background Music</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-no-cost-dvd-decoding-tool-for-modern-windows-systems/"><u>Get Your No-Cost DVD Decoding Tool for Modern Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-to-streaming-videos-from-a-usb-drive-on-your-xbox-one-console/"><u>Guide to Streaming Videos From a USB Drive on Your Xbox One Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-video-playback-problems-on-ipads/"><u>Guide to Troubleshooting Video Playback Problems on iPads.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-post-gifs-across-facebooks-platform-comments-statuses-and-chat/"><u>How to Easily Post GIFs Across Facebook's Platform – Comments, Statuses, & Chat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-free-downgrade-proofly-retrieve-sound-tracks-from-matroska-videos-in-simple-ways/"><u>How to Free Downgrade-Proofly Retrieve Sound Tracks From Matroska Videos in Simple Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-turn-any-video-file-into-an-easy-fun-gif-using-the-free-vlc-software/"><u>How to Turn Any Video File Into an Easy, Fun GIF Using the Free VLC Software!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-solutions-how-to-perform-a-fresh-start-on-your-samsung-flat-screen/"><u>Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-blurring-faces-with-best-video-editing-software/"><u>Updated 2024 Approved Blurring Faces with Best Video Editing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-8-camera-showdown-excellence-in-broadcasting/"><u>[New] In 2024, Ultimate 8 Camera Showdown Excellence in Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ideo-quality-comparison-mirrorless-or-dslr-cameras-in-2024/"><u>[New] Video Quality Comparison Mirrorless or DSLR Cameras, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-insiders-guide-to-metaverse-salesmanship/"><u>[Updated] In 2024, The Insider's Guide to Metaverse Salesmanship</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-photos-on-instagram-with-ease-follow-this-guide/"><u>[Updated] In 2024, Unleash Photos on Instagram with Ease – Follow This Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>2024 Approved Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3-simple-methods-to-block-unwanted-sms-messages-on-ios-devices-techadvisor/"><u>3 Simple Methods to Block Unwanted SMS Messages on iOS Devices | TechAdvisor</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discovering-the-artistic-works-of-daria-masson-on-movavi-platform/"><u>Discovering the Artistic Works of Daria Masson on Movavi Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-live-video-comparing-obs-and-twitch-studio/"><u>In 2024, The Ultimate Guide to Live Video Comparing OBS & Twitch Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lessen-wmi-power-draw-on-windows-1011/"><u>Lessen WMI Power Draw on Windows 10/11</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-the-art-of-system-recovery-with-windows-pc-restore-on-server-2008/"><u>Mastering the Art of System Recovery with Windows PC Restore on Server 2008</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-upgrading-ram-allocation-for-smooth-playthroughs-in-red-dead-redemption-2/"><u>Quick Guide to Upgrading RAM Allocation for Smooth Playthroughs in Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-disk-space-consumption-by-microsoft-compatibility-telemetry-in-windows-11/"><u>Resolving Excessive Disk Space Consumption by Microsoft Compatibility Telemetry in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-effective-methods-to-resolve-0xc0000005-fatal-exception-error-in-windows-operating-systems/"><u>Troubleshooting Tips: Effective Methods to Resolve 0xC0000005 Fatal Exception Error in Windows Operating Systems</u></a></li>
 </ul></div>
 

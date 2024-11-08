@@ -1,7 +1,7 @@
 ---
 title: "Win11: Strategies for Lowering Provider Host CPU Load"
-date: 2024-10-26T23:30:12.887Z
-updated: 2024-11-02T02:58:48.878Z
+date: 2024-10-31T20:48:18.753Z
+updated: 2024-11-07T17:18:26.339Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ## **Method 1: Check the hardware**
 
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Check your headset**
 
@@ -83,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
@@ -101,47 +101,41 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Output to Headphones** , and select**All Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
@@ -154,10 +148,10 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### in Windows 10
@@ -175,25 +169,39 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 2**
 
@@ -205,23 +213,9 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -263,24 +257,22 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-methodology-creating-life-changing-video-guides/"><u>[New] 2024 Approved Methodology Creating Life-Changing Video Guides</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>[Updated] Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-art-of-360-live-on-facebook/"><u>[Updated] Navigating the Art of 360 Live on Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026759413-youtube/"><u>「楽曲付与の秘訣：パソコンを使ってYouTubeショート動画音効を手軽に」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-how-to-install-and-use-the-xvid-codec-for-enhanced-video-playback-on-vlc-media-player/"><u>1. How to Install and Use the Xvid Codec for Enhanced Video Playback on VLC Media Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-how-to-troubleshoot-and-resolve-issues-with-non-playable-instagram-video-content/"><u>1. How to Troubleshoot and Resolve Issues with Non-Playable Instagram Video Content</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-fixes-resolving-common-problems-in-shared-media-access/"><u>Easy Fixes: Resolving Common Problems in Shared Media Access</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-polishing-audio-in-home-recordings-on-youtube/"><u>In 2024, Polishing Audio in Home Recordings on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-world-of-drone-video-manipulation/"><u>Navigating the World of Drone Video Manipulation</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-what-makes-the-best-lower-thirds-in-final-cut-pro-x/"><u>New 2024 Approved What Makes the Best Lower Thirds in Final Cut Pro X</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-lg-bp350-review-audiovisual-performance-analysis-for-2024/"><u>The LG BP350 Review Audiovisual Performance Analysis for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-6-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 6 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-moviesjoy-downloader-effortlessly-obtain-your-favorite-movies-from-moviesjoy/"><u>Ultimate Tutorial on [MoviesJoy Downloader]: Effortlessly Obtain Your Favorite Movies From MoviesJoy!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unable-to-watch-avi-videos-on-kindle-fire-learn-simple-solutions-now/"><u>Unable to Watch AVI Videos on Kindle Fire? Learn Simple Solutions Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlimited-entertainment-streaming-download-movies-and-songs-directly-from-websites/"><u>Unlimited Entertainment Streaming: Download Movies and Songs Directly From Websites</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-video-potential-with-fraps-recorder-for-2024/"><u>Unlocking Video Potential with Fraps Recorder for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vlch264and/"><u>VLCプレーヤーにおけるH264ビデオファイルの再生失敗:原因分析&解決策</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vlc4/"><u>VLCメディアプレーヤーに匹敵する4つの最高の代用ソフトをご紹介！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windowsmacpc/"><u>Windows/Macに最適、ノートPCですぐ始められるブラウジングキャプチャ方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-social-media-savvy-ig-filter-hits/"><u>[Updated] In 2024, Social Media Savvy IG Filter Hits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocketing-numbers-enhancing-youtube-presence/"><u>[Updated] Skyrocketing Numbers Enhancing YouTube Presence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[Updated] Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>2024 Approved Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-effective-fixes-for-reducing-desktop-window-managers-graphic-card-strain-on-windows-11/"><u>5 Effective Fixes for Reducing Desktop Window Manager's Graphic Card Strain on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-aoc-monitor-up-and-running-on-windows-11-step-by-step-guide/"><u>Get Your AOC Monitor Up and Running on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-undetected-peripherals-via-bluetooth-on-your-pc-with-windows-10/"><u>How to Resolve Undetected Peripherals via Bluetooth on Your PC with Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-garmin-vivosmart-4-body-energy-monitoring/"><u>In-Depth Examination of the Garmin Vivosmart 4: Body Energy Monitoring</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-repair-lidadll-issue-fixed/"><u>Instant Repair: Lida.dll Issue Fixed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/lyrics-notes-and-beats-fb-style-for-2024/"><u>Lyrics, Notes, and Beats - FB Style for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/navigating-computer-components-a-look-inside-toms-hardware/"><u>Navigating Computer Components - A Look Inside Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-error-0x80070490-for-smooth-windows-system-update-process/"><u>Overcoming Error 0X80070490 for Smooth Windows System Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-bluetooth-not-detected-problem-fast-solutions/"><u>Resolve Windows 10 Bluetooth Not Detected Problem - Fast Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-no-audio-devices-found-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Devices Found' Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-resource-in-a-fully-configured-environment/"><u>Silent Resource in a Fully Configured Environment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cal-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-m34-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy M34 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

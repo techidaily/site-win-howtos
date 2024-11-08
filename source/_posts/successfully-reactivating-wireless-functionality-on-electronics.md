@@ -1,7 +1,7 @@
 ---
 title: Successfully Reactivating Wireless Functionality on Electronics
-date: 2024-10-29T21:46:42.165Z
-updated: 2024-11-01T23:02:00.023Z
+date: 2024-11-02T17:06:25.599Z
+updated: 2024-11-07T23:42:10.656Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
@@ -58,6 +58,13 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -68,28 +75,28 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
@@ -114,13 +121,6 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  If you have any other suggestions or questions, please feel free to leave a comment below.
@@ -142,18 +142,22 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-deciphering-the-coded-language-of-concealed-youtube-movies/"><u>[New] Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-elite-eye-opening-film-moments/"><u>[New] Elite Eye-Opening Film Moments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-revamped-look-at-sonys-s6500-bdp-for-2024/"><u>[New] Revamped Look at Sony's S6500 BDP for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/rmvb-wmv-movavi/"><u>無限量 RMVB 到 WMV 自由转换 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/compatibility-achieved-how-to-get-your-miracast-working-with-updated-drivers/"><u>Compatibility Achieved: How to Get Your Miracast Working with Updated Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12r-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12R in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-the-not-enough-system-resources-problem-with-proven-fixes-and-optimizations/"><u>Eliminating the 'Not Enough System Resources' Problem with Proven Fixes and Optimizations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-managing-dwms-high-graphics-load-on-windows-11/"><u>How to Optimize Your PC: Managing DWM's High Graphics Load on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-festive-moments-in-a-flash-on-iphone/"><u>In 2024, Capturing Festive Moments in a Flash on iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rectified-initialization-mishap-of-the-display-engine-with-latest-fixes-year-2pressure-on-rendering-engines-we-can-create-titles-that-communicate-a-successf140/"><u>Rectified Initialization Mishap of the Display Engine with Latest Fixes (Year 2Pressure on Rendering Engines, We Can Create Titles that Communicate a Successful Resolution to an Initial Problem While Still Hinting at Improvements or Fixes Made :</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-drive-scan-problems-a-step-by-step-guide-to-repair-and-recovery/"><u>Resolving Windows 11 Drive Scan Problems: A Step-by-Step Guide to Repair and Recovery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-entry-point-unknown-mistakes-within-windows-os/"><u>Understanding and Repairing ‘Entry Point Unknown’ Mistakes Within Windows OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-furious-top-10-slow-motion-video-editing-solutions/"><u>Updated From Fast to Furious Top 10 Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-delving-deeply-into-obs-studios-capture-capabilities/"><u>[New] 2024 Approved Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-5-fastest-indie-film-tips-for-at-home-creators-for-2024/"><u>[New] 5 Fastest Indie Film Tips for At-Home Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adjustment-alert-discrepancy-in-timing-between-monitor-and-signal-source/"><u>Adjustment Alert: Discrepancy in Timing Between Monitor and Signal Source</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdle-effective-ways-to-tackle-windows-camera-error-0xa00f4292/"><u>Bypassing the Hurdle: Effective Ways to Tackle Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-xs-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone XS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-windows/"><u>Download & Update Toshiba Dynabook Driver Software on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-ways-to-address-windows-11-touchpad-cursor-malfunction/"><u>Effective Ways to Address Windows 11 Touchpad Cursor Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-3g2-file-conversion-quick-guide-with-movavis-powerful-online-tool/"><u>Free 3G2 File Conversion - Quick Guide with Movavi's Powerful Online Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lg-unveils-upcoming-xr-vision-gear-a-closer-look-at-the-next-gen-meta-quest-3-pro-challenger/"><u>LG Unveils Upcoming XR Vision Gear - A Closer Look at the Next-Gen Meta Quest 3 Pro Challenger</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-10-essential-stages-for-proficient-smm-expertise-for-2024/"><u>Navigating 10 Essential Stages for Proficient SMM Expertise for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-dxgi-device-hang-issues-easily-effective-strategies-revealed/"><u>Overcome DXGI Device Hang Issues Easily: Effective Strategies Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptop-wont-charge-solve-it-now/"><u>Quick Fixes for When Your Laptop Won't Charge – Solve It Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-driver-power-state-failure-error-a-comprehensive-guide/"><u>Resolving the Driver Power State Failure Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-call-of-duty-wwii-overcoming-error-4220/"><u>Troubleshooting Guide for Call of Duty WWII - Overcoming Error 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-storage-shortages-how-to-address-not-enough-space-for-this-operation/"><u>Troubleshooting Storage Shortages: How To Address 'Not Enough Space For This Operation'</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2024-11-01T10:38:44.856Z
-updated: 2024-11-02T10:20:23.088Z
+date: 2024-11-05T16:14:42.850Z
+updated: 2024-11-08T08:25:55.792Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 5. **[Check hardware issues](#f5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Turn off Mouse Keys
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
@@ -72,37 +79,23 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -130,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -168,15 +168,24 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/smr-audio-excellence-high-quality-mic-recommendations-for-2024/"><u>[New] ASMR Audio Excellence High-Quality Mic Recommendations for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-captivating-your-audience-writing-podcast-intros/"><u>[New] Captivating Your Audience Writing Podcast Intros</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-hp-officejet-pro-6970-printer-drivers-on-windows-latest-version/"><u>Download & Install HP Officejet Pro 6970 Printer Drivers on Windows - Latest Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-teredo-router-functionality-fails-to-initialize/"><u>Effective Fixes for When Teredo Router Functionality Fails to Initialize</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-31-decoded-easy-strategies-for-troubleshooting-windows-issues/"><u>Error 31 Decoded: Easy Strategies for Troubleshooting Windows Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-bards-ai-evolution-7-innovative-traits-announced/"><u>Exploring Bard's AI Evolution: 7 Innovative Traits Announced</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-surface-wont-charge-a-step-by-step-guide/"><u>How to Resolve When Your Surface Won't Charge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-adsense-earnings-insights-into-payments-from-youtube-viewers/"><u>Mastering AdSense Earnings Insights Into Payments From YouTube Viewers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-mouse-clicks-in-win10/"><u>Step-by-Step Solution for Non-Responsive Mouse Clicks in Win10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210936859-9781914613357-the-witchs-survival-guide/"><u>The Witch's Survival Guide | Free Book</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-essential-skills-for-effective-discord-message-pinning/"><u>[New] 2024 Approved Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-androids-gaming-revolution-experience-the-power-of-kinemaster-app-for-2024/"><u>[New] Android's Gaming Revolution Experience the Power of KineMaster App for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>[New] Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-picks-top-6-fb-lite-extractors/"><u>[Updated] 2024 Approved Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-time-savers-screen-recording-on-instagrams-story-for-2024/"><u>[Updated] Time Savers Screen Recording on Instagram's Story for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-ultimate-guide-solving-device-not-miracast-compatible-issues/"><u>2024 Ultimate Guide: Solving 'Device Not Miracast Compatible' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-resolve-windows-10-freezing-issues/"><u>Effective Strategies to Resolve Windows 10 Freezing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-steam-game-woes-overcoming-errors-during-setup-or-updates/"><u>Fix Your Steam Game Woes: Overcoming Errors During Setup or Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-past-the-windows-10-hurdle-fixing-upgrades-stuck-at-almost-there-99-stage/"><u>Get Past the Windows 10 Hurdle - Fixing Upgrades Stuck at Almost There (99%) Stage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-correcting-unregistered-dll-problems-in-windows-11-for-smooth-operation/"><u>Guide: Correcting Unregistered DLL Problems in Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-device-not-recognized-problem-in-windows-tips-and-tricks/"><u>How to Resolve the 'Device Not Recognized' Problem in Windows: Tips and Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-12-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 12 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamless-time-stamp-integration-on-youtube-videos/"><u>Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-a-step-by-step-guide-when-your-laptop-trackpad-fails/"><u>Solving the Problem: A Step-by-Step Guide When Your Laptop Trackpad Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-windows-camera-error-code-0xa00f4292-issues/"><u>Step-by-Step Fixes for Windows Camera Error Code 0XA00F4292 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-malfunctioning-dell-wireless-keyboard-expert-guidance/"><u>Troubleshooting a Malfunctioning Dell Wireless Keyboard - Expert Guidance</u></a></li>
 </ul></div>
 

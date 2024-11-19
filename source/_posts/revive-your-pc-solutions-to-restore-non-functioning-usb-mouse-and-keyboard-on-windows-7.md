@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-11-04T08:10:19.425Z
-updated: 2024-11-08T08:38:57.564Z
+date: 2024-11-16T23:42:46.671Z
+updated: 2024-11-18T17:56:30.812Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 * [**Tips: Keyboard maintenance**](#tips)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
@@ -71,13 +71,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -87,13 +80,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -129,8 +115,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -143,19 +143,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -184,18 +184,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elite-file-sender-mp4-to-social/"><u>[New] 2024 Approved Elite File Sender MP4 to Social</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-keeping-consistent-pacing-in-obs-broadcasts/"><u>[Updated] 2024 Approved Keeping Consistent Pacing in OBS Broadcasts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-winning-over-viewers-a-comprehensive-guide-to-growing-followers/"><u>2024 Approved Winning Over Viewers A Comprehensive Guide to Growing Followers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-how-your-workplace-influences-your-windows-experience-understanding-managed-settings-dynamics/"><u>Discover How Your Workplace Influences Your Windows Experience: Understanding Managed Settings Dynamics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-issues-with-unresponsive-laptop-pointing-devices/"><u>Expert Tips for Resolving Issues with Unresponsive Laptop Pointing Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-struggles-with-finding-appropriate-printer-drivers-solution/"><u>Fix: Windows Struggles with Finding Appropriate Printer Drivers - SOLUTION</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-camon-20-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Camon 20 Pro 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-error-0x800f0831-enhance-your-system-with-windows-update/"><u>Step-by-Step Solution for Error 0X800f0831: Enhance Your System with Windows Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-issues-when-enumerating-objects-in-windows-10-a-step-by-step-fix/"><u>Troubleshooting Access Issues When Enumerating Objects in Windows 10 - A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uncovering-the-start-button-functionality-on-microsofts-latest-os-windows-11/"><u>Uncovering the Start Button Functionality on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-and-budget-mp3-conversion-from-skype-talks/"><u>[New] In 2024, Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>2024 Approved Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>2024 Approved In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-ethernet-connection-failures-on-pcs-running-windows-11-or-7/"><u>Diagnosing and Repairing Ethernet Connection Failures on PCs Running Windows 11 or 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-of-struggle-graphics-driver-deployed-correctly/"><u>End of Struggle: Graphics Driver Deployed Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-through-fixing-a-blocked-windows-10-version-1607-enhancement-rollout/"><u>Guide Through Fixing a Blocked Windows 10 Version 1607 Enhancement Rollout</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a05-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A05 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/israelian-journey-essentials-must-know-guide-and-dialogue-tools/"><u>Israelian Journey Essentials: Must-Know Guide & Dialogue Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208972954-minecraft-and-windows-woes-no-more-solve-your-video-card-driver-problems-today/"><u>Minecraft and Windows Woes No More - Solve Your Video Card Driver Problems Today</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/resolving-the-issue-steps-to-correct-chkdsk-unable-to-acquire-exclusive-lock-on-your-hard-drive/"><u>Resolving the Issue: Steps to Correct 'CHKDSK Unable to Acquire Exclusive Lock' On Your Hard Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-notorious-0x8-80071ac3-error-cleaning-a-dirty-storage-device/"><u>Resolving the Notorious 0X8 80071AC3 Error: Cleaning a 'Dirty' Storage Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208782428-troubleshooting-your-astro-a40s-unresponsive-mic-solutions-revealed/"><u>Troubleshooting Your Astro A40's Unresponsive Mic - Solutions Revealed!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-picture-quality-tvs-best-10-in-4k/"><u>Ultimate Picture Quality TVs – Best 10 in 4K</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207691368-what-to-do-if-windows-10-doesnt-recognize-your-logitech-keyboard/"><u>What to Do if Windows 10 Doesn’t Recognize Your Logitech Keyboard</u></a></li>
 </ul></div>
 

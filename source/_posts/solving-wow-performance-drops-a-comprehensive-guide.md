@@ -1,7 +1,7 @@
 ---
 title: "Solving 'WoW' Performance Drops: A Comprehensive Guide"
-date: 2024-11-04T03:42:39.198Z
-updated: 2024-11-07T21:43:53.330Z
+date: 2024-11-16T21:02:31.464Z
+updated: 2024-11-19T00:27:08.154Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ There are 3 types of NAT in your PS4:
 
  The PS4 NAT type failed issue can be caused by the incorrect network setting in your PS4, so you can check if your PS4 IP address changed or not. Furthermore, you can manually configure the network settings in your PS4 to make it correct.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to check your PS4 IP address?**
 
  If you don’t know your PS4 IP address, and you want to check your PS4 IP address, follow this steps:
@@ -63,16 +70,16 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a54896526c3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You will see the information about the network your PS4 are connecting, including the**IP address** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5489d31cef4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **How to manually configure PS4 network settings?**
 
@@ -82,11 +89,25 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548aaf1616f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Copy and paste the following**command** in the Command Prompt, and press**Enter** .
 
 ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
 
@@ -103,22 +124,15 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Select**Do Not Use** as for**Proxy Server** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Wait for it to update. When you see**Internet settings updated** , select**Test Internet Connection** .
 
@@ -140,6 +154,13 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
  3) Type your**Username** and**Password** , then**login** .
@@ -153,10 +174,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548dc97186b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click**Apply/Save** to save your settings.
@@ -166,6 +187,13 @@ ipconfig/all
  8) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check if your**NAT Type** is on (you’ll see the type 1 or type 2 since it’s on).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Make your PS4 the DMZ server**
 
@@ -183,13 +211,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
@@ -200,19 +221,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
 
  8) Click**Apply/Save** to save your settings.
@@ -222,13 +230,6 @@ ipconfig/all
  10) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check if your**NAT Type** is on (you’ll see the Type 1 or Type 2 if it works).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
 
@@ -247,13 +248,6 @@ ipconfig/all
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the**forward ports section** (or**ports forwarding** ,**Virtual Server** ,**Applications**  according to different routers).
 
@@ -289,16 +283,22 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-from-setup-to-masterpiece-the-comprehensive-tutorial-for-zoom-based-audio-recordings/"><u>[New] 2024 Approved From Setup to Masterpiece The Comprehensive Tutorial for Zoom-Based Audio Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-nows-the-time-top-ten-hourly-viewers-picks/"><u>[Updated] 2024 Approved Now's the Time Top Ten Hourly Viewers' Picks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-3-simple-ways-to-color-grading-in-photoshop/"><u>[Updated] 3 Simple Ways to Color Grading in Photoshop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-update-strategies-for-windows-10-with-error-code-0x800f0922-top-8-fixes-you-need-to-try/"><u>Error-Free Update Strategies for Windows 10 with Error Code 0X800f0922 – Top 8 Fixes You Need to Try!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-media-driver-not-found-heres-how-to-resolve-it-for-your-system/"><u>Essential Media Driver Not Found? Here's How to Resolve It for Your System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-hanging-google-chrome-browser-quick-restart-guide/"><u>How to Fix a Hanging Google Chrome Browser - Quick Restart Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-wudfhostexe-from-hiking-cpu-use-on-your-windows-10-pc/"><u>How to Stop wudfhost.exe From Hiking CPU Use on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-backlight-malfunction-solutions-and-fixes-for-mac-os-x-and-windows-users/"><u>Keyboard Backlight Malfunction: Solutions and Fixes for Mac OS X & Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722193589715-top-6-advantages-of-using-the-chatgpt-mobile-app-over-the-web-platform/"><u>Top 6 Advantages of Using the ChatGPT Mobile App Over the Web Platform</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-13-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi 13 Ultra without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity-for-2024/"><u>[Updated] Go Incognito with Instagram Live A Comprehensive Guide to Anonymity for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-evolving-narratives-in-the-age-of-vr-movies/"><u>2024 Approved Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>2024 Approved From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211213023-9798888328941-anunnaki-are-in-the-bible/"><u>Anunnaki Are In The Bible | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212171075-critical-update-for-ftdi-systems-avoid-compatibility-errors-and-preserve-memory-integrity/"><u>Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 6s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-optimal-speed-a-comprehensive-guide-to-overcome-minecraft-lags/"><u>Mastering Optimal Speed: A Comprehensive Guide to Overcome Minecraft Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-killer-dxgkrnl-bug-in-windows-video-playback/"><u>Overcoming the Killer 'Dxgkrnl' Bug in Windows Video Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208646992-resolve-error-8007000e-in-windows-updates-quick-fixes-inside/"><u>Resolve Error 8007000E in Windows Updates: Quick Fixes Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sierras-best-curated-list-of-exceptional-mac-video-tools-for-2024/"><u>Sierra's Best Curated List of Exceptional Mac Video Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-audio-gear-and-apps-every-home-studio-enthusiast-needs-according-to-zdnet/"><u>Top Audio Gear and Apps Every Home Studio Enthusiast Needs (According to ZDNet)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restore-lost-geforce-preferences/"><u>Troubleshooting Guide: How to Restore Lost GeForce Preferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-easy-advanced-techniques-for-windows-11-file-explorer/"><u>Troubleshooting Made Easy: Advanced Techniques for Windows 11 File Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-issues-with-disabled-wireless-features-in-computers/"><u>Understanding and Addressing Issues with Disabled Wireless Features in Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-install-linux-on-your-chromebook-the-ultimate-how-to/"><u>Updated 2024 Approved Install Linux on Your Chromebook The Ultimate How-To</u></a></li>
 </ul></div>
 

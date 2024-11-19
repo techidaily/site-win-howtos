@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034"
-date: 2024-11-02T05:49:35.970Z
-updated: 2024-11-07T23:47:24.861Z
+date: 2024-11-15T02:06:08.245Z
+updated: 2024-11-19T00:51:26.558Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ To restore it:
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
@@ -73,31 +73,38 @@ To restore it:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **3) Right-click on the blank area to click New, then Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
@@ -105,13 +112,6 @@ To restore it:
  5) Name the new folder:   **AppReadiness** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -132,15 +132,18 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-pinpointing-video-picks-s-social-landscape-facebook/"><u>[New] In 2024, Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] 2024 Approved Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-harnessing-the-power-of-luts-for-high-quality-video-output/"><u>[Updated] In 2024, Harnessing the Power of LUTs for High-Quality Video Output</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207317419-diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-for-red-screen-difficulties-in-windows-11-systems/"><u>Diagnosis and Repair for Red Screen Difficulties in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-system-crashes-at-start-up-a-comprehensive-guide/"><u>Fixing Windows 10 System Crashes at Start-Up: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-a2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi A2 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-glitches-how-to-stop-windows-pcs-speakers-from-crackling/"><u>Troubleshooting Audio Glitches: How to Stop Windows PC's Speakers From Crackling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-listening-pleasure-constructing-a-youtube-playlist-for-2024/"><u>[New] Enhance Listening Pleasure Constructing a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203090666-solved-windows-10-taskbar-frozen-top-effective-ways/"><u>[Solved] Windows 10 Taskbar Frozen - Top Effective Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-videos-to-written-work-a-budget-friendly-way/"><u>[Updated] In 2024, Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>[Updated] Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-browsers-sudden-shift-to-a-black-screen/"><u>Easy Fixes for Your Browser's Sudden Shift to a Black Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-errors-in-windows-system-file-checker-tool/"><u>Effective Solutions for Overcoming Errors in Windows System File Checker Tool</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210501674-9798985634815-my-little-town/"><u>My Little Town | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-how-to-fix-microsoft-store-not-responding-problem/"><u>Solution: How to Fix Microsoft Store Not Responding Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-minecrafts-error-code-5-challenge/"><u>Troubleshooting Guide: Overcoming Minecraft's Error Code 5 Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-access-is-forbidden-problem-on-your-site-403-error/"><u>Troubleshooting the 'Access Is Forbidden' Problem on Your Site (403 Error)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-using-the-final-cut-pro-compressor-best-practices-common-hitches-and-effective-remedies/"><u>Ultimate Guide to Using the Final Cut Pro Compressor - Best Practices, Common Hitches & Effective Remedies</u></a></li>
 </ul></div>
 

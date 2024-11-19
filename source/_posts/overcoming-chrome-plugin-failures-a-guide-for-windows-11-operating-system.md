@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System"
-date: 2024-11-03T08:47:53.060Z
-updated: 2024-11-07T18:10:38.378Z
+date: 2024-11-17T20:42:42.479Z
+updated: 2024-11-19T00:24:24.609Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -54,26 +60,33 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -89,31 +102,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -143,8 +135,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -168,24 +181,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capture-striking-shots-using-leading-lines-iphone/"><u>[New] Capture Striking Shots Using Leading Lines (iPhone)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-adding-dynamic-captions-to-instagram-media/"><u>[New] In 2024, Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-and-exploring-every-aspect-of-macs-preview-app-for-2024/"><u>[Updated] Navigating and Exploring Every Aspect of Mac's Preview App for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-dell-laptop-keyboard-malfunctions-successfully/"><u>Diagnosing and Fixing Dell Laptop Keyboard Malfunctions Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-d3derrnotavailable-and-restoring-graphics-functionality/"><u>Expert Advice: Dealing with D3DERR_NotAvailable and Restoring Graphics Functionality</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/fast-track-installing-snapchat-on-your-mac-device/"><u>Fast Track Installing Snapchat on Your Mac Device</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/how-to-create-local-disk-backups-of-network-drives-using-windows-11/"><u>How to Create Local Disk Backups of Network Drives Using Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-missing-from-windows-device-manager/"><u>How to Fix Bluetooth Missing From Windows Device Manager</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-camon-20-premier-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Camon 20 Premier 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pubg-the-definitive-guide-to-resolve-pre-launch-problems-for/"><u>Mastering PUBG: The Definitive Guide to Resolve Pre-Launch Problems For</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-error-code-31-on-your-windows-pc-a-comprehensive-guide/"><u>Resolving Error Code 31 on Your Windows PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208258645-resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by WUDFHost.exe on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-your-asus-notebook-with-simple-steps/"><u>Reviving Your Asus Notebook with Simple Steps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-error-x0001-in-windows-devices/"><u>Strategies for Overcoming Error X0001 in Windows Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-how-to-identify-and-resolve-streaming-issues/"><u>Trouble with Netflix? How to Identify and Resolve Streaming Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-heavy-cpu-burden-from-wudfhostexe-on-windows-pcs/"><u>Troubleshooting and Resolving Heavy CPU Burden From wudfhost.exe on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-playing-fortnite-smoothly-despite-having-an-unsupported-graphics-card-on-a-windows-machine/"><u>Ultimate Guide to Playing Fortnite Smoothly Despite Having an Unsupported Graphics Card on a Windows Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/untangling-dll-dilemmas-effective-solutions-for-handling-msvcr70dll-disappearance-errors/"><u>Untangling DLL Dilemmas: Effective Solutions for Handling MSVCR70.DLL Disappearance Errors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-affordable-action-camera-choices-top-6-under-100/"><u>[New] In 2024, Affordable ACTION Camera Choices – Top 6 Under $100</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-hot-tips-for-business-indispensable-items-you-cant-afford-to-miss/"><u>[Updated] 2024 Approved Hot Tips for Business Indispensable Items You Can't Afford To Miss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-efficient-screen-capture-devices-for-education/"><u>[Updated] In 2024, Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comment-desactiver-correctement-la-reparation-automatique-de-windows-11-guide-doptimisation/"><u>Comment Désactiver Correctement La Réparation Automatique De Windows 11 - Guide D'Optimisation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-disaster-systems-final-breach/"><u>Device Disaster: System's Final Breach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-when-your-logitech-mouse-scroll-doesnt-work-anymore/"><u>Easy Solutions for When Your Logitech Mouse Scroll Doesn't Work Anymore</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-nvidia-geforce-software-wont-start/"><u>How to Fix When Your NVIDIA GeForce Software Won't Start</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-list-of-budget-friendly-video-conferencing-tools/"><u>In 2024, Exclusive List of Budget-Friendly Video Conferencing Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s23plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S23+ Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-scroll-bar-glitch-solved-stop-instant-top-scroll-in-file-explorer/"><u>Windows 11 Scroll Bar Glitch Solved: Stop Instant Top-Scroll in File Explorer</u></a></li>
 </ul></div>
 

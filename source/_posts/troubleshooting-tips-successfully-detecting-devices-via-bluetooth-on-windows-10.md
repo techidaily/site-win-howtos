@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Successfully Detecting Devices via Bluetooth on Windows 10"
-date: 2024-11-01T05:35:40.382Z
-updated: 2024-11-08T01:25:37.408Z
+date: 2024-11-15T02:00:16.413Z
+updated: 2024-11-19T02:16:22.622Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 8) Check to see if you see the 0x800705b4 error in Windows Update.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Change Windows Update Settings**
 
  This error can be caused by faulty Windows Update settings. So to fix the error, you may need to change the Windows Update settings. This method has been working for many Windows 10 users who encountered the 0x800705b4 error. It’s worth a try.
@@ -79,15 +86,22 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745aa5541bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Clear option **Give me updates for other Microsoft products when I update Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer.
@@ -98,22 +112,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745f4d8fdcd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Go back to**Check for Updates** again. Then the updates should download successfully this time.
@@ -121,16 +134,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Delete Some Related Files**
@@ -145,13 +152,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
@@ -163,6 +163,19 @@ Follow these steps:
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
  6) Restart your PC and check to see if the error persists.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4:** Repair system files
 
@@ -186,17 +199,17 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -220,13 +233,6 @@ There are 2 ways to solve it. Here’s how:
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 6: Update the Drivers
 
  The steps above may resolve the problem, but if they don’t, it’s time to update the drivers. If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with Driver Easy.
@@ -241,18 +247,18 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -273,22 +279,22 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-in-depth-training-on-googles-automatic-transcription-tool/"><u>[New] 2024 Approved In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[New] Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[New] In 2024, Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-review-of-the-top-10-gopro-protectors/"><u>[Updated] A Detailed Review of the Top 10 GoPro Protectors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-role-of-background-melody-in-a-cinematic-commercial/"><u>[Updated] In 2024, The Role of Background Melody in a Cinematic Commercial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unparalleled-top-5-lightweight-cinematography-devices/"><u>[Updated] Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hardware-update-required-successful-engine-operation-depends-on-d3d11-enabled-gpu/"><u>Hardware Update Required: Successful Engine Operation Depends on D3D11-Enabled GPU</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchpad-functionality-and-scroll-smoothly-in-windows-11/"><u>How to Restore Touchpad Functionality and Scroll Smoothly in Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-7-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 7 or iPad?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-error-code-0x800f0831-using-windows-updates/"><u>Quick Fixes for Error Code 0X800f0831 Using Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211295370-quick-fixes-for-when-your-overwatch-microphone-fails-solutions-inside/"><u>Quick Fixes for When Your Overwatch Microphone Fails - Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sound-troubleshooting-for-forza-horizon-4-your-ultimate-solution/"><u>Sound Troubleshooting for Forza Horizon 4: Your Ultimate Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210357325-trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Unresponsive Touchpad Scroll Issues in Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-premiere-elements-alternatives-top-10-video-editors-to-consider/"><u>Updated 2024 Approved Premiere Elements Alternatives Top 10 Video Editors to Consider</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-influencer-in-2024/"><u>Updated What Is AI Influencer, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-optimization-tip-lowering-cpu-usage-spiked-by-wudfhostexe-process/"><u>Windows 11 Optimization Tip: Lowering CPU Usage Spiked by wudfhost.exe Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-adept-approaches-for-capturing-high-impact-presentations/"><u>[New] In 2024, Adept Approaches for Capturing High-Impact Presentations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-builder-how-to-create-video-ads-for-free/"><u>[Updated] YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beam-yourself-into-vr-android-tips-and-tricks/"><u>Beam Yourself Into VR Android Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-to-overcome-minecraft-opengl-errors-quickly/"><u>Comprehensive Fixes to Overcome Minecraft OpenGL Errors Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-a-personalized-auditory-experience-on-ios/"><u>Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-c925ehd-usb-webcam-driver-for-windows-pc/"><u>Download Logitech C925EHD USB Webcam Driver for Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-that-frozen-trackpad-effective-techniques-to-restore-laptop-functionality/"><u>Fix That Frozen Trackpad: Effective Techniques to Restore Laptop Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-dell-bluetooth-mouse-solutions-when-it-stops-responding/"><u>Fixing Your Dell Bluetooth Mouse: Solutions When It Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-serious-google-chrome-malware-hack-expert-advice/"><u>How to Fix a Serious Google Chrome Malware Hack - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-10-update-error-0xc1900208-a-step-by-step-guide/"><u>How to Fix the Windows 10 Update Error 0xC1900208 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-integrating-fb-live-on-roku-step-by-step-guide/"><u>In 2024, Integrating FB Live on Roku Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-6-platforms-for-video-localization/"><u>In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pale-panel-power-perplexity/"><u>Pale Panel: Power Perplexity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-usb-flash-drive-wont-show-up/"><u>Quick Fixes for When Your USB Flash Drive Won't Show Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-correcting-ps4-nat-configuration-errors-and-enhancing-connectivity/"><u>Step-by-Step Solution for Correcting PS4 NAT Configuration Errors and Enhancing Connectivity</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-itel-p55-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P55 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue"
-date: 2024-11-01T18:34:06.405Z
-updated: 2024-11-07T19:22:17.747Z
+date: 2024-11-15T23:19:45.435Z
+updated: 2024-11-19T01:10:36.627Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -119,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -138,29 +145,22 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -169,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -187,13 +194,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -232,24 +232,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-advanced-techniques-capturing-teams-screen-content/"><u>[New] Advanced Techniques Capturing Teams' Screen Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-simplify-lenovo-screen-casting-today-for-2024/"><u>[New] Simplify Lenovo Screen Casting Today for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-uniting-voices-in-a-tiktok-duo/"><u>[Updated] In 2024, Uniting Voices in a TikTok Duo</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-vlogging-with-these-top-8-cameras-for-2024/"><u>[Updated] Master the Art of Vlogging with These Top 8 Cameras for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-complete-guide-to-fixing-compromised-system-files-in-modern-windows-os/"><u>A Complete Guide to Fixing Compromised System Files in Modern Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/creative-and-perfect-gifting-solutions-for-the-clueless-shopper/"><u>Creative and Perfect Gifting Solutions for the Clueless Shopper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-workflow-advanced-filters-and-theme-changes-in-task-manager-windows-11/"><u>Elevate Your Workflow: Advanced Filters & Theme Changes in Task Manager (Windows 11)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gone-wireless-reconnect-with-logitech-fix/"><u>Gone Wireless? Reconnect with Logitech Fix</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-xr-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone XR to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-ppt-media-rendering-velocity/"><u>In 2024, Boosting PPT Media Rendering Velocity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-multiplayer-fun-effective-ways-to-tackle-fortnite-unable-to-join-a-party-error-code-84/"><u>Master Multiplayer Fun: Effective Ways to Tackle Fortnite 'Unable to Join a Party' Error (Code 84)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-boot-errors-on-windows-10-how-to-recover-and-resolve-post-update-issues/"><u>No More Boot Errors on Windows 10: How to Recover and Resolve Post-Update Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-2024-release-comprehensive-troubleshooting-steps-for-fixing-launch-issues/"><u>PUBG 2024 Release: Comprehensive Troubleshooting Steps for Fixing Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205574398-resolving-diagnostics-policy-service-is-offline-heres-what-to-do/"><u>Resolving 'Diagnostics Policy Service Is Offline – Here’s What To Do</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-corsair-hs50-mic-a-step-by-step-solution-for-sound-issues/"><u>Revive Your Corsair HS50 Mic: A Step-by-Step Solution for Sound Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-media-connections-a-comprehhavisive-fix-for-peripheral-connectivity-problems/"><u>Reviving Your Windows Media Connections: A Comprehhavisive Fix for Peripheral Connectivity Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-smoothing-out-your-minecraft-gameplay-experience/"><u>Step-by-Step Solution for Smoothing Out Your Minecraft Gameplay Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solution-guide-for-directx-device-creation-unsuccessful-attempts/"><u>Troubleshooting and Solution Guide for 'DirectX Device Creation' Unsuccessful Attempts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-webcam-buying-simplified-the-best-10-options-for-2024/"><u>[New] Webcam Buying Simplified The Best 10 Options for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>[Updated] 2024 Approved Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>2024 Approved OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diuril/"><u>Diuril</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-site-analytics-with-cookiebot-technology/"><u>Enhanced Site Analytics with Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-31-in-windows-explained-fixes-to-get-you-back-on-track/"><u>Error Code 31 in Windows Explained: Fixes to Get You Back on Track</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-request-failed-by-windows-resource-protection-tips-and-solutions/"><u>Fixing 'Request Failed by Windows Resource Protection': Tips & Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/granulation-tissue-formation/"><u>Granulation Tissue Formation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-bring-back-your-gone-desktop-symbols-in-windows-10-step-by-step-solution/"><u>How to Bring Back Your Gone Desktop Symbols in Windows 10: Step-by-Step Solution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-convert-wav-audio-tracks-into-ogg-files-methods-for-both-online-tools-and-desktop-applications/"><u>How to Convert WAV Audio Tracks Into OGG Files - Methods for Both Online Tools and Desktop Applications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-x-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone X Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/intestines/"><u>Intestines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logilda-dll-resolved-and-restored/"><u>LogiLDA DLL Resolved & Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-code-faks-a-step-by-step-guide-to-overcoming-challenges-in-minecraft/"><u>Mastering Error Code ˈfaɪks: A Step-by-Step Guide to Overcoming Challenges in Minecraft</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/movavi-3gp-m4a/"><u>Movavi의 가스공학적 3GP, M4A 비디오 대여: 원근육종성 속도로 즉시 구현하세요!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-addressing-and-repairing-the-d3d-device-creation-failure/"><u>Solution Guide: Addressing and Repairing the D3D Device Creation Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-your-windows-pcs-built-in-webcam-functionality/"><u>Step-by-Step Guide: Restoring Your Windows PC's Built-In Webcam Functionality</u></a></li>
 </ul></div>
 

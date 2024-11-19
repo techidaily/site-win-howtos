@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Responsive Lenovo FN Buttons - Step by Step
-date: 2024-09-11T15:33:58.926Z
-updated: 2024-09-12T15:33:58.926Z
+date: 2024-11-15T18:45:55.090Z
+updated: 2024-11-18T20:22:48.901Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check the status of your controller
 
  You should check the basic status of your controller and see if there is any issue that causes the problem.
@@ -58,13 +51,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ebcab3903.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method works for you, the connection between your controller and your console will recover.
 
  If you have a micro-USB cable, you can pair your Xbox Onecontroller and console with this cable.
@@ -75,13 +61,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -89,6 +68,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)**  Press and hold the**Xbox button** on the console until it completely shuts down. (It can take about**10** seconds.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
 
@@ -107,47 +93,47 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -168,5 +154,24 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>[Updated] 2024 Approved Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools-for-2024/"><u>[Updated] Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vanguard-headgear-companies-for-vr/"><u>[Updated] Vanguard Headgear Companies for VR</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/boost-your-video-chats-on-chatroulette-with-the-best-webcam-plugins-like-manycam/"><u>Boost Your Video Chats on Chatroulette with the Best Webcam Plugins Like ManyCam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-tech-mysteries-insightful-articles-from-toms-hardware-blog/"><u>Deciphering Tech Mysteries: Insightful Articles From Tom’s Hardware Blog</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dial-back-high-cpu-usage-by-wmi/"><u>Dial Back High CPU Usage by WMI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-bring-back-your-missing-windows-10-taskbar-icons-proven-tips-and-techniques/"><u>Guide to Bring Back Your Missing Windows 10 Taskbar Icons: Proven Tips and Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-tackle-high-cpu-usage-by-the-system-idle-process-effective-solutions/"><u>How to Tackle High CPU Usage by the 'System Idle Process': Effective Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/i-migliori-siti-gratuito-online-per-trasformare-i-video-di-youtube-in-file-mp3-le-prime-7-opzioni/"><u>I Migliori Siti Gratuito Online per Trasformare I Video Di YouTube in File MP3 - Le Prime 7 Opzioni</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-itel-a60-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel A60 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-multimedia-in-educational-practice-for-2024/"><u>Navigating Multimedia in Educational Practice for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-missing-d3dcompiler47dll-error-on-your-pc-easily/"><u>Resolve the Missing D3DCOMPILER_47.dll Error on Your PC Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-freezes-and-unresponsive-behavior-a-step-by-step-guide/"><u>Resolving Windows 11 Freezes and Unresponsive Behavior: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-keyboard-functionality-for-windows-11-8-and-7-computers-expert-fixes/"><u>Revive Keyboard Functionality for Windows 11, 8 & 7 Computers: Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-fix-a-blocked-webpage-http-403-solutions/"><u>Step-by-Step Strategies to Fix a Blocked Webpage - HTTP 403 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210531362-unstick-your-unresponsive-usb-mouse-laptop-troubleshooting-steps-for-immediate-relief/"><u>Unstick Your Unresponsive USB Mouse: Laptop Troubleshooting Steps for Immediate Relief!</u></a></li>
+</ul></div>
 

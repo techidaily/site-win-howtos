@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-11-01T07:59:08.534Z
-updated: 2024-11-08T01:18:31.470Z
+date: 2024-11-16T22:18:29.328Z
+updated: 2024-11-19T00:39:22.714Z
 tags:
   - win11
   - win10
@@ -42,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -64,6 +51,13 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -76,6 +70,13 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -97,13 +98,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -111,13 +105,6 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -132,10 +119,10 @@ Double-click on your active Network Adapter.
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
@@ -150,16 +137,22 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -187,6 +180,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
@@ -208,22 +208,17 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-leading-20-non-copyrighted-pubg-image-sequences/"><u>[New] 2024 Approved Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-lightning-fast-windows-photo-inspector/"><u>[New] 2024 Approved Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-fix-obs-studio-drop-frames-issue/"><u>[Updated] How To Fix OBS Studio Drop Frames Issue?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-spotters-insights-into-zerogpts-stealth-capabilities/"><u>Can You Rely on AI Spotters? Insights Into ZeroGPT's Stealth Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defying-expectations-wow-sets-new-standards-with-3d-acceleration/"><u>Defying Expectations: WoW Sets New Standards with 3D Acceleration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-10-igtv-channels-shaping-content-trends/"><u>In 2024, The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-netflix-down-or-not-working-fix-your-netflix-problems/"><u>Is Netflix Down or Not Working? Fix Your Netflix Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-keeping-your-device-alert-no-more-interruptions/"><u>Master the Art of Keeping Your Device Alert: No More Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-charge-problems-with-your-sony-dualshock-ps4-controller/"><u>Overcoming Charge Problems with Your Sony DualShock PS4 Controller</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/section-3b-five-factays-to-remember/"><u>Section 3B: Five Factays to Remember</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-csgo-lag-problems-top-tips-and-tricks/"><u>Solving Your CS:GO Lag Problems - Top Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-port-reset-failed-on-windows-11-when-connected-to-an-unknown-usb-device/"><u>Step-by-Step Fix for 'Port Reset Failed' On Windows 11 When Connected to an Unknown USB Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tactics-for-fixing-game-crashes-in-total-war-rome-re-mastered/"><u>Ultimate Troubleshooting Tactics for Fixing Game Crashes in Total War: Rome Re-Mastered</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-malfunction-solved-steps-to-regain-control/"><u>Windows 10 Brightness Malfunction Solved: Steps to Regain Control</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-speedy-sync-effortlessly-share-your-lists-online/"><u>[Updated] In 2024, Speedy Sync Effortlessly Share Your Lists Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>2024 Approved How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-no-rest-for-the-wicked-game-crashing-issues-on-your-computer/"><u>Diagnosing and Repairing 'No Rest for the Wicked' Game Crashing Issues on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-frozen-digital-devices-a-comprehamoedium/"><u>Diagnosing and Repairing Frozen Digital Devices – A Comprehamoedium</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-tackling-and-correcting-twitchs-error-4000-challenge/"><u>Error No More: Tackling and Correcting Twitch's Error 4000 Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-corsair-keyboard-troubleshooting-steps-and-solutions/"><u>Fixing a Non-Responsive Corsair Keyboard: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-are-addons-enhancing-chatgpt-experience/"><u>How Safe Are Addons Enhancing ChatGPT Experience?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-visionary-viewers-verdict-your-channel-vs-contenders-content/"><u>In 2024, The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-time-saving-guide-seconds-to-clear-background-bg/"><u>In 2024, Time-Saving Guide Seconds to Clear Background Bg</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-in-windows-11-expert-fixes/"><u>Solving the MsMpEng.exe High CPU Usage Issue in Windows 11 - Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-non-responsive-drive-on-windows-10-devices/"><u>Step-by-Step Guide to Fixing a Non-Responsive Drive on Windows 10 Devices</u></a></li>
 </ul></div>
 

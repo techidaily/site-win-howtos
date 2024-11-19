@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2024-11-03T03:53:14.675Z
-updated: 2024-11-08T02:33:56.394Z
+date: 2024-11-15T18:08:19.456Z
+updated: 2024-11-18T18:44:22.223Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -59,29 +66,22 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
@@ -89,10 +89,10 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -106,10 +106,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -129,18 +129,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-apowersoft-reviewed-a-guide-to-pc-screen-capture-for-2024/"><u>[New] Apowersoft Reviewed A Guide to PC Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-maximizing-audio-capture-essential-techniques-for-facetime-for-2024/"><u>[Updated] Maximizing Audio Capture Essential Techniques for FaceTime for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-poco-c50-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>2024 Approved Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-windows-error-code-0x80072f8f-on-11-and-10-versions/"><u>Comprehensive Guide to Fixing Windows Error Code 0X80072F8F on 11 & 10 Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/erratic-key-response/"><u>Erratic Key Response</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27e-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27e to Outlook | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/le-migliori-8-applicazioni-di-riparazione-immagini-gratuite-con-ai-una-guida-completa/"><u>Le Migliori 8 Applicazioni Di Riparazione Immagini Gratuite Con AI: Una Guida Completa</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-windows-registry-insights-for-enhanced-performance-with-revo-uninstaller/"><u>Navigating the Windows Registry: Insights for Enhanced Performance with Revo Uninstaller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dark-launch-issue-when-starting-monster-hunter-world/"><u>Resolving the Dark Launch Issue When Starting Monster Hunter: World</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-window-flicker-problem-on-windows-11-computers/"><u>Resolving the Window Flicker Problem on Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-dysfunctional-fn-key-performance/"><u>Step-by-Step Guide: Repairing Dysfunctional Fn Key Performance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-examining-youtubes-copyright-stance-versus-cc-approach-for-2024/"><u>[New] Examining Youtube's Copyright Stance Versus CC Approach for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-fostering-followers-with-flashy-instagram-puzzles-that-stand-out-for-2024/"><u>[Updated] Fostering Followers with Flashy Instagram Puzzles that Stand Out for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-nows-vr-device-showcase-and-analysis/"><u>[Updated] In 2024, Now’s VR Device Showcase & Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unleash-creativity-capturing-sims-4-adventures/"><u>[Updated] Unleash Creativity Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s23-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S23</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-dell-camera-fails-to-operate-on-a-windows-machine/"><u>Effective Fixes When Your Dell Camera Fails to Operate on a Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-visual-geniuses-cache-unbeatable-afx-samples-at-zero-price/"><u>In 2024, Visual Geniuses' Cache Unbeatable AFX Samples at Zero Price</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-hidden-bluetooth-devices-in-windows-device-management/"><u>Quick Fix for Hidden Bluetooth Devices in Windows Device Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-address-and-resolve-steam-disk-write-problems/"><u>Quick Fixes to Address and Resolve Steam Disk Write Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-restore-screen-visibility-on-dell-laptops-a-comprehensive-guide/"><u>Step-by-Step Solutions to Restore Screen Visibility on Dell Laptops - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-end-of-the-green-glitch-in-nba-2k21-a-complete-solution/"><u>The End of the Green Glitch in NBA 2K21: A Complete Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-night-light-feature-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing the 'Night Light' Feature Issues in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-caption-your-video-in-fcpx-a-quick-and-easy-guide/"><u>Updated 2024 Approved Caption Your Video in FCPX A Quick and Easy Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-support-detecting-and-connecting-to-bluetooth-devices/"><u>Windows 10 Support: Detecting and Connecting to Bluetooth Devices</u></a></li>
 </ul></div>
 

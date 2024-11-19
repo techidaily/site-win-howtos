@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2024-11-02T23:56:37.830Z
-updated: 2024-11-08T04:08:02.102Z
+date: 2024-11-12T19:10:25.374Z
+updated: 2024-11-18T19:58:46.018Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Windows 11
@@ -66,23 +73,9 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -96,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -119,18 +112,25 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -167,18 +167,24 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/ensure-safety-with-on-demand-activation-of-local-security-authority-features/"><u>Ensure Safety with On-Demand Activation of Local Security Authority Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-tutorial-why-your-media-wont-load-and-what-to-do-about-it-on-windows/"><u>Error Resolution Tutorial: Why Your Media Won't Load and What To Do About It On Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-connectivity-glitches-when-windows-11-doesnt-recognize-your-headphones/"><u>Fixing Audio Connectivity Glitches: When Windows 11 Doesn't Recognize Your Headphones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-connection-issues-how-to-get-steam-online-again/"><u>Fixing Connection Issues: How to Get Steam Online Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-lenovo-mouse-compatibility-problems-with-windows-10-8-or-7-step-by-step-guide/"><u>Fixing Lenovo Mouse Compatibility Problems with Windows 10, 8 or 7 – Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-record-a-movie-on-pc-mac-and-smartphones/"><u>How to Record a Movie on PC, Mac, and Smartphones?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/neterrcertweaksignaturealgorithm-error-on-your-site-expert-tips-for-a-stronger-signature-fix/"><u>NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error on Your Site? Expert Tips for a Stronger Signature Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-error-0x800f081f-a-step-by-step-guide-for-successful-net-framework-35-installation/"><u>Resolving Error 0X800F081F: A Step-by-Step Guide for Successful .NET Framework 3.5 Installation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-comprehensive-blueprint-for-vimeo-video-logging-for-2024/"><u>The Comprehensive Blueprint for Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/transform-slideshow-into-video-for-2024/"><u>Transform Slideshow Into Video for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-gone-bluetooth-icons-in-your-latest-windows-11-update/"><u>Troubleshooting a Gone Bluetooth Icons in Your Latest Windows 11 Update</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unveiling-audible-tweets-within-social-media-videos/"><u>Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-obscure-watching-methods-5-unique-stories-apps/"><u>[New] In 2024, Obscure Watching Methods 5 Unique Stories Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pioneering-stories-on-youtube-2023-edition-for-2024/"><u>[New] Pioneering Stories on YouTube, 2023 Edition for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-design-wizards-perfect-templates-for-gaming-channel-logos/"><u>[Updated] 2024 Approved Design Wizards Perfect Templates for Gaming Channel Logos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lgs-visionary-360-camera-review-and-technological-advances/"><u>[Updated] LG's Visionary 360 Camera Review and Technological Advances</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-microsofts-latest-patches-reviving-your-stalled-windows-update-service/"><u>Getting Microsoft's Latest Patches? Reviving Your Stalled Windows Update Service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-conversion-de-archivos-dts-a-m4v-en-linea-usando-movavi/"><u>Gratis Conversión De Archivos DTS a M4V en Línea Usando Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-the-problem-of-non-existent-binkw32dll-on-your-system/"><u>Guide to Correcting The Problem of Non-Existent BinkW32.DLL on Your System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-updating-toshiba-satellite-device-drivers-using-windows/"><u>Guide: Updating Toshiba Satellite Device Drivers Using Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-repair-a-non-detected-usb-device/"><u>How to Effortlessly Repair a Non-Detected USB Device</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restarting-your-windows-update-service-for-optimal-performance-a-step-by-step-solution/"><u>Restarting Your Windows Update Service for Optimal Performance: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-streets-no-more-eliminating-sound-problems-in-forza-horizon-4-with-ease/"><u>Silent Streets No More: Eliminating Sound Problems in Forza Horizon 4 with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/six-best-cinematography-tools-in-uhd-space-for-2024/"><u>Six Best Cinematography Tools in UHD Space for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-windows-11-sign-in-failures-caused-by-user-profile-services/"><u>Step-by-Step Fixes for Windows 11 Sign-In Failures Caused by User Profile Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-the-challenge-of-a-non-starting-computer-system/"><u>Success Story: Overcoming The Challenge of a Non-Starting Computer System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-mechanics-behind-tesla-dog-mode-an-in-depth-look-at-its-operation/"><u>Understanding the Mechanics Behind Tesla Dog Mode: An In-Depth Look at Its Operation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-computer-restarts-without-cause/"><u>Win10: Computer Restarts Without Cause</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-wi-fi-not-showing-here-are-the-fixes-for-missing-connections/"><u>Windows 11 Wi-Fi Not Showing? Here Are the Fixes for Missing Connections</u></a></li>
 </ul></div>
 

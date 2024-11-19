@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-11-04T08:48:48.530Z
-updated: 2024-11-08T02:27:55.597Z
+date: 2024-11-17T18:26:04.132Z
+updated: 2024-11-19T00:49:30.569Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
@@ -55,27 +55,27 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
  5) Open Fortnite and see if it launches properly. If yes, then congrats! But if it still won’t launch, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify your Fortnite files
 
@@ -103,14 +103,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
 
-6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
 ### Fix 4: Install the latest patch
 
@@ -155,18 +155,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -200,22 +200,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-visual-storytelling-made-easy-free-vfx-websites/"><u>[New] In 2024, Visual Storytelling Made Easy - Free VFX Websites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725284733361-dvd-dvd/"><u>DVD作成のプロセスを分かりやすく解説: DVD書き込みと焼き付け</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-m34-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy M34 Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ending-wows-disappointment-achieving-3d-acceleration-success/"><u>Ending WoW's Disappointment: Achieving 3D Acceleration Success</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-8-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 8 Plus GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-keyboards-win-10-and-11/"><u>How to Repair Unresponsive Buttons in Windows Keyboards (Win 10 & 11)</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-michael-kors-access-gen-5e-premium-design-meets-intelligent-functionality/"><u>In-Depth Analysis of the Michael Kors Access Gen 5E - Premium Design Meets Intelligent Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211624188-keyboard-malfunction-get-your-numeric-buttons-working-smoothly-in-no-time/"><u>Keyboard Malfunction? Get Your Numeric Buttons Working Smoothly in No Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-usb-connectivity-overcoming-port-reset-errors-and-device-recognition-issues-in-windows-11/"><u>Mastering USB Connectivity: Overcoming 'Port Reset' Errors & Device Recognition Issues in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/er-sounds-hilarious-song-imitations-for-2024/"><u>Snicker Sounds Hilarious Song Imitations for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-pubg-wont-start-problem-a-comprehensive-2024-walkthrough-guide/"><u>Solve Your 'PUBG Won't Start' Problem: A Comprehensive 2024 Walkthrough Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-10s-desktop-icon-mystery-tips-and-tricks-to-get-them-back/"><u>Solving Windows 10'S Desktop Icon Mystery: Tips and Tricks to Get Them Back</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-eradicate-livekernelevent-117-glitches/"><u>Step-by-Step Solution: Eradicate LiveKernelEvent 117 Glitches</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-yuva-3-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Yuva 3 Pro to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-notice-how-we-restored-your-igfx-modules-performance/"><u>Update Notice: How We Restored Your iGFX Module's Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-top-tier-smartphone-and-dslr-camera-gimbals-compared/"><u>[New] 10 Top-Tier Smartphone & DSLR Camera Gimbals Compared</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[New] In 2024, Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-phones-apps-for-masterful-gopro-edits/"><u>2024 Approved Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-netflix-detection-correct-steps-for-unblocker-or-proxy-issues/"><u>ByPassing Netflix Detection: Correct Steps for Unblocker or Proxy Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacles-successfully-installing-the-windows-1903-feature-patch/"><u>Bypassing Obstacles: Successfully Installing the Windows 1903 Feature Patch</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-zte-nubia-flip-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your ZTE Nubia Flip 5G Device SIM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-on-your-windows-7-pc/"><u>Easy Guide: Activating Bluetooth Connectivity on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-touch-screen-not-meeting-hid-standards/"><u>Fixed: Touch Screen Not Meeting HID Standards</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-se-2022ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone SE (2022)/iPad/iPod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-gt-5-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme GT 5 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-access-the-process-of-getting-trustee-approval-for-modifying-protected-files-in-windows/"><u>Securing Access: The Process of Getting Trustee Approval for Modifying Protected Files in Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-into-action-a-compelling-ig-gallery-of-inspiration-for-2024/"><u>Snap Into Action! A Compelling IG Gallery of Inspiration for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-issue-of-excessive-cpu-use-by-svchostexe-in-windows-11-solution-strategies/"><u>Tackling the Issue of Excessive CPU Use by svchost.exe in Windows 11 – Solution Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-choices-for-professional-gopro-video-editing-for-2024/"><u>Top Choices for Professional GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restore-functionality-to-a-non-responsive-huion-stylus/"><u>Troubleshooting Guide: Restore Functionality to a Non-Responsive Huion Stylus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wwe-2k-battlegrounds-directx-11-compatibility-fixing-level-1n0-problems/"><u>Troubleshooting WWE 2K: Battlegrounds DirectX 11 Compatibility - Fixing Level 1N_0 Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-wmi-reduce-energy-increase-speed/"><u>Windows WMi: Reduce Energy, Increase Speed</u></a></li>
 </ul></div>
 

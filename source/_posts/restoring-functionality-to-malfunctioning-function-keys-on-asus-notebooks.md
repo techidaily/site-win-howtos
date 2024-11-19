@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2024-11-07T01:53:23.801Z
-updated: 2024-11-08T08:21:35.376Z
+date: 2024-11-17T19:07:41.303Z
+updated: 2024-11-18T20:45:33.952Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,15 +43,36 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -77,13 +91,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -116,10 +123,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -135,19 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -161,10 +155,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -205,22 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-top-audio-tools-for-professional-podcast-creators/"><u>[New] Top Audio Tools for Professional Podcast Creators</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-powerpoint-guide-to-adding-youtube-links-with-ease/"><u>[Updated] In 2024, PowerPoint Guide to Adding YouTube Links with Ease</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-thrill-town-10-similar-video-games-to-gta-v/"><u>[Updated] Thrill Town 10 Similar Video Games To GTA V</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-iphone-imagery-with-light-tricks/"><u>2024 Approved Boost Your IPhone Imagery With Light Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-guide-to-choosing-between-the-latest-ipad-pro-or-macbook-pro/"><u>A Comprehensive Guide to Choosing Between the Latest iPad Pro or MacBook Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204204020-astro-a40-microphone-not-working-heres-how-to-fix-it/"><u>Astro A40 Microphone Not Working? Here's How to Fix It!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ver-these-10-quickly-rising-youtube-inspirations-for-2024/"><u>Discover These 10 Quickly Rising YouTube Inspirations for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-sound-output-dealing-with-no-installed-audio-device-warning-in-windows/"><u>Guide to Restoring Sound Output: Dealing with No Installed Audio Device Warning in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-p55-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel P55 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-absence-of-critical-library-in-system/"><u>Identifying Absence of Critical Library in System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206950085-master-the-trick-to-eliminate-constant-usb-not-detected-pop-ups-for-good/"><u>Master the Trick to Eliminate Constant 'USB Not Detected' Pop-Ups for Good</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mouse-gesture-and-scrolling-difficulties-on-your-synaptic-touchpad-in-windows-10/"><u>Solving the Mouse Gesture and Scrolling Difficulties on Your Synaptic Touchpad in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-detected-network-adjustment-problem/"><u>Step-by-Step Solution for 'Detected Network Adjustment Problem'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredo-struggles-with-eligibility-uncover-the-causes/"><u>Teredo Struggles with Eligibility: Uncover the Causes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-connecting-unresponsive-controllers-for-xbox-one-gamers/"><u>The Ultimate Fix: Connecting Unresponsive Controllers for Xbox One Gamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/uncover-and-free-up-previously-scanned-image-storage-on-mac-systems-for-better-efficiency/"><u>Uncover and Free Up Previously Scanned Image Storage on Mac Systems for Better Efficiency</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pinnacle-of-pc-clicker-fun-top-12-must-try-games/"><u>[New] In 2024, Pinnacle of PC Clicker Fun Top 12 Must-Try Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-strategies-for-uploading-and-live-streaming-past-videos-on-facebook/"><u>[New] Strategies for Uploading and Live Streaming Past Videos on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-footage-to-frames-screen-and-webcam-capturing-with-vimeo-for-2024/"><u>[Updated] From Footage to Frames Screen & Webcam Capturing with Vimeo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-fade-music-on-windowsmac-for-2024/"><u>[Updated] How to Fade Music on Windows/Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>[Updated] In 2024, Convert with Precision 10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-lore-of-roguelites-amidst-classic-rpgs/"><u>2024 Approved The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-loadlibrary-error-code-1114-in-your-system-efficiently/"><u>How to Fix 'LoadLibrary' Error Code 1114 in Your System Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-ingenious-approaches-to-facebook-video-ad-crafting/"><u>In 2024, Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-blueprint-for-gathering-free-pictorial-video-files/"><u>In 2024, The Blueprint for Gathering Free Pictorial Video Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/le-meilleur-programme-de-duplication-des-donnees-pour-hdd-vers-ssdhdd-guide-complet/"><u>Le Meilleur Programme De Duplication Des Données Pour HDD Vers SSD/HDD : Guide Complet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-performance-addressing-ntoskrnlexe-load/"><u>Optimizing Performance: Addressing ntoskrnl.exe Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-writers-block-in-computer-memory-dealing-with-a-referenced-location-at-0x-0x/"><u>Overcoming Writer's Block in Computer Memory: Dealing with a Referenced Location at 0X (0X)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-astro-a40-mic-step-by-step-troubleshooting-guide/"><u>Reviving Your Astro A40 Mic: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-typing-issues-fix-broken-letter-functions-on-win-1011-computers/"><u>Solving Typing Issues: Fix Broken Letter Functions on Win 10/11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustee-access-from-trustedinstaller-for-file-modification/"><u>Steps to Obtain Trustee Access From TrustedInstaller for File Modification</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcome the Weak Signature Algorithm Warning in Browsers: A Comprehensive Guide to Resolve NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error"
-date: 2024-09-15T19:57:44.388Z
-updated: 2024-09-17T17:20:10.270Z
+date: 2024-11-16T18:37:55.973Z
+updated: 2024-11-18T22:43:16.504Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,6 +55,13 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -62,13 +76,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -81,29 +88,15 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -113,6 +106,14 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
@@ -129,6 +130,14 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
@@ -136,13 +145,6 @@ the picture was taken by: Article\_86
 6. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -177,5 +179,20 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-a-step-by-step-guide-to-mastering-morphvox-modifications-for-2024/"><u>[Updated] A Step-by-Step Guide to Mastering MorphVOX Modifications for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pick-your-favorites-top-6-fb-lite-videos-downloaders/"><u>[Updated] Pick Your Favorites Top 6 FB Lite Videos Downloaders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-online-marketplaces-for-yt-channel-sales/"><u>2024 Approved Navigating Online Marketplaces for YT Channel Sales</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-nonfunctional-audio-levels-in-windows-11/"><u>Diagnosing and Correcting Nonfunctional Audio Levels in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-wf-2940-printer-software-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2940 Printer Software Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-sound-blaster-z-drivers-made-for-windows-11-simple-instructions-inside/"><u>Find & Download Sound Blaster Z Drivers Made For Windows 11 – Simple Instructions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-minecraft-is-not-starting-on-your-windows-pc/"><u>Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-pc-solutions-to-restore-non-functioning-usb-mouse-and-keyboard-on-windows-7/"><u>Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-communication-through-artificial-assistance/"><u>Revolutionizing Team Communication Through Artificial Assistance</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/schnelle-und-sichere-wiederherstellung-raw-datentrager-ohne-vorherige-formatting/"><u>Schnelle Und Sichere Wiederherstellung RAW-Datenträger Ohne Vorherige Formatting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-broken-laptop-keys-issue-in-windows-os-1087/"><u>Solve Your Broken Laptop Keys Issue in Windows OS (10/8/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-war-rome-remastered-game-crash-troubles-discover-these-fixes/"><u>Total War: Rome Remastered Game Crash Troubles? Discover These Fixes</u></a></li>
+</ul></div>
 

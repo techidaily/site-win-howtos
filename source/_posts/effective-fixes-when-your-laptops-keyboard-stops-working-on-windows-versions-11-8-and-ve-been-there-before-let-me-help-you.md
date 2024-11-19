@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You."
-date: 2024-11-01T06:31:56.814Z
-updated: 2024-11-07T23:22:30.268Z
+date: 2024-11-16T19:53:51.858Z
+updated: 2024-11-18T22:50:31.688Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -65,33 +78,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
-4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
+4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -106,10 +113,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -123,19 +130,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -143,6 +137,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 
@@ -169,24 +171,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-comparative-study-pre-and-post-vegaspro-19/"><u>[New] A Comparative Study Pre and Post-VegasPro '19</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-amplify-aspirations-top-10-motivation-movies/"><u>[New] Amplify Aspirations Top 10 Motivation Movies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[New] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs-for-2024/"><u>[New] Unleash Your Potential Detailed Guide for PS4 Recordings with OBS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-11/"><u>[SOLVED] Copy and Paste Not Working on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-s17e-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from S17e</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-strategies-for-isolating-unfamiliar-users-in-win-11/"><u>Effective Strategies for Isolating Unfamiliar Users in Win 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fhss-changes-the-carrier-frequency-rapidly-according-to-a-pseudorandom-sequence-known-to-both-ends-of-the-communication-link/"><u>FHSS Changes the Carrier Frequency Rapidly According to a Pseudorandom Sequence Known to Both Ends of the Communication Link.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-ravbg64exe-realtek-hd-audio-background-process-high-cpu-usage-issue/"><u>Fix ravbg64.exe (Realtek HD Audio Background Process) High CPU Usage Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-audio-issue-in-forza-horizon-4-now-with-full-restored-sound/"><u>Fixed: Audio Issue in Forza Horizon 4 - Now with Full Restored Sound</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-halt-your-jumpy-cursor-a-comprehensive-fix-guide/"><u>How to Halt Your Jumpy Cursor - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-filming-high-quality-camera-stabilizers-guide/"><u>In 2024, Precision in Filming High-Quality Camera Stabilizers Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-due-to-faulty-graphics-driver-software-in-windows/"><u>Resolving Minecraft Crashes Due to Faulty Graphics Driver Software in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-fixing-the-video-card-restart-issue-successfully/"><u>Solution Guide: Fixing the Video Card Restart Issue Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-0-halted-windows-update-problem-easily/"><u>Solve the 0% Halted Windows Update Problem Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-a-computer-thats-frozen-while-installing-windows/"><u>Step-by-Step Guide: Fixing a Computer That's Frozen While Installing Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-find-x7-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Find X7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>2024 Approved Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-correcting-windows-10s-troubling-update-bug-0x80240034/"><u>Complete Walkthrough: Correcting Windows 10'S Troubling Update Bug 0X80240034</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-decreasing-high-cpu-demands-in-wdf-based-systems/"><u>Effectively Decreasing High CPU Demands in WDF-Based Systems</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-2020-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE (2020) and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/improving-hues-a-beginners-approach-to-ps-grading/"><u>Improving Hues A Beginner's Approach to PS Grading</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tagging-magic-elevating-game-based-youtubes/"><u>In 2024, Tagging Magic Elevating Game-Based YouTubes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-path-to-film-retrospection-for-2024/"><u>IPhone's Path to Film Retrospection for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/magix-acid-pro-unveiled-and-options-examined/"><u>Magix ACID Pro Unveiled & Options Examined</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210046270-persistent-windows-update-problems-heres-what-you-need-to-do/"><u>Persistent Windows Update Problems? Here's What You Need To Do!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-troubleshooting-a-comprehensive-guide-on-fixing-startup-issues/"><u>PUBG 2024 Troubleshooting: A Comprehensive Guide on Fixing Startup Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-effortlessly-surface-pro-6-driver-version/"><u>Sync Effortlessly: Surface Pro 6 Driver Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-repaired-minecraft-performance-lags/"><u>Troubleshooting & Resolving [REPAIRED] Minecraft Performance Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-0x80072efd-error-tips-and-tricks-for-windows-10-users/"><u>Understanding and Repairing the 0X80072EFD Error: Tips & Tricks for Windows 10 Users</u></a></li>
 </ul></div>
 

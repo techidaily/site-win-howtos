@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2024-11-02T04:17:40.473Z
-updated: 2024-11-08T01:22:15.187Z
+date: 2024-11-14T20:19:47.752Z
+updated: 2024-11-18T18:01:03.839Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -57,20 +64,27 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -87,13 +101,6 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -112,10 +119,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -123,13 +130,6 @@ Follow these:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,17 +150,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-youtube-experience-with-a-structured-watch-later-plan/"><u>[New] 2024 Approved Enhancing YouTube Experience with a Structured Watch Later Plan</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-phone-snapchat-screen-records-for-2024/"><u>[New] The Ultimate Guide to Phone Snapchat Screen Records for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts-for-2024/"><u>Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/creative-steps-to-obliviate-win-11s-taskbar-button/"><u>Creative Steps to Obliviate Win 11'S Taskbar Button</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-servers-not-available-errors-in-destiny-2/"><u>Expert Advice: Dealing with 'Servers Not Available' Errors in Destiny 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-boot-solutions-overcoming-sluggishness-on-windows-7-systems/"><u>Fast Boot Solutions: Overcoming Sluggishness on Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-unfreeze-file-explorer-on-windows-11/"><u>Fixes and Solutions: How to Unfreeze File Explorer on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-the-hp-copilotplus-laptop-boosted-my-remote-work-efficiency-a-test-run-review-zdnet/"><u>How the HP Copilot+ Laptop Boosted My Remote Work Efficiency - A Test Run Review | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-the-blue-screen-error-0xc00000e9-in-windows/"><u>How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-decorate-your-windows-11-photos-app-add-aesthetic-filters-plus-audio-streams/"><u>In 2024, Decorate Your Windows 11 Photos App Add Aesthetic Filters + Audio Streams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>In 2024, Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-update-recovery-avoid-the-error-code-0x80070643-and-get-your-system-running-smoothly-again/"><u>Mastering Windows Update Recovery: Avoid the 'Error Code 0X80070643' And Get Your System Running Smoothly Again</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-your-podcasts-rss-feed-a-step-by-step-guide/"><u>[New] Crafting Your Podcast's RSS Feed A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-legal-boundaries-of-online-video-capturing-tools/"><u>[New] Legal Boundaries of Online Video Capturing Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-explorerexe-application-error-on-windows-1110/"><u>[SOLVED] Explorer.exe Application Error on Windows 11/10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-calls-merging-youtube-and-sustainable-backgrounds-for-2024/"><u>[Updated] Expert Calls Merging YouTube & Sustainable Backgrounds for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-the-instagram-reel-way/"><u>Crafting Captivating Content The Instagram Reel Way</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-non-responsive-google-chrome-should-you-restart-the-application-now/"><u>Dealing with Non-Responsive Google Chrome - Should You Restart the Application Now?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/decouvrez-les-reponses-aux-questions-genantes-sur-le-compression-de-fichiers-mkv/"><u>Découvrez Les Réponses Aux Questions Gênantes Sur Le Compression De Fichiers MKV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-and-relocate-invisible-or-disappeared-window-tiles/"><u>How to Recover and Relocate Invisible or Disappeared Window Tiles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a54-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A54 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-easier-than-ever-accessing-ifunnys-memetic-delights/"><u>In 2024, Easier Than Ever Accessing iFunny’s Memetic Delights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microphone-problems-in-the-corsair-hs50-headset-fixes-and-tips/"><u>Resolving Microphone Problems in the Corsair HS50 Headset - Fixes & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-of-your-steelseries-arctis-5-mic/"><u>Solved: How to Restore Functionality of Your SteelSeries Arctis 5 Mic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-error-0x80072f8f-in-windows-1110-update-processes/"><u>Step-by-Step Solutions to Overcome Error 0X80072F8F in Windows 11/10 Update Processes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/top-tweets-review-the-full-year-in-videos/"><u>Top Tweets Review The Full Year in Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wrp-fixing-windows-resource-protection-failed-issues/"><u>Troubleshooting WRP: Fixing 'Windows Resource Protection Failed' Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-mighty-portable-8-in-1-adapter-under-30-a-review-by-zdnet/"><u>Unveiling the Mighty, Portable 8-in-1 Adapter Under $30 – A Review by ZDNet</u></a></li>
 </ul></div>
 

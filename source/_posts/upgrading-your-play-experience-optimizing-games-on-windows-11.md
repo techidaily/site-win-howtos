@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Play Experience: Optimizing Games on Windows 11"
-date: 2024-11-02T03:47:49.687Z
-updated: 2024-11-07T20:10:34.809Z
+date: 2024-11-17T22:56:51.204Z
+updated: 2024-11-19T00:43:30.825Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Install the latest drivers
 
  When your computer crashes when you play games, one of the first things to do is to ensure that your drivers are all updated, especially the graphics card drivers.
@@ -58,17 +65,23 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable background programs
 
@@ -92,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify the game files
 
  Corrupted or missing files in games could also be the culprit to the game crashes or even computer crash problems. To see if this is the case, you can verify your game files on the following game launchers:
@@ -99,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 * **[Epic Games Launcher](#epic)**
 * **[Ubisoft Connect](#ubisoft)**
 * **[Steam](#steam)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Epic Games Launcher**
 
@@ -117,13 +130,6 @@ To verify the game’s files on Epic Games Launcher:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. When the validation is done, run your game again to see if it still cause your computer to crash.
 
@@ -137,13 +143,6 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch your game again to see if your computer crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steam
 
 1. Launch Steam.
@@ -153,27 +152,33 @@ To verify the game’s files on Ubisoft Connect:
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Then see if this game still crashes your computer. If so, please move on.
 
  If you’re using other game launcher, and you’re not sure how to verify the game files, please check the game launcher’s support manual or forum.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for software conflict
 
@@ -213,13 +218,6 @@ To verify the game’s files on Ubisoft Connect:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
@@ -265,16 +263,23 @@ To verify the game’s files on Ubisoft Connect:
 3. Type **sfc /scannow** and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/sfc.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5.3 – Prevent your computer from overheating
 
@@ -299,6 +304,13 @@ To verify the game’s files on Ubisoft Connect:
  Long story short, you’ll need third-party tools (available for free) to run more tests to see if hardware components are the reason why your computer crashes when playing games. If you don’t have the time or patience to do so, you can always seek help from a hardware technician instead.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5.5 – Upgrade your hardware devices
 
@@ -325,24 +337,22 @@ To verify the game’s files on Ubisoft Connect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>[New] 2024 Approved The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-send-a-snap-from-memoriescamera-roll-on-snapchat/"><u>[Updated] In 2024, How to Send a Snap From Memories/Camera Roll on Snapchat</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-pathway-to-creating-metaverse-identities/"><u>2024 Approved The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722964402295-2500u-drivers-fast-and-easy-methods-inside/"><u>2500U Drivers - Fast and Easy Methods Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/correcting-common-mistakes-overcoming-unintentional-keystrokes/"><u>Correcting Common Mistakes: Overcoming Unintentional Keystrokes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-silent-drives-the-ultimate-guide-to-solving-the-forza-horizon-4-audio-issue/"><u>Fixing Silent Drives: The Ultimate Guide to Solving the 'Forza Horizon 4' Audio Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-ensure-seamless-bluetooth-connections-on-windows-11-proven-fixes/"><u>How to Ensure Seamless Bluetooth Connections on Windows 11: Proven Fixes</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-k70-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi K70 phone? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-icy-immortals-top-athletes-from-the-freeze/"><u>In 2024, Icy Immortals Top Athletes From the Freeze</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-x6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find X6 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-humor-potential-quickly-kapwings-app/"><u>In 2024, Unlock Humor Potential Quickly - Kapwing's App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nier-automata-for-pc-how-to-prevent-game-stalls-and-crashing-episodes/"><u>Nier Automata for PC - How to Prevent Game Stalls & Crashing Episodes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-deadly-system-exception-fixing-0xc00n0005-on-windows/"><u>Overcoming the 'Deadly' System Exception: Fixing 0Xc00n0005 on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-eliminate-screen-flickering-in-valorant/"><u>Step-by-Step Solutions to Eliminate Screen Flickering in Valorant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-tablet-bargains-on-prime-day-2024-active-discounts-revealed-by-zdnet/"><u>Top 36 Unbeatable Tablet Bargains on Prime Day 2024 - Active Discounts Revealed by ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transforming-mobile-content-into-profitable-youtube-experiences/"><u>Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-valorant-freeze-required-system-restart/"><u>Troubleshoot Valorant Freeze: Required System Restart</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-0x80070solved-windows-update-errors/"><u>Troubleshooting Tips for Overcoming 0X80070^[SOLVED] Windows Update Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-control-glitches-solutions-for-a-fixed-display/"><u>Windows 10 Brightness Control Glitches: Solutions for a Fixed Display</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdmp45/"><u>「無料、高画質! DVDをMP4に変換する上位5ツールと選定方法」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-fixing-common-issues-how-to-resolve-dvd-playback-problems-in-vlc-across-pc-mac-and-linux-systems/"><u>1. Fixing Common Issues: How to Resolve DVD Playback Problems in VLC Across PC, Mac & Linux Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/20plus-digital-hubs-unlimited-image-access-for-all-for-2024/"><u>20+ Digital Hubs Unlimited Image Access for All for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buffer-free-entertainment-in-kodi-effective-techniques-to-ensure-seamless-playback/"><u>Buffer-Free Entertainment in Kodi: Effective Techniques to Ensure Seamless Playback</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/como-recuperar-facilmente-imagenes-eliminadas-definitivamente-en-dispositivos-iphone-1314-guia-rapida/"><u>Cómo Recuperar Fácilmente Imágenes Eliminadas Definitivamente en Dispositivos iPhone 13/14: Guía Rápida</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-steam-store-connectivity-problems-and-getting-it-running-smoothly/"><u>Expert Guide: Overcoming Steam Store Connectivity Problems and Getting It Running Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-screen-interaction-pen-and-touch-solutions/"><u>Fixing Unresponsive Screen Interaction – Pen and Touch Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-computer-runs-into-issues-with-windows-10-freezing/"><u>How to Fix When Your Computer Runs Into Issues with Windows 10 Freezing?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728467664135-ntfs/"><u>NTFS区块恢复技术：安全快速的实践指南</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-resolve-the-notorious-windows-update-bug-0x80070002/"><u>Quickly Resolve the Notorious Windows Update Bug 0X80070002</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invisible-windows-extra-display/"><u>Resolving Invisible Windows Extra Display</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/soundcheck-summary/"><u>SoundCheck Summary</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-frequent-usb-connection-drops/"><u>Troubleshooting Guide: Resolving Frequent USB Connection Drops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-guide-to-the-high-costs-and-inconveniences-of-owning-a-microsoft-surface-duo/"><u>User Guide to the High Costs & Inconveniences of Owning a Microsoft Surface Duo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-steams-endless-update-loop-solutions-revealed/"><u>Winning the Battle Against Steam's Endless Update Loop - Solutions Revealed</u></a></li>
 </ul></div>
 

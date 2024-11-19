@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Correct an Incorrect Directory Name Error"
-date: 2024-11-03T21:03:45.853Z
-updated: 2024-11-07T20:08:29.372Z
+date: 2024-11-15T23:22:57.787Z
+updated: 2024-11-18T22:10:46.685Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
 5. **[Launch Steam from shortcut](https://tools.techidaily.com/drivereasy/download/)** **[](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Want us to fix the problem for you?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run flushconfig**
 
  By running flushconfig, we can clear download cache and hopefully solve our problem. To do so:
@@ -48,23 +41,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14aa5a80ac5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **OK**   to confirm the flush.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14b1223a774.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Re-launch Steam and see if Store loads properly.
 
@@ -95,15 +74,22 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb8b7cb600.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Log in Steam and see if Steam store loads fine this time.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Remove Steam compatibility
@@ -114,9 +100,23 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click on**Steam.exe** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda2453493.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab, un-check all**the boxes** and click**Change settings for all users** (or**Show settings for all users** ).
 
@@ -127,10 +127,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4edbad49f8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Run Steam again and check if Steam store opens properly.
@@ -146,22 +146,15 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ec27c142c2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Hopefully your Steam store shows up fine now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Launch Steam from shortcut
 
@@ -174,6 +167,13 @@ If you opened Steam only to find**Store not loading** any more or even going all
  2) Locate and right-click on **Steam.exe** and click**Create shortcut** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2106c035.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on**Steam – Shortcut** and click**Properties** .
 
@@ -215,22 +215,22 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-unlisted-conundrum-dissecting-non-indexed-youtube-videos/"><u>[New] 2024 Approved The Unlisted Conundrum Dissecting Non-Indexed YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-significant-tenets-of-interactive-storytelling/"><u>[New] Significant Tenets of Interactive Storytelling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-warframe-update-failed-error/"><u>[Solved] Warframe Update Failed! Error</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-digital-video-conquerors-ultimate-toolkit-list/"><u>[Updated] 2024 Approved Digital Video Conquerors' Ultimate Toolkit List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-craft-your-cinematic-iphone-footage-creating-and-editing-slow-movement-sequences/"><u>2024 Approved Craft Your Cinematic iPhone Footage Creating & Editing Slow Movement Sequences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-straightening-drone-shake-a-video-guide/"><u>2024 Approved Straightening Drone Shake A Video Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209663068-bouncing-back-on-windows-11-file-explorer-scroll-bar-issue-methods-to-fix-it-now/"><u>Bouncing Back on Windows 11 File Explorer Scroll Bar Issue: Methods to Fix It Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208849865-connect-your-microsoft-wireless-display-adapter-to-windows-11-without-a-hitch/"><u>Connect Your Microsoft Wireless Display Adapter to Windows 11 Without a Hitch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-custom-settings-that-wont-respond-anymore/"><u>Expert Tips for Overcoming Custom Settings That Won't Respond Anymore</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/instantly-fix-missing-bluetooth-on-windows-11-a-comprehensive-tutorial/"><u>Instantly Fix Missing Bluetooth on Windows 11: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-directx-error-a-step-by-step-guide/"><u>Resolving the Unrecoverable DirectX Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speeding-up-spotify-tracks-safe-techniques-and-strategies-for-2024/"><u>Speeding Up Spotify Tracks Safe Techniques and Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-comprehensive-guide-to-fixing-a-disappearing-mouse-on-windows-10/"><u>The Comprehensive Guide to Fixing a Disappearing Mouse on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-firewall-issues-with-firefox/"><u>Troubleshooting Steps for Resolving Firewall Issues with Firefox</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-step-by-step-process-to-crafting-impressive-youtube-shorts-templates/"><u>[New] 2024 Approved Step-By-Step Process to Crafting Impressive YouTube Shorts Templates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[New] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-silencing-the-spotlight-avoiding-vloggers-fears/"><u>[Updated] In 2024, Silencing the Spotlight Avoiding Vlogger's Fears</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-basics-what-makes-a-vr-device-special/"><u>[Updated] In 2024, The Basics What Makes a VR Device Special?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-lag-in-pubg-a-comprehensive-guide-to-addressing-connectivity-issues/"><u>Eliminating Lag in PUBG: A Comprehensive Guide to Addressing Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-encountered-mastering-the-solutions-for-incorrect-parameter-issues-in-loadlibrary/"><u>Error 87 Encountered? Mastering the Solutions for Incorrect Parameter Issues in LoadLibrary</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-obscurity-to-fame-elevate-your-tiktok-unboxing-videos-for-2024/"><u>From Obscurity to Fame Elevate Your TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-missing-device-warning-windows-versions-11-8-and-7/"><u>How to Correctly Address the Missing Device Warning - Windows Versions 11, 8 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-update-issue-0x80240034-error-solution-explained/"><u>How to Overcome the Windows 10 Update Issue – 0X80240034 Error Solution Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-end-computers-a-showcase-of-excellence/"><u>In 2024, High-End Computers A Showcase of Excellence</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 5 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-essential-windows-apps-for-peak-performance/"><u>Maximize Efficiency: Essential Windows Apps for Peak Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-3080-ti-driver-downloads-for-windows-11-8-and-7-latest-update-available/"><u>NVIDIA GeForce RTX 3080 Ti Driver Downloads for Windows 11, 8 & 7 - Latest Update Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210782325-resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-firefox-secure-connection-error-secerrorunknownissuer-with-ease/"><u>Solve Firefox Secure Connection Error (SEC_ERROR_UNKNOWN_ISSUER) with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-update-failure-code-0xc1900208-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Update Failure Code 0xC1900208: A Comprehensive Guide</u></a></li>
 </ul></div>
 

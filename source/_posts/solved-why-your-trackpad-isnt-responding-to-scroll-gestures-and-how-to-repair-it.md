@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2024-11-02T20:47:34.828Z
-updated: 2024-11-07T22:49:22.275Z
+date: 2024-11-16T23:02:46.047Z
+updated: 2024-11-18T23:21:06.496Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable your touchpad
 
  If your touchpad isn’t working at all, it may be disabled. You can connect an external mouse to your computer, and follow these steps to enable your touchpad:
@@ -56,29 +43,30 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 2. Type**control** and press**Enter** to go to Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
-4. Under**Devices and Printers** , click**Mouse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
+4. Under**Devices and Printers** , click**Mouse** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -89,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
@@ -122,15 +117,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -155,20 +150,24 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-examining-youtubes-workflow-after-content-submission-for-2024/"><u>[New] Examining YouTube's Workflow After Content Submission for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-zooming-through-efficient-meeting-coordination-tips/"><u>[Updated] In 2024, Zooming Through Efficient Meeting Coordination Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-issues-with-unresponsive-led-lighting-in-corsair-keyboards/"><u>Expert Advice on Resolving Issues with Unresponsive LED Lighting in Corsair Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fix-solutions-to-stop-cs-go-from-keep-crashing/"><u>Fast Fix Solutions To Stop CS: GO From Keep Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-no-playable-sources-error-in-media-player-for-windows-complete-guide/"><u>Fixing 'No Playable Sources' Error in Media Player for Windows - Complete Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 8T FRP?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-excel-as-a-data-expert-top-5-strategies-revealed-on-zdnet/"><u>How To Excel as a Data Expert: Top 5 Strategies Revealed on ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-tablet-malfunction-and-get-back-on-track/"><u>How to Resolve Wacom Tablet Malfunction and Get Back on Track</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-boot-failures-in-windows-11-due-to-system-upgrades/"><u>Mastering Boot Failures in Windows 11 Due to System Upgrades</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/new-release-wonderfox-image-transformer-v11-from-videos-to-still-images/"><u>New Release: WonderFox Image Transformer v1.1 - From Videos to Still Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshoot-your-game-setup-on-origin/"><u>Resolving Issues: Troubleshoot Your Game Setup on Origin</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-upside-down-display-on-windows-10/"><u>Resolving Upside-Down Display on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-conversations-unleash-privacy-first-ai-chatting-powered-by-duckduckgo-and-enhanced-with-chatgpt-technology/"><u>Secure Your Conversations: Unleash Privacy-First AI Chatting Powered by DuckDuckGo & Enhanced with ChatGPT Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[New] In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-elite-annual-showcases-post-vidcon-for-2024/"><u>[Updated] YouTube's Elite Annual Showcases (Post-VidCon) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-accessory-for-vision-pro-at-just-199-a-surprisingly-snug-travel-case-exposed/"><u>Apple's Latest Accessory for Vision Pro at Just $199 - A Surprisingly Snug Travel Case Exposed .</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-causes-and-fixes-for-a-non-working-laptop-touchpad-a-comprehensive-guide/"><u>Common Causes and Fixes for a Non-Working Laptop Touchpad – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-performance-from-win10-32-bit-to-64-bit/"><u>Enhancing Performance: From Win10 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-steps-for-restoring-functionality-to-a-broken-shift-key/"><u>Essential Steps for Restoring Functionality to a Broken Shift Key</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-distorted-audio-output-from-youtube-on-a-windows-10-machine/"><u>How to Fix Distorted Audio Output From YouTube on a Windows 10 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-western-digital-ultra-portable-drive-detection-issues-on-windows-machines/"><u>How To Resolve Western Digital Ultra Portable Drive Detection Issues on Windows Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-s23plus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel S23+ Lock Screen Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-meme-mastery-iphone-edition/"><u>In 2024, Meme Mastery IPhone Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-high-network-traffic-caused-by-svchostexe-unraveling-netsvcs-and-techniques-for-swift-resolution/"><u>Managing High Network Traffic Caused by svchost.exe: Unraveling NETsvcs and Techniques for Swift Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximize-windows-11-tackle-wmi-provider-host-overheat/"><u>Maximize Windows 11: Tackle WMI Provider Host Overheat</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New 2024 Approved The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-display-issues-with-missing-touch-or-stylus-functionality/"><u>Overcoming Display Issues with Missing Touch or Stylus Functionality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/rhythm-discoveries-at-your-fingertips-free-online/"><u>Rhythm Discoveries at Your Fingertips (Free, Online)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-of-the-kootek-laptop-chiller-an-exceptional-reliable-selection/"><u>Top Review of the Kootek Laptop Chiller - An Exceptional, Reliable Selection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-solutions-to-world-of-warcraft-wow-crashing-glitches/"><u>Trouble-Free Solutions to World of Warcraft (WOW) Crashing Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-issues-resolving-windows-107-speaker-crackling-problems/"><u>Troubleshooting Audio Issues: Resolving Windows 10/7 Speaker Crackling Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-tell-if-netflix-is-offline-or-malfunctioning/"><u>Troubleshooting Tips: How to Tell If Netflix Is Offline or Malfunctioning</u></a></li>
 </ul></div>
 

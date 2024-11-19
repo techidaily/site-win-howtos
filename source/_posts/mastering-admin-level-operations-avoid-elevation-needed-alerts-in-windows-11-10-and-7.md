@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin-Level Operations: Avoid 'Elevation Needed' Alerts in Windows 11, 10 & 7"
-date: 2024-11-07T07:46:49.381Z
-updated: 2024-11-08T01:33:03.728Z
+date: 2024-11-15T22:55:22.810Z
+updated: 2024-11-18T22:05:44.002Z
 tags:
   - win11
   - win10
@@ -48,29 +48,16 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix didn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -89,19 +76,19 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
@@ -115,10 +102,10 @@ If this fix didn’t help, try the next fix.
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
@@ -128,6 +115,13 @@ If this fix didn’t help, try the next one.
 1. Press**Ctrl** , and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your problem persists, try the next fix.
 
@@ -140,10 +134,10 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -185,24 +179,17 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-tools-5-leading-ps2-emulator-apps/"><u>[New] In 2024, Essential Android Tools 5 Leading PS2 Emulator Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>[Updated] 2024 Approved Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-how-to-remove-image-background-in-photopea/"><u>[Updated] How to Remove Image Background In Photopea</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-windows-10-two-monitor-blankness/"><u>Addressing Windows 10 Two-Monitor Blankness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-innovation-on-bing-by-microsoft-discover-the-exciting-changes-coming-your-way/"><u>AI Innovation on Bing by Microsoft: Discover the Exciting Changes Coming Your Way</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-m34-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy M34 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-unresponsive-usb-connections-on-windows-11-systems/"><u>Diagnosing and Repairing Unresponsive USB Connections on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-windows-notorious-error-0x800704cf/"><u>Effective Strategies for Resolving Windows' Notorious Error 0X800704CF</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-mysterious-black-screen-issue-on-google-chrome-a-comprehensive-guide/"><u>Fixing the Mysterious Black Screen Issue on Google Chrome: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-system-crashes-on-launch-and-startup/"><u>How to Fix Windows 10 System Crashes on Launch and Startup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f04-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F04 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-unique-instagrams-with-flawless-image-borders/"><u>In 2024, Crafting Unique Instagrams with Flawless Image Borders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-missing-dynamic-libraries-for-opencl/"><u>Solving Missing Dynamic Libraries for OpenCL</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-nvidia-shares-arent-working/"><u>Troubleshooting Steps When Your Nvidia Shares Aren't Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tutorial-on-acquiring-trustee-rights-from-trustedinstaller-for-file-edits/"><u>Tutorial on Acquiring Trustee Rights From TrustedInstaller for File Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-power-to-revive-your-windows-10-taskbar-expert-tips-and-tricks/"><u>Unlock the Power to Revive Your Windows 10 Taskbar - Expert Tips & Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-blu-ray-drm-for-personal-use-without-violating-copyright-laws/"><u>Unlocking Blu-Ray DRM for Personal Use Without Violating Copyright Laws</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-video-communities-eclipsing-youtube-for-2024/"><u>[New] Cutting-Edge Video Communities Eclipsing Youtube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-tearing-issues-on-your-valorant-gameplay-screens/"><u>Comprehensive Guide: Resolving Tearing Issues on Your VALORANT Gameplay Screens</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-brother-hl-2280dw-printer-drivers-on-windows-11108-e-systems/"><u>Download and Install Brother HL-2280DW Printer Drivers on Windows 11/10/8 (E) Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-overcome-the-printer-driver-not-found-problem-on-windows-expert-advice/"><u>Easy Ways to Overcome the 'Printer Driver Not Found' Problem on Windows: Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-the-lack-of-audio-drivers-in-windows-1011-computers/"><u>How to Address the Lack of Audio Drivers in Windows 10/11 Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-9-proplus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 9 Pro+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-windows-11-from-restarting-repeatedly-easy-fixes/"><u>How To Stop Windows 11 From Restarting Repeatedly (Easy Fixes)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 15</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>Navigating the World of Filmmaking Best Cameras for Novices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-naga-driver-downloads-and-upgrades-complete-guide-for-windows-computers/"><u>Razer Naga Driver Downloads & Upgrades: Complete Guide for Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/systematic-approach-to-reducing-unnecessary-cpu-load-on-your-systems-idle-operations/"><u>Systematic Approach to Reducing Unnecessary CPU Load on Your System's Idle Operations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uncover-earths-wonders-with-these-top-10-vids-for-2024/"><u>Uncover Earth's Wonders with These Top 10 Vids for 2024</u></a></li>
 </ul></div>
 

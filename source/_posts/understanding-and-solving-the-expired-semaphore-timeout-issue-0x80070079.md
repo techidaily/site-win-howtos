@@ -1,7 +1,7 @@
 ---
 title: Understanding and Solving The Expired Semaphore Timeout Issue (0X80070079)
-date: 2024-09-11T15:35:19.227Z
-updated: 2024-09-12T15:35:19.227Z
+date: 2024-11-15T19:54:35.368Z
+updated: 2024-11-18T21:49:19.167Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ A lot Windows 10 users reported that system restore did not complete successfull
 
   
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -46,13 +39,6 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -60,13 +46,6 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
   
@@ -78,13 +57,6 @@ When prompted by User Account Control, click   **Yes.**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3)  
 
@@ -103,17 +75,18 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5)  
 
 When it finish rebooting, run System Restore again.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
 
 1)  
@@ -128,10 +101,16 @@ Then click **Update & security**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 b)  
@@ -140,11 +119,27 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-2.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2)  
 
 Type the following commands and hit **Enter**  to run them one by one:  
@@ -173,5 +168,18 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-zodiac-influence-in-your-digital-dossier-writing-compelling-biographies/"><u>[Updated] In 2024, Zodiac Influence in Your Digital Dossier Writing Compelling Biographies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-secrets-of-crafting-perfect-audio-for-videos-for-2024/"><u>[Updated] Unveiling the Secrets of Crafting Perfect Audio for Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-steams-failed-verification-of-games/"><u>Correcting Steam’s Failed Verification of Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210011861-expert-solutions-for-windows-users-with-unresponsive-usb-input-gear-mice-and-keyboards-made-functional-again/"><u>Expert Solutions for Windows ^Users with Unresponsive USB Input Gear – Mice and Keyboards Made Functional Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-continuous-restarting-in-windows-operating-systems/"><u>How to Break Free From Continuous Restarting in Windows Operating Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-create-a-signature-code-that-resonates-on-tiktok-for-2024/"><u>How to Create a Signature Code That Resonates on TikTok for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/iphones-pathway-through-virtual-video-landscapes-for-2024/"><u>IPhone's Pathway Through Virtual Video Landscapes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-vital-components-of-the-windows-update-system/"><u>Resolved Issues with Vital Components of the Windows Update System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-laptop-battery-woes-rapid-repair-techniques-for-non-charging-issues/"><u>Stop Laptop Battery Woes - Rapid Repair Techniques for Non-Charging Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-connecting-with-snapchats-help-center/"><u>Ultimate Tips for Connecting with Snapchat's Help Center</u></a></li>
+</ul></div>
 

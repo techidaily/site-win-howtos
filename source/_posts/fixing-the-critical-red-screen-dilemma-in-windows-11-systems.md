@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-11-05T22:33:28.805Z
-updated: 2024-11-08T02:34:11.449Z
+date: 2024-11-15T18:42:40.791Z
+updated: 2024-11-18T18:52:26.386Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
@@ -88,19 +81,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -115,19 +108,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -137,6 +130,13 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
@@ -148,10 +148,10 @@ Restart your computer to see if the error has gone.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
@@ -166,15 +166,15 @@ Restart your computer to see if the error has gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -200,22 +200,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-glow-up-the-best-three-highlight-ideas-for-2024/"><u>[New] Instagram Glow Up The Best Three Highlight Ideas for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-online-event-replay-collectors/"><u>[Updated] 2024 Approved Online Event Replay Collectors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-best-ps1-emulators-for-pc/"><u>[Updated] 5 Best PS1 Emulators for PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-instant-impact-or-rapid-rhythm-youtube-shorts-vs-tiktok-for-quick-content-for-2024/"><u>[Updated] Instant Impact or Rapid Rhythm YouTube Shorts Vs. TikTok for Quick Content for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>[Updated] Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/4-powerful-techniques-to-back-up-all-files-on-your-windows-10-system/"><u>4 Powerful Techniques to Back Up All Files on Your Windows 10 System</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgidll-anomaly-eliminated-for-smooth-pubg-play/"><u>Dxgi.dll Anomaly: Eliminated for Smooth PUBG Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/impairment-of-apoptosis/"><u>Impairment of Apoptosis</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v27e-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V27e Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-pc-connected-heres-how-you-fixed-it/"><u>Monster Hunter World PC Connected? Here’s How You Fixed It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-slow-shutdown-woes-in-windows-11-effective-strategies-inside/"><u>Overcome Slow Shutdown Woes in Windows 11 – Effective Strategies Inside</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-the-issue-when-steam-bootstrapper-fails-to-start/"><u>Solution Found: Fixing the Issue When Steam Bootstrapper Fails to Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-errors-how-to-successfully-reinstall-geforce-shadow-play/"><u>Solving Errors: How to Successfully Reinstall GeForce Shadow Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-start-menu-button-failures-in-windows-11-a-step-by-step-guide/"><u>Solving Windows Start Menu Button Failures in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-wacom-digitizer-unrecognized-driver-on-new-windows-11-pcs/"><u>Troubleshooting: Wacom Digitizer Unrecognized Driver on New Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-throwing-epic-intros-with-imovie/"><u>[Updated] 2024 Approved Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>[Updated] The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transform-your-instagram-experience-with-obs-livestreaming-techniques/"><u>[Updated] Transform Your Instagram Experience with OBS Livestreaming Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-best-sites-to-buy-mystery-boxes-for-2024/"><u>10 Best Sites to Buy Mystery Boxes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-visual-narratives-adding-memorable-story-emoji-images/"><u>2024 Approved Crafting Visual Narratives Adding Memorable Story Emoji Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-power-problems-in-sony-ps4-remotes/"><u>Diagnosing and Repairing Power Problems in Sony PS4 Remotes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-repair-internet-connections-using-ethernet-on-pcs-running-windows-11-or-7/"><u>Expert Tips to Repair Internet Connections Using Ethernet on PCs Running Windows 11 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-ethernet-functionality-in-windows-117-systems/"><u>Expert Tips to Restore Ethernet Functionality in Windows 11/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-dells-best-kept-secret-laptop-with-impressive-features-and-budget-friendly-pricing-gadgetsandbytes/"><u>Exploring Dell's Best-Kept Secret Laptop with Impressive Features and Budget-Friendly Pricing | Gadgets&Bytes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4s-dawn-of-universal-usage/"><u>GPT-4's Dawn of Universal Usage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guiding-audio-dimming-in-fl-studio-for-2024/"><u>Guiding Audio Dimming in FL Studio for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-enable-and-launch-a-hosted-network-on-your-pc-windows-10/"><u>How to Successfully Enable and Launch a Hosted Network on Your PC (Windows 10)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203956621-resolving-overwatch-voiceless-glitches-with-simple-steps/"><u>Resolving Overwatch Voiceless Glitches with Simple Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211952733-troubleshoot-and-successfully-install-battleye-anti-cheat-now/"><u>Troubleshoot and Successfully Install BattlEye Anti-Cheat Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-fixing-amazon-prime-video-streaming-issues/"><u>Troubleshooting Steps: Fixing Amazon Prime Video Streaming Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-cast-failures-easy-fixes-and-tips-for-users/"><u>Windows 11 Cast Failures: Easy Fixes and Tips for Users</u></a></li>
 </ul></div>
 

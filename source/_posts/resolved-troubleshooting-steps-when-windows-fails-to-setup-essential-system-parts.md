@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Windows Fails to Setup Essential System Parts"
-date: 2024-09-11T15:34:38.647Z
-updated: 2024-09-12T15:34:38.647Z
+date: 2024-11-17T21:05:34.348Z
+updated: 2024-11-19T01:32:41.379Z
 tags:
   - win11
   - win10
@@ -23,19 +23,6 @@ Windows 10 update or upgrade may be causing hardware like touch screen not worki
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 1: Restart your PC**
 
@@ -59,13 +46,6 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef247d6c4d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click**Yes** to confirm this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
@@ -86,35 +66,21 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef290945f3c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click**Driver** tab then click on**Roll Back Driver** . If you see button is grey out, it means that you can’t roll back the driver. Read on to try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef28c11007f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 4: Update the touch screen driver**
@@ -134,15 +100,29 @@ To turning the touch screen off and back on, follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 5: Reset Windows 10**
 
@@ -163,5 +143,26 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[New] Cultivate Creativity YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mobile-savvy-tailoring-youtube-video-thumbnails-with-phones/"><u>[New] In 2024, Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cheap-yet-good-quality-cameras-reviewed-here/"><u>[Updated] In 2024, Cheap Yet Good Quality Cameras Reviewed Here</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-maximizing-memory-retention-through-mac-based-audio-recordings/"><u>2024 Approved Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-smart-8-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Smart 8 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-value-alert-hisense-u8h-4k-oled-smart-tv-superior-viewing-experience-at-a-bargain-techspot/"><u>Amazing Value Alert: Hisense U8H 4K OLED Smart TV - Superior Viewing Experience at a Bargain! | TechSpot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-solving-windows-11-bluetooth-connection-issues/"><u>Best Practices: Solving Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-restoring-functionality-of-your-windows-pcs-bluetooth-mouse/"><u>Bluetooth Connectivity Issues: Restoring Functionality of Your Windows PC's Bluetooth Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-clear-window-on-fixing-update-failure-0x80240034-in-windows-11/"><u>Bypassing the Blockade: Clear Window on Fixing Update Failure 0X80240034 in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-most-advanced-running-watches-for-runners/"><u>Discover The Most Advanced Running Watches for Runners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-google-chromes-critical-error-scam-a-step-by-step-guide/"><u>Eliminate Google Chrome's Critical Error Scam: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fix-your-fb-account-post-hack-recovery-guide-for-2024/"><u>Fix Your FB Account Post-Hack Recovery Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-action-plan-addressing-the-latency-in-error-1053-service-starts/"><u>Immediate Action Plan: Addressing the Latency in Error 1053 Service Starts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators/"><u>New In 2024, From Snapshots to Masterpieces Best Online Photo and Video Collage Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-expertise-with-proton-vpn-plugin-for-browsers/"><u>Privacy Expertise with Proton VPN Plugin for Browsers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-store-cache-issues-a-comprehensive-fix-guide/"><u>Resolving Windows Store Cache Issues - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-recognizing-your-ignored-usb-stick/"><u>Troubleshooting Made Simple: Recognizing Your Ignored USB Stick</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-geforce-experience-cant-update-configurations/"><u>Troubleshooting Steps When 'GeForce Experience' Can't Update Configurations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unresponsive-mousepad-woes-get-back-online-with-these-fixes-on-your-laptop-windows-10-8-and-7/"><u>Unresponsive Mousepad Woes? Get Back Online with These Fixes on Your Laptop (Windows 10, 8 & 7)</u></a></li>
+</ul></div>
 

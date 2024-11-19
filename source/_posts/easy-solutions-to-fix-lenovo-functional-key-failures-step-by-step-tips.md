@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-11-06T06:30:22.040Z
-updated: 2024-11-07T16:55:40.912Z
+date: 2024-11-15T19:41:56.171Z
+updated: 2024-11-18T19:35:51.684Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -65,23 +58,16 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -100,19 +86,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -131,6 +124,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -164,18 +164,18 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-integrating-subtitles-into-your-vimeo-projects-for-2024/"><u>[Updated] Integrating Subtitles Into Your Vimeo Projects for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-comprehensive-visuals-what-sets-360-apart/"><u>2024 Approved Comprehensive Visuals What Sets 360° Apart?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-streaming-devices-apple-tv-4k-versus-roku-ultra/"><u>Comparing Streaming Devices: Apple TV 4K Versus Roku Ultra</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-hamachi-service-stopped-working-issue/"><u>Effective Fixes for 'Hamachi Service Stopped Working' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-wd-my-passport-ultra-not-showing-up-on-your-windows-device/"><u>Effective Fixes for WD My Passport Ultra Not Showing Up on Your Windows Device</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-file-examination-in-win1011-with-new-tool-integration/"><u>Elevate File Examination in Win10/11 with New Tool Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-fixed-unable-to-write-data-to-0x-referenced-location-in-memory/"><u>Error Fixed: Unable to Write Data to 0X Referenced Location in Memory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-abortion-2-stuck-on-startup-solutions-to-get-you-playing-again/"><u>Red Dead Redemption Abortion 2 Stuck on Startup? Solutions to Get You Playing Again</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/six-secrets-to-masterful-mov-saving-in-windows-11/"><u>Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-blue-tick-the-path-to-authenticating-your-identity-on-the-renamed-social-platform/"><u>Unlocking the Blue Tick: The Path to Authenticating Your Identity on the Renamed Social Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-most-advanced-video-grabbers-for-windows-enthusiasts/"><u>2024 Approved The Most Advanced Video Grabbers for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g84-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G84 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-commanding-in-hearts-of-iron-4-effective-techniques-for-solving-game-malfunctions/"><u>Crash-Free Commanding in Hearts of Iron 4: Effective Techniques for Solving Game Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-dota-2-error-2024-a-step-by-step-guide-on-changing-rendering-api/"><u>Fixing the Dota 2 Error 2024: A Step-by-Step Guide on Changing Rendering API</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-day-jobs-and-digital-passion-striking-a-balance/"><u>In 2024, Day Jobs & Digital Passion Striking a Balance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-pova-5-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Pova 5 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-troubleshooting-and-solving-graphic-card-problems-for-fortnite-windows-players/"><u>Masterclass: Troubleshooting and Solving Graphic Card Problems for Fortnite Windows Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-stuck-at-windows-setup-problem-for-smooth-operating-system-install/"><u>Overcome the 'Stuck at Windows Setup' Problem for Smooth Operating System Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-error-code-0x80072efd-effective-strategies-and-fixes/"><u>Overcoming Windows 11 Error Code 0X80072EFD: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-integrity-of-system-files-on-windows-11/"><u>Step-by-Step Tutorial: Restoring Integrity of System Files on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-invisible-bluetooth-connections-in-windows/"><u>Winning Against Invisible Bluetooth Connections in Windows #</u></a></li>
 </ul></div>
 

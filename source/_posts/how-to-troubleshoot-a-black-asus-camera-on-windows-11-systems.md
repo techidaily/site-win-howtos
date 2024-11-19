@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot a Black ASUS Camera on Windows 11 Systems
-date: 2024-11-03T20:40:01.245Z
-updated: 2024-11-07T23:38:14.233Z
+date: 2024-11-16T01:56:08.021Z
+updated: 2024-11-18T18:17:35.099Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 4. **[Update your battery driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your battery
 
  In many cases, a poor connection between the battery and motherboard is the root cause of this issue. To see if that’s the problem for you, you need to reinstall your battery. Here is how to do it:
@@ -60,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your battery in Device Manager
@@ -83,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
  If you see a**down arrow** next to your battery, that means your battery is disabled. You need to right-click your battery and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
@@ -106,23 +106,9 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -137,15 +123,28 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
@@ -167,13 +166,26 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
@@ -190,16 +202,16 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -231,22 +243,18 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-captivating-audiences-in-real-time-broadcasting/"><u>[New] Secrets to Captivating Audiences in Real-Time Broadcasting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-buy-list-selecting-the-premier-video-cards-for-youtube-for-2024/"><u>[Updated] Best Buy List Selecting the Premier Video Cards for YouTube for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>[Updated] Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-a-course-to-popularity-the-fundamentals-of-channel-featuring-on-youtube/"><u>Chart a Course to Popularity The Fundamentals of Channel Featuring on Youtube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-the-shark-ion-robovac-av751-excellent-dust-suction-vs-misplaced-pathfinding-issues-gadgetpundit/"><u>Expert Analysis on the Shark ION RoboVac AV751: Excellent Dust Suction Vs. Misplaced Pathfinding Issues | GadgetPundit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-corsair-keyboard-solutions-and-tips/"><u>Fixing a Non-Functional Corsair Keyboard: Solutions & Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unavailable-device-issue-a-step-by-step-strategy/"><u>Fixing the ‘Unavailable Device’ Issue: A Step-by-Step Strategy</u></a></li>
-<li><a href="https://os-tips.techidaily.com/generate-unique-iphone-alert-sounds-at-no-cost-using-easy-to-use-m4r-converter/"><u>Generate Unique iPhone Alert Sounds at No Cost Using Easy-to-Use M4R Converter</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c110-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C110</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-0xc00n000007b-detailed-solutions-to-start-applications-without-errors/"><u>Overcoming 0xC00n000007b: Detailed Solutions to Start Applications Without Errors</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/seamless-document-management-and-recognition-by-merging-microsoft-sharepoint-with-abbyys-optical-character-recognition-expertise/"><u>Seamless Document Management and Recognition by Merging Microsoft SharePoint with ABBYY's Optical Character Recognition Expertise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-fixes-for-the-windows-10-v1803-feature-update-error-resolved/"><u>Successful Fixes for the Windows 10 v1803 Feature Update Error Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-free-solution-for-unresponsive-buttons-on-hp-laptops/"><u>Trouble-Free Solution for Unresponsive Buttons on HP Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-port-reset-failures-with-usb-devices-on-windows-10-systems/"><u>Troubleshooting Port Reset Failures with USB Devices on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-sounds-too-loud-solutions-inside/"><u>Troubleshooting Your PS4 Sounds Too Loud - Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-minecraft-opengl-error-correction/"><u>Ultimate Troubleshooting Tips for Minecraft OpenGL Error Correction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-uninstalling-video-libraries-from-youtube/"><u>[New] 2024 Approved Uninstalling Video Libraries From YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-mismatch-unable-to-load-printer-driver/"><u>[OS MISMATCH] Unable to Load Printer Driver</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>2024 Approved The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-the-livekernelevent-error-144-tips-to-get-your-system-running-smoothly-again/"><u>Demystifying the LiveKernelEvent Error 144 – Tips to Get Your System Running Smoothly Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-mysterious-source-error-code-31-on-your-pc/"><u>Effective Fixes for the Mysterious Source Error (Code 31) on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-keyboards-with-sticky-keys-dilemma/"><u>How to Resolve Windows Keyboards with Sticky Keys Dilemma</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-peak-zoom-resolution-effective-techniques/"><u>In 2024, Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-best-background-erase-software/"><u>In 2024, Top Best Background Erase Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learn-the-art-of-engaging-video-startups-with-imovie-for-2024/"><u>Learn the Art of Engaging Video Startups with iMovie for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-errors-all-cleared-on-discord/"><u>Mic Errors: All Cleared on Discord</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-noise-issues-in-pc-speakers-running-windows-117/"><u>Solution for Noise Issues in PC Speakers Running Windows 11/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-reconnect-your-media-on-a-windows-pc/"><u>Troubleshooting Steps to Reconnect Your Media on a Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xsplit-source-centralized-game-downloads-and-insights/"><u>XSplit Source Centralized Game Downloads & Insights</u></a></li>
 </ul></div>
 

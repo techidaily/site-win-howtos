@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-11-01T19:55:48.821Z
-updated: 2024-11-07T21:02:11.802Z
+date: 2024-11-16T20:38:05.124Z
+updated: 2024-11-18T19:33:00.027Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -83,6 +83,13 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
@@ -100,10 +107,10 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -115,10 +122,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
@@ -126,10 +133,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
@@ -139,13 +146,6 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,20 +171,19 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ounteract-bot-visitors-for-real-audience-growth-for-2024/"><u>[New] Counteract Bot Visitors for Real Audience Growth for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-structuring-videos-for-maximum-impact-on-youtube/"><u>[New] Structuring Videos for Maximum Impact on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[Updated] Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-economical-microphones-catered-to-vloggers/"><u>[Updated] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-fresh-off-the-press-film-review-and-complementary-options/"><u>2024 Approved Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-camera-malfunctions-on-hp-devices-with-windows-11/"><u>Guide to Fixing Camera Malfunctions on HP Devices with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-corrupt-system-files-on-windows-10-and-11-with-ease/"><u>How to Recover Corrupt System Files on Windows 10 & 11 with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-steams-missing-file-issue-a-comprehensive-guide-solved/"><u>Overcoming Steam's Missing File Issue - A Comprehensive Guide [SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-high-volume-sounds-a-guide-for-windows-11-users-with-low-audio-output/"><u>Restoring High-Volume Sounds: A Guide for Windows 11 Users with Low Audio Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-usb-failures-unraveling-the-descriptor-request-failed-issue/"><u>Solving the Mystery of USB Failures: Unraveling the 'Descriptor Request Failed' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-a-guide-for-resolving-photo-display-issues-in-windows-n/"><u>Troubleshooting Invalid Registry Values: A Guide for Resolving Photo Display Issues in Windows N</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/3gp3g2-movavi/"><u>オンラインで変換フリー: 3GPを3G2に変更する方法 - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[New] The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-beyond-boundaries-top-10-titles-without-gta-roots/"><u>2024 Approved Beyond Boundaries Top 10 Titles Without GTA Roots</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-utiliser-loutil-sfc-scannow-pour-restaurer-les-fichiers-systemes-de-windows-1011/"><u>Comment Utiliser L'Outil 'SFC /SCANNOW' Pour Restaurer Les Fichiers Systèmes De Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descarga-gratuita-y-conversion-de-archivos-transforma-tu-amv-en-un-video-mpeg-con-el-servicio-online-de-movavi/"><u>Descarga Gratuita Y Conversión De Archivos: Transforma Tu AMV en Un Video MPEG Con El Servicio Online De Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/desktop-vs-website-why-the-chatgpt-app-delivers-a-better-user-experience/"><u>Desktop Vs. Website: Why the ChatGPT App Delivers a Better User Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-the-problem-of-keyboards-where-backspace-fails-to-work/"><u>Expert Tips: Overcoming the Problem of Keyboards Where Backspace Fails to Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-driver-in-windows-7/"><u>Fixing the Unresponsive Sound Driver in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-adjustment-features-in-your-windows-10-pc/"><u>How to Restore Brightness Adjustment Features in Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-storytelling-free-soundtrack-options-available/"><u>In 2024, Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-magix-pixel-mastery-review/"><u>In 2024, Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-with-manycam-professional-virtual-webcam-and-live-streaming-app/"><u>Real-Time Broadcasting with ManyCam: Professional Virtual Webcam and Live Streaming App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-full-touchpad-support-and-scrolling-in-windows-11-systems/"><u>Restoring Full Touchpad Support and Scrolling in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x8024401c-on-windows-10-and-windows-11-systems/"><u>Troubleshooting Update Error 0X8024401c on Windows 10 and Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unclogging-the-puzzle-a-user-manual-for-repairing-webcam-problems-in-windows/"><u>Unclogging the Puzzle: A User Manual for Repairing Webcam Problems in Windows</u></a></li>
 </ul></div>
 

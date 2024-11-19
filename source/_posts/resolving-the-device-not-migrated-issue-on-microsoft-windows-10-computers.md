@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers
-date: 2024-11-07T05:08:31.636Z
-updated: 2024-11-07T21:44:43.643Z
+date: 2024-11-13T01:56:21.746Z
+updated: 2024-11-19T00:25:43.571Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off Microsoft Print to PDF feature and turn it on again
 
  1) Type **windows feature**  in the search box from the Start menu, select the**Settings** tab. Then click **Turn Windows features on or off**  from the top result.
@@ -59,16 +66,16 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the file name of PDF you want to save contain commas, the file would be created with 0 bytes and you cannot find it at saving folder. As a result, it seems your Microsoft Print to PDF not working. In such case, please avoid use comma or any other specific notations in the file name.
   
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Set Microsoft Print to PDF as default printer
 
@@ -94,19 +101,33 @@ Now your print to PDF should work properly.
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure you set**Category** as your view-by. Then find**View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Find**Microsoft Print to PDF** and click on it.
 
@@ -117,6 +138,13 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Solution 4: Remove Microsoft Print to PDF and reinstall its driver**
 
@@ -159,23 +187,9 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  11) You have restored the Microsoft Print to PDF. Click **Finish**  to complete the process.
  You can use it properly now.
@@ -185,13 +199,6 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box. Type **control panel**  and hit Enter.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
@@ -205,38 +212,31 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click on the button**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Add-a-device-1200x774.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Click**Add manually** next to The printer that I want isn’t listed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-The-printer-that-I-want-isnt-listed-1200x743.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
@@ -273,18 +273,24 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-the-obs-nightmare-strategies-to-fix-black-screen-glitches-for-gamers/"><u>End the OBS Nightmare: Strategies to Fix Black Screen Glitches for Gamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-digital-safety-navigating-through-7-trends/"><u>Evolving Digital Safety: Navigating Through 7 Trends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204013858-gameplay-glitches-be-gone-now-easily/"><u>Gameplay Glitches Be Gone, Now Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-on-your-steam-library-a-step-by-step-guide/"><u>How to Restore Audio on Your Steam Library: A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 15 Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-tailoring-humor-personalize-with-kinemaster/"><u>In 2024, Tailoring Humor Personalize with KineMaster</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-11-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revive-your-zoom-presentations-solutions-to-common-screen-share-issues/"><u>Revive Your Zoom Presentations: Solutions to Common Screen Share Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-download-timeouts-on-any-device/"><u>Troubleshooting Tips for Fixing Download Timeouts on Any Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-the-update-didnt-work-in-warframe-problem/"><u>Understanding and Correcting the 'Update Didn't Work in Warframe' Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winapi-dll-deficit-cruntimel1-1-0/"><u>WinAPI DLL Deficit: CRuntimeL1-1-0</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silence-is-golden-not-for-forza-horizon-4-eliminating-the-soundless-gameplay-gap/"><u>'Silence Is Golden'? Not for 'Forza Horizon 4': Eliminating the Soundless Gameplay Gap</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/haring-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[New] Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-f54-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy F54 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/best-tools-for-sub-to-srt-transition-rated-8-through-17-for-2024/"><u>Best Tools for Sub to SRT Transition, Rated #8 Through #17 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevating-instagram-presence-through-bigger-video-content-for-2024/"><u>Elevating Instagram Presence Through Bigger Video Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-damaged-cache-problem-on-windows-platforms-a-step-by-nstep-solution/"><u>Fixing the Damaged Cache Problem on Windows Platforms - A Step-by-nStep Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-copy-and-paste-functionality-in-windows-11/"><u>Fixing the Issue: How to Restore 'Copy & Paste' Functionality in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-mute-mystery-reactivating-speakers-on-an-acer-notebook/"><u>Fixing the Mute Mystery: Reactivating Speakers on An Acer Notebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-11-pro-max-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 11 Pro Max Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-0xc0000005-error-in-windows/"><u>How to Fix 0Xc0000005 Error in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-extraction-techniques-for-windows-11-videos/"><u>In 2024, Photo Extraction Techniques for Windows 11 Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/issue-resolution-electric-spike-detected-in-access-point/"><u>Issue Resolution: Electric Spike Detected in Access Point</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-overwatch-when-your-voice-chat-isnt-functioning/"><u>Quick Fixes for Overwatch: When Your Voice Chat Isn't Functioning</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347165719-restore-order-in-your-keyboard-chaos-with-these-9-fixes-for-broken-windows-shortcuts-and-combinations/"><u>Restore Order in Your Keyboard Chaos with These 9 Fixes for Broken Windows Shortcuts and Combinations.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-90-gt-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor 90 GT? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcame-unable-to-write-into-memory-at-0x-address/"><u>Successfully Overcame: Unable To Write Into Memory at 0X Address</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unparalleled-audio-experience-premiere-wired-headphones-of-2024/"><u>Unparalleled Audio Experience: Premiere Wired Headphones of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205984585-usb-ports-failure-in-windows-1011-heres-how-to-fix-them/"><u>USB Ports Failure in Windows 10/11? Here's How to Fix Them</u></a></li>
 </ul></div>
 

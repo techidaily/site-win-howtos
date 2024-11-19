@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2024-11-04T22:35:15.881Z
-updated: 2024-11-07T18:52:51.275Z
+date: 2024-11-13T19:32:25.768Z
+updated: 2024-11-19T00:15:49.853Z
 tags:
   - win11
   - win10
@@ -59,23 +59,16 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -84,16 +77,29 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -106,10 +112,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -129,24 +135,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-the-current-input-timing-is-not-supported-by-the-monitor-display/"><u>[FIXED] The Current Input Timing Is Not Supported by the Monitor Display</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-choosing-a-screen-for-superior-4k-video/"><u>[New] The Ultimate Guide to Choosing a Screen for Superior 4K Video</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-social-media-landscape-facebook-daily-use/"><u>[Updated] In 2024, Navigating Social Media Landscape Facebook Daily Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205219557-aoc-screen-issues-on-windows-10-heres-your-step-by-step-solution/"><u>AOC Screen Issues on Windows 10? Here's Your Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-a-non-responsive-backspace-button-on-computers/"><u>Diagnosing and Repairing a Non-Responsive Backspace Button on Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-font-clarity-on-windows-11-a-step-by-step-solution-guide/"><u>Enhancing Font Clarity on Windows 11 - A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-reviews-on-samsungs-latest-premium-tab-s7plus-an-android-marvel/"><u>Expert Reviews on Samsung's Latest Premium Tab S7+ - An Android Marvel</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hours-of-gaming-made-easy-the-ultimate-mavix-m9-gaming-chair-assessment/"><u>Hours of Gaming Made Easy: The Ultimate Mavix M9 Gaming Chair Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-during-system-recovery-message-in-windows-nt-repairing-your-pc-successfully-step-by-step-tutorial/"><u>How to Fix 'Error During System Recovery' Message in Windows nT-Repairing Your PC Successfully [Step-by-Step Tutorial]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-1000-across-various-windows-versions-including-7-8-and-10/"><u>How to Fix Error Code 1000 Across Various Windows Versions Including 7, 8 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steamapi64dll-missing-error/"><u>How to Fix Steam_api64.dll Missing Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Itel P55 5G Phone Without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 12 5G Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-mini-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 mini Lock Screen with Notifications?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-spark-10-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Spark 10 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-channel-branding-to-skyrocket-subscriber-numbers-for-2024/"><u>Optimizing Channel Branding to Skyrocket Subscriber Numbers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-your-pcs-camera-problem-error-0xa00f4292-on-windows/"><u>Step-by-Step Fix for Your PC's Camera Problem - Error 0xA00f4292 on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-amusement-master-memes-with-kapwing/"><u>The Art of Amusement – Master Memes with Kapwing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-secrets-detecting-second-monitor/"><u>Unveiling Secrets: Detecting Second Monitor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscover-the-secrets-to-youtubes-rankings-with-keywords/"><u>[New] Discover the Secrets to YouTube's Rankings with Keywords</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting-for-2024/"><u>[New] The Quick Content Crusade YouTube's Shortform Versus TikTok’s Trendsetting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/key-not-responding-here-are-proven-ways-to-restore-its-functionality/"><u>@ Key Not Responding? Here Are Proven Ways to Restore Its Functionality!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-6-mac-screen-capture-tools-expert-picks/"><u>2024 Approved Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unwanted-automatic-restart-cycles-when-powering-off-windows-11-devices/"><u>Dealing With Unwanted Automatic Restart Cycles When Powering Off Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/errtoomanyredirects-clear-it-up-in-minutes-with-these-tips/"><u>ERR_TOO_MANY_REDIRECTS? Clear It Up in Minutes with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-webcam-back-on-track-a-guide-for-hp-laptops-on-windows-10/"><u>Getting Your Webcam Back on Track: A Guide for HP Laptops on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-lenovo-mouse-pad-problems-in-various-windows-systems/"><u>How to Resolve Lenovo Mouse Pad Problems in Various Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mobile-studio-kits-convenient-for-filmmakers/"><u>Mobile Studio Kits Convenient for Filmmakers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premier-webinar-creation-kit-for-2024/"><u>Premier Webinar Creation Kit for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-twitch-issue-a-step-by-step-guide-on-how-to-correctly-address-error-code-4000/"><u>Resolving the Twitch Issue: A Step-by-Step Guide on How to Correctly Address Error Code 4000</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-troublesome-red-screen-in-windows-10/"><u>Step-by-Step Guide: Repairing the Troublesome Red Screen in Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-power-of-5g-in-your-pocket-motorola-one-5g-aces-swift-connectivity-and-stellar-battery-life-reviewed/"><u>The Power of 5G in Your Pocket: Motorola One 5G ACE's Swift Connectivity & Stellar Battery Life Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205491215-troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-top-15-no-cost-audio-archives-for-content-makers-for-2024/"><u>Unveiling the Top 15 No-Cost Audio Archives for Content Makers for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/use-their-automatic-detection-tool-to-find-the-correct-drivers-for-your-geforce-rtx-1080-graphics-card-and-windows-11-operating-system-or-search-directly-us108/"><u>Use Their Automatic Detection Tool to Find the Correct Drivers for Your GeForce RTX 1080 Graphics Card and Windows 11 Operating System or Search Directly Using Those Criteria</u></a></li>
 </ul></div>
 

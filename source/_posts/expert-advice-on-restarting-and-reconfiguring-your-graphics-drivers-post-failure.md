@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Restarting and Reconfiguring Your Graphics Drivers Post-Failure
-date: 2024-09-17T00:29:37.847Z
-updated: 2024-09-17T21:55:27.983Z
+date: 2024-11-13T01:08:46.111Z
+updated: 2024-11-18T22:33:07.723Z
 tags:
   - win11
   - win10
@@ -37,7 +37,23 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 1. On your keyboard, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Yes** if asked for confirmation. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart you computer and see if**Miracast** works properly on your computer.
 
 ---
@@ -47,6 +63,13 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 It’s also possible that the device you’re streaming content to doesn’t support Miracast. But don’t worry – if that’s the case, you need to do to enable Miracast is to plug in a Miracast adapter, such as a[Microsoft Wireless Display adapter](https://www.amazon.com/Microsoft-Wireless-Display-Adapter-P3Q-00001/dp/B01AZC3J3M/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1542013017&sr=1-1-spons&keywords=Microsoft+Wireless+Display+Adapter&psc=1&tag=drivereasycom-20), into an HDMI port on your display device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
 
@@ -61,17 +84,10 @@ This error may also occur when you have a corrupt/outdated **Miracast adapter** 
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43066ed2b95.jpg) You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
@@ -96,5 +112,24 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prioritizing-elements-what-to-consider-with-a-new-4k-camera-lens/"><u>[New] 2024 Approved Prioritizing Elements What to Consider with a New 4K Camera Lens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[Updated] 2024 Approved Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-master-techniques-for-live-sport-broadcast-recording/"><u>2024 Approved Master Techniques for Live Sport Broadcast Recording</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-lock-screen-apps-for-windows-8-top-picks-and-feature-comparisons/"><u>Best Lock Screen Apps for Windows 8: Top Picks and Feature Comparisons</u></a></li>
+<li><a href="https://win-latest.techidaily.com/complete-guide-preserve-your-progress-tips-and-tricks-for-safely-archiving-the-sims-4-gameplay-across-platforms/"><u>Complete Guide: Preserve Your Progress - Tips and Tricks for Safely Archiving The Sims 4 Gameplay Across Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-recover-d3dcompiler47dll-error-on-your-system/"><u>Comprehensive Solution: Recover D3DCOMPILER_47.dll Error on Your System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-own-personalized-chatgpt-a-step-by-step-guide/"><u>Crafting Your Own Personalized ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-bypassing-destiny-2s-stuck-loading-screen-problem/"><u>Expert Tips for Bypassing Destiny 2'S Stuck Loading Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-0x80240034-glitch-a-complete-guide/"><u>Fixing the Windows 11 Update 0X80240034 Glitch: A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g-stylus-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G Stylus (2023) Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-150-2023-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Nokia 150 (2023).</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keys-disobey-command/"><u>Keys Disobey Command</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-control-on-1011-windows-os/"><u>Reinstating Synapse Control on 10/11 Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revamping-fps-in-minecraft-steps-to-eliminate-lag-and-enjoy-smooth-play/"><u>Revamping FPS in Minecraft: Steps to Eliminate Lag and Enjoy Smooth Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-download-0-bytes-8-best-fixes/"><u>Steam Download 0 Bytes | 8 Best Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-corrected-youtube-volume-problems-in-windows-10/"><u>Troubleshooting the Corrected YouTube Volume Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206965730-windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!</u></a></li>
+</ul></div>
 

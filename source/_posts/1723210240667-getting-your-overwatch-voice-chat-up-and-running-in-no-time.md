@@ -1,7 +1,7 @@
 ---
 title: Getting Your Overwatch Voice Chat Up and Running in No Time!
-date: 2024-11-02T19:32:56.038Z
-updated: 2024-11-08T03:47:37.083Z
+date: 2024-11-11T16:02:32.051Z
+updated: 2024-11-18T19:54:37.812Z
 tags:
   - win11
   - win10
@@ -48,24 +48,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -78,24 +64,24 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
@@ -103,16 +89,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -124,8 +111,22 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
@@ -166,15 +167,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-anonymization-techniques-to-blur-faces/"><u>2024 Approved Advanced Anonymization Techniques to Blur Faces</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>2024 Approved The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-look-into-magix-graphic-designer-for-2024/"><u>A Look Into MAGIX Graphic Designer for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/address-freezing-in-valorant-reboot-strategy/"><u>Address Freezing in Valorant: Reboot Strategy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-zoom-crash-code-1132-on-windows-devices/"><u>Eliminating Zoom Crash Code 1132 on Windows Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-107-resolved/"><u>How to Fix Speaker Distortion on Windows 10/7 - Resolved</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/prime-traffic-magnet-design-for-2024/"><u>Prime Traffic Magnet Design for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210850005-9781446358382-the-coming-of-the-fairies/"><u>The Coming of the Fairies | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-dragging-shutdown-experience-on-windows-10-machines/"><u>Troubleshooting a Dragging Shutdown Experience on Windows 10 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-get-print-driver-host-has-stopped-working-message-away-32bit/"><u>Troubleshooting Tips: How to Get 'Print Driver Host Has Stopped Working' Message Away (32Bit)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-expertise-guide-for-effective-text-overlays-on-images/"><u>[New] In 2024, Expertise Guide for Effective Text Overlays on Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices/"><u>[New] In 2024, Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-shoppers-list-select-box-personalization-sites/"><u>2024 Approved Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcome-livekernelevent-error-code-117/"><u>Comprehensive Guide: Overcome LiveKernelEvent Error Code 117</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-syncing-youtube-melodies-and-movies-to-your-ipod/"><u>Effortless Guide: Syncing YouTube Melodies & Movies to Your iPod</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-future-of-interactive-headsets-for-2024/"><u>Exploring the Future of Interactive Headsets for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-problem-uncontrollable-repeated-mouse-clicks/"><u>Fixed Problem: Uncontrollable Repeated Mouse Clicks</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rapid-resolution-of-logilda-dependency/"><u>Rapid Resolution of LogiLDA Dependency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-tricks-for-improving-delayed-keyboard-reaction-times/"><u>Simple Tricks for Improving Delayed Keyboard Reaction Times</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-energetic-fluctuations-at-connection-node/"><u>Solution Implemented for Energetic Fluctuations at Connection Node</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-to-transferring-selected-data-from-pc-to-iphone/"><u>Step-by-Step Guide to Transferring Selected Data From PC to iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-iphones-for-gamers-find-your-ideal-device/"><u>Top Rated iPhones for Gamers: Find Your Ideal Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208388076-troubleshooting-made-easy-fix-windows-error-code-0xc0000098-in-minutes/"><u>Troubleshooting Made Easy: Fix Windows Error Code 0xC0000098 in Minutes</u></a></li>
 </ul></div>
 

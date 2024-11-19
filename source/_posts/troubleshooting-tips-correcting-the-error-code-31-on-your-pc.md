@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Correcting the Error Code 31 on Your PC"
-date: 2024-09-13T01:48:35.004Z
-updated: 2024-09-17T18:47:29.371Z
+date: 2024-11-13T21:57:22.044Z
+updated: 2024-11-18T23:17:37.560Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
@@ -72,21 +72,7 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -99,21 +85,28 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -124,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -142,6 +142,13 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -152,10 +159,10 @@ If this method didn’t work for you, check out the last fix.
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -177,5 +184,24 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-evaluating-on-demand-media-podcast-or-youtube/"><u>[New] 2024 Approved Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-opening-doors-to-collective-listening-on-youtube/"><u>[New] Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-stars-brief-moment-analysis/"><u>[New] Star's Brief Moment Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-4k-televisions-the-ultimate-showdown/"><u>[Updated] In 2024, Elite 4K Televisions – The Ultimate Showdown</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-can-instant-subscription-lead-to-higher-watch-time/"><u>2024 Approved Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevate-presentations-with-melodic-additions/"><u>2024 Approved Elevate Presentations with Melodic Additions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-the-msdia80dll-component-in-windows/"><u>Comprehensive Guide to the MSDIA80.DLL Component in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-get-your-lenovo-function-keys-up-and-running-again/"><u>Effortless Ways to Get Your Lenovo Function Keys Up and Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-file-not-found-errors-steam-restoration-guide/"><u>Fixing 'File Not Found' Errors: Steam Restoration Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-reno-9a-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Reno 9A FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ricoh-theta-s-uncovered-a-complete-audit/"><u>In 2024, Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ai-development-sparks-progress-in-autonomous-vehicle-technology-insights-from-zdnet/"><u>Innovative AI Development Sparks Progress in Autonomous Vehicle Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-directx-device-creation-issues-step-by-step-guide/"><u>Resolving DirectX Device Creation Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-smooth-transmission-with-epson-scan/"><u>Restoring Smooth Transmission with Epson Scan</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-the-fn-key-malfunction-on-dell-computers/"><u>Troubleshooting Tips: Resolving the Fn Key Malfunction on Dell Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 10 Update Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202727503-us-caribbean/"><u>U.S. Caribbean:</u></a></li>
+</ul></div>
 

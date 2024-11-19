@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2024-11-03T08:08:35.358Z
-updated: 2024-11-08T06:42:18.205Z
+date: 2024-11-13T23:10:38.346Z
+updated: 2024-11-19T00:19:16.947Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Windows Update Troubleshooter
@@ -52,19 +52,25 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -87,6 +93,13 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
@@ -106,6 +119,13 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -116,37 +136,11 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -166,10 +160,10 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
@@ -177,10 +171,10 @@ sfc /scannow
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
@@ -205,18 +199,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-your-graphics-card-does-not-support-directx-11-features/"><u>[Fixed] Your Graphics Card Does Not Support DirectX 11 Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[Updated] Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audio-docking-systems-for-immersive-experience/"><u>Audio Docking Systems for Immersive Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-you-cant-connect-to-destiny-2-servers/"><u>Essential Fixes for When You Can't Connect to Destiny 2 Servers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-correcting-the-code-28-error-on-your-pc/"><u>Expert Tips for Correcting the Code 28 Error on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-11-systems/"><u>How to Resolve Microsoft's Print to PDF Problem in Windows 11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-note-12-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi Note 12 4G to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-error-code-0x8024002e-on-your-windows-system-video/"><u>Quick Fixes for Error Code 0X8024002E on Your Windows System [VIDEO]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-overcoming-the-problem-resetting-your-pc-hurdle-on-windows-11/"><u>Troubleshooting Tips: Successfully Overcoming the 'Problem Resetting Your PC' Hurdle on Windows 11</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-top-solutions-for-effective-network-attached-storage-nas-and-data-backup/"><u>Ultimate Guide: Top Solutions for Effective Network Attached Storage (NAS) and Data Backup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vid-confessions-a-key-to-brand-success/"><u>Vid Confessions A Key to Brand Success?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-stability-restored-tackling-and-correcting-the-unexpected-termination-error-1067/"><u>Windows Stability Restored: Tackling and Correcting the Unexpected Termination (Error #1067)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-five-key-approaches-to-youtube-livestream-capture/"><u>[New] 2024 Approved Five Key Approaches to Youtube Livestream Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-analyzing-youtube-shorts-economic-impact-for-2024/"><u>[New] Analyzing YouTube Shorts Economic Impact for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-permanent-mouse-shutdown-mystery/"><u>[Resolved] Permanent Mouse Shutdown Mystery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-critical-issue-no-41-resolved/"><u>[Windows] Critical Issue No. 41 Resolved</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sourav-joshis-roadmap-to-financial-freedom-via-youtube/"><u>2024 Approved Sourav Joshi's Roadmap to Financial Freedom via YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breaking-free-from-windows-1-solutions-for-incessant-re-starting-issues/"><u>Breaking Free From Windows 1지원택: Solutions for Incessant Re-Starting Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-completed-what-to-do-when-your-device-refuses-to-start/"><u>Expert Guide Completed: What to Do When Your Device Refuses to Start</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-overflow-to-organization-editing-giant-tiktok-files-with-precision-for-2024/"><u>From Overflow to Organization Editing Giant TikTok Files with Precision for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-issues-when-the-system-cant-find-them/"><u>How To Fix Windows Update Issues When The System Can't Find Them</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-motion-dynamics-synopsis/"><u>In 2024, Comprehensive Motion Dynamics Synopsis</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-video-concepts-for-beginner-vloggers/"><u>In 2024, Innovative Video Concepts for Beginner Vloggers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-essential-guide-crafting-a-standout-discord-profile-with-custom-emojis/"><u>In 2024, The Essential Guide Crafting a Standout Discord Profile with Custom Emojis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mystery-of-undetected-sd-solved-here/"><u>Mystery of Undetected SD Solved Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-resolve-windows-10-system-crashes-or-freezes/"><u>Steps to Resolve Windows 10 System Crashes or Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-easy-way-to-enable-bluetooth-on-windows-11-and-10-your-complete-solution/"><u>The Easy Way to Enable Bluetooth on Windows 11 and 10 - Your Complete Solution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Stalled Windows 11 Installation and Update Problems
-date: 2024-11-06T06:47:51.387Z
-updated: 2024-11-07T20:20:07.276Z
+date: 2024-11-11T18:37:23.579Z
+updated: 2024-11-18T21:40:00.478Z
 tags:
   - win11
   - win10
@@ -38,18 +38,18 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -68,32 +68,32 @@ You may fail to install the 1607 update because the**Windows Update components**
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
@@ -118,24 +118,24 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-alleviate-problem-buffering-tweets-in-chromebook/"><u>[New] 2024 Approved Alleviate Problem Buffering Tweets in Chromebook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instant-subtitling-hacks-for-all-your-facebook-videos-for-2024/"><u>[New] Instant Subtitling Hacks for All Your Facebook Videos for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-cost-effective-media-providers-online/"><u>[New] The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-xsplit-source-centralized-game-downloads-and-insights/"><u>2024 Approved XSplit Source Centralized Game Downloads & Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-address-no-device-found-error-on-windows-7-guide/"><u>Easy Steps to Address 'No Device Found' Error on Windows 7 [Guide]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-guide-restore-your-steam-file-access-rights-successfully/"><u>Fix Guide: Restore Your Steam File Access Rights Successfully</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-elevates-ai-with-the-release-of-its-advanced-palm-2-large-language-model/"><u>Google Elevates AI with the Release of Its Advanced PaLM 2 Large Language Model</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-windows-update-error-0x8024402c-comprehensive-guide-solution-included/"><u>How to Troubleshoot and Fix Windows Update Error 0X8024402c - Comprehensive Guide [Solution Included]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-view-comments-on-youtube-for-2024/"><u>How to View Comments on YouTube for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-iron-throne-of-sound-best-websites-for-got-ringtone-downloads/"><u>In 2024, The Iron Throne of Sound Best Websites for GoT Ringtone Downloads</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-note-12r-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi Note 12R? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-process-of-getting-trustee-approval-from-trustedinstaller-to-change-files/"><u>Navigating the Process of Getting Trustee Approval From TrustedInstaller to Change Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-inaccessible-servers-in-destiny-2-proven-fixes-for-gamers/"><u>Overcoming Inaccessible Servers in Destiny 2 – Proven Fixes for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-correct-audio-device-not-found-on-your-pc-running-windows/"><u>Steps to Correct 'Audio Device Not Found' On Your PC Running Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-solutions-resolving-xbox-one-and-xbox-live-connection-problems/"><u>Successful Solutions: Resolving Xbox One and Xbox Live Connection Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-bluetooth-connection-woes-in-windows-11/"><u>Ultimate Guide: Solving Your Bluetooth Connection Woes in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wow-unveiled-enhanced-depth-and-immersion-with-3d-rendering/"><u>WoW Unveiled: Enhanced Depth and Immersion with 3D Rendering</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[New] In 2024, Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-streaming-via-discord-for-2024/"><u>[Updated] Discovering the Basics of Streaming via Discord for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-tutorial-on-initializing-and-powering-on-your-brand-new-iphone-device/"><u>Complete Tutorial on Initializing & Powering On Your Brand New iPhone Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-circumventing-the-persistent-windows-10-0x800f0922-update-hurdle/"><u>Guide To Circumventing The Persistent Windows 10 0X800f0922 Update Hurdle</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p55t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P55T FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disabled-issue/"><u>How To Fix Bluetooth Disabled Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-d3dx942dll-missing-or-not-found-errors/"><u>How to Fix d3dx9_42.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-warzone-textures-loading-properly-again/"><u>How to Get Warzone Textures Loading Properly Again</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-y100i-power-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y100i Power 5G Easily?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-gopro-silver-edition-hero4-assessment/"><u>In 2024, Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repair-strategies-to-tackle-errors-and-enhance-your-vr-experience/"><u>Mastering Oculus Repair Strategies to Tackle Errors and Enhance Your VR Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-repair-methods-for-windows-startup-issues/"><u>Mastering the Technique: Repair Methods for Windows Startup Issues</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/moveavis-mov-to-mjpeg-free-conversion-tool-available-online/"><u>Moveavi's MOV to MJPEG Free Conversion Tool Available Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-and-accelerate-your-windows-7-systems-boot-speed/"><u>Optimize and Accelerate Your Windows 7 System's Boot Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-errors-in-your-application/"><u>Resolved: Fixing 'Insufficient System Resources' Errors in Your Application</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-shift-key-failure-expert-troubleshooting-tips/"><u>Solving 'Shift Key Failure': Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-time-lapse-using-gopro-hero-10-for-extended-shots/"><u>The Art of Time-Lapse Using GoPro Hero 10 for Extended Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
 

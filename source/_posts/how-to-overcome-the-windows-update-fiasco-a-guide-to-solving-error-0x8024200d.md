@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome the Windows Update Fiasco: A Guide to Solving Error 0X8024200d"
-date: 2024-09-14T19:39:25.690Z
-updated: 2024-09-17T23:28:09.140Z
+date: 2024-11-15T00:02:57.489Z
+updated: 2024-11-18T17:47:19.724Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -46,6 +53,13 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
@@ -78,13 +92,6 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -97,6 +104,14 @@ If the Windows Update error persists, move on to the second method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -110,18 +125,25 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -141,10 +163,10 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
@@ -171,5 +193,26 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-dragon-ball-fighterz-failed-to-initialize-network/"><u>[Fixed] Dragon Ball FighterZ Failed to Initialize Network</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-effective-method-for-personalizing-fb-page-coverage/"><u>[New] Effective Method for Personalizing FB Page Coverage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-authentic-audience-growth-practical-advice-for-content-creators/"><u>[Updated] In 2024, Authentic Audience Growth Practical Advice for Content Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-the-art-of-remote-podcast-production-for-2024/"><u>[Updated] Mastering the Art of Remote Podcast Production for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205620823-constraint-a-the-footnotes-must-be-numbered-sequentially-starting-with-1/"><u>Constraint A: The Footnotes Must Be Numbered Sequentially Starting with [^1].</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-10-disk-error-how-to-solve-stuck-drive-issues/"><u>Fix Your Windows 10 Disk Error: How to Solve 'Stuck' Drive Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-working-usb-flash-drive-simple-and-effective-methods/"><u>Fixing a Non-Working USB Flash Drive: Simple and Effective Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-non-responsive-right-clicks-in-windows-11-devices/"><u>How to Address Non-Responsive Right Clicks in Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-laptop-charging-issues-when-it-shows-full-battery/"><u>How to Resolve Laptop Charging Issues When It Shows Full Battery</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hitbox-vs-twitch-which-is-better/"><u>In 2024, Hitbox Vs Twitch Which Is Better?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-moto-g24-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Moto G24 online without jailbreak</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/raphics-boosting-buzz-through-social-videos/"><u>Infographics Boosting Buzz Through Social Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-ios-image-to-pdf-the-ultimate-guide-for-users-for-2024/"><u>Mastering IOS Image-to-PDF The Ultimate Guide for Users for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezes-and-crashes-on-windows-11-a-step-by-step-guide/"><u>Resolving File Explorer Freezes and Crashes on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-not-charging-error-on-windows-laptops-windows-7-10/"><u>Step-by-Step Guide to Fix 'Not Charging' Error on Windows Laptops (Windows 7, 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-minnesota-twin-study-this-research-compared-twins-raised-apart-to-those-raised-together-and-found-significant-differences-in-iq-between-the-two-groups-s4/"><u>The Minnesota Twin Study: This Research Compared Twins Raised Apart to Those Raised Together and Found Significant Differences in IQ Between the Two Groups, Suggesting Environmental Factors Play a Role Alongside Genetic Ones.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-module-cannot-be-found-problem-effectively/"><u>Troubleshooting the 'Module Cannot Be Found' Problem Effectively</u></a></li>
+</ul></div>
 

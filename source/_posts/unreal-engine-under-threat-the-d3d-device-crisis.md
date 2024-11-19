@@ -1,7 +1,7 @@
 ---
 title: "Unreal Engine Under Threat: The D3D Device Crisis"
-date: 2024-09-11T15:35:09.670Z
-updated: 2024-09-12T15:35:09.670Z
+date: 2024-11-15T18:43:04.315Z
+updated: 2024-11-18T23:38:44.615Z
 tags:
   - win11
   - win10
@@ -32,50 +32,23 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/select-properties.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **General** tab, click the **SET LAUNCH OPTIONS…** button.
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/set-launch-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**\-dx11** and then click**OK** .
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/dx11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s recommended to run your game on**dx11** . But some older hardware doesn’t support dx11 so you would run it on**dx9** . You can simply type**\-dx9** instead of -dx11.
 
  4) Close your game’s **Properties** window and your problem should be solved. Till then launch your game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -95,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -108,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -131,5 +104,23 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-guide-to-loops-in-ios-video-playback-for-2024/"><u>[Updated] Expert Guide to Loops in iOS Video Playback for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamline-success-blending-obs-zoom-made-easy/"><u>[Updated] Streamline Success Blending OBS, Zoom Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-rectify-your-windows-11-touchscreen-in-five-ways/"><u>Comprehensive Tutorial: Rectify Your Windows 11 Touchscreen in Five Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-cure-eliminating-the-flicker-effect-on-your-windows-11-monitor/"><u>Diagnose & Cure: Eliminating the Flicker Effect on Your Windows 11 Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-instagram-game-with-pro-edit-techniques-for-2024/"><u>Elevate Your Instagram Game with Pro Edit Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-initializing-error-in-destiny-2-a-complete-guide/"><u>How to Resolve the Persistent 'Initializing' Error in Destiny 2 - A Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-essence-of-interactive-virtuality/"><u>In 2024, The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210349218-9782226306883-la-confrerie-de-la-danse-sacree/"><u>La Confrérie de la danse sacrée | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-labyrinths-by-ai-exploring-digital-jest/"><u>Laughter Labyrinths by AI: Exploring Digital Jest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solve-the-print-to-pdf-not-working-in-windows-11-by-microsoft/"><u>Step-by-Step Guide: Solve the 'Print to PDF Not Working' In Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-why-your-obs-recordings-are-showing-a-black-screen-resolved/"><u>The Ultimate Fix: Why Your OBS Recordings Are Showing a Black Screen (Resolved)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-asmtxhcisystem-blue-screen-of-death-step-by-step-guide/"><u>Troubleshooting and Repairing ASMTXHCISystem Blue Screen of Death - Step-by-Step Guide</u></a></li>
+</ul></div>
 

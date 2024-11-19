@@ -1,7 +1,7 @@
 ---
 title: Execution Prohibited by System
-date: 2024-09-11T15:36:47.446Z
-updated: 2024-09-12T15:36:47.446Z
+date: 2024-11-11T21:55:57.810Z
+updated: 2024-11-19T01:43:35.806Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Update your drivers
 
  The most common cause of an unrecognized SD card is a faulty, incorrect or outdated card reader driver. So the first thing you should do it check that your drivers are in good health. You can do this either manually or automatically:
@@ -61,36 +48,15 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Activate & Update** button next to all flagged devices to automatically download and install the correct version of their drivers. Pay close attention to whether your card reader appears in the list.
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/08/Realtek-USB-3.0-Card-Read.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your card still isn’t working after updating your drivers, move onto[Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Clean your SD card & reader
 
@@ -105,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a50eeaca64.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ## Method 3: Check if your card reader is disabled
 
@@ -122,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
@@ -129,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://pish-posh-baby.sjv.io/g1jg15) .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Test your SD card in another PC
 
@@ -139,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
  If it_does_ work in the other computer, then it’s not a faulty card, but it may be that your card reader is faulty.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Disable then enable card reader (from other users)
 
@@ -178,10 +151,10 @@ If you’re not sure how to do that, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
@@ -205,5 +178,20 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-breakdown-dji-inspire-1-explored/"><u>[Updated] Complete Breakdown DJI Inspire 1 Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>[Updated] In 2024, The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breakthrough-techniques-in-iphone-hdr-image-making/"><u>2024 Approved Breakthrough Techniques in iPhone HDR Image Making</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-fantastic-free-video-watermark-removers-and-adders/"><u>5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-a-malfunctioning-steam-marketplace/"><u>Expert Tips on Restoring Access to a Malfunctioning Steam Marketplace</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-windows-10-update-error-0xc1900208-easy-fixes-unveiled/"><u>Overcoming the Hurdle of Windows 10 Update Error 0Xc1900208: Easy Fixes Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-strategies-for-correcting-crc-data-integrity-mistakes/"><u>Solution Strategies for Correcting CRC Data Integrity Mistakes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-e-reader-for-bibliophiles-unveiling-the-kobo-forma/"><u>The Ultimate E-Reader for Bibliophiles: Unveiling the Kobo Forma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intensive-cpu-utilization-from-wudfhostexe-in-win11/"><u>Troubleshooting Intensive CPU Utilization From wudfhost.exe in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-troubleshooting-key-strategies-for-restoring-full-functionality/"><u>Wacom Troubleshooting: Key Strategies for Restoring Full Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-amd-catalyst-control-center-is-down/"><u>What to Do When Your AMD Catalyst Control Center Is Down</u></a></li>
+</ul></div>
 

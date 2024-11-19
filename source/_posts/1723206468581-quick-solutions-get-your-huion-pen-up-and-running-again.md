@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Get Your Huion Pen Up & Running Again!"
-date: 2024-10-31T21:20:52.635Z
-updated: 2024-11-08T08:14:32.371Z
+date: 2024-11-16T02:10:51.066Z
+updated: 2024-11-18T21:16:37.124Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
@@ -65,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
@@ -87,20 +86,27 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -111,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  2) From the left navigation panel, click**System** . Find
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
@@ -133,20 +132,27 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -177,10 +183,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
@@ -208,13 +214,6 @@ OR
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
 
@@ -252,6 +251,13 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.
@@ -277,22 +283,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-reliving-real-time-recollections/"><u>[New] Reliving Real-Time Recollections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>2024 Approved The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieving-proficiency-comprehensive-photoshop-hdr-tutorial-for-2024/"><u>Achieving Proficiency Comprehensive Photoshop HDR Tutorial for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-fixes-for-device-recognition-in-windows-11-systems/"><u>Bluetooth Connectivity Fixes for Device Recognition in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeat-error-code-80240020-once-and-for-all-a-practical-guide-for-windows-11-users/"><u>Defeat Error Code 80240020 Once and For All - A Practical Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-correcting-windows-update-error-0x8024401c-on-win1011-platforms/"><u>Effective Solutions for Correcting Windows Update Error 0X802#4401c on Win10/11 Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ss-frontiers-youtubes-best-yoga-content/"><u>Fitness Frontiers - YouTube's Best Yoga Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/handling-stuck-google-chrome-sessions-how-to-force-relaunch-effectively/"><u>Handling Stuck Google Chrome Sessions: How to Force Relaunch Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restart-your-personalized-preferences-when-they-freeze/"><u>How to Restart Your Personalized Preferences When They Freeze</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/infuse-originality-in-tiktok-fps-boost-profile-exposure/"><u>Infuse Originality in TikTok FPs, Boost Profile Exposure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-barriers-deal-with-access-denied-for-printer-drivers/"><u>Overcoming Installation Barriers: Deal with 'Access Denied' For Printer Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steams-content-hosting-services-now-reachable-solutions-explored/"><u>Steam's Content Hosting Services Now Reachable - Solutions Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211632657-step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/total-360-giroptic-vr-capture-examination-for-2024/"><u>Total 360 Giroptic VR Capture Examination for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-your-go-to-resource-mastering-the-use-of-mobizen-recorders-for-2024/"><u>[New] Your Go-To Resource Mastering the Use of Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-engaging-youtube-threads/"><u>[Updated] 2024 Approved Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-complete-rundown-how-google-podcast-works/"><u>[Updated] Complete Rundown How Google Podcast Works</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-how-to-for-multi-snapping-with-snapchat-for-2024/"><u>[Updated] The Ultimate How-To for Multi-Snapping with Snapchat for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-bike-racing-games-that-you-should-play/"><u>2024 Approved Best Bike Racing Games That You Should Play</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/busting-common-gpt-3-misconceptions-and-fixes-for-a-smooth-experience/"><u>Busting Common GPT-3 Misconceptions & Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-failed-driver-setting-issue-on-your-device/"><u>How to Correct the 'Failed Driver' Setting Issue on Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-repair-compromised-system-files-within-windows-11/"><u>How to Resolve and Repair Compromised System Files Within Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-apply-the-latest-windows-patches-and-enhancements/"><u>How to Successfully Apply the Latest Windows Patches & Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/impending-scarcity-of-skilled-programmers-warnings-by-top-salesforce-official-echoed-across-silicon-valley-zdnets-deep-dive/"><u>Impending Scarcity of Skilled Programmers, Warnings by Top Salesforce Official Echoed Across Silicon Valley - ZDNet's Deep Dive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-lava-yuva-3-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Lava Yuva 3 Pro Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-az-screenscape-full-application-review-alternatives/"><u>In 2024, AZ Screenscape Full Application Review, Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bug-free-code-tips-and-solutions-to-eliminate-abrupt-software-halts/"><u>Mastering Bug-Free Code: Tips and Solutions to Eliminate Abrupt Software Halts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-bug-fixed-no-more-green-mishap/"><u>NBA 2K21 Bug Fixed: No More Green Mishap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-fixing-errors-when-your-program-cant-find-necessary-modules/"><u>Overcoming the Hurdle: Fixing Errors When Your Program Can't Find Necessary Modules</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-fixing-black-screen-on-google-chrome/"><u>Resolving the Issue: A Step-by-Step Guide to Fixing Black Screen on Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-approach-to-resolving-windows-10-problems-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Step-by-Step Approach to Resolving Windows 10 Problems Using System File Checker (SFC) & Deployment Image Servicing and Management (DISM)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-8-best-gmail-alternatives-of-2024/"><u>The 8 Best Gmail Alternatives of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-upgrade-avoiding-crashes/"><u>Windows Upgrade: Avoiding Crashes</u></a></li>
 </ul></div>
 

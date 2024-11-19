@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Repair a Nonfunctional Start Menu in Windows 11"
-date: 2024-09-14T18:12:18.747Z
-updated: 2024-09-17T22:19:02.202Z
+date: 2024-11-11T19:05:03.391Z
+updated: 2024-11-18T16:51:58.545Z
 tags:
   - win11
   - win10
@@ -58,9 +58,29 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
@@ -70,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
@@ -77,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -105,15 +125,15 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -134,5 +154,24 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-flickering-fonts-2-innovative-text-techniques/"><u>[New] Flickering Fonts 2 Innovative Text Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamline-your-youtube-thumbnail-process-for-2024/"><u>[New] Streamline Your YouTube Thumbnail Process for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-look-at-lg-bp350-display-specifications/"><u>[Updated] Comprehensive Look at LG BP350 Display Specifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-express-yourself-accessibility-available-for-free/"><u>[Updated] In 2024, Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-error-effective-techniques-to-get-your-minecraft-up-and-running-on-a-pc-again/"><u>Beat the Error: Effective Techniques to Get Your Minecraft Up and Running on a PC Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-endless-cycle-overcome-windows-11s-constant-restart-issue-with-ease/"><u>End the Endless Cycle: Overcome Windows 11'S Constant Restart Issue with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-device-not-found-error-codes-on-windows-1187/"><u>Fixing 'Device Not Found' Error Codes on Windows 11/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-endless-load-screens-in-skyrim-a-complete-guide/"><u>Fixing Endless Load Screens in Skyrim: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-touchpad-scroll-issue-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-dolby-theatre-audio-working-again-on-windows-11/"><u>How To Get Your Dolby Theatre Audio Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-and-fix-windows-update-error-code-0x80070643/"><u>How to Successfully Overcome and Fix Windows Update Error Code 0X80070643</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C50 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-to-stop-cod-black-ops-4s-critical-failures-and-glitches/"><u>Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctions-between-public-private-and-personalized-artificial-intelligence/"><u>Understanding the Distinctions Between Public, Private, and Personalized Artificial Intelligence</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleashing-viral-potential-a-curated-list-of-tiktok-usernames/"><u>Unleashing Viral Potential A Curated List of TikTok Usernames</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+</ul></div>
 

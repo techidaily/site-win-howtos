@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2024-11-01T18:39:30.388Z
-updated: 2024-11-07T22:42:41.513Z
+date: 2024-11-11T17:22:08.362Z
+updated: 2024-11-19T01:25:42.283Z
 tags:
   - win11
   - win10
@@ -66,18 +66,19 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -91,19 +92,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
@@ -120,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -145,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -163,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -173,21 +161,28 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 3. Click the **Change plan settings** under your selected power plan.  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
@@ -195,10 +190,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
@@ -224,20 +219,16 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/levating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing-for-2024/"><u>[New] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-video-submission-your-detailed-walkthrough/"><u>[Updated] Mastering YouTube Video Submission Your Detailed Walkthrough</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-online-broadcasting-basics-a-streamers-guide-to-capture-for-2024/"><u>[Updated] Online Broadcasting Basics A Streamer’s Guide to Capture for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-turn-on-google-meet-grids-to-see-all-attendees/"><u>2024 Approved Turn On Google Meet Grids to See All Attendees</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-equipment-breakdown-and-advice-from-tech-virtuoso-tom/"><u>Advanced Equipment Breakdown & Advice From Tech Virtuoso, Tom</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boosting-wow-gameplay-speed-tips-for-reducing-latency-issues/"><u>Boosting WoW Gameplay Speed: Tips for Reducing Latency Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-windows-11-endless-repair-cycle-step-by-step-guide/"><u>How to Break Free From Windows 11 Endless Repair Cycle - Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-pop-7-pro-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Pop 7 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-challenge-of-starting-minecraft-on-windows-pc-a-step-by-step-guide/"><u>How to Overcome the Challenge of Starting Minecraft on Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-pc/"><u>How to Restore Brightness Control Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-from-idea-to-gif-your-ultimate-blueprint/"><u>In 2024, From Idea to GIF Your Ultimate Blueprint</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/preserve-animated-gifs-effortlessly-with-these-top-9-apps-for-windows/"><u>Preserve Animated GIFs Effortlessly with These Top 9 Apps for Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/quick-steps-for-recording-insta-stories-for-2024/"><u>Quick Steps for Recording Insta Stories for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reboot-your-browser-solutions-for-a-frozen-google-chrome-window/"><u>Reboot Your Browser: Solutions for a Frozen Google Chrome Window</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-backspace-key-not-functioning-problems-effectively/"><u>Resolving 'Backspace Key Not Functioning' Problems Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-adventures-the-ultra-30-action-cam-reviewed/"><u>[New] Capturing Adventures The Ultra 30 Action Cam Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unbeatable-ways-to-archive-lol-battles/"><u>[New] In 2024, Unbeatable Ways to Archive LOL Battles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-screening-success-10-movies-that-energize-and-empower/"><u>2024 Approved Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-windows-10-update-problems-troubleshooting-error-code-0x800f0922-easily/"><u>Avoid Windows 10 Update Problems: Troubleshooting Error Code 0X800f0922 Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-photo-editing-unleashed-android-and-iphones-top-tools-ranked-for-2024/"><u>Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>In 2024, Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-stuck-or-non-functioning-shift-key-complete-walkthrough/"><u>Resolving a Stuck or Non-Functioning Shift Key - Complete Walkthrough</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplifying-tasks-with-ez-grabber-techniques-for-2024/"><u>Simplifying Tasks with EZ Grabber Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-network-usage-a-deep-dive-into-svchostexe-netsvcs/"><u>Troubleshooting High Network Usage: A Deep Dive Into svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-reviving-the-windows-11-start-menu-when-it-stops-responding/"><u>Unstuck: Reviving the Windows 11 Start Menu When It Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac549-yamahaaturbosound-ii-sound-module-based-on-the-ymf789ymu789-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r32/"><u>YAC549 - Yamaha'aturboSound II Sound Module Based on the YMF789/YMU789 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

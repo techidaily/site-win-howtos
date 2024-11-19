@@ -1,7 +1,7 @@
 ---
 title: The Definitive Walkthrough for Correcting WinOS Error Code 0xC0000005
-date: 2024-09-12T03:23:20.310Z
-updated: 2024-09-17T23:15:48.439Z
+date: 2024-11-16T22:02:44.034Z
+updated: 2024-11-19T01:47:50.595Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  1) Go to **[Windows 10 download](https://www.microsoft.com/en-us/software-download/windows10)**  page. (Or **[Windows 11](https://www.microsoft.com/software-download/windows11) ,** [Windows 8](https://www.microsoft.com/en-us/software-download/windows8ISO) ,[**Windows 7**](https://www.microsoft.com/en-us/software-download/windows7) )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
 
@@ -149,10 +169,10 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -167,6 +187,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -177,25 +204,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -225,18 +245,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -286,5 +306,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-expertise-unleashed-professional-insights-into-video-editing/"><u>[New] 2024 Approved Expertise Unleashed Professional Insights Into Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-market-precision-strategic-package-interpretations/"><u>[New] 2024 Approved Market Precision Strategic Package Interpretations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premier-playwrights-lair/"><u>[New] In 2024, Premier Playwright's Lair</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-addressing-missing-thumbnails-in-youtube-shorts/"><u>[Updated] Addressing Missing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bending-the-rules-of-timekeeping-with-ai-driven-wearables-by-gpt/"><u>Bending the Rules of Timekeeping with AI-Driven Wearables by GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-repairing-error-code-0xc1900208-in-your-windows-10-updates-a-simple-solution/"><u>Decoding and Repairing Error Code 0xC1900208 in Your Windows 10 Updates: A Simple Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-scanning-and-conversion-of-documents-into-text-transform-your-iphone-photos-with-fonepilots-all-in-one-app/"><u>Effortless Scanning & Conversion of Documents Into Text: Transform Your iPhone Photos with FonePilot's All-in-One App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-tips-for-efficiently-downscaling-4k-footage-to-full-hd-1080p-format/"><u>Expert Tips for Efficiently Downscaling 4K Footage to Full HD 1080P Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restore-disappeared-desktop-folder-at-cwindowssystem32configsystemprofile/"><u>Guide to Restore Disappeared Desktop Folder at C: Windows System32 Config SystemProfile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-pc-from-continuously-going-to-sleep-mode-a-step-by-step-guide/"><u>How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-unplugged-network-cables-in-windows-systems/"><u>How to Troubleshoot Unplugged Network Cables in Windows Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>In 2024, Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-podcast-entrances-eye-catching-scripts/"><u>Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-guide-when-microsoft-store-doesnt-launch/"><u>Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-correct-windows-update-failure-0x80070002-fast/"><u>Troubleshoot and Correct Windows Update Failure 0X80070002 Fast</u></a></li>
+</ul></div>
 

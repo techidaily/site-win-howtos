@@ -1,7 +1,7 @@
 ---
 title: Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error
-date: 2024-11-06T00:33:49.792Z
-updated: 2024-11-07T16:18:13.840Z
+date: 2024-11-11T19:40:09.671Z
+updated: 2024-11-19T00:14:41.858Z
 tags:
   - win11
   - win10
@@ -35,15 +35,22 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -56,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -72,21 +72,14 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -96,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -124,6 +110,19 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -136,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 If this method didn’t work for you, check out the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -146,18 +152,18 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -189,22 +195,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ynthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>[New] Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-lens-kings-battle-sj6-vs-the-four-k-creators-of-xiaomi/"><u>[Updated] Lens Kings Battle SJ6 Vs. The Four-K Creators of Xiaomi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-top-tier-displays-optimize-your-xbox-series-x-gaming/"><u>2024 Approved Unveiling Top-Tier Displays - Optimize Your Xbox Series X Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-these-3-significant-privacy-issues-when-interacting-with-chatbots/"><u>Beware These 3 Significant Privacy Issues When Interacting With Chatbots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-17-outstanding-graphic-design-applications-unveiled/"><u>Expert Picks: 17 Outstanding Graphic Design Applications Unveiled</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-solve-and-prevent-the-0x8024402c-error-in-windows-updates/"><u>How to Successfully Solve and Prevent the 0X8024402C Error in Windows Updates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-telegram-web-a-step-by-step-pathway/"><u>Mastering Telegram Web A Step-by-Step Pathway</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-when-your-usb-flash-drive-isnt-detected/"><u>Quick Fix Guide: When Your USB Flash Drive Isn't Detected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-pc-installation-issues-with-oddworld-soulstorm-a-complete-guide/"><u>Resolving PC Installation Issues with Oddworld: Soulstorm - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-unresponsive-usb-peripherals-on-windows-7-a-step-by-step-fix/"><u>Revive Your Unresponsive USB Peripherals on Windows 7: A Step-by-Step Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-for-every-superman-movie-ever-made/"><u>Sequential Watchlist for Every Superman Movie Ever Made!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-when-your-keyboards-numeric-keys-wont-respond/"><u>Step-by-Step Fix for When Your Keyboard's Numeric Keys Won't Respond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-getting-your-microsoft-wireless-display-adapter-connected-in-windows-10/"><u>Step-by-Step Guide: Getting Your Microsoft Wireless Display Adapter Connected in Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamlining-your-remote-podcast-production-workflow-for-2024/"><u>Streamlining Your Remote Podcast Production Workflow for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-establish-connection-microsoft-wireless-display-with-windows-11-explained/"><u>Troubleshoot and Establish Connection: Microsoft Wireless Display with Windows 11 Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-load-caused-by-msmpengexe-on-windows-10-tips-and-tricks/"><u>Winning the Battle Against High CPU Load Caused by MsMpEng.exe on Windows 10: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209063772-fixed-windows-cannot-access-the-specified-device-path-or-file-error/"><u>[Fixed] ‘Windows Cannot Access the Specified Device Path or File’ Error</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-by-step-screen-shot-on-android-devices/"><u>[New] 2024 Approved Step-by-Step Screen Shot on Android Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-photography-with-polarrs-complete-features/"><u>[Updated] 2024 Approved Elevate Your Photography with Polarr's Complete Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-picscanners-face-blurring-made-easy-for-everyone/"><u>[Updated] 2024 Approved PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[Updated] Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevating-art-advanced-techniques-for-curving-photos-for-2024/"><u>[Updated] Elevating Art Advanced Techniques for Curving Photos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eradicate-halo-infinite-freeze-ups-and-play-smoothly-with-these-essential-pc-tweaks-7-proven-methods/"><u>Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-to-connectivity-repair-techniques-for-remote-server-connection-failures/"><u>Fast Track to Connectivity: Repair Techniques for Remote Server Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-for-windows-11-dvdcd-rom-error-incomplete-or-corrupted-device-configuration-data-error-code-19/"><u>Fix for Windows 11 DVD/CD-ROM Error: Incomplete or Corrupted Device Configuration Data (Error Code 19)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/get-your-free-hd-video-converter-now-effortlessly-convert-h265-videos-to-h2-cu4-format-without-compromising-on-quality/"><u>Get Your Free HD Video Converter Now: Effortlessly Convert H.265 Videos to H.2 Cu4 Format Without Compromising on Quality!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-missing-device-issue-error-24-in-windows-10-11-and-earlier-versions/"><u>Guide to Fixing the Missing Device Issue (Error 24) in Windows 10, 11, and Earlier Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bad-module-info-issue-and-prevent-your-game-from-crashing/"><u>Resolve 'Bad Module Info' Issue & Prevent Your Game From Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-keyboard-delay-on-windows-11/"><u>Resolved: How to Fix Persistent Keyboard Delay on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-fatal-installation-error-16-and-ensuring-a-smooth-start/"><u>Step-by-Step Guide to Overcoming 'Fatal Installation Error 16#' And Ensuring a Smooth Start</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-your-icloud-images-on-iphone-via-photo-stream-or-library/"><u>Step-by-Step Guide: Retrieving Your iCloud Images on iPhone via Photo Stream or Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-printing-a-pdf-file-quick-fixes-you-must-try-today/"><u>Trouble Printing a PDF File? Quick Fixes You Must Try Today</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-error-0xc10100be-in-videos/"><u>Troubleshooting Error 0XC10100be in Videos</u></a></li>
 </ul></div>
 

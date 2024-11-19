@@ -1,7 +1,7 @@
 ---
 title: "How to Troubleshoot PC Game Crashes in Nier: Automata - Solved!"
-date: 2024-09-11T15:33:03.172Z
-updated: 2024-09-12T15:33:03.172Z
+date: 2024-11-15T23:23:11.785Z
+updated: 2024-11-19T01:38:41.913Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -75,6 +68,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -101,16 +101,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
@@ -137,38 +131,18 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
@@ -180,10 +154,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change processor affinity
@@ -193,15 +167,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
-4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
+4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
@@ -225,5 +200,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-screen-grabbers-top-picks-for-windows-11/"><u>[Updated] 2024 Approved Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>[Updated] 2024 Approved Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>[Updated] 2024 Approved Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-captivating-anime-concepts-that-topped-the-tiktok-list/"><u>[Updated] Captivating Anime Concepts that Topped the TikTok List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-bartender-skills-tested-is-chatgpt-up-for-making-refreshing-cocktails/"><u>AI Bartender Skills Tested: Is ChatGPT Up for Making Refreshing Cocktails?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-getting-your-msi-mystic-light-functioning-again-on-a-windows-machine/"><u>Expert Advice: Getting Your MSI Mystic Light Functioning Again on a Windows Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-and-refreshing-your-computers-keyboard-functionality/"><u>Expert Tips: Restoring and Refreshing Your Computer's Keyboard Functionality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-and-clean-method-to-live-podcast/"><u>In 2024, Quick & Clean Method to Live Podcast</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overcooked-2-game-breakdown-savoring-the-madness-and-mastery-of-multiplayer-cook-off-chaos/"><u>Overcooked! 2 Game Breakdown: Savoring the Madness and Mastery of Multiplayer Cook-Off Chaos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-connection-issues-fixing-network-restrictions-on-party-apps/"><u>Resolve Your Connection Issues: Fixing 'Network Restrictions on Party Apps'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-critical-error-during-program-launch-fixing-the-application-failed-to-initialize-message-0xc000007b/"><u>Resolved: Critical Error During Program Launch - Fixing The 'Application Failed To Initialize' Message (0xC000007B)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-automated-client-communication-with-atomic-autoresponders-leveraging-massmails-innovative-solutions/"><u>Seamless Automated Client Communication with Atomic Autoresponders: Leveraging MassMail's Innovative Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-your-computers-stuck-at-loading-windows/"><u>Troubleshoot and Resolve Your Computer's 'Stuck at Loading Windows'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-logitech-g930-headset-microphone-cut-out-issue/"><u>Troubleshooting Tips: Fixing the Logitech G930 Headset Microphone Cut-Out Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unavailable-feature-fixed-monitor-displays-do-not-recognize-current-input-timing/"><u>Unavailable Feature: [FIXED] Monitor Displays Do Not Recognize Current Input Timing</u></a></li>
+</ul></div>
 

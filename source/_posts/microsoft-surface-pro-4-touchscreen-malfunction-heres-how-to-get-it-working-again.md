@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2024-11-06T16:05:08.245Z
-updated: 2024-11-07T19:54:27.244Z
+date: 2024-11-17T17:31:22.517Z
+updated: 2024-11-18T22:19:07.800Z
 tags:
   - win11
   - win10
@@ -54,26 +54,26 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
@@ -94,23 +94,16 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
@@ -124,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
@@ -152,20 +152,19 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovating-for-impact-your-profile-video-guide/"><u>[New] In 2024, Innovating for Impact Your Profile Video Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ailor-the-rhythm-of-youtube-videos-desktopmobile-way/"><u>[New] Tailor the Rhythm of YouTube Videos - Desktop/Mobile Way</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-pages-made-simple-top-8-tools-for-free-and-online-use/"><u>[Updated] 2024 Approved FB Pages Made Simple Top 8 Tools for Free & Online Use</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-curated-igtv-channels-that-matter-today/"><u>[Updated] In 2024, Curated IGTV Channels That Matter Today</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-itunes-archives-in-3-easy-steps-for-2024/"><u>[Updated] Mastering iTunes Archives in 3 Easy Steps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-repair-corsair-hs5t-microphone-issues-and-how-to-solve-them/"><u>DIY Repair: Corsair HS5ˈʙɪt 𝘌𝗿𝗮𝗺𝗯𝗶𝗻 Microphone Issues and How to Solve Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-non-functional-astro-a40-built-in-mic-expert-advice-and-tips/"><u>Fixing the Non-Functional Astro A40 Built-In Mic: Expert Advice & Tips</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206973198-logildadll-missing-no-more/"><u>LogiLDA.dll Missing, No More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-non-responsive-keys-on-keyboard/"><u>Resolved Issue: Non-Responsive Keys on Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-fast-track-guide-to-fixing-a-laggy-keyboard/"><u>The Fast Track Guide to Fixing a Laggy Keyboard</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-funniest-face-changes-in-photography-tools-for-2024/"><u>The Funniest Face Changes in Photography Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-absence-of-vcruntime140dll-file-error/"><u>Troubleshooting Tips: Correcting the Absence of VCRUNTIME140.dll File Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-dreaded-error-code-0x80004005-on-your-pc/"><u>Understanding and Fixing the Dreaded 'Error Code 0X80004005' On Your PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-whos-who-in-lego-stop-motion-top-creators/"><u>Updated In 2024, Whos Who in Lego Stop Motion Top Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-twister-timber-titmice/"><u>[New] Twister Timber Titmice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quick-guide-youtube-videos-for-your-instagram-story-for-2024/"><u>[Updated] Quick Guide YouTube Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-foundation-of-motion-visualization/"><u>[Updated] Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-steps-for-arranging-a-google-meeting-for-2024/"><u>Easy Steps for Arranging a Google Meeting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-start-geforce-experience-error-successfully/"><u>How to Fix 'Unable to Start GeForce Experience' Error Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-slow-startup-problems-in-windows-7/"><u>How to Quickly Resolve Slow Startup Problems in Windows 7</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-boost-engagement-with-these-5-caption-tricks-on-tiktok-videos/"><u>In 2024, Boost Engagement with These 5 Caption Tricks on TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revolutionize-your-livestreams-with-manycam-the-complete-virtual-camera-solution/"><u>Revolutionize Your Livestreams with ManyCam - The Complete Virtual Camera Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-windows-10-crimson-halt-problem/"><u>Troubleshooting and Solutions for Windows 10 Crimson Halt Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-svchostexes-heavy-resource-usage-in-windows-10/"><u>Troubleshooting and Solving svchost.exe's Heavy Resource Usage in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-common-oculus-hw-issues/"><u>Troubleshooting Guide: Resolving Common Oculus HW Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-hidden-bluetooth-option-on-pc/"><u>Troubleshooting Steps for Hidden Bluetooth Option on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-file-writing-obstructions-in-windows-devices/"><u>Unraveling File Writing Obstructions in Windows Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keyboard Numeric Key Malfunction? Here's How You Fixed It
-date: 2024-09-13T19:05:05.525Z
-updated: 2024-09-17T17:42:38.104Z
+date: 2024-11-18T02:02:24.453Z
+updated: 2024-11-18T16:37:08.058Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### On Windows 11
 
 1. Press the**Windows + I** keys to open the Settings window.
@@ -61,10 +68,30 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -88,18 +115,26 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Use a different user profile
 
@@ -110,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -141,5 +169,24 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-accelerated-learning-path-with-final-cut-pro/"><u>[New] 2024 Approved Accelerated Learning Path with Final Cut Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-list-of-9-best-online-mic-recorder-hacks/"><u>[New] In 2024, The Ultimate List of 9 Best Online Mic Recorder Hacks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/affordable-ssl-brands-and-their-standards/"><u>Affordable SSL Brands and Their Standards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-efficiency-in-depth-review-of-the-cutting-edge-qidi-tech-q1-pro-keyboard/"><u>Boost Efficiency: In-Depth Review of the Cutting-Edge QIDI Tech Q1 Pro Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-hp-laptop-camera-operation-in-windows-10-environment/"><u>Expert Tips to Restore HP Laptop Camera Operation in Windows 10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-high-network-consumption-by-svchostexe-netsvcs-a-complete-guide-to-troubleshooting-and-resolution/"><u>Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-outstanding-photos-ios-and-androids-leading-sticker-adders/"><u>In 2024, From Ordinary to Outstanding Photos IOS & Android's Leading Sticker Adders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>In 2024, Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/invalid-path-heres-your-guide-to-fixing-the-wrong-directory-name-error/"><u>Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-unveils-fresh-lineup-iphone-file-transfer-made-easy-on-their-newest-computers-exclusive-insight/"><u>Lenovo Unveils Fresh Lineup: IPhone File Transfer Made Easy on Their Newest Computers | Exclusive Insight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-a-windows-7-machine/"><u>Mastering Bluetooth Setup on a Windows 7 Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/morse-code-typing-on-a-laptop-slam-the-hood-with-rhythm-note-were-not-responsible-for-damages-or-mental-breakdowns/"><u>Morse Code Typing on a Laptop? Slam the Hood with Rhythm! Note: We're Not Responsible for Damages or Mental Breakdowns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208218554-overcome-infinite-loading-loop-in-valorant-effective-solutions-inside/"><u>Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/reign-supreme-with-these-ultimate-10-innovative-ideas-for-igtv-video-content/"><u>Reign Supreme with These Ultimate 10 Innovative Ideas for IGTV Video Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-no-response-from-dns-server-issues-with-these-4-simple-fixes/"><u>Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-how-to-correctly-install-battleye-anti-cheat-software/"><u>Troubleshooting Completed: How to Correctly Install BattlEye Anti-Cheat Software</u></a></li>
+</ul></div>
 

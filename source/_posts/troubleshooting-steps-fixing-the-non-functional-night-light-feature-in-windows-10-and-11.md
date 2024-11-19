@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fixing the Non-Functional Night Light Feature in Windows 10 & 11"
-date: 2024-11-02T21:03:38.608Z
-updated: 2024-11-07T19:25:36.141Z
+date: 2024-11-11T16:10:07.729Z
+updated: 2024-11-18T20:46:32.534Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
@@ -52,17 +52,32 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
@@ -89,6 +104,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -97,41 +119,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -157,22 +152,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-voice-modification-tools-for-mobile-devices/"><u>[Updated] 2024 Approved Best Voice Modification Tools for Mobile Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-harmonyhunter-discovering-audio-dimensions/"><u>[Updated] 2024 Approved HarmonyHunter Discovering Audio Dimensions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-photo-purity-with-picart/"><u>2024 Approved Master the Art of Photo Purity with PicArt</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-reports-a-remarkable-25-sales-growth-in-2017/"><u>ABBYY Reports a Remarkable 25% Sales Growth in 2017</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-creativity-in-play-top-6-fresh-chess-app-inventions/"><u>Enhance Creativity in Play: Top 6 Fresh Chess App Inventions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-disable-read-only-mode-for-your-storage-devices-on-a-windows-computer/"><u>How to Disable Read-Only Mode for Your Storage Devices on a Windows Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-left-click-not-working-on-mouse/"><u>How To Fix Left Click Not Working on Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-tablet-malfunctions-and-restore-functionality/"><u>How to Resolve Wacom Tablet Malfunctions and Restore Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-this-device-is-not-present-error-code-24-on-various-windows-operating-systems/"><u>How to Troubleshoot 'This Device Is Not Present' Error Code 24 on Various Windows Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-gaming-experience-download-steelseries-keyboard-engine-upgrades-today/"><u>Improve Your Gaming Experience: Download SteelSeries Keyboard Engine Upgrades Today</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-technology-demystified-with-a-look-at-aurora/"><u>In 2024, HDR Technology Demystified with a Look at Aurora</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/non-apple-top-rechargeable-wallet-airtags-a-must-have-accessory-spotted-on-zdnet/"><u>Non-Apple, Top Rechargeable Wallet AirTags: A Must-Have Accessory Spotted on ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-dell-usb-port-connectivity/"><u>Overcoming Common Problems with Dell USB Port Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-persistent-loading-screens-in-your-skyrim-adventure/"><u>Step-by-Step Fix for Persistent Loading Screens in Your Skyrim Adventure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-constant-usb-connection-issues-effectively/"><u>Step-by-Step Solution: Dealing with Constant USB Connection Issues Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-eliminating-window-10-screen-vibrations-a-step-by-step-approach/"><u>Top Solutions for Eliminating Window 10 Screen Vibrations: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangling-the-mystery-of-high-cpu-load-by-msmpeng-on-windows-11-issue-solved/"><u>Untangling the Mystery of High CPU Load by MsMpEng on Windows 11 [ISSUE SOLVED]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-funnyframe-generator/"><u>[New] FunnyFrame Generator</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-content-strategy-youtube-keywords-explained/"><u>[Updated] In 2024, Elevating Your Content Strategy YouTube Keywords Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-snapshots-highest-view-counts/"><u>[Updated] Social Snapshots Highest View Counts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-electric-lawnmower-showdown-discover-the-best-brands-and-models-expert-reviews/"><u>2023'S Ultimate Electric Lawnmower Showdown: Discover the Best Brands & Models - Expert Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-echo-generator-blueprint/"><u>2024 Approved Echo Generator Blueprint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-genie-selecting-the-finest-jokes-makers/"><u>2024 Approved Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209585994-destiny-2-launch-issue-resolved-conquering-the-persistent-initializing-error/"><u>Destiny 2 Launch Issue Resolved: Conquering the Persistent Initializing Error.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-silence-on-your-acer-the-ultimate-guide-to-restoring-laptop-audio/"><u>Fixing Silence on Your Acer: The Ultimate Guide to Restoring Laptop Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-is-my-keyboards-backspace-function-unresponsive/"><u>Fixing the Issue: Why Is My Keyboard's Backspace Function Unresponsive?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-lenovo-fingerprint-reader-not-working-easily/"><u>How To Fix Lenovo Fingerprint Reader Not Working Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-issues-on-conexant-smartaudio-hd-under-windows-11/"><u>How to Resolve Audio Issues on Conexant SmartAudio HD Under Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-in-dealing-with-msvcr110-dll-file-missing-problems-a-professionals-roadmap/"><u>Masterclass in Dealing with MSVCR110 DLL File Missing Problems - A Professional's Roadmap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-boot-loop-tips-and-tricks-for-windows-11-stability/"><u>Overcome the Endless Boot Loop: Tips & Tricks for Windows 11 Stability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-in-windows-10-expert-tips/"><u>Speeding Up the Shutdown Process in Windows 10: Expert Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-excessive-disk-use-from-microsofts-telemetry-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Excessive Disk Use From Microsoft's Telemetry on Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

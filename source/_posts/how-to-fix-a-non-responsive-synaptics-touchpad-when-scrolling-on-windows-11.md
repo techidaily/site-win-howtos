@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2024-11-07T02:07:04.099Z
-updated: 2024-11-08T06:12:40.530Z
+date: 2024-11-17T01:14:37.276Z
+updated: 2024-11-18T19:49:22.611Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -51,26 +51,25 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -93,10 +92,23 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
@@ -126,24 +138,18 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-become-a-visionary-creator-optimal-camera-lens-selection-for-2024/"><u>[New] Become a Visionary Creator Optimal Camera Lens Selection for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-apex-legends-solo-play-tips-and-platform-preference-guide-for-2024/"><u>[Updated] Apex Legends Solo Play Tips & Platform Preference Guide for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-best-5-rapid-setup-techniques-for-home-cinematography-for-2024/"><u>[Updated] Best 5 Rapid Setup Techniques for Home Cinematography for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/0mp4/"><u>「0円で最適なMP4圧縮技術によりファイルサイズの大幅な軽減を実現」</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/canvascartoons-detailed-scrutiny-and-handbooks-24-for-2024/"><u>CanvasCartoons Detailed Scrutiny & Handbooks '24 for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-y100i-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo Y100i.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-diagnose-and-fix-when-your-razer-keyboard-wont-illuminate/"><u>Expert Advice: Diagnose and Fix When Your Razer Keyboard Won't Illuminate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-key-windows-update-elements-solutions-proven-effective/"><u>Fixing Key Windows Update Elements - Solutions Proven Effective</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-webm-and-m4v-files-without-fuss-use-movavi/"><u>Free Online Converter: Convert WebM & M4V Files Without Fuss - Use Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-12-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme 12 5G FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-err-internet-disconnecting-tips-and-strategies/"><u>Overcoming the Challenge of ERR Internet Disconnecting – Tips & Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208878757-print-to-pdf-malfunctioning-in-windows-11-here-are-the-fixes/"><u>Print to PDF Malfunctioning in Windows 11? Here Are the Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pwm-pulse-width-modulation/"><u>PWM (Pulse Width Modulation)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-invalid-value-in-registry-errors-during-photo-viewing-on-windows-10/"><u>Resolving 'Invalid Value in Registry' Errors During Photo Viewing on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triumph-over-failed-nvidia-installer-errors/"><u>Triumph Over Failed NVIDIA Installer Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-free-guide-repairing-stuck-or-unresponsive-keys-on-your-hp-laptop/"><u>Trouble-Free Guide: Repairing Stuck or Unresponsive Keys on Your HP Laptop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-mov-recordings-in-windows/"><u>[Updated] Streamlining MOV Recordings in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-6-top-mc-village-home-structures-unveiled/"><u>2024 Approved 6 Top MC Village Home Structures Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-lifelayer-trashbin-on-the-windows-1011-environment/"><u>Building a Lifelayer Trashbin on the Windows 10/11 Environment</u></a></li>
+<li><a href="https://discover-help.techidaily.com/chkdsk-calna-ka-btha-data-panaraparapata-kasa-upayagakarata-aavashayakatao-ka-le-caja/"><u>CHKDSK चलाने के बाद डेटा पुनर्प्राप्ति कैसे: उपयोगकर्ता आवश्यकताओं के लिए चीजें</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/echoes-of-victory-laptop-finds-lost-headphone-link/"><u>Echoes of Victory: Laptop Finds Lost Headphone Link</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-correct-not-found-error-messages-when-running-applications-in-windows/"><u>Effective Strategies to Correct 'Not Found' Error Messages When Running Applications in Windows</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-google-pixel-fold-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-circumvent-disney-restrictions-for-dvd-duplication-guide/"><u>How to Circumvent Disney Restrictions for DVD Duplication Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-interruptions-during-downloads/"><u>How to Overcome Connection Interruptions During Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208938495-revive-your-bluetooth-functionality-on-windows-10-fast-and-straightforward-fixes-inside/"><u>Revive Your Bluetooth Functionality on Windows 10: Fast and Straightforward Fixes Inside.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-functioning-voice-chat-in-overwatch-with-simple-steps/"><u>Troubleshoot Non-Functioning Voice Chat in Overwatch with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-classes-in-windows-11-step-by-step-solutions/"><u>Troubleshooting Missing Classes in Windows 11: Step-by-Step Solutions</u></a></li>
 </ul></div>
 

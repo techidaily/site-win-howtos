@@ -1,7 +1,7 @@
 ---
 title: Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That!
-date: 2024-11-04T19:54:29.758Z
-updated: 2024-11-08T07:25:24.737Z
+date: 2024-11-18T01:59:19.470Z
+updated: 2024-11-19T00:55:22.199Z
 tags:
   - win11
   - win10
@@ -38,18 +38,18 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -68,16 +68,10 @@ You may fail to install the 1607 update because the**Windows Update components**
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Run the DISM utility
@@ -85,19 +79,19 @@ You may fail to install the 1607 update because the**Windows Update components**
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
@@ -124,20 +118,24 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>[New] In 2024, Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-best-of-the-best-essential-tablet-sketching-tools/"><u>[New] The Best of the Best Essential Tablet Sketching Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-changer-un-fichier-avi-en-format-mkv-librement-sur-internet-utilisation-de-vlc-et-handbrake/"><u>Comment Changer Un Fichier AVI en Format MKV Librement Sur Internet - Utilisation De VLC Et HandBrake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diary-book-a-hyphenated-term-becomes-diary-books/"><u>Diary-Book (a Hyphenated Term) Becomes Diary-Books</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-fix-sluggish-keyboard-performance-in-windows-11-systems/"><u>Effective Strategies to Fix Sluggish Keyboard Performance in Windows 11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-bluetooth-connectivity-on-a-windows-11-computer/"><u>How to Fix Unresponsive Bluetooth Connectivity on a Windows 11 Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-plan-a-memorable-labor-day-celebration-expert-advice-from-zdnet/"><u>How to Plan a Memorable Labor Day Celebration - Expert Advice From ZDNet.</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/iphone-daten-sichern-und-uber-wi-fi-nahtlos-auf-den-pc-ubertragen-lassen/"><u>IPhone Daten Sichern Und Über Wi-Fi Nahtlos Auf Den PC Übertragen Lassen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-reset-failed-issues-on-windows-10/"><u>Step-by-Step Solution to Overcome 'Reset Failed' Issues on Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-your-favorite-shows-a-guide-to-using-hulu-on-lg-smart-television/"><u>Streaming Your Favorite Shows: A Guide to Using Hulu on LG Smart Television</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-continuous-device-not-found-alerts-when-plugging-in-a-usb/"><u>Troubleshooting Steps for Continuous Device Not Found Alerts When Plugging in a USB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correctly-address-the-failed-to-download-data-0x8024a105-problem-on-your-pc/"><u>Troubleshooting Tips to Correctly Address the 'Failed To Download Data' (0X8024A105) Problem on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolve-pc-minecraft-lag-in-202n-expert-hacks/"><u>Ultimate Guide: Resolve PC Minecraft Lag in 202N - Expert Hacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-recovery-issue-resolved-step-by-step-fix-for-resetting-error/"><u>Windows 11 Recovery Issue Resolved: Step-by-Step Fix for Resetting Error</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-skaldic-battle-asgard-vs-jotunheim/"><u>[New] Skaldic Battle Asgard vs Jotunheim</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-trusted-sources-for-authentic-tiktok-fans-for-2024/"><u>[New] Trusted Sources for Authentic TikTok Fans for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>2024 Approved Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-rule-book-on-instagram-video-length/"><u>2024 Approved The Ultimate Rule Book on Instagram Video Length</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/closed-opengl-support-non-existent/"><u>Closed: OpenGL Support Non-Existent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-handling-the-remote-procedure-call-server-unavailable-glitch-in-windows/"><u>DIY Fixes: Handling the 'Remote Procedure Call' Server Unavailable Glitch in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/favorite-televisions-among-tech-reviewers-at-zdnet-top-picks-for-the-ultimate-viewing-experience/"><u>Favorite Televisions Among Tech Reviewers at ZDNet: Top Picks for the Ultimate Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outpost-war-of-the-champions-crashing-problems-in-windows-10-and-11/"><u>Fix Outpost: War of the Champions Crashing Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-hot-30-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Hot 30 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-quick-fixes-for-windows-update-error-8007000e-your-guide-to-a-smooth-computer-experience/"><u>Master the Art of Quick-Fixes for Windows Update Error 8007000E - Your Guide to a Smooth Computer Experience!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-wav-flac/"><u>Movavi의 WAV텍스트를 FLAC로 전환하기: 무료, 인터넷을 통한 유용한 서비스</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>New 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-usage-by-svchostexe-on-windows-10-systems/"><u>Resolving Excessive CPU Usage by svchost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-your-microsoft-display-adapter-in-windows-10-a-step-by-step-guide/"><u>Successfully Pairing Your Microsoft Display Adapter in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208325478-top-solutions-to-eliminate-pubg-slow-loading-issues-best-fixes-revealed/"><u>Top Solutions to Eliminate PUBG Slow Loading Issues: Best Fixes Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-directx-initialization-failures/"><u>Troubleshooting Guide: Overcoming DirectX Initialization Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unplanned-restarts-in-windows-11-fixing-the-auto-boot-issue/"><u>Troubleshooting: Unplanned Restarts in Windows 11 - Fixing the Auto-Boot Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-monitor-lacks-hdcp-support-expert-advice/"><u>What to Do When Your Monitor Lacks HDCP Support – Expert Advice</u></a></li>
 </ul></div>
 

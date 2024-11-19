@@ -1,7 +1,7 @@
 ---
 title: "Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now"
-date: 2024-11-04T21:27:03.485Z
-updated: 2024-11-07T16:31:09.334Z
+date: 2024-11-17T00:12:09.840Z
+updated: 2024-11-19T01:00:37.228Z
 tags:
   - win11
   - win10
@@ -47,14 +47,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -65,28 +72,15 @@ Then see if the Local Security Authority Protection is still off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-25.png)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
@@ -100,32 +94,39 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure Group Policy Editor
 
@@ -145,13 +146,6 @@ Then see if the Local Security Authority Protection is still off.
  Then see if your Local Security Authority protection can be toggled back on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -191,15 +185,19 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xsplit-archive-detailed-video-game-analyses/"><u>[Updated] 2024 Approved XSplit Archive Detailed Video Game Analyses</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-mp4-conversion-made-simple-fb-video-to-720p-1080p-at-zero-charge/"><u>In 2024, MP4 Conversion Made Simple FB Video to 720P, 1080P at Zero Charge</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-message-chambers-a-beginners-guide-to-proficiency/"><u>Mastering Message Chambers: A Beginner's Guide to Proficiency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-driver-found-resolving-critical-system-errors/"><u>Missing Media Driver Found: Resolving Critical System Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-missing-directx-9-file-expert-advice/"><u>Overcoming the Challenge of a Missing DirectX 9 File: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-bluetooth-component-not-listed-under-device-manager/"><u>Solving the Problem: Bluetooth Component Not Listed Under Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-user-profile-service-failures-resolve-your-windows-11-sign-in-issues/"><u>Solving User Profile Service Failures: Resolve Your Windows 11 Sign-In Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-forces-vocabulary-a-compreayer-into-star-war-language/"><u>The Force's Vocabulary: A Compreayer Into Star War Language</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unveiling-prospects-and-limitations-within-samsungs-2023-image-editor-for-2024/"><u>Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x100-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>[Updated] Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-easy-techniques-for-taking-quick-shots-in-windows-11/"><u>5 Easy Techniques for Taking Quick Shots in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-a-step-by-step-guide-to-solve-windows-10-couldnt-be-installed-error-code-aturality-80240020/"><u>Bypassing the Blockade: A Step-by-Step Guide to Solve Windows 10 Couldn't Be Installed - Error Code Aturality | 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/could-the-loss-of-d3d-devices-kill-unreal/"><u>Could the Loss of D3D Devices Kill Unreal?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/dont-miss-out-this-weeks-tiktok-trials/"><u>Don't Miss Out This Week’s TikTok Trials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/education-focused-microsoft-unveils-affordable-250-surface-laptop-se-and-the-specialized-windows-11-se-os-tech-news/"><u>Education-Focused Microsoft Unveils Affordable $250 Surface Laptop SE and the Specialized Windows 11 SE OS | Tech News</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-link-quality-between-epson-devices/"><u>Enhancing Link Quality Between Epson Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-m4a3gp/"><u>Movavi를 사용한 원격 모드 M4A/3GP 코네이터 - 제공자 무료</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/side-hustle-mastery-chatgpt-like-earning-avenues-pc-building-best-practices-and-tips-for-a-thriving-vintage-handheld-game-collection/"><u>Side Hustle Mastery: ChatGPT-Like Earning Avenues, PC Building Best Practices & Tips for a Thriving Vintage Handheld Game Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-of-uac-picture-taking/"><u>Streamlining the Process of UAC Picture Taking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-talk-assessing-if-claude-ai-offers-an-edge-over-chatgpt-in-chatbot-technology/"><u>Tech Talk: Assessing if Claude AI Offers an Edge Over ChatGPT in Chatbot Technology.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-optimize-your-computer-addressing-the-low-on-memory-warning-on-windows-10/"><u>Troubleshoot and Optimize Your Computer: Addressing the Low on Memory Warning on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-keyboard-fixing-non-working-directional-buttons/"><u>Troubleshoot Your Keyboard: Fixing Non-Working Directional Buttons</u></a></li>
 </ul></div>
 

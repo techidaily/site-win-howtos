@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2024-11-04T21:45:11.992Z
-updated: 2024-11-07T23:25:28.378Z
+date: 2024-11-15T17:36:07.832Z
+updated: 2024-11-18T18:29:20.408Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -52,13 +59,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -74,9 +74,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -85,10 +99,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -128,13 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -142,13 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -159,10 +159,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,17 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unleash-your-typographic-vision-in-after-effects-mastery/"><u>[New] In 2024, Unleash Your Typographic Vision in After Effects Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-google-chrome-black-screen-problem/"><u>[Solved] How to Fix Google Chrome Black Screen Problem</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-childhood-wings-5-best-drone-companions-for-2024/"><u>[Updated] Childhood Wings 5 Best Drone Companions for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>[Updated] In 2024, Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-offright-how-to-register-with-youtube/"><u>[Updated] Starting Offright How to Register With YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[Updated] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-instant-subscriber-growth-trackers/"><u>2024 Approved Instant Subscriber Growth Trackers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-ethernet-malfunctions-on-your-windows-laptop-or-desktop/"><u>Easy Fixes for Ethernet Malfunctions on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevate-audio-quality-in-podcasts-using-garageband-for-2024/"><u>Elevate Audio Quality in Podcasts Using GarageBand for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/empowerment-in-film-a-selection-of-inspiring-titles/"><u>Empowerment in Film A Selection of Inspiring Titles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-the-ultimate-fixes-for-kodis-buffering-glitches/"><u>No More Interruptions: The Ultimate Fixes for Kodi's Buffering Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-troubleshoot-and-optimize-using-system-refreshreset-features/"><u>Windows 11 Users' Guide: Troubleshoot and Optimize Using System Refresh/Reset Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-androidiphones-best-free-imagery-modification-apps-ranked/"><u>[Updated] In 2024, Android/iPhone's Best FREE Imagery Modification Apps Ranked</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds/"><u>[Updated] In 2024, Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unlocking-the-secrets-of-successful-tiktok-hashtags/"><u>2024 Approved Unlocking the Secrets of Successful TikTok Hashtags</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728504282280-windows-10/"><u>解決方法：Windows 10硬碟分割失去，如何迅速恢復</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209925826-astro-a40-microphone-not-working-heres-what-you-need-to-know/"><u>Astro A40 Microphone Not Working? Here's What You Need to Know!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-breathtaking-image-mosaics-step-by-step/"><u>Crafting Breathtaking Image Mosaics Step-by-Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-the-0xc00amage-expert-fixes-to-your-windows-error-code-problems/"><u>Decoding the 0xC00amage: Expert Fixes to Your Windows Error Code Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-samsung-evo-960-drivers-for-smooth-performance-in-windows-environments/"><u>Get the Newest Samsung Evo 960 Drivers for Smooth Performance in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hid-requirement-corrected-missing-touch-functionality-on-device/"><u>HID Requirement - Corrected Missing Touch Functionality on Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-acer-aspire-drivers-in-windows/"><u>How to Download Acer Aspire Drivers in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-orchestrating-originality-top-8-schools-for-story-innovation/"><u>In 2024, Orchestrating Originality Top 8 Schools for Story Innovation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-designing-aplus-cover-photos-for-your-insta-highlights/"><u>In 2024, Step-by-Step Designing A+ Cover Photos for Your Insta Highlights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-corsair-keyboard/"><u>Troubleshooting Guide: How To Fix a Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-usb-connection-woes/"><u>Ultimate Guide: Solving Your USB Connection Woes</u></a></li>
 </ul></div>
 

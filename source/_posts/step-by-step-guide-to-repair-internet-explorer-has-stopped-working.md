@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-11-06T21:27:47.218Z
-updated: 2024-11-07T21:57:11.268Z
+date: 2024-11-15T22:45:29.092Z
+updated: 2024-11-19T01:16:13.712Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -103,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -125,15 +125,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -148,22 +155,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,22 +199,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-fuel-growth-pioneering-biography-techniques-for-filmora-tiktok-enthusiasts/"><u>[Updated] In 2024, Fuel Growth Pioneering Biography Techniques for Filmora TikTok Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-vibrant-video-vibes-merging-melodies-with-media/"><u>2024 Approved Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-and-fixing-incompatible-input-warnings-on-your-screen-display/"><u>Deciphering and Fixing Incompatible Input Warnings on Your Screen Display</u></a></li>
-<li><a href="https://video-capture.techidaily.com/direct-recording-tool-for-chrome-os-for-2024/"><u>Direct Recording Tool for Chrome OS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-3d-device-setup-issues-a-comprehensive-solution-overview/"><u>DirectX 3D Device Setup Issues - A Comprehensive Solution Overview</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-strategies-to-resolve-division-2-not-starting-tips/"><u>Effective Strategies to Resolve Division 2 Not Starting - Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-this-device-is-missing-code-24-in-windows-11-8-and-7-systems/"><u>How to Resolve 'This Device Is Missing' (Code 24) in Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209393341-how-to-restore-astro-a40-mic-functionality-simple-solutions/"><u>How to Restore Astro A40 Mic Functionality - Simple Solutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-a-creators-guide-to-understanding-youtube-policies/"><u>In 2024, A Creator’s Guide to Understanding YouTube Policies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-wireless-connections-a-step-by-step-guide-to-activate-bluetooth-on-modern-windows/"><u>Mastering Wireless Connections: A Step-by-Step Guide to Activate Bluetooth on Modern Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211025140-remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-windows-pcs-processor-drivers/"><u>Step-by-Step Guide: Updating Your Windows PC's Processor Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-tech-troubles-resolve-your-unstable-mouse-issues-today/"><u>Tackling Tech Troubles: Resolve Your Unstable Mouse Issues Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-unresponsive-mousepad-issues-in-windows-operating-systems/"><u>Troubleshooting Guide for Unresponsive Mousepad Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-picshot-simplifying-collage-construction-for-you/"><u>Why Picshot? Simplifying Collage Construction for You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210260372-windows-users-rejoice-solve-your-bluetooth-mouse-malfunction-dilemma-today/"><u>Windows Users Rejoice: Solve Your Bluetooth Mouse Malfunction Dilemma Today!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/t-highlights-year-end-spotlight-on-top-music-reactions/"><u>[New] YT Highlights Year-End Spotlight on Top Music Reactions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/d3d-vanished-will-unreal-engine-cease/"><u>D3D Vanished, Will Unreal Engine Cease?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-and-preventing-windows-update-error-0x80240017/"><u>Expert Tips on Correcting and Preventing Windows Update Error 0X80240017</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-swift-and-easy-fresh-installation-of-windows-11/"><u>Expert Tips: Swift and Easy Fresh Installation of Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sound-distortions-and-crackles-on-your-windows-device/"><u>Fixing Sound Distortions and Crackles on Your Windows Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-u23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from U23.</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-introduction-to-basic-animation-in-graphic-design/"><u>In 2024, Introduction to Basic Animation in Graphic Design</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-note-12-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi Note 12 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728501563335-onedrive/"><u>OneDriveで失われたファイルの再同期と回復手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-displays-that-dont-support-hdcp-technology/"><u>Overcoming Issues with Displays That Don't Support HDCP Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-when-your-usb-flash-drive-wont-show-up/"><u>Quick Fix Guide for When Your USB Flash Drive Won't Show Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-spotify-closing-on-iphone-screen-lock/"><u>Solving the Problem of Spotify Closing on iPhone Screen Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-workout-routine-with-these-8-innovative-gpt-plugins-for-fitness-enthusiasts/"><u>Transform Your Workout Routine with These 8 Innovative GPT Plugins for Fitness Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-print-spooler-errors-locating-compatible-drivers-on-windows-operating-system/"><u>Troubleshooting Print Spooler Errors: Locating Compatible Drivers on Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-stop-windows-10-from-continuous-rebooting-swiftly/"><u>Unravel the Mystery: Stop Windows 10 From Continuous Rebooting Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-reducing-cpu-consumption-issues/"><u>Windows 10: Reducing CPU Consumption Issues</u></a></li>
 </ul></div>
 

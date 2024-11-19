@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2024-11-05T18:24:23.832Z
-updated: 2024-11-08T04:51:17.935Z
+date: 2024-11-15T20:56:09.643Z
+updated: 2024-11-18T23:38:17.536Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -61,16 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -92,10 +79,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -103,13 +90,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -128,6 +108,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -148,6 +135,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -157,16 +151,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -211,16 +199,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premier-silent-sound-converters/"><u>[Updated] 2024 Approved Premier Silent Sound Converters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-discreetly-discovering-content-how-to-read-instagram-stories-privately-on-pcandroidios/"><u>[Updated] Discreetly Discovering Content How to Read Instagram Stories Privately on PC/Android/iOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/abrupt-pc-shutdowns-on-win10-desktop/"><u>Abrupt PC Shutdowns on Win10 Desktop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>In 2024, Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ineteresourcenotfound-troubleshooting-fixing-common-network-resource-issues/"><u>INET_E_RESOURCE_NOT_FOUND Troubleshooting - Fixing Common Network Resource Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kb4056892-windows-11-update-wont-install-solved/"><u>KB4056892 Windows 11 Update Won't Install [SOLVED]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-your-youtube-shorts-essentials-possible-income/"><u>Monetize Your Youtube Shorts Essentials, Possible Income</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-realtek-controller-detection-issues-a-step-by-step-fix-guide/"><u>Solving Realtek Controller Detection Issues: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-success-reviving-a-failed-integrated-graphics-processor-module/"><u>Troubleshooting Success: Reviving a Failed Integrated Graphics Processor Module</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[New] In 2024, Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>[New] In 2024, Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[Updated] In 2024, 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[Updated] In 2024, Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionize-your-content-with-these-top-10-editing-strategies/"><u>[Updated] Revolutionize Your Content with These Top 10 Editing Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-functioning-huion-pen-in-just-5-steps/"><u>Fix a Non-Functioning Huion Pen in Just 5 Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-is-using-chatgpt-for-crafting-effective-individual-focused-workout-schemes-that-prioritize-safety/"><u>How Reliable Is Using ChatGPT for Crafting Effective, Individual-Focused Workout Schemes That Prioritize Safety?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-elevate-your-game-saves-with-advanced-overwatch-recording/"><u>In 2024, Elevate Your Game Saves with Advanced Overwatch Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-missing-touchscreen-controls-and-virtual-keyboard-accessibility/"><u>Resolved Issue: Missing Touchscreen Controls and Virtual Keyboard Accessibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-comprehensive-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-microsoft-store-openness-hurdles/"><u>Success Story: Overcoming Microsoft Store Openness Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-faux-fabric-of-fiction-spotting-ai-spun-stories/"><u>The Faux Fabric of Fiction: Spotting AI-Spun Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-zn-gadget-failures-usb-mouse-and-keyboard-solutions/"><u>Windows ˈzɜːn Gadget Failures: USB Mouse and Keyboard Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 11 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
 </ul></div>
 

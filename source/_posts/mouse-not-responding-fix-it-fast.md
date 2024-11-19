@@ -1,7 +1,7 @@
 ---
 title: Mouse Not Responding? Fix It Fast
-date: 2024-11-02T08:02:07.534Z
-updated: 2024-11-08T03:14:49.757Z
+date: 2024-11-16T22:37:37.481Z
+updated: 2024-11-18T19:23:46.348Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for physical issues
@@ -51,10 +51,10 @@ Depending on which mouse isn’t working:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try the function keys
@@ -73,6 +73,13 @@ Depending on which mouse isn’t working:
 1. On your keyboard, press **the**   **Windows logo key**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 2. Click the **Device Settings** tab > **your device** \> **Enable** \> **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)
 3. Hopefully this time your mouse gets unfrozen and works fine. If the problem persists, try **Fix 4** .
@@ -96,13 +103,6 @@ Depending on which mouse isn’t working:
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b569e2129fd3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -147,18 +147,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Yes** when prompted to confirm.
 
  2) In the command prompt window, type **sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -185,19 +191,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-macs-as-music-makers-a-look-inside/"><u>[New] 2024 Approved Macs as Music Makers A Look Inside</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/est-streaming-setup-leading-livestream-hardware-and-software-guide-for-2024/"><u>[New] Best Streaming Setup Leading Livestream Hardware & Software Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-best-iphone-options-for-adding-water-marks/"><u>2024 Approved Navigating the Best iPhone Options for Adding Water Marks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/breaking-boundaries-top-10-novel-facebook-memes/"><u>Breaking Boundaries Top 10 Novel Facebook Memes</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comparing-apple-tv-models-unveiling-the-distinctions-between-apple-tv-4-and-apple-tv/"><u>Comparing Apple TV Models: Unveiling the Distinctions Between Apple TV 4 and Apple TV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-11-and-wwe-2k-battlegrounds-addressing-the-feature-level-10-error/"><u>DirectX 11 and WWE 2K Battlegrounds: Addressing the Feature Level 10 Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-steps-to-refresh-intel-graphics-drivers-on-windows-7-systems/"><u>Easy Steps to Refresh Intel Graphics Drivers on Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-fix-to-logilda-dll-gone/"><u>Immediate Fix to LogiLDA DLL Gone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keys-cease-functionality/"><u>Keys Cease Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-audio-issues-resolved-reviving-your-computers-microphone/"><u>Laptop Audio Issues Resolved: Reviving Your Computer's Microphone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-incomplete-configuration-errors-solutions-to-fix-cd-and-dvd-drives-on-windows-11-code-19/"><u>Overcoming Incomplete Configuration Errors: Solutions to Fix CD and DVD Drives on Windows 11 (Code 19)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-your-privileges-on-steam-for-absent-files-easy-fixes-inside/"><u>Restore Your Privileges on Steam for Absent Files – Easy Fixes Inside!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ifying-the-process-of-deleting-youtube-files-for-2024/"><u>Simplifying the Process of Deleting YouTube Files for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-solutions-for-common-final-cut-pro-x-crash-problems/"><u>Updated In 2024, Solutions for Common Final Cut Pro X Crash Problems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-beyond-typography-decoding-the-subtext-of-snapchat-emojis/"><u>[New] In 2024, Beyond Typography Decoding the Subtext of Snapchat Emojis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leading-10-capture-applications-for-online-tutorials/"><u>[New] Leading 10 Capture Applications for Online Tutorials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-allegedly-designing-budget-friendly-augmented-reality-eyewear-and-vision-support-gear-sources-say-spotlight-on-tech-by-zdnet/"><u>Apple Allegedly Designing Budget-Friendly Augmented Reality Eyewear & Vision Support Gear, Sources Say | Spotlight on Tech by ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-audio-driver-not-installed-problem-in-modern-windows-os/"><u>Diagnosing and Repairing the 'Audio Driver Not Installed' Problem in Modern Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easydvd-x-professional-ripper-platinum-instant-high-quality-hd-video-ripping-to-h2/"><u>EasyDVD-X Professional Ripper Platinum – Instant High-Quality HD Video Ripping to H.2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-10-premier-websites-offering-quality-digital-learning-experiences/"><u>Explore 10 Premier Websites Offering Quality Digital Learning Experiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-the-ideal-camera-for-windows-hello/"><u>Finding the Ideal Camera for Windows Hello</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>In 2024, FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-live-stream-providers-with-10-top-insights/"><u>Navigating Live Stream Providers with 10 Top Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-conflicts-of-computing-resources-systems/"><u>Navigating Through Conflicts of Computing Resources Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-a59-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo A59 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211489147-small-cell-lung-cancer-sclc-is-highly-aggressive-with-rapid-growth-rates-and-early-metastasis/"><u>Small Cell Lung Cancer (SCLC) Is Highly Aggressive, with Rapid Growth Rates and Early Metastasis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-missing-device-drivers-in-windows-7-setup/"><u>Solving the Problem of Missing Device Drivers in Windows 7 Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-v1607-installation-issue-how-to-fix/"><u>Windows 10 Update v1607 Installation Issue - How to Fix?</u></a></li>
 </ul></div>
 

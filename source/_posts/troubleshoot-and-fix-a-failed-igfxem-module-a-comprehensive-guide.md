@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix a Failed IgfxEM Module - A Comprehensive Guide
-date: 2024-09-14T20:37:46.842Z
-updated: 2024-09-17T17:24:44.222Z
+date: 2024-11-14T19:58:28.002Z
+updated: 2024-11-18T20:43:35.721Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -60,6 +67,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)** Press and hold the Xbox button on the controller to sync them.
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Power cycle your console
 
@@ -85,16 +99,22 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Select the controller you are using.
 
@@ -105,10 +125,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)**  Select**Continue** .
@@ -134,5 +154,20 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes/"><u>[New] Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-prime-picks-experts-choice-of-4k-dslr-rigs-for-2024/"><u>[Updated] Prime Picks Expert's Choice of 4K DSLR Rigs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-vlcs-full-potential-an-overview-for-2024/"><u>[Updated] Unlocking VLC's Full Potential An Overview for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-wont-respond-heres-how-you-can-fix-it/"><u>Corsair Keyboard Won't Respond? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-correct-timely-responsiveness-for-services-error-code-1053/"><u>How to Address and Correct Timely Responsiveness for Services (Error Code 1053)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0xc0000098-on-windows/"><u>How to Fix Error Code 0Xc0000098 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-fingerprint-reader-on-your-lenovo-device/"><u>How to Repair a Malfunctioning Fingerprint Reader on Your Lenovo Device</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/improve-your-virtual-engagement-mastering-snap-photography/"><u>Improve Your Virtual Engagement Mastering Snap Photography</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-setbacks-in-windows-10-version-1607-upgrade-process/"><u>Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process</u></a></li>
+</ul></div>
 

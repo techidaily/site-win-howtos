@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-10-31T19:31:26.572Z
-updated: 2024-11-08T02:54:14.421Z
+date: 2024-11-17T01:19:55.313Z
+updated: 2024-11-18T18:56:23.987Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,6 +55,13 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -67,22 +87,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -108,25 +122,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -137,15 +137,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -155,13 +162,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -205,20 +205,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-reverse-image-search-facebook/"><u>2024 Approved How to Reverse Image Search Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-solving-teredo-tunneling-compatibility-issues-effectively/"><u>Addressing and Solving Teredo Tunneling Compatibility Issues Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-spark-10-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Spark 10 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-practices-for-repairing-the-issue-of-applicationexe-malfunction/"><u>Best Practices for Repairing the Issue of Application.exe Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-in-windows-11-heres-the-solution/"><u>Desktop Icon Disappearance Issue in Windows 11? Here's the Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-your-gameplay-a-guide-to-addressing-the-frame-rate-slump-in-dying-light/"><u>Enhancing Your Gameplay: A Guide to Addressing the Frame Rate Slump in Dying Light</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-v-purse-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor V Purse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-sharing-photos-and-videos-between-android-and-iphone/"><u>In 2024, Sharing Photos & Videos Between Android & iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-showdown-unpacking-differences-between-iphone-1er-pro-and-pro-max-to-inform-your-upgrade-decision-analysis/"><u>IPhone Showdown: Unpacking Differences Between iPhone 1Er Pro & Pro Max to Inform Your Upgrade Decision - Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nier-automata-on-pc-keep-freezing-heres-how-to-get-smooth-gameplay/"><u>Nier Automata on PC Keep Freezing? Here's How to Get Smooth Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-black-screen-on-your-windows-11-device/"><u>Step-by-Step Solutions for the Black Screen on Your Windows 11 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-gionee-f3-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Gionee F3 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-fixing-hp-camera-problems-with-windows-11/"><u>Troubleshooting Techniques for Fixing HP Camera Problems with Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-the-top-6-frequent-autogpt-setup-problems/"><u>Troubleshooting the Top 6 Frequent AutoGPT Setup Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>[New] In 2024, Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-conquer-common-youtube-short-setbacks/"><u>[Updated] 2024 Approved Conquer Common YouTube Short Setbacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[Updated] In 2024, Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-kinemaster-editors-roadmap-for-flawless-transitions/"><u>A Kinemaster Editor's Roadmap for Flawless Transitions</u></a></li>
+<li><a href="https://discover-data.techidaily.com/complete-guide-how-to-permanently-wipe-personal-information-from-your-windows-11-pc/"><u>Complete Guide: How to Permanently Wipe Personal Information From Your Windows 11 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-visual-experience-controlling-ambiance-on-microsoft-devices/"><u>Enhancing Visual Experience: Controlling Ambiance on Microsoft Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correct-the-user-profile-service-error-preventing-windows-1n10-login/"><u>Guide to Correct the User Profile Service Error Preventing Windows 1N/10 Login</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-pink-screen-error-on-your-windows-11-device/"><u>How to Resolve Pink Screen Error on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-fixes-to-correct-steams-disk-write-failures/"><u>Quick & Easy Fixes to Correct Steam's Disk Write Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-continuous-restart-problems-in-windows-11/"><u>Quick Fixes: Resolving the Continuous Restart Problems in Windows 11</u></a></li>
 </ul></div>
 

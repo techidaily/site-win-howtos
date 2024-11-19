@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Fix the Computer Restart Problem in Windows 10"
-date: 2024-11-05T02:44:59.228Z
-updated: 2024-11-07T20:34:37.911Z
+date: 2024-11-14T01:50:10.786Z
+updated: 2024-11-18T20:18:27.898Z
 tags:
   - win11
   - win10
@@ -47,9 +47,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -63,22 +77,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
@@ -88,13 +88,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -102,6 +95,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -117,10 +117,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -132,10 +132,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -164,20 +164,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-solving-the-problem-of-frequent-freezing-when-starting-windows-10/"><u>[Fixed] Solving the Problem of Frequent Freezing When Starting Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-oscillation-crafting-box/"><u>[New] Oscillation Crafting Box</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-integrating-youtube-autoplay-smoothly-into-your-facebook-experience/"><u>[Updated] Integrating Youtube Autoplay Smoothly Into Your Facebook Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infinite-storage-pathways-select-services-showcase/"><u>2024 Approved Infinite Storage Pathways Select Services Showcase</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-learn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>2024 Approved Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-0x800705b4-glitch-during-windows-11-updates-step-by-step-solutions/"><u>Fixing the 0X800705b4 Glitch During Windows 11 Updates: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correct-the-sound-video-lag-problem-on-youtube-using-google-chrome-and-mozilla-firefox/"><u>How to Correct the Sound-Video Lag Problem on YouTube Using Google Chrome and Mozilla Firefox</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-quickly-update-to-the-latest-displaylink-driver-for-windows-11/"><u>How to Quickly Update to the Latest DisplayLink Driver for Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-windows-10-sound-adjustment-functionality-a-step-by-step-solution/"><u>How to Restore Windows 10 Sound Adjustment Functionality: A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-11-shutdown-process-effectively/"><u>How To Speed Up Your Windows 11 Shutdown Process Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211140726-hp-keyboard-issue-fix-unresponsive-buttons-on-your-laptop-fast/"><u>HP Keyboard Issue? Fix Unresponsive Buttons on Your Laptop Fast</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-20c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 20C to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-reviving-your-built-in-webcam-on-windows-pcs/"><u>Solution Guide: Reviving Your Built-In Webcam on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unseen-networks-windows-wi-fi-security-guide/"><u>Unseen Networks: Windows Wi-Fi Security Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-the-top-methods-of-video-and-screenshots/"><u>[Updated] In 2024, Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-speech-styling-made-simple-tips-for-enriching-your-vocal-presence-affordably/"><u>[Updated] Speech Styling Made Simple Tips for Enriching Your Vocal Presence Affordably</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-and-practicing-with-creative-commons-licenses-for-2024/"><u>Decoding and Practicing with Creative Commons Licenses for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-art-of-stability-fcpx-techniques-for-smoother-video-for-2024/"><u>New The Art of Stability FCPX Techniques for Smoother Video for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-zoom-audio-enhancing-quality-two-fold-approach/"><u>Optimal Zoom Audio Enhancing Quality, Two-Fold Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathways-through-ai-your-openai-primer/"><u>Pathways Through AI: Your OpenAI Primer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-obs-recording/"><u>Resolved: How to Fix the Black Screen Problem in OBS Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-macs-webcam-in-minutes-with-these-easy-fixes/"><u>Revive Your Mac's Webcam in Minutes with These Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-oculus-tech-malfunctions-as-of-2024/"><u>Step-by-Step Solutions for Repairing Oculus Tech Malfunctions as of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-overcoming-the-notorious-2024-fatal-error-crash-in-halo-4-using-ue4-fixes/"><u>Ultimate Solution: Overcoming the Notorious 2024 Fatal Error Crash in Halo 4 Using UE4 Fixes</u></a></li>
 </ul></div>
 

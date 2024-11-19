@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience
-date: 2024-11-05T04:02:16.223Z
-updated: 2024-11-08T02:52:46.752Z
+date: 2024-11-15T00:03:19.088Z
+updated: 2024-11-18T20:20:14.134Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
@@ -42,25 +49,11 @@ Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3) Start and re-register Microsoft Installer service
 
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
 
@@ -79,10 +72,23 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -92,10 +98,10 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
@@ -107,30 +113,37 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -139,13 +152,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -166,15 +172,19 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-with-your-youtube-channel-essentials/"><u>[New] 2024 Approved Getting Started with Your YouTube Channel – Essentials</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/are-you-prepared-for-the-changed-facebook-algorithm-for-2024/"><u>Are You Prepared for the Changed Facebook Algorithm for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reduce-desktop-window-managers-gpu-drain-5-effective-solutions-for-windows-users/"><u>How To Reduce Desktop Window Manager's GPU Drain: 5 Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Smart 7 HD</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138567641-9781452534121-its-a-metaphysical-world/"><u>It's a Metaphysical World | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-connection-stability-tips-to-eliminate-the-network-lag-problem-in-pubg-battles/"><u>Mastering Connection Stability: Tips to Eliminate the Network Lag Problem in PUBG Battles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210834482-9781733235730-phit-for-life/"><u>PHIT for LIFE | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-change-rendering-api-error-2024-on-your-dota-2-game/"><u>Quick Fixes for 'Change Rendering API' Error 2024 on Your Dota 2 Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204698046-windows-11-wi-fi-not-showing-here-are-the-fixes-for-missing-connections/"><u>Windows 11 Wi-Fi Not Showing? Here Are the Fixes for Missing Connections!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-award-winning-screenplays-for-each-genre-division/"><u>[New] Award-Winning Screenplays for Each Genre Division</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-impeccable-srt-from-xml-ssa-and-ttml-files/"><u>[New] Crafting Impeccable SRT From XML, SSA & TTML Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-gear-for-capturing-skisnowboarding-moments/"><u>[Updated] In 2024, Essential Gear for Capturing Ski/Snowboarding Moments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-index-affordable-flexible-image-sources/"><u>[Updated] Premier Index Affordable, Flexible Image Sources</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cutting-the-clutter-eschewing-fb-video-ads/"><u>2024 Approved Cutting the Clutter Eschewing FB Video Ads</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p40plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P40+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-pc-with-zero-costs-chatgpt-clone-available-now-effortlessly-run-on-windows/"><u>Enhance Your PC with Zero Costs: ChatGPT Clone Available Now - Effortlessly Run on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-miracast-functionality-on-unsupported-devices-tips-for-2e24/"><u>How to Enable Miracast Functionality on Unsupported Devices - Tips for 2E24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-missing-mouse-cursor-on-your-windows-10-pc-easily/"><u>How to Fix a Missing Mouse Cursor on Your Windows 10 PC Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-echovideo-capture-toolkit-for-fb/"><u>In 2024, EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ideal-video-capturer-for-engaging-youtube-audiences/"><u>In 2024, Ideal Video Capturer for Engaging YouTube Audiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-in-place-eliminate-d3dx939dll-disappearance-troubles-once-and-for-all/"><u>Solution in Place: Eliminate d3dx9_39.dll Disappearance Troubles Once and For All</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-is-getting-ready-stuck-screen-a-step-by-step-guide/"><u>Solving 'Windows Is Getting Ready' Stuck Screen: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-common-csgo-performance-issues-and-crashes/"><u>Troubleshooting Guide for Common CS:GO Performance Issues & Crashes</u></a></li>
 </ul></div>
 

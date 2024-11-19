@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Acquiring Authorization From the Trusted Installer for System File Alterations"
-date: 2024-09-11T15:31:25.899Z
-updated: 2024-09-12T15:31:25.899Z
+date: 2024-11-12T21:01:18.756Z
+updated: 2024-11-18T21:00:19.911Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
  This method is very simple. Just press Fn + Esc on your keyboard. It has worked for some Dell laptop users. Why not have a try?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update Related Drivers
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
@@ -65,65 +72,13 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
 
@@ -134,21 +89,22 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
 
@@ -171,5 +127,21 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[New] 2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[New] 2024 Approved Sleeper Coupons in Instagram The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb-for-2024/"><u>[New] Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-superior-mac-gif-enhancer/"><u>[New] In 2024, Superior Mac GIF Enhancer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207637089-endless-cursor-heres-how-you-can-put-a-stop-to-it/"><u>Endless Cursor? Here's How You Can Put a Stop to It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-fixed-overcoming-the-parameter-is-incorrect-issue-in-loadlibrary/"><u>Error 87 Fixed: Overcoming 'The Parameter Is Incorrect' Issue in LoadLibrary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humorhub-easy-login-easy-signup/"><u>In 2024, HumorHub Easy Login, Easy Signup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-absence-of-sound-devices-error-on-a-windows-11-operating-system/"><u>Overcoming the Absence of Sound Devices Error on a Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-ai-vs-microsoft-bings-ai-face-off-on-skype-exploring-the-top-8-distinctions/"><u>Snapchat's AI Vs. Microsoft Bing's AI Face-Off on Skype: Exploring the Top 8 Distinctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-sluggish-computer-boot-up-a-step-by-step-guide/"><u>Solving the Problem of a Sluggish Computer Boot-Up: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-missing-startup-file-on-your-pc/"><u>Troubleshooting and Fixing the Missing Startup File on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-steps-when-your-pc-wont-respond/"><u>Ultimate Guide: Troubleshooting Steps When Your PC Won't Respond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+</ul></div>
 

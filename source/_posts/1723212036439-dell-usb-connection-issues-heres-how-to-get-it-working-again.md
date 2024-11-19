@@ -1,7 +1,7 @@
 ---
 title: Dell USB Connection Issues? Here's How to Get It Working Again
-date: 2024-09-11T15:31:18.192Z
-updated: 2024-09-12T15:31:18.192Z
+date: 2024-11-17T20:32:30.460Z
+updated: 2024-11-18T16:22:51.054Z
 tags:
   - win11
   - win10
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/2c6f4ee5513cb1e8b97e0cba5952234ffb447e10a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these steps
 
@@ -63,13 +50,6 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -80,20 +60,20 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
@@ -101,10 +81,10 @@ If all your USB ports aren’t working, try Step 2, below.
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
@@ -112,10 +92,10 @@ If all your USB ports aren’t working, try Step 2, below.
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
@@ -158,5 +138,26 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa/"><u>[New] Transformative Camera Movements Your Guide to Ken Burns in Camtasa</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>[Updated] In 2024, Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>2024 Approved Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/achieve-creative-excellence-on-tiktok-with-easy-border-swapping-strategies-for-2024/"><u>Achieve Creative Excellence on TikTok with Easy Border Swapping Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-0x80072efd-error-in-windows-11-with-proven-solutions/"><u>Bypassing the 0X80072EFD Error in Windows 11 with Proven Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-issues-with-your-steelseries-x70-mouse-pen-not-responding-detailed-tutorial-inside/"><u>Diagnosing and Repairing Issues with Your SteelSeries X70 Mouse Pen Not Responding – Detailed Tutorial Inside</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pros-playbook-achieving-crystal-clear-slow-motion-with-hero-10/"><u>In 2024, Pros' Playbook Achieving Crystal Clear Slow Motion with Hero 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-windows-store-cache-recovery-proven-fixes-revealed/"><u>Master the Art of Windows Store Cache Recovery - Proven Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-your-kodi-streams-say-goodbye-to-buffering/"><u>Resolved: Fix Your Kodi Streams - Say Goodbye to Buffering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-lost-touchpad-device-masters-mission/"><u>Restore Lost Touchpad: Device Master's Mission</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dell-input-devices-troubleshooting-tips-for-keyboards-and-mice-that-wont-work/"><u>Revive Your Dell Input Devices: Troubleshooting Tips for Keyboards and Mice That Won't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-overuse-of-processor-resources-in-windows-sound-card-graphs/"><u>Tackling the Overuse of Processor Resources in Windows Sound Card Graphs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-for-broadcasting-gopro-videos-to-periscope-and-facebook-for-2024/"><u>The Ultimate Guide for Broadcasting GoPro Videos to Periscope & Facebook for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-tips-for-seamless-transformation-of-handbrake-iso-into-mp4mkv-formats/"><u>Troubleshooting Tips for Seamless Transformation of HandBrake ISO Into MP4/MKV Formats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-zte-nubia-z60-ultra-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for ZTE Nubia Z60 Ultra Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>Updated In 2024, Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winupdate-trouble-learn-how-to-restart-and-resolve-issues-quickly/"><u>WinUpdate Trouble? Learn How to Restart and Resolve Issues Quickly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here’s the Fix</u></a></li>
+</ul></div>
 

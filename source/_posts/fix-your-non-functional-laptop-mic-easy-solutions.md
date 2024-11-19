@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2024-11-06T21:44:16.633Z
-updated: 2024-11-08T01:02:45.987Z
+date: 2024-11-15T00:05:31.263Z
+updated: 2024-11-18T22:26:48.142Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  3) Right-click on**Windows Management Instrumentation** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Start** button to start it if it’s not running and set the Startup type to**Automatic** .
 
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on**LogMeIn Hamachi Tunneling Engine** and click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap47-1.jpg)
@@ -99,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Open the**File Explorer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
@@ -147,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  1) Click the Windows start button (if you hide the search field), type**control panel** in the search box and open the**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap66.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
 
@@ -198,10 +191,10 @@ exit
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
@@ -209,16 +202,16 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Create Task** under the Actions menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap81.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Under the**General** tab, set a name for the task.  
  Then go down to Security options to check it’s**Run only when the user is logged on** .  
@@ -233,6 +226,13 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap82.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Click the**Actions** tab and click the**New…** button.
 
  11) Set Action into**Start a program** .  
@@ -244,6 +244,13 @@ exit
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  13) Next time you start your computer, Hamachi will restart the service automatically.
 
@@ -276,21 +283,14 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/04/network1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -314,19 +314,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-sound-surprises-10-androidios-audio-twisters/"><u>[Updated] 2024 Approved Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-beyond-ustream-live-streaming-choices-for-2024/"><u>[Updated] Beyond Ustream Live Streaming Choices for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-delightful-digests-a-list-of-top-food-channels-for-2024/"><u>[Updated] Delightful Digests A List of Top Food Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-toolkit-making-compelling-youtube-trailers-for-2024/"><u>[Updated] Filmmaker's Toolkit Making Compelling YouTube Trailers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide-for-2024/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-plans-for-home-based-robot-assistants-discover-the-future-developments-insights/"><u>Apple Unveils Plans for Home-Based Robot Assistants – Discover the Future Developments | Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-in-windows-11-solution-steps/"><u>Desktop Icon Disappearance Issue in Windows 11 - Solution Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fix-for-non-functional-volume-keys-in-windows-11-operating-system/"><u>Easy Fix for Non-Functional Volume Keys in Windows 11 Operating System</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-hidden-gems-instagrams-download-secrets/"><u>In 2024, Unveiling Hidden Gems Instagram's Download Secrets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pubg-launch-a-step-by-step-guide-for-seamless-play-in-the-2024-version/"><u>Mastering PUBG Launch: A Step-by-Step Guide for Seamless Play in the 2024 Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-update-error-code-0x8024401c-on-windows-11/"><u>Resolving Windows Update Error Code 0X8024401C on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-the-bluetooth-symbol-on-your-windows-10-system-a-step-by-step-guide/"><u>Restoring the Bluetooth Symbol on Your Windows 10 System: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-link-your-samsung-infrared-remote-control-and-tv-easily/"><u>Ultimate Tutorial: How to Link Your Samsung Infrared Remote Control and TV Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-visualization-for-win11-users/"><u>[Updated] Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-step-by-step-instructions-to-update-or-fresh-install-canon-pixma-ip110-drivers-on-windows-systems/"><u>Complete Step-by-Step Instructions to Update or Fresh Install Canon Pixma IP110 Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crack-the-code-to-update-success-a-user-friendly-guide-for-eliminating-error-0x8024002e-in-windows-updates/"><u>Crack the Code to Update Success: A User-Friendly Guide for Eliminating Error 0X8024002E in Windows Updates</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effective-data-purging-practices-and-knowledge-shared-by-stellar-authorities/"><u>Effective Data Purging Practices and Knowledge Shared by Stellar Authorities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-troubleshooting-for-feature-level-100-error-in-wwe-2k-battlegrounds-gameplay/"><u>Effective Troubleshooting for Feature Level 10.0 Error in WWE 2K Battlegrounds Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-webpage-visibility-challenges-with-ease/"><u>Handling Webpage Visibility Challenges with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2010 files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-chromebooks-ultimate-sniping-software-our-5-favorites/"><u>In 2024, Chromebook's Ultimate Sniping Software Our 5 Favorites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-mastery-of-ipad-video-recording/"><u>In 2024, Easy Mastery of iPad Video Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-yt-sessions-on-phone-for-newbies-without-a-million-viewers/"><u>In 2024, Live YT Sessions on Phone for Newbies without a Million Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-sims-4-not-opening-a-comprehensive-guide/"><u>Overcoming the Challenge of Sims 4 Not Opening – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-problems-with-the-microsoft-wireless-display-adapter-on-windows-10-computers/"><u>Resolving Connection Problems with the Microsoft Wireless Display Adapter on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-in-windows-10-comprehensive-fixes/"><u>Resolving svchost.exe's Excessive CPU Drain in Windows 10 - Comprehensive Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96261014-9781788172790-shamanism-made-easy/"><u>Shamanism Made Easy | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/shortcut-to-success-the-top-5-youtube-link-trimming-apps/"><u>Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-1110-audio-glitches-successfully/"><u>Solving Windows 11/10 Audio Glitches Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-setup-successful-yet-missing-interaction/"><u>System Setup Successful, Yet Missing Interaction</u></a></li>
 </ul></div>
 

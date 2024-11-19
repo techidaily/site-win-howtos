@@ -1,7 +1,7 @@
 ---
 title: "How to Silence a Boisterous PS4 System: A Comprehensive Guide"
-date: 2024-11-07T04:40:09.291Z
-updated: 2024-11-07T20:26:46.488Z
+date: 2024-11-17T19:00:24.470Z
+updated: 2024-11-18T19:59:17.478Z
 tags:
   - win11
   - win10
@@ -33,18 +33,18 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to hard reset your Xbox One
 
 1) Press and hold the Xbox Logo on your console until the console shuts off. 2) Wait for a while then turn your console back on by pressing the same Xbox button on your console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to hard reset your modem
 
@@ -52,13 +52,20 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
@@ -66,13 +73,6 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 The IP settings and DNS settings could also have an effect on the connection between your Xbox One and Xbox Live. Follow the steps here to correct it: 1) Click the Settings icon on left side of your Xbox Live. Then click**All settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Click**Network**. Then select**Network settings**on the right pane.
 
@@ -86,29 +86,22 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 Now try to connect your Xbox one to Xbox Live.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
@@ -116,27 +109,33 @@ Now try to connect your Xbox one to Xbox Live.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
 
@@ -147,6 +146,13 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After updating the drivers, please restart your computer to make the new drivers take effect.
 
@@ -167,19 +173,22 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-creating-accessible-multilingual-content-on-igtv/"><u>[New] In 2024, Creating Accessible Multilingual Content on IGTV</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streaming-screenshots-share-without-twitting-for-2024/"><u>[New] Streaming Screenshots Share Without Twitting for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/play-game-induced-system-resets/"><u>[PLAY] Game-Induced System Resets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-sx70s-zoom-unleashed-a-perfect-choice/"><u>Canon SX70's Zoom Unleashed: A Perfect Choice?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-security-prompts-navigating-user-privilege-levels-for-task-execution-on-windows-systems/"><u>Dealing with Security Prompts: Navigating User Privilege Levels for Task Execution on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unresponsive-keys-in-windows-10-a-comprehensive-guide/"><u>How To Overcome Unresponsive Keys in Windows 10 – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-crystalclear-screenshot-on-w10/"><u>In 2024, CrystalClear Screenshot on W10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-streamlining-podcast-feed-creation-techniques/"><u>In 2024, Streamlining Podcast Feed Creation Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-deals-apple-m3-macbook-air-now-at-a-250-discount-on-amazon/"><u>October Prime Deals: Apple M3 MacBook Air Now at a $250 Discount on Amazon</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-performance-to-stop-stuttering-on-gta-5/"><u>Optimizing Performance to Stop Stuttering on GTA 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-plugin-load-failures-and-missing-game-files/"><u>Quick Fixes for Windows Plugin Load Failures and Missing Game Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-now-your-device-can-use-miracast-with-new-graphics-drivers/"><u>Resolved! Now Your Device Can Use Miracast with New Graphics Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-missing-issue-a-step-by-step-guide/"><u>Resolving the d3dxt9_39.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-abandoned-ending-my-discord-service/"><u>[New] Abandoned Ending My Discord Service</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-screens-a-laptops-webcam-journey-for-2024/"><u>[New] Capturing Screens A Laptop's Webcam Journey for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-5-best-voice-recorders-for-mac-devices/"><u>[Updated] 2024 Approved 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-a-guide-to-essential-asmr-video-facts/"><u>[Updated] 2024 Approved A Guide to Essential ASMR Video Facts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-your-channel-info-a-template-approach/"><u>2024 Approved Perfect Your Channel Info A Template Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-and-tricks-for-resolving-windows-10-taskbar-freeze-issues/"><u>Expert Tips and Tricks for Resolving Windows 10 Taskbar Freeze Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-effortless-csgo-stability-and-no-more-unexpected-shutdowns/"><u>Expert Tips for Effortless CS:GO Stability and No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-not-available-issue-on-system-profile-windows/"><u>Fixing the 'Desktop Not Available' Issue on System Profile - Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-14-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-techniques-to-reformat-macscreenshot-extensions/"><u>In 2024, Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-zooms-full-potential-with-essential-3-methods/"><u>In 2024, Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-in-windows-11-overcoming-common-problem-resetting-errors/"><u>Mastering PC Restoration in Windows 11: Overcoming Common Problem Resetting Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-prompt-fixes-for-error-1053-non-responsive-services/"><u>Resolved: Prompt Fixes for 'Error 1053' - Non-Responsive Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-microsoft-wi-fi-display-adapter-on-windows-11/"><u>Troubleshooting Guide: Fixing Connection Issues with Microsoft Wi-Fi Display Adapter on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-wireless-potential-easy-bluetooth-setup-instructions-for-win11-and-win10-users/"><u>Unlocking Wireless Potential: Easy Bluetooth Setup Instructions for Win11 & Win10 Users</u></a></li>
 </ul></div>
 

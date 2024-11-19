@@ -1,7 +1,7 @@
 ---
 title: "Banish Bootlessness: Solutions for Your Computer's Unplanned Shutdowns"
-date: 2024-09-14T00:26:03.488Z
-updated: 2024-09-17T18:30:25.057Z
+date: 2024-11-15T23:09:34.990Z
+updated: 2024-11-19T00:23:52.055Z
 tags:
   - win11
   - win10
@@ -67,6 +67,14 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
@@ -98,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
@@ -119,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -134,14 +142,22 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -153,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -162,10 +185,10 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
@@ -189,5 +212,26 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/omprehensive-guide-to-crafting-engaging-youtube-outros/"><u>[New] Comprehensive Guide to Crafting Engaging YouTube Outros</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-crimson-glitch-fixing-common-windows-10-display-issues/"><u>Beat the Crimson Glitch: Fixing Common Windows 10 Display Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-loud-fan-problems-on-your-ps4-for-a-peaceful-gaming-experience/"><u>Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-fix-lenovo-functional-key-failures-step-by-step-tips/"><u>Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ffmpeg-and-the-art-of-audio-preservation-for-2024/"><u>FFmpeg and the Art of Audio Preservation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-hp-laptop-mouse-pad-not-working-issue/"><u>Fix HP Laptop Mouse Pad Not Working Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4-for-2024/"><u>Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-mini-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 mini Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lsa-defense-back-online-secure-your-computer-today/"><u>LSA Defense Back Online: Secure Your Computer Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-windows-11-update-error-understanding-and-solving-0x80240034/"><u>Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-flight-a-complete-review-of-the-dji-inspire-2-drone/"><u>Mastering Flight A Complete Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-civilization-vi-compatibility-challenges-with-your-gpu/"><u>Overcoming Civilization VI Compatibility Challenges with Your GPU</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-constant-recycle-problem-on-your-windows-11-pc/"><u>Resolving the Constant Recycle Problem on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revive-your-chatgpt-chats-proven-methods-for-regaining-deleted-history/"><u>Revive Your ChatGPT Chats: Proven Methods for Regaining Deleted History</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-what-to-do-when-ie-fails-to-load-pages/"><u>Solution Guide: What To Do When IE Fails to Load Pages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-7-mp4-multipliers-seamlessly-fuse-multiple-videos-into-a-single-file/"><u>Top 7 MP4 Multipliers: Seamlessly Fuse Multiple Videos Into a Single File</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-digital-assets-top-7-tools-to-create-nfts/"><u>Transform Your Digital Assets - Top 7 Tools to Create NFTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-feature-bounty-the-detailed-reviews-for-the-samsung-gear-s3-frontier-smartwatch/"><u>Unboxing and Testing the Feature Bounty: The Detailed Reviews for the Samsung Gear S^3 Frontier Smartwatch</u></a></li>
+</ul></div>
 
